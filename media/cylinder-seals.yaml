@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: cylinder-seals
+file: cylinder-seals.jpg
+title: Cylinder seal king Louvre AO6620.jpg
+caption: >-
+  Limestone cylinder seal and its impression showing the priest-king feeding the sacred herd,
+  Uruk period, c. 3200 BCE (Musée du Louvre, Paris).
+description: >-
+  Cylinder seal and sealing impression: the king-priest and his acolyte feeding the sacred
+  herd. White limestone, Uruk period, ca. 3200 BC.
+creator: null
+credit_line: Marie-Lan Nguyen (2006)
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Unknown author. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cylinder_seal_king_Louvre_AO6620.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/7/77/Cylinder_seal_king_Louvre_AO6620.jpg
+  sha1: b15b6ee5f6fbab4f5729bb7db6c2702c3310ec84
+  original_size: [2000, 1100]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×880 px
+size: [1600, 880]
+depicts: [cylinder-seals]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

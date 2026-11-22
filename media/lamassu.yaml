@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: lamassu
+file: lamassu.jpg
+title: Human-headed Winged Bulls Gate - Louvre.jpg
+caption: >-
+  Human-headed winged bulls (lamassu) guarding a gateway from Dur-Sharrukin (Khorsabad), late
+  8th century BCE (Musée du Louvre, Paris).
+description: Human-headed winged bulls guarding a door in Dur-Sharrukin.
+creator: Poulpy
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Poulpy, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Human-headed_Winged_Bulls_Gate_-_Louvre.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/ab/Human-headed_Winged_Bulls_Gate_-_Louvre.jpg
+  sha1: 3374590e5eb819244c39d3ffb76885150cbb37d8
+  original_size: [4500, 4500]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1600 px
+size: [1600, 1600]
+depicts: [cherubim, lamassu]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

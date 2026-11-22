@@ -1,0 +1,84 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: beersheba
+title: Beersheba
+aliases: [Tel Beersheba, Tell es-Sebaʿ, Beer-sheba]
+type: site
+cultures: [judahite]
+scope: >-
+  The Iron Age Judahite town at Tel Beersheba in the northern Negev and the biblical traditions
+  about Beersheba as a patriarchal and cultic site. Covers the planned Iron II town, its water
+  system and storehouses, and the dismantled horned altar.
+passages:
+- ref: Gen 21:22-33
+  rel: setting
+  note: Abraham and Abimelech's oath; naming of Beersheba
+- ref: Gen 26:23-33
+  rel: setting
+  note: Isaac's altar, covenant and well at Beersheba
+- ref: Gen 46:1-5
+  rel: setting
+  note: Jacob sacrifices at Beersheba before going to Egypt
+- ref: 1Sam 8:2
+  rel: setting
+  note: Samuel's sons judge at Beersheba
+- ref: 1Kgs 19:3
+  rel: setting
+  note: Elijah flees to Beersheba
+- ref: 2Kgs 18:4
+  rel: realia
+  disputed: true
+  note: Aharoni linked the dismantled horned altar to Hezekiah's reform
+- ref: 2Kgs 23:8
+  rel: setting
+  note: Josiah defiles the high places 'from Geba to Beersheba'
+- ref: Amos 5:5
+  rel: setting
+  note: '''Do not cross over to Beersheba'''
+- ref: Amos 8:14
+  rel: setting
+  note: Oath by 'the way of Beersheba'
+related: [horned-altars, cult-reforms-archaeology, altars, hezekiah, oaths-and-oath-formulas,
+  four-room-house, cisterns-and-water-systems, dan]
+media:
+- id: beersheba
+  role: primary
+- id: altars-2
+  role: gallery
+external:
+  wikipedia: Tel Be'er Sheva
+  wikidata: Q534596
+editorial:
+  author_notes:
+  - >-
+    Distinguish Tel Beersheba from the modern city. Settlement begins in Iron I, so there
+    are no remains from a 'patriarchal' period. The Genesis traditions reflect a later setting.
+  - >-
+    Stratum II is a planned administrative town, most often thought destroyed in 701. Its
+    date and the date of its destruction have been debated (Aharoni, Herzog, Singer-Avitz).
+  - >-
+    The horned altar was reassembled from ashlars reused in a storehouse wall. Its original
+    location (a temple has been proposed but not found) and the link to Hezekiah are inferences.
+  sources_to_check: [NEAEHL, 'Aharoni (ed.), Beer-Sheba I (1973)']
+  image_query: Tel Beersheba horned altar
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates from Wikidata Q534596 (verify).
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 31.24472
+  lon: 34.84083
+  source: wikidata:Q534596

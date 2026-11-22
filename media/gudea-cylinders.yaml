@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: gudea-cylinders
+file: gudea-cylinders.jpg
+title: Cylindres de Gudea - Musée du Louvre Antiquités orientales AO MNB 1511 ; MNB 1512.jpg
+caption: >-
+  Gudea Cylinders A and B, clay, from Girsu, c. 2120 BCE (Musée du Louvre, MNB 1511 and MNB
+  1512).
+description: null
+creator: Shonagon
+credit_line: Shonagon
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Shonagon. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Cylindres_de_Gudea_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_orientales_AO_MNB_1511_;_MNB_1512.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/d6/Cylindres_de_Gudea_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_orientales_AO_MNB_1511_%3B_MNB_1512.jpg
+  sha1: 25c91008fd2eabe9feef4fdb61baca79bdf9d19c
+  original_size: [3336, 2720]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1304 px
+size: [1600, 1304]
+depicts: [gudea-cylinders, temple-building-accounts]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

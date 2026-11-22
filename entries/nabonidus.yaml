@@ -1,0 +1,76 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: nabonidus
+title: Nabonidus
+type: person
+cultures: [babylonian]
+date:
+  from: -556
+  to: -539
+  display: 556–539 BCE
+scope: >-
+  The last king of the Neo-Babylonian empire, devotee of the moon god Sin, who spent about
+  ten years at Tayma in Arabia while his son Belshazzar governed Babylon. Traditions about
+  him underlie parts of Daniel.
+passages:
+- ref: Dan 4:28-37
+  rel: parallel
+  disputed: true
+  note: Royal madness and seven 'times' away from society; cf. Nabonidus at Tayma (MT 4:25-34)
+- ref: Dan 5:2, 11, 18
+  rel: attests
+  note: Belshazzar called son of Nebuchadnezzar, though historically son of Nabonidus
+- ref: Dan 5:7, 16, 29
+  rel: setting
+  note: '''Third ruler in the kingdom'', perhaps reflecting Belshazzar''s secondary rank'
+- ref: Bar 1:11-12
+  rel: attests
+  note: Belshazzar named as son of Nebuchadnezzar
+- ref: Isa 46:1-2
+  rel: setting
+  note: Babylonian gods carried off at the fall of Babylon
+related: [belshazzar, prayer-of-nabonidus, nabonidus-chronicle, verse-account-of-nabonidus,
+  nabonidus-cylinders, cyrus-cylinder, sin-moon-god, harran]
+media:
+- id: sin-moon-god
+  role: gallery
+- id: nabonidus
+  role: primary
+- id: nabonidus-2
+  role: gallery
+external:
+  wikipedia: Nabonidus
+  wikidata: Q239414
+editorial:
+  author_notes:
+  - >-
+    The Prayer of Nabonidus (4Q242) describes a king afflicted for seven years at Tayma and
+    healed by a Jewish diviner; it is the main evidence that Dan 4 draws on Nabonidus traditions.
+  - >-
+    Cyrus's propaganda (Cyrus Cylinder, Verse Account) portrays him as impious; treat it as
+    hostile.
+  - His mother Adad-guppi's autobiography from Harran illuminates his devotion to Sin.
+  sources_to_check:
+  - Beaulieu, The Reign of Nabonidus, King of Babylon 556-539 B.C. (YNER 10, 1989)
+  - Schaudig, Die Inschriften Nabonids von Babylon und Kyros' des Großen (AOAT 256, 2001)
+  - ABC 7
+  image_query: Nabonidus stele British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Dan 5:2, 11, 18: removed disputed flag (Belshazzar's
+    parentage is not contested)
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

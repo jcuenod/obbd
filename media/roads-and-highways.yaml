@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: roads-and-highways
+file: roads-and-highways.png
+title: Ancient Levant routes.png
+caption: >-
+  Modern map of the main ancient routes of the Levant, with the Via Maris and the King's Highway.
+description: >-
+  The en:Via Maris (purple), King's Highway (in red), and other ancient en:Levantine en:trade
+  routes, c. en:1300 BCE en:Category:Historical maps by User:Briangotts
+creator: Briangotts at English Wikipedia
+credit_line: Transferred from en.wikipedia to Commons.
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: http://creativecommons.org/licenses/by-sa/3.0/
+attribution: Briangotts at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ancient_Levant_routes.png
+  original_url: https://upload.wikimedia.org/wikipedia/commons/e/ed/Ancient_Levant_routes.png
+  sha1: ad3cbf9912b653b9346af56310a1098f802ee960
+  original_size: [919, 622]
+  retrieved: '2026-11-20'
+derivative: null
+size: [919, 622]
+depicts: [roads-and-highways]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

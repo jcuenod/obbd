@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: apology-of-hattusili
+file: apology-of-hattusili.jpg
+title: Apologie de Hattusili III.jpg
+caption: Clay tablet with the Apology of Ḫattušili III (KUB 1.1), from Ḫattuša, 13th century
+  BCE.
+description: Apology of Hattusili III (KUB I 1).
+creator: Edouard d'Erasme
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Edouard d'Erasme, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Apologie_de_Hattusili_III.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/f/f4/Apologie_de_Hattusili_III.jpg
+  sha1: 3a49f2d4f135ccd623275dfd2c7eec0d25e06509
+  original_size: [2116, 2638]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1283×1600 px
+size: [1283, 1600]
+depicts: [apology-of-hattusili]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

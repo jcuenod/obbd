@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: apkallu-reliefs-3
+file: apkallu-reliefs-3.jpg
+title: Plate 6 fish god (A second series of the monuments of Nineveh) 1853 (cropped).jpg
+caption: >-
+  Fish-cloaked figure, probably an apkallu, from a Nimrud relief, engraving in Layard's A
+  Second Series of the Monuments of Nineveh (1853).
+description: >-
+  A probable image of an Apkallu For context this bas-relief was located next to the one given
+  at File:Chaos_Monster_and_Sun_God.png - for more details including sources and further reading
+  see that page
+creator: unknown - drawing from ancient bas relief
+credit_line: >-
+  A plate from the book A second series of the monuments of Nineveh: including bas-reliefs
+  from the Palace of Sennacherib and bronzes from the ruins of Nimroud ; from drawings made
+  on the spot, during a second expedition to Assyria — London, 1853 Layard, Austen Henry [Editor]
+  Cropped version of plate 6 Fish God
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: unknown - drawing from ancient bas relief. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Plate_6_fish_god_(A_second_series_of_the_monuments_of_Nineveh)_1853_(cropped).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/10/Plate_6_fish_god_%28A_second_series_of_the_monuments_of_Nineveh%29_1853_%28cropped%29.jpg
+  sha1: 60fb230ea459123a4226107bc7f0dbcb56e88865
+  original_size: [548, 1243]
+  retrieved: '2026-11-20'
+derivative: null
+size: [548, 1243]
+depicts: [apkallu-reliefs]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

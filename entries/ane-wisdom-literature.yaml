@@ -1,0 +1,86 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ane-wisdom-literature
+title: Wisdom Literature in the Ancient Near East
+aliases: [Wisdom literature]
+type: concept
+cultures: [ane, egyptian, babylonian, sumerian]
+scope: >-
+  Egyptian, Mesopotamian and Levantine instructions, proverb collections, dialogues and reflective
+  texts as the international context of Proverbs, Job and Ecclesiastes. This is a hub entry
+  linking to the individual texts, and it covers the debate over 'wisdom literature' as a
+  category.
+passages:
+- ref: 1Kgs 4:29-34
+  rel: concept
+  note: Solomon's wisdom surpasses that of the east and Egypt (MT 5:9-14)
+- ref: Prov 1:8-9
+  rel: form
+  note: Instruction from father (and mother) to son, as in Egyptian sebayt
+- ref: Prov 22:17-24:22
+  rel: parallel
+  note: '''Thirty sayings'' closely paralleling the Instruction of Amenemope'
+- ref: Prov 25:1
+  rel: practice
+  note: 'Proverbs copied by the men of Hezekiah: court scribal setting'
+- ref: Prov 30:1
+  rel: concept
+  note: Words of Agur son of Jakeh, often taken as a non-Israelite (Massaite) sage
+- ref: Prov 31:1
+  rel: concept
+  note: Words of King Lemuel of Massa, taught by his mother
+- ref: Job 1:1
+  rel: setting
+  note: 'Job of Uz: a non-Israelite wise man'
+- ref: Jer 49:7
+  rel: concept
+  note: '''Is there no longer wisdom in Teman?'''
+- ref: Eccl 9:7-9
+  rel: parallel
+  note: Enjoy bread, wine and family; cf. Siduri's advice in Gilgamesh
+- ref: Gen 41:8
+  rel: practice
+  note: Egypt's magicians and wise men
+related: [instruction-of-amenemope, ahiqar, babylonian-theodicy, ludlul-bel-nemeqi, instruction-of-ptahhotep,
+  dialogue-of-pessimism, maat, scribes-and-scribal-education]
+media:
+- id: ane-wisdom-literature
+  role: primary
+external:
+  wikipedia: Wisdom literature
+  wikidata: Q546729
+editorial:
+  author_notes:
+  - >-
+    Prov 22:17–24:22 depends on Amenemope, which most scholars accept (since Erman, 1924).
+    The route of transmission and the reading šlšwm 'thirty' in 22:20 remain discussed.
+  - >-
+    'Wisdom literature' is a modern category. Note the critique by W. Kynes (An Obituary for
+    'Wisdom Literature', 2019) and the instability of the genre label for ancient Near Eastern
+    texts (cf. Lambert's caveat).
+  - >-
+    Key comparanda: Sumerian proverb collections and Shuruppak; Babylonian Theodicy and Ludlul
+    (Job); Ahiqar (Elephantine, 5th c. copy); Egyptian instructions (Ptahhotep, Amenemope).
+  - Whether Maat lies behind personified Wisdom (Prov 8) is debated.
+  sources_to_check:
+  - W. G. Lambert, Babylonian Wisdom Literature (Oxford, 1960)
+  image_query: Instruction of Amenemope papyrus British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Prov 30:1 and 31:1 rel attests to concept; Agur
+    note hedged
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

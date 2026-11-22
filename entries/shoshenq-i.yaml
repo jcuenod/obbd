@@ -1,0 +1,71 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: shoshenq-i
+title: Shoshenq I (Shishak)
+aliases: [Shishak, Sheshonq I, Sheshonk I]
+type: person
+cultures: [egyptian]
+date:
+  from: -945
+  to: -924
+  circa: true
+  display: c. 945–924 BCE
+scope: >-
+  Founder of the Libyan Twenty-second Dynasty and biblical Shishak. He sheltered Jeroboam
+  and, late in his reign, campaigned in Judah and Israel. The Bubastite Portal at Karnak and
+  a stele fragment from Megiddo commemorate the campaign.
+passages:
+- ref: 1Kgs 11:40
+  rel: attests
+  note: Jeroboam flees to Shishak, king of Egypt
+- ref: 1Kgs 14:25-26
+  rel: event
+  note: Shishak comes against Jerusalem in Rehoboam's fifth year and takes the treasures
+- ref: 2Chr 12:2-9
+  rel: event
+  note: Chronicler's expanded account of the invasion
+- ref: 2Chr 12:3
+  rel: attests
+  note: Libyans, Sukkiim, and Cushites in Shishak's army
+related: [bubastite-portal, megiddo, solomon, chronology-of-kings, low-chronology-debate,
+  tanis, jerusalem]
+media:
+- id: bubastite-portal
+  role: gallery
+- id: shoshenq-i
+  role: gallery
+external:
+  wikipedia: Shoshenq I
+  wikidata: Q311811
+editorial:
+  author_notes:
+  - >-
+    The equation Shishak = Shoshenq I is accepted almost universally. Revisionist denials
+    (Velikovsky; Rohl's New Chronology) are not accepted by scholars.
+  - >-
+    The campaign (c. 925) is a principal synchronism for the chronology of the divided monarchy.
+    Its absolute date depends on Egyptian Third Intermediate Period chronology, so note the
+    uncertainty of several years.
+  - >-
+    The Megiddo stele fragment, found in the Chicago excavations, confirms his presence at
+    Megiddo. Its stratigraphic context is poor.
+  - >-
+    Sukkiim is often linked to the Egyptian tktn (Libyan auxiliaries or scouts). This is plausible
+    but not certain.
+  sources_to_check:
+  - Ritner, The Libyan Anarchy (SBL Writings from the Ancient World, 2009)
+  - Kitchen, The Third Intermediate Period in Egypt (1100-650 BC)
+  image_query: Shoshenq I relief Karnak
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

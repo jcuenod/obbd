@@ -1,0 +1,87 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: oaths-and-oath-formulas
+title: Oaths and Oath Formulas
+aliases: [Swearing, Self-curse formula]
+type: practice
+cultures: [ane]
+scope: >-
+  Oath-taking in ancient Israel and the ancient Near East: oaths by the life of a god or king,
+  conditional self-curses, gestures such as raising the hand or placing it under the thigh,
+  and exculpatory oaths in legal procedure. Covenant and treaty oaths are covered in separate
+  entries.
+passages:
+- ref: Gen 14:22-23
+  rel: practice
+  note: Abram raises his hand to God Most High
+- ref: Gen 24:2-9
+  rel: practice
+  note: Hand under the thigh, probably touching the genitals
+- ref: Gen 31:53
+  rel: practice
+  note: Jacob swears by the Fear of Isaac
+- ref: Exod 22:10-11
+  rel: practice
+  note: '''Oath before YHWH'' to settle a deposit dispute (MT 22:9-10)'
+- ref: Num 5:19-22
+  rel: practice
+  note: Oath with curse in the suspected-adultery ritual
+- ref: Ruth 1:17
+  rel: language
+  note: '''May YHWH do thus to me, and more as well'': elliptical self-curse'
+- ref: 1Sam 14:39, 44-45
+  rel: language
+  note: '''As YHWH lives'' and the self-curse formula'
+- ref: 2Sam 3:35
+  rel: language
+  note: David's oath not to eat before sunset
+- ref: Deut 32:40
+  rel: practice
+  note: YHWH lifts his hand to heaven and swears
+- ref: Amos 8:14
+  rel: practice
+  note: >-
+    Swearing by the 'guilt' (often emended to Ashima) of Samaria and 'as your god lives, O
+    Dan'
+- ref: Ezek 17:13-19
+  rel: practice
+  note: Zedekiah despised the oath sworn to the Babylonian king
+- ref: Matt 5:33-37
+  rel: polemic
+  note: '''Do not swear at all'''
+related: [blessings-and-curses, covenant-cutting-ceremony, trial-by-ordeal, code-of-hammurabi,
+  vows-and-votive-offerings, covenant-and-treaty-form]
+media: []
+external:
+  wikipedia: Oath
+  wikidata: Q381045
+editorial:
+  author_notes:
+  - >-
+    Explain the elliptical self-curse syntax: ʾim 'if' introduces a negative oath and ʾim
+    lōʾ 'if not' a positive one, with the curse left unstated.
+  - >-
+    Akkadian parallels include oaths 'by the life (nīš) of the god/king' and exculpatory oaths
+    'before the god' in Old Babylonian law collections (cf. Exod 22:10-11).
+  - >-
+    The hand under the thigh (genitals) probably invokes progeny or ancestors. Raising the
+    hand (Gen 14:22; Exod 6:8; Deut 32:40) is the usual oath gesture.
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Gen 24:2-9 note softened; Amos 8:14 note flags
+    Ashima as an emendation
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

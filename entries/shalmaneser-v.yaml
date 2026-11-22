@@ -1,0 +1,57 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: shalmaneser-v
+title: Shalmaneser V
+type: person
+cultures: [assyrian]
+date:
+  from: -727
+  to: -722
+  display: 727–722 BCE
+scope: >-
+  Son and successor of Tiglath-pileser III, king of Assyria for five years. The Bible credits
+  him with imprisoning Hoshea and besieging Samaria for three years; few of his own inscriptions
+  survive.
+passages:
+- ref: 2Kgs 17:3-6
+  rel: event
+  note: Hoshea's tribute, rebellion and imprisonment; siege of Samaria
+- ref: 2Kgs 18:9-11
+  rel: event
+  note: Siege begun in Hezekiah's fourth year, Samaria taken after three years
+- ref: Hos 10:14
+  rel: attests
+  disputed: true
+  note: '''As Shalman destroyed Beth-arbel''; identification with Shalmaneser V uncertain'
+related: [fall-of-samaria, hoshea, sargon-ii, tiglath-pileser-iii, samaria, babylonian-chronicles]
+media:
+- id: shalmaneser-v
+  role: primary
+external:
+  wikipedia: Shalmaneser V
+  wikidata: Q310640
+editorial:
+  author_notes:
+  - >-
+    The Babylonian Chronicle says he 'ravaged Šamaraʾin'; most read this as Samaria, though
+    a minority favour another town (cf. Sibraim).
+  - >-
+    Menander (via Josephus, Ant. 9.283-287) records a siege of Tyre by Shalmaneser, probably
+    this king.
+  - Bronze lion weights inscribed with his name are among his few surviving objects.
+  - The Shalman of Hos 10:14 may be a Moabite king (Salamanu) instead; present both options.
+  sources_to_check: [RINAP 1 (Tadmor and Yamada 2011), ABC 1]
+  image_query: Shalmaneser V lion weight British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

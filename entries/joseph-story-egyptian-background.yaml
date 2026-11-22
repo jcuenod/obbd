@@ -1,0 +1,91 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: joseph-story-egyptian-background
+title: The Joseph Story and Egypt
+aliases: [Joseph narrative and Egypt, Joseph novella]
+type: concept
+cultures: [egyptian, hebrew]
+scope: >-
+  The Egyptian colouring of the Joseph story (Gen 37-50): court titles and customs, dreams
+  and their interpreters, investiture, famine and grain storage, land tenure, embalming and
+  the ideal lifespan of 110 years. It covers the debate over what this colouring implies for
+  the story's date and genre. Individual Egyptian words and names are treated under egyptian-loanwords.
+passages:
+- ref: Gen 37:25-28
+  rel: realia
+  note: Ishmaelite caravan with camels carrying gum, balm and resin to Egypt
+- ref: Gen 39:7-20
+  rel: parallel
+  note: Potiphar's wife; cf. the Tale of Two Brothers
+- ref: Gen 40:1-23
+  rel: practice
+  note: Dreams of Pharaoh's chief cupbearer and chief baker
+- ref: Gen 41:1-36
+  rel: practice
+  note: Pharaoh's dreams, the failed magicians (ḥarṭummîm), and Joseph's interpretation
+- ref: Gen 41:42-45
+  rel: practice
+  note: >-
+    Investiture with signet, linen and gold collar; Egyptian name and marriage into the priesthood
+    of On
+- ref: Gen 43:32
+  rel: practice
+  note: Egyptians will not eat with Hebrews
+- ref: Gen 46:34
+  rel: practice
+  disputed: true
+  note: '''Every shepherd is abhorrent to the Egyptians'' (no clear Egyptian evidence)'
+- ref: Gen 47:1-11
+  rel: setting
+  note: Herders settled in Goshen, 'the land of Rameses'; cf. Papyrus Anastasi VI
+- ref: Gen 47:13-26
+  rel: practice
+  note: Crown acquires the land; one-fifth of the harvest due; priestly land exempt
+- ref: Gen 50:2-3, 26
+  rel: practice
+  note: Embalming by physicians; seventy days of mourning; death at 110 years
+related: [egyptian-loanwords, tale-of-two-brothers, famine-stele, dreams-and-dream-interpretation,
+  mummification, papyrus-anastasi, hyksos, camels-and-domestication]
+media:
+- id: joseph-story-egyptian-background
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Present the dating debate fairly. Redford (1970) argued that the Egyptian details fit
+    the Saite and Persian periods best (name types, titles, Goshen); Kitchen and Hoffmeier
+    argue for New Kingdom or earlier parallels. Many scholars now see a late monarchic or
+    Persian-period composition by authors familiar with Egypt.
+  - >-
+    Several details are anachronistic for any 2nd-millennium setting: the 'land of Rameses'
+    (Gen 47:11), camels in the incense trade (Gen 37:25), and Philistines elsewhere in Genesis.
+    Point these out without overstating the conclusion.
+  - >-
+    Treat the story's genre (court tale or diaspora novella, compared with Esther and Dan
+    1-6; von Rad's wisdom reading) as part of the background, since the Egyptian setting serves
+    the plot.
+  - >-
+    There is no Egyptian record of Joseph. Identifications with Imhotep, Amenhotep son of
+    Hapu or a Hyksos-era vizier, and the medieval idea that the pyramids were Joseph's granaries,
+    are not supported; mention them only as misconceptions. Asiatics did rise high at the
+    Egyptian court (e.g. the chancellor Bay), which is a fair typological point.
+  sources_to_check:
+  - D. B. Redford, A Study of the Biblical Story of Joseph (VTSup 20, 1970)
+  - J. Vergote, Joseph en Égypte (1959)
+  - J. K. Hoffmeier, Israel in Egypt (1996)
+  - K. A. Kitchen, On the Reliability of the Old Testament (2003)
+  image_query: Egyptian granary model
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

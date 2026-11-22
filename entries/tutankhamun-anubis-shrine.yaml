@@ -1,0 +1,80 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tutankhamun-anubis-shrine
+title: Anubis Shrine of Tutankhamun
+aliases: [Anubis Shrine]
+type: artifact
+cultures: [egyptian]
+date:
+  from: -1323
+  to: -1323
+  circa: true
+  display: c. 1323 BCE
+scope: >-
+  A gilded wooden chest from the Treasury of Tutankhamun's tomb (KV62), surmounted by a recumbent
+  black jackal of Anubis and mounted on a sledge with carrying poles. It is one of the clearest
+  physical comparanda for a portable sacred chest carried on poles.
+passages:
+- ref: Exod 25:10-15
+  rel: realia
+  note: Gilded wooden chest with rings and carrying poles
+- ref: Num 4:5-6
+  rel: practice
+  note: Holy chest covered and carried on poles by designated bearers
+- ref: 1Chr 15:15
+  rel: practice
+  note: Levites carry the ark on their shoulders with poles
+- ref: 2Sam 6:13
+  rel: practice
+  note: Ark carried in procession by bearers
+- ref: Josh 3:3-6
+  rel: practice
+  note: Priests bear the ark at the head of a procession
+related: [ark-of-the-covenant, tabernacle, cherubim, tutankhamun-footstool, cult-images, care-for-the-dead]
+media:
+- id: tutankhamun-anubis-shrine
+  role: primary
+- id: tutankhamun-anubis-shrine-2
+  role: gallery
+external:
+  wikipedia: Anubis Shrine
+  wikidata: Q15783743
+editorial:
+  author_notes:
+  - >-
+    The comparison is typological. Portable chests and shrines carried on poles were common
+    in Egypt (e.g., processional barque shrines). The Anubis shrine is one well-preserved
+    example among many.
+  - >-
+    Note the differences. The Anubis shrine bears a divine image, while the ark bears no image
+    and the cherubim flank an empty space (cherub throne).
+  - >-
+    The pentateuchal ark descriptions (Exod 25; Num 4) are generally assigned to P. Discuss
+    the implications for the dating of the comparison.
+  - >-
+    Many Tutankhamun objects have recently moved from the Egyptian Museum (Tahrir) to the
+    Grand Egyptian Museum in Giza. Verify the current location before stating it.
+  sources_to_check:
+  - Reeves, The Complete Tutankhamun (1990)
+  - Hoffmeier, Ancient Israel in Sinai (2005)
+  image_query: Anubis shrine Tutankhamun
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added institution, accession from Wikidata Q15783743 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+location:
+  institution: Egyptian Museum
+  accession: JE 61444

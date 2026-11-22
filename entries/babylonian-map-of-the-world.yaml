@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: babylonian-map-of-the-world
+title: Babylonian Map of the World
+aliases: [Imago Mundi]
+type: artifact
+cultures: [babylonian]
+date:
+  from: -700
+  to: -500
+  circa: true
+  display: c. 700–500 BCE
+scope: >-
+  A small clay tablet, probably from Sippar, bearing a schematic map of the world with Babylon
+  at the centre and the land encircled by a 'bitter river' (marratu), beyond which lie triangular
+  distant regions (nagû). Accompanying text refers to mythical beasts and legendary figures
+  of the remote regions.
+passages:
+- ref: Isa 40:22
+  rel: concept
+  note: God enthroned above the circle (ḥûg) of the earth
+- ref: Job 26:10
+  rel: concept
+  note: A circle inscribed on the face of the waters
+- ref: Prov 8:27
+  rel: concept
+  note: Circle drawn on the face of the deep
+- ref: Ps 24:2
+  rel: concept
+  note: Earth founded upon the seas
+- ref: Ezek 5:5
+  rel: concept
+  note: Jerusalem set at the centre of the nations
+- ref: Ezek 38:12
+  rel: concept
+  note: People dwelling at the navel (ṭabbûr) of the earth
+related: [cosmology, waters-above-and-below, pillars-and-foundations-of-the-earth, tehom,
+  table-of-nations, babylon]
+location:
+  institution: British Museum, London
+  accession: null
+media:
+- id: babylonian-map-of-the-world
+  role: primary
+external:
+  wikipedia: Babylonian Map of the World
+  wikidata: Q279559
+editorial:
+  author_notes:
+  - >-
+    The tablet is a Late or Neo-Babylonian copy; its original composition may be somewhat
+    earlier. Give the date as approximate.
+  - >-
+    It is a cosmographic diagram, not a practical map; the encircling ocean and outer regions
+    are mythical geography (Horowitz).
+  - >-
+    The biblical 'circle of the earth' is likewise a disk-shaped earth or horizon, not a sphere;
+    avoid apologetic readings.
+  - >-
+    Placing one's own capital at the centre is a common ANE perspective; compare Ezekiel's
+    Jerusalem.
+  sources_to_check:
+  - Horowitz, Mesopotamian Cosmic Geography (1998)
+  image_query: Babylonian Map of the World British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

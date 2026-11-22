@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ramesses-ii
+file: ramesses-ii.jpg
+title: Ramses II British Museum.jpg
+caption: >-
+  The 'Younger Memnon', colossal statue of Ramesses II from the Ramesseum, Thebes, c. 1250
+  BCE (British Museum, London).
+description: >-
+  Statue of Ramesses II, the «Younger Memnon». From the Ramesseum, Thebes, Egypt, 19th Dynasty,
+  about 1250 BC. British Museum, London.
+creator: Pbuergler
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Pbuergler, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ramses_II_British_Museum.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/c/cf/Ramses_II_British_Museum.jpg
+  sha1: 375fea6017cfa0c2fbb448dee2fb8822afae6262
+  original_size: [1337, 2005]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1067×1600 px
+size: [1067, 1600]
+depicts: [ramesses-ii]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

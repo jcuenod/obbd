@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: lilith
+file: lilith.jpg
+title: Burney Relief Babylon -1800-1750.JPG
+caption: >-
+  The 'Burney Relief', fired clay, c. 1800–1750 BCE (British Museum); the winged, owl-footed
+  figure has been identified as Ishtar, Ereshkigal or a lilītu demon.
+description: >-
+  "Burney Relief" showing a babylonian goddess from about 1800-1750 BC. Its probably Ishtar
+  or her sister Ereshkigal (lions) or Lilitu (owls). The figurine was originally painted red
+  with a black background.
+creator: Aiwok
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Aiwok, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Burney_Relief_Babylon_-1800-1750.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/1/19/Burney_Relief_Babylon_-1800-1750.JPG
+  sha1: 6b83f73b101341acbfcc02f3ffdd46a67671f7fb
+  original_size: [2641, 3530]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1197×1600 px
+size: [1197, 1600]
+depicts: [lilith]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,99 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: kuntillet-ajrud-inscriptions
+title: Kuntillet ʿAjrud Inscriptions and Drawings
+aliases: [Horvat Teman inscriptions]
+type: artifact
+cultures: [israelite, judahite]
+date:
+  from: -800
+  to: -800
+  circa: true
+  display: c. 800 BCE
+scope: >-
+  Inscriptions and drawings on storage jars (pithoi), plaster walls and stone vessels from
+  the way-station at Kuntillet ʿAjrud in northeastern Sinai, including blessings 'by YHWH
+  of Samaria and his asherah' and 'by YHWH of Teman and his asherah' and a theophany text.
+  The site itself is treated under kuntillet-ajrud.
+passages:
+- ref: Hab 3:3
+  rel: language
+  note: God comes from Teman; cf. 'YHWH of Teman'
+- ref: Deut 33:2
+  rel: concept
+  note: YHWH dawns from Seir and shines from Paran in the south
+- ref: Judg 5:4-5
+  rel: parallel
+  note: 'Theophany: mountains quake as the deity marches; cf. the plaster text'
+- ref: Mic 1:3-4
+  rel: parallel
+  note: Mountains melt at the divine appearance
+- ref: 2Sam 15:7
+  rel: concept
+  disputed: true
+  note: YHWH identified by place ('YHWH in Hebron'); cf. 'YHWH of Samaria'
+- ref: Amos 8:14
+  rel: concept
+  note: Deities invoked by sanctuary town (Samaria, Dan, Beersheba)
+- ref: Deut 16:21
+  rel: practice
+  note: Prohibition of an asherah beside YHWH's altar
+- ref: 2Kgs 21:7
+  rel: concept
+  note: Asherah image in YHWH's temple
+- ref: Num 6:24
+  rel: parallel
+  note: '''May he bless you and keep you'' blessing formula on Pithos B'
+- ref: Deut 6:4
+  rel: polemic
+  disputed: true
+  note: '''YHWH is one'' perhaps countering local manifestations of YHWH'
+related: [kuntillet-ajrud, asherah, khirbet-el-qom-inscription, yhwh-origins, ketef-hinnom-amulets,
+  divine-warrior, samaria, aniconism]
+media:
+- id: kuntillet-ajrud-inscriptions
+  role: primary
+external:
+  wikipedia: Kuntillet Ajrud
+  wikidata: Q1399030
+editorial:
+  author_notes:
+  - >-
+    Whether ʾšrth is the goddess Asherah ('his Asherah') or a cult object ('his asherah')
+    is still debated, since Hebrew does not normally put suffixes on personal names. Present
+    both views. Avoid the headline phrase 'Yahweh's wife'.
+  - >-
+    Whether the drawings on Pithos A (two Bes-like figures and a seated lyre player) relate
+    to the inscription above them is disputed. Most specialists now think they do not illustrate
+    it.
+  - >-
+    The script, the phrase 'YHWH of Samaria', and the pottery point to Israelite (northern)
+    involvement in a site on a Judahite or southern route. Radiocarbon dating places it c.
+    800.
+  - >-
+    Some plaster texts are in Phoenician script. Discuss the site's function (caravan station
+    with a religious dimension, not a temple).
+  sources_to_check:
+  - COS 2.47
+  - Meshel, Kuntillet ʿAjrud (Ḥorvat Teman) (2012)
+  - Dobbs-Allsopp et al., Hebrew Inscriptions (2005)
+  - Hadley, The Cult of Asherah in Ancient Israel and Judah (2000)
+  - Keel and Uehlinger, Gods, Goddesses, and Images of God in Ancient Israel (1998)
+  image_query: Kuntillet Ajrud pithos drawing
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: 'Passage tags checked against WEB text: 2Sam 15:7 ''YHWH in Hebron'' marked disputed'
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-1-sol

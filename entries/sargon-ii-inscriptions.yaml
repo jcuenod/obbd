@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: sargon-ii-inscriptions
+title: Inscriptions of Sargon II
+type: text
+cultures: [assyrian]
+date:
+  from: -721
+  to: -705
+  display: 721–705 BCE
+scope: >-
+  The inscriptions of Sargon II from Khorsabad (Dur-Sharrukin), Nimrud, Assur and provincial
+  stelae, including the Khorsabad Annals, the Great Display Inscription, the Nimrud Prism,
+  and the Ashdod stele fragments. They claim the conquest of Samaria, the deportation and
+  resettlement of its population, and the crushing of the Ashdod revolt of 712/711.
+passages:
+- ref: 2Kgs 17:6
+  rel: event
+  note: Capture of Samaria and deportation to Halah, Habor and the cities of the Medes
+- ref: 2Kgs 17:24
+  rel: event
+  note: Foreign peoples settled in Samaria; Sargon records settling Arab groups there
+- ref: 2Kgs 18:9-11
+  rel: event
+  note: Siege and capture of Samaria; Sargon claims the conquest
+- ref: Isa 20:1-6
+  rel: event
+  note: Sargon's commander takes Ashdod; Isaiah's sign against reliance on Egypt
+- ref: Isa 10:9-11
+  rel: event
+  note: Calno, Carchemish, Hamath, Arpad, Samaria as Assyrian conquests
+- ref: 2Kgs 18:34
+  rel: event
+  note: Hamath and Arpad among Assyria's conquests
+related: [sargon-ii, fall-of-samaria, ashdod, samaria, hamath, deportation, samaritan-origins,
+  royal-annals-and-historiography]
+media:
+- id: sargon-ii-inscriptions
+  role: primary
+- id: sargon-ii-inscriptions-2
+  role: gallery
+external:
+  wikipedia: Annals of Sargon II
+  wikidata: Q4767863
+editorial:
+  author_notes:
+  - >-
+    Sargon claims Samaria in several texts, with 27,280 or 27,290 deportees and 50 (or 200)
+    chariots, but the earliest texts place it in his accession year while the Annals put it
+    in year 2; this bears on the Shalmaneser V vs Sargon debate.
+  - >-
+    The Nimrud Inscription calls Sargon 'subduer of Judah, which lies far away', evidence
+    for Judahite involvement in the 720 or 712/711 events.
+  - >-
+    Fragments of a Sargon stele found at Ashdod provide local confirmation of the 712/711
+    campaign that Isa 20:1 mentions.
+  - >-
+    The 2 Kgs 17:24 list of settlers reflects several waves of deportation; Sargon's texts
+    mention Arabs settled in Samaria (c. 716/715).
+  sources_to_check:
+  - RINAP 2 (Frame 2021)
+  - Fuchs, Die Inschriften Sargons II. aus Khorsabad (1994)
+  - COS 2.118
+  - ANET 284-287
+  image_query: Sargon II Khorsabad relief Louvre
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: egyptian-kingship
+file: egyptian-kingship.jpg
+title: Khafre Enthroned, side view.JPG
+caption: >-
+  Statue of Khafre enthroned, with the falcon god Horus spreading his wings behind the king's
+  head, Fourth Dynasty, from his valley temple at Giza (Egyptian Museum, Cairo).
+description: >-
+  The statue of Khafre from his valley temple at Giza, now in the Egyptian Museum of Antiquities
+  in Cairo. A figure of a falcon—the god Horus—extends his wings around the king's head. Fourth
+  Dynasty, 26th century BC.
+creator: A. Parrot
+credit_line: Own work
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: A. Parrot. CC0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Khafre_Enthroned,_side_view.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/3/35/Khafre_Enthroned%2C_side_view.JPG
+  sha1: 568d022bfd47044861f44ca4a1be5f48d5d7ab73
+  original_size: [2248, 3582]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1004×1600 px
+size: [1004, 1600]
+depicts: [egyptian-kingship]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

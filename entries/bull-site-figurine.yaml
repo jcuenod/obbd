@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: bull-site-figurine
+title: '"Bull Site" Figurine'
+aliases: [Dhahrat et-Tawileh bull]
+type: artifact
+cultures: [israelite, canaanite]
+date:
+  from: -1200
+  to: -1100
+  circa: true
+  display: c. 1200–1100 BCE
+scope: >-
+  A bronze figurine of a zebu bull found in 1977 at an open-air Iron Age I cult place (the
+  'Bull Site', Dhahrat et-Tawileh) in the northern Samarian hills, excavated by A. Mazar.
+  It is a key artefact for bull imagery among the early highland settlers.
+passages:
+- ref: Exod 32:1-6
+  rel: imagery
+  note: The golden calf at Sinai
+- ref: 1Kgs 12:28-30
+  rel: imagery
+  note: Jeroboam's calves at Bethel and Dan
+- ref: Hos 8:5-6
+  rel: polemic
+  note: '''Your calf, O Samaria'''
+- ref: Hos 13:2
+  rel: polemic
+  note: People kiss calves
+- ref: Gen 49:24
+  rel: language
+  disputed: true
+  note: ʾăbîr yaʿăqōb, 'Mighty One of Jacob', related to ʾabbîr 'bull'
+- ref: Num 23:22
+  rel: imagery
+  disputed: true
+  note: God's 'horns like a wild ox'
+related: [bull-iconography, el, baal, aniconism, emergence-of-israel, cult-images, high-places]
+location:
+  institution: Israel Museum, Jerusalem
+  accession: null
+media:
+- id: bull-site-figurine
+  role: primary
+- id: bull-site-figurine-2
+  role: gallery
+external:
+  wikipedia: Bull Site
+  wikidata: Q65062829
+editorial:
+  author_notes:
+  - >-
+    Mazar interpreted the site as an Israelite open cult place associated with El or Baal.
+    Others (e.g. Ahlström) questioned the date and the Israelite attribution. Present both.
+  - >-
+    The bull may represent a deity or serve as a pedestal or emblem. This distinction matters
+    for the golden-calf texts.
+  - >-
+    Avoid treating the figurine as a 'model' of the golden calf. It is evidence for bull iconography
+    in the region.
+  sources_to_check:
+  - Mazar, BASOR 247 (1982)
+  - Keel and Uehlinger, Gods, Goddesses, and Images of God in Ancient Israel (1998)
+  image_query: Bull Site bronze bull figurine Israel Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

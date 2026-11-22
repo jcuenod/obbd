@@ -1,0 +1,68 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: nazareth-inscription
+title: Nazareth Inscription
+type: artifact
+cultures: [roman, greek]
+date:
+  from: -50
+  to: 54
+  circa: true
+  display: c. 50 BCE–54 CE
+scope: >-
+  A marble slab with a Greek 'ordinance of Caesar' that prescribes capital punishment for
+  violating tombs or moving bodies. It entered the Froehner collection in 1878 with a note
+  that it had been sent from Nazareth. Its provenance, date, and emperor are uncertain.
+passages:
+- ref: Matt 28:11-15
+  rel: practice
+  disputed: true
+  note: Charge that the disciples stole Jesus' body; a link to the edict has been proposed
+- ref: Matt 27:62-66
+  rel: practice
+  note: Sealing and guarding a tomb against theft of the body
+- ref: John 20:2, 13-15
+  rel: practice
+  note: Concern that the body has been removed from the tomb
+related: [ossuaries, forgeries-in-biblical-archaeology, bench-tombs, care-for-the-dead]
+location:
+  institution: Cabinet des Médailles, Bibliothèque nationale de France, Paris
+  accession: null
+media:
+- id: nazareth-inscription
+  role: primary
+external:
+  wikipedia: Nazareth Inscription
+  wikidata: Q1992155
+editorial:
+  author_notes:
+  - >-
+    The note 'sent from Nazareth' does not establish the findspot. A 2020 isotopic study pointed
+    to marble from Kos, which weakens any Galilean connection.
+  - >-
+    The emperor is unnamed. Linking it to Claudius and a reaction to Christian resurrection
+    claims is speculative and not mainstream.
+  - Discuss it primarily as evidence for Greco-Roman concern with tomb violation.
+  sources_to_check:
+  - >-
+    F. Cumont, 'Un rescrit impérial sur la violation de sépulture', Revue historique 163 (1930)
+  image_query: Nazareth Inscription Cabinet des Médailles
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Matt 28:11-15 rel event -> practice (disputed kept);
+    note softened
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

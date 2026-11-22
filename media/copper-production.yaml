@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: copper-production
+file: copper-production.jpg
+title: TVDB1861 Timna 034 2022-01-22 Yagel Photo 017 Selected.jpg
+caption: >-
+  Aerial view of 'Slaves' Hill' (Site 34), an Iron Age copper-smelting camp in the Timna Valley.
+description: >-
+  Archaeological Site 034 ("Slaves' Hill"), Timna Valley, Israel: aerial view of the entire
+  copper smelting site (10th century BCE), looking east
+creator: Erez Ben-Yosef
+credit_line: This image is part of the Timna Valley Database project. Project page · Website
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Erez Ben-Yosef, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:TVDB1861_Timna_034_2022-01-22_Yagel_Photo_017_Selected.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/7d/TVDB1861_Timna_034_2022-01-22_Yagel_Photo_017_Selected.jpg
+  sha1: 38ba0e633a416aa6676bb5eeb6e1873bee3e154e
+  original_size: [2509, 1762]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1123 px
+size: [1600, 1123]
+depicts: [copper-production, timna]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

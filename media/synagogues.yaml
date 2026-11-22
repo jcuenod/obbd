@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: synagogues
+file: synagogues.jpg
+title: Gamla Synagogue 00.jpg
+caption: >-
+  Ruins of the synagogue at Gamla in the Golan, one of the excavated pre-70 CE synagogue buildings.
+description: Ruins of Synagogue at Gamla
+creator: Davidbena
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Davidbena, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Gamla_Synagogue_00.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/8/83/Gamla_Synagogue_00.jpg
+  sha1: 4471329b4f722ab2d2a38dcabe44c8aeb2a6bcea
+  original_size: [5184, 3456]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [synagogues]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

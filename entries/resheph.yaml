@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: resheph
+title: Resheph
+aliases: [Reshef, Rašap]
+type: deity
+cultures: [canaanite, ugaritic, egyptian, phoenician]
+scope: >-
+  Resheph, a West Semitic god of plague and war, archer and gatekeeper of the netherworld,
+  attested from Ebla to Cyprus and popular in New Kingdom Egypt as a smiting warrior god.
+  In the Hebrew Bible rešep appears as a demoted divine figure and as a word for pestilence,
+  flame or lightning.
+passages:
+- ref: Hab 3:5
+  rel: imagery
+  note: Deber (Pestilence) and Resheph (Plague) march in YHWH's retinue
+- ref: Deut 32:24
+  rel: imagery
+  note: Devoured by Resheph and bitter Qeteb
+- ref: Ps 78:48
+  rel: imagery
+  note: Flocks given over to rəšāpîm (thunderbolts or plagues)
+- ref: Ps 76:3
+  rel: imagery
+  note: YHWH broke the 'rəšāpîm of the bow', flashing arrows (MT 76:4)
+- ref: Job 5:7
+  rel: imagery
+  note: '''Sons of Resheph'' fly upward (sparks or birds)'
+- ref: Song 8:6
+  rel: imagery
+  note: Love's flashes are 'flashes of fire'
+- ref: 1Chr 7:25
+  rel: language
+  note: Resheph as an Ephraimite personal name
+related: [demons, divine-warrior, mot, smiting-the-enemy-motif, gods-of-2-kings-17, baal-with-thunderbolt]
+media:
+- id: resheph
+  role: primary
+- id: resheph-2
+  role: gallery
+external:
+  wikipedia: Resheph
+  wikidata: Q167849
+editorial:
+  author_notes:
+  - >-
+    Resheph's archery (Cypriot "Resheph of the arrow", ršp ḥṣ, equated with Apollo) explains
+    the arrow and flame imagery in Ps 76 and Song 8.
+  - >-
+    At Ugarit he is equated with Nergal in god lists; relevant to plague and netherworld associations.
+  - >-
+    Present Hab 3:5 as the clearest case of a demoted deity in YHWH's entourage; the other
+    passages show varying degrees of demythologization.
+  - >-
+    His Egyptian iconography (gazelle-headed crown, smiting pose) is well documented; use
+    it for the image.
+  sources_to_check:
+  - I. Cornelius, The Iconography of the Canaanite Gods Reshef and Baʿal (OBO 140, 1994)
+  - M. M. Münnich, The God Resheph in the Ancient Near East (2013)
+  - DDD, s.v. "Resheph"
+  image_query: Reshef stela Egypt
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

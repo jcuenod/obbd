@@ -1,0 +1,63 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: baal-zebub
+title: Baal-zebub (Beelzebul)
+aliases: [Beelzebul, Beelzebub, Baal-zebul]
+type: deity
+cultures: [philistine, ugaritic, jewish]
+corpus: ot
+scope: >-
+  Baal-zebub, the god of Ekron consulted by King Ahaziah, and Beelzebul, the "ruler of demons"
+  in the Gospels. The entry covers the name's form and meaning and its development into a
+  name for Satan.
+passages:
+- ref: 2Kgs 1:2-3, 6, 16
+  rel: attests
+  note: Ahaziah sends to inquire of Baal-zebub, god of Ekron
+- ref: Matt 12:24-27
+  rel: language
+  note: Jesus accused of casting out demons by Beelzebul
+- ref: Mark 3:22
+  rel: language
+  note: Beelzebul as ruler of demons
+- ref: Luke 11:15-19
+  rel: language
+  note: Beelzebul controversy
+- ref: Matt 10:25
+  rel: language
+  note: Master of the house called Beelzebul
+- ref: 1Kgs 8:13
+  rel: language
+  note: bêt zəbul 'exalted house', showing the root zbl
+related: [ekron, ekron-royal-dedicatory-inscription, baal, philistines, demons, divination,
+  satan-the-adversary]
+media: []
+external:
+  wikipedia: Beelzebub
+  wikidata: Q202492
+editorial:
+  author_notes:
+  - >-
+    The majority view is that the original was Baal-zebul "Baal the Prince/Exalted" (cf. Ugaritic
+    zbl bʿl), deformed into "lord of flies"; some defend a genuine "lord of flies" (an oracular
+    or healing deity; LXX Baal muian).
+  - >-
+    The NT form Beelzebul preserves -l and may reflect wordplay with zəbul "dwelling" (Matt
+    10:25) or zebel "dung"; present options.
+  - >-
+    No extrabiblical attestation of Baal-zebub at Ekron exists; the Ekron inscription names
+    the goddess PTGYH.
+  sources_to_check: ['DDD, s.v. "Baal-zebub"']
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

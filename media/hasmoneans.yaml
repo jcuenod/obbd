@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: hasmoneans
+file: hasmoneans.jpg
+title: >-
+  Monnaie - Prutah, bronze, Jérusalem, Judée, Mattathias Antigonos - btv1b8480202s (1 of 2).jpg
+caption: >-
+  Bronze prutah of Mattathias Antigonus, the last Hasmonean king, showing the menorah, 40-37
+  BCE (Bibliothèque nationale de France).
+description: >-
+  Sujet : Judée Ancien possesseur : Vogüé, Melchior (1829-1916 ; marquis de). Ancien possesseur
+  Appartient à l’ensemble documentaire : MonnGre Langue : grec ancien
+creator: >-
+  Antigone II (Mattathiah ; roi hasmonéen). Autorité émettrice de monnaie Hasmonéens (dynastie).
+  Autorité émettrice de monnaie Jérusalem (Judée ; atelier monétaire). Atelier monétaire
+credit_line: Bibliothèque nationale de France
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: >-
+  Antigone II (Mattathiah ; roi hasmonéen). Autorité émettrice de monnaie Hasmonéens (dynastie).
+  Autorité émettrice de monnaie Jérusalem (Judée ; atelier monétaire). Atelier monétaire.
+  Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Monnaie_-_Prutah,_bronze,_J%C3%A9rusalem,_Jud%C3%A9e,_Mattathias_Antigonos_-_btv1b8480202s_(1_of_2).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/dc/Monnaie_-_Prutah%2C_bronze%2C_J%C3%A9rusalem%2C_Jud%C3%A9e%2C_Mattathias_Antigonos_-_btv1b8480202s_%281_of_2%29.jpg
+  sha1: 36141f113397d6387b1c266a8c48f969e33c8a4d
+  original_size: [1453, 1453]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1453, 1453]
+depicts: [hasmoneans]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

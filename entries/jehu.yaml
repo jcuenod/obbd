@@ -1,0 +1,73 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: jehu
+title: Jehu
+type: person
+cultures: [israelite]
+date:
+  from: -842
+  to: -814
+  circa: true
+  display: c. 842–814 BCE
+scope: >-
+  Jehu, the army officer who overthrew the Omride dynasty, considered in the light of extrabiblical
+  evidence. Shalmaneser III's Black Obelisk records the tribute of 'Jehu of Bit-Omri' in 841.
+  The Tel Dan Stele claims for an Aramean king the killings that 2 Kings attributes to Jehu.
+passages:
+- ref: 2Kgs 9:1-10:36
+  rel: event
+  note: Jehu's anointing, coup and reign
+- ref: 2Kgs 9:14-28
+  rel: event
+  note: Killing of Joram and Ahaziah; cf. the Tel Dan Stele's rival claim
+- ref: 2Kgs 9:2, 14
+  rel: attests
+  note: Jehu son of Jehoshaphat son of Nimshi; Assyrian texts call him 'son of Omri'
+- ref: 1Kgs 19:16-17
+  rel: attests
+  note: Elijah commissioned to anoint Jehu
+- ref: 2Kgs 10:32-33
+  rel: event
+  note: Hazael's conquests in Jehu's days, after Assyria withdrew
+- ref: Hos 1:4
+  rel: event
+  note: Prophetic condemnation of the bloodshed of Jezreel
+related: [black-obelisk, tel-dan-stele, shalmaneser-iii, hazael, omri, jezebel, jezreel, samaria]
+media:
+- id: jehu
+  role: primary
+- id: black-obelisk-2
+  role: gallery
+- id: prostration-and-obeisance
+  role: gallery
+external:
+  wikipedia: Jehu
+  wikidata: Q313225
+editorial:
+  author_notes:
+  - >-
+    The prostrating figure on the Black Obelisk is labelled as Jehu's tribute. Whether it
+    depicts Jehu himself or an envoy is debated. It is the only contemporary image of an Israelite
+    or Judahite king.
+  - >-
+    Kings does not mention the tribute to Shalmaneser III (841). Explain the geopolitics:
+    Jehu's submission and Hazael's resistance.
+  - Set out the options for reconciling Tel Dan with 2 Kgs 9 neutrally (see tel-dan-stele).
+  - >-
+    Hosea's condemnation contrasts with the approval in 2 Kgs 10:30. Note the tension within
+    the biblical tradition.
+  sources_to_check: [ANET 280-281, 'Grayson, RIMA 3 (1996)']
+  image_query: Black Obelisk Jehu panel British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

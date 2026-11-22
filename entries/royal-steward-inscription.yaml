@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: royal-steward-inscription
+title: Royal Steward Inscription (Silwan)
+aliases: [Shebna Inscription, Silwan Tomb Inscription]
+type: artifact
+cultures: [judahite]
+date:
+  from: -700
+  to: -700
+  circa: true
+  display: c. 700 BCE
+scope: >-
+  A Hebrew inscription carved over the entrance of a rock-cut tomb in the Silwan necropolis
+  opposite the City of David, belonging to '[...]yahu who is over the house'. It declares
+  that the tomb holds no silver or gold and curses anyone who opens it.
+passages:
+- ref: Isa 22:15-16
+  rel: attests
+  disputed: true
+  note: Shebna 'over the house' rebuked for hewing a tomb on the height
+- ref: 2Kgs 18:18
+  rel: language
+  note: Title 'over the house' (ʾăšer ʿal-habbayit) for Eliakim
+- ref: 1Kgs 4:6
+  rel: language
+  note: The royal steward among Solomon's officials
+- ref: Deut 27:15
+  rel: language
+  note: Curse formula 'Cursed be anyone who...' (ʾārûr hāʾîš ʾăšer)
+- ref: Josh 6:26
+  rel: language
+  note: 'Curse on whoever rebuilds Jericho: the same ''cursed be the man who...'' formula'
+related: [court-officials, bench-tombs, jerusalem, hezekiah, blessings-and-curses, ahiram-sarcophagus,
+  eshmunazar-sarcophagus]
+location:
+  institution: British Museum, London
+  accession: null
+media:
+- id: royal-steward-inscription
+  role: primary
+- id: royal-steward-inscription-2
+  role: gallery
+external:
+  wikipedia: Royal Steward inscription
+  wikidata: Q17018830
+editorial:
+  author_notes:
+  - Removed by Clermont-Ganneau in 1870 but deciphered only by N. Avigad (1953).
+  - >-
+    The name is damaged. Restoring it as Shebanyahu (= Shebna, Isa 22:15) is attractive but
+    unprovable. Present the identification as possible, not established.
+  - >-
+    Compare the tomb curses with Phoenician royal sarcophagi (Ahiram, Tabnit, Eshmunazar).
+    Note the Silwan necropolis's distinctive Judahite elite tomb architecture (Ussishkin).
+  sources_to_check:
+  - KAI 191
+  - Avigad, IEJ 3 (1953)
+  - Ussishkin, The Village of Silwan (1993)
+  - Dobbs-Allsopp et al., Hebrew Inscriptions (2005)
+  image_query: Royal Steward inscription British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: corrected Josh 6:26 note (curse on rebuilding Jericho)
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,75 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: mouth-washing-and-opening
+title: Mouth-Washing and Mouth-Opening Rituals
+aliases: [mīs pî, pīt pî, Opening of the Mouth]
+type: practice
+cultures: [babylonian, assyrian, egyptian]
+scope: >-
+  The Mesopotamian mīs pî ("washing of the mouth") and pīt pî ("opening of the mouth") rituals
+  that animated or purified cult statues, and the Egyptian Opening of the Mouth ceremony for
+  statues and mummies, as background to biblical polemic against man-made gods.
+passages:
+- ref: Isa 44:9-20
+  rel: polemic
+  note: Craftsmen's manufacture stressed; cf. ritual denial of human manufacture in mīs pî
+- ref: Jer 10:3-5, 9
+  rel: polemic
+  note: Image made by craftsmen cannot speak
+- ref: Ps 115:4-8
+  rel: polemic
+  note: '''They have mouths, but do not speak'''
+- ref: Ps 135:15-18
+  rel: polemic
+  note: No breath in the mouths of images
+- ref: Hab 2:18-19
+  rel: polemic
+  note: Image overlaid with gold and silver, with no breath in it
+- ref: Isa 6:5-7
+  rel: practice
+  disputed: true
+  note: >-
+    Purification of the prophet's 'unclean lips'; comparison with mouth-washing rites proposed
+related: [cult-images, care-and-feeding-of-the-gods, aniconism, book-of-the-dead, mummification,
+  image-of-god]
+media:
+- id: mouth-washing-and-opening
+  role: primary
+- id: mouth-washing-and-opening-2
+  role: gallery
+external:
+  wikipedia: Opening of the mouth ceremony
+  wikidata: Q1191513
+editorial:
+  author_notes:
+  - >-
+    The Mesopotamian ritual uses incantations in which the craftsmen swear they did not make
+    the statue, and their hands are symbolically cut off with a tamarisk sword. Isa 44 inverts
+    exactly this, which makes the polemic especially pointed.
+  - >-
+    The ritual texts are known mainly from first-millennium Nineveh and Babylon (Walker and
+    Dick, 2001). Do not retroject details onto earlier periods without evidence.
+  - >-
+    The Egyptian Opening of the Mouth (wpt-r) animated statues and mummies with adze-like
+    instruments. It is distinct from the Mesopotamian rite and should be treated separately.
+  - >-
+    Hurowitz (HUCA 60, 1989) compared Isa 6:5-7 with Akkadian mouth-purification. Present
+    this as a proposal.
+  sources_to_check:
+  - >-
+    Christopher Walker and Michael Dick, The Induction of the Cult Image in Ancient Mesopotamia
+    (SAALT 1, 2001)
+  image_query: Opening of the mouth ceremony Hunefer papyrus
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

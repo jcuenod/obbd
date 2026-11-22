@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: aniconism
+title: Aniconism in Ancient Israel
+type: concept
+cultures: [hebrew, israelite, judahite, arabian]
+scope: >-
+  The absence or rejection of anthropomorphic or theriomorphic images of YHWH in Israelite
+  religion: its biblical formulations, its development, the archaeological evidence (standing
+  stones, empty throne), and comparative aniconic traditions in the West Semitic world.
+passages:
+- ref: Exod 20:4-6
+  rel: concept
+  note: Prohibition of making a carved image (pesel) or any likeness
+- ref: Deut 4:12, 15-19
+  rel: concept
+  note: No form seen at Horeb, only a voice; hence no image
+- ref: Deut 5:8-10
+  rel: concept
+  note: Image prohibition in the Deuteronomic Decalogue
+- ref: Exod 20:23
+  rel: concept
+  note: No gods of silver or gold alongside YHWH
+- ref: Exod 34:17
+  rel: concept
+  note: No cast (massēkâ) gods
+- ref: Exod 32:1-6
+  rel: polemic
+  note: Golden calf as forbidden image
+- ref: 1Kgs 12:28-29
+  rel: polemic
+  note: Jeroboam's calves at Bethel and Dan
+- ref: 1Sam 4:4
+  rel: concept
+  note: 'YHWH enthroned on the cherubim over the ark: an ''empty-space'' throne'
+- ref: Gen 28:18-22
+  rel: practice
+  note: Standing stone at Bethel as 'house of God'
+- ref: Isa 40:18, 25
+  rel: concept
+  note: '''To whom then will you liken God?'''
+related: [cult-images, massebot, cherub-throne, bull-iconography, ark-of-the-covenant, arad,
+  nabataeans, judean-pillar-figurines]
+media:
+- id: aniconism
+  role: primary
+external:
+  wikipedia: Aniconism in Judaism
+  wikidata: Q4764522
+editorial:
+  author_notes:
+  - >-
+    Mettinger distinguishes de facto (tolerant) from programmatic aniconism, and material
+    aniconism (standing stones, empty throne) from empty-space aniconism. This is the standard
+    framework (No Graven Image?, 1995).
+  - >-
+    Note the minority but serious argument that the Jerusalem temple once housed an anthropomorphic
+    statue of YHWH (e.g. Niehr). Present it as debated, not established.
+  - >-
+    Nabataean and other Arabian betyls are often cited as comparative West Semitic aniconism.
+  - >-
+    Distinguish the image prohibition (no image of YHWH) from the prohibition of other gods'
+    images. The two are fused in the Decalogue but have different histories.
+  image_query: Arad sanctuary standing stone Israel Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

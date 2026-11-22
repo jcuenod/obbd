@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: coinage
+title: Coinage
+aliases: [Coins, Daric, Tyrian shekel, Denarius]
+type: realia
+cultures: [persian, greek, jewish, roman, phoenician]
+scope: >-
+  The invention and spread of coinage and the coins mentioned in or relevant to the Bible:
+  Persian darics, Yehud and Samarian coins, Greek drachmas, Tyrian shekels, Hasmonean and
+  Herodian bronzes, and Roman denarii.
+passages:
+- ref: Ezra 2:69
+  rel: realia
+  note: Gold darkĕmônîm given by returnees (darics or drachmas?)
+- ref: Ezra 8:27
+  rel: realia
+  note: Gold bowls worth a thousand darics (ʾădarkōnîm)
+- ref: Neh 7:70-72
+  rel: realia
+  note: Darics and silver minas donated (MT 7:69-71)
+- ref: 1Chr 29:7
+  rel: realia
+  note: Darics in David's time, an anachronism of the Persian-period Chronicler
+- ref: 1Macc 15:6
+  rel: practice
+  note: Antiochus VII grants Simon the right to mint coinage
+- ref: Matt 17:24-27
+  rel: practice
+  note: Temple tax (didrachma); stater from the fish's mouth
+- ref: Matt 26:15
+  rel: realia
+  note: Thirty pieces of silver, probably Tyrian shekels
+- ref: Matt 22:19-21
+  rel: realia
+  note: Denarius bearing Caesar's image
+- ref: Mark 12:42
+  rel: realia
+  note: The widow's two lepta, worth a quadrans
+- ref: Luke 15:8
+  rel: realia
+  note: The lost drachma
+related: [weights-and-silver-money, yehud-seals-and-coins, judaea-capta-coins, persia, darius-i,
+  yehud-province, maccabean-revolt]
+media:
+- id: coinage
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Coinage was invented in Lydia and Ionia around 600 BCE (electrum). Darius I introduced
+    the gold daric and silver siglos. Before the Persian period, biblical 'shekels' and 'pieces
+    of silver' are weighed metal, not coins.
+  - >-
+    Small silver Yehud coins (4th century) carry legends such as yhd and the name of a governor
+    Yehezqiyah. Samarian coins are contemporary. Hasmonean bronze prutot follow; the first
+    Hasmonean issuer is debated.
+  - >-
+    The Tyrian shekel (minted 126 BCE-66 CE) was the required currency for the temple tax
+    (m. Bekhorot 8:7). It is the probable coin of Matt 17:27 and 26:15.
+  - >-
+    Darkĕmônîm (Ezra 2:69; Neh 7) is probably Greek drachma rather than daric. Note the debate.
+  sources_to_check:
+  - Meshorer, A Treasury of Jewish Coins (2001)
+  image_query: Yehud coin
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: story-of-sinuhe
+title: Story of Sinuhe
+aliases: [Tale of Sinuhe]
+type: text
+cultures: [egyptian]
+date:
+  from: -1920
+  to: -1850
+  circa: true
+  display: c. 1920–1850 BCE
+scope: >-
+  A Middle Kingdom narrative poem in autobiographical form. On the death of Amenemhat I, the
+  courtier Sinuhe flees Egypt and prospers among Asiatic chieftains in Retenu. He defeats
+  a local champion and finally returns to Egypt to be buried there by the king's favour. It
+  was the most widely copied work of Egyptian literature.
+passages:
+- ref: Exod 2:15-22
+  rel: parallel
+  note: Flight from pharaoh, welcome by a foreign chief, marriage to his daughter
+- ref: 1Kgs 11:17-22
+  rel: parallel
+  note: Political refugee (Hadad) prospers abroad and longs to return home
+- ref: Deut 8:7-9
+  rel: parallel
+  note: '''Good land'' of Yaa: figs, grapes, wine, honey, oil, barley, emmer'
+- ref: Num 13:23-27
+  rel: parallel
+  note: Fruitfulness of Canaan described to an outside audience
+- ref: 1Sam 17:4-54
+  rel: parallel
+  note: Single combat with a 'strong man of Retenu'; victor uses the champion's own weapon
+- ref: Gen 47:29-30
+  rel: concept
+  note: Wish not to be buried abroad but in one's homeland
+- ref: Gen 29:1
+  rel: language
+  note: Qedem ('the East'), Sinuhe's refuge region; cf. 'people of the east'
+related: [champion-combat, amorites, hospitality, beni-hasan-asiatics, execration-texts, care-for-the-dead]
+media:
+- id: story-of-sinuhe
+  role: primary
+external:
+  wikipedia: Story of Sinuhe
+  wikidata: Q645904
+editorial:
+  author_notes:
+  - >-
+    Sinuhe is a literary work (a fictional autobiography), not a travel report. Use it cautiously
+    as evidence for Middle Bronze Age Levantine society, and avoid the older habit of using
+    it to "confirm" the patriarchal lifestyle.
+  - >-
+    The champion combat with David and Goliath is a standard comparison. Note the differences
+    in weapons and narrative function, and see the separate entry on champion combat.
+  - >-
+    Toponyms (Retenu, Qedem, Byblos, Yaa) and the Amorite name of Sinuhe's patron (Ammunenshi)
+    are valuable for the Middle Bronze Levant. The location of Yaa is unknown.
+  - >-
+    Major manuscripts are P. Berlin 3022 and 10499, plus a large Ashmolean ostracon among
+    many New Kingdom ostraca.
+  sources_to_check:
+  - AEL 1:222-235
+  - ANET 18-22
+  - Parkinson, The Tale of Sinuhe and Other Ancient Egyptian Poems (1997)
+  image_query: Sinuhe ostracon Ashmolean
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

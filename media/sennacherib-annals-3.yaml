@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: sennacherib-annals-3
+file: sennacherib-annals-3.jpg
+title: >-
+  Six-sided clay prism, side 3, written on behalf of Sennacherib, king of Assyria, and containing
+  narratives of his military campaigns, 704-681 BC - Oriental Institute Museum, University
+  of Chicago - DSC07602.JPG
+caption: >-
+  The Oriental Institute Prism of Sennacherib, side 3 (Oriental Institute Museum, University
+  of Chicago).
+description: >-
+  Exhibit in the Oriental Institute Museum, University of Chicago, Chicago, Illinois, USA.
+  This work is old enough so that it is in the public domain. Photography was permitted in
+  the museum without restriction.
+creator: Daderot
+credit_line: Own work
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Daderot. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Six-sided_clay_prism,_side_3,_written_on_behalf_of_Sennacherib,_king_of_Assyria,_and_containing_narratives_of_his_military_campaigns,_704-681_BC_-_Oriental_Institute_Museum,_University_of_Chicago_-_DSC07602.JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/2f/Six-sided_clay_prism%2C_side_3%2C_written_on_behalf_of_Sennacherib%2C_king_of_Assyria%2C_and_containing_narratives_of_his_military_campaigns%2C_704-681_BC_-_Oriental_Institute_Museum%2C_University_of_Chicago_-_DSC07602.JPG
+  sha1: 6ad8e4591940078b3d8d6da476244b9a0dc39c6b
+  original_size: [3648, 5472]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1067×1600 px
+size: [1067, 1600]
+depicts: [sennacherib-annals]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: antiochus-iv
+file: antiochus-iv.jpg
+title: >-
+  Syria - king Antiochos IV - 175-164 BC - silver tetradrachm - head of Antiochos IV Epiphanes
+  - Zeus Nikephoros - München SMS 01.jpg
+caption: >-
+  Silver tetradrachm with the portrait of Antiochus IV Epiphanes, 175–164 BCE (Staatliche
+  Münzsammlung, Munich).
+description: >-
+  object type: Greek coin - production technique: struck - issuing authority: ruler: Syria,
+  king Antiochos IV Epiphanes - ΑΝΤΙΟΧΟΣ ΕΠΙΦΑΝΗΣ - period / date: ca. 175-164 BC - material:
+  silver - denomination: tetradrachm - weight: ca. 16-17 gr - description obverse: diademed
+  head of Antiochos IV - description reverse: Zeus with sceptre seated on throne, holding
+  Nike with wreath on his outstretched right hand - inscription (Greek): ΒΑΣΙΛΕΩΣ ANTIOXΟΥ
+  ΘΕΟΥ ΕΠΙΦΑΝΟΥΣ ΝΙΚΗΦΟΡΟΥ - museum / inventory number: München, Staatliche Münzsammlung -
+  Please note: The above museum permits photography of its exhib
+creator: ArchaiOptix
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: ArchaiOptix, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Syria_-_king_Antiochos_IV_-_175-164_BC_-_silver_tetradrachm_-_head_of_Antiochos_IV_Epiphanes_-_Zeus_Nikephoros_-_M%C3%BCnchen_SMS_01.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/3d/Syria_-_king_Antiochos_IV_-_175-164_BC_-_silver_tetradrachm_-_head_of_Antiochos_IV_Epiphanes_-_Zeus_Nikephoros_-_M%C3%BCnchen_SMS_01.jpg
+  sha1: efeff2cac3efd3283e8746c4dd3b6eb559b92f75
+  original_size: [3426, 3426]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1600 px
+size: [1600, 1600]
+depicts: [antiochus-iv]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,98 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: bar-rakib-and-panamuwa-inscriptions
+title: Bar-Rakib and Panamuwa Inscriptions (Samʾal)
+aliases: [Panamuwa II Inscription, Hadad Statue, Bar-Rakib Inscriptions, Barrakib]
+type: artifact
+cultures: [aramean, luwian]
+date:
+  from: -770
+  to: -720
+  circa: true
+  display: c. 770–720 BCE
+scope: >-
+  The royal inscriptions of eighth-century Samʾal (Zincirli): the Hadad statue of Panamuwa
+  I, the memorial inscription set up by Bar-Rakib for his father Panamuwa II, and Bar-Rakib's
+  own building inscriptions and reliefs. They document a dynastic coup, Assyrian restoration,
+  and the self-presentation of loyal vassals of Tiglath-pileser III. The earlier Kilamuwa
+  and Katumuwa stelae have their own entries.
+passages:
+- ref: 2Kgs 16:5-9
+  rel: event
+  note: >-
+    Rezin's war and Tiglath-pileser's capture of Damascus, the campaign in which Panamuwa
+    II probably died
+- ref: 2Kgs 16:7-8
+  rel: practice
+  note: Ahaz, 'your servant and your son', buys Assyrian help; Samʾal's kings as loyal vassals
+- ref: 2Kgs 16:10
+  rel: setting
+  note: Ahaz meets Tiglath-pileser at Damascus after its capture
+- ref: Judg 9:5
+  rel: parallel
+  note: Seventy brothers killed in a coup; cf. Bar-Ṣur and his seventy kinsmen
+- ref: 2Kgs 10:6-7
+  rel: parallel
+  note: Seventy sons of Ahab slaughtered in Jehu's coup
+- ref: 1Kgs 3:6
+  rel: concept
+  note: Son seated on his father's throne because of the father's righteousness
+- ref: Ps 21:2-4
+  rel: concept
+  note: God grants the king what he asks, as in Panamuwa I's Hadad inscription (MT 21:3-5)
+- ref: 1Sam 8:11
+  rel: imagery
+  note: Men running before the king's chariots; cf. 'I ran at the wheel of my lord'
+related: [tiglath-pileser-iii, tiglath-pileser-iii-inscriptions, tribute-and-vassalage, kilamuwa-stele,
+  katumuwa-stele, ahaz, rezin, aramaic-language]
+media:
+- id: bar-rakib-and-panamuwa-inscriptions
+  role: primary
+- id: bar-rakib-and-panamuwa-inscriptions-2
+  role: gallery
+external:
+  wikipedia: Panamuwa II inscription
+  wikidata: Q104857371
+editorial:
+  author_notes:
+  - >-
+    Distinguish the pieces. The Hadad statue of Panamuwa I (KAI 214) and the Panamuwa II memorial
+    (KAI 215) are in the local Samʾalian dialect. Bar-Rakib's inscriptions (KAI 216-221) are
+    in standard Old Aramaic. The shift of written language within one dynasty is itself significant.
+    Give holding museums only after verifying each object (Berlin and Istanbul both hold Zincirli
+    finds).
+  - >-
+    KAI 215 tells how Panamuwa II's father Bar-Ṣur was killed with seventy of his kinsmen,
+    how Assyria restored the dynasty, and how Panamuwa died in the camp of his lord Tiglath-pileser,
+    probably during the Damascus campaign of 733-732. The camp mourned him and his body was
+    brought home.
+  - >-
+    Bar-Rakib's phrases ('I ran at the wheel of my lord, the king of Assyria'; 'because of
+    my father's righteousness and my own righteousness') are classic vassal language. They
+    make a close comparison with Ahaz's submission in 2 Kgs 16, without implying any literary
+    link.
+  - >-
+    The Hadad statue directs a future king to invoke 'the soul (nbš) of Panamuwa' to eat and
+    drink with Hadad. Link this royal ancestor cult to the Katumuwa stele and to care-for-the-dead.
+  - >-
+    Panammu of Samʾal appears in Tiglath-pileser III's tribute lists alongside Rezin and Menahem;
+    verify the list and date (c. 738).
+  sources_to_check:
+  - KAI 214
+  - KAI 215
+  - KAI 216
+  - J. Tropper, Die Inschriften von Zincirli (ALASP 6, 1993)
+  image_query: Barrakib relief scribe Zincirli
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

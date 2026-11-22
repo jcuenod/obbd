@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: menorah
+file: menorah.jpg
+title: >-
+  Carrying off the Menorah from the Temple in Jerusalem depicted on a frieze on the Arch of
+  Titus in the Forum Romanum.JPG
+caption: >-
+  Roman soldiers carrying the menorah and other spoils of the Jerusalem Temple, relief on
+  the Arch of Titus, Rome, after 81 CE.
+description: >-
+  Carrying off the Menorah and other spoils from the Temple in Jerusalem depicted on a relief
+  on the Arch of Titus in the Forum Romanum.
+creator: Laurel Lodged
+credit_line: Own work
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Laurel Lodged. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Carrying_off_the_Menorah_from_the_Temple_in_Jerusalem_depicted_on_a_frieze_on_the_Arch_of_Titus_in_the_Forum_Romanum.JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/17/Carrying_off_the_Menorah_from_the_Temple_in_Jerusalem_depicted_on_a_frieze_on_the_Arch_of_Titus_in_the_Forum_Romanum.JPG
+  sha1: ee83c439dda9434d409f0712c29a6689be67b31b
+  original_size: [1944, 2592]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1200×1600 px
+size: [1200, 1600]
+depicts: [arch-of-titus, menorah]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

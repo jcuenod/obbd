@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: qedarite-silver-bowl
+file: qedarite-silver-bowl.jpg
+title: Qaynu-king-of-Qedar-votive-bowl.jpg
+caption: >-
+  Inscribed silver phiale from Tell el-Maskhuta, c. 410 BCE, dedicated by Qaynu son of Gashmu,
+  king of Qedar (Brooklyn Museum, 54.50.34).
+description: >-
+  Inscribed Phiale, ca. 410 B.C.E. Silver, 7/8 x Diam. 6 1/4 in. (2.3 x 15.8 cm). Brooklyn
+  Museum, Charles Edwin Wilbour Fund, 54.50.34. Creative Commons-BY
+creator: Charles Edwin Wilbour Fund
+credit_line: https://www.brooklynmuseum.org/opencollection/objects/67986
+license:
+  id: CC-BY-3.0
+  name: CC BY 3.0
+  url: https://creativecommons.org/licenses/by/3.0
+attribution: Charles Edwin Wilbour Fund, CC BY 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Qaynu-king-of-Qedar-votive-bowl.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/5/52/Qaynu-king-of-Qedar-votive-bowl.jpg
+  sha1: 7ed7a26ac842c97764ec4ea5aba3bbf79c55ad7a
+  original_size: [384, 323]
+  retrieved: '2026-11-20'
+derivative: null
+size: [384, 323]
+depicts: [qedarite-silver-bowl]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

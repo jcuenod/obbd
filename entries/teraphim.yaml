@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: teraphim
+title: Teraphim
+type: realia
+cultures: [hebrew, hurrian, babylonian, hittite]
+scope: >-
+  The tĕrāpîm, cultic objects of debated form and function (household gods, ancestor figurines,
+  divinatory images) that appear in patriarchal, judges, monarchic, and prophetic texts, at
+  first without and later with condemnation.
+passages:
+- ref: Gen 31:19
+  rel: realia
+  note: Rachel steals her father's teraphim
+- ref: Gen 31:30-35
+  rel: realia
+  note: Laban seeks his 'gods'; Rachel hides them in the camel saddle
+- ref: Judg 17:5
+  rel: realia
+  note: Micah's shrine with ephod and teraphim
+- ref: Judg 18:14-20
+  rel: realia
+  note: Danites take the ephod, teraphim, and image
+- ref: 1Sam 19:13-16
+  rel: realia
+  note: Michal places teraphim in David's bed as a decoy
+- ref: 1Sam 15:23
+  rel: polemic
+  note: Stubbornness likened to iniquity and teraphim
+- ref: 2Kgs 23:24
+  rel: practice
+  note: Josiah removes mediums, wizards, teraphim, and idols
+- ref: Ezek 21:21
+  rel: practice
+  note: King of Babylon consults the teraphim; MT 21:26
+- ref: Hos 3:4
+  rel: realia
+  note: Israel to remain without ephod or teraphim
+- ref: Zech 10:2
+  rel: polemic
+  note: '''The teraphim utter nonsense'''
+related: [nuzi-texts, care-for-the-dead, necromancy, ephod, divination, emar-texts, cult-images]
+media: []
+external:
+  wikipedia: Teraphim
+  wikidata: Q507023
+editorial:
+  author_notes:
+  - >-
+    The view that Rachel stole the teraphim to secure inheritance rights, based on Nuzi texts
+    (Speiser; Draffkorn), is now largely abandoned. Correct it explicitly. Emar and Nuzi texts
+    do link household gods (ilānu) with family estates, but this is not evidence for the Genesis
+    motive.
+  - >-
+    Van der Toorn (CBQ 52, 1990) argues that teraphim were ancestor figurines used in divination.
+    This is widely followed but not certain.
+  - >-
+    Size and form are unclear. 1 Sam 19 suggests a human-sized object or a head, while Gen
+    31 suggests something small. The etymology is unknown (proposals include Hittite tarpiš
+    and Hebrew rp' or "Rephaim"). Avoid overconfident identifications with archaeological
+    figurines.
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

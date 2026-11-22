@@ -1,0 +1,72 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: izbet-sartah-abecedary
+title: ʿIzbet Ṣarṭah Abecedary
+aliases: [ʿIzbet Ṣarṭah Ostracon]
+type: artifact
+cultures: [canaanite, hebrew]
+date:
+  from: -1200
+  to: -1000
+  circa: true
+  display: c. 1200–1000 BCE
+scope: >-
+  An Iron Age I ostracon from ʿIzbet Ṣarṭah near Rosh HaʿAyin (found 1976) with four lines
+  of practice letters and a full abecedary. It is a key witness to the early alphabet and
+  its letter order, and to writing in a small highland village.
+passages:
+- ref: Lam 2:16-17; 3:46-51; 4:16-17
+  rel: form
+  note: Acrostics with pe before ʿayin, the order of the abecedary
+- ref: Ps 119
+  rel: form
+  note: Alphabetic acrostic presupposing a fixed letter order
+- ref: Prov 31:10-31
+  rel: form
+  note: Alphabetic acrostic
+- ref: Judg 8:14
+  rel: practice
+  note: A young man writes down names, implying basic literacy
+- ref: Isa 28:9-10
+  rel: practice
+  disputed: true
+  note: ṣaw lāṣāw qaw lāqāw, perhaps letters recited in alphabet teaching
+- ref: 1Sam 4:1
+  rel: setting
+  disputed: true
+  note: Site sometimes identified with Ebenezer
+related: [writing-and-literacy, scribes-and-scribal-education, proto-sinaitic-script, paleo-hebrew-script,
+  emergence-of-israel, ostraca]
+media: []
+external:
+  wikipedia: Izbet Sartah abecedary
+  wikidata: Q20426684
+editorial:
+  author_notes:
+  - >-
+    The pe-ʿayin order also appears in other abecedaries (e.g. Kuntillet ʿAjrud) and in Lam
+    2-4. This makes it an early alternative letter order, not a scribal error.
+  - >-
+    The script is transitional Proto-Canaanite. Its language and ethnic attribution are uncertain,
+    so do not label it 'Israelite'.
+  - >-
+    The ostracon looks like a student exercise. Use it carefully in literacy debates: it shows
+    that someone was learning, not that literacy was widespread.
+  sources_to_check:
+  - Kochavi, Tel Aviv 4 (1977)
+  - Demsky, Tel Aviv 4 (1977)
+  - Finkelstein, ʿIzbet Ṣarṭah (BAR International Series 299, 1986)
+  image_query: Izbet Sartah ostracon abecedary
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

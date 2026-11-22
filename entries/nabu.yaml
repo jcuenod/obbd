@@ -1,0 +1,66 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: nabu
+title: Nabu (Nebo)
+aliases: [Nebo, Nabû]
+type: deity
+cultures: [babylonian, assyrian]
+scope: >-
+  Nabu, Babylonian god of scribes and writing, son of Marduk, with his main temple (Ezida)
+  at Borsippa and a major cult in first-millennium Assyria. The entry covers his cult and
+  his presence in biblical names and polemic.
+passages:
+- ref: Isa 46:1
+  rel: polemic
+  note: '''Nebo stoops'' beside Bel in the procession of Babylon''s gods'
+- ref: Dan 1:7
+  rel: language
+  note: Abednego, a deformation of Abed-Nabu 'servant of Nabu'
+- ref: 2Kgs 25:8
+  rel: language
+  note: Nebuzaradan (Nabu-zer-iddin), captain of the guard
+- ref: Jer 39:13
+  rel: language
+  note: Nebushazban, a Babylonian officer
+- ref: Num 32:38
+  rel: language
+  disputed: true
+  note: The Moabite town Nebo, possibly named for the god
+- ref: Ezek 9:2-4
+  rel: imagery
+  disputed: true
+  note: Man in linen with a scribe's writing case who marks the righteous
+related: [marduk, nebuchadnezzar-ii, tablet-of-destinies, scribes-and-scribal-education, babylon,
+  nimrud]
+media:
+- id: nabu
+  role: primary
+external:
+  wikipedia: Nabu
+  wikidata: Q392239
+editorial:
+  author_notes:
+  - >-
+    Nebuchadnezzar (Nabu-kudurri-uṣur) and many Babylonian names carry Nabu; give the etymology.
+  - >-
+    Nabu as keeper of the Tablet of Destinies and divine scribe is a frequent comparison for
+    heavenly books and the scribal figure in Ezek 9; present as background, not source.
+  - Whether Mount Nebo and the Moabite town reflect the Mesopotamian god is debated.
+  - >-
+    Aramaic papyri from Hermopolis mention a temple of Nabu at Syene, showing the cult among
+    Arameans in Egypt.
+  sources_to_check: ['DDD, s.v. "Nabu"']
+  image_query: Statue of Nabu Nimrud British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

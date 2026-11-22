@@ -1,0 +1,66 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: famine-stele
+title: Famine Stele
+aliases: [Famine Stela]
+type: artifact
+cultures: [egyptian]
+date:
+  from: -250
+  to: -150
+  circa: true
+  display: c. 250–150 BCE
+scope: >-
+  A Ptolemaic-period rock inscription on Sehel Island near Aswan, set in the reign of Djoser
+  (Third Dynasty). It tells of seven years of low Nile floods and famine, the king's consultation
+  of Imhotep, and a dream in which Khnum promises renewed inundation. In gratitude Djoser
+  grants revenues to Khnum's temple.
+passages:
+- ref: Gen 41:25-36
+  rel: parallel
+  note: Seven years of famine tied to the Nile and announced in a royal dream
+- ref: Gen 41:1-8
+  rel: parallel
+  note: Troubled pharaoh seeks an interpreter (cf. Djoser and Imhotep)
+- ref: Gen 47:22, 26
+  rel: practice
+  note: Temple land and grain levies in Egypt; cf. the stele's grant to Khnum
+related: [khnum, nile, dreams-and-dream-interpretation, dream-stele, elephantine]
+location:
+  institution: In situ, Sehel Island, Aswan
+  accession: null
+media:
+- id: famine-stele
+  role: primary
+external:
+  wikipedia: Famine Stela
+  wikidata: Q1419777
+editorial:
+  author_notes:
+  - >-
+    The stele is a Ptolemaic composition (probably 2nd century BCE) with an Old Kingdom setting.
+    It is likely a priestly text supporting the Khnum temple's claims to revenue, possibly
+    against the claims of Isis of Philae. It is not evidence for a historical famine under
+    Djoser.
+  - >-
+    Because it postdates Genesis, it cannot be its source. The parallel reflects a shared
+    tradition of seven-year famines and Nile failure. Compare also seven-year cycles of plenty
+    and dearth in Mesopotamian and Ugaritic texts.
+  - >-
+    Do not use the stele to argue for the historicity of Joseph's famine. Use it to illustrate
+    Egyptian anxieties about the inundation.
+  sources_to_check: ['AEL 3:94-103', ANET 31-32]
+  image_query: Famine Stela Sehel Island
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,83 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: baal
+title: Baal
+aliases: [Baʿal, Baʿlu, Hadad]
+type: deity
+cultures: [canaanite, ugaritic, phoenician]
+scope: >-
+  Baal ("lord, owner"), the West Semitic storm and fertility god, identified with Hadad, hero
+  of the Ugaritic Baal Cycle and chief rival of YHWH in the biblical narratives of the Omride
+  period. The entry covers Baal at Ugarit and in the first-millennium Levant, local Baals,
+  and biblical polemic.
+passages:
+- ref: Judg 2:11-13
+  rel: polemic
+  note: 'Deuteronomistic summary: Israel serves the Baals and Astartes'
+- ref: Judg 6:25-32
+  rel: polemic
+  note: Gideon destroys Baal's altar; etiology of Jerubbaal
+- ref: 1Kgs 16:31-33
+  rel: attests
+  note: Ahab builds a temple and altar of Baal in Samaria
+- ref: 1Kgs 18:17-40
+  rel: polemic
+  note: Contest on Carmel over rain and fire; Elijah mocks Baal's absence
+- ref: 2Kgs 10:18-28
+  rel: polemic
+  note: Jehu destroys the temple and worshippers of Baal
+- ref: 2Kgs 11:18
+  rel: attests
+  note: Temple of Baal and its priest Mattan in Jerusalem
+- ref: Hos 2:8
+  rel: polemic
+  note: Grain, wine and oil come from YHWH, not Baal (MT 2:10)
+- ref: Hos 2:16-17
+  rel: language
+  note: '''My husband'' (ʾîšî), not ''my baal''; names of the Baals removed (MT 2:18-19)'
+- ref: 2Sam 2:8
+  rel: language
+  note: 'Ishbosheth, for Eshbaal (1 Chr 8:33): bōšet substituted for Baal'
+- ref: Ps 29
+  rel: imagery
+  note: Storm theophany drawing on Baal's attributes
+related: [baal-cycle, baal-with-thunderbolt, hadad-rimmon, melqart, baal-zebub, jezebel, cloud-rider,
+  asherah]
+media:
+- id: baal
+  role: primary
+external:
+  wikipedia: Baal
+  wikidata: Q590467
+editorial:
+  author_notes:
+  - >-
+    Distinguish Baal as the title of a specific god (Baal-Hadad at Ugarit) from the many local
+    "baals" (Baal-peor, Baal-berith, Baal-zebub) and from the common noun baʿal "lord, husband".
+  - >-
+    Which Baal Ahab and Jezebel promoted (Baal-Shamem, Melqart of Tyre, or a local Baal) is
+    debated; do not assert Melqart as fact.
+  - >-
+    Baal-names among Israelites (Jerubbaal, Eshbaal, Meribbaal; Samaria ostraca) suggest baʿal
+    could be used of YHWH before Hosea-era polemic; note the later bōšet ("shame") substitutions.
+  - >-
+    Avoid portraying "Baalism" as a fertility cult with sacred prostitution; that model is
+    now widely rejected.
+  sources_to_check:
+  - KTU 1.1-1.6
+  - J. Day, Yahweh and the Gods and Goddesses of Canaan (JSOTSup 265, 2000)
+  - DDD, s.v. "Baal"
+  image_query: Baal bronze statuette Ugarit
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: trumpeting-place-inscription
+file: trumpeting-place-inscription.jpg
+title: Trumpeting place Zeigarnik.jpg
+caption: >-
+  The Trumpeting-Place inscription, 1st century CE, found by Benjamin Mazar in 1968 below
+  the Temple Mount (Israel Museum, Jerusalem).
+description: "The Trumpeting Place inscription is an inscribed stone from the 1st century\
+  \ CE discovered in 1968 by Benjamin Mazar in his early excavations of the southern wall\
+  \ of the Temple Mount. The stone, showing just two complete words written in the Square\
+  \ Hebrew alphabet, was carved above a wide depression cut into the inner face of the stone.\
+  \ The first word is translated as \"to the place\" and the second word \"of trumpeting\"\
+  \ or \"of blasting\" or \"of blowing\", giving the phrase \"To the Trumpeting Place\". The\
+  \ subsequent words of the inscription are cut off. Present location Israel Museum (Identification "
+creator: Andrey Zeigarnik from Raanana, Israel
+credit_line: 25 -- 8V2A3059
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: Andrey Zeigarnik from Raanana, Israel, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Trumpeting_place_Zeigarnik.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/d/d0/Trumpeting_place_Zeigarnik.jpg
+  sha1: d87f2fda7751313bc784b212069154b13e7d997b
+  original_size: [6720, 3710]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×883 px
+size: [1600, 883]
+depicts: [trumpeting-place-inscription]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,70 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: dagon
+title: Dagon
+aliases: [Dagan]
+type: deity
+cultures: [amorite, ugaritic, philistine]
+scope: >-
+  Dagon (Dagan), a major Syrian and Middle Euphrates deity of the Bronze Age, worshipped at
+  Ebla, Mari, Terqa, Tuttul, Emar and Ugarit, and in the Iron Age the chief god of the Philistines
+  at Ashdod and Gaza according to the Bible.
+passages:
+- ref: Judg 16:23
+  rel: attests
+  note: Philistine lords sacrifice to Dagon their god at Gaza
+- ref: 1Sam 5:1-5
+  rel: polemic
+  note: Dagon falls broken before the ark in his temple at Ashdod
+- ref: 1Sam 5:5
+  rel: practice
+  note: Dagon's priests avoid treading on the threshold
+- ref: 1Chr 10:10
+  rel: attests
+  note: Saul's head fastened in the temple of Dagon
+- ref: Josh 15:41
+  rel: language
+  note: Beth-dagon, a town in the Judean lowland
+- ref: 1Macc 10:83-84
+  rel: attests
+  note: Jonathan burns the temple of Dagon at Azotus
+related: [philistines, ashdod, gaza, ark-of-the-covenant, emar-texts, mari-letters, ugarit,
+  apkallu-reliefs]
+media:
+- id: dagon
+  role: primary
+external:
+  wikipedia: Dagon
+  wikidata: Q623065
+editorial:
+  author_notes:
+  - >-
+    Correct the "fish-god" misconception, based on folk etymology from Hebrew dāg "fish" in
+    medieval exegesis and on nineteenth-century misidentification of Assyrian fish-cloaked
+    apkallu figures as Dagon.
+  - >-
+    Etymology is debated (Hebrew dāgān "grain"; a root meaning "cloud, rain"); Philo of Byblos
+    equates Dagon with Siton (grain). Present options.
+  - >-
+    At Ugarit Baal is "son of Dagan", yet Dagan has no role in the myths; two dedicatory stelae
+    name Dagan, and one acropolis temple is often attributed to him.
+  - >-
+    The Philistines likely adopted a Semitic deity after settling; this bears on Philistine
+    acculturation.
+  sources_to_check:
+  - L. Feliu, The God Dagan in Bronze Age Syria (CHANE 19, 2003)
+  - DDD, s.v. "Dagon"
+  image_query: Dagan stele Ugarit
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

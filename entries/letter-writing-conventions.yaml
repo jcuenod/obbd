@@ -1,0 +1,87 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: letter-writing-conventions
+title: Letter-Writing Conventions
+aliases: [Epistolography, Ancient letters]
+type: concept
+cultures: [ane, judahite, aramean, persian]
+scope: >-
+  The structure and formulas of ancient Hebrew, Aramaic and other Near Eastern letters (address,
+  greeting, transition markers, body), and the practices of writing, sealing and sending them.
+  The entry covers letters quoted or described in the Bible, compared with Lachish, Arad,
+  Elephantine and Amarna letters.
+passages:
+- ref: 2Sam 11:14-15
+  rel: practice
+  note: David's letter carried by Uriah
+- ref: 1Kgs 21:8-11
+  rel: practice
+  note: Jezebel writes in Ahab's name and seals with his seal
+- ref: 2Kgs 5:5-7
+  rel: form
+  note: 'Aramean king''s letter: ''and now (wĕʿattâ), when this letter reaches you'''
+- ref: 2Kgs 10:1-7
+  rel: form
+  note: Jehu's letters to the rulers of Samaria
+- ref: 2Kgs 19:14
+  rel: practice
+  note: Hezekiah spreads the Assyrian letter before YHWH (= Isa 37:14)
+- ref: Jer 29:1-23
+  rel: form
+  note: Jeremiah's letter to the exiles in Babylon
+- ref: Ezra 4:7-22
+  rel: form
+  note: 'Aramaic correspondence: address, ''your servants'', transition kĕʿenet'
+- ref: Ezra 5:6-17
+  rel: form
+  note: Tattenai's report to Darius
+- ref: Ezra 7:11-26
+  rel: form
+  note: Artaxerxes' rescript to Ezra
+- ref: Neh 6:5-7
+  rel: practice
+  note: Sanballat's open letter
+- ref: Esth 3:12-15
+  rel: practice
+  note: Royal letters written in every script, sealed and sent by couriers
+- ref: Acts 15:23-29
+  rel: form
+  note: Hellenistic letter with 'greetings' (chairein)
+related: [lachish-letters, arad-ostraca, elephantine-papyri, amarna-letters, mesad-hashavyahu-ostracon,
+  seals-and-bullae, aramaic-language, scribes-and-scribal-education]
+media:
+- id: letter-writing-conventions
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Hebrew letters follow a pattern: address ('to my lord X, your servant Y'), blessing or
+    greeting ('may YHWH cause my lord to hear tidings of peace'), transition wĕʿattâ, then
+    the body. Aramaic uses kʿt or kʿnt.
+  - >-
+    Standard references: D. Pardee, Handbook of Ancient Hebrew Letters (1982); J. A. Fitzmyer,
+    'Some Notes on Aramaic Epistolography' (JBL 93, 1974); J. M. Lindenberger, Ancient Aramaic
+    and Hebrew Letters.
+  - >-
+    The authenticity of the Aramaic documents in Ezra 4–7 is debated, with assessments ranging
+    from authentic but edited to literary compositions. Compare Elephantine and the Arshama
+    letters.
+  sources_to_check:
+  - TAD A4.7 (Elephantine temple petition)
+  - D. Pardee, Handbook of Ancient Hebrew Letters (1982)
+  - J. M. Lindenberger, Ancient Aramaic and Hebrew Letters (SBLWAW 14; 2nd ed., 2003)
+  image_query: Lachish letter ostracon
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-1-sol

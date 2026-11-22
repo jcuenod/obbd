@@ -1,0 +1,73 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: lmlk-seal-impressions
+title: LMLK Seal Impressions
+aliases: [LMLK stamps, Royal Judahite jar handles]
+type: realia
+cultures: [judahite]
+date:
+  from: -725
+  to: -650
+  circa: true
+  display: c. 725–650 BCE
+scope: >-
+  Stamp impressions reading lmlk ('belonging to the king'), with one of four place names (Hebron,
+  Ziph, Socoh, mmšt) and a four-winged scarab or two-winged sun disk, found on the handles
+  of thousands of standardised Judahite storage jars. The entry also covers the associated
+  private seal impressions and the later rosette stamps.
+passages:
+- ref: 2Chr 32:27-29
+  rel: practice
+  note: Hezekiah's storehouses for grain, wine and oil
+- ref: 2Chr 32:2-5
+  rel: setting
+  note: Judahite preparations for Sennacherib's invasion
+- ref: 2Kgs 18:13-16
+  rel: setting
+  note: Sennacherib's 701 campaign; jars in the destruction of Lachish Level III
+- ref: Josh 15:35, 48, 54-55
+  rel: attests
+  note: Socoh, Hebron and Ziph, three of the four lmlk place names
+- ref: 1Chr 4:23
+  rel: practice
+  disputed: true
+  note: Potters who lived 'with the king in his work'
+related: [hezekiah, sennacherib-campaign-701, lachish, hebron, seals-and-bullae, winged-sun-disk,
+  hezekiah-bulla, yehud-seals-and-coins]
+media:
+- id: lmlk-seal-impressions
+  role: primary
+external:
+  wikipedia: LMLK seal
+  wikidata: Q2246331
+editorial:
+  author_notes:
+  - >-
+    Ussishkin's stratigraphy at Lachish placed lmlk jars before 701 and tied them to Hezekiah.
+    Lipschits, Sergi and Koch (2010) argue for a longer sequence into the 7th century, with
+    the two-winged type later. Explain both.
+  - >-
+    The meaning of the four place names (royal estates, production or collection centres)
+    and the reading of mmšt (an unknown town or memšelet, 'government') are unresolved.
+  - >-
+    Avoid presenting the jars as direct evidence for the details of 2 Chr 32. Treat the Chronicles
+    link as a plausible correlation.
+  sources_to_check:
+  - Ussishkin, BASOR 223 (1976)
+  - Lipschits, Sergi and Koch, Tel Aviv 37 (2010)
+  - >-
+    Vaughn, Theology, History, and Archaeology in the Chronicler's Account of Hezekiah (1999)
+  image_query: LMLK seal impression jar handle
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

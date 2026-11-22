@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ahiram-sarcophagus-2
+file: ahiram-sarcophagus-2.png
+title: Sarcophag of Ahiram inscription (0).png
+caption: Drawing of the Phoenician inscription on the Ahiram sarcophagus.
+description: >-
+  Drawing of the Phoenician text on the Ahiram sarcophagus. This is an edit of Sarcophag_of_Ahiram_inscription.png,
+  whereby the original configuration of the textstrings was restored, namely a short first
+  line (on the head side of the sarcophagus), and a longer second line (on the side of its
+  lid). In Sarcophag_of_Ahiram_inscription.png the long second line was cut in two, and the
+  first part of line 2 was then "pasted" to line 1.
+creator: Hans van Deukeren
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Hans van Deukeren, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sarcophag_of_Ahiram_inscription_(0).png
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/1c/Sarcophag_of_Ahiram_inscription_%280%29.png
+  sha1: 664c7aa6025e8de421d33bb7c8192704c2a47fc2
+  original_size: [2631, 156]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×95 px
+size: [1600, 95]
+depicts: [ahiram-sarcophagus]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

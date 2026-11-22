@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ahiram-sarcophagus
+title: Sarcophagus of Ahiram
+type: artifact
+cultures: [phoenician]
+date:
+  from: -1000
+  to: -1000
+  circa: true
+  display: c. 1000 BCE
+scope: >-
+  The limestone sarcophagus of Ahiram, king of Byblos, found in 1923, with relief scenes of
+  the king enthroned on a sphinx (cherub) throne and of mourners. It bears a Phoenician inscription
+  by his son Ittobaal cursing anyone who disturbs the coffin, one of the earliest substantial
+  Phoenician texts.
+passages:
+- ref: 1Sam 4:4
+  rel: realia
+  note: YHWH 'enthroned on the cherubim'; Ahiram sits on a sphinx-flanked throne
+- ref: Ps 80:1
+  rel: realia
+  note: '''Enthroned upon the cherubim'' (MT 80:2)'
+- ref: 1Kgs 10:18-20
+  rel: realia
+  note: Royal throne with animal figures and a footstool
+- ref: Ps 110:1
+  rel: realia
+  note: Footstool as part of the royal throne
+- ref: Isa 14:5
+  rel: imagery
+  note: Breaking the staff of rulers; cf. the curse 'may the staff of his rule be torn away'
+- ref: Jer 9:17-20
+  rel: practice
+  note: Professional mourning women (MT 9:16-19); cf. the mourners on the sarcophagus
+- ref: Ezek 27:9
+  rel: setting
+  note: Gebal (Byblos) and its craftsmen
+related: [byblos, cherub-throne, footstool, cherubim, phoenicians, mourning-rites, proto-sinaitic-script]
+location:
+  institution: National Museum of Beirut
+  accession: null
+media:
+- id: ahiram-sarcophagus
+  role: primary
+- id: ahiram-sarcophagus-2
+  role: gallery
+- id: cherub-throne-2
+  role: gallery
+external:
+  wikipedia: Ahiram sarcophagus
+  wikidata: Q1972397
+editorial:
+  author_notes:
+  - >-
+    The date is debated: the inscription is usually dated c. 1000 on palaeographic grounds.
+    Some argue the sarcophagus and reliefs are older (13th century) and were reused. Present
+    both views.
+  - >-
+    The throne is the best visual parallel for the biblical 'cherub throne'. Keep the iconographic
+    argument (cherub = winged sphinx) clear.
+  - >-
+    Mention the warning graffito in the shaft and the curse formula as early examples of tomb
+    protection, and compare the Silwan and Sidonian tomb curses.
+  sources_to_check: [KAI 1]
+  image_query: Ahiram sarcophagus National Museum of Beirut
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

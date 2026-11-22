@@ -1,0 +1,87 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: jehoiachin-ration-tablets
+title: Jehoiachin's Ration Tablets
+aliases: [Jehoiachin's Rations Tablets, Babylonian ration lists]
+type: artifact
+cultures: [babylonian]
+date:
+  from: -595
+  to: -570
+  circa: true
+  display: c. 595–570 BCE
+scope: >-
+  Administrative cuneiform tablets from Nebuchadnezzar II's palace in Babylon listing oil
+  rations for foreign dependants. They include "Yaʾukin, king of the land of Yahudu", his
+  five sons, and other Judeans, and are direct evidence for the exiled king's maintenance
+  at the Babylonian court.
+passages:
+- ref: 2Kgs 25:27-30
+  rel: attests
+  note: >-
+    Allowance at the Babylonian court after 562; the tablets show royal rations already c.
+    592
+- ref: Jer 52:31-34
+  rel: attests
+  note: Jehoiachin's regular allowance from the king of Babylon
+- ref: 2Kgs 24:12, 15
+  rel: attests
+  note: Jehoiachin and his household taken to Babylon in 597
+- ref: 1Chr 3:17-18
+  rel: attests
+  note: Sons of Jehoiachin; the tablets list five sons of the king of Judah
+- ref: Ezek 1:2
+  rel: setting
+  note: Exilic dating by King Jehoiachin's exile
+related: [jehoiachin, babylonian-exile, nebuchadnezzar-ii, amel-marduk, babylon, nebuchadnezzar-chronicle]
+location:
+  institution: Vorderasiatisches Museum, Berlin
+  accession: null
+media:
+- id: babylonian-exile
+  role: gallery
+- id: jehoiachin-ration-tablets
+  role: primary
+- id: jehoiachin-ration-tablets-2
+  role: gallery
+external:
+  wikipedia: Jehoiachin's Rations Tablets
+  wikidata: Q16851192
+editorial:
+  author_notes:
+  - >-
+    Excavated in the Southern Palace at Babylon by Koldewey's expedition and published by
+    Weidner (1939). One relevant text is dated to Nebuchadnezzar's 13th year (592/591); verify
+    the date range of the group.
+  - >-
+    The tablets predate Amel-Marduk's release of Jehoiachin (2 Kgs 25:27; 562) by about three
+    decades and show he was provisioned and still titled 'king' early in his exile; discuss
+    how this fits 'released from prison'.
+  - >-
+    Other recipients (from Ashkelon, Egypt, Ionia, Lydia, etc.) illustrate the cosmopolitan
+    court of Babylon.
+  sources_to_check:
+  - >-
+    E. F. Weidner, 'Jojachin, König von Juda, in babylonischen Keilschrifttexten,' in Mélanges
+    syriens offerts à M. René Dussaud (1939), 2:923-935
+  - ANET 308
+  image_query: Jehoiachin ration tablet Pergamon Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: 2Kgs 25:27-30 note clarified: tablets (c. 592)
+    predate the 562 release
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

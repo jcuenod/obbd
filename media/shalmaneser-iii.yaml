@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: shalmaneser-iii
+file: shalmaneser-iii.jpg
+title: Kurba'il Statue of Shalmaneser III at the Iraq Museum in Baghdad.jpg
+caption: >-
+  The Kurba'il statue of Shalmaneser III from Fort Shalmaneser at Nimrud, c. 858–824 BCE (Iraq
+  Museum, Baghdad).
+description: >-
+  Kurba'il Statue of the Assyrian king Shalmaneser III from Fort Shalmaneser (in Nimrud, Mesopotamia,
+  Iraq), c. 858-824 BCE. On display at the Iraq Museum, Baghdad. ND10000
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Kurba%27il_Statue_of_Shalmaneser_III_at_the_Iraq_Museum_in_Baghdad.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/7a/Kurba%27il_Statue_of_Shalmaneser_III_at_the_Iraq_Museum_in_Baghdad.jpg
+  sha1: 3a839417f6282ac107ae7a9b102161df0e7eb37f
+  original_size: [4016, 5747]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1118×1600 px
+size: [1118, 1600]
+depicts: [shalmaneser-iii]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

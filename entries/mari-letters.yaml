@@ -1,0 +1,96 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: mari-letters
+title: Mari Archives
+aliases: [Mari texts, Mari tablets, Royal Archives of Mari]
+type: text
+cultures: [amorite]
+date:
+  from: -1810
+  to: -1761
+  circa: true
+  display: c. 1810–1761 BCE
+scope: >-
+  The roughly 20,000 cuneiform tablets from the palace of Mari (Tell Hariri, Syria), mainly
+  letters and administrative texts from the reigns of Yasmah-Addu and Zimri-Lim before Hammurabi's
+  conquest. They are a major source for Amorite tribal society, treaty ritual, and above all
+  prophecy outside Israel.
+passages:
+- ref: Deut 13:1-5
+  rel: practice
+  note: Prophets and dreamers whose words must be checked (MT 13:2-6)
+- ref: Deut 18:15-22
+  rel: practice
+  note: Prophets alongside diviners; testing a prophet's word
+- ref: 1Kgs 22:5-28
+  rel: practice
+  note: Several prophets consulted before war; conflicting oracles
+- ref: 2Sam 7:8-16
+  rel: concept
+  note: Oracle legitimating a king and his house (Adad of Aleppo to Zimri-Lim)
+- ref: Ps 89:25
+  rel: imagery
+  note: >-
+    King's hand set on Sea; Adad gives Zimri-Lim the weapons he used against the Sea (MT 89:26)
+- ref: Gen 15:9-10, 17
+  rel: practice
+  note: Covenant ratified by killing an animal ('killing a donkey foal')
+- ref: Josh 7:1, 10-26
+  rel: practice
+  disputed: true
+  note: Taboo (asakkum) on booty reserved for god or king; cf. Achan and ḥērem
+- ref: Exod 30:11-16
+  rel: practice
+  disputed: true
+  note: Census involving ritual purification and danger (Speiser)
+- ref: Gen 35:18
+  rel: language
+  disputed: true
+  note: Binu-yamina, 'sons of the right/south' tribal group; cf. Benjamin
+related: [prophecy-in-the-ane, mari, covenant-cutting-ceremony, herem, amorites, neo-assyrian-prophecies,
+  dreams-and-dream-interpretation, chaoskampf]
+media:
+- id: mari-letters
+  role: primary
+external:
+  wikipedia: Mari texts
+  wikidata: Q141765056
+editorial:
+  author_notes:
+  - >-
+    About 50 letters report oracles of āpilum ('answerer'), muḫḫûm ('ecstatic'), and others,
+    many published in ARM 26. Officials sometimes sent the prophet's hair and garment hem
+    so the message could be checked by extispicy.
+  - >-
+    The Adad of Aleppo letter (A.1968), in which the god gives Zimri-Lim the weapons he used
+    against Têmtum (Sea), is key for the royal chaoskampf of Ps 89 and for Lambert's case
+    that the combat myth is West Semitic.
+  - >-
+    Older 'Mari and the patriarchs' comparisons (tribal terms, gôy/gāyum, nāweh, ḥērem/asakkum,
+    census) should be nuanced; Fleming (2004) offers a recent treatment of Mari tribal politics.
+  - >-
+    The Binu-yamina reading (formerly 'Benjaminites') is onomastic; do not imply a historical
+    link with Israel's Benjamin.
+  sources_to_check:
+  - J.-M. Durand, Archives épistolaires de Mari I/1 (ARM 26/1, 1988)
+  - >-
+    M. Nissinen, Prophets and Prophecy in the Ancient Near East (SBLWAW 12, 2003; 2nd ed.
+    2019)
+  - W. Heimpel, Letters to the King of Mari (2003)
+  - A. Malamat, Mari and the Bible (1998)
+  - >-
+    D. E. Fleming, Democracy's Ancient Ancestors: Mari and Early Collective Governance (2004)
+  image_query: Mari tablet Zimri-Lim letter
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

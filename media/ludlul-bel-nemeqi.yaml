@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ludlul-bel-nemeqi
+file: ludlul-bel-nemeqi.jpg
+title: Ludlul bel nemeqi Ninive.jpg
+caption: Clay tablet of Ludlul bēl nēmeqi ('I will praise the lord of wisdom') from Nineveh.
+description: >-
+  Tablet of the Babylonian wisdom text Ludlul bēl nēmeqi, "I praise the Lord of wisdom", often
+  nicknamed "Monologue of the righteous sufferer". Version of the 7th century BC. AD, Nineveh,
+  "Library of Ashurbanipal". Fragments K 2518 + DT 358, deposit from the British Museum at
+  the Louvre Museum.
+creator: Zunkir
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Zunkir, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ludlul_bel_nemeqi_Ninive.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/c/c2/Ludlul_bel_nemeqi_Ninive.jpg
+  sha1: 88352cd3295e0aaa9b910533df04edaa67dfb0a1
+  original_size: [2653, 4654]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 912×1600 px
+size: [912, 1600]
+depicts: [ludlul-bel-nemeqi]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

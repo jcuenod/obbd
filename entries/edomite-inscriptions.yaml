@@ -1,0 +1,87 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: edomite-inscriptions
+title: Edomite Inscriptions (Horvat ʿUza, Buseirah, Qos seals)
+aliases: [Horvat ʿUza Ostracon, Qos-gabar Seal, Qosʿanal Seal Impressions]
+type: artifact
+cultures: [edomite]
+date:
+  from: -700
+  to: -550
+  circa: true
+  display: c. 700–550 BCE
+scope: >-
+  The small corpus of Iron Age Edomite inscriptions: ostraca, seals and seal impressions from
+  Buseirah (Bozrah), Umm el-Biyara, Tell el-Kheleifeh and the eastern Negev, including the
+  Horvat ʿUza letter that blesses its recipient by Qos. It covers the Edomite script and language
+  and what the texts show about Edomite religion and expansion. Edomite history in general
+  is treated under edomites and the god under qos.
+passages:
+- ref: 2Kgs 16:6
+  rel: setting
+  note: >-
+    Edomites settle at Elath (MT Kethiv 'Arameans', Qere 'Edomites'); cf. Edomite seal impressions
+    at Tell el-Kheleifeh
+- ref: 2Chr 28:17
+  rel: setting
+  note: Edomite raids on Judah in the reign of Ahaz
+- ref: Ezek 35:10
+  rel: setting
+  note: Edom claims Judah's land; cf. Edomite letters and a shrine in the Negev
+- ref: Obad 10-14
+  rel: setting
+  note: Edom's conduct at Judah's fall, against the background of Edomite expansion westward
+- ref: Jer 49:7-22
+  rel: setting
+  note: Oracle against Edom naming Teman and Bozrah
+- ref: Ezra 2:53
+  rel: language
+  note: Barkos, a Qos-theophoric name of the type common in Edomite inscriptions
+related: [qos, edomites, bozrah, arad-ostraca, ezion-geber, seals-and-bullae, ostraca, petra-and-sela]
+media:
+- id: edomite-inscriptions
+  role: primary
+external:
+  wikipedia: Edomite language
+  wikidata: Q2363529
+editorial:
+  author_notes:
+  - >-
+    Outline the corpus and verify each item: the Horvat ʿUza ostracon (a letter of c. 600
+    BCE invoking a blessing by Qos), the Umm el-Biyara seal impression of Qos-gabar king of
+    Edom (the Qaus-gabri of Esarhaddon's and Ashurbanipal's inscriptions), the Tell el-Kheleifeh
+    jar impressions of 'Qosʿanal, servant of the king', ostraca and seals from Buseirah, and
+    the inscriptions from the Horvat Qitmit shrine.
+  - >-
+    The Edomite script had developed distinctive letter forms by the seventh century, with
+    influence from Aramaic cursive. Whether particular finds from Judahite sites are Edomite
+    or Judahite is sometimes debated, so classify them with care.
+  - >-
+    The texts confirm Qos as the main Edomite god and an Edomite presence in the eastern Negev
+    in the late seventh and early sixth centuries; compare Arad ostracon 24, which warns of
+    Edom. Do not assume all Edomite presence was military. Trade and mixed settlement are
+    also likely.
+  - >-
+    The fourth-century Idumean ostraca are Aramaic and much later. Many are unprovenanced.
+    Treat them as continuity evidence (they contain many Qos names), not as part of the Iron
+    Age corpus.
+  sources_to_check:
+  - I. Beit-Arieh and B. Cresson, 'An Edomite Ostracon from Ḥorvat ʿUza,' Tel Aviv 12 (1985)
+  - 'I. Beit-Arieh (ed.), Ḥorvat Qitmit: An Edomite Shrine in the Biblical Negev (1995)'
+  - >-
+    S. Aḥituv, Echoes from the Past: Hebrew and Cognate Inscriptions from the Biblical Period
+    (2008)
+  image_query: Horvat Uza Edomite ostracon
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

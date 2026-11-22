@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: altars-2
+file: altars-2.jpg
+title: Tel Be'er Sheva Altar 2007041.JPG
+caption: >-
+  Reconstruction of the horned altar of ashlar blocks found dismantled at Tel Beersheba, displayed
+  at the site.
+description: >-
+  Reconstruction of an ancient Israelite horned altar (based upon the remnants of the original
+  one) as it was used to sacrifice animals. The original altar was probably dismantled during
+  the time of Hezekiah, the King of Judah, with the centralization of the Israelite cult in
+  the temple of Jerusalem. Location: Tel Be'er Sheva.
+creator: gugganij
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: http://creativecommons.org/licenses/by-sa/3.0/
+attribution: gugganij, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tel_Be%27er_Sheva_Altar_2007041.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/7/71/Tel_Be%27er_Sheva_Altar_2007041.JPG
+  sha1: 481af24d3dd11eadc9e88e2ca446b88dc2b7535f
+  original_size: [2592, 1944]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [altars, beersheba, horned-altars]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

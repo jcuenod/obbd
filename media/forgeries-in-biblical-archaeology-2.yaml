@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: forgeries-in-biblical-archaeology-2
+file: forgeries-in-biblical-archaeology-2.jpg
+title: >-
+  Head of the Neo-Sumerian ruler Gudea, ruler of Lagash. Fake artifact; archaeological forgery.
+  It was supposed to be sold as a genuine ancient Mesopotamian piece. Confiscation; not-on-display.
+  The Sulaymaniyah Museum, Iraq.jpg
+caption: >-
+  A modern forgery of a head of Gudea of Lagash, confiscated before it could be sold as genuine
+  (Sulaymaniyah Museum, Iraq).
+description: >-
+  Head of the Neo-Sumerian ruler Gudea, ruler of Lagash. Fake artifact; archaeological forgery.
+  It was supposed to be sold as a genuine ancient Mesopotamian piece. Confiscation; not-on-display.
+  The Sulaymaniyah Museum, Iraq. It resembles another head of Gudea at the Met Museum (see
+  https://www.metmuseum.org/art/collection/search/324061), and therefore, I wonder if it is
+  a genuine piece and has come from...? Exclusive photo.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Head_of_the_Neo-Sumerian_ruler_Gudea,_ruler_of_Lagash._Fake_artifact;_archaeological_forgery._It_was_supposed_to_be_sold_as_a_genuine_ancient_Mesopotamian_piece._Confiscation;_not-on-display._The_Sulaymaniyah_Museum,_Iraq.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/91/Head_of_the_Neo-Sumerian_ruler_Gudea%2C_ruler_of_Lagash._Fake_artifact%3B_archaeological_forgery._It_was_supposed_to_be_sold_as_a_genuine_ancient_Mesopotamian_piece._Confiscation%3B_not-on-display._The_Sulaymaniyah_Museum%2C_Iraq.jpg
+  sha1: d13bcb9734d7905e70494dd3b38a5d1067f1c5fc
+  original_size: [3714, 4696]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1265×1600 px
+size: [1265, 1600]
+depicts: [forgeries-in-biblical-archaeology]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

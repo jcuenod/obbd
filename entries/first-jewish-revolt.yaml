@@ -1,0 +1,99 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: first-jewish-revolt
+title: First Jewish Revolt and the Destruction of Jerusalem (66–73 CE)
+aliases: [First Jewish-Roman War, Great Revolt, Jewish War]
+type: event
+cultures: [jewish, roman]
+date:
+  from: 66
+  to: 74
+  display: 66–74 CE
+scope: >-
+  The Judean revolt against Rome from 66 CE to the fall of Masada in 73 or 74 CE: its causes
+  and factions, Vespasian's campaign in Galilee, Titus's siege and the destruction of Jerusalem
+  and the temple in 70, and its aftermath. It also covers the revolt's importance for dating
+  and reading the Gospels. The Arch of Titus, the Judaea Capta coins, the revolt coinage and
+  Masada have their own entries.
+passages:
+- ref: Mark 13:1-2
+  rel: event
+  note: Jesus foretells that no stone of the temple will be left on another
+- ref: Mark 13:14-20
+  rel: event
+  note: The 'desolating sacrilege' and flight to the mountains
+- ref: Luke 19:41-44
+  rel: event
+  note: Jerusalem encircled by a rampart and dashed to the ground
+- ref: Luke 21:20-24
+  rel: event
+  note: Jerusalem surrounded by armies; its people taken captive among the nations
+- ref: Matt 22:7
+  rel: event
+  disputed: true
+  note: The king sends troops and burns the city, often read as reflecting 70 CE
+- ref: Rev 11:1-2
+  rel: event
+  disputed: true
+  note: The outer court and holy city trampled by the nations; its relation to 70 CE is debated
+- ref: Dan 9:26-27
+  rel: concept
+  note: Destruction of city and sanctuary, applied by Josephus (Ant. 10.276) to the Romans
+- ref: 2Esd 10:21-23
+  rel: event
+  note: Lament for the sanctuary laid waste, written after 70 CE but set after 587 BCE
+related: [josephus, masada, arch-of-titus, judaea-capta-coins, jewish-revolt-coinage, herods-temple,
+  jewish-sects, messianic-expectations]
+media:
+- id: first-jewish-revolt
+  role: primary
+external:
+  wikipedia: First Jewish–Roman War
+  wikidata: Q202578
+editorial:
+  author_notes:
+  - >-
+    Josephus's Jewish War is almost the only narrative source. He commanded rebel forces in
+    Galilee, then served with Titus, so read him critically. Add Tacitus (Hist. 5.1-13), Cassius
+    Dio, and archaeology: Gamla, Yodefat (Jotapata), Jerusalem (the Burnt House, the Herodian
+    street with fallen Temple Mount stones), and Masada.
+  - >-
+    Causes and factions: misgovernment under Florus, conflict at Caesarea, and the end of
+    the sacrifice for the emperor (War 2.409-410). The factions included the Zealots, the
+    Sicarii, John of Gischala and Simon bar Giora. Do not treat 'the Zealots' as a single
+    movement existing long before 66.
+  - >-
+    Timeline: Cestius Gallus defeated (66); Vespasian in Galilee (67); Titus's siege (spring
+    to summer 70) and the burning of the temple in Ab; Masada (73 or 74).
+  - >-
+    For the NT, discuss whether Mark 13 and Luke 21:20-24 are prophecies after the event,
+    and how far Luke's more specific siege language reflects 70. The usual dating of Mark
+    around 70 and of Matthew and Luke later depends on this. The tradition of the Jerusalem
+    church's flight to Pella (Eusebius, Hist. eccl. 3.5.3) is debated.
+  - >-
+    Aftermath: the fiscus Iudaicus, the end of sacrificial worship, the rabbinic gathering
+    at Yavneh, and the decline of the Sadducees.
+  sources_to_check:
+  - >-
+    H. St. J. Thackeray (trans.), Josephus: The Jewish War, 3 vols. (Loeb Classical Library,
+    1927-1928)
+  - >-
+    M. Goodman, The Ruling Class of Judaea: The Origins of the Jewish Revolt against Rome
+    A.D. 66-70 (1987)
+  - >-
+    A. M. Berlin and J. A. Overman (eds.), The First Jewish Revolt: Archaeology, History,
+    and Ideology (2002)
+  image_query: Burnt House Jerusalem
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

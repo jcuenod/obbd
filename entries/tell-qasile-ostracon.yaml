@@ -1,0 +1,70 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tell-qasile-ostracon
+title: Tell Qasile "Gold of Ophir" Ostracon
+type: artifact
+cultures: [hebrew]
+date:
+  from: -800
+  to: -700
+  circa: true
+  display: c. 800–700 BCE
+scope: >-
+  A Hebrew ostracon found in 1946 at Tell Qasile (Tel Aviv) reading 'Gold of Ophir to Beth-Horon,
+  30 shekels'. It is the only extrabiblical attestation of Ophir as a source of gold. The
+  entry also covers the second Tell Qasile ostracon recording a quantity of oil.
+passages:
+- ref: 1Kgs 9:28
+  rel: attests
+  note: Gold brought from Ophir by Hiram's and Solomon's fleet
+- ref: 1Kgs 10:11
+  rel: attests
+  note: Hiram's fleet brings gold from Ophir
+- ref: 1Kgs 22:48
+  rel: attests
+  note: Jehoshaphat's failed ships for Ophir gold (MT 22:49)
+- ref: Ps 45:9
+  rel: language
+  note: '''Gold of Ophir'' as the finest gold (MT 45:10)'
+- ref: Job 28:16
+  rel: language
+  note: '''Gold of Ophir'' as a standard of value'
+- ref: Isa 13:12
+  rel: language
+  note: '''Gold of Ophir'' as a byword for rarity'
+- ref: 1Kgs 9:17
+  rel: attests
+  disputed: true
+  note: byt ḥrn as the town Beth-horon, or a temple of the god Horon
+related: [ophir, phoenician-seafaring, solomon, hiram-of-tyre, weights-and-silver-money, ostraca]
+media:
+- id: tell-qasile-ostracon
+  role: primary
+external:
+  wikipedia: Tel Qasile ostraca
+  wikidata: Q111914846
+editorial:
+  author_notes:
+  - Found on the surface, so the 8th-century date is palaeographic.
+  - >-
+    'Gold of Ophir' may describe a quality or type of gold rather than a shipment just arrived
+    from Ophir. Either way it shows the term was current in Iron Age commerce.
+  - Whether byt ḥrn is a place (Beth-horon) or a temple of Horon is open.
+  - Ophir's location (Arabia, East Africa, India) is not settled by the ostracon.
+  sources_to_check:
+  - Maisler (Mazar), JNES 10 (1951)
+  - Dobbs-Allsopp et al., Hebrew Inscriptions (2005)
+  image_query: Tell Qasile ostracon gold of Ophir
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

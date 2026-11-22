@@ -1,0 +1,76 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: kadesh-battle-reliefs
+title: Battle of Kadesh Reliefs
+aliases: [Qadesh reliefs, Poem and Bulletin of Ramesses II]
+type: artifact
+cultures: [egyptian]
+date:
+  from: -1274
+  to: -1250
+  circa: true
+  display: c. 1274–1250 BCE
+scope: >-
+  Reliefs and accompanying texts (the "Poem" and the "Bulletin") commemorating Ramesses II's
+  battle against the Hittites at Kadesh on the Orontes in his year 5. They were carved on
+  several temples, including Abu Simbel, Luxor, Karnak, the Ramesseum, and Abydos. They depict
+  the Egyptian camp, the royal tent, the chariot battle, and the king's rescue by Amun.
+passages:
+- ref: Num 2:1-34
+  rel: parallel
+  disputed: true
+  note: Rectangular war camp with central royal tent; cf. Israel's camp around the tabernacle
+- ref: Exod 26:15-33
+  rel: realia
+  disputed: true
+  note: Tabernacle proportions compared with the pharaoh's reception tent and throne room
+- ref: Exod 14:13-14
+  rel: concept
+  note: Deity fights for his own when human forces fail
+- ref: Ps 18:6-19
+  rel: concept
+  note: King in distress cries to his god and is rescued; MT 18:7-20
+related: [ramesses-ii, hittites-and-hethites, egyptian-hittite-peace-treaty, tabernacle, chariots-and-horses,
+  divine-warrior, royal-annals-and-historiography, conquest-accounts-and-war-rhetoric]
+location:
+  institution: In situ, Abu Simbel, Luxor, Karnak, the Ramesseum, and Abydos
+  accession: null
+media:
+- id: kadesh-battle-reliefs
+  role: primary
+- id: kadesh-battle-reliefs-2
+  role: gallery
+external:
+  wikipedia: Battle of Kadesh
+  wikidata: Q203729
+editorial:
+  author_notes:
+  - >-
+    The battle was at best a stalemate, despite the Egyptian victory claims. It was followed
+    years later by the Egyptian-Hittite treaty (year 21).
+  - >-
+    Homan's comparison of the camp and royal tent with the tabernacle and Israel's camp is
+    suggestive but debated, so it is marked contested. Note that P's tabernacle texts are
+    generally dated much later.
+  - >-
+    The Poem's portrayal of the abandoned king rescued by Amun is useful for comparing ancient
+    Near Eastern royal war accounts and divine intervention (cf. Younger on conquest accounts).
+  sources_to_check:
+  - COS 2.5
+  - AEL 2:57-72
+  - Kitchen, Ramesside Inscriptions, Translated and Annotated, vol. 2 (1996)
+  - Homan, To Your Tents, O Israel! (2002)
+  image_query: Battle of Kadesh relief Abu Simbel
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

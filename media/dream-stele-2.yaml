@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: dream-stele-2
+file: dream-stele-2.jpg
+title: Giseh Traumstele (Lepsius) 01.jpg
+caption: Drawing of the Dream Stele from Lepsius's Denkmäler.
+description: Pyramiden von Giseh, Stele vor dem großen Sphinx, Ägypten
+creator: Carl Richard Lepsius
+credit_line: Denkmaeler aus Aegypten und Aethiopien, Band V, Neues Reich, S. 69
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Carl Richard Lepsius. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Giseh_Traumstele_(Lepsius)_01.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/c/cf/Giseh_Traumstele_%28Lepsius%29_01.jpg
+  sha1: 9a0f27f927f401dc671ec8ea01b70d3d26a5ba4d
+  original_size: [1268, 1707]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1189×1600 px
+size: [1189, 1600]
+depicts: [dream-stele]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

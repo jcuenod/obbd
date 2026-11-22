@@ -1,0 +1,88 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: cult-images
+title: Cult Statues in the Ancient Near East
+aliases: [idols, cult statues]
+type: concept
+cultures: [ane]
+scope: >-
+  The making, care, transport, capture, and theology of divine statues in Mesopotamia, Egypt,
+  and the Levant, and the biblical polemic against "idols". Covers godnapping and the return
+  of statues. The induction rituals and Israel's aniconic tradition have their own entries.
+passages:
+- ref: Isa 44:9-20
+  rel: polemic
+  note: Parody of the manufacture of a cult image from a tree
+- ref: Isa 40:18-20
+  rel: polemic
+  note: Craftsmen fashion an image that will not topple
+- ref: Isa 46:1-7
+  rel: polemic
+  note: Bel and Nebo carried on beasts; images borne versus YHWH who carries
+- ref: Jer 10:1-16
+  rel: polemic
+  note: Images like scarecrows that must be carried
+- ref: Ps 115:4-8
+  rel: polemic
+  note: Images with mouths, eyes, and ears that do not function
+- ref: Hab 2:18-19
+  rel: polemic
+  note: No breath in the overlaid image
+- ref: 1Sam 5:1-5
+  rel: practice
+  note: Ark placed beside Dagon's statue; Dagon falls
+- ref: Jer 48:7
+  rel: practice
+  note: 'Chemosh to go into exile with his priests: captured divine statues'
+- ref: 2Chr 25:14
+  rel: practice
+  note: Amaziah brings home and worships the gods of Seir
+- ref: Dan 3:1-18
+  rel: practice
+  note: Nebuchadnezzar's golden image (ṣĕlēm)
+- ref: Bel 1-22
+  rel: polemic
+  note: Daily food of Bel's statue exposed as eaten by priests
+- ref: Acts 17:29
+  rel: polemic
+  note: Deity not like gold, silver, or stone shaped by human art
+related: [mouth-washing-and-opening, aniconism, care-and-feeding-of-the-gods, marduk, nabu,
+  tablet-of-shamash, bull-iconography, image-of-god]
+media:
+- id: cult-images
+  role: primary
+external:
+  wikipedia: Cult image
+  wikidata: Q2820111
+editorial:
+  author_notes:
+  - >-
+    In Mesopotamian theology the statue was a locus of divine presence. It was "born in heaven",
+    consecrated by ritual, and treated as a living being, but not simply identical with the
+    god. Note that the biblical parodies (Isa 44; Jer 10) deliberately collapse this distinction.
+  - >-
+    Godnapping and return were standard imperial practice. Examples are Marduk's statue taken
+    to Hatti and Elam, Assyrian removal of divine images, and the Cyrus Cylinder's account
+    of returning gods to their shrines. This is relevant to 1 Sam 4-6 and Isa 46.
+  - >-
+    Cult statues were made of a wooden core overlaid with precious metal and clothed (cf.
+    Isa 30:22; Jer 10:9). Give the material realities.
+  - >-
+    Avoid the term "idolatry" in descriptive sections, or explain it as an insider polemical
+    category.
+  sources_to_check:
+  - Michael B. Dick, ed., Born in Heaven, Made on Earth (1999)
+  image_query: Assyrian soldiers carrying statues of gods relief
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

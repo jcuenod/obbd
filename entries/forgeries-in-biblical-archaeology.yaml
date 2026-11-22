@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: forgeries-in-biblical-archaeology
+title: Forgeries and Unprovenanced Objects
+type: concept
+cultures: [hebrew, jewish]
+scope: >-
+  Forged inscriptions and artefacts relating to the Bible, and the wider problem of unprovenanced
+  antiquities, from the 19th-century Shapira affair to the Jehoash Inscription, the James
+  Ossuary, the ivory pomegranate and the fake 'Dead Sea Scroll' fragments. The entry covers
+  detection methods and the scholarly ethics of publishing looted or unprovenanced material.
+passages:
+- ref: 2Kgs 12:4-16
+  rel: parallel
+  note: The forged 'Jehoash Inscription' was modelled on this temple-repair account (MT 12:5-17)
+- ref: Exod 28:33-34
+  rel: realia
+  note: >-
+    Pomegranates on the priestly robe; the ivory pomegranate's inscription is widely judged
+    forged
+- ref: Gal 1:19
+  rel: attests
+  disputed: true
+  note: >-
+    James the Lord's brother; the James Ossuary's 'brother of Jesus' is widely judged forged
+    or unproven
+related: [seals-and-bullae, bullae-of-jeremiah-era-officials, dead-sea-scrolls, ossuaries,
+  mesha-stele, hezekiah-bulla, writing-and-literacy, caiaphas-ossuary]
+media:
+- id: forgeries-in-biblical-archaeology
+  role: primary
+- id: forgeries-in-biblical-archaeology-2
+  role: gallery
+external:
+  wikipedia: Archaeological forgery
+  wikidata: Q2918418
+editorial:
+  author_notes:
+  - >-
+    Cover the classic cases: Shapira's Moabite pottery (1870s) and Deuteronomy strips (1883);
+    the ivory pomegranate (inscription judged forged, IAA 2004); the Jehoash Inscription;
+    the James Ossuary (the 2012 trial did not authenticate it); the Moussaieff ostraca; the
+    Museum of the Bible 'DSS' fragments (all judged modern by 2020).
+  - >-
+    Many seals and bullae that name biblical figures are unprovenanced. Recommend that the
+    project flag provenance on every relevant entry.
+  - >-
+    Explain detection methods (palaeography, patina and petrographic analysis, too-perfect
+    biblical phrasing) and their limits. Experts also disagree about some cases.
+  - >-
+    Note the recent attempt to rehabilitate the Shapira scroll (Dershowitz 2021) and the critical
+    responses. Present the scroll as generally regarded as a forgery.
+  sources_to_check: ['Rollston, Maarav 10 (2003)', 'Rollston, Maarav 11 (2004)', 'Goren et
+      al., IEJ 55 (2005)']
+  image_query: Jehoash Inscription
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Exod 28:33-34 note softened: pomegranate inscription
+    'widely judged' forged
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

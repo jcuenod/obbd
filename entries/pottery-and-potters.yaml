@@ -1,0 +1,89 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: pottery-and-potters
+title: Pottery and the Potter's Craft
+aliases: [Ceramics, Potter's wheel]
+type: realia
+cultures: [hebrew, egyptian, ane]
+scope: >-
+  Pottery manufacture and potters in the ancient Levant, the role of ceramic typology in archaeological
+  dating, and the potter and clay as biblical images for divine sovereignty and judgment.
+passages:
+- ref: Jer 18:1-12
+  rel: realia
+  note: Jeremiah at the potter's house; vessel reworked at the wheel ('obnayim)
+- ref: Jer 19:1-13
+  rel: practice
+  note: Smashing an earthenware jug as a sign of judgment
+- ref: Isa 29:16
+  rel: imagery
+  note: The thing made cannot deny its potter
+- ref: Isa 45:9
+  rel: imagery
+  note: Woe to the pot that strives with its maker
+- ref: Isa 64:8
+  rel: imagery
+  note: '''We are the clay, and you are our potter'' (MT 64:7)'
+- ref: Isa 30:14
+  rel: realia
+  note: Jar smashed so no sherd remains to carry fire or water
+- ref: Lam 4:2
+  rel: imagery
+  note: Zion's children reckoned as earthen pots
+- ref: Ps 2:9
+  rel: imagery
+  note: Dashing nations in pieces like a potter's vessel
+- ref: 1Chr 4:23
+  rel: attests
+  note: Potters in royal service at Netaim and Gederah
+- ref: Gen 2:7
+  rel: imagery
+  note: YHWH 'forms' (yāṣar) the human from dust like a potter
+- ref: Rom 9:20-21
+  rel: imagery
+  note: The potter's right over the clay
+- ref: 2Cor 4:7
+  rel: imagery
+  note: Treasure in clay jars
+related: [khnum, execration-texts, creation-of-humanity, lmlk-seal-impressions, ostraca, ethnicity-and-material-culture]
+media:
+- id: pottery-and-potters
+  role: primary
+- id: creation-of-humanity
+  role: gallery
+external:
+  wikipedia: Potter's wheel
+  wikidata: Q1128390
+editorial:
+  author_notes:
+  - >-
+    Ceramic typology is the backbone of Levantine chronology (Petrie at Tell el-Hesi, 1890;
+    Albright). Explain briefly how pottery dates strata and why this matters for historical
+    debates.
+  - >-
+    Egyptian execration rites involved smashing inscribed pots and figurines. They are commonly
+    cited for Jer 19:10-11 and Ps 2:9.
+  - >-
+    The divine potter appears as Khnum shaping humans on the wheel and in Mesopotamian creation
+    from clay (Atrahasis; Aruru in Gilgamesh). It is background for Gen 2:7 and the prophetic
+    potter image.
+  - Ben Sira 38:29-30 describes the potter at work and complements Jer 18.
+  sources_to_check:
+  - Amiran, Ancient Pottery of the Holy Land (1969)
+  - >-
+    Gitin (ed.), The Ancient Pottery of Israel and Its Neighbors from the Iron Age through
+    the Hellenistic Period (2015)
+  image_query: Iron Age pottery Israel
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

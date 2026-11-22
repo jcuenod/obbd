@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: covenant-love-language
+title: '"Love" as Covenant Language'
+aliases: [Love of God in Deuteronomy]
+type: concept
+cultures: [ane, assyrian]
+scope: >-
+  The use of 'love' (ʾāhab) and 'hate' as terms of political loyalty and disloyalty in ancient
+  Near Eastern diplomacy and treaties, and its bearing on the command to love YHWH in Deuteronomy
+  and related texts. The entry covers W. L. Moran's thesis and later qualifications of it.
+passages:
+- ref: Deut 6:5
+  rel: language
+  note: Love YHWH with all your heart, soul and might
+- ref: Deut 7:7-9
+  rel: language
+  note: YHWH's elective love and covenant loyalty (ḥesed) to those who love him
+- ref: Deut 10:12
+  rel: language
+  note: To fear, walk in his ways, love and serve YHWH
+- ref: Deut 11:1, 13, 22
+  rel: language
+  note: Love YHWH and keep his commandments
+- ref: Deut 13:3
+  rel: language
+  note: Testing whether Israel loves YHWH (MT 13:4)
+- ref: 1Kgs 5:1
+  rel: language
+  note: 'Hiram ''had always loved David'': treaty partner language (MT 5:15)'
+- ref: 1Sam 18:1-3
+  rel: language
+  note: Jonathan loves David and makes a covenant with him
+- ref: 1Sam 18:16
+  rel: language
+  disputed: true
+  note: 'All Israel and Judah loved David: political allegiance'
+- ref: 2Sam 19:6
+  rel: language
+  note: 'Loving those who hate you: loyalty to the king (MT 19:7)'
+- ref: Mal 1:2-3
+  rel: language
+  note: '''I have loved Jacob, but I have hated Esau'': election and rejection'
+- ref: Hos 11:1
+  rel: concept
+  disputed: true
+  note: Paternal love for Israel the child; not treaty language alone
+related: [covenant-and-treaty-form, esarhaddon-succession-treaty, amarna-letters, brotherhood-language,
+  hiram-of-tyre, oaths-and-oath-formulas]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The foundational study is W. L. Moran, 'The Ancient Near Eastern Background of the Love
+    of God in Deuteronomy', CBQ 25 (1963). Evidence includes Amarna letters, where vassals
+    'love' the pharaoh, and the Esarhaddon Succession Treaty's demand to love Ashurbanipal
+    'as yourselves'.
+  - >-
+    Later work (e.g. J. Lapsley; B. Arnold) argues that the treaty sense does not exclude
+    real affection and that Deuteronomic love also draws on familial language.
+  - >-
+    Explain that 'hate' (śānēʾ) as a technical term for repudiation or disloyalty underlies
+    texts such as Mal 1:2-3.
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

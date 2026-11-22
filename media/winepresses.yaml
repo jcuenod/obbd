@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: winepresses
+file: winepresses.jpg
+title: MigdalHaemek5.jpg
+caption: Rock-cut Bronze Age winepress on the hillside at Migdal HaEmek, Israel.
+description: >-
+  author: BibleWalks.com Summary: This Bronze age winepress is located on the north hillsides
+  of Migdal Haemek, Israel. The top side of the wine press with steep rectangular floor is
+  where the grapes were arranged. The workers squashed the grapes with their feet, and the
+  juice would flow down to the lower side, through an outlet hole and into a collecting basin.
+  As a filter, these holes were filled with a collection of thorns or brushes. On both sides
+  of this pit there are 2 vertical holes, where poles were laid into the hole, and held by
+  the workers during the pressing over the grapes. In one o
+creator: Original uploader was Biblewalks at en.wikipedia
+credit_line: Transferred from en.wikipedia
+license:
+  id: CC-BY-SA-2.5
+  name: CC BY-SA 2.5
+  url: https://creativecommons.org/licenses/by-sa/2.5
+attribution: Original uploader was Biblewalks at en.wikipedia, CC BY-SA 2.5, via Wikimedia
+  Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:MigdalHaemek5.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/b/b1/MigdalHaemek5.jpg
+  sha1: 3f63776a263a2b4c16a7b9f6f7f1e0387708b9e9
+  original_size: [2048, 1536]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [winepresses]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,102 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: akitu-festival
+title: Akītu (Babylonian New Year) Festival
+aliases: [akītu, Babylonian New Year festival]
+type: practice
+cultures: [babylonian, assyrian, sumerian]
+scope: >-
+  The Mesopotamian akītu festival, best known from first-millennium Babylon's Nisannu celebrations:
+  processions of divine statues, recitation of Enuma Elish, the king's ritual humiliation
+  and reinvestiture, and the gods' journey to the akītu house. The entry also covers proposed
+  links to biblical enthronement language.
+passages:
+- ref: Isa 46:1-2
+  rel: polemic
+  note: Bel and Nebo, processional gods, bowed down and carried off as burdens
+- ref: Isa 45:1
+  rel: language
+  disputed: true
+  note: >-
+    Cyrus 'whose right hand I have grasped'; cf. the Babylonian king 'taking the hand of Bel'
+- ref: Ps 47:5-8
+  rel: concept
+  disputed: true
+  note: God 'has gone up with a shout' and reigns; enthronement-festival hypothesis; MT 47:6-9
+- ref: Ps 93:1
+  rel: concept
+  disputed: true
+  note: '''YHWH is king'' (YHWH mālāk); Mowinckel''s enthronement psalms'
+- ref: Ps 96:10
+  rel: concept
+  disputed: true
+  note: '''Say among the nations, YHWH is king'''
+- ref: Ps 97:1
+  rel: concept
+  disputed: true
+  note: '''YHWH is king! Let the earth rejoice'''
+- ref: Ps 99:1
+  rel: concept
+  disputed: true
+  note: '''YHWH is king; he sits enthroned upon the cherubim'''
+- ref: Ps 24:7-10
+  rel: concept
+  disputed: true
+  note: Gates lift up their heads for the King of glory; processional entry
+- ref: Zech 14:16-17
+  rel: concept
+  disputed: true
+  note: >-
+    Nations go up yearly to worship the King at Booths; autumn enthronement-festival hypothesis
+related: [enuma-elish, marduk, nabu, babylon, etemenanki, royal-ideology, cult-images, nabonidus-chronicle]
+media:
+- id: akitu-festival
+  role: primary
+external:
+  wikipedia: Akitu
+  wikidata: Q419358
+editorial:
+  author_notes:
+  - >-
+    Akītu festivals are attested from the third millennium in several cities and at different
+    times of year (spring and autumn). The detailed Babylonian Nisannu ritual is known mainly
+    from Seleucid-period tablets. Caution against reconstructing earlier practice wholesale
+    from them.
+  - >-
+    The king's humiliation (the high priest strikes his cheek and removes his insignia before
+    he is reinvested) and the recitation of Enuma Elish on day 4 are the most-cited elements.
+    Note that the Nabonidus Chronicle records years when the festival was not held because
+    the king was absent.
+  - >-
+    Mowinckel's proposed Israelite autumn enthronement festival, built on Ps 47 and 93-99
+    by analogy with the akītu, is a classic but unproven hypothesis. There is no direct biblical
+    evidence for such a festival, and the translation of YHWH mālāk ("YHWH reigns" or "has
+    become king") is debated.
+  - >-
+    The "dying and rising Marduk" reading of the so-called Marduk Ordeal text, once tied to
+    the akītu, is now rejected. That text is a cultic commentary, not evidence of a resurrection
+    rite.
+  sources_to_check:
+  - Julye Bidmead, The Akītu Festival (2002)
+  - ANET 331-334
+  - Marc J. H. Linssen, The Cults of Uruk and Babylon (CM 25, 2004)
+  image_query: Ishtar Gate processional way Pergamon
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Zech 14:16-17 marked disputed; note names the enthronement-festival
+    hypothesis
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

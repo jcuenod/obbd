@@ -1,0 +1,89 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: samaria
+title: Samaria (Sebaste)
+aliases: [Shomron, Sebaste, Sebastia]
+type: site
+cultures: [israelite]
+scope: >-
+  The capital of the northern kingdom founded by Omri, later an Assyrian provincial centre
+  and the Herodian city of Sebaste. Covers the royal acropolis, the ostraca and ivories, and
+  the site's later history; the Persian-period province and Samaritan origins are treated
+  elsewhere.
+passages:
+- ref: 1Kgs 16:24
+  rel: setting
+  note: Omri buys the hill of Shemer and builds Samaria
+- ref: 1Kgs 16:32
+  rel: setting
+  note: Ahab builds a temple of Baal in Samaria
+- ref: 1Kgs 22:39
+  rel: attests
+  note: Ahab's 'ivory house'; carved ivories from the royal acropolis
+- ref: Amos 3:15
+  rel: attests
+  note: '''Houses of ivory shall perish'''
+- ref: Amos 6:4
+  rel: attests
+  note: Beds inlaid with ivory
+- ref: Amos 4:1
+  rel: setting
+  note: '''Cows of Bashan on the mountain of Samaria'''
+- ref: Mic 1:6
+  rel: setting
+  note: Samaria to become a heap in the open country
+- ref: 2Kgs 17:5-6
+  rel: setting
+  note: Assyrian siege and capture of Samaria
+- ref: 2Kgs 17:24
+  rel: setting
+  note: Assyrian resettlement of deportees in the cities of Samaria
+related: [samaria-ostraca, samaria-ivories, omri, ahab, fall-of-samaria, sargon-ii, samaritan-origins,
+  herod-the-great]
+media:
+- id: samaria
+  role: primary
+external:
+  wikipedia: Samaria (ancient city)
+  wikidata: Q1757438
+  pleiades: '678370'
+editorial:
+  author_notes:
+  - >-
+    Excavated by Harvard (Reisner and Fisher, 1908-10) and the Joint Expedition (Crowfoot,
+    Kenyon, Sukenik, 1931-35). Kenyon's 'Building Periods' and pottery periods have been reworked
+    by Tappy and others, and the attribution of the first building period to Omri is debated.
+  - >-
+    The acropolis with its casemate enclosure and fine ashlar masonry is a showcase of Omride
+    royal architecture with Phoenician affinities.
+  - >-
+    The eighth-century Samaria ostraca document fiscal administration and include both Yahwistic
+    and Baal-names.
+  - >-
+    The capture is credited to Shalmaneser V in 2 Kgs 17 but claimed by Sargon II in his inscriptions.
+    Leave detail to fall-of-samaria. Herod rebuilt the city as Sebaste with a temple to Augustus.
+  sources_to_check:
+  - NEAEHL
+  - Tappy, The Archaeology of Israelite Samaria (2 vols., 1992, 2001)
+  image_query: Sebastia Samaria royal acropolis
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q1757438 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 32.27611
+  lon: 35.195
+  source: wikidata:Q1757438

@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: hadad-rimmon-2
+file: hadad-rimmon-2.jpg
+title: Mardin Museum Neo-Assyrian Basalt stele from Şırnak, 8-7th century BC in 2025 1048.jpg
+caption: >-
+  Neo-Assyrian basalt stele from Şırnak showing the storm god Adad standing on a bull, 8th-7th
+  century BCE (Mardin Museum).
+description: >-
+  Depicted is an administrator from the city of Azah in the Idil province in front of his
+  (Storm) God Adad. The god rides a bull. Burial foods are depicted also.
+creator: Dosseman
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Dosseman, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Mardin_Museum_Neo-Assyrian_Basalt_stele_from_%C5%9E%C4%B1rnak,_8-7th_century_BC_in_2025_1048.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/e/e8/Mardin_Museum_Neo-Assyrian_Basalt_stele_from_%C5%9E%C4%B1rnak%2C_8-7th_century_BC_in_2025_1048.jpg
+  sha1: 4f328fc0fdb29676d1e737fde8363cf510aa1aab
+  original_size: [8256, 5504]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [hadad-rimmon]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

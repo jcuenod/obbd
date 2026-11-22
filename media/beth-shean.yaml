@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: beth-shean
+file: beth-shean.jpg
+title: Tel Beit Shean Succot.jpg
+caption: Tel Beth-shean rising behind the colonnaded street of Roman-Byzantine Scythopolis.
+description: תל בית שאן בסוכות תשע"ח, במבט מרחוב פלאדיוס
+creator: דוד שי
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: דוד שי, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tel_Beit_Shean_Succot.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/5/5e/Tel_Beit_Shean_Succot.jpg
+  sha1: c3037d812985604dced25e065c9c13adb1597561
+  original_size: [3625, 2340]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1033 px
+size: [1600, 1033]
+depicts: [beth-shean]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

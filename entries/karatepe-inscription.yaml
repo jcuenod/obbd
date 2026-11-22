@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: karatepe-inscription
+title: Karatepe Bilingual (Azatiwada)
+aliases: [Azatiwada Inscription, Karatepe Bilingual]
+type: artifact
+cultures: [luwian, phoenician]
+date:
+  from: -725
+  to: -675
+  circa: true
+  display: c. 725–675 BCE
+scope: >-
+  The Phoenician and Hieroglyphic Luwian bilingual of Azatiwada, a vassal ruler under Awariku,
+  king of the Danunians (Adana), carved at the gates of the fortress of Karatepe-Aslantaş
+  in Cilicia (found 1946). It describes the peace, plenty and security of his rule and was
+  key to the decipherment of Hieroglyphic Luwian.
+passages:
+- ref: 1Kgs 4:25
+  rel: concept
+  note: 'Peace and security: each under vine and fig tree (MT 5:5)'
+- ref: Mic 4:4
+  rel: concept
+  note: Security under vine and fig tree, with none to make afraid
+- ref: Judg 5:6
+  rel: imagery
+  note: Roads deserted in insecurity; Azatiwada says a woman could walk alone with her spindles
+- ref: Zech 8:4-5
+  rel: imagery
+  note: Old and young safe in the streets as a sign of restored order
+- ref: 1Kgs 10:28-29
+  rel: setting
+  note: Kue (Que, Cilicia), the Danunian kingdom, as a source of horses
+related: [royal-ideology, kilamuwa-stele, phoenicians, resheph, chariots-and-horses, hittites-and-hethites]
+location:
+  institution: Karatepe-Aslantaş Open-Air Museum, Osmaniye (in situ)
+  accession: null
+media:
+- id: karatepe-inscription
+  role: primary
+- id: karatepe-inscription-2
+  role: gallery
+external:
+  wikipedia: Karatepe bilingual
+  wikidata: Q861806
+editorial:
+  author_notes:
+  - >-
+    Awariku is the Urikki of Que in Assyrian sources (Tiglath-pileser III, Sargon II). This
+    anchors the date in the late 8th century, though some prefer the early 7th.
+  - >-
+    The bilingual is valuable for divine-name equivalences, e.g. Phoenician Baal and Luwian
+    Tarhunza, and Resheph of the birds (ršp ṣprm).
+  - >-
+    The link between the Danunians (dnnym) and the biblical tribe of Dan or the Homeric Danaoi
+    is speculative. If mentioned, label it as such.
+  sources_to_check:
+  - KAI 26
+  - COS 2.31
+  - 'Çambel, Corpus of Hieroglyphic Luwian Inscriptions II: Karatepe-Aslantaş (1999)'
+  image_query: Karatepe Aslantas inscription
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

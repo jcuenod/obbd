@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: weld-blundell-prism
+file: weld-blundell-prism.jpg
+title: Sumerian King List, 1800 BC, Larsa, Iraq.jpg
+caption: >-
+  The Weld-Blundell Prism, inscribed clay, c. 1800 BCE, bearing the Sumerian King List (Ashmolean
+  Museum, Oxford).
+description: >-
+  Escritura cuneiforme sobre un ladrillo de arcilla, escrita en lengua sumeria (durante la
+  época del imperio acadio), que enumera a todos los reyes desde la creación de la monarquía
+  hasta el año 1800 a. C., cuando se creó la lista.
+creator: Gts-tg
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Gts-tg, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sumerian_King_List,_1800_BC,_Larsa,_Iraq.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/c/c6/Sumerian_King_List%2C_1800_BC%2C_Larsa%2C_Iraq.jpg
+  sha1: a77ee49fed3f1400a3d586a6daac8c3ba0662e41
+  original_size: [3024, 4032]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1200×1600 px
+size: [1200, 1600]
+depicts: [sumerian-king-list, weld-blundell-prism]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

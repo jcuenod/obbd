@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: nash-papyrus
+file: nash-papyrus.jpg
+title: 2nd century Hebrew decalogue.jpg
+caption: >-
+  The Nash Papyrus, with the Decalogue and the Shema in Hebrew (Cambridge University Library).
+description: >-
+  The w:Nash Papyrus, a collection of four papyrus fragments acquired in Egypt by W. L. Nash
+  and first described by Stanley A. Cook in 1903. The fragments were the oldest Hebrew fragments
+  known at that time which contained a portion of the biblical pre-Masoretic text, specifically
+  the Ten Commandments and the w:Shema Yisrael prayer. The order the commandments listed in
+  the Nash papyrus differs from that of the w:Hebrew Bible and w:Septuagint. See David Noel
+  Freedman, The Nine Commandments (Doubleday, 2000) p.87. Though dated by Cook to the 2nd
+  century, subsequent reappraisals have pushed the dat
+creator: Unknown authorUnknown author
+credit_line: >-
+  Proceedings of the Society of Biblical Archæology, Volume 25 (January-December 1903), p.
+  56
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Unknown authorUnknown author. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:2nd_century_Hebrew_decalogue.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/7/7a/2nd_century_Hebrew_decalogue.jpg
+  sha1: 9ffc3bdae3972639dc74248271455ff4943c2a12
+  original_size: [832, 1348]
+  retrieved: '2026-11-20'
+derivative: null
+size: [832, 1348]
+depicts: [nash-papyrus]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

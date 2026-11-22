@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: arad-ostraca-2
+file: arad-ostraca-2.jpg
+title: Letters Ink Written on Pottery (43217168051).jpg
+caption: Ink-inscribed ostraca from Arad on display at the Israel Museum, Jerusalem.
+description: >-
+  Arad letters in Israel Museum, Jerusalem, Israel. On the left, an ostracon with hieratic
+  numerals. Complete indexed photo collection at WorldHistoryPics.com
+creator: Gary Todd from Xinzheng, China
+credit_line: 'Letters: Ink Written on Pottery'
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Gary Todd from Xinzheng, China. CC0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Letters_Ink_Written_on_Pottery_(43217168051).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/8/86/Letters_Ink_Written_on_Pottery_%2843217168051%29.jpg
+  sha1: dad337e8f791f39458273c1c2c8f32c2e1639d93
+  original_size: [3858, 1446]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×600 px
+size: [1600, 600]
+depicts: [arad-ostraca]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

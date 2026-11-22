@@ -1,0 +1,70 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: hiram-of-tyre
+title: Hiram of Tyre
+aliases: [Hiram I, Huram]
+type: person
+cultures: [phoenician]
+date:
+  from: -980
+  to: -947
+  circa: true
+  display: c. 980–947 BCE
+scope: >-
+  Hiram I, king of Tyre, partner of David and Solomon in building projects and maritime trade.
+  No contemporary inscription names him. He is known from Kings and Chronicles and from Tyrian
+  annals as excerpted by Josephus from Menander of Ephesus and Dius.
+passages:
+- ref: 2Sam 5:11
+  rel: attests
+  note: Hiram sends cedar and craftsmen for David's house
+- ref: 1Kgs 5:1-12
+  rel: attests
+  note: 'Treaty with Solomon: cedar and cypress for wheat and oil (MT 5:15-26)'
+- ref: 1Kgs 9:10-14
+  rel: attests
+  note: The cities of Cabul given to Hiram
+- ref: 1Kgs 9:26-28
+  rel: attests
+  note: Hiram's sailors on the fleet to Ophir
+- ref: 1Kgs 10:11, 22
+  rel: attests
+  note: Hiram's fleet and the 'ships of Tarshish'
+- ref: 2Chr 2:3-16
+  rel: attests
+  note: Correspondence between Solomon and Huram (MT 2:2-15)
+related: [tyre, phoenicians, phoenician-seafaring, solomon, david, ophir, tarshish, josephus]
+media: []
+external:
+  wikipedia: Hiram I
+  wikidata: Q467115
+editorial:
+  author_notes:
+  - >-
+    Josephus (Ag. Ap. 1.106-127; Ant. 8.141-149) cites Tyrian records for Hiram's reign and
+    works. Assess their reliability and their use in the Tyrian king-list chronology (and
+    the founding of Carthage).
+  - >-
+    Dates vary by reconstruction (c. 980-947 or c. 969-936). Note the difficulty of Hiram
+    dealing with both David (early in David's reign) and Solomon.
+  - >-
+    Distinguish King Hiram from Hiram (Huram-abi) the bronze-worker of 1 Kgs 7:13-14 and 2
+    Chr 2:13-14.
+  - >-
+    Archaeological context for Tyre in the 10th century is limited. Expansion to Cyprus and
+    the west is mostly later.
+  sources_to_check: ['Josephus, Against Apion 1.106-127', 'Katzenstein, The History of Tyre
+      (1973)']
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

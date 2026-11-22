@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ashurbanipal
+file: ashurbanipal.jpg
+title: >-
+  Ashurbanipal, detail of a lion-hunt scene from Nineveh, 7th century BC, the British Museum.jpg
+caption: >-
+  Ashurbanipal in a lion-hunt relief from the North Palace at Nineveh, 7th century BCE (British
+  Museum, London).
+description: >-
+  Ashurbanipal, detail of a lion-hunt scene from the North Palace at Nineveh, in modern-day
+  Nineveh Governorate, Iraq. 7th century BC. The British Museum, London.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Ashurbanipal,_detail_of_a_lion-hunt_scene_from_Nineveh,_7th_century_BC,_the_British_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/db/Ashurbanipal%2C_detail_of_a_lion-hunt_scene_from_Nineveh%2C_7th_century_BC%2C_the_British_Museum.jpg
+  sha1: 6513bd197c8e1f26db69c754f8c97034c1d617a4
+  original_size: [2048, 1361]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1063 px
+size: [1600, 1063]
+depicts: [ashurbanipal]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

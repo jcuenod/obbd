@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: prostration-and-obeisance
+file: prostration-and-obeisance.jpg
+title: Jehu-on-Obelisk-of-Shalmaneser (cropped).jpg
+caption: >-
+  Jehu of Israel, or his envoy, prostrate before Shalmaneser III on the Black Obelisk from
+  Nimrud, c. 841–827 BCE (British Museum, London).
+description: >-
+  Depiction of Jehu King of Israel giving tribute to King Shalmaneser III of Assyria, on the
+  Black Obelisk of Shalmaneser III from Nimrud (circa 827 BC) in the British Museum (London).
+creator: null
+credit_line: Steven G. Johnson (Own work)
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Unknown author, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Jehu-on-Obelisk-of-Shalmaneser_(cropped).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/13/Jehu-on-Obelisk-of-Shalmaneser_%28cropped%29.jpg
+  sha1: 1d8ab87f83a3d1d6b91855ff860bc6e9c1b83fe0
+  original_size: [1218, 1075]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1218, 1075]
+depicts: [black-obelisk, jehu, prostration-and-obeisance, tribute-and-vassalage]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

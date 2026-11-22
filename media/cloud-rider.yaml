@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: cloud-rider
+file: cloud-rider.jpg
+title: Baal thunderbolt Louvre AO15775.jpg
+caption: >-
+  Stele of Baal brandishing a club and holding a thunderbolt-spear, limestone, from Ugarit,
+  15th–13th century BCE (Musée du Louvre, Paris).
+description: The stele of Baal with Thunderbolt found in the ruins of Ugarit
+creator: Jastrow
+credit_line: Own work
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Jastrow. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Baal_thunderbolt_Louvre_AO15775.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/3/35/Baal_thunderbolt_Louvre_AO15775.jpg
+  sha1: 39a48e5601f21026acf0f51b19c62f75deeabcc0
+  original_size: [1725, 4011]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 688×1600 px
+size: [688, 1600]
+depicts: [baal-with-thunderbolt, cloud-rider]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

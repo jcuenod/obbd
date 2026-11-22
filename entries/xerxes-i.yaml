@@ -1,0 +1,70 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: xerxes-i
+title: Xerxes I (Ahasuerus)
+aliases: [Ahasuerus]
+type: person
+cultures: [persian]
+date:
+  from: -486
+  to: -465
+  display: 486–465 BCE
+scope: >-
+  Xerxes I, son of Darius I, Achaemenid king known from his inscriptions, from Persepolis,
+  and from Herodotus's account of his invasion of Greece. He is generally identified with
+  Ahasuerus of Esther and Ezra 4:6.
+passages:
+- ref: Esth 1:1-2
+  rel: attests
+  note: Ahasuerus (Heb. ʾăḥašwērôš = Old Persian Xšayāršā) ruling from Susa
+- ref: Esth 1:3-8
+  rel: setting
+  note: The royal banquet of the third year; Persian court setting
+- ref: Esth 2:16
+  rel: setting
+  note: Esther taken to the king in the seventh year, after the Greek campaign
+- ref: Ezra 4:6
+  rel: attests
+  note: Accusation against Judah at the beginning of Ahasuerus's reign
+- ref: Dan 9:1
+  rel: attests
+  note: Ahasuerus as father of 'Darius the Mede', not historically reconcilable
+related: [persepolis, susa, persia, marduka-tablet, persepolis-fortification-tablets, darius-i,
+  artaxerxes-i, eunuchs]
+media:
+- id: xerxes-i
+  role: primary
+- id: xerxes-i-2
+  role: gallery
+external:
+  wikipedia: Xerxes I
+  wikidata: Q129165
+editorial:
+  author_notes:
+  - >-
+    The identification of Ahasuerus with Xerxes rests on the name's form (Old Persian Xšayāršā;
+    Akkadian and Aramaic forms). LXX Esther and Josephus instead identify him with Artaxerxes.
+  - >-
+    Herodotus's queen is Amestris, not Vashti or Esther. Do not equate Vashti with Amestris
+    uncritically.
+  - >-
+    Court details in Esther (couriers, banquets, Persian loanwords) are plausible, but the
+    narrative's historicity is doubted by most scholars.
+  - Mention the daiva inscription (XPh) for Xerxes' religious policy.
+  sources_to_check:
+  - 'P. Briant, From Cyrus to Alexander: A History of the Persian Empire (2002)'
+  - 'A. Kuhrt, The Persian Empire: A Corpus of Sources from the Achaemenid Period (2007)'
+  image_query: Xerxes I relief Persepolis
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

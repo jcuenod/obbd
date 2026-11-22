@@ -1,0 +1,70 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: hospitality
+title: Hospitality
+aliases: [Theoxeny, Guest-friendship]
+type: practice
+cultures: [hebrew, ugaritic, ane]
+scope: >-
+  Norms of receiving and protecting strangers and guests in biblical narrative and law, with
+  ancient Near Eastern and Greek comparanda, including the motif of entertaining divine visitors
+  unawares.
+passages:
+- ref: Gen 18:1-8
+  rel: practice
+  note: 'Abraham hosts three visitors: water for feet, bread, calf, curds'
+- ref: Gen 19:1-11
+  rel: practice
+  note: Lot protects his guests against Sodom's men
+- ref: Gen 24:31-33
+  rel: practice
+  note: Laban receives Abraham's servant, his camels, and men
+- ref: Judg 19:15-25
+  rel: practice
+  note: Gibeah's failure of hospitality; the old man shelters the Levite
+- ref: Exod 2:20
+  rel: practice
+  note: Reuel rebukes his daughters for not inviting Moses to eat
+- ref: 2Kgs 4:8-10
+  rel: practice
+  note: The Shunammite prepares a roof chamber for Elisha
+- ref: Job 31:32
+  rel: practice
+  note: Job never let a stranger lodge in the street
+- ref: Wis 19:13-17
+  rel: concept
+  note: Sodom's sin interpreted as hatred of strangers
+- ref: Heb 13:2
+  rel: concept
+  note: Some have entertained angels unawares
+related: [aqhat-epic, story-of-sinuhe, widow-orphan-sojourner, angel-of-yhwh, four-room-house]
+media: []
+external:
+  wikipedia: Hospitality
+  wikidata: Q815825
+editorial:
+  author_notes:
+  - >-
+    Danel and Danatay host the craftsman god Kothar-wa-Ḫasis (Aqhat, KTU 1.17 V), a close
+    Levantine parallel to Gen 18. Greek xenia and theoxeny tales (e.g., Philemon and Baucis
+    in Ovid) are later comparanda for Heb 13:2.
+  - >-
+    Gen 19 and Judg 19 are paired narratives of violated hospitality. Note the interpretive
+    tradition (Ezek 16:49; Wisdom 19) that defines Sodom's sin socially.
+  - >-
+    Sinuhe's reception by a Syro-Palestinian chief shows Egyptian literary portrayals of Levantine
+    hospitality.
+  - Caution against reading modern Bedouin ethnography directly back into the Iron Age.
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

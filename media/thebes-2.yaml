@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: thebes-2
+file: thebes-2.jpg
+title: SFEC AEH -ThebesNecropolis-2010-FULL-Overview-039.jpg
+caption: Aerial view of the Theban necropolis on the west bank at Luxor.
+description: Aerial view of the Theban Necropolis.
+creator: Steve F-E-Cameron
+credit_line: Own work
+license:
+  id: CC-BY-3.0
+  name: CC BY 3.0
+  url: https://creativecommons.org/licenses/by/3.0
+attribution: Steve F-E-Cameron, CC BY 3.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:SFEC_AEH_-ThebesNecropolis-2010-FULL-Overview-039.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/1c/SFEC_AEH_-ThebesNecropolis-2010-FULL-Overview-039.jpg
+  sha1: d44aa7be55e1e84f850612b81933bc44edcbe135
+  original_size: [3264, 2448]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [thebes]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: heliodorus-stele
+file: heliodorus-stele.jpg
+title: Heliodorus Stele 3 (crop).jpg
+caption: >-
+  The Heliodorus Stele, limestone, 178 BCE, with Seleucus IV's correspondence (Israel Museum,
+  Jerusalem).
+description: The stele of Heliodorus at the Israel Museum in Jerusalem
+creator: Yael Y
+credit_line: Own work
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Yael Y. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Heliodorus_Stele_3_(crop).jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/7/7d/Heliodorus_Stele_3_%28crop%29.jpg
+  sha1: d09ddb70eae5bb58b64ba9fd3ce1439af41839ce
+  original_size: [1287, 2324]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 886×1600 px
+size: [886, 1600]
+depicts: [heliodorus-stele]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,87 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ashdod
+title: Ashdod
+aliases: [Tel Ashdod, Azotus, Ashdod-Yam]
+type: site
+cultures: [philistine]
+scope: >-
+  The Philistine city of Ashdod on the southern coastal plain and its port at Ashdod-Yam.
+  Covers its Philistine strata, its Assyrian conquest and status as a province, and Hellenistic
+  and Roman Azotus.
+passages:
+- ref: Josh 13:3
+  rel: setting
+  note: Ashdod among the five Philistine lordships
+- ref: 1Sam 5:1-7
+  rel: setting
+  note: The ark in the temple of Dagon at Ashdod
+- ref: 2Chr 26:6
+  rel: setting
+  note: Uzziah breaks down the wall of Ashdod
+- ref: Isa 20:1
+  rel: attests
+  note: Sargon's commander takes Ashdod (712/711 BCE); Sargon stele fragments from the site
+- ref: Amos 3:9
+  rel: setting
+  note: '''Proclaim to the strongholds in Ashdod'' (LXX: Assyria)'
+- ref: Neh 4:7
+  rel: setting
+  note: Ashdodites oppose the wall-building (MT 4:1)
+- ref: Neh 13:23-24
+  rel: language
+  note: Children speaking 'the language of Ashdod'
+- ref: Zech 9:6
+  rel: setting
+  note: '''A mongrel people shall settle in Ashdod'''
+- ref: 1Macc 10:84
+  rel: setting
+  note: Jonathan burns the temple of Dagon at Azotus
+- ref: Acts 8:40
+  rel: setting
+  note: Philip found at Azotus
+related: [philistines, dagon, sargon-ii, sargon-ii-inscriptions, sea-peoples, gaza]
+media:
+- id: ashdod
+  role: primary
+external:
+  wikipedia: Ashdod
+  wikidata: Q171639
+  pleiades: '687838'
+editorial:
+  author_notes:
+  - >-
+    M. Dothan's excavations (1962-72) revealed Philistine strata with locally made Mycenaean
+    IIIC pottery and the 'Ashdoda' figurine, a female figure merged with a throne.
+  - >-
+    Fragments of a basalt victory stele of Sargon II were found at the site, confirming the
+    campaign of Isa 20. The revolt of Yamani is known from Sargon's inscriptions.
+  - >-
+    Ashdod became the seat of an Assyrian province and later of a Persian-period province,
+    which is the context of Neh 13:24.
+  - >-
+    No temple of Dagon has been identified archaeologically. Dagon as a Philistine god is
+    known mainly from biblical and later sources.
+  sources_to_check: [NEAEHL]
+  image_query: Ashdoda figurine
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q171639 (verify).
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 31.79778
+  lon: 34.65028
+  source: wikidata:Q171639

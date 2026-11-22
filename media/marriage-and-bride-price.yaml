@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: marriage-and-bride-price
+file: marriage-and-bride-price.jpg
+title: Papyrus Berlin 13614.jpg
+caption: >-
+  Papyrus Berlin 13614, an Egyptian marriage contract of 535 BCE (Ägyptisches Museum und Papyrussammlung,
+  Berlin).
+description: Papyrus Berlin 13614 containing a marriage contract from 535 BC
+creator: Sandra Steiß (Scan)
+credit_line: https://id.smb.museum/object/823549/
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Sandra Steiß (Scan), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Papyrus_Berlin_13614.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/d/dd/Papyrus_Berlin_13614.jpg
+  sha1: d9c6dd97b06279db3a1ca2ff533bf6aac447ccda
+  original_size: [4000, 2309]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×923 px
+size: [1600, 923]
+depicts: [marriage-and-bride-price]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

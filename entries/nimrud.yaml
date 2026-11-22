@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: nimrud
+title: Nimrud (Calah)
+aliases: [Calah, Kalḫu]
+type: site
+cultures: [assyrian]
+scope: >-
+  The Assyrian capital Kalḫu (biblical Calah) on the Tigris, refounded by Ashurnasirpal II.
+  Covers its palaces, reliefs, ivories and royal tombs, and the monuments from the site that
+  name Israelite and Judahite kings.
+passages:
+- ref: Gen 10:11-12
+  rel: setting
+  note: Calah built by Nimrod (or Asshur)
+- ref: 2Kgs 9:1-13
+  rel: attests
+  note: Jehu, shown paying tribute on the Black Obelisk found at Nimrud
+- ref: 2Kgs 15:19-20
+  rel: attests
+  note: Menahem's tribute; Tiglath-pileser III's inscriptions from Calah
+- ref: 1Kgs 22:39
+  rel: realia
+  note: Ahab's ivory house; cf. the Nimrud ivories, many of Levantine origin
+- ref: Amos 6:4
+  rel: realia
+  note: Beds inlaid with ivory
+- ref: Ezek 23:14-15
+  rel: realia
+  note: Men portrayed on the wall in vermilion; painted Mesopotamian palace reliefs
+related: [black-obelisk, shalmaneser-iii, tiglath-pileser-iii, samaria-ivories, lamassu, apkallu-reliefs,
+  assyria, nineveh]
+media:
+- id: nimrud
+  role: primary
+- id: nimrud-2
+  role: gallery
+external:
+  wikipedia: Nimrud
+  wikidata: Q237614
+  pleiades: '894019'
+editorial:
+  author_notes:
+  - >-
+    Ashurnasirpal II rebuilt Kalḫu as his capital (the Banquet Stele records its inauguration
+    c. 879). Its major buildings include the Northwest Palace, the Nabu temple and Fort Shalmaneser,
+    the arsenal where many ivories were stored.
+  - >-
+    It was excavated by Layard (1845-51), by Mallowan (1949-57, the ivories) and by Iraqi
+    teams, who found the queens' tombs with gold jewellery in 1988-89.
+  - >-
+    The Nimrud ivories include Phoenician, North Syrian and Assyrian styles, much of it booty
+    or tribute from the Levant. They are the closest comparanda for the Samaria ivories.
+  - ISIS deliberately destroyed much of the Northwest Palace in 2015.
+  sources_to_check:
+  - Oates and Oates, Nimrud - An Assyrian Imperial City Revealed (2001)
+  image_query: Nimrud Northwest Palace lamassu
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q237614 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 36.09806
+  lon: 43.32889
+  source: wikidata:Q237614

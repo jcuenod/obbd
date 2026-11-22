@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ramat-rahel
+file: ramat-rahel.jpg
+title: בריכות הארמון בתל רמת רחל.jpg
+caption: Ornamental pools of the palace garden at Ramat Raḥel, Persian period.
+description: בריכות נוי של הארמון מהתקופה הפרסית (שיבת ציון) בתל של רמת רחל (בֵּית הַכָּרֶם
+  המקראית)
+creator: Aaadir
+credit_line: >-
+  Own work - this photograph was originally taken (by image uploader) for http://alamapa.com/location/בית-הכרם
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Aaadir. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:%D7%91%D7%A8%D7%99%D7%9B%D7%95%D7%AA_%D7%94%D7%90%D7%A8%D7%9E%D7%95%D7%9F_%D7%91%D7%AA%D7%9C_%D7%A8%D7%9E%D7%AA_%D7%A8%D7%97%D7%9C.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/27/%D7%91%D7%A8%D7%99%D7%9B%D7%95%D7%AA_%D7%94%D7%90%D7%A8%D7%9E%D7%95%D7%9F_%D7%91%D7%AA%D7%9C_%D7%A8%D7%9E%D7%AA_%D7%A8%D7%97%D7%9C.jpg
+  sha1: 9a7e7a5235a95b9e6efd89c09b041a04b9cd01c3
+  original_size: [4032, 3024]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [ramat-rahel]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

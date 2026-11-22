@@ -1,0 +1,75 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: textiles-and-weaving
+title: Textiles, Spinning, and Weaving
+aliases: [Spinning, Loom, Shaatnez]
+type: realia
+cultures: [hebrew, ane]
+scope: >-
+  Fibres (wool, flax, goat hair), spinning, looms, and textile production in ancient Israel
+  and its neighbours, as household and specialised labour, and in biblical law, cult, and
+  imagery. Dyes and dress have their own entries.
+passages:
+- ref: Exod 26:1
+  rel: realia
+  note: Tabernacle curtains of twisted linen and dyed yarns with woven cherubim
+- ref: Exod 35:25-26
+  rel: practice
+  note: Skilled women spin dyed yarn, linen, and goats' hair
+- ref: Judg 16:13-14
+  rel: realia
+  note: Delilah weaves Samson's locks into the web and fastens the pin
+- ref: 1Sam 17:7
+  rel: realia
+  note: Spear shaft 'like a weaver's beam'
+- ref: 2Kgs 23:7
+  rel: practice
+  note: Women weaving 'houses' (bāttîm) for Asherah in the temple
+- ref: Prov 31:13, 19, 22, 24
+  rel: practice
+  note: Wool and flax, distaff and spindle; linen garments sold
+- ref: Isa 38:12
+  rel: imagery
+  note: Life rolled up like a weaver's web, cut from the loom
+- ref: Job 7:6
+  rel: imagery
+  note: Days swifter than a weaver's shuttle
+- ref: Deut 22:11
+  rel: practice
+  note: Ban on wool-linen mixture (šaʿaṭnēz); cf. Lev 19:19
+related: [purple-dye, clothing-and-dress, four-room-house, tabernacle, kuntillet-ajrud, asherah]
+media:
+- id: textiles-and-weaving
+  role: primary
+- id: textiles-and-weaving-2
+  role: gallery
+external:
+  wikipedia: Warp-weighted loom
+  wikidata: Q627378
+editorial:
+  author_notes:
+  - >-
+    Loom weights (evidence of the warp-weighted loom) are common in Iron Age houses. Egypt
+    used horizontal ground looms, and which type Judg 16 assumes is debated. Spool-shaped
+    Philistine loom weights are an Aegean marker.
+  - >-
+    Yadin explained the 'weaver's beam' (mĕnôr ʾōrĕgîm) as the leash rod with loops, comparing
+    it to a thonged javelin. This is an influential proposal.
+  - >-
+    Linen-wool textiles at Kuntillet ʿAjrud bear on the šaʿaṭnēz rule and its exemption for
+    priestly garments. Dyed textiles from Timna (10th century) include true purple.
+  sources_to_check: ['Barber, Prehistoric Textiles (1991)']
+  image_query: loom weights Iron Age
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

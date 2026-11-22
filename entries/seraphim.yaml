@@ -1,0 +1,63 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: seraphim
+title: Seraphim
+aliases: [seraph, śərāpîm]
+type: concept
+cultures: [judahite, egyptian]
+scope: >-
+  The seraphim (from śrp "burn"), the six-winged attendants of Isaiah's throne vision, and
+  the "fiery serpents" (śərāpîm) of the wilderness and prophetic oracles. The entry covers
+  their background in the Egyptian winged uraeus as adopted in Iron Age Judahite iconography.
+passages:
+- ref: Isa 6:2-7
+  rel: imagery
+  note: Six-winged seraphim proclaim holiness; one touches Isaiah's lips with a coal
+- ref: Num 21:6-9
+  rel: imagery
+  note: Fiery serpents (śərāpîm) bite Israel; Moses makes a śārāp on a pole
+- ref: Deut 8:15
+  rel: imagery
+  note: Wilderness of fiery serpents and scorpions
+- ref: Isa 14:29
+  rel: imagery
+  note: A 'flying fiery serpent' (śārāp məʿôpēp)
+- ref: Isa 30:6
+  rel: imagery
+  note: Viper and flying seraph in the Negeb
+related: [nehushtan, cherubim, divine-council, seals-and-bullae, divine-wings, ezekiel-throne-chariot]
+media:
+- id: seraphim
+  role: primary
+external:
+  wikipedia: Seraph
+  wikidata: Q194077
+editorial:
+  author_notes:
+  - >-
+    The serpent identification is the dominant critical view (Keel; Joines), based on śārāp
+    as serpent elsewhere and on four-winged uraei on 8th-century Judahite and Israelite seals;
+    some prefer a non-serpentine burning being.
+  - >-
+    The uraeus's protective, fire-spitting role and its covering wings help explain the seraphim
+    covering face and feet.
+  - >-
+    Do not overstate Egyptian influence as direct borrowing; the motif came through Phoenician
+    and Levantine mediation.
+  sources_to_check:
+  - O. Keel, Jahwe-Visionen und Siegelkunst (SBS 84/85, 1977)
+  - DDD, s.v. "Seraphim"
+  image_query: winged uraeus Hebrew seal
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

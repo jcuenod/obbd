@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: execration-texts-2
+file: execration-texts-2.jpg
+title: Aechtungstext2.jpg
+caption: Pottery sherds inscribed with execration texts.
+description: Execration texts on pot sherds
+creator: Naunakhte
+credit_line: Berlin, SMB-PK, Egyptian Museum Inv. no. P. 14.517
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: http://creativecommons.org/licenses/by-sa/3.0/
+attribution: Naunakhte, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Aechtungstext2.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/e/e1/Aechtungstext2.jpg
+  sha1: 3f7dbc38932810ba6ac96238e8a86f91aa4afa90
+  original_size: [1063, 881]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1063, 881]
+depicts: [execration-texts]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: arch-of-titus-2
+file: arch-of-titus-2.jpg
+title: >-
+  04 2022 Roma (Arco di Trionfo di Tito- Bassorilievi) FO228685 bis Photo by Paolo Villa.jpg
+caption: >-
+  Inner relief panel of the arch showing the spoils of Jerusalem, including the temple menorah,
+  carried in the triumph of 71 CE.
+description: >-
+  Arch of Titus: South inner panel, close-up of relief showing spoils from the fall of Jerusalem
+  - sack of Jerusalem, menorah, seven-branched candlestick, silver trumpet, temple treasure,
+  Triumph in Rome, barrel vault, egg-and-dart, rosette, candelabra, tunic, entablature, bas-relief,
+  high relief, panneggio bagnato
+creator: Paolo Villa
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Paolo Villa, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:04_2022_Roma_(Arco_di_Trionfo_di_Tito-_Bassorilievi)_FO228685_bis_Photo_by_Paolo_Villa.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/0/05/04_2022_Roma_%28Arco_di_Trionfo_di_Tito-_Bassorilievi%29_FO228685_bis_Photo_by_Paolo_Villa.jpg
+  sha1: 356d4c609c4c88b016346d26fbe31030027fbde6
+  original_size: [9264, 6096]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1053 px
+size: [1600, 1053]
+depicts: [arch-of-titus]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

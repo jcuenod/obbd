@@ -1,0 +1,76 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: byblos
+title: Byblos (Gebal)
+aliases: [Gebal, Gubla, Jbeil]
+type: site
+cultures: [phoenician, egyptian]
+scope: >-
+  The ancient port of Byblos (Gebal) north of Beirut, a city with close Egyptian ties from
+  the third millennium and an early centre of Phoenician royal inscriptions. Covers its temples
+  and its role in the timber and papyrus trade.
+passages:
+- ref: Josh 13:5
+  rel: setting
+  note: '''The land of the Gebalites'' among the unconquered lands'
+- ref: 1Kgs 5:18
+  rel: setting
+  note: Gebalites help prepare timber and stone for the temple (MT 5:32)
+- ref: Ezek 27:9
+  rel: setting
+  note: Elders of Gebal as caulkers of Tyre's ship
+related: [ahiram-sarcophagus, report-of-wenamun, amarna-letters, phoenicians, writing-materials,
+  phoenician-seafaring]
+media:
+- id: byblos
+  role: primary
+- id: byblos-2
+  role: gallery
+- id: ahiram-sarcophagus
+  role: gallery
+external:
+  wikipedia: Byblos
+  wikidata: Q173532
+  pleiades: '668216'
+editorial:
+  author_notes:
+  - >-
+    Byblos had close ties with Egypt from the Old Kingdom, chiefly for cedar. Its sanctuaries
+    include the temple of Baʿalat Gubal (the 'Lady of Byblos') and the Middle Bronze Obelisk
+    Temple.
+  - >-
+    Rib-Hadda of Byblos is the most prolific correspondent in the Amarna letters, a vivid
+    source for Late Bronze politics and the ʿApiru.
+  - >-
+    The Iron Age royal inscriptions (Ahiram, Yehimilk, Abibaal, Elibaal, Shipitbaal, and the
+    later Yehawmilk) are foundational for the early Phoenician alphabet.
+  - >-
+    Wenamun's visit to Zakar-Baal (c. 1075 BCE) illustrates the city's independence after
+    the collapse. The 'Byblos syllabic' script remains undeciphered.
+  sources_to_check: ['Moran, The Amarna Letters (1992)']
+  image_query: Byblos Obelisk Temple
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: 'Passage tags checked against WEB text: removed Matt 1:1 (trivial etymological link)'
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q173532 (verify).
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 34.11667
+  lon: 35.65
+  source: wikidata:Q173532

@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: constellations
+file: constellations.jpg
+title: MulApin-BritishMuseum.jpg
+caption: >-
+  Clay tablet with the first tablet of the astronomical compendium MUL.APIN (British Museum,
+  London).
+description: >-
+  Asset number 152339001 Description Clay tablet with two columns of inscription. Astronomical
+  treatise, tablet 1 of the series Mul-Apin ("the plough star") which includes a list of the
+  three divisions of the heavens, the dates (in the ideal 360-day year) of the rising of principal
+  stars and of those which rise and set together, and the constellations in the path of the
+  moon; nearly complete. BM 86378: https://www.britishmuseum.org/collection/object/W_1899-0610-108
+  CDLI: https://cdli.earth/artifacts/479385
+creator: British Museum
+credit_line: British Museum https://www.britishmuseum.org/collection/image/152339001
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: British Museum, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:MulApin-BritishMuseum.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/4/41/MulApin-BritishMuseum.jpg
+  sha1: 90f6ed40e941efbb0b109bf34a7be4aa83e13221
+  original_size: [1795, 2500]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1149×1600 px
+size: [1149, 1600]
+depicts: [constellations]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

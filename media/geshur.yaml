@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: geshur
+file: geshur.jpg
+title: Ruins of Bethsaida village in summer 2011 (7).JPG
+caption: >-
+  Iron Age city gate with a cult stele at et-Tell (Bethsaida), often identified as a Geshurite
+  royal city.
+description: >-
+  Ruins of the city gate and pagan stele at the Et-Tell archaeological site, which is sometimes
+  identified with the town of Betsaida, which the Gospels mention. North of the Sea of Galilee
+  in Israel
+creator: Chmee2
+credit_line: Own work
+license:
+  id: CC-BY-3.0
+  name: CC BY 3.0
+  url: https://creativecommons.org/licenses/by/3.0
+attribution: Chmee2, CC BY 3.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Ruins_of_Bethsaida_village_in_summer_2011_(7).JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/d5/Ruins_of_Bethsaida_village_in_summer_2011_%287%29.JPG
+  sha1: c3842294fc76f540347d591c5fe1e0e6b1600b43
+  original_size: [4752, 3168]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [geshur]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

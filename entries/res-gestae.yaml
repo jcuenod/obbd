@@ -1,0 +1,68 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: res-gestae
+title: Res Gestae Divi Augusti
+aliases: [Monumentum Ancyranum]
+type: text
+cultures: [roman]
+date:
+  from: 14
+  to: 14
+  display: 14 CE
+scope: >-
+  Augustus's first-person account of his achievements, completed by 14 CE and inscribed at
+  his mausoleum in Rome. It survives through provincial copies, chiefly the Monumentum Ancyranum
+  (Latin and Greek) at Ankara and fragments from Apollonia and Antioch in Pisidia.
+passages:
+- ref: Luke 2:1
+  rel: setting
+  note: A decree of Augustus; the Res Gestae records three censuses of Roman citizens
+- ref: Luke 2:14
+  rel: concept
+  note: Peace on earth; cf. the Pax Augusta and the closing of Janus
+- ref: 1Thess 5:3
+  rel: concept
+  disputed: true
+  note: '''Peace and security'', possibly echoing imperial slogans'
+- ref: Acts 13:14
+  rel: setting
+  note: Antioch in Pisidia, where a Latin copy stood
+related: [priene-calendar-inscription, imperial-cult, census-of-quirinius, royal-annals-and-historiography,
+  behistun-inscription]
+location:
+  institution: In situ, Temple of Augustus and Rome, Ankara (Monumentum Ancyranum)
+  accession: null
+media:
+- id: res-gestae
+  role: primary
+- id: res-gestae-2
+  role: gallery
+external:
+  wikipedia: Res Gestae Divi Augusti
+  wikidata: Q734095
+editorial:
+  author_notes:
+  - >-
+    The censuses in the Res Gestae (28 BCE, 8 BCE, 14 CE) are of Roman citizens, not provincial
+    registrations. Do not equate them with Luke's census.
+  - >-
+    Note 'son of the divine' (divi filius) in imperial titulature as background for NT 'Son
+    of God' language. Avoid a one-sided derivation.
+  - A comparison with Near Eastern royal res gestae (e.g. Behistun) is apt for the genre.
+  sources_to_check:
+  - 'A. E. Cooley, Res Gestae Divi Augusti: Text, Translation, and Commentary (2009)'
+  - P. A. Brunt and J. M. Moore, Res Gestae Divi Augusti (1967)
+  image_query: Monumentum Ancyranum Res Gestae Ankara
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,75 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: sumerian-love-songs
+title: Sumerian Love Songs (Dumuzi and Inanna)
+aliases: [Dumuzi-Inanna songs, Shu-Sin love song]
+type: text
+cultures: [sumerian]
+date:
+  from: -2100
+  to: -1600
+  circa: true
+  display: c. 2100–1600 BCE
+scope: >-
+  Sumerian love poetry, chiefly the songs of Inanna and Dumuzi and love songs addressed to
+  kings such as Shu-Sin of Ur. The compositions are known mostly from Old Babylonian copies.
+  They are the oldest love lyrics in the Near East and are often compared with the Song of
+  Songs.
+passages:
+- ref: Song 1:2-4
+  rel: parallel
+  note: Royal lover; 'the king has brought me into his chambers'
+- ref: Song 3:4
+  rel: parallel
+  note: >-
+    Bringing the lover into 'my mother's house', a recurrent motif in the Inanna-Dumuzi songs
+- ref: Song 8:1-2
+  rel: parallel
+  note: Wish to bring the beloved to the mother's house
+- ref: Song 4:12-5:1
+  rel: imagery
+  note: The beloved as garden; sexual imagery of garden, field, and honey
+- ref: Song 3:6-11
+  rel: parallel
+  note: Royal wedding procession and crowning by the mother
+- ref: Ezek 8:14
+  rel: setting
+  note: Mourning for Tammuz (Dumuzi)
+related: [sacred-marriage, egyptian-love-poetry, tammuz, ishtar, descent-of-inanna-ishtar]
+media:
+- id: sumerian-love-songs
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The date range covers the Ur III origin of some compositions (Shu-Sin reigned in the late
+    21st c. BCE) and the Old Babylonian copies that preserve most of them. State which is
+    meant.
+  - >-
+    Parallels with the Song of Songs are at the level of motif and genre (royal lover, the
+    mother's house, garden imagery, terms of endearment), not textual dependence. Egyptian
+    love poetry is closer in date and form and should be weighed alongside.
+  - >-
+    The cultic-mythological interpretation of the Song (Pope's Anchor Bible commentary, 1977)
+    depends heavily on these texts. Present it as a minority reading.
+  - >-
+    The Shu-Sin song (Istanbul Ni 2461) is often popularized as "the world's oldest love poem".
+    Note this as a popular label.
+  sources_to_check:
+  - Yitschak Sefati, Love Songs in Sumerian Literature (1998)
+  - Thorkild Jacobsen, The Harps That Once (1987)
+  image_query: Shu-Sin love song tablet Istanbul
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: lamashtu-pazuzu-amulets-2
+file: lamashtu-pazuzu-amulets-2.jpg
+title: >-
+  Bronze plate, several Mesopotamian deities or creatures ward off evil spirits. From Iraq.
+  9th-7th century BCE. Ancient Orient Museum, Istanbul.jpg
+caption: >-
+  Bronze apotropaic plaque with Lamashtu, Pazuzu and other protective figures, 9th–7th century
+  BCE (Istanbul Archaeology Museums, Museum of the Ancient Orient).
+description: >-
+  Bronze plate, several Mesopotamian deities/creatures ward off evil spirits. Lamashtu, Ugallu,
+  fish-cloaked Apkallu, and Pazuzu appear. From northern Iraq. 9th-7th century BCE. Ancient
+  Orient Museum, Istanbul, Turkey.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Bronze_plate,_several_Mesopotamian_deities_or_creatures_ward_off_evil_spirits._From_Iraq._9th-7th_century_BCE._Ancient_Orient_Museum,_Istanbul.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/8/8b/Bronze_plate%2C_several_Mesopotamian_deities_or_creatures_ward_off_evil_spirits._From_Iraq._9th-7th_century_BCE._Ancient_Orient_Museum%2C_Istanbul.jpg
+  sha1: e15a452c5b65bac55a5f02138e74bd3d1341611c
+  original_size: [4016, 6016]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1068×1600 px
+size: [1068, 1600]
+depicts: [lamashtu-pazuzu-amulets]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,65 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: pekah
+title: Pekah
+type: person
+cultures: [israelite]
+date:
+  from: -735
+  to: -732
+  circa: true
+  display: c. 735–732 BCE
+scope: >-
+  Pekah son of Remaliah, king of Israel, who joined Rezin of Damascus against Assyria and
+  Judah in the Syro-Ephraimite war. Tiglath-pileser III claims that the Israelites overthrew
+  Pekah (Paqaḫa) and that he installed Hoshea in his place.
+passages:
+- ref: 2Kgs 15:25
+  rel: event
+  note: Pekah assassinates Pekahiah
+- ref: 2Kgs 15:27-31
+  rel: event
+  note: Reign, Tiglath-pileser's annexation of Galilee and Gilead, and Pekah's murder by Hoshea
+- ref: 2Kgs 16:5-9
+  rel: event
+  note: Rezin and Pekah besiege Jerusalem; Ahaz appeals to Assyria
+- ref: Isa 7:1-9
+  rel: event
+  note: Isaiah's oracle against the 'two smouldering stumps', Rezin and the son of Remaliah
+- ref: 2Chr 28:5-8
+  rel: event
+  note: The Chronicler's account of Pekah's victory over Judah
+related: [tiglath-pileser-iii-inscriptions, tiglath-pileser-iii, rezin, ahaz, hoshea, menahem,
+  damascus, chronology-of-kings]
+media:
+- id: pekah
+  role: primary
+external:
+  wikipedia: Pekah
+  wikidata: Q334744
+editorial:
+  author_notes:
+  - >-
+    The twenty-year reign in 2 Kgs 15:27 cannot fit the Assyrian synchronisms. Explain the
+    proposals (rival kingdom in Gilead from c. 750, scribal error) and choose none.
+  - >-
+    Tiglath-pileser's summary inscriptions describe the deportations from Galilee (cf. 2 Kgs
+    15:29) and the change of king.
+  - >-
+    Isaiah's refusal to name Pekah ('son of Remaliah') may be contemptuous. This is a common
+    reading.
+  sources_to_check: ['Tadmor and Yamada, RINAP 1 (2011)']
+  image_query: Tiglath-pileser III relief British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

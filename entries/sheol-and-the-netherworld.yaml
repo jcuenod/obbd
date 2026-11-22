@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: sheol-and-the-netherworld
+title: Sheol and the Netherworld
+aliases: [Sheol, The Pit, Underworld]
+type: concept
+cultures: [ane, babylonian, ugaritic]
+scope: >-
+  Sheol, the shadowy realm of the dead in the Hebrew Bible, set against Mesopotamian and Ugaritic
+  conceptions of the netherworld and of Death as a devouring power. Later ideas of resurrection
+  and afterlife judgment are covered in a separate entry.
+passages:
+- ref: Gen 37:35
+  rel: concept
+  note: Jacob will go down to Sheol mourning
+- ref: Num 16:30-33
+  rel: concept
+  note: Korah's company goes down alive into Sheol
+- ref: 1Sam 2:6
+  rel: concept
+  note: YHWH brings down to Sheol and raises up
+- ref: Job 10:21-22
+  rel: concept
+  note: Land of gloom and deep darkness
+- ref: Job 17:13-16
+  rel: concept
+  note: Sheol as house; the Pit as father, the worm as mother
+- ref: Ps 6:5
+  rel: concept
+  note: No remembrance or praise of God in Sheol (MT 6:6)
+- ref: Ps 88:3-12
+  rel: concept
+  note: The Pit, the shades (rĕpāʾîm), Abaddon, land of forgetfulness (MT 88:4-13)
+- ref: Isa 5:14
+  rel: imagery
+  note: Sheol opens its throat wide, like Mot's devouring mouth
+- ref: Isa 14:9-20
+  rel: concept
+  note: Shades rise to greet the fallen king of Babylon
+- ref: Isa 25:8
+  rel: imagery
+  note: YHWH swallows up Death forever, reversing Mot's swallowing
+- ref: Ezek 32:17-32
+  rel: concept
+  note: Nations' dead lying in the Pit, grouped by manner of death
+- ref: Jonah 2:2-6
+  rel: imagery
+  note: Belly of Sheol; the bars of the earth (MT 2:3-7)
+related: [descent-of-inanna-ishtar, mot, rephaim, afterlife-and-resurrection, care-for-the-dead,
+  gilgamesh-epic, necromancy]
+media: []
+external:
+  wikipedia: Sheol
+  wikidata: Q31780
+editorial:
+  author_notes:
+  - >-
+    Mesopotamian comparanda include the 'land of no return' with dust as food (Descent of
+    Ishtar; Gilgamesh VII and XII). Mot's insatiable appetite in the Baal Cycle is the background
+    to Isa 5:14, Hab 2:5 and Isa 25:8.
+  - >-
+    Sheol is not hell. It is the common destination of all, though Ezek 32 shows some differentiation
+    by manner of death and burial.
+  - >-
+    The etymology of šĕʾôl is uncertain. Older Akkadian derivations (*šuʾālu) are no longer
+    accepted.
+  - >-
+    Trace the tension between Sheol as cut off from YHWH (Ps 6:5; 88) and YHWH's reach into
+    it (Ps 139:8; Amos 9:2).
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

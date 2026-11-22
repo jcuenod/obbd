@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: rabbah
+file: rabbah.jpg
+title: Amman Citadel.jpg
+caption: >-
+  The Amman Citadel on Jabal al-Qal'a, the site of Rabbah of the Ammonites, rising above the
+  modern city.
+description: Amman's Citadel atop Jabal al-Qal'a, the historical center of the city.
+creator: David Bjorgen
+credit_line: Own work
+license:
+  id: CC-BY-2.5
+  name: CC BY 2.5
+  url: https://creativecommons.org/licenses/by/2.5
+attribution: David Bjorgen, CC BY 2.5, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Amman_Citadel.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/6/6e/Amman_Citadel.jpg
+  sha1: fbfb8887ca45988dcd21b98c294f486bd5761305
+  original_size: [1800, 1200]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [rabbah]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

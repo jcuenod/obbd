@@ -1,0 +1,80 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: amulets
+title: Amulets
+aliases: [Charms, Phylacteries]
+type: realia
+cultures: [egyptian, judahite, phoenician, assyrian]
+scope: >-
+  Protective objects worn on the body or placed in homes and tombs, from Egyptian-style amulets
+  common in Iron Age Judah to inscribed silver scrolls and Mesopotamian anti-demon amulets.
+  The entry covers biblical references to charms, crescents and the binding of words on hand
+  and forehead.
+passages:
+- ref: Exod 13:9, 16
+  rel: practice
+  note: A sign on the hand and frontlets (ṭôṭāpōt) between the eyes
+- ref: Deut 6:8
+  rel: practice
+  note: Bind the words as a sign on the hand and between the eyes
+- ref: Deut 11:18
+  rel: practice
+  note: The same command repeated
+- ref: Isa 3:18-23
+  rel: realia
+  note: Women's ornaments including crescents and amulets (laḥăšîm, 3:20)
+- ref: Gen 35:4
+  rel: realia
+  note: Earrings buried with foreign gods under the oak at Shechem
+- ref: Judg 8:21, 26
+  rel: realia
+  note: Crescents on camels' necks and pendants
+- ref: Prov 6:21; 7:3
+  rel: imagery
+  note: Binding teaching on the heart, neck and fingers
+- ref: Num 6:24-26
+  rel: language
+  note: The priestly blessing, inscribed on the Ketef Hinnom silver amulets
+- ref: Matt 23:5
+  rel: practice
+  note: Broad phylacteries
+- ref: 2Macc 12:40
+  rel: practice
+  note: Fallen soldiers wearing tokens of the idols of Jamnia
+related: [ketef-hinnom-amulets, lamashtu-pazuzu-amulets, apotropaic-doorposts-and-thresholds,
+  seals-and-bullae, demons, cylinder-seals]
+media:
+- id: amulets
+  role: primary
+- id: amulets-2
+  role: gallery
+external:
+  wikipedia: Amulet
+  wikidata: Q131557
+editorial:
+  author_notes:
+  - >-
+    Egyptian and Egyptianizing amulets (wedjat eye, Bes, Pataikos, scarabs) are very common
+    in Iron Age Judahite tombs. They show ordinary piety, not marginal 'syncretism'. C. Herrmann
+    has catalogued them.
+  - >-
+    The Ketef Hinnom silver scrolls quote a form of Num 6:24-26. The late Iron Age date favoured
+    by Barkay et al. (BASOR 334, 2004) is accepted by most; a minority argue for a later date.
+  - >-
+    Many read Deut 6:8 as metaphorical in origin, later literalized in tefillin (Qumran examples).
+    The etymology of ṭôṭāpōt is uncertain.
+  - Use the Arslan Tash incantation plaques with caution, as their authenticity is disputed.
+  image_query: Ketef Hinnom silver amulet
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

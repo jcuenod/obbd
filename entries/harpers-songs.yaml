@@ -1,0 +1,68 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: harpers-songs
+title: Harpers' Songs
+aliases: [Songs of the Harper, Harper's Song]
+type: text
+cultures: [egyptian]
+scope: >-
+  Egyptian songs, attributed to harpers at funerary banquets and attested from the Middle
+  Kingdom to the Late Period in tombs and papyri. One group, notably the "Song from the Tomb
+  of King Intef" (P. Harris 500), doubts the afterlife's certainty and urges enjoyment of
+  life. The entry covers this sceptical group and the more traditional songs that answer it.
+passages:
+- ref: Eccl 9:7-10
+  rel: parallel
+  note: Eat, drink, wear fresh garments and oil, enjoy your wife; no work in Sheol
+- ref: Eccl 2:24
+  rel: parallel
+  note: Nothing better than to eat, drink, and find enjoyment
+- ref: Eccl 3:19-22
+  rel: concept
+  note: Uncertainty about what follows death; enjoy one's portion
+- ref: Job 7:9-10
+  rel: concept
+  note: 'No one returns from the grave (Intef song: none comes back to tell)'
+- ref: Isa 22:13
+  rel: parallel
+  note: '''Let us eat and drink, for tomorrow we die'', here condemned by the prophet'
+related: [dialogue-of-a-man-with-his-ba, ane-wisdom-literature, gilgamesh-epic, care-for-the-dead,
+  sheol-and-the-netherworld, musical-instruments]
+media:
+- id: harpers-songs
+  role: primary
+- id: harpers-songs-2
+  role: gallery
+external:
+  wikipedia: Harper's Songs
+  wikidata: Q3424582
+editorial:
+  author_notes:
+  - >-
+    Put the Qoheleth parallel alongside Siduri's advice in the Old Babylonian Gilgamesh (Meyer
+    tablet). The carpe diem motif is international.
+  - >-
+    The sceptical songs belong to tomb and banquet contexts, and New Kingdom harpers' songs
+    sometimes reject their scepticism. Do not present Egyptian culture as generally doubting
+    the afterlife.
+  - >-
+    Composition dates vary across the corpus. The Intef song claims Middle Kingdom origin
+    but survives in New Kingdom copies (P. Harris 500; the tomb of Paatenemheb).
+  sources_to_check:
+  - AEL 1:194-197
+  - ANET 467
+  - Lichtheim, 'The Songs of the Harpers', JNES 4 (1945)
+  image_query: Blind harper relief Paatenemheb Leiden
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

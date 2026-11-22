@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: pontius-pilate
+file: pontius-pilate.jpg
+title: Prutah Of Pontius Pilate.jpg
+caption: >-
+  Bronze prutah struck in Judaea under Pontius Pilate, with a lituus and the name of Tiberius.
+description: >-
+  Bronze prutah of Pontius Pilate in typically aged and well circulated condition. Minted
+  in Jerusalem, Judaea dated 29/30 C.E., near the time of the crucifixion of Jesus Christ.
+  This coin was cast as part of an attached group, and first mistakenly partially clipped
+  through the body of the coin, as seen on the reverse. Obverse: ΤΙΒΕΡΙΟΥ ΚΑΙΣΑΡΟΣ surrounding
+  lituus. Reverse: Wreath surrounding date LIZ (year 16, 29/30AD). Bronze, cast, clipped,
+  15mm, 1.97g. Worn desert patina. Found in Lebanon.
+creator: John D. Casnig
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: John D. Casnig, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Prutah_Of_Pontius_Pilate.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/e/e4/Prutah_Of_Pontius_Pilate.jpg
+  sha1: 7acd76abb4b0dc6e703b6ef986bd8117cf59413c
+  original_size: [4303, 2223]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×827 px
+size: [1600, 827]
+depicts: [pontius-pilate]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

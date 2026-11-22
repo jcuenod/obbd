@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: sacrifice
+file: sacrifice.jpg
+title: Tel Arad 280321 03 Temple.jpg
+caption: >-
+  The Judahite temple in the fortress at Tel Arad, with the sacrificial altar in the courtyard
+  and the shrine (dvir) beyond.
+description: >-
+  The Judahite temple inside the fort at Tel Arad.The Dvir, holy of holies, is on the left,
+  while in the middle is the sacrificial altar.
+creator: Oren Rozen
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Oren Rozen, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tel_Arad_280321_03_Temple.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/4/4c/Tel_Arad_280321_03_Temple.jpg
+  sha1: d62df2bf23448396c89837d44de906b44485a0a7
+  original_size: [3600, 2400]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [arad, sacrifice]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

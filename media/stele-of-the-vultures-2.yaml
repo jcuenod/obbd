@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: stele-of-the-vultures-2
+file: stele-of-the-vultures-2.jpg
+title: Stele of Vultures detail 01 reverse.jpg
+caption: >-
+  Fragment from the mythological side of the Stele of the Vultures (Musée du Louvre, Paris).
+description: >-
+  One fragment of the victory stele of the king Eannatum of Lagash over Umma, called « Stele
+  of Vultures ». Mythological side. Limestone, circa 2450 BC, Sumerian archaic dynasties.
+  Found in 1881 in Girsu (now Tello, Iraq), Mesopotamia, by Édouard de Sarzec.
+creator: Unknown artistUnknown artist
+credit_line: Eric Gaba (User:Sting), July 2005
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Unknown artistUnknown artist, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Stele_of_Vultures_detail_01_reverse.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/a0/Stele_of_Vultures_detail_01_reverse.jpg
+  sha1: 964f48d50d704335befef0e04376c6cbf44c73c8
+  original_size: [1897, 1804]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1522 px
+size: [1600, 1522]
+depicts: [stele-of-the-vultures]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

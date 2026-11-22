@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: midianites-and-kenites
+title: Midianites and Kenites
+aliases: [Midian, Kenites, Qenites]
+type: people
+cultures: [arabian]
+scope: >-
+  The Midianites of northwestern Arabia and the Kenites, a group linked with Moses' father-in-law
+  and with metalworking. Covers the biblical traditions, the archaeology of the Hejaz (Qurayyah)
+  and the southern Arabah, and the Midianite-Kenite hypothesis of YHWH's origins.
+passages:
+- ref: Gen 25:1-4
+  rel: setting
+  note: Midian, son of Abraham and Keturah
+- ref: Gen 37:28, 36
+  rel: setting
+  note: Midianite (Ishmaelite) traders sell Joseph
+- ref: Exod 2:15-22
+  rel: setting
+  note: Moses flees to Midian and marries Zipporah
+- ref: Exod 18
+  rel: setting
+  note: Jethro, priest of Midian, sacrifices and advises Moses
+- ref: Num 10:29-32
+  rel: setting
+  note: Hobab the Midianite asked to guide Israel
+- ref: Num 25:6-18
+  rel: setting
+  note: Cozbi the Midianite at Baal Peor
+- ref: Judg 1:16
+  rel: setting
+  note: Kenite descendants of Moses' father-in-law settle near Arad
+- ref: Judg 4:11, 17
+  rel: setting
+  note: Heber the Kenite and Jael
+- ref: Judg 6-8
+  rel: setting
+  note: Gideon against Midianite camel raiders
+- ref: 1Sam 15:6
+  rel: setting
+  note: Saul spares the Kenites
+related: [yhwh-origins, shasu, timna, camels-and-domestication, edomites, amalekites, qedarites-and-arabs]
+media:
+- id: midianites-and-kenites
+  role: primary
+external:
+  wikipedia: Midian
+  wikidata: Q851761
+editorial:
+  author_notes:
+  - >-
+    Midian is generally located in the northern Hejaz, east of the Gulf of Aqaba. Qurayyah
+    painted ware (thirteenth to twelfth centuries), found also at Timna and elsewhere in the
+    Arabah, is often called 'Midianite pottery'.
+  - >-
+    The Midianite-Kenite hypothesis (Budde, Rowley, Blenkinsopp and others) traces YHWH worship
+    to southern groups. It is debated but well within the mainstream. Cross-refer yhwh-origins
+    and shasu.
+  - >-
+    Midianites are also called Ishmaelites (Gen 37; Judg 8:24). Their camels (Judg 6:5) raise
+    questions of date in the light of camel domestication.
+  - The etymological link of qênî to 'smith' (cf. Gen 4:22) is suggestive, not proven.
+  sources_to_check: ['ABD, s.v. "Midian"']
+  image_query: Qurayyah painted pottery
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

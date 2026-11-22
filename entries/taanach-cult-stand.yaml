@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: taanach-cult-stand
+title: Taanach Cult Stands
+type: artifact
+cultures: [canaanite, israelite]
+date:
+  from: -1000
+  to: -900
+  circa: true
+  display: c. 1000–900 BCE
+scope: >-
+  Two decorated terracotta cult stands from Taanach in the Jezreel Valley. The better known,
+  found by P. Lapp in 1968, has four registers: a naked female between lions; two winged sphinxes
+  flanking an empty space; a sacred tree with ibexes between lions; and a quadruped under
+  a winged sun disk.
+passages:
+- ref: 1Kgs 7:27-37
+  rel: realia
+  note: Bronze stands of Solomon's temple decorated with lions, oxen, cherubim and palms
+- ref: 1Sam 4:4
+  rel: concept
+  disputed: true
+  note: YHWH 'enthroned on the cherubim'; cf. the empty space between sphinxes
+- ref: 2Kgs 23:11
+  rel: imagery
+  disputed: true
+  note: Horses dedicated to the sun; cf. the quadruped beneath the sun disk
+- ref: Deut 16:21
+  rel: concept
+  disputed: true
+  note: Asherah and the sacred tree
+- ref: Judg 5:19
+  rel: setting
+  note: The kings of Canaan fought at Taanach
+- ref: 1Kgs 4:12
+  rel: setting
+  note: Taanach in an Israelite administrative district
+related: [cult-stands, cherubim, asherah, winged-sun-disk, cherub-throne, aniconism, shamash]
+location:
+  institution: Israel Museum, Jerusalem (Lapp stand)
+  accession: null
+media:
+- id: asherah-2
+  role: gallery
+- id: taanach-cult-stand
+  role: gallery
+external:
+  wikipedia: Ta'anakh cult stand
+  wikidata: Q123481323
+editorial:
+  author_notes:
+  - >-
+    The two stands should be distinguished: Sellin found one in 1902, and Lapp found the famous
+    one in 1968.
+  - >-
+    Hestrin's and Taylor's readings (alternating Asherah registers and YHWH registers, with
+    an aniconic deity between cherubim and a solar YHWH on top) are influential but contested.
+    Present them as interpretations.
+  - >-
+    Whether Taanach was Israelite or Canaanite in the 10th century is itself debated. Avoid
+    calling the stand 'Israelite'.
+  - >-
+    The quadruped on the top register may be a horse or a bovine. This affects the solar and
+    'calf' interpretations.
+  sources_to_check:
+  - Keel and Uehlinger, Gods, Goddesses, and Images of God in Ancient Israel (1998)
+  - Taylor, Yahweh and the Sun (JSOTSup 111, 1993)
+  image_query: Taanach cult stand Israel Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

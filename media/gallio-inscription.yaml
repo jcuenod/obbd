@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: gallio-inscription
+file: gallio-inscription.jpg
+title: Delphes Gallion.jpg
+caption: >-
+  Fragment of the Delphi inscription of Claudius bearing the name of Gallio, highlighted (Delphi
+  Archaeological Museum).
+description: Musée de Delphes - Fragment d'inscription portant le nom de Gallion
+creator: Gérard
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Gérard, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Delphes_Gallion.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/1/1f/Delphes_Gallion.jpg
+  sha1: f6248bf201efab5e24751825cac8050cbc36a68a
+  original_size: [953, 1007]
+  retrieved: '2026-11-20'
+derivative: null
+size: [953, 1007]
+depicts: [gallio-inscription]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

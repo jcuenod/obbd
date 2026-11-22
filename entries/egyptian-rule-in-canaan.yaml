@@ -1,0 +1,95 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: egyptian-rule-in-canaan
+title: Egyptian Imperial Rule in Late Bronze Canaan
+aliases: [Egyptian empire in Canaan, New Kingdom imperialism in the Levant]
+type: concept
+cultures: [egyptian, canaanite]
+date:
+  from: -1550
+  to: -1130
+  circa: true
+  display: c. 1550–1130 BCE
+scope: >-
+  Egyptian imperial control of Canaan in the New Kingdom, from the 18th-Dynasty conquests
+  to the withdrawal under the later Ramessides. It covers vassal city-states and Egyptian
+  commissioners (Amarna period), garrisons and administrative centres (Gaza, Jaffa, Beth-shean),
+  the Ways of Horus, and the intensified Ramesside presence that overlapped with the earliest
+  Israel.
+passages:
+- ref: Judg 1:27-29
+  rel: setting
+  note: >-
+    Beth-shean, Megiddo and Gezer, centres of Egyptian control or vassal city-states, remain
+    unconquered
+- ref: Josh 17:11-16
+  rel: setting
+  note: Canaanites with iron chariots hold Beth-shean and the Jezreel valley
+- ref: Exod 13:17
+  rel: setting
+  note: >-
+    'Way of the land of the Philistines', the fortified Egyptian military road across north
+    Sinai
+- ref: Num 34:1-12
+  rel: setting
+  disputed: true
+  note: Borders of 'the land of Canaan' compared with the Egyptian province of Canaan
+- ref: Josh 15:9; 18:15
+  rel: language
+  disputed: true
+  note: '''Waters of Nephtoah'', often explained as ''wells of Merneptah'''
+- ref: Gen 10:6
+  rel: concept
+  disputed: true
+  note: >-
+    Canaan as brother of Egypt (Mizraim) among the sons of Ham, perhaps reflecting Egyptian
+    hegemony
+related: [amarna-letters, merneptah-stele, beth-shean, gaza, emergence-of-israel, canaanites,
+  habiru, exodus-historical-questions]
+media:
+- id: egyptian-rule-in-canaan
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Outline the phases: 18th-Dynasty conquest and the vassal system (Thutmose III's Megiddo
+    campaign; the Amarna letters with their commissioners, rabiṣu), then the 19th-20th-Dynasty
+    intensification with garrisons, 'governors' residencies' and Egyptian-style material culture
+    (Beth-shean, Tel Aphek, Tel Mor, Deir el-Balah, Tell el-Farʿah South), then withdrawal
+    by about the reign of Ramesses VI.
+  - >-
+    Key monuments: Seti I's stelae from Beth-shean, the Karnak reliefs of the Ways of Horus,
+    the Merneptah Stele (Ashkelon, Gezer, Yanoam, Israel), and Ramesses III and VI objects
+    from Beth-shean and Megiddo.
+  - >-
+    Stress that the Hebrew Bible is almost silent about Egyptian rule in Canaan, even though
+    it overlapped with Israel's emergence. Explain the scholarly debate over why (memory,
+    genre, the date of the texts).
+  - >-
+    The 'Nephtoah = Merneptah' and Num 34 'Egyptian province' proposals (Naʾaman and others)
+    are serious but not certain; present them as such.
+  - >-
+    Distinguish Egyptianization by local elites (Higginbotham) from direct Egyptian occupation;
+    both models are in use.
+  sources_to_check:
+  - D. B. Redford, Egypt, Canaan, and Israel in Ancient Times (1992)
+  - E. F. Morris, The Architecture of Imperialism (PdÄ 22, 2005)
+  - >-
+    C. R. Higginbotham, Egyptianization and Elite Emulation in Ramesside Palestine (CHANE
+    2, 2000)
+  - W. L. Moran, The Amarna Letters (1992)
+  image_query: Seti I stele Beth Shean
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

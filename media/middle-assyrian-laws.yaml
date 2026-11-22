@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: middle-assyrian-laws
+file: middle-assyrian-laws.jpg
+title: Pergamonmuseum - Vorderasiatisches Museum 075.JPG
+caption: >-
+  Middle Assyrian Laws, Tablet A (VAT 10000), clay, found in the Anu-Adad temple at Assur
+  (Vorderasiatisches Museum, Berlin).
+description: >-
+  VAT 10000 - 23.6.1906, legal text found in Anu-Adad temple at Assur: Middle Assyrian Laws,
+  Tablet A. CDLI: https://cdli.mpiwg-berlin.mpg.de/artifacts/281779
+creator: Picture taken by Marcus Cyron
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: http://creativecommons.org/licenses/by-sa/3.0/
+attribution: Picture taken by Marcus Cyron, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Pergamonmuseum_-_Vorderasiatisches_Museum_075.JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/e/e5/Pergamonmuseum_-_Vorderasiatisches_Museum_075.JPG
+  sha1: 84162cf2c98a25291d0025b69c60eebe4e9ad844
+  original_size: [1728, 2304]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1200×1600 px
+size: [1200, 1600]
+depicts: [middle-assyrian-laws]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

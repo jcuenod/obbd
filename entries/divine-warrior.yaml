@@ -1,0 +1,86 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: divine-warrior
+title: Divine Warrior
+type: concept
+cultures: [ane, ugaritic, assyrian]
+scope: >-
+  The depiction of a god as warrior who fights for his people, marches out with storm phenomena,
+  and returns as king, in ancient Near Eastern texts and in biblical hymns, narratives, and
+  prophetic oracles.
+passages:
+- ref: Exod 15:1-18
+  rel: concept
+  note: '''YHWH is a warrior''; victory at the sea and procession to the sanctuary'
+- ref: Judg 5:4-5
+  rel: imagery
+  note: YHWH marches from Seir; earth trembles, mountains quake
+- ref: Judg 5:20
+  rel: imagery
+  note: Stars fight from heaven
+- ref: Deut 33:2-3, 26-29
+  rel: imagery
+  note: YHWH comes from Sinai and Seir and rides the heavens to help
+- ref: Ps 18:7-15
+  rel: imagery
+  note: 'Storm theophany: smoke, fire, thunder, arrows of lightning; MT 18:8-16'
+- ref: Ps 68:7-8, 17
+  rel: imagery
+  note: God marches through the wilderness with myriads of chariots; MT 68:8-9, 18
+- ref: Hab 3:3-15
+  rel: imagery
+  note: God comes from Teman with Deber and Resheph in attendance
+- ref: Ps 24:7-10
+  rel: concept
+  note: '''YHWH, strong and mighty, mighty in battle'' enters the gates'
+- ref: Isa 59:15-20
+  rel: imagery
+  note: YHWH puts on righteousness as a breastplate
+- ref: Isa 63:1-6
+  rel: imagery
+  note: Warrior returns from Edom with garments stained from treading
+- ref: Zech 14:3-5
+  rel: imagery
+  note: YHWH fights against the nations on the Mount of Olives
+- ref: Josh 10:11-14
+  rel: concept
+  note: YHWH fights for Israel with hailstones
+- ref: Rev 19:11-16
+  rel: imagery
+  note: Rider on the white horse judges and makes war
+related: [baal, chaoskampf, cloud-rider, herem, conquest-accounts-and-war-rhetoric, mesha-stele,
+  smiting-the-enemy-motif, resheph]
+media:
+- id: baal-with-thunderbolt
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Cross (Canaanite Myth and Hebrew Epic, 1973) and Miller (The Divine Warrior in Early Israel,
+    1973) set the classic framework of the march, the convulsion of nature, victory, and kingship
+    and temple. Note the Ugaritic Baal background.
+  - >-
+    Ancient Near Eastern royal inscriptions routinely credit victory to the god (Ashur "goes
+    before" the king; Chemosh in the Mesha Stele). Present Israel's divine war as part of
+    this shared idiom.
+  - >-
+    Note that the motif is later turned against Israel itself (Isa 63; Lam 2) and becomes
+    eschatological (Zech 14; Rev 19).
+  - >-
+    The institution of "holy war" (von Rad) is now widely doubted. Prefer "divine war" or
+    "YHWH war".
+  image_query: Ashur archer in winged disk relief
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

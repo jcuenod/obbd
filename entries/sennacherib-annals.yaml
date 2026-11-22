@@ -1,0 +1,97 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: sennacherib-annals
+title: Sennacherib's Annals (Taylor, Oriental Institute, and Jerusalem Prisms)
+aliases: [Taylor Prism, Oriental Institute Prism, Jerusalem Prism, Chicago Prism]
+type: artifact
+cultures: [assyrian]
+date:
+  from: -700
+  to: -689
+  circa: true
+  display: c. 700–689 BCE
+scope: >-
+  The annalistic inscriptions of Sennacherib on clay cylinders and hexagonal prisms (Rassam
+  Cylinder, 700 BCE; Taylor and Jerusalem Prisms, 691; Oriental Institute Prism, 689), whose
+  third-campaign account narrates the 701 campaign to the Levant, the siege of Judahite cities,
+  and Hezekiah shut up in Jerusalem 'like a bird in a cage'.
+passages:
+- ref: 2Kgs 18:13-16
+  rel: event
+  note: >-
+    Sennacherib takes Judah's fortified cities; Hezekiah's tribute including 30 talents of
+    gold
+- ref: 2Kgs 18:17-19:37
+  rel: event
+  note: Assyrian envoys at Jerusalem and the city's deliverance
+- ref: Isa 36-37
+  rel: event
+  note: Parallel account of the 701 crisis
+- ref: 2Chr 32:1-23
+  rel: event
+  note: Chronicler's account of the invasion
+- ref: 2Kgs 19:9
+  rel: attests
+  note: >-
+    Kushite intervention under Tirhakah; the annals report Egyptian and Kushite forces at
+    Eltekeh
+- ref: 2Kgs 18:8
+  rel: setting
+  note: Hezekiah's action in Philistia; the annals report Ekron's king Padi held in Jerusalem
+- ref: Isa 1:7-9
+  rel: setting
+  note: Desolate land with Zion left 'like a booth in a vineyard'
+- ref: Mic 1:10-16
+  rel: setting
+  note: Lament over Shephelah towns including Lachish
+related: [sennacherib, sennacherib-campaign-701, hezekiah, lachish-reliefs, lachish, taharqa,
+  ekron, tribute-and-vassalage]
+location:
+  institution: >-
+    Taylor Prism, British Museum, London; Oriental Institute Prism, ISAC Museum (Oriental
+    Institute), University of Chicago; Jerusalem Prism, Israel Museum, Jerusalem
+  accession: null
+media:
+- id: hezekiah
+  role: gallery
+- id: sennacherib-annals
+  role: primary
+- id: sennacherib-annals-2
+  role: gallery
+- id: sennacherib-annals-3
+  role: gallery
+external:
+  wikipedia: Sennacherib's Annals
+  wikidata: Q578076
+editorial:
+  author_notes:
+  - >-
+    The 701 account first appears on the Rassam Cylinder (700), the copy closest to the events;
+    later prisms abridge it. Do not confuse the Sennacherib Rassam Cylinder with Ashurbanipal's
+    Rassam Cylinder.
+  - >-
+    The gold tribute (30 talents) matches 2 Kgs 18:14; the silver differs (800 vs 300 talents).
+    The annals place the tribute after Sennacherib's return to Nineveh.
+  - >-
+    The annals do not claim the capture of Jerusalem; their silence on its fall, against the
+    reported capture of 46 walled cities and 200,150 people, is central to the historical
+    debate.
+  - >-
+    The two-campaign theory (a second invasion c. 688) is now largely abandoned; present the
+    mainstream view that the biblical accounts combine sources about one campaign (Stade's
+    B1/B2 analysis).
+  sources_to_check: [RINAP 3/1 (Grayson and Novotny 2012), COS 2.119B, ANET 287-288]
+  image_query: Taylor Prism Sennacherib British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

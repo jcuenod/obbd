@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: esarhaddon-prisms
+file: esarhaddon-prisms.jpg
+title: Hexagonal terracotta prism of Esarhaddon from Nimrud, Iraq. Iraq Museum.jpg
+caption: >-
+  Hexagonal clay prism of Esarhaddon from Nimrud recording his palace building (Iraq Museum,
+  Baghdad).
+description: >-
+  Hexagonal (6 facets) terracotta prism of the Assyrian king Esarhaddon (r. 680-669 BCE) from
+  Nimrud, Iraq. The cuneiform inscription mentions the King's building work of a palace. Iraq
+  Museum.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Hexagonal_terracotta_prism_of_Esarhaddon_from_Nimrud,_Iraq._Iraq_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/8/82/Hexagonal_terracotta_prism_of_Esarhaddon_from_Nimrud%2C_Iraq._Iraq_Museum.jpg
+  sha1: 7b565a8208e459468af6706c22dc6f17ca52f28a
+  original_size: [2912, 4623]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1008×1600 px
+size: [1008, 1600]
+depicts: [esarhaddon-prisms]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

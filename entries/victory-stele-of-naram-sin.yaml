@@ -1,0 +1,80 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: victory-stele-of-naram-sin
+title: Victory Stele of Naram-Sin
+type: artifact
+cultures: [akkadian]
+date:
+  from: -2250
+  to: -2250
+  circa: true
+  display: c. 2250 BCE
+scope: >-
+  The pink limestone stele of Naram-Sin of Akkad celebrating his victory over the Lullubi
+  of the Zagros. The king, wearing a horned crown that marks divine status, ascends a mountain
+  over fallen enemies beneath celestial symbols. The stele was carried off to Susa as booty
+  by the Elamite king Shutruk-Nahhunte in the 12th century.
+passages:
+- ref: Isa 14:13-14
+  rel: imagery
+  note: Royal ascent to the heights and claim to be like the Most High
+- ref: Ezek 28:2
+  rel: imagery
+  note: Ruler who claims 'I am a god'
+- ref: Ezek 28:14-16
+  rel: imagery
+  note: Royal figure on the holy mountain of God, cast down
+- ref: Josh 10:24
+  rel: practice
+  note: Victor's feet on the necks of defeated kings
+- ref: Ps 110:1
+  rel: imagery
+  note: Enemies made a footstool for the king's feet
+- ref: Ps 18:37-42
+  rel: imagery
+  note: King tramples and crushes pursued enemies (MT 18:38-43)
+related: [sargon-of-akkad, royal-ideology, king-as-son-of-god, cosmic-mountain, smiting-the-enemy-motif,
+  susa, footstool]
+location:
+  institution: Musée du Louvre, Paris
+  accession: Sb 4 (Department of Near Eastern Antiquities of the Louvre)
+media:
+- id: victory-stele-of-naram-sin
+  role: primary
+external:
+  wikipedia: Victory Stele of Naram-Sin
+  wikidata: Q897474
+editorial:
+  author_notes:
+  - >-
+    Found at Susa by the French mission in 1898; explain the Elamite capture and Shutruk-Nahhunte's
+    added inscription as an instance of seizing monuments as booty.
+  - >-
+    Naram-Sin was the first Mesopotamian king to take the divine determinative before his
+    name; the horned crown visualises this claim. Avoid saying the Bible 'refers to' Naram-Sin.
+  - >-
+    The Isaiah and Ezekiel passages belong to a widespread ANE theme of royal hubris and divine
+    kingship; present the stele as illustration, not source.
+  - >-
+    Naram-Sin's later reputation (the Curse of Agade) as a king who offended the gods is relevant
+    to the hubris theme.
+  sources_to_check:
+  - RIME 2 (Frayne, Sargonic and Gutian Periods, 1993)
+  image_query: Victory Stele of Naram-Sin Louvre
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added accession from Wikidata Q897474 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

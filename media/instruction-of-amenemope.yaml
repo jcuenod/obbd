@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: instruction-of-amenemope
+file: instruction-of-amenemope.jpg
+title: >-
+  Hieratic Ostracon with the beginning of "The Wisdom of Amenemope" MET LC-26 3 165 EGDP027774.jpg
+caption: >-
+  Hieratic ostracon with the beginning of the Instruction of Amenemope (Metropolitan Museum
+  of Art, New York).
+description: ; Ostracon, hieratic
+creator: null
+credit_line: >-
+  This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum
+  of Art. See the Image and Data Resources Open Access Policy
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Unknown author. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Hieratic_Ostracon_with_the_beginning_of_%22The_Wisdom_of_Amenemope%22_MET_LC-26_3_165_EGDP027774.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/c/c1/Hieratic_Ostracon_with_the_beginning_of_%22The_Wisdom_of_Amenemope%22_MET_LC-26_3_165_EGDP027774.jpg
+  sha1: 2374b031fe91fcd8ba98e49f4975de0f640c4e97
+  original_size: [4000, 2667]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [instruction-of-amenemope]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

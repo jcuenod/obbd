@@ -1,0 +1,71 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: assyrian-eponym-list
+title: Assyrian Eponym Lists (Limmu)
+aliases: [limmu lists, Eponym Chronicle]
+type: text
+cultures: [assyrian]
+date:
+  from: -910
+  to: -649
+  circa: true
+  display: c. 910–649 BCE
+scope: >-
+  Assyrian lists of the officials (limmu) after whom each year was named, unbroken from 910
+  to 649 BCE, and the Eponym Chronicle, which adds a note on each year's main event. A solar
+  eclipse recorded in the eponymy of Bur-Saggile (763 BCE) anchors Assyrian and hence Israelite
+  and Judahite absolute chronology.
+passages:
+- ref: 2Kgs 16:9
+  rel: event
+  note: Capture of Damascus; the chronicle notes campaigns 'to Damascus' for 733 and 732
+- ref: 2Kgs 15:29
+  rel: event
+  note: Tiglath-pileser's western campaigns dated by eponym entries (734-732)
+- ref: 2Kgs 18:13
+  rel: setting
+  note: Sennacherib's campaign (701) fixed absolutely by the eponym chronology
+- ref: Amos 8:9
+  rel: concept
+  disputed: true
+  note: Sun going down at noon, sometimes linked to the 763 eclipse
+related: [chronology-of-kings, royal-annals-and-historiography, babylonian-chronicles, battle-of-qarqar,
+  tiglath-pileser-iii, assyria]
+media: []
+external:
+  wikipedia: Limmu
+  wikidata: Q1074760
+editorial:
+  author_notes:
+  - >-
+    Explain how the 763 eclipse fixes the list absolutely, and how Qarqar (853) and Jehu's
+    tribute (841) then fix the earliest firm dates in Israelite history.
+  - >-
+    The eponym lists exist for earlier periods too; the continuous canon covers 910-649, with
+    post-canonical eponyms to 612 less securely ordered.
+  - >-
+    The Amos 8:9 link to the 763 eclipse is suggestive but unprovable; present it as a proposal.
+  - >-
+    Biblical regnal synchronisms are internally inconsistent in places; the Assyrian data
+    are the external control.
+  sources_to_check:
+  - Millard, The Eponyms of the Assyrian Empire 910-612 BC (SAAS 2, 1994)
+  - Glassner, Mesopotamian Chronicles (SBLWAW 19, 2004)
+  image_query: Assyrian eponym list tablet British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: 'Passage tags checked against WEB text: removed trivially weak Amos 1:1 tag'
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

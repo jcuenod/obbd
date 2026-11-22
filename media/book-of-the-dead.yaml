@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: book-of-the-dead
+file: book-of-the-dead.jpg
+title: The judgement of the dead in the presence of Osiris.jpg
+caption: >-
+  Judgement scene from the Book of the Dead of Hunefer, papyrus, 19th Dynasty, c. 1300 BCE
+  (British Museum, London).
+description: >-
+  "This is an excellent example of one of the many fine vignettes (illustrations) from the
+  Book of the Dead of Hunefer. The scene reads from left to right. To the left, Anubis brings
+  Hunefer into the judgement area. Anubis is also shown supervizing [sic] the judgement scales.
+  Hunefer's heart, represented as a pot, is being weighed against a feather, the symbol of
+  Maat, the established order of things, in this context meaning 'what is right'. The ancient
+  Egyptians believed that the heart was the seat of the emotions, the intellect and the character,
+  and thus represented the good or bad aspects of
+creator: Hunefer
+credit_line: >-
+  http://www.britishmuseum.org/explore/highlights/highlight_objects/aes/p/page_from_the_book_of_the_dead.aspx,
+  https://www.webcitation.org/63ZdUemZU
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Hunefer. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/1b/The_judgement_of_the_dead_in_the_presence_of_Osiris.jpg
+  sha1: 06597e3e6e0ad9bcc29a33cd89945d49254fbc4d
+  original_size: [2446, 1112]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×728 px
+size: [1600, 728]
+depicts: [book-of-the-dead]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

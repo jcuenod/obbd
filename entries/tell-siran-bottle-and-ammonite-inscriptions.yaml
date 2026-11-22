@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tell-siran-bottle-and-ammonite-inscriptions
+title: Ammonite Inscriptions (Amman Citadel, Tell Siran, Baalis Seal Impression)
+type: artifact
+cultures: [ammonite]
+date:
+  from: -850
+  to: -580
+  circa: true
+  display: c. 850–580 BCE
+scope: >-
+  The small corpus of Ammonite inscriptions from the 9th to 6th centuries, chiefly the Amman
+  Citadel Inscription (a building or divine-oracle text invoking Milkom), the bronze Tell
+  Siran bottle naming three generations of Ammonite kings, and a seal impression from Tell
+  el-ʿUmeiri of 'Milkomʾur, servant of Baʿalyashaʿ', usually identified with Baalis of Jer
+  40:14.
+passages:
+- ref: Jer 40:14
+  rel: attests
+  note: Baalis king of the Ammonites, who sent Ishmael to kill Gedaliah
+- ref: 1Kgs 11:5, 33
+  rel: attests
+  note: Milcom, god of the Ammonites
+- ref: 2Kgs 23:13
+  rel: attests
+  note: Milcom, 'abomination of the Ammonites'
+- ref: Jer 49:1, 3
+  rel: attests
+  note: Milcom in the oracle against Ammon (MT malkām)
+- ref: 2Sam 12:30
+  rel: language
+  disputed: true
+  note: 'Crown of malkām: ''their king'' or Milcom'
+- ref: Amos 1:13-15
+  rel: setting
+  note: Oracle against Ammon and Rabbah
+- ref: Eccl 2:4-6
+  rel: parallel
+  disputed: true
+  note: Royal works of vineyards, gardens and pools; cf. the Tell Siran bottle
+related: [ammonites, milkom, rabbah, seals-and-bullae, mizpah, fall-of-jerusalem-587, moabites]
+media:
+- id: milkom
+  role: gallery
+- id: tell-siran-bottle-and-ammonite-inscriptions
+  role: primary
+external:
+  wikipedia: Ammonite language
+  wikidata: Q279181
+editorial:
+  author_notes:
+  - >-
+    Tell Siran (found 1972) names Amminadab king of the Ammonites, son of Hissalel, son of
+    Amminadab. An Amminadab of Ammon also appears in Ashurbanipal's records, which helps the
+    dating.
+  - >-
+    The Baʿalyashaʿ = Baalis identification is widely accepted, but it rests on a name variant.
+    Present it as probable.
+  - >-
+    The Ammonite script and language are distinct from Hebrew, Moabite and Aramaic, though
+    the distinction is debated for some seals. Note that many 'Ammonite' seals are unprovenanced.
+  - >-
+    The Amman Citadel inscription is fragmentary. Whether it is a royal building text or a
+    divine oracle is debated.
+  sources_to_check:
+  - Aufrecht, A Corpus of Ammonite Inscriptions (1989)
+  - Aḥituv, Echoes from the Past (2008)
+  image_query: Tell Siran bottle Ammonite inscription
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: shiloh
+file: shiloh.jpg
+title: Ancient Shiloh IMG 2924.JPG
+caption: Excavated remains at Tel Shiloh.
+description: Ancient Shiloh, in Israel (northern kingdom)
+creator: Deror Avi
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Deror Avi, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ancient_Shiloh_IMG_2924.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/9/91/Ancient_Shiloh_IMG_2924.JPG
+  sha1: b5aedaf81ee489fa0327801cfcfd491ec6f3b681
+  original_size: [5184, 3456]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [shiloh]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

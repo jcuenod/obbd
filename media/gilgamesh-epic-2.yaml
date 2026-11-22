@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: gilgamesh-epic-2
+file: gilgamesh-epic-2.jpg
+title: >-
+  Clay tablet, Epic of Gilgamesh, from Hattusa, Turkey. 13th century BCE. Neues Museum, Germany.jpg
+caption: >-
+  Clay tablet from Hattusa with part of the Epic of Gilgamesh, 13th century BCE (VAT 12890,
+  Berlin).
+description: >-
+  The cuneiform inscription on this clay tablet (VAT 12890) narrates part of the Epic of Gilgamesh
+  (written c. 2150 - 1400 BCE). The obverse of this tablet relates the second dream of Gilgamesh
+  on the journey to the Forest of Cedar, and part of the text of this passage has already
+  been interpolated into the standard version of the epic at Tablet IV 55. The reverse holds
+  a badly corrupted version of the episode of Ishtar and the Bull of Heaven. From Hattusa,
+  in modern-day Turkey. 13th century BCE. It was displayed at the Neues Museum in Berlin,
+  Germany, Exhibition of "Cinderella, Sindbad & Sinuhe
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Clay_tablet,_Epic_of_Gilgamesh,_from_Hattusa,_Turkey._13th_century_BCE._Neues_Museum,_Germany.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/4f/Clay_tablet%2C_Epic_of_Gilgamesh%2C_from_Hattusa%2C_Turkey._13th_century_BCE._Neues_Museum%2C_Germany.jpg
+  sha1: 8f48bab4b5b341915ef34bcafa9fbe733f4bfbb8
+  original_size: [2414, 3571]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1082×1600 px
+size: [1082, 1600]
+depicts: [gilgamesh-epic]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

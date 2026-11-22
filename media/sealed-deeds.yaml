@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: sealed-deeds
+file: sealed-deeds.jpg
+title: >-
+  Clay tablet and its stamped envelop. Legal debt-note on silver. Old Assyrian dialect. Assyrian
+  Colony Period, 19th century BCE. Ancient Orient Museum, Istanbul.jpg
+caption: >-
+  Old Assyrian debt-note for silver with its sealed clay envelope, 19th century BCE (Museum
+  of the Ancient Orient, Istanbul).
+description: >-
+  Clay tablet and its stamped envelop. Legal debt-note on silver. A debt of 2/3 minas and
+  7 1/4 shekels of silver (218 grams) owed by the couple of "Halus and Asue" to be paid to
+  the creditor by the "Sa Parka" festival. The envelope is stamped with the seals of the witnesses
+  and debtors. Old Assyrian dialect. Assyrian Colony Period, 19th century BCE. Ancient Orient
+  Museum, Istanbul, Turkey.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Clay_tablet_and_its_stamped_envelop._Legal_debt-note_on_silver._Old_Assyrian_dialect._Assyrian_Colony_Period,_19th_century_BCE._Ancient_Orient_Museum,_Istanbul.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/5/51/Clay_tablet_and_its_stamped_envelop._Legal_debt-note_on_silver._Old_Assyrian_dialect._Assyrian_Colony_Period%2C_19th_century_BCE._Ancient_Orient_Museum%2C_Istanbul.jpg
+  sha1: f23fec928e256795c9008eaf10d4597e1677476a
+  original_size: [4437, 3034]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1094 px
+size: [1600, 1094]
+depicts: [sealed-deeds]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,91 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: lachish-reliefs
+title: Lachish Reliefs
+type: artifact
+cultures: [assyrian]
+date:
+  from: -700
+  to: -690
+  circa: true
+  display: c. 700–690 BCE
+scope: >-
+  The sequence of carved gypsum wall slabs from a room of Sennacherib's Southwest Palace at
+  Nineveh depicting the siege and capture of the Judahite city of Lachish in 701 BCE, from
+  the assault on the walls to the deportation of families and the king receiving the spoil.
+passages:
+- ref: 2Kgs 18:14, 17
+  rel: event
+  note: Sennacherib at Lachish receives Hezekiah's messengers and dispatches his envoys
+- ref: 2Kgs 19:8
+  rel: event
+  note: The king has left Lachish for Libnah
+- ref: 2Chr 32:9
+  rel: event
+  note: Sennacherib besieging Lachish with all his forces
+- ref: Mic 1:13
+  rel: setting
+  note: Lachish addressed in the prophetic lament
+- ref: Ezek 4:2
+  rel: realia
+  note: Siege works, ramp, and battering rams
+- ref: Ezek 21:22
+  rel: realia
+  note: Battering rams and siege ramp against a city (MT 21:27)
+- ref: 2Kgs 18:31-32
+  rel: practice
+  note: Rabshakeh threatens deportation to 'a land like your own land'
+related: [lachish, sennacherib, sennacherib-campaign-701, sennacherib-annals, assyrian-siege-warfare,
+  deportation, treatment-of-captives, nineveh]
+location:
+  institution: British Museum, London
+  accession: null
+media:
+- id: assyrian-siege-warfare-2
+  role: gallery
+- id: lachish-reliefs
+  role: primary
+- id: lachish-reliefs-2
+  role: gallery
+- id: sennacherib
+  role: gallery
+- id: sennacherib-campaign-701
+  role: gallery
+- id: treatment-of-captives
+  role: gallery
+external:
+  wikipedia: Lachish reliefs
+  wikidata: Q17007389
+editorial:
+  author_notes:
+  - >-
+    Excavated by Layard in 1847-1850; the epigraph identifies the city as Lachish and the
+    king seated on his throne receiving spoil.
+  - >-
+    Correlate with the excavations at Lachish (Level III), where the Assyrian siege ramp,
+    the counter-ramp and masses of arrowheads and sling stones were found (Ussishkin).
+  - >-
+    Note the prominence given to Lachish rather than Jerusalem, perhaps because Lachish was
+    the greatest city actually taken.
+  - >-
+    The reliefs show impalement and flaying of some captives alongside families going into
+    exile; discuss as royal propaganda, not neutral reportage.
+  sources_to_check:
+  - Ussishkin, The Conquest of Lachish by Sennacherib (1982)
+  - >-
+    Barnett, Bleibtreu and Turner, Sculptures from the Southwest Palace of Sennacherib at
+    Nineveh (1998)
+  image_query: Lachish relief British Museum
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-1-sol

@@ -1,0 +1,66 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tel-motza-temple
+title: Tel Moẓa Temple
+aliases: [Tel Moza, Mozah]
+type: site
+cultures: [judahite]
+scope: >-
+  The Iron Age temple excavated at Tel Moẓa, about 7 km west of Jerusalem, alongside large
+  storage facilities. Covers its plan, cult objects and dating, and what it means for worship
+  outside Jerusalem during the monarchy.
+passages:
+- ref: Josh 18:26
+  rel: setting
+  note: Mozah (hammōṣâ) in Benjamin's allotment
+- ref: 1Kgs 3:2-4
+  rel: practice
+  note: Sacrifice at local shrines in the early monarchy
+- ref: Deut 12:2-14
+  rel: practice
+  note: Centralization law, against which a temple near the capital stands out
+- ref: 2Kgs 18:4, 22
+  rel: practice
+  disputed: true
+  note: Hezekiah's removal of the high places
+- ref: 2Kgs 23:8
+  rel: practice
+  note: Josiah's suppression of shrines outside Jerusalem
+related: [cult-reforms-archaeology, high-places, altars, cult-images, jerusalem, arad]
+media:
+- id: tel-motza-temple
+  role: primary
+external:
+  wikipedia: Tel Motza
+  wikidata: Q124328722
+editorial:
+  author_notes:
+  - >-
+    Excavated by the Israel Antiquities Authority (2012-13, with Kisilevitz among the directors),
+    followed by a joint expedition with Tel Aviv University (Kisilevitz and Lipschits). The
+    temple was built in Iron IIA (early ninth century or earlier) and rebuilt later. Verify
+    its end date in recent publications.
+  - >-
+    Finds include anthropomorphic heads and horse figurines, a courtyard altar and a pit with
+    ash and animal bones. The deity worshipped is not named, so avoid calling it a 'YHWH temple'
+    without qualification.
+  - >-
+    Large silos and granaries suggest a royal storage centre serving Jerusalem. The temple
+    is important evidence for officially sanctioned worship outside the capital before the
+    reforms.
+  sources_to_check:
+  - Kisilevitz, "The Iron IIA Judahite Temple at Tel Moẓa," Tel Aviv 42 (2015)
+  image_query: Tel Motza temple excavation
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

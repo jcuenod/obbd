@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: deir-alla-inscription
+title: Deir ʿAlla Inscription (Balaam Text)
+aliases: [Balaam Inscription, Deir ʿAlla Plaster Texts]
+type: artifact
+cultures: [aramean]
+date:
+  from: -800
+  to: -800
+  circa: true
+  display: c. 800 BCE
+scope: >-
+  Ink inscriptions on fallen wall plaster found in 1967 at Tell Deir ʿAlla in the Jordan Valley.
+  The texts recount the 'book of Balaam son of Beor, a seer of the gods', who receives a night
+  vision of a divine assembly decreeing darkness on the earth. They are the only extrabiblical
+  text naming a figure known from the Pentateuch.
+passages:
+- ref: Num 22:5
+  rel: attests
+  note: Balaam son of Beor, a non-Israelite seer
+- ref: Num 22:8-13, 19-20
+  rel: parallel
+  note: Divine communications reach Balaam at night
+- ref: Num 24:4, 16
+  rel: language
+  note: Balaam sees the vision of Shaddai; cf. the šdyn gods of the plaster text
+- ref: Josh 13:22
+  rel: attests
+  note: Balaam son of Beor called a diviner (qôsēm)
+- ref: Num 31:8, 16
+  rel: attests
+  note: Hostile later tradition about Balaam
+- ref: Mic 6:5
+  rel: attests
+  note: Balaam son of Beor in prophetic memory
+- ref: Ps 82:1
+  rel: concept
+  note: Assembly of the gods deliberating judgment
+- ref: Amos 5:18-20
+  rel: imagery
+  disputed: true
+  note: Decreed darkness and gloom, not light
+related: [prophecy-in-the-ane, divine-council, divination, el, aramaic-language, sheol-and-the-netherworld,
+  ammonites]
+media:
+- id: deir-alla-inscription
+  role: primary
+external:
+  wikipedia: Deir Alla inscription
+  wikidata: Q2893219
+editorial:
+  author_notes:
+  - >-
+    The language is debated: Old Aramaic, a Canaanite dialect, or a local Transjordanian (Gileadite
+    or Ammonite) dialect. Show what is at stake in the classification.
+  - >-
+    Hoftijzer and van der Kooij's 'Combinations' I and II are reconstructions from many fragments,
+    and the sequence of lines is uncertain. Combination II is very obscure. Proposed links
+    to necromancy or child sacrifice are speculative.
+  - >-
+    Shows that a Balaam tradition circulated east of the Jordan c. 800, independently of Numbers.
+    It does not prove the historicity of Num 22-24.
+  - The site's identification (Succoth? Penuel?) is uncertain. Do not assume one.
+  sources_to_check:
+  - COS 2.27
+  - Hoftijzer and van der Kooij, Aramaic Texts from Deir ʿAlla (1976)
+  - Hoftijzer and van der Kooij (eds.), The Balaam Text from Deir ʿAlla Re-evaluated (1991)
+  image_query: Deir Alla inscription Balaam plaster
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

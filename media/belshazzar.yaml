@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: belshazzar
+file: belshazzar.jpg
+title: >-
+  Nabonidus's preoccupation with the moon god Sin led to building work outside Babylon. This
+  clay cylinder records the restoration of Sin's ziggurat at Ur, and also asks him to protect
+  Nabonidus and his son, Belshazzar. From Ur, Iraq.jpg
+caption: >-
+  Clay cylinder of Nabonidus from Ur recording the restoration of Sin's ziggurat and praying
+  for his son Belshazzar, 6th century BCE (British Museum, London).
+description: >-
+  Nabonidus's preoccupation with the moon god Sin led to building work outside Babylon. This
+  clay cylinder records the restoration of Sin's ziggurat at Ur, and also asks him to protect
+  Nabonidus and his son, Belshazzar. From Ur, Iraq. Reign of Nabonidus, 556-539 BCE. British
+  Museum.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Nabonidus%27s_preoccupation_with_the_moon_god_Sin_led_to_building_work_outside_Babylon._This_clay_cylinder_records_the_restoration_of_Sin%27s_ziggurat_at_Ur,_and_also_asks_him_to_protect_Nabonidus_and_his_son,_Belshazzar._From_Ur,_Iraq.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/99/Nabonidus%27s_preoccupation_with_the_moon_god_Sin_led_to_building_work_outside_Babylon._This_clay_cylinder_records_the_restoration_of_Sin%27s_ziggurat_at_Ur%2C_and_also_asks_him_to_protect_Nabonidus_and_his_son%2C_Belshazzar._From_Ur%2C_Iraq.jpg
+  sha1: 07e093ab8287fbef8b379d6ca4b8bb0526594330
+  original_size: [3999, 2980]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1193 px
+size: [1600, 1193]
+depicts: [belshazzar, nabonidus-cylinders]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,84 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: elephantine-temple-petition
+title: Elephantine Temple Petition (Request to Bagavahya)
+aliases: [Request to Bagohi, Petition to Bagavahya]
+type: artifact
+cultures: [jewish, persian]
+date:
+  from: -407
+  to: -407
+  display: 407 BCE
+scope: >-
+  Aramaic petition (TAD A4.7, with draft A4.8) of 407 BCE from Jedaniah and the priests of
+  Elephantine to Bagavahya, governor of Judah, seeking support to rebuild the temple of YHW
+  destroyed in 410 BCE. The entry also covers the related memorandum (A4.9) and offer (A4.10)
+  that record the reply and conditions.
+passages:
+- ref: Neh 2:10, 19; 13:28
+  rel: attests
+  note: >-
+    Sanballat governor of Samaria; the colonists also wrote to his sons Delaiah and Shelemiah
+- ref: Neh 12:22-23
+  rel: attests
+  note: Johanan the high priest, who left an earlier letter unanswered
+- ref: Neh 5:14-15
+  rel: attests
+  note: Office of governor (peḥâ) of Judah, held by Bagavahya in 407
+- ref: Ezra 6:3-12
+  rel: practice
+  note: Persian authorization to rebuild a temple, specifying permitted offerings
+- ref: Deut 12:5-14
+  rel: concept
+  disputed: true
+  note: >-
+    Centralization of sacrifice; the memorandum permits meal-offering and incense, not burnt
+    offerings
+- ref: Isa 19:19
+  rel: concept
+  disputed: true
+  note: An altar to YHWH in Egypt
+- ref: Dan 10:2-3
+  rel: practice
+  note: Mourning by fasting and abstaining from wine and anointing, as the petitioners report
+related: [elephantine-papyri, elephantine, sanballat, yehud-province, samaritan-origins, persian-imperial-authorization,
+  khnum]
+location:
+  institution: Ägyptisches Museum und Papyrussammlung, Berlin
+  accession: null
+media:
+- id: elephantine-temple-petition
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Dated 20 Marcheshvan, year 17 of Darius II (late 407 BCE); destruction in year 14 (410)
+    by priests of Khnum with the support of the commander Vidranga.
+  - >-
+    Motives for the destruction are debated (property or space disputes, offence at animal
+    sacrifice near the ram-god Khnum's temple). Present the Passover-lamb explanation as speculative.
+  - >-
+    The memorandum's silence on burnt offerings (and the offer in A4.10) is often read as
+    deference to Jerusalem's claims or to Egyptian sensitivities.
+  - >-
+    Chronological value: Sanballat's sons active in 407 and Johanan as high priest support
+    placing Nehemiah under Artaxerxes I, and bear on the date of Ezra (cf. Ezra 10:6).
+  sources_to_check:
+  - TAD A4.7-A4.10
+  - A. E. Cowley, Aramaic Papyri of the Fifth Century B.C. (1923), nos. 30-33
+  - J. M. Lindenberger, Ancient Aramaic and Hebrew Letters (2nd ed., 2003)
+  image_query: Elephantine papyrus petition Bagohi temple
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

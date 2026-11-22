@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: nabonidus
+file: nabonidus.jpg
+title: >-
+  Detail, stele of Nabonidus. Nabonidus wears the traditional dress of a Babylonian king,
+  holding objects symbolizing justice and power.jpg
+caption: >-
+  Nabonidus in royal dress before the crescent of the moon god Sin, detail of a basalt stele
+  probably from Babylon, 556-539 BCE (British Museum).
+description: >-
+  Detail, stele of Nabonidus. Nabonidus wears the traditional dress of a Babylonian king,
+  holding objects symbolizing justice and power. Before him is the crescent moon god Sin,
+  to whom Nabonidus was personally devoted. Probably from Babylon, Iraq. Neo-Babylonian period,
+  reign of Nabonidus, 556-539 BCE. The British Museum, London.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Detail,_stele_of_Nabonidus._Nabonidus_wears_the_traditional_dress_of_a_Babylonian_king,_holding_objects_symbolizing_justice_and_power.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/6d/Detail%2C_stele_of_Nabonidus._Nabonidus_wears_the_traditional_dress_of_a_Babylonian_king%2C_holding_objects_symbolizing_justice_and_power.jpg
+  sha1: 07b2f4bec792528d4dc1871feeab270390d7663b
+  original_size: [4016, 6016]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1068×1600 px
+size: [1068, 1600]
+depicts: [nabonidus]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

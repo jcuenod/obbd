@@ -1,0 +1,81 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: musical-instruments
+title: Musical Instruments
+aliases: [Kinnor, Lyre, Shofar, Frame drum]
+type: realia
+cultures: [hebrew, ugaritic, assyrian, greek]
+scope: >-
+  Musical instruments named in the Hebrew Bible (lyre, harp, pipes, frame drum, horn, trumpets,
+  cymbals) and their identification through Levantine, Egyptian, and Mesopotamian iconography
+  and finds, with their roles in cult, prophecy, war, and celebration.
+passages:
+- ref: Gen 4:21
+  rel: concept
+  note: Jubal, ancestor of lyre (kinnôr) and pipe (ʿûgāb) players
+- ref: Exod 15:20
+  rel: practice
+  note: Miriam and the women with frame drums (tōp)
+- ref: 1Sam 10:5
+  rel: practice
+  note: Prophetic band with harp, frame drum, pipe, and lyre
+- ref: 1Sam 16:23
+  rel: practice
+  note: David's lyre relieves Saul's evil spirit
+- ref: 2Sam 6:5
+  rel: practice
+  note: Instruments accompanying the ark's procession
+- ref: Num 10:1-10
+  rel: practice
+  note: Silver trumpets (ḥăṣōṣĕrôt) for assembly, war, and festivals
+- ref: Josh 6:4
+  rel: practice
+  note: Rams' horn trumpets (šôpārôt) at Jericho
+- ref: Ps 81:2-3
+  rel: practice
+  note: Drum, lyre, harp; horn at the new moon (MT 81:3-4)
+- ref: Ps 150
+  rel: realia
+  note: Catalogue of instruments of praise
+- ref: Dan 3:5
+  rel: language
+  note: Instrument names including Greek loanwords (qîtārōs, pĕsantērîn, sûmpōnyâ)
+related: [kuntillet-ajrud-inscriptions, sennacherib-annals, new-moon, prophecy-in-the-ane,
+  ugaritic-texts, judean-pillar-figurines]
+media:
+- id: musical-instruments
+  role: primary
+- id: musical-instruments-2
+  role: gallery
+external:
+  wikipedia: History of music in the biblical period
+  wikidata: Q5868263
+editorial:
+  author_notes:
+  - >-
+    The kinnôr is a lyre (Ugaritic knr; the deified Kinnaru at Ugarit). The identification
+    of the nēbel as a larger lyre or a harp is debated. The tōp is a frame drum associated
+    with women, illustrated by Iron Age terracottas of women holding drums.
+  - >-
+    Iconography includes the Megiddo ivory (lyre player), the lyre player on Kuntillet ʿAjrud
+    Pithos A, and Assyrian reliefs of captive lyre players. Sennacherib lists male and female
+    musicians in Hezekiah's tribute.
+  - >-
+    The Greek loanwords in Dan 3 are a standard argument for a Hellenistic date of the Daniel
+    tales in their present form. Present the counter-arguments briefly.
+  sources_to_check:
+  - Braun, Music in Ancient Israel/Palestine (2002)
+  image_query: Megiddo ivory lyre player
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

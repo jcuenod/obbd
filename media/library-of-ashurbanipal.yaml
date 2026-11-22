@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: library-of-ashurbanipal
+file: library-of-ashurbanipal.jpg
+title: Library of Ashurbanipal.jpg
+caption: >-
+  Tablets from the Library of Ashurbanipal displayed in the Mesopotamia gallery of the British
+  Museum.
+description: >-
+  Library of Ashurbanipal Mesopotamia 1500-539 BC Gallery, British Museum, London, England,
+  UK. Complete indexed photo collection at WorldHistoryPics.com.
+creator: Gary Todd
+credit_line: https://www.flickr.com/photos/101561334@N08/36562516345/
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Gary Todd. CC0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Library_of_Ashurbanipal.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/8/8b/Library_of_Ashurbanipal.jpg
+  sha1: 00f34ec3fb4165eb3f0ee1ebd13275a179b705af
+  original_size: [4608, 2592]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×900 px
+size: [1600, 900]
+depicts: [library-of-ashurbanipal]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

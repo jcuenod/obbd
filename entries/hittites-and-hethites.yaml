@@ -1,0 +1,81 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: hittites-and-hethites
+title: Hittites and the "Sons of Heth"
+aliases: [Hittites, Sons of Heth, Hatti, Neo-Hittites]
+type: people
+cultures: [hittite, luwian]
+scope: >-
+  The Hittites of the Bible and their possible referents: the Late Bronze Hittite empire of
+  Anatolia, the Iron Age Neo-Hittite states of Syria, and the 'sons of Heth' living in Canaan
+  in Genesis. The entry sets out how these relate and where the biblical usage fits.
+passages:
+- ref: Gen 15:20
+  rel: setting
+  note: Hittites in the list of peoples of the land
+- ref: Gen 23:3-20
+  rel: setting
+  note: Abraham buys Machpelah from Ephron and the 'sons of Heth'
+- ref: Gen 26:34; 27:46
+  rel: setting
+  note: Esau's Hittite wives
+- ref: Num 13:29
+  rel: setting
+  note: Hittites in the hill country
+- ref: Josh 1:4
+  rel: language
+  note: '''All the land of the Hittites'', cf. Assyrian māt Ḫatti for Syria-Palestine'
+- ref: 2Sam 11:3
+  rel: setting
+  note: Uriah the Hittite
+- ref: 1Kgs 10:28-29
+  rel: setting
+  note: Horses and chariots exported to the kings of the Hittites and Aram
+- ref: 1Kgs 11:1
+  rel: setting
+  note: Hittite women among Solomon's wives
+- ref: 2Kgs 7:6
+  rel: setting
+  note: Arameans fear the kings of the Hittites and of Egypt
+- ref: Ezek 16:3, 45
+  rel: setting
+  note: '''Your mother was a Hittite'''
+related: [hittite-vassal-treaties, hittite-laws, egyptian-hittite-peace-treaty, kadesh-battle-reliefs,
+  carchemish, hamath, covenant-and-treaty-form, hurrians-and-horites]
+media:
+- id: hittites-and-hethites
+  role: primary
+- id: hittites-and-hethites-2
+  role: gallery
+external:
+  wikipedia: Hittites
+  wikidata: Q5406
+editorial:
+  author_notes:
+  - >-
+    Distinguish three referents. (1) The Late Bronze Hittite empire centred at Hattusa (c.
+    1650-1180 BCE). (2) The Iron Age Neo-Hittite (Luwian and Luwian-Aramean) states such as
+    Carchemish and Hamath, the 'kings of the Hittites' in Kings and the 'Hatti' of Assyrian
+    texts. (3) The 'sons of Heth' in Canaan (Gen 23), whose names are Semitic, probably a
+    literary or local category rather than Anatolian Hittites.
+  - >-
+    Mendenhall's comparison of Hittite vassal treaties with biblical covenant form remains
+    important but is debated against the Neo-Assyrian treaties. Cross-refer the treaty entries.
+  - The Yahwistic name of Uriah 'the Hittite' leaves his ethnicity uncertain.
+  sources_to_check:
+  - Bryce, The Kingdom of the Hittites (new ed., 2005)
+  - Collins, The Hittites and Their World (2007)
+  image_query: Hattusa Lion Gate
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: timna
+file: timna.jpg
+title: Temple of Hathor in Timna Park in summer 2011 (1).JPG
+caption: >-
+  Remains of the Egyptian Hathor shrine at the foot of the sandstone cliffs in the Timna Valley.
+description: Temple of Hathor in Timna Park, Southern Israel
+creator: Chmee2
+credit_line: Own work
+license:
+  id: CC-BY-3.0
+  name: CC BY 3.0
+  url: https://creativecommons.org/licenses/by/3.0
+attribution: Chmee2, CC BY 3.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Temple_of_Hathor_in_Timna_Park_in_summer_2011_(1).JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/f/f5/Temple_of_Hathor_in_Timna_Park_in_summer_2011_%281%29.JPG
+  sha1: 30087e44c72cc18440c2b926c81b78aeac1d072d
+  original_size: [3168, 4752]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1067×1600 px
+size: [1067, 1600]
+depicts: [timna]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

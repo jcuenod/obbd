@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: hazor
+file: hazor.jpg
+title: Tel-Hazor-1997.jpg
+caption: Excavated remains on the upper city of Tel Hazor.
+description: Tel Hazor (Hatzor), Israel.
+creator: Bukvoed
+credit_line: Own work
+license:
+  id: CC-BY-4.0
+  name: CC BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0
+attribution: Bukvoed, CC BY 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tel-Hazor-1997.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/4/4b/Tel-Hazor-1997.jpg
+  sha1: dab3afc9b431ea93608a06ccd01b944c3611dd5d
+  original_size: [5472, 3648]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [hazor]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

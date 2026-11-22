@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tiglath-pileser-iii-inscriptions
+title: Inscriptions of Tiglath-pileser III
+type: text
+cultures: [assyrian]
+date:
+  from: -745
+  to: -727
+  display: 745–727 BCE
+scope: >-
+  The royal inscriptions of Tiglath-pileser III: annals carved on palace slabs at Nimrud (later
+  dismantled and reused), summary inscriptions, and stelae such as the Iran Stele. They name
+  Menahem of Samaria, Rezin of Damascus, Pekah and Hoshea, and Ahaz ('Jehoahaz') of Judah,
+  and document the annexation of much of the Levant.
+passages:
+- ref: 2Kgs 15:19-20
+  rel: event
+  note: Menahem's tribute to Pul (Tiglath-pileser) to secure his throne
+- ref: 2Kgs 15:29
+  rel: event
+  note: Annexation of Galilee and Gilead and deportation of their population
+- ref: 2Kgs 15:30
+  rel: event
+  note: Hoshea replaces Pekah; Assyrian text claims Tiglath-pileser installed him
+- ref: 2Kgs 16:5-9
+  rel: event
+  note: Ahaz's appeal and tribute; capture of Damascus and death of Rezin
+- ref: 2Kgs 16:10-16
+  rel: setting
+  note: Ahaz meets Tiglath-pileser at Damascus; new altar in Jerusalem
+- ref: Isa 7:1-9
+  rel: setting
+  note: Syro-Ephraimite crisis of 734-732
+- ref: Isa 9:1
+  rel: setting
+  disputed: true
+  note: '''Way of the sea, beyond the Jordan, Galilee'' often read as Assyrian provinces (MT
+    8:23)'
+- ref: 1Chr 5:6, 26
+  rel: event
+  note: Deportation of the Transjordanian tribes by Tilgath-pilneser
+related: [tiglath-pileser-iii, menahem, pekah, hoshea, ahaz, rezin, nimrud, deportation]
+media:
+- id: tiglath-pileser-iii-inscriptions
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The Nimrud slabs were removed and reused by Esarhaddon, so the annals survive in fragments
+    known partly from Layard's drawings; the line numbering and order were reconstructed by
+    Tadmor.
+  - >-
+    Summary Inscription 7 lists 'Jehoahaz of Judah' among tributaries, the full form of the
+    name Ahaz. Tiglath-pileser claims to have placed Hoshea on the throne after Pekah was
+    overthrown.
+  - >-
+    The Iran Stele confirms Menahem's tribute in a dated context (c. 738), helping to fix
+    Israelite chronology.
+  - >-
+    Alt's reading of Isa 9:1 as the three provinces of Dor, Megiddo and Gilead is influential
+    but debated.
+  sources_to_check:
+  - RINAP 1 (Tadmor and Yamada 2011)
+  - Tadmor, The Inscriptions of Tiglath-pileser III, King of Assyria (1994)
+  - COS 2.117
+  - ANET 282-284
+  image_query: Tiglath-Pileser III relief Nimrud British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: pi-ramesses
+file: pi-ramesses.jpg
+title: Kolossalstatue Qantir.JPG
+caption: Feet of a colossal statue of Ramesses II at Qantir, the site of Pi-Ramesses.
+description: Feet of a colossal statue of Ramses II in Qantir
+creator: Iri-en-achti
+credit_line: Self-photographed
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Iri-en-achti. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Kolossalstatue_Qantir.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/c/cb/Kolossalstatue_Qantir.JPG
+  sha1: 737435f59a2652610b88a3b50c68ffa229f32c34
+  original_size: [3456, 2304]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [pi-ramesses]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

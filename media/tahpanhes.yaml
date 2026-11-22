@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: tahpanhes
+file: tahpanhes.jpg
+title: Tell Dafana (Tahpanhes)-Qasr Bint al-Yahudi-3D.jpg
+caption: >-
+  Modern 3D reconstruction of the Saite fortress at Tell Defenneh (Tahpanhes), known locally
+  as Qasr Bint al-Yahudi.
+description: null
+creator: null
+credit_line: null
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Unknown author. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Tell_Dafana_(Tahpanhes)-Qasr_Bint_al-Yahudi-3D.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/bf/Tell_Dafana_%28Tahpanhes%29-Qasr_Bint_al-Yahudi-3D.jpg
+  sha1: 2f0f930e39e8a403c1bfac2c745ff52ebc700330
+  original_size: [1536, 830]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1536, 830]
+depicts: [tahpanhes]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

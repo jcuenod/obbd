@@ -1,0 +1,84 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: edomites
+title: Edom and the Edomites
+aliases: [Edom, Seir, Idumea, Idumeans]
+type: people
+cultures: [edomite]
+scope: >-
+  The land and people of Edom in southern Transjordan and, later, Idumea in the southern Judean
+  hills. Covers Egyptian and Assyrian evidence, the debate over when the Edomite state formed,
+  Edomite religion and expansion, and the hostility toward Edom in biblical texts after 586.
+passages:
+- ref: Gen 25:30
+  rel: language
+  note: Esau called Edom from the 'red stuff' (ʾādōm)
+- ref: Gen 36:31-39
+  rel: setting
+  note: Kings who reigned in Edom before Israel had kings
+- ref: Num 20:14-21
+  rel: setting
+  note: Edom refuses Israel passage
+- ref: Deut 23:7-8
+  rel: practice
+  note: '''You shall not abhor any of the Edomites, for they are your kin'' (MT 23:8-9)'
+- ref: 2Sam 8:13-14
+  rel: setting
+  note: David's garrisons in Edom
+- ref: 2Kgs 8:20-22
+  rel: setting
+  note: Edom revolts against Judah under Joram
+- ref: 2Kgs 14:7
+  rel: setting
+  note: Amaziah defeats Edom and takes Sela
+- ref: Ps 137:7
+  rel: setting
+  note: Edomites cheer Jerusalem's fall
+- ref: Obad 10-14
+  rel: setting
+  note: Edom's betrayal of Judah
+- ref: Mal 1:2-5
+  rel: concept
+  note: '''I have loved Jacob but I have hated Esau''; Edom laid waste'
+related: [bozrah, qos, faynan, petra-and-sela, shasu, nabataeans, yhwh-origins, hurrians-and-horites]
+media:
+- id: edomites
+  role: primary
+external:
+  wikipedia: Edom
+  wikidata: Q208475
+editorial:
+  author_notes:
+  - >-
+    Egyptian texts mention Shasu of Edom and Seir (Papyrus Anastasi VI). Assyrian sources
+    name Edomite kings (Qaus-malaka, Qaus-gabri). Qos is the national god.
+  - >-
+    When the state formed is debated, with options ranging from the late seventh century (Bienkowski,
+    centred on Bozrah) or much earlier, from the Faynan copper evidence of the eleventh to
+    ninth centuries (Levy, Ben-Yosef).
+  - >-
+    In the seventh and sixth centuries Edom expanded into the Negev (Horvat Qitmit shrine,
+    ʿEn Ḥaṣeva). Arad ostracon 24 warns of an Edomite threat. Later Idumea was absorbed by
+    the Hasmoneans, and Herod was of Idumean descent.
+  - >-
+    Post-586 anti-Edom polemic (Obadiah, Ps 137, Lam 4:21-22) should be read against both
+    these material realities and kinship traditions (Deut 23:7).
+  sources_to_check:
+  - Bienkowski (ed.), Early Edom and Moab (1992)
+  - >-
+    Levy, Najjar and Ben-Yosef (eds.), New Insights into the Iron Age Archaeology of Edom,
+    Southern Jordan (2014)
+  image_query: Horvat Qitmit Edomite goddess head
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

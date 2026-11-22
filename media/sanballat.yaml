@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: sanballat
+file: sanballat.jpg
+title: Sanballat seal.jpg
+caption: >-
+  Clay seal impression of '[...]yahu son of [San]ballat, governor of Samaria', from Wadi ed-Daliyeh,
+  4th century BCE (Israel Museum, Jerusalem).
+description: >-
+  4th century BCE seal impression of "-yahu son of [San]ballat, governor of Samaria", housed
+  at the Israel Museum in Jerusalem
+creator: Jprg1966
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Jprg1966, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sanballat_seal.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/6/6e/Sanballat_seal.jpg
+  sha1: 4266b8aac47a5429d0ebd5708d2692e63ec86863
+  original_size: [3000, 4000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1200×1600 px
+size: [1200, 1600]
+depicts: [sanballat]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

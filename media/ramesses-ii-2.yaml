@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ramesses-ii-2
+file: ramesses-ii-2.jpg
+title: >-
+  Basalt triumphal stela of Ramesses II excavated at Beth Shean, 1290-1224 BCE (19th Dynasty)
+  Egypt Penn Museum 02.jpg
+caption: >-
+  Basalt triumphal stela of Ramesses II excavated at Beth Shean (Penn Museum, Philadelphia).
+description: >-
+  Basalt triumphal stela of Ramesses II excavated at Beth Shean, 1290-1224 BCE (19th Dynasty)
+  Egypt Penn Museum
+creator: Mary Harrsch
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Mary Harrsch, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Basalt_triumphal_stela_of_Ramesses_II_excavated_at_Beth_Shean,_1290-1224_BCE_(19th_Dynasty)_Egypt_Penn_Museum_02.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/a0/Basalt_triumphal_stela_of_Ramesses_II_excavated_at_Beth_Shean%2C_1290-1224_BCE_%2819th_Dynasty%29_Egypt_Penn_Museum_02.jpg
+  sha1: 92ac2a01e506a6765d93e6752df23739ae406957
+  original_size: [3000, 4000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1200×1600 px
+size: [1200, 1600]
+depicts: [ramesses-ii]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

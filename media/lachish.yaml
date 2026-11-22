@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: lachish
+file: lachish.jpg
+title: Tel Lachish, aerial 01.JPG
+caption: Aerial view of Tel Lachish (Tell ed-Duweir) in the Shephelah.
+description: Tel Lakiš
+creator: אסף.צ Original uploader was אסף.צ at he.wikipedia
+credit_line: >-
+  Transferred from he.wikipedia; transferred to Commons by User:Daniel Baránek using CommonsHelper.
+  (Original text : אני צילמתי)
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: http://creativecommons.org/licenses/by-sa/3.0/
+attribution: אסף.צ Original uploader was אסף.צ at he.wikipedia, CC BY-SA 3.0, via Wikimedia
+  Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tel_Lachish,_aerial_01.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/e/e2/Tel_Lachish%2C_aerial_01.JPG
+  sha1: 3853c8386e711e73995e7eb3d50e9d8023c678f4
+  original_size: [790, 556]
+  retrieved: '2026-11-20'
+derivative: null
+size: [790, 556]
+depicts: [lachish]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

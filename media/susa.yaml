@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: susa
+file: susa.jpg
+title: >-
+  The Apadana, a large hypostyle room of 36 columns in the Palace of Darius, Susa, capital
+  of Elam and of the Achaemenid Empire, Iran (46950284624).jpg
+caption: Remains of the Apadana, the 36-column audience hall of the palace of Darius I at
+  Susa.
+description: >-
+  The Apadana, a large hypostyle room of 36 columns in the Palace of Darius, Susa, capital
+  of Elam and of the Achaemenid Empire, Iran
+creator: Carole Raddato from Frankfurt, Germany
+credit_line: >-
+  The Apadana, a large hypostyle room of 36 columns in the Palace of Darius, Susa, capital
+  of Elam and of the Achaemenid Empire, Iran
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: Carole Raddato from Frankfurt, Germany, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:The_Apadana,_a_large_hypostyle_room_of_36_columns_in_the_Palace_of_Darius,_Susa,_capital_of_Elam_and_of_the_Achaemenid_Empire,_Iran_(46950284624).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/90/The_Apadana%2C_a_large_hypostyle_room_of_36_columns_in_the_Palace_of_Darius%2C_Susa%2C_capital_of_Elam_and_of_the_Achaemenid_Empire%2C_Iran_%2846950284624%29.jpg
+  sha1: 3048a45da14d69a6dd1770ef45fd3680543d0444
+  original_size: [4928, 3264]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1060 px
+size: [1600, 1060]
+depicts: [susa]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

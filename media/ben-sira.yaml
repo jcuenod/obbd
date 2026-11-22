@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ben-sira
+file: ben-sira.jpg
+title: Masada casemate room 1109.jpg
+caption: Casemate room 1109 at Masada, where the Hebrew Ben Sira scroll (MasSir) was found.
+description: Discovery site of Ben Sira scroll MasSir
+creator: Wctrenchard
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Wctrenchard, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Masada_casemate_room_1109.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/7/7c/Masada_casemate_room_1109.jpg
+  sha1: ba86ef5f2f93c5f3cd2608f29347368c4de1b4d7
+  original_size: [1084, 724]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1084, 724]
+depicts: [ben-sira]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

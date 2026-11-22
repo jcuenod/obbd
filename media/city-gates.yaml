@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: city-gates
+file: city-gates.jpg
+title: Chambered Gate of Megiddo (20726303061).jpg
+caption: The chambered gate at Megiddo, Iron Age.
+description: >-
+  The gate is 10th century BCE (around the time of Solomon) with 7th century BCE additions.
+  Tel Megiddo
+creator: Ian Scott
+credit_line: Chambered Gate of Megiddo
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: Ian Scott, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Chambered_Gate_of_Megiddo_(20726303061).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/0/01/Chambered_Gate_of_Megiddo_%2820726303061%29.jpg
+  sha1: 3c03167db43bd9df92573486a71aac928aa8d1db
+  original_size: [4000, 3000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [city-gates]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: adad-nirari-iii-2
+file: adad-nirari-iii-2.jpg
+title: Saba'a Stele of Adad-nirari III at the Ancient Orient Museum, Istanbul. C. 800 BCE.jpg
+caption: >-
+  The Saba'a stele of Adad-nirari III, basalt, c. 800 BCE (Ancient Orient Museum, Istanbul).
+description: Saba'a Stele of Adad-nirari III at the Ancient Orient Museum, Istanbul. C. 800
+  BCE.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Saba%27a_Stele_of_Adad-nirari_III_at_the_Ancient_Orient_Museum,_Istanbul._C._800_BCE.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/70/Saba%27a_Stele_of_Adad-nirari_III_at_the_Ancient_Orient_Museum%2C_Istanbul._C._800_BCE.jpg
+  sha1: 30b08ddfbb60fd1b597b7c73d33e0ff9566aa5e3
+  original_size: [4016, 6016]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1068×1600 px
+size: [1068, 1600]
+depicts: [adad-nirari-iii]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

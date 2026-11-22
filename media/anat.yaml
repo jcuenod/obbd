@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: anat
+file: anat.jpg
+title: Anat and Ramesses II.JPG
+caption: >-
+  Granite statue of Ramesses II seated beside the goddess Anat, Nineteenth Dynasty, 13th century
+  BCE.
+description: >-
+  Granite statue of Ramesses II with the goddess Anat. Nineteenth Dynasty, 13th century BC.
+creator: A. Parrot
+credit_line: Own work
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: A. Parrot. CC0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Anat_and_Ramesses_II.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/2/2f/Anat_and_Ramesses_II.JPG
+  sha1: ce283051480d72524dba0c539de7b6de57811730
+  original_size: [2248, 4000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 899×1600 px
+size: [899, 1600]
+depicts: [anat]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

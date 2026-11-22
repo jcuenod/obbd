@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: mount-ebal-altar-2
+file: mount-ebal-altar-2.jpg
+title: IHM מזבח הר עיבל.jpeg
+caption: Aerial view of the Mount Ebal structure.
+description: מזבח הר עיבל
+creator: zstadler
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: zstadler, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:IHM_%D7%9E%D7%96%D7%91%D7%97_%D7%94%D7%A8_%D7%A2%D7%99%D7%91%D7%9C.jpeg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/c/c0/IHM_%D7%9E%D7%96%D7%91%D7%97_%D7%94%D7%A8_%D7%A2%D7%99%D7%91%D7%9C.jpeg
+  sha1: b4d3d0bef5322ce8ef6617363ff6ecf194f19851
+  original_size: [1600, 912]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1600, 912]
+depicts: [mount-ebal-altar]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

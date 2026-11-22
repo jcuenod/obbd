@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: caesarea-maritima-2
+file: caesarea-maritima-2.jpg
+title: Caesarea Maritima aqueduct.jpg
+caption: The Roman aqueduct that supplied Caesarea Maritima.
+description: Ruins of the Roman aqueduct at Caesarea Maritima.
+creator: The original uploader was Mark87 at English Wikipedia.
+credit_line: Transferred from en.wikipedia to Commons.
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: >-
+  The original uploader was Mark87 at English Wikipedia.. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Caesarea_Maritima_aqueduct.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/0/07/Caesarea_Maritima_aqueduct.jpg
+  sha1: c96f2d973ff6f9693212bc6613ff480384abda6f
+  original_size: [2816, 2112]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [caesarea-maritima]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

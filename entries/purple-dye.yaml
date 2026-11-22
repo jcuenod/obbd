@@ -1,0 +1,80 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: purple-dye
+title: Purple Dye and Tekhelet
+aliases: [Tekhelet, Argaman, Tyrian purple, Murex]
+type: realia
+cultures: [phoenician, ugaritic, hebrew]
+scope: >-
+  Purple and blue-violet dyes extracted from murex sea snails, their production on the Levantine
+  coast, their status value, and the biblical colour terms tĕkēlet and ʾargāmān in cultic,
+  royal, and commercial contexts.
+passages:
+- ref: Exod 25:4
+  rel: realia
+  note: Blue (tĕkēlet), purple (ʾargāmān), and crimson yarns for the tabernacle
+- ref: Exod 28:5-6
+  rel: realia
+  note: Ephod of gold, blue, purple, crimson, and fine linen
+- ref: Num 4:6-7
+  rel: realia
+  note: Cloths of blue covering ark and table
+- ref: Num 15:38
+  rel: practice
+  note: Cord of blue (tĕkēlet) on each tassel
+- ref: 2Chr 2:7, 14
+  rel: realia
+  note: Tyrian craftsman skilled in purple, crimson, and blue (MT 2:6, 13)
+- ref: Ezek 27:7, 16
+  rel: practice
+  note: Blue and purple in Tyre's trade (v. 16 MT 'Aram', NRSV 'Edom')
+- ref: Judg 8:26
+  rel: realia
+  note: Purple garments of the kings of Midian
+- ref: Prov 31:22
+  rel: realia
+  note: The capable wife clothed in fine linen and purple
+- ref: Esth 8:15
+  rel: realia
+  note: Mordecai in royal blue and white with a purple mantle
+- ref: Acts 16:14
+  rel: practice
+  note: Lydia, a dealer in purple cloth from Thyatira
+related: [textiles-and-weaving, clothing-and-dress, phoenicians, tyre, tabernacle, phoenician-seafaring]
+media:
+- id: purple-dye
+  role: primary
+- id: purple-dye-2
+  role: gallery
+external:
+  wikipedia: Tyrian purple
+  wikidata: Q5180360
+editorial:
+  author_notes:
+  - >-
+    Explain the source. The dye comes from the hypobranchial gland of Hexaplex (Murex) trunculus
+    and Bolinus brandaris. Tĕkēlet (blue-violet) and ʾargāmān (red-purple) probably came from
+    the same species processed differently. Note the debate.
+  - >-
+    Archaeology includes the Iron Age dye installation at Tel Shiqmona with purple-stained
+    vats and sherds, and Timna textile fragments dyed with true murex purple (late 11th-10th
+    century).
+  - >-
+    Cognates include Ugaritic and Akkadian argamannu (also 'tribute') and takiltu. The derivation
+    of 'Phoenician' from a Greek word for purple-red is a common claim but debated.
+  sources_to_check:
+  - King and Stager, Life in Biblical Israel (2001)
+  image_query: murex shells purple dye
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

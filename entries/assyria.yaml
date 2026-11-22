@@ -1,0 +1,87 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: assyria
+title: Assyria (Neo-Assyrian Empire)
+aliases: [Neo-Assyrian Empire, Asshur, Aššur]
+type: people
+cultures: [assyrian]
+date:
+  from: -911
+  to: -609
+  display: 911–609 BCE
+scope: >-
+  The Neo-Assyrian Empire (911-609 BCE), which dominated the Levant from the ninth century,
+  destroyed Israel and made Judah a vassal. Covers its history, sources, imperial ideology
+  and administration, and its imprint on the Hebrew Bible; earlier Assyrian history is treated
+  briefly.
+passages:
+- ref: Gen 10:11-12
+  rel: setting
+  note: Asshur, Nineveh and Calah in the Table of Nations
+- ref: 2Kgs 15:19-20, 29
+  rel: setting
+  note: Tiglath-pileser III (Pul) takes tribute and deports Galilee
+- ref: 2Kgs 16:7-18
+  rel: setting
+  note: Ahaz becomes a vassal of Assyria
+- ref: 2Kgs 17:1-24
+  rel: setting
+  note: Fall of Samaria and Assyrian resettlement
+- ref: 2Kgs 18:13-19:37
+  rel: setting
+  note: Sennacherib's campaign against Judah
+- ref: Isa 10:5-19
+  rel: concept
+  note: Assyria, the rod of YHWH's anger, and its arrogant king
+- ref: Hos 5:13
+  rel: setting
+  note: Ephraim turns to Assyria
+- ref: Jonah 3
+  rel: setting
+  note: Repentance of Nineveh
+- ref: Nah 3
+  rel: setting
+  note: Doom of Nineveh
+- ref: Zeph 2:13-15
+  rel: setting
+  note: Assyria and Nineveh made desolate
+related: [tiglath-pileser-iii, sennacherib, sargon-ii, ashurbanipal, nineveh, assyrian-siege-warfare,
+  deportation, esarhaddon-succession-treaty]
+media:
+- id: assyria
+  role: primary
+external:
+  wikipedia: Neo-Assyrian Empire
+  wikidata: Q10914393
+editorial:
+  author_notes:
+  - >-
+    Distinguish Old, Middle and Neo-Assyrian Assyria. The Neo-Assyrian heartland cities were
+    Ashur, Nimrud (Kalḫu), Khorsabad (Dur-Sharrukin) and Nineveh.
+  - >-
+    Assyrian sources give rich synchronisms. They name Ahab (853), Jehu (841), Joash, Menahem,
+    Pekah, Hoshea, Ahaz, Hezekiah and Manasseh. The eponym list, anchored by the eclipse of
+    763, underlies biblical chronology.
+  - >-
+    Assyrian imperial ideology and treaty language (especially Esarhaddon's Succession Treaty)
+    are widely seen as shaping Deuteronomy and First Isaiah. Present this as a major consensus
+    line with variants.
+  - Deportation worked in both directions. Its scale and demographic effects are debated.
+  - The empire fell with Ashur (614), Nineveh (612) and Harran (610-609).
+  sources_to_check:
+  - Radner, Ancient Assyria - A Very Short Introduction (2015)
+  - Frahm (ed.), A Companion to Assyria (2017)
+  image_query: Ashurnasirpal II relief Nimrud
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

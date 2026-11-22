@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: apries
+file: apries.jpg
+title: DSCF0842 Louvre sphinx roi Apries N515 rwk.jpg
+caption: >-
+  Sphinx of Apries (Hophra), Twenty-sixth Dynasty, early 6th century BCE (Musée du Louvre,
+  Paris).
+description: Sphinx du roi Apries
+creator: Mbzt
+credit_line: Own work
+license:
+  id: CC-BY-4.0
+  name: CC BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0
+attribution: Mbzt, CC BY 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:DSCF0842_Louvre_sphinx_roi_Apries_N515_rwk.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/f/f7/DSCF0842_Louvre_sphinx_roi_Apries_N515_rwk.jpg
+  sha1: 822a8f6a97820b23a2dd482b5ab43f28ed2b2b7b
+  original_size: [3500, 2666]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1218 px
+size: [1600, 1218]
+depicts: [apries]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

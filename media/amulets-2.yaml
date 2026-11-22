@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: amulets-2
+file: amulets-2.jpg
+title: Egyptian - Group of 16 Amulets Strung as a Necklace - Walters 481685-1699 - View A.jpg
+caption: >-
+  Group of Egyptian amulets, restrung in modern times in the order of an amulet necklace found
+  on a mummy (Walters Art Museum, Baltimore).
+description: >-
+  This group of amulets were strung in modern times to a necklace that follows the order of
+  an amulet necklace found on a mummy in the Faiyum. On this string are 8 "djed" pillars (symbols
+  of Osiris), Thoth, figures of Horus, two figures of Re, a "wadj" (papyrus scepter, symbolizing
+  resurrection), Nephthys, and Khnum. The combination of amulets without an amulet of Isis
+  and only one "wadj" makes it likely that these amulets come from a larger context such as
+  a mummy net or amulet ensemble of a deceased, and not from a single necklace.
+creator: Anonymous (Egypt)Unknown author
+credit_line: 'Walters Art Museum: Home page Info about artwork'
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Anonymous (Egypt)Unknown author. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Egyptian_-_Group_of_16_Amulets_Strung_as_a_Necklace_-_Walters_481685-1699_-_View_A.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/a9/Egyptian_-_Group_of_16_Amulets_Strung_as_a_Necklace_-_Walters_481685-1699_-_View_A.jpg
+  sha1: f9c1bed30b20d2bd59a9ffe6a0d79e661dcbb602
+  original_size: [1799, 981]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×872 px
+size: [1600, 872]
+depicts: [amulets]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

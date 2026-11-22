@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: murashu-archive
+file: murashu-archive.jpg
+title: >-
+  Debt-note on silver. The clay tablet is stamped with the seals of the involving parties.
+  From Nippur, Iraq. Achaemenid period, c. 423 BCE. Ancient Orient Museum, Istanbul.jpg
+caption: >-
+  Sealed clay tablet from Nippur recording a silver debt owed by Enlil-šuma-iddina and Rimut-Ninurta
+  of the Murašû firm, c. 423 BCE (Istanbul Archaeology Museums).
+description: >-
+  Debt-note on silver. The clay tablet is stamped with the seals of the involving parties.
+  5 minas of silver owed by Enlil-Suma-Iddina and Rimut-Ninurta, sons of Murasu-Firm. The
+  clay tablet was written in Nippur, the 1st regnal year of the Achaemenid king Darius II.
+  From Nippur, Iraq. Achaemenid period, c. 423 BCE. Ancient Orient Museum, Istanbul, Turkey.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Debt-note_on_silver._The_clay_tablet_is_stamped_with_the_seals_of_the_involving_parties._From_Nippur,_Iraq._Achaemenid_period,_c._423_BCE._Ancient_Orient_Museum,_Istanbul.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/0/03/Debt-note_on_silver._The_clay_tablet_is_stamped_with_the_seals_of_the_involving_parties._From_Nippur%2C_Iraq._Achaemenid_period%2C_c._423_BCE._Ancient_Orient_Museum%2C_Istanbul.jpg
+  sha1: 70473751936f438a3e82f76bb78f23399d767bda
+  original_size: [5048, 3584]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1136 px
+size: [1600, 1136]
+depicts: [murashu-archive]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

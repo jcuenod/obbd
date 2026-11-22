@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: tyrian-shekel
+file: tyrian-shekel.jpg
+title: Tiros, tetradracma, 102-61 ac ca.JPG
+caption: >-
+  Tyrian silver shekel (tetradrachm) with the head of Melqart-Herakles and an eagle, c. 102–61
+  BCE (Altes Museum, Berlin).
+description: Ancient Phoenician Tyrian Sheqel coin in the Altes Museum Berlin
+creator: Sailko
+credit_line: Own work
+license:
+  id: CC-BY-3.0
+  name: CC BY 3.0
+  url: https://creativecommons.org/licenses/by/3.0
+attribution: Sailko, CC BY 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tiros,_tetradracma,_102-61_ac_ca.JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/0/01/Tiros%2C_tetradracma%2C_102-61_ac_ca.JPG
+  sha1: 0505c98bb12b09f8ef07d07944b1c9854bd5cd3f
+  original_size: [1964, 940]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×766 px
+size: [1600, 766]
+depicts: [tyrian-shekel]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

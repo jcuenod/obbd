@@ -1,0 +1,66 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: brotherhood-language
+title: '"Brother" Language in Diplomacy'
+aliases: [Brotherhood in diplomacy]
+type: concept
+cultures: [ane, egyptian, hittite]
+scope: >-
+  The use of 'brother' and 'brotherhood' to express parity relationships between rulers in
+  ancient Near Eastern diplomacy (as opposed to father–son or lord–servant language for unequal
+  partners), and its echoes in biblical narrative and prophecy.
+passages:
+- ref: 1Kgs 9:13
+  rel: language
+  note: Hiram addresses Solomon as 'my brother'
+- ref: 1Kgs 20:32-33
+  rel: language
+  note: '''Is he still alive? He is my brother'': Ahab and Ben-hadad'
+- ref: Amos 1:9
+  rel: language
+  note: Tyre 'did not remember the covenant of brothers' (bĕrît ʾaḥîm)
+- ref: Amos 1:11
+  rel: language
+  disputed: true
+  note: 'Edom pursued his brother: treaty or kinship sense debated'
+- ref: Num 20:14
+  rel: language
+  note: '''Thus says your brother Israel'' to the king of Edom'
+- ref: Obad 10-12
+  rel: language
+  note: Violence done to 'your brother Jacob'
+- ref: 1Macc 12:21
+  rel: language
+  note: Spartans and Jews claimed as brothers of Abraham's family
+related: [amarna-letters, egyptian-hittite-peace-treaty, covenant-love-language, hiram-of-tyre,
+  diplomatic-gift-exchange, covenant-and-treaty-form, edomites]
+media:
+- id: egyptian-hittite-peace-treaty
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    In the Amarna letters, 'great kings' call one another 'brother', while vassals address
+    the pharaoh as 'my lord' and 'my father'. The Egyptian–Hittite treaty speaks of 'good
+    peace and good brotherhood'.
+  - >-
+    For Amos 1:9, the consensus refers bĕrît ʾaḥîm to a treaty, possibly the Tyre–Israel alliance.
+    For Amos 1:11 and Edom, kinship (Jacob–Esau) is the more likely sense.
+  - >-
+    Distinguish diplomatic brotherhood from the kinship ideology of Israel and Edom in Genesis
+    and Deuteronomy (Deut 2:4; 23:7).
+  image_query: Egyptian-Hittite peace treaty tablet Istanbul
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

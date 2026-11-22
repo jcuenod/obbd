@@ -1,0 +1,84 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: camels-and-domestication
+title: Camel Domestication and the Patriarchal Narratives
+aliases: [Camel anachronism, Dromedary]
+type: concept
+cultures: [arabian, hebrew, assyrian]
+scope: >-
+  The domestication and spread of the dromedary camel and the debate over camels in the patriarchal
+  narratives. Covers zooarchaeological evidence from the southern Levant, Assyrian textual
+  and visual evidence, and the role of camels in Arabian trade and raiding.
+passages:
+- ref: Gen 12:16
+  rel: realia
+  note: Camels among Pharaoh's gifts to Abram, widely judged anachronistic
+- ref: Gen 24:10-64
+  rel: realia
+  note: Abraham's servant travels with ten camels
+- ref: Gen 31:17, 34
+  rel: realia
+  note: Jacob's family on camels; teraphim in the camel's saddle
+- ref: Gen 37:25
+  rel: realia
+  note: Ishmaelite camel caravan carrying gum, balm, and resin to Egypt
+- ref: Judg 6:5
+  rel: realia
+  note: Midianite raiders with camels 'without number'
+- ref: Judg 7:12
+  rel: realia
+  note: Midianite and Amalekite camels like sand on the seashore
+- ref: 1Sam 30:17
+  rel: realia
+  note: Amalekites escape on camels
+- ref: 1Kgs 10:2
+  rel: realia
+  note: Queen of Sheba's camels bearing spices and gold
+- ref: Isa 60:6
+  rel: realia
+  note: Camels of Midian and Ephah bringing gold and frankincense
+- ref: Lev 11:4
+  rel: practice
+  note: Camel classed as unclean
+related: [incense-trade, qedarites-and-arabs, kurkh-monoliths, timna, midianites-and-kenites,
+  sheba, donkeys-and-royal-mounts]
+media:
+- id: camels-and-domestication
+  role: primary
+external:
+  wikipedia: Dromedary
+  wikidata: Q71516
+editorial:
+  author_notes:
+  - >-
+    Domestic dromedaries appear in the southern Levant in quantity only from about the late
+    10th century BCE. Sapir-Hod and Ben-Yosef (Tel Aviv 41, 2014) date their first appearance
+    in the Aravah copper sites to the last third of the 10th century. Camels become common
+    with the Iron II Arabian trade.
+  - >-
+    The anachronism argument is old (Albright and others). The 2014 media coverage overstated
+    its novelty. Present it as a long-standing consensus that the patriarchal camel references
+    reflect first-millennium conditions, while noting earlier sporadic finds of camel bones
+    and images.
+  - >-
+    Assyrian evidence includes Gindibu the Arab's 1,000 camels at Qarqar (853, Kurkh Monolith),
+    camel tribute to Tiglath-pileser III, and Ashurbanipal's reliefs of Arab camel riders.
+    Bactrian camels appear on the Black Obelisk.
+  - >-
+    Midianite camel raiders (Judg 6-7) fit an Iron II rather than an early Iron I setting.
+    Note this in the wider debate about the dating of the Judges traditions.
+  sources_to_check: ['Eph''al, The Ancient Arabs (1982)']
+  image_query: Ashurbanipal relief Arabs on camels
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,76 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: melqart
+title: Melqart
+aliases: [Milqart, Tyrian Heracles, Baal of Tyre]
+type: deity
+cultures: [phoenician]
+scope: >-
+  Melqart ("king of the city"), the chief god of Tyre, spread with Phoenician colonization
+  across the Mediterranean (Carthage, Gades) and identified by Greeks with Heracles. The entry
+  covers his cult and its possible bearing on the Baal of Ahab and Jezebel.
+passages:
+- ref: 1Kgs 16:31-32
+  rel: attests
+  disputed: true
+  note: Jezebel's Baal and the temple in Samaria, often but not certainly Melqart
+- ref: 1Kgs 18:27
+  rel: practice
+  disputed: true
+  note: '''He is asleep and must be awakened'': possible allusion to Melqart''s egersis'
+- ref: 1Kgs 7:15-22
+  rel: realia
+  disputed: true
+  note: Twin pillars Jachin and Boaz; cf. Herodotus 2.44 on Tyre's temple
+- ref: 2Macc 4:18-20
+  rel: attests
+  note: Games at Tyre; Jason sends money for sacrifice to Heracles
+- ref: Matt 17:24-27
+  rel: realia
+  note: Temple tax, normally paid in Tyrian shekels bearing Melqart-Heracles
+related: [tyre, melqart-stele, baal, jezebel, hiram-of-tyre, jachin-and-boaz, coinage, phoenicians]
+media:
+- id: melqart
+  role: primary
+- id: melqart-2
+  role: gallery
+external:
+  wikipedia: Melqart
+  wikidata: Q843408
+editorial:
+  author_notes:
+  - >-
+    The identification of Jezebel's Baal with Melqart (de Vaux, Albright) versus Baal-Shamem
+    (Eissfeldt) or a local Baal is unresolved; present all three.
+  - >-
+    The "awakening" (egersis) of Heracles at Tyre is reported by Josephus citing Menander
+    of Ephesus (Against Apion 1.119; Ant. 8.146); verify references and avoid over-reading
+    1 Kgs 18:27.
+  - Discuss the Melqart stele of Bar-Hadad as evidence for his cult in Aram.
+  - >-
+    Tyrian shekels (with Melqart's head) were standard for temple dues in the Roman period;
+    this is well attested and useful for NT readers.
+  sources_to_check:
+  - KAI 201
+  - 'C. Bonnet, Melqart: cultes et mythes de l''Héraclès tyrien en Méditerranée (1988)'
+  - DDD, s.v. "Melqart"
+  image_query: Tyrian shekel Melqart
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Matt 17:24-27 note softened (Tyrian shekels inferred,
+    not stated)
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

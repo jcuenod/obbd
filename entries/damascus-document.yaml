@@ -1,0 +1,123 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: damascus-document
+title: Damascus Document (CD)
+aliases: [CD, Zadokite Fragments, Damascus Rule, 4QD]
+type: text
+cultures: [jewish]
+date:
+  from: -125
+  to: -75
+  circa: true
+  display: c. 125–75 BCE
+scope: >-
+  A sectarian work known from two medieval copies from the Cairo Genizah (CD-A and CD-B, published
+  by Schechter in 1910) and from ten fragmentary Qumran manuscripts (4Q266-273, 5Q12, 6Q15).
+  It combines an Admonition, which tells the community's origins and interprets scripture,
+  with Laws covering oaths, purity, the Sabbath, the organization of the 'camps' and a penal
+  code. The date is that of composition; the copies range from the first century BCE to the
+  twelfth century CE.
+passages:
+- ref: Num 21:18
+  rel: concept
+  note: The well dug with the staff read as the Law and its Interpreter (CD 6:3-11)
+- ref: Amos 5:26-27
+  rel: concept
+  note: >-
+    Sikkut and Kiyyun exiled 'beyond Damascus' reread as the books of the Law and the Prophets
+    (CD 7:14-21)
+- ref: Acts 7:42-43
+  rel: parallel
+  note: Stephen quotes Amos 5:25-27 with 'beyond Babylon', another reworking of the same text
+- ref: Isa 24:17
+  rel: concept
+  note: >-
+    'Terror, pit and snare' read as Belial's three nets: fornication, wealth, defiling the
+    sanctuary (CD 4:12-19)
+- ref: Num 24:17
+  rel: concept
+  note: >-
+    Star and sceptre read as the Interpreter of the Law and the Prince of the congregation
+    (CD 7:18-21)
+- ref: Ezek 44:15
+  rel: concept
+  note: Priests, Levites and sons of Zadok applied to the community's members (CD 3:21-4:4)
+- ref: Mark 10:6-9
+  rel: parallel
+  note: Gen 1:27 used against divorce; CD 4:20-5:2 uses it against taking two wives
+- ref: Exod 16:29
+  rel: practice
+  note: >-
+    Basis for Sabbath limits: 1,000 cubits outside the town, 2,000 for grazing (CD 10:21;
+    11:5-6)
+- ref: Jer 17:21-22
+  rel: practice
+  note: No carrying out of the house on the Sabbath (CD 11:7-9)
+- ref: Isa 58:13
+  rel: practice
+  note: No talk of business or the next day's work on the Sabbath (CD 10:17-19)
+- ref: Matt 12:11-12
+  rel: parallel
+  note: Sheep fallen into a pit; CD 11:13-14 forbids lifting an animal out on the Sabbath
+- ref: Luke 14:5
+  rel: parallel
+  note: Child or ox fallen into a well on the Sabbath; contrast CD 11:13-14
+- ref: Matt 18:15-17
+  rel: parallel
+  note: Graduated reproof before witnesses, as in CD 9:2-8 and 1QS 5:24-6:1
+related: [dead-sea-scrolls, community-rule, sabbath, qumran, jewish-sects, messianic-expectations,
+  sakkut-and-kaiwan, temple-scroll]
+media:
+- id: damascus-document
+  role: primary
+external:
+  wikipedia: Damascus Document
+  wikidata: Q537171
+editorial:
+  author_notes:
+  - >-
+    Manuscripts: Genizah MS A (10th century) and MS B (12th century), now in Cambridge University
+    Library (verify shelfmarks). The Qumran copies (earliest 4Q266, first century BCE) show
+    that the Genizah text is shortened and partly rearranged. They add the opening, laws on
+    skin disease and other matters, a fuller penal code, and an expulsion ceremony. Use Baumgarten's
+    DJD 18 edition and note the different column numbering systems.
+  - >-
+    'Damascus' may be a literal place of exile or a code name (for Qumran, or for Babylon
+    in Murphy-O'Connor's hypothesis); the question is debated. The 390 years and the 'twenty
+    years' before the Teacher of Righteousness (CD 1:5-11) are schematic and should not be
+    used for exact dating.
+  - >-
+    CD addresses members living in 'camps' with wives and children, unlike the yaḥad of the
+    Community Rule. A common view links this with Josephus's marrying Essenes (War 2.160-161),
+    but the relationship between the two rules is complex and was revised over time.
+  - >-
+    The Sabbath code (CD 10:14-11:18) is the fullest pre-rabbinic Sabbath halakhah. It starts
+    the Sabbath while the sun is still above the horizon (CD 10:14-17) and is stricter than
+    later rabbinic law on rescuing animals (contrast Matt 12:11; Luke 14:5). CD 11:16-17 on
+    rescuing a person is textually difficult; compare 4Q265, which permits using a garment.
+    Present these details precisely.
+  - >-
+    Messianic language: 'the messiah of Aaron and Israel' (CD 12:23-13:1; 14:19; 19:10-11;
+    20:1) may mean one figure or two (cf. 1QS 9:11). The question is debated.
+  sources_to_check:
+  - 'J. M. Baumgarten, Qumran Cave 4.XIII: The Damascus Document (4Q266-273) (DJD 18, 1996)'
+  - 'S. Schechter, Documents of Jewish Sectaries, vol. 1: Fragments of a Zadokite Work (1910)'
+  - M. Broshi (ed.), The Damascus Document Reconsidered (1992)
+  - C. Hempel, The Damascus Texts (2000)
+  - >-
+    L. Doering, Schabbat: Sabbathalacha und -praxis im antiken Judentum und Urchristentum
+    (TSAJ 78, 1999)
+  image_query: Damascus Document Cairo Genizah
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: dead-sea-scrolls
+file: dead-sea-scrolls.jpg
+title: Great Isaiah Scroll Ch53.jpg
+caption: >-
+  Columns of the Great Isaiah Scroll (1QIsaª) from Qumran Cave 1, including part of Isaiah
+  53, from a photographic reproduction.
+description: >-
+  Portion of a photographic reproduction of the Great Isaiah Scroll, the best preserved of
+  the biblical scrolls found at Qumran. It contains the entire Book of Isaiah in Hebrew, apart
+  from some small damaged parts. This manuscript was probably written by a scribe of the Jewish
+  sect of the Essenes around the second century BC. It is therefore over a 1000 years older
+  than the oldest Masoretic manuscripts.This picture shows all of Isaiah 53 (and is mostly
+  identical to the Masoretic version).
+creator: Photography by Ardon Bar Hama (see [2], author of original document is unknown.
+credit_line: 'Website of The Israel Museum, Jerusalem: [1].'
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: >-
+  Photography by Ardon Bar Hama (see [2], author of original document is unknown.. Public
+  domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Great_Isaiah_Scroll_Ch53.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/b/b2/Great_Isaiah_Scroll_Ch53.jpg
+  sha1: 3d0a9819060e2dfc2831e6a3b3d1ec7cd467380a
+  original_size: [2040, 2319]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1407×1600 px
+size: [1407, 1600]
+depicts: [dead-sea-scrolls]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

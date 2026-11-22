@@ -1,0 +1,92 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: psalms-of-solomon
+title: Psalms of Solomon
+aliases: [Pss. Sol.]
+type: text
+cultures: [jewish]
+date:
+  from: -63
+  to: -30
+  circa: true
+  display: c. 63–30 BCE
+scope: >-
+  Eighteen psalms preserved in Greek and Syriac and probably composed in Hebrew in Jerusalem
+  after Pompey's capture of the city in 63 BCE (Pompey's death in 48 BCE is alluded to in
+  Psalm 2). They interpret the Roman conquest as judgement on Hasmonean and other 'sinners',
+  and Psalms 17-18 portray a Davidic 'Lord Messiah' who will purge Jerusalem and rule in righteousness.
+passages:
+- ref: 2Sam 7:12-16
+  rel: concept
+  note: >-
+    God's oath that David's kingdom would not fail, invoked against the Hasmoneans (Pss. Sol.
+    17:4-6)
+- ref: Ps 2:8-9
+  rel: parallel
+  note: Shattering sinners with an iron rod like a potter's vessel (Pss. Sol. 17:23-24)
+- ref: Isa 11:2-4
+  rel: parallel
+  note: >-
+    The king strikes the earth with the word of his mouth, wise and strong in the holy spirit
+    (Pss. Sol. 17)
+- ref: Isa 66:18-20
+  rel: parallel
+  note: Nations come to see the glory and bring Jerusalem's scattered children (Pss. Sol.
+    17:31)
+- ref: Dan 12:2
+  rel: concept
+  note: The righteous rise to eternal life while sinners perish (Pss. Sol. 3:11-12)
+- ref: Mark 10:47-48
+  rel: language
+  note: '''Son of David'' as a messianic title, first clearly attested in Pss. Sol. 17:21'
+- ref: Luke 2:11
+  rel: language
+  note: '''Messiah, the Lord'' (christos kyrios), as in Pss. Sol. 17:32'
+related: [messianic-expectations, hasmoneans, david, jewish-sects, royal-ideology, afterlife-and-resurrection,
+  herods-temple, septuagint]
+media: []
+external:
+  wikipedia: Psalms of Solomon
+  wikidata: Q1418058
+editorial:
+  author_notes:
+  - >-
+    The text survives in medieval Greek manuscripts and in Syriac. It is listed in the table
+    of contents of Codex Alexandrinus, but those pages are lost. A Hebrew original is likely.
+    Verse numbering differs between Rahlfs and the Wright/OTP edition, so state which is used.
+  - >-
+    Historical allusions: Pompey's siege and entry into the sanctuary (Pss. Sol. 2; 8; 17),
+    his death on the Egyptian shore (2:26-27), and the Hasmoneans who 'laid waste the throne
+    of David' (17:4-8). Whether the 'man alien to our race' (17:7) is Pompey or Herod affects
+    the date.
+  - >-
+    Provenance: the older attribution to Pharisees (Ryle and James; Wellhausen) is now held
+    more cautiously. Essene authorship is a minority view. 'Pious circles in Jerusalem' is
+    the safer description.
+  - >-
+    The messiah is a human Davidic king who purges Jerusalem of Gentiles and sinners and rules
+    by wisdom rather than 'horse and rider and bow' (17:33). The phrase christos kyrios (17:32;
+    cf. 18:7) is sometimes emended to christos kyriou ('the Lord's anointed'); note the debate.
+    This is key background for NT 'Son of David' and messianic language.
+  - The title 'of Solomon' is secondary, perhaps inspired by Ps 72.
+  sources_to_check:
+  - 'R. B. Wright, The Psalms of Solomon: A Critical Edition of the Greek Text (2007)'
+  - >-
+    R. B. Wright, 'Psalms of Solomon,' in J. H. Charlesworth (ed.), The Old Testament Pseudepigrapha,
+    vol. 2 (1985)
+  - >-
+    K. Atkinson, I Cried to the Lord: A Study of the Psalms of Solomon's Historical Background
+    and Social Setting (JSJSup 84, 2004)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

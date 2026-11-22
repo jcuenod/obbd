@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: olive-oil-production
+file: olive-oil-production.jpg
+title: Olive press at Maresha.jpg
+caption: Reconstructed olive-crushing installation in a cave at Tel Maresha.
+description: >-
+  Reconstruction of olive press at Tell Maresha, accessed from Car Park (Parking lot) "Bet"
+  belonging to maze-like cave (stop no. 7)
+creator: Davidbena
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Davidbena, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Olive_press_at_Maresha.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/7/78/Olive_press_at_Maresha.jpg
+  sha1: b4f93eb1fe3e4d6c2c69983db70a91c89d792b06
+  original_size: [2432, 3648]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1067×1600 px
+size: [1067, 1600]
+depicts: [olive-oil-production]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

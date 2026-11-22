@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: temple-warning-inscription
+file: temple-warning-inscription.jpg
+title: Temple Warning Inscription from Jerusalem Istanbul Archaeology Museums.jpg
+caption: >-
+  The complete Greek Temple Warning Inscription from Herod's temple in Jerusalem (Istanbul
+  Archaeology Museums).
+description: >-
+  The Temple Warning Inscription from Herod's Temple in Jerusalem, written in Greek. It warned
+  foreigners (non-Jews) not to enter the inner temple courtyard past the balustrade on pain
+  of death.
+creator: Ywpark2003 Prof. Yong Woo Park
+credit_line: Own work
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Ywpark2003 Prof. Yong Woo Park. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Temple_Warning_Inscription_from_Jerusalem_Istanbul_Archaeology_Museums.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/18/Temple_Warning_Inscription_from_Jerusalem_Istanbul_Archaeology_Museums.jpg
+  sha1: 9d7fc44142c368ed7bd98af068f0f4926d166c21
+  original_size: [2560, 1920]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [temple-warning-inscription]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

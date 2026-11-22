@@ -1,0 +1,83 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: lots-and-cleromancy
+title: Lots and Cleromancy
+aliases: [casting lots, pur, cleromancy]
+type: practice
+cultures: [assyrian, hebrew, persian]
+scope: >-
+  Decision by lot in the ancient Near East and the Bible: allocating land, offices, and duties;
+  identifying the guilty; choosing between alternatives. The entry includes the Assyrian inscribed
+  lot (pūru) of Iahali and the pûr of Esther.
+passages:
+- ref: Josh 18:6-10
+  rel: practice
+  note: Land allotted by lot before YHWH at Shiloh
+- ref: Num 26:55-56
+  rel: practice
+  note: Land to be divided by lot
+- ref: Josh 7:14-18
+  rel: practice
+  note: Achan identified by successive lots
+- ref: 1Sam 10:20-21
+  rel: practice
+  note: Saul chosen king by lot
+- ref: 1Sam 14:41-42
+  rel: practice
+  note: Lot falls on Jonathan
+- ref: Lev 16:8-10
+  rel: practice
+  note: Lots cast over the two goats
+- ref: Prov 16:33
+  rel: concept
+  note: '''The lot is cast into the lap, but the decision is YHWH''s alone'''
+- ref: Jonah 1:7
+  rel: practice
+  note: Sailors cast lots to find the culprit
+- ref: Esth 3:7
+  rel: language
+  note: pûr, 'that is, the lot' (gôrāl); Akkadian pūru
+- ref: Esth 9:24-26
+  rel: language
+  note: Purim named after pûr
+- ref: 1Chr 24:5, 31
+  rel: practice
+  note: Priestly divisions assigned by lot
+- ref: Ps 22:18
+  rel: practice
+  note: Lots cast for clothing; MT 22:19
+- ref: Acts 1:26
+  rel: practice
+  note: Matthias chosen by lot
+related: [urim-and-thummim, divination, assyrian-eponym-list, shalmaneser-iii, hemerologies,
+  day-of-atonement-elimination, ephod]
+media: []
+external:
+  wikipedia: Cleromancy
+  wikidata: Q2604705
+editorial:
+  author_notes:
+  - >-
+    The inscribed clay cube of Iahali, a high official and eponym under Shalmaneser III (9th
+    c. BCE), calls itself a pūru (lot) to determine his eponymy year (Hallo, "The First Purim",
+    BA 46, 1983). It confirms the Akkadian background of Esther's pûr.
+  - >-
+    Lots were understood as a legitimate means of divine decision in Israel (Prov 16:33) and
+    continued in Second Temple practice (priestly duties, Luke 1:9).
+  - >-
+    Distinguish lots (gôrāl) from the Urim and Thummim, whose mechanism is unknown, while
+    noting the overlap in 1 Sam 14:41-42.
+  image_query: Iahali die Yale
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

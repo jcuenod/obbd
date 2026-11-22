@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: milkom
+file: milkom.jpg
+title: Amman Citadel inscription in the Jordan Archaeological Museum.jpg
+caption: >-
+  The Amman Citadel Inscription, an Ammonite building text that opens with the name of the
+  god Milkom (Jordan Archaeological Museum, Amman).
+description: Amman Citadel inscription in the Jordan Archaeological Museum
+creator: Onceinawhile
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Onceinawhile, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Amman_Citadel_inscription_in_the_Jordan_Archaeological_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/bc/Amman_Citadel_inscription_in_the_Jordan_Archaeological_Museum.jpg
+  sha1: 7984e01a03ce0b6001922e26c362bd9a6991b57e
+  original_size: [1283, 1753]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1171×1600 px
+size: [1171, 1600]
+depicts:
+- milkom
+- tell-siran-bottle-and-ammonite-inscriptions
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

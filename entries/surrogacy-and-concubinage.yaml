@@ -1,0 +1,72 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: surrogacy-and-concubinage
+title: Surrogacy and Concubinage
+aliases: [Pilegesh, Secondary wife, Slave-wife]
+type: practice
+cultures: [hebrew, akkadian, assyrian, hurrian]
+scope: >-
+  The practice of an infertile wife giving her slave woman to her husband to bear children
+  counted as her own, and the wider status of concubines (secondary wives) in ancient Israel,
+  compared with Old Babylonian, Old Assyrian, and Nuzi documents.
+passages:
+- ref: Gen 16:1-6
+  rel: practice
+  note: Sarai gives Hagar to Abram 'that I may be built up through her'
+- ref: Gen 21:9-14
+  rel: practice
+  note: Expulsion of Hagar and Ishmael; cf. LH §§146, 170-171
+- ref: Gen 30:1-13
+  rel: practice
+  note: Rachel and Leah give Bilhah and Zilpah; birth 'on my knees'
+- ref: Gen 35:22
+  rel: practice
+  note: Reuben lies with Bilhah, his father's concubine
+- ref: Judg 19:1-4
+  rel: practice
+  note: The Levite's concubine (pîlegeš) and her father's house
+- ref: 2Sam 3:7
+  rel: practice
+  note: Taking a royal concubine as a claim to power
+- ref: 2Sam 16:21-22
+  rel: practice
+  note: Absalom publicly takes David's concubines
+- ref: 1Kgs 2:13-25
+  rel: practice
+  note: Adonijah's request for Abishag read as a bid for the throne
+related: [code-of-hammurabi, nuzi-texts, marriage-and-bride-price, adoption, inheritance-and-birthright]
+media: []
+external:
+  wikipedia: Pilegesh
+  wikidata: Q1667157
+editorial:
+  author_notes:
+  - >-
+    Key parallels are LH §§144-147 (a nadītu wife provides a slave woman, who may not claim
+    equality with her mistress), Old Assyrian marriage contracts with an infertility clause,
+    and a Nuzi marriage contract obliging a barren wife to provide a slave woman. Verify text
+    numbers before citing.
+  - >-
+    Caution on the Nuzi parallels. Speiser and Gordon used them to date the patriarchs to
+    the second millennium. Thompson (1974) and Van Seters (1975) showed that comparable arrangements
+    span the first millennium too, so the parallels cannot date the narratives.
+  - >-
+    Distinguish wife-provided surrogacy from concubinage (pîlegeš) in general. Note the political
+    use of royal concubines in the succession narratives.
+  sources_to_check:
+  - Roth, Law Collections from Mesopotamia and Asia Minor (SBLWAW 6, 2nd ed. 1997)
+  - Thompson, The Historicity of the Patriarchal Narratives (BZAW 133, 1974)
+  - Van Seters, Abraham in History and Tradition (1975)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: shoshenq-i
+file: shoshenq-i.jpg
+title: Karnak Sheshonq I.jpg
+caption: Relief naming Shoshenq I and his son Iuput, high priest of Amun, at Karnak.
+description: >-
+  Relief au nom de Sheshonq Ier et de son fils, le grand prêtre d'Amon, Ioupout - XXIIe dynastie
+  égyptienne - Karnak, temple d'Amon-Rê
+creator: Neithsabes
+credit_line: travail personnel / Minolta DiMAGE Xt
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Neithsabes, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Karnak_Sheshonq_I.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/3/3f/Karnak_Sheshonq_I.jpg
+  sha1: 1dbc4b47ae9a137549ec5d432069dc3faaf00fc9
+  original_size: [922, 1229]
+  retrieved: '2026-11-20'
+derivative: null
+size: [922, 1229]
+depicts: [shoshenq-i]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: necho-ii
+title: Necho II
+aliases: [Neco, Nekau II, Pharaoh Neco]
+type: person
+cultures: [egyptian]
+date:
+  from: -610
+  to: -595
+  circa: true
+  display: c. 610–595 BCE
+scope: >-
+  Saite (Twenty-sixth Dynasty) pharaoh. He supported the collapsing Assyrian state against
+  Babylon, killed Josiah at Megiddo in 609, controlled Judah briefly, and was defeated by
+  Nebuchadnezzar at Carchemish in 605.
+passages:
+- ref: 2Kgs 23:29-30
+  rel: event
+  note: Josiah killed by Neco at Megiddo as Neco goes up to the king of Assyria
+- ref: 2Chr 35:20-24
+  rel: event
+  note: 'Chronicler''s version: Neco warns Josiah; battle at Megiddo'
+- ref: 2Kgs 23:33-35
+  rel: event
+  note: Neco deposes Jehoahaz, installs Eliakim/Jehoiakim, imposes tribute
+- ref: 2Chr 36:3-4
+  rel: event
+  note: Parallel account of Jehoahaz's deposition
+- ref: Jer 46:2
+  rel: event
+  note: Neco's army defeated at Carchemish in Jehoiakim's fourth year
+- ref: 2Kgs 24:7
+  rel: event
+  note: Egypt no longer comes out of its land after Babylon's conquests
+- ref: Jer 47:1
+  rel: event
+  disputed: true
+  note: Pharaoh's attack on Gaza, possibly Neco's (cf. Herodotus's Kadytis)
+related: [josiah, battle-of-carchemish, megiddo, fall-of-nineveh-chronicle, nebuchadnezzar-chronicle,
+  mesad-hashavyahu-ostracon, pithom]
+media:
+- id: necho-ii
+  role: primary
+external:
+  wikipedia: Necho II
+  wikidata: Q125102
+editorial:
+  author_notes:
+  - >-
+    The Babylonian Chronicle shows Egypt aiding Assyria in 610-609 (Harran). This supports
+    reading 2 Kgs 23:29 as "went up to" (aid) the king of Assyria, not "against" (KJV).
+  - >-
+    Whether Josiah died in battle (Chronicles) or was executed at a meeting (a possible reading
+    of Kings) is debated.
+  - >-
+    Herodotus (2.158-159) reports Neco's Nile-Red Sea canal and a victory at "Magdolos" and
+    capture of "Kadytis". The identifications (Migdol or Megiddo; Gaza or Kadesh) are debated.
+  - >-
+    Saite involvement in the Levant (Greek mercenaries; cf. Mesad Hashavyahu) provides wider
+    context.
+  sources_to_check:
+  - Grayson, Assyrian and Babylonian Chronicles (1975), Chronicles 3 and 5
+  - Herodotus, Histories 2.158-159
+  image_query: Necho II statue
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

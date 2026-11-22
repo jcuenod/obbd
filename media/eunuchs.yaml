@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: eunuchs
+file: eunuchs.jpg
+title: >-
+  Limestone wall relief depicting an Assyrian royal attendant, a eunuch. From the Central
+  Palace at Nimrud, Iraq, 744-727 BCE. Ancient Orient Museum, Istanbul.jpg
+caption: >-
+  Beardless Assyrian royal attendant (eunuch) on a wall relief from the Central Palace at
+  Nimrud, 744–727 BCE (Ancient Orient Museum, Istanbul).
+description: >-
+  Wall relief depicting an Assyrian royal attendant, a eunuch. Limestone. From the Central
+  Palace at Nimrud (ancient Kalhu), Northern Mesopotamia, Iraq. Neo-Assyrian Period, 744-727
+  BCE. Ancient Orient Museum, Istanbul.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Limestone_wall_relief_depicting_an_Assyrian_royal_attendant,_a_eunuch._From_the_Central_Palace_at_Nimrud,_Iraq,_744-727_BCE._Ancient_Orient_Museum,_Istanbul.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/db/Limestone_wall_relief_depicting_an_Assyrian_royal_attendant%2C_a_eunuch._From_the_Central_Palace_at_Nimrud%2C_Iraq%2C_744-727_BCE._Ancient_Orient_Museum%2C_Istanbul.jpg
+  sha1: a4f04260bf377bb3fd9e378993ae2a736ddb86f2
+  original_size: [4006, 4016]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1596×1600 px
+size: [1596, 1600]
+depicts: [eunuchs]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

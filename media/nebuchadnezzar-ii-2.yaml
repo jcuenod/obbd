@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: nebuchadnezzar-ii-2
+file: nebuchadnezzar-ii-2.jpg
+title: Ishtar Gate at Berlin Museum.jpg
+caption: >-
+  The Ishtar Gate of Babylon, built by Nebuchadnezzar II, as reconstructed in the Pergamonmuseum,
+  Berlin.
+description: Ishtar Gate. Pergamon Berlin Museum. before 4 BC
+creator: Rictor Norton
+credit_line: https://www.flickr.com/photos/24065742@N00/151247206/
+license:
+  id: CC-BY-2.0
+  name: CC BY 2.0
+  url: https://creativecommons.org/licenses/by/2.0
+attribution: Rictor Norton, CC BY 2.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ishtar_Gate_at_Berlin_Museum.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/e/e3/Ishtar_Gate_at_Berlin_Museum.jpg
+  sha1: 96dba6121899f1e3f8cb038b0b754d3339557784
+  original_size: [1024, 768]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1024, 768]
+depicts: [ishtar-gate, nebuchadnezzar-ii]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

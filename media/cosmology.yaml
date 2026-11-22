@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: cosmology
+file: cosmology.jpg
+title: Tablet of Shamash relief.jpg
+caption: >-
+  Relief on the Tablet of Shamash from Sippar, showing the sun god enthroned above the heavenly
+  waters, 9th century BCE (British Museum, London).
+description: >-
+  Relief image on the Tablet of Shamash, British Library room 55. Found in Sippar (Tell Abu
+  Habbah), in Ancient Babylonia ; it dates from the 9th century BC and shows the sun god Shamash
+  on the throne, in front of the Babylonian king Nabu-apla-iddina (888-855 BC) between two
+  interceding deities. The text tells how the king made a new cultic statue for the god and
+  gave privileges to his temple.
+creator: Prioryman
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Prioryman, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tablet_of_Shamash_relief.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/9/99/Tablet_of_Shamash_relief.jpg
+  sha1: c2879f3f3bd984ba491763e69adf604c4db5533f
+  original_size: [1154, 937]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1154, 937]
+depicts: [cosmology]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

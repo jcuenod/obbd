@@ -1,0 +1,66 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: extispicy
+title: Extispicy (Hepatoscopy)
+aliases: [hepatoscopy, liver divination, bārûtu]
+type: practice
+cultures: [babylonian, assyrian, amorite, hittite]
+scope: >-
+  Divination by inspecting the entrails, especially the liver, of a sacrificed sheep. It was
+  the most prestigious Mesopotamian divinatory science, practised by the bārû, and spread
+  to Syria, Anatolia, and the Levant. The biblical references are few but explicit.
+passages:
+- ref: Ezek 21:21
+  rel: practice
+  note: King of Babylon 'looks at the liver' at the crossroads; MT 21:26
+- ref: 2Kgs 16:15
+  rel: practice
+  disputed: true
+  note: Ahaz keeps the bronze altar 'to inquire by' (lĕbaqqēr); extispicy proposed
+- ref: Lev 3:4
+  rel: practice
+  disputed: true
+  note: >-
+    Appendage of the liver (yōteret hakkābēd) burned; link to removing the divinatory organ
+    debated
+- ref: Ps 27:4
+  rel: language
+  disputed: true
+  note: '''To inquire (lĕbaqqēr) in his temple''; cf. Akkadian bārû ''inspector'''
+related: [liver-models, divination, mari-letters, sacrifice, astrology, prophecy-in-the-ane]
+media:
+- id: extispicy
+  role: primary
+external:
+  wikipedia: Haruspex
+  wikidata: Q623455
+editorial:
+  author_notes:
+  - >-
+    Extispicy is attested from the Old Babylonian period (omen compendia, Mari letters) to
+    the first millennium (the bārûtu series; Neo-Assyrian queries to Shamash, SAA 4). Liver
+    models are known from Mari, Babylonia, Hattusa, Ugarit, and Late Bronze Hazor and Megiddo.
+  - >-
+    Ezek 21:21 is the only unambiguous biblical reference. Mark proposals for 2 Kgs 16:15,
+    the burning of the liver's appendage, and bqr as debated.
+  - >-
+    The consultation was framed as a legal-style query to Shamash and Adad, with the answer
+    "written" on the liver. This framing explains its prestige and its connection to royal
+    decision-making.
+  sources_to_check:
+  - SAA 4
+  - Ulla Koch-Westenholz, Babylonian Liver Omens (2000)
+  image_query: Babylonian clay liver model British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

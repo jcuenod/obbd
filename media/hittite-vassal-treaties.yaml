@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: hittite-vassal-treaties
+file: hittite-vassal-treaties.jpg
+title: Hattusa Bronze Tablet Cuneiform.JPG
+caption: >-
+  Bronze tablet from Hattusa with the treaty between Tudhaliya IV and Kurunta of Tarhuntassa,
+  c. 1235 BCE (Museum of Anatolian Civilizations, Ankara).
+description: >-
+  Bronze tablet from Çorum-Boğazköy dating from 1235 BC. Photographed at Museum of Anatolian
+  Civilisations. This cuneiform document excavated at Hattusa in 1986 is the only bronze tablet
+  found in Anatolia. It casts light upon the historical geography of Anatolia in the 2nd millennium
+  BCE, testifying to the treaty between Tudhaliya IV and Kurunta of Tarhuntassa in 1235BCE.
+  With this treaty Tudhaliya promises the sovereignty of Tarhuntassa and another territory
+  to Kurunta and his sons for the future, although Kurunta is advised to not want to imitate
+  Tudhaliya's "Great Kingdom". "Thousands of Gods
+creator: Bjørn Christian Tørrissen
+credit_line: Own work by uploader, http://bjornfree.com/galleries.html
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Bjørn Christian Tørrissen, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Hattusa_Bronze_Tablet_Cuneiform.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/a/a4/Hattusa_Bronze_Tablet_Cuneiform.JPG
+  sha1: f6d7abba51221a8a3950c89182eb2650c2fc0c23
+  original_size: [2592, 3456]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1200×1600 px
+size: [1200, 1600]
+depicts: [hittite-vassal-treaties]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

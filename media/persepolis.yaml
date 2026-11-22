@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: persepolis
+file: persepolis.jpg
+title: 2018-09-21 Iran, Persepolis, Tachara (from the southeast).jpg
+caption: The Tachara palace of Darius I at Persepolis, from the southeast.
+description: This is a photo of a monument in Iran identified by the ID
+creator: Laurens R. Krol
+credit_line: Own work
+license:
+  id: CC-BY-4.0
+  name: CC BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0
+attribution: Laurens R. Krol, CC BY 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:2018-09-21_Iran,_Persepolis,_Tachara_(from_the_southeast).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/5/5c/2018-09-21_Iran%2C_Persepolis%2C_Tachara_%28from_the_southeast%29.jpg
+  sha1: 063891610498781cc5ff3732bf17748f85e88e84
+  original_size: [3909, 2590]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1060 px
+size: [1600, 1060]
+depicts: [persepolis]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,70 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ramesses-ii
+title: Ramesses II
+aliases: [Rameses the Great, Ramses II, Usermaatre Setepenre]
+type: person
+cultures: [egyptian]
+date:
+  from: -1279
+  to: -1213
+  circa: true
+  display: c. 1279–1213 BCE
+scope: >-
+  Third king of the Nineteenth Dynasty, whose 66-year reign saw the Battle of Kadesh, the
+  Egyptian-Hittite peace treaty, a Hittite diplomatic marriage, and vast building projects,
+  including the Delta capital Pi-Ramesses. He is popularly cast as the pharaoh of the exodus,
+  an identification the entry examines critically.
+passages:
+- ref: Exod 1:11
+  rel: setting
+  disputed: true
+  note: Store city 'Raamses' (Pi-Ramesses), often linked to Ramesses II as the oppressor
+- ref: Exod 12:37
+  rel: setting
+  disputed: true
+  note: Departure from Rameses
+- ref: Gen 47:11
+  rel: language
+  note: '''Land of Rameses'': the king''s name used as a toponym'
+related: [pi-ramesses, kadesh-battle-reliefs, egyptian-hittite-peace-treaty, exodus-historical-questions,
+  merneptah, hittites-and-hethites, diplomatic-marriage, egyptian-kingship]
+media:
+- id: ramesses-ii
+  role: primary
+- id: ramesses-ii-2
+  role: gallery
+external:
+  wikipedia: Ramesses II
+  wikidata: Q1523
+editorial:
+  author_notes:
+  - >-
+    Use the conventional dates of c. 1279-1213 (Kitchen, Shaw). Older handbooks give 1290-1224
+    or 1304-1237, and differences in chronology affect older scholarship's synchronisms.
+  - >-
+    The identification with the exodus pharaoh rests mainly on Exod 1:11 and is reinforced
+    by popular culture (DeMille's The Ten Commandments; The Prince of Egypt). No Egyptian
+    evidence connects him with Israelites. Present it as a hypothesis held by those who accept
+    a 13th-century exodus.
+  - Claims that his mummy shows drowning or salt deposits are popular myths.
+  - >-
+    Cover Kadesh (year 5), the treaty with Hattusili III (year 21), and the marriage to a
+    Hittite princess as international background for the Late Bronze Levant.
+  sources_to_check:
+  - Kitchen, Pharaoh Triumphant (1982)
+  - Kitchen, Ramesside Inscriptions, Translated and Annotated, vol. 2 (1996)
+  image_query: Younger Memnon Ramesses II British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ebla
+file: ebla.jpg
+title: HPIM3078 1.JPG
+caption: >-
+  Ruins of the southern district of Ebla (Tell Mardikh), with the Damascus Gate and the defensive
+  rampart in the background.
+description: >-
+  Ruins of the southern district, with the door of Damascus in the background and the defensive
+  belt in Ebla.
+creator: Mappo
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Mappo, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:HPIM3078_1.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/4/4b/HPIM3078_1.JPG
+  sha1: 82452573ba6b19cc469223e1d4f61f247eca0a20
+  original_size: [2031, 1709]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1347 px
+size: [1600, 1347]
+depicts: [ebla]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

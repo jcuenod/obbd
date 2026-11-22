@@ -1,0 +1,83 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: host-of-heaven
+title: Host of Heaven and Astral Worship
+aliases: [ṣĕbāʾ haššāmayim, astral worship]
+type: concept
+cultures: [assyrian, judahite, ane]
+scope: >-
+  The "host of heaven", meaning the stars and astral powers, both as YHWH's heavenly army
+  and council and as objects of worship condemned in Deuteronomistic and prophetic texts,
+  especially for late Iron Age Judah.
+passages:
+- ref: Deut 4:19
+  rel: polemic
+  note: Sun, moon, stars, 'all the host of heaven' allotted to the nations
+- ref: Deut 17:2-5
+  rel: polemic
+  note: Worship of sun, moon, or host of heaven a capital offence
+- ref: 2Kgs 17:16
+  rel: polemic
+  note: Israel worshipped all the host of heaven
+- ref: 2Kgs 21:3, 5
+  rel: practice
+  note: Manasseh builds altars for the host of heaven in the temple courts
+- ref: 2Kgs 23:4-5, 11-12
+  rel: practice
+  note: Josiah removes vessels and priests of the astral cult and rooftop altars
+- ref: Jer 8:2
+  rel: practice
+  note: Bones spread before the sun, moon, and host they served
+- ref: Jer 19:13
+  rel: practice
+  note: Offerings to the host of heaven on rooftops
+- ref: Zeph 1:5
+  rel: practice
+  note: Bowing on the roofs to the host of heaven
+- ref: 1Kgs 22:19
+  rel: concept
+  note: Host of heaven standing beside YHWH's throne
+- ref: Isa 40:26
+  rel: polemic
+  note: YHWH calls the stars by name and numbers their host
+- ref: Job 38:7
+  rel: concept
+  note: Morning stars and heavenly beings (bĕnê ʾĕlōhîm) sing at creation
+related: [divine-council, astrology, sakkut-and-kaiwan, queen-of-heaven, shamash, sin-moon-god,
+  constellations, manasseh]
+media: []
+external:
+  wikipedia: Heavenly host
+  wikidata: Q3314138
+editorial:
+  author_notes:
+  - >-
+    The older view that Assyria imposed astral cults on vassal Judah has been widely rejected
+    (Cogan, Imperialism and Religion, 1974; McKay, 1973). Most now see Assyrian-period astralization
+    of Levantine religion as cultural influence rather than imposition (Keel and Uehlinger,
+    Gods, Goddesses, and Images of God, 1998).
+  - >-
+    Note the iconographic evidence from Iron IIC seals (crescent moon of Harran, stars, astral
+    symbols).
+  - >-
+    The host as YHWH's army and council (1 Kgs 22:19; "YHWH of hosts") and the host as forbidden
+    objects of worship belong to the same concept. Avoid treating them as unrelated.
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Deut 17:3 -> Deut 17:2-5 so the range includes
+    the death penalty in the note
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

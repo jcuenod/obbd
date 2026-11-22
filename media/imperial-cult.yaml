@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: imperial-cult
+file: imperial-cult.jpg
+title: Aphrodisias Museum Claudius and Britannica 4638.jpg
+caption: >-
+  Relief of the emperor Claudius overpowering Britannia, from the Sebasteion at Aphrodisias,
+  1st century CE (Aphrodisias Museum).
+description: >-
+  The Wikipedia has "A frieze discovered in 1980 showing a bare breasted and helmeted female
+  warrior labelled BRITANNIA writhing in agony under the knee of a Roman soldier with to the
+  left and below the inscription TIBERIUS CLAUDIUS CAESAR is assumed to depict Britain subjugated
+  by Rome." First century AD.
+creator: Dosseman
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Dosseman, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Aphrodisias_Museum_Claudius_and_Britannica_4638.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/39/Aphrodisias_Museum_Claudius_and_Britannica_4638.jpg
+  sha1: fdaf18b57631ed59525552966a6b164c149fa2fe
+  original_size: [2832, 4256]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1065×1600 px
+size: [1065, 1600]
+depicts: [imperial-cult]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

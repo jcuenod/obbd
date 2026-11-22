@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: verse-account-of-nabonidus
+file: verse-account-of-nabonidus.jpg
+title: Verse Account of Nabonidus BM 38299.jpg
+caption: Tablet of the Verse Account of Nabonidus (British Museum, BM 38299).
+description: >-
+  Tablet of the "Verse Account" of Nabonidus: an opponent of king Nabonidus of Babylon attemps
+  to give an explanation for his "exile" in Tayma, by describing his madness, which leads
+  him to reject the great god Marduk. Cf. https://www.livius.org/sources/content/anet/verse-account-of-nabonidus/
+  C. 539 BC, Babylon. BM 38299.
+creator: Zunkir
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Zunkir, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Verse_Account_of_Nabonidus_BM_38299.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/bc/Verse_Account_of_Nabonidus_BM_38299.jpg
+  sha1: 6a83a10b77b55ab2d4b8d40e5a82b89edffd7a41
+  original_size: [3302, 3071]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1488 px
+size: [1600, 1488]
+depicts: [verse-account-of-nabonidus]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

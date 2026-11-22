@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: bozrah-2
+file: bozrah-2.jpg
+title: Jordan1127.jpg
+caption: Area C of the acropolis of Buseirah, a palatial building of the Edomite capital.
+description: >-
+  Dr. Joe Greene of the Harvard University Semitic Museum, holds court above Area "C" of the
+  Acropolis of Bozrah (Buseirah), a palatial residence and capitol of the Biblical Edom in
+  the 7th-6th century BC.
+creator: Michael Gunther
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Michael Gunther, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Jordan1127.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/6/6b/Jordan1127.jpg
+  sha1: a991fdbc4c1cc57fbe805d6f18302a3575f7038b
+  original_size: [2592, 1944]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [bozrah]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

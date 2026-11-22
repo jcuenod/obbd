@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: firmament
+title: Firmament (Raqia)
+aliases: [raqia, rāqîaʿ, vault of heaven]
+type: concept
+cultures: [hebrew, babylonian, egyptian]
+scope: >-
+  The rāqîaʿ ("firmament", "dome", or "expanse") of Gen 1, the barrier set between the upper
+  and lower waters in which the heavenly lights are placed, and its comparative background
+  in ancient Near Eastern ideas of a solid sky.
+passages:
+- ref: Gen 1:6-8
+  rel: concept
+  note: Rāqîaʿ made to separate waters above from waters below; named 'sky'
+- ref: Gen 1:14-17
+  rel: concept
+  note: Sun, moon, and stars set in the rāqîaʿ
+- ref: Gen 1:20
+  rel: concept
+  note: Birds fly across the face of the rāqîaʿ
+- ref: Job 37:18
+  rel: concept
+  note: Skies spread out 'hard as a molten mirror'
+- ref: Ezek 1:22-26
+  rel: imagery
+  note: Gleaming rāqîaʿ over the living creatures, with the throne above it
+- ref: Ps 19:1
+  rel: concept
+  note: The rāqîaʿ proclaims God's handiwork; MT 19:2
+- ref: Ps 150:1
+  rel: concept
+  note: God praised 'in his mighty firmament'
+- ref: Dan 12:3
+  rel: imagery
+  note: The wise shine like the brightness of the rāqîaʿ
+- ref: Exod 39:3
+  rel: language
+  note: Verb rqʿ 'beat out' used for hammering gold into thin sheets
+- ref: Gen 7:11
+  rel: concept
+  note: Windows ('ărubbôt) of the heavens opened to release the upper waters
+related: [cosmology, waters-above-and-below, enuma-elish, egyptian-cosmology, ezekiel-throne-chariot,
+  babylonian-map-of-the-world]
+media: []
+external:
+  wikipedia: Firmament
+  wikidata: Q2708714
+editorial:
+  author_notes:
+  - >-
+    The noun is related to the verb rqʿ, "to beat out, stamp, spread" (used of hammered metal
+    in Exod 39:3; Num 16:38, MT 17:3). LXX stereōma and Vulgate firmamentum both imply solidity.
+    The majority view is that the rāqîaʿ was conceived as a solid barrier. Note that some
+    translations ("expanse") and some interpreters resist this.
+  - >-
+    Key comparandum is Enuma Elish IV, where Marduk splits Tiamat's body and sets half of
+    it as the sky, with a bar and guards so that her waters cannot escape. Present it as a
+    conceptual parallel, not proof of borrowing.
+  - >-
+    Mesopotamian texts describe heavens made of different stones (Horowitz). Cf. the sapphire
+    pavement of Exod 24:10.
+  - >-
+    Caution that the often-reproduced "Flammarion engraving" is a 19th-century image, not
+    an ancient or medieval depiction.
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

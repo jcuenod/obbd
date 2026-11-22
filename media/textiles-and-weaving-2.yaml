@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: textiles-and-weaving-2
+file: textiles-and-weaving-2.jpg
+title: Greekurnwithweavers (cropped to warp-weighted loom).jpg
+caption: >-
+  Women weaving at a warp-weighted loom, detail of a Greek black-figure vase (Metropolitan
+  Museum of Art, New York).
+description: >-
+  Detail of a Grecian urn in the Metropolitan museum that depicts the production of cloth
+  from the spinning of thread or yarn to the finished woven piece. The detail shows a warp-weighted
+  loom.
+creator: Metropolitan Museum
+credit_line: https://www.metmuseum.org/art/collection/search/253348
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Metropolitan Museum. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Greekurnwithweavers_(cropped_to_warp-weighted_loom).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/66/Greekurnwithweavers_%28cropped_to_warp-weighted_loom%29.jpg
+  sha1: fee6041a160f158200956419013c788b56af4b8f
+  original_size: [808, 760]
+  retrieved: '2026-11-20'
+derivative: null
+size: [808, 760]
+depicts: [textiles-and-weaving]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

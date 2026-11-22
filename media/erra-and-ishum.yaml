@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: erra-and-ishum
+file: erra-and-ishum.jpg
+title: Amulet to ward off plague.jpg
+caption: >-
+  Neo-Assyrian tablet-shaped amulet against plague from Ashur, 800–612 BCE; amulets of this
+  kind carry excerpts from Erra and Išum.
+description: >-
+  Amulet dating from 800BC-612BC warding off plague. Found in the city of Ashur, Neo-assyrian
+  period.
+creator: null
+credit_line: Fæ (Own work)
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Unknown author, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Amulet_to_ward_off_plague.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/e/e3/Amulet_to_ward_off_plague.jpg
+  sha1: 27060c1c4d5a2f97029c8062e7ebaa8a25f83eab
+  original_size: [875, 1051]
+  retrieved: '2026-11-20'
+derivative: null
+size: [875, 1051]
+depicts: [erra-and-ishum]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

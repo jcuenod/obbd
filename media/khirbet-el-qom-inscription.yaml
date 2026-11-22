@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: khirbet-el-qom-inscription
+file: khirbet-el-qom-inscription.jpg
+title: כתובת אריהו מפורשת.jpg
+caption: >-
+  The Uriyahu tomb inscription from Khirbet el-Qom with its incised hand, photographed in
+  the Israel Museum, Jerusalem; the uploader has added a modern Hebrew transcription beneath
+  each letter.
+description: >-
+  כתובת אריהו שצולמה במוזאון ישראל, עם הפירוש המקובל לכל אות תחת חריתתה. הוספת הפירוש נעשה
+  בידי מעלה הקובץ.
+creator: פעמי-עליון
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: פעמי-עליון, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:%D7%9B%D7%AA%D7%95%D7%91%D7%AA_%D7%90%D7%A8%D7%99%D7%94%D7%95_%D7%9E%D7%A4%D7%95%D7%A8%D7%A9%D7%AA.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/5/50/%D7%9B%D7%AA%D7%95%D7%91%D7%AA_%D7%90%D7%A8%D7%99%D7%94%D7%95_%D7%9E%D7%A4%D7%95%D7%A8%D7%A9%D7%AA.jpg
+  sha1: d6d8986b8c2aa38986c07bc6efc5d573fd373a39
+  original_size: [2228, 1556]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1118 px
+size: [1600, 1118]
+depicts: [khirbet-el-qom-inscription]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

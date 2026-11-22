@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: herod-antipas
+file: herod-antipas.jpg
+title: Herod Antipas.jpg
+caption: Bronze coin of Herod Antipas, dated year 34 (30 CE), with a palm branch.
+description: >-
+  JUDAEA, Herodians. Herod Antipas. 4 BCE-39 CE. Æ 18mm (4.98 g). Dated year 34 (30 CE). Palm
+  branch; L LD (date) across fields / Legend in two lines within wreath. Hendin 517; RPC I
+  4926. VF, black patina with reddish earthen deposits, a little rough.
+creator: CNG
+credit_line: CNG coins
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: http://creativecommons.org/licenses/by-sa/3.0/
+attribution: CNG, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Herod_Antipas.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/8/8e/Herod_Antipas.jpg
+  sha1: ddd14a691e3fb7be2a71e56c0a09c6a4f9a2c377
+  original_size: [800, 386]
+  retrieved: '2026-11-20'
+derivative: null
+size: [800, 386]
+depicts: [herod-antipas]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

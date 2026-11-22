@@ -1,0 +1,76 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: hammurabi
+title: Hammurabi
+type: person
+cultures: [akkadian]
+date:
+  from: -1792
+  to: -1750
+  display: 1792–1750 BCE
+scope: >-
+  The sixth king of the First Dynasty of Babylon (middle chronology), who unified southern
+  Mesopotamia and issued the best-known ancient Near Eastern law collection. He presented
+  himself as shepherd and just king appointed to protect the weak.
+passages:
+- ref: Ps 72:1-4, 12-14
+  rel: concept
+  note: King as guarantor of justice for the poor and oppressed
+- ref: Exod 21:1-23:19
+  rel: parallel
+  note: Covenant Code casuistic laws parallel to Hammurabi's laws
+- ref: 1Kgs 3:9, 28
+  rel: concept
+  note: Royal wisdom to execute justice
+- ref: Deut 4:5-8
+  rel: polemic
+  disputed: true
+  note: '''What great nation has statutes so righteous?''; cf. Hammurabi''s boast of just
+    laws'
+- ref: Exod 24:12
+  rel: concept
+  note: Law given by God, in contrast to laws authored by the king under Shamash
+related: [code-of-hammurabi, babylon, mari-letters, shepherd-kingship, ane-law-collections,
+  widow-orphan-sojourner, shamash]
+media:
+- id: hammurabi
+  role: primary
+external:
+  wikipedia: Hammurabi
+  wikidata: Q36359
+editorial:
+  author_notes:
+  - >-
+    The old identification of Hammurabi with Amraphel of Gen 14:1 is philologically and chronologically
+    untenable and has been abandoned; mention it only as a historical misconception.
+  - >-
+    Dates follow the middle chronology (1792-1750); note that low or ultra-low chronologies
+    would lower them.
+  - >-
+    The Mari archives illuminate his diplomacy and wars; use them alongside his own inscriptions
+    and letters.
+  - >-
+    In the stele's relief Hammurabi stands before Shamash; the god commissions justice but
+    the king is the lawgiver, a contrast with the Torah's divine authorship.
+  sources_to_check:
+  - Van De Mieroop, King Hammurabi of Babylon (2005)
+  - Roth, Law Collections from Mesopotamia and Asia Minor (SBLWAW 6, 1995)
+  - COS 2.131
+  image_query: Code of Hammurabi stele Louvre top relief
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: 'Passage tags checked against WEB text: Deut 4:5-8 polemic marked disputed; note requoted'
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

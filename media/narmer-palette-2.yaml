@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: narmer-palette-2
+file: narmer-palette-2.jpg
+title: The Narmer Palette, early First Dynasty, ca. 3000 BCE; Egyptian Museum, Cairo (3).jpg
+caption: >-
+  Top of the other face of the Narmer Palette: Narmer in the Red Crown inspects rows of decapitated
+  enemies (Egyptian Museum, Cairo).
+description: Collections of the Egyptian Museum, Cairo
+creator: Richard Mortel
+credit_line: https://www.flickr.com/photos/prof_richard/52087044241/
+license:
+  id: CC-BY-2.0
+  name: CC BY 2.0
+  url: https://creativecommons.org/licenses/by/2.0
+attribution: Richard Mortel, CC BY 2.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:The_Narmer_Palette,_early_First_Dynasty,_ca._3000_BCE;_Egyptian_Museum,_Cairo_(3).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/ae/The_Narmer_Palette%2C_early_First_Dynasty%2C_ca._3000_BCE%3B_Egyptian_Museum%2C_Cairo_%283%29.jpg
+  sha1: 174a6469efb658d9e8b983be8bd80d622193c765
+  original_size: [4000, 3000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [narmer-palette]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

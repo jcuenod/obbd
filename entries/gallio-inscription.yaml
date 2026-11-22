@@ -1,0 +1,61 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: gallio-inscription
+title: Gallio (Delphi) Inscription
+aliases: [Delphi Inscription]
+type: artifact
+cultures: [roman, greek]
+date:
+  from: 52
+  to: 52
+  circa: true
+  display: c. 52 CE
+scope: >-
+  Fragmentary Greek copy at Delphi of a letter of the emperor Claudius naming 'Lucius Junius
+  Gallio, my friend and proconsul' of Achaia. Dated by Claudius's 26th imperial acclamation
+  (c. 52 CE), it is the main anchor for absolute Pauline chronology.
+passages:
+- ref: Acts 18:12-17
+  rel: attests
+  note: Gallio, proconsul of Achaia, dismisses the Jews' charges against Paul
+- ref: Acts 18:1-11
+  rel: setting
+  note: Paul's eighteen months at Corinth, dated relative to Gallio's term
+related: [corinth, erastus-inscription, politarch-inscriptions]
+location:
+  institution: Delphi Archaeological Museum
+  accession: null
+media:
+- id: gallio-inscription
+  role: primary
+external:
+  wikipedia: Delphi Inscription
+  wikidata: Q5254406
+editorial:
+  author_notes:
+  - >-
+    Explain the reconstruction of the nine fragments and the dating logic. Gallio's proconsulship
+    is usually placed in 51-52 (less often 52-53), so Paul's hearing is in 51 or 52.
+  - >-
+    Gallio was the brother of Seneca. He left Achaia early because of illness (Seneca, Ep.
+    104.1).
+  - >-
+    Note how Pauline chronology combines this with the expulsion of Jews from Rome under Claudius
+    (Acts 18:2; Suetonius, Claud. 25.4), often dated to 49 CE but debated.
+  sources_to_check:
+  - SIG³ 801 D
+  - 'J. Murphy-O''Connor, St. Paul''s Corinth: Texts and Archaeology (3rd ed., 2002)'
+  image_query: Gallio inscription Delphi
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

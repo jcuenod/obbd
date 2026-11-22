@@ -1,0 +1,67 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: qos
+title: Qos
+aliases: [Qaus, Qaush, Kos]
+type: deity
+cultures: [edomite, arabian]
+scope: >-
+  Qos (Qaus), the national god of Edom, known from Assyrian royal inscriptions, Edomite theophoric
+  names and inscriptions, and later Nabataean and Idumean sources. He is never named in the
+  Hebrew Bible apart from a theophoric name.
+passages:
+- ref: Ezra 2:53
+  rel: language
+  note: Barkos ('son of Qos') among returning temple servants
+- ref: Neh 7:55
+  rel: language
+  note: Barkos in the parallel list
+- ref: 2Chr 25:14-15
+  rel: attests
+  note: Amaziah worships 'the gods of the people of Seir'
+- ref: Deut 33:2
+  rel: concept
+  disputed: true
+  note: YHWH comes from Seir; southern origins near Edom
+- ref: Judg 5:4
+  rel: concept
+  disputed: true
+  note: YHWH marches from Seir and the field of Edom
+related: [edomites, yhwh-origins, bozrah, nabataeans, petra-and-sela, kuntillet-ajrud-inscriptions]
+media:
+- id: edomites
+  role: primary
+external:
+  wikipedia: Qos (deity)
+  wikidata: Q2121503
+editorial:
+  author_notes:
+  - >-
+    Assyrian sources name Edomite kings Qaus-malaka (Tiglath-pileser III) and Qaus-gabri (Esarhaddon,
+    Ashurbanipal).
+  - >-
+    The biblical silence about Qos, alongside texts placing YHWH's origin in Seir/Edom, is
+    used in the southern-origins debate; present any Qos-YHWH relationship as speculative.
+  - >-
+    Horvat Qitmit (Negev) has Qos inscriptions, and the Horvat ʿUza ostracon is reported to
+    contain a blessing by Qos; verify details.
+  - >-
+    Qos survives into the Nabataean period (Khirbet et-Tannur) and among Idumeans (Josephus,
+    Ant. 15.253 on Costobarus's priestly ancestors of Koze); verify the Josephus reference.
+  sources_to_check:
+  - 'I. Beit-Arieh (ed.), Ḥorvat Qitmit: An Edomite Shrine in the Biblical Negev (1995)'
+  - DDD, s.v. "Qos"
+  image_query: Horvat Qitmit Edomite shrine figurine
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

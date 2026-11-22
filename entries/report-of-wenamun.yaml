@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: report-of-wenamun
+title: Report of Wenamun
+aliases: [Story of Wenamun, Journey of Wen-Amon, Papyrus Moscow 120]
+type: text
+cultures: [egyptian]
+date:
+  from: -1050
+  to: -950
+  circa: true
+  display: c. 1050–950 BCE
+scope: >-
+  A Late Egyptian narrative, preserved on a papyrus now in Moscow. Wenamun, an official of
+  Amun's temple at Thebes, travels to Byblos to buy cedar for the god's barque. On the way
+  he is robbed at Dor, a town of the Tjeker, and he is treated with disdain by Zakar-Baal
+  of Byblos. It shows Egypt's weakened standing in the Levant at the end of the Late Bronze
+  Age.
+passages:
+- ref: 1Kgs 5:6-11
+  rel: practice
+  note: Cedar from Lebanon for a temple, paid for in goods; MT 5:20-25
+- ref: 1Kgs 5:18
+  rel: attests
+  note: Gebalites (men of Byblos) prepare timber and stone; MT 5:32
+- ref: Ezek 27:9
+  rel: attests
+  note: Gebal (Byblos) as a shipbuilding and caulking centre
+- ref: 1Sam 10:5-13
+  rel: practice
+  note: Ecstatic seized by the god during an offering at Byblos delivers a message
+- ref: Josh 17:11
+  rel: attests
+  note: Dor, ruled in the report by the Tjeker (Sikils), a Sea People
+related: [byblos, phoenician-seafaring, sea-peoples, prophecy-in-the-ane, tanis, diplomatic-gift-exchange,
+  hiram-of-tyre]
+media:
+- id: report-of-wenamun
+  role: primary
+- id: report-of-wenamun-2
+  role: gallery
+external:
+  wikipedia: Story of Wenamun
+  wikidata: Q1579541
+editorial:
+  author_notes:
+  - >-
+    Most Egyptologists now read Wenamun as a literary composition in the form of an official
+    report (Baines, Schipper), not an actual dispatch. Even so, it reflects real political
+    conditions of the late 20th-21st Dynasties (Smendes at Tanis, Herihor at Thebes).
+  - >-
+    The narrative is set in "year 5" of the "Renaissance era" under Ramesses XI (c. 1075).
+    The papyrus and its composition are later (Twenty-first or early Twenty-second Dynasty).
+    Say which date is meant.
+  - >-
+    The Byblian ecstatic is one of the earliest pieces of evidence for West Semitic prophetic
+    possession. Compare Mari and the biblical bands of prophets.
+  - >-
+    Zakar-Baal's insistence on commercial payment rather than tribute illustrates the trade
+    relations behind 1 Kgs 5 (Solomon and Hiram).
+  sources_to_check:
+  - AEL 2:224-230
+  - ANET 25-29
+  - Schipper, Die Erzählung des Wenamun (2005)
+  image_query: Wenamun papyrus Pushkin Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

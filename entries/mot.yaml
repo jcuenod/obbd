@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: mot
+title: Mot (Death)
+aliases: [Môtu, Death]
+type: deity
+cultures: [ugaritic]
+scope: >-
+  Mot ("Death"), the Ugaritic god of death and the netherworld, beloved of El, whose insatiable
+  maw swallows Baal in the Baal Cycle. The entry also covers the personification of Death
+  (māwet) in the Hebrew Bible.
+passages:
+- ref: Isa 25:8
+  rel: imagery
+  note: YHWH will swallow up Death forever, reversing the swallower
+- ref: Isa 28:15, 18
+  rel: concept
+  note: Covenant with Death and agreement with Sheol
+- ref: Hab 2:5
+  rel: imagery
+  note: Appetite wide as Sheol, never satisfied like Death
+- ref: Isa 5:14
+  rel: imagery
+  note: Sheol opens its throat and mouth without limit
+- ref: Jer 9:21
+  rel: imagery
+  note: Death climbs in through the windows (MT 9:20)
+- ref: Ps 49:14
+  rel: imagery
+  note: Death shepherds the foolish into Sheol (MT 49:15)
+- ref: Hos 13:14
+  rel: imagery
+  note: '''O Death, where are your plagues? O Sheol, where is your destruction?'''
+- ref: Job 18:13-14
+  rel: imagery
+  note: '''Firstborn of Death'' and ''king of terrors'''
+- ref: Song 8:6
+  rel: imagery
+  note: Love strong as Death, passion fierce as Sheol
+- ref: 1Cor 15:54-55
+  rel: imagery
+  note: Paul cites Isa 25:8 and Hos 13:14 on Death's defeat
+related: [baal-cycle, baal, anat, sheol-and-the-netherworld, resheph, afterlife-and-resurrection]
+media: []
+external:
+  wikipedia: Mot (god)
+  wikidata: Q1059196
+editorial:
+  author_notes:
+  - >-
+    Mot's gaping throat ("a lip to earth, a lip to heaven", KTU 1.5 II) is the most-cited
+    image for biblical swallowing Death/Sheol.
+  - >-
+    In the Hebrew Bible māwet is a personification rather than a worshipped god; avoid implying
+    a cult of Mot in Israel.
+  - >-
+    The Jer 9:21 "death through the window" link to the window in Baal's palace (Cassuto)
+    is suggestive; Mesopotamian Lamashtu has also been proposed. Present as debated.
+  - No secure iconography of Mot is known.
+  sources_to_check: [KTU 1.4-1.6, 'DDD, s.v. "Mot"']
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Hos 13:14 note corrected (MT 'destruction', not
+    Pauline 'sting')
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

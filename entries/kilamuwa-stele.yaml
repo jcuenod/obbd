@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: kilamuwa-stele
+title: Kilamuwa Stele
+aliases: [Kulamuwa Stela]
+type: artifact
+cultures: [aramean, phoenician]
+date:
+  from: -840
+  to: -810
+  circa: true
+  display: c. 840–810 BCE
+scope: >-
+  A Phoenician-language royal inscription with relief of Kilamuwa, king of Samʾal (Zincirli),
+  found in 1902. Kilamuwa contrasts his predecessors' failures with his own care for his people,
+  and boasts that he 'hired' the king of Assyria against a stronger neighbour.
+passages:
+- ref: 2Kgs 16:7-9
+  rel: parallel
+  note: A threatened king pays the Assyrian king to act against his enemies
+- ref: Isa 49:23
+  rel: imagery
+  note: Kings as foster fathers and queens as nursing mothers; cf. 'I was a father, a mother'
+- ref: Num 11:12
+  rel: imagery
+  note: Leader as one who carries the people like a nurse
+- ref: Job 29:15-16
+  rel: imagery
+  note: '''I was a father to the needy'''
+- ref: Ps 72:12-14
+  rel: concept
+  note: The king delivers the poor and needy
+- ref: Amos 2:6
+  rel: parallel
+  note: People sold for a pair of sandals; cf. 'a girl for a sheep, a man for a garment'
+- ref: Joel 3:3
+  rel: parallel
+  note: Children traded for trivial goods (MT 4:3)
+related: [royal-ideology, katumuwa-stele, tribute-and-vassalage, widow-orphan-sojourner, assyria,
+  phoenicians, karatepe-inscription]
+location:
+  institution: Vorderasiatisches Museum, Berlin
+  accession: null
+media:
+- id: kilamuwa-stele
+  role: primary
+- id: kilamuwa-stele-2
+  role: gallery
+external:
+  wikipedia: Kilamuwa Stela
+  wikidata: Q1108477
+editorial:
+  author_notes:
+  - >-
+    A Phoenician inscription from an Aramean and Luwian kingdom. Discuss Phoenician as a prestige
+    written language in 9th-century north Syria.
+  - >-
+    The two population groups (mškbm and bʿrrm) are debated: perhaps settled and nomadic,
+    or native and newcomer populations.
+  - >-
+    The 'father and mother' language belongs to royal ideology of care. Present the biblical
+    comparisons as typological.
+  sources_to_check: [KAI 24, COS 2.30]
+  image_query: Kilamuwa stele Pergamon Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

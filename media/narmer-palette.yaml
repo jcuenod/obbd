@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: narmer-palette
+file: narmer-palette.jpg
+title: The Narmer Palette, early First Dynasty, ca. 3000 BCE; Egyptian Museum, Cairo (1).jpg
+caption: >-
+  The Narmer Palette, siltstone, c. 3000 BCE: Narmer in the White Crown smites a kneeling
+  enemy (Egyptian Museum, Cairo).
+description: Collections of the Egyptian Museum, Cairo
+creator: Richard Mortel
+credit_line: https://www.flickr.com/photos/prof_richard/52087069558/
+license:
+  id: CC-BY-2.0
+  name: CC BY 2.0
+  url: https://creativecommons.org/licenses/by/2.0
+attribution: Richard Mortel, CC BY 2.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:The_Narmer_Palette,_early_First_Dynasty,_ca._3000_BCE;_Egyptian_Museum,_Cairo_(1).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/98/The_Narmer_Palette%2C_early_First_Dynasty%2C_ca._3000_BCE%3B_Egyptian_Museum%2C_Cairo_%281%29.jpg
+  sha1: a4e0c3756615ffc7b4efb1823f0ac2dc654ab21e
+  original_size: [2777, 3765]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1180×1600 px
+size: [1180, 1600]
+depicts: [narmer-palette]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: akhenaten
+file: akhenaten.jpg
+title: Colossal Statue of Amenhotep IV from Karnak, 1356-1350 BCE (5).jpg
+caption: >-
+  Colossal statue of Amenhotep IV (Akhenaten) from his Aten temple at Karnak, c. 1356–1350
+  BCE (Egyptian Museum, Cairo).
+description: Collections of the Egyptian Museum, Cairo
+creator: Richard Mortel
+credit_line: https://www.flickr.com/photos/prof_richard/52087303914/
+license:
+  id: CC-BY-2.0
+  name: CC BY 2.0
+  url: https://creativecommons.org/licenses/by/2.0
+attribution: Richard Mortel, CC BY 2.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Colossal_Statue_of_Amenhotep_IV_from_Karnak,_1356-1350_BCE_(5).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/46/Colossal_Statue_of_Amenhotep_IV_from_Karnak%2C_1356-1350_BCE_%285%29.jpg
+  sha1: 4d2b6815bd8b8cdae67f1a33fb5874e60d50ad2f
+  original_size: [3000, 4000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1200×1600 px
+size: [1200, 1600]
+depicts: [akhenaten]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

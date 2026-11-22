@@ -1,0 +1,55 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tale-of-two-brothers
+title: Tale of Two Brothers
+aliases: [Papyrus D'Orbiney, Story of Anubis and Bata]
+type: text
+cultures: [egyptian]
+date:
+  from: -1200
+  to: -1200
+  circa: true
+  display: c. 1200 BCE
+scope: >-
+  A Late Egyptian tale preserved in Papyrus D'Orbiney (Nineteenth Dynasty, late 13th century
+  BCE). The wife of the elder brother Anubis tries to seduce the younger brother Bata, then
+  falsely accuses him. A long mythological sequel follows. Its opening episode is the classic
+  comparandum for Potiphar's wife.
+passages:
+- ref: Gen 39:7-20
+  rel: parallel
+  note: Married woman's rebuffed advance on a young man, false accusation, husband's rage
+related: [story-of-sinuhe, egyptian-loanwords, dreams-and-dream-interpretation, famine-stele]
+media:
+- id: tale-of-two-brothers
+  role: primary
+external:
+  wikipedia: Tale of Two Brothers
+  wikidata: Q232362
+editorial:
+  author_notes:
+  - >-
+    The "Potiphar's wife" motif (the Phaedra/Bellerophon type) is widespread. Present the
+    parallel as a shared folktale motif, not evidence of literary dependence.
+  - >-
+    Do not use the tale to date the Joseph story. The Joseph story's Egyptian colour is variously
+    dated (Ramesside to Saite/Persian), and that debate rests on other evidence.
+  - >-
+    The papyrus (British Museum) is a scribal copy with a colophon naming the scribe Ennana.
+    The tale's second half (Bata's heart in the cedar, his transformations) relates to the
+    myths of Bata and Anubis at Saka.
+  sources_to_check: ['AEL 2:203-211', ANET 23-25]
+  image_query: Papyrus D'Orbiney British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

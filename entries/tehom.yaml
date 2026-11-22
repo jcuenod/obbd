@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tehom
+title: Tehom (the Deep)
+aliases: [the Deep]
+type: concept
+cultures: [hebrew, ugaritic, babylonian]
+scope: >-
+  Hebrew tĕhôm, the primeval and subterranean "deep", in creation, flood, and poetic texts,
+  and the long debate over its relation to Akkadian tiāmtum and the goddess Tiamat of Enuma
+  Elish.
+passages:
+- ref: Gen 1:2
+  rel: language
+  note: Darkness over the face of tĕhôm, without the article; cognate of Akkadian tiāmtum
+- ref: Gen 7:11
+  rel: concept
+  note: Fountains of the great tĕhôm burst open
+- ref: Gen 8:2
+  rel: concept
+  note: Fountains of tĕhôm closed
+- ref: Gen 49:25
+  rel: concept
+  note: '''Blessings of tĕhôm that lies beneath'''
+- ref: Ps 104:6
+  rel: concept
+  note: Tĕhôm covered the earth like a garment
+- ref: Prov 8:27-28
+  rel: concept
+  note: A circle drawn on the face of tĕhôm; its fountains established
+- ref: Isa 51:10
+  rel: imagery
+  note: Drying up 'the waters of the great tĕhôm' at the exodus
+- ref: Ps 77:16
+  rel: imagery
+  note: The deeps tremble before God; MT 77:17
+- ref: Hab 3:10
+  rel: imagery
+  note: Tĕhôm gives forth its voice before the divine warrior
+- ref: Ps 33:7
+  rel: concept
+  note: The deeps put in storehouses
+related: [enuma-elish, chaoskampf, waters-above-and-below, yam, leviathan, cosmology, flood-traditions]
+media: []
+external:
+  wikipedia: Tehom
+  wikidata: Q2919807
+editorial:
+  author_notes:
+  - >-
+    The consensus is that tĕhôm and Akkadian tiāmtum ("sea") share a common Semitic root (cf.
+    Ugaritic thm/thmt). Tĕhôm is not a loanword from the name Tiamat. The phonology argues
+    against direct borrowing (Heidel; Tsumura).
+  - >-
+    Gunkel's influential view that Gen 1:2 reflects a demythologized Tiamat should be presented
+    as historically important but heavily qualified. In Gen 1 tĕhôm is not personified and
+    there is no combat.
+  - >-
+    Tĕhôm usually appears without the article (quasi-proper-noun use), but this alone does
+    not show personification.
+  - >-
+    Note the term's range across creation, flood, blessing (fertile subterranean waters),
+    and exodus poetry.
+  sources_to_check:
+  - David Toshio Tsumura, Creation and Destruction (2005)
+  - Hermann Gunkel, Creation and Chaos in the Primeval Era and the Eschaton (ET 2006)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

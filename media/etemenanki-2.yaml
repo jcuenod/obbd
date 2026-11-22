@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: etemenanki-2
+file: etemenanki-2.jpg
+title: Model of the Etemenanki (Ziggurat of Babylon), Pergamon Museum, Berlin (2006).jpg
+caption: Modern model reconstructing Etemenanki (Pergamon Museum, Berlin).
+description: Model of the Etemenanki (Ziggurat of Babylon) in the Pergamon Museum, Berlin
+creator: Ywpark2003 Soongsil University, Prof. Yong Woo Park
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: >-
+  Ywpark2003 Soongsil University, Prof. Yong Woo Park, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Model_of_the_Etemenanki_(Ziggurat_of_Babylon),_Pergamon_Museum,_Berlin_(2006).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/5/5e/Model_of_the_Etemenanki_%28Ziggurat_of_Babylon%29%2C_Pergamon_Museum%2C_Berlin_%282006%29.jpg
+  sha1: a298fdb3633fb80847b4fc148762a353871d0627
+  original_size: [2136, 1460]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1093 px
+size: [1600, 1093]
+depicts: [etemenanki]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

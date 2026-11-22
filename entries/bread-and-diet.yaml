@@ -1,0 +1,97 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: bread-and-diet
+title: Bread, Ovens, and Diet
+aliases: [Baking, Ovens, Tannur, Tabun, Food]
+type: realia
+cultures: [hebrew]
+scope: >-
+  Bread-making and everyday diet in ancient Israel: kneading, leavening and baking on hot
+  stones, griddles and clay ovens (tannûr), professional bakers, and a diet based on cereals,
+  legumes, olive oil, wine and fruit, with meat eaten mainly on special occasions. Grinding
+  is treated under millstones-and-grinding, and food laws under pig-avoidance and related
+  entries.
+passages:
+- ref: Gen 18:6
+  rel: realia
+  note: Three measures of fine flour kneaded into cakes for guests
+- ref: Exod 12:34, 39
+  rel: realia
+  note: Dough carried in kneading bowls; unleavened cakes baked on the way
+- ref: Lev 2:4-7
+  rel: realia
+  note: Grain offerings baked in an oven, on a griddle, or in a pan
+- ref: Lev 26:26
+  rel: practice
+  note: Ten women baking in a single oven; bread rationed by weight
+- ref: 1Sam 8:13
+  rel: practice
+  note: The king will take daughters as perfumers, cooks and bakers
+- ref: 2Sam 17:27-29
+  rel: practice
+  note: 'Provisions for David: wheat, barley, parched grain, beans, lentils, honey, curds,
+    cheese'
+- ref: 1Kgs 19:6
+  rel: realia
+  note: A cake baked on hot stones beside Elijah
+- ref: Ruth 2:14
+  rel: practice
+  note: Bread dipped in sour wine and parched grain at the harvest meal
+- ref: Hos 7:4-7
+  rel: imagery
+  note: Conspirators like a heated oven whose baker rests while the dough rises
+- ref: Jer 37:21
+  rel: practice
+  note: Jeremiah given a loaf a day from the bakers' street
+- ref: Ezek 4:9-15
+  rel: practice
+  note: Siege bread of mixed grains and legumes, rationed and baked over dung
+- ref: Matt 13:33
+  rel: realia
+  note: Leaven mixed into three measures of flour
+related: [millstones-and-grinding, agriculture-and-farming, olive-oil-production, winepresses,
+  four-room-house, pig-avoidance, passover-origins, hospitality]
+media:
+- id: bread-and-diet
+  role: primary
+external:
+  wikipedia: Ancient Israelite cuisine
+  wikidata: Q4752867
+editorial:
+  author_notes:
+  - >-
+    Ovens: the tannûr was a cylindrical clay oven heated from inside, with dough slapped against
+    the wall; 'tabun' is the later Arabic term. Courtyard ovens are common in Iron Age houses,
+    and some appear to have been shared (cf. Lev 26:26). Bread was also baked on embers, hot
+    stones and griddles.
+  - >-
+    Diet: cereals (wheat and barley) supplied most calories, with legumes, olive oil, wine,
+    figs, dates, grapes and dairy products. Meat was mainly eaten at sacrifices and feasts.
+    Do not quote precise calorie percentages unless they come from a source such as MacDonald.
+  - >-
+    Grinding and baking took many hours a day and were women's work in the household (Meyers).
+    Cities also had professional bakers (Jer 37:21; Gen 40).
+  - >-
+    Leaven was a sourdough starter (śĕʾōr). Explain its ritual exclusion (Passover; Lev 2:11)
+    without claiming that leaven always symbolizes evil (contrast Lev 23:17; Matt 13:33).
+  - >-
+    Leḥem can mean 'food' in general, and the 'staff of bread' (Lev 26:26; Ezek 4:16) is the
+    food supply.
+  sources_to_check:
+  - N. MacDonald, What Did the Ancient Israelites Eat? Diet in Biblical Times (2008)
+  - P. J. King and L. E. Stager, Life in Biblical Israel (2001)
+  - 'C. Meyers, Rediscovering Eve: Ancient Israelite Women in Context (2013)'
+  image_query: Tabun oven
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

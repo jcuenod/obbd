@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: elephantine-temple-petition
+file: elephantine-temple-petition.gif
+title: Elephantine Temple reconstruction request.gif
+caption: >-
+  Aramaic papyrus of the petition from Jedaniah and the priests of Elephantine to Bagavahya,
+  governor of Judah, 407 BCE.
+description: >-
+  A letter from the Elephantine Papyri, a collection of 5th century BCE writings of the Jewish
+  community at Elephantine in Egypt. Authors are Yedoniah and his colleagues the priests and
+  it is addressed to Bagoas, governor of Judah. The letter is a request for the rebuilding
+  of a Jewish temple at Elephantine, which had been destroyed by Egyptian pagans. The letter
+  is dated year 17 of king Darius (II) under the rule of the satrap of Egypt Arsames, which
+  corresponds to 407 BCE.
+creator: Letter by Yedoniah; Photographer unknown
+credit_line: >-
+  Abhandlungen der Königlich Preussischen Akademie der Wissenschaft, Volume 1907, Sachau:
+  drei aramaïsche Papyrusurkunden aus Elephantine. See link
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Letter by Yedoniah; Photographer unknown. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Elephantine_Temple_reconstruction_request.gif
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/a4/Elephantine_Temple_reconstruction_request.gif
+  sha1: 6dd79c831e885b2654763fc49faef821c5173255
+  original_size: [2114, 1467]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1110 px
+size: [1600, 1110]
+depicts: [elephantine-temple-petition]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

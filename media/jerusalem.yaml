@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: jerusalem
+file: jerusalem.jpg
+title: City of David, Southern Wall Temple Mount Kidron Valley Ophel and Siloam.jpg
+caption: >-
+  Historic aerial photograph of the Temple Mount, the City of David ridge south of it, and
+  the Kidron Valley.
+description: >-
+  The City of David is the ridge south of the Temple Mount and west of the Kidron Valley;
+  Silwan (Siloam) is east of the Kidron Valley
+creator: Matson Collection
+credit_line: >-
+  Library of Congress Catalog: https://www.loc.gov/pictures/collection/matpc/item/mpc2004005763/PP
+  Original url: https://hdl.loc.gov/loc.pnp/matpc.05871
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Matson Collection. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:City_of_David,_Southern_Wall_Temple_Mount_Kidron_Valley_Ophel_and_Siloam.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/e/e1/City_of_David%2C_Southern_Wall_Temple_Mount_Kidron_Valley_Ophel_and_Siloam.jpg
+  sha1: c70c43eb60723fc2cfed1800e2674330497ad104
+  original_size: [3783, 2477]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1048 px
+size: [1600, 1048]
+depicts: [jerusalem]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,69 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: levirate-marriage
+title: Levirate Marriage
+aliases: [Yibbum, Ḥaliṣah]
+type: practice
+cultures: [hebrew, assyrian, hittite]
+scope: >-
+  The custom by which the brother (or another male relative) of a man who died without a son
+  married the widow to provide an heir for the dead man, as regulated in Deut 25:5-10 and
+  reflected in Gen 38 and Ruth, with Middle Assyrian and Hittite parallels.
+passages:
+- ref: Deut 25:5-10
+  rel: practice
+  note: Levirate duty to 'raise up a name' for the dead brother; ḥălîṣâ ceremony
+- ref: Gen 38:6-26
+  rel: practice
+  note: Onan's refusal; Tamar secures an heir from her father-in-law
+- ref: Ruth 4:5, 10
+  rel: practice
+  note: Boaz acquires Ruth 'to maintain the dead man's name on his inheritance'
+- ref: Ruth 3:9-13
+  rel: practice
+  note: Ruth's appeal to Boaz as redeemer (gōʾēl)
+- ref: Lev 18:16
+  rel: practice
+  note: Prohibition of a brother's wife, in tension with the levirate
+- ref: Lev 20:21
+  rel: practice
+  note: Childlessness as penalty for taking a brother's wife
+- ref: Mark 12:18-27
+  rel: practice
+  note: Sadducees' levirate puzzle about the resurrection
+related: [middle-assyrian-laws, hittite-laws, inheritance-and-birthright, land-redemption,
+  marriage-and-bride-price, courts-and-legal-procedure]
+media: []
+external:
+  wikipedia: Levirate marriage
+  wikidata: Q641845
+editorial:
+  author_notes:
+  - >-
+    Comparative texts include MAL A §§30, 33, 43 and HL §193, where the widow passes to a
+    brother, then to the father-in-law, then to a nephew. The father-in-law clause illuminates
+    Gen 38.
+  - >-
+    Debate whether Ruth depicts levirate (Boaz is not a brother) or a fusion of levirate custom
+    with land redemption. Also debate how Deut 25 relates to the narratives.
+  - >-
+    Explain the purpose (the deceased's name and patrimony) and the shaming ḥălîṣâ rite (sandal
+    removed, spitting). Compare the sandal in Ruth 4:7-8, where it seals a transfer.
+  - >-
+    Note the apparent conflict with Lev 18:16; 20:21 and its rabbinic resolution (m. Yevamot).
+  sources_to_check:
+  - Roth, Law Collections from Mesopotamia and Asia Minor (SBLWAW 6, 2nd ed. 1997)
+  - 'Hoffner, The Laws of the Hittites: A Critical Edition (1997)'
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-1-sol

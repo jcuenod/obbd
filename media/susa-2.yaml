@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: susa-2
+file: susa-2.jpg
+title: Archers frieze Darius 1st Palace Suse Louvre AOD 488 a.jpg
+caption: >-
+  Glazed-brick frieze of archers from the palace of Darius I at Susa (Musée du Louvre, Paris).
+description: Archers frieze from Darius' palace at Susa. Detail of the beginning of the frieze,
+  left
+creator: Unknown authorUnknown author
+credit_line: Jebulon (2010)
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Unknown authorUnknown author. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Archers_frieze_Darius_1st_Palace_Suse_Louvre_AOD_488_a.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/62/Archers_frieze_Darius_1st_Palace_Suse_Louvre_AOD_488_a.jpg
+  sha1: 62382e714aaddd57bfbb4268473395d03b3b6c24
+  original_size: [2540, 4098]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 992×1600 px
+size: [992, 1600]
+depicts: [susa]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

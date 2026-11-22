@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: courts-and-legal-procedure
+title: Courts, Judges, and Legal Procedure
+aliases: [Elders at the gate]
+type: practice
+cultures: [hebrew, ugaritic]
+scope: >-
+  The city gate complex as the place where elders heard disputes, witnessed transactions,
+  and administered local justice in ancient Israel, with comparative Ugaritic evidence. The
+  architecture of gates is treated under city-gates.
+passages:
+- ref: Gen 23:10-18
+  rel: practice
+  note: Land purchase witnessed by 'all who went in at the gate of his city'
+- ref: Deut 21:18-21
+  rel: practice
+  note: Rebellious son brought to the elders at the gate
+- ref: Deut 22:15
+  rel: practice
+  note: Evidence of virginity brought to the elders at the gate
+- ref: Deut 25:7-9
+  rel: practice
+  note: Levirate refusal heard by the elders at the gate
+- ref: Ruth 4:1-11
+  rel: practice
+  note: Boaz convenes ten elders at the gate to settle redemption
+- ref: Josh 20:4
+  rel: practice
+  note: Manslayer states his case at the gate of the refuge city
+- ref: 2Sam 15:2-6
+  rel: practice
+  note: Absalom intercepts litigants at the gate, undermining royal justice
+- ref: Amos 5:10-15
+  rel: practice
+  note: Corruption of justice 'in the gate'
+- ref: Prov 31:23
+  rel: practice
+  note: Husband respected 'in the gates' among the elders
+- ref: Job 29:7-17
+  rel: practice
+  note: Job's seat in the square, defending the poor and orphan
+- ref: Deut 16:18
+  rel: practice
+  note: Judges appointed 'in all your gates' (towns)
+related: [city-gates, aqhat-epic, levirate-marriage, land-redemption, widow-orphan-sojourner,
+  dan]
+media:
+- id: courts-and-legal-procedure
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Describe the gate as civic space. It held benches in the chambers and a plaza inside the
+    gate (Dan, Bethsaida, Beersheba). Note that a bench alone does not prove judicial use.
+  - >-
+    Danel, seated 'before the gate' by the threshing floor and judging the cause of the widow
+    and orphan (Aqhat, KTU 1.17 V), is the closest Levantine literary parallel.
+  - >-
+    Note the tension between local justice by elders and royal or appointed judges (Deut 16:18;
+    2 Chr 19:5-11; 2 Sam 15). Many see a historical development from kin-based to state judiciary.
+  - >-
+    'Gate' (šaʿar) often stands for 'town' in Deuteronomy. Do not over-read every occurrence
+    as a reference to the gate structure.
+  image_query: Tel Dan Israelite gate
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

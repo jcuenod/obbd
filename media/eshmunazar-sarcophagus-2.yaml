@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: eshmunazar-sarcophagus-2
+file: eshmunazar-sarcophagus-2.jpg
+title: >-
+  Squeeze of trough inscription from the Sarcophagus of Eshmunazar II, in the Corpus Inscriptionum
+  Semiticarum (CIS I 3-9) (cropped).jpg
+caption: Squeeze of the trough inscription, from the Corpus Inscriptionum Semiticarum (CIS
+  I 3).
+description: Corpus Inscriptionum Semiticarum (CIS I 3-9)
+creator: Corpus Inscriptionum Semiticarum
+credit_line: Corpus Inscriptionum Semiticarum
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Corpus Inscriptionum Semiticarum. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Squeeze_of_trough_inscription_from_the_Sarcophagus_of_Eshmunazar_II,_in_the_Corpus_Inscriptionum_Semiticarum_(CIS_I_3-9)_(cropped).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/9d/Squeeze_of_trough_inscription_from_the_Sarcophagus_of_Eshmunazar_II%2C_in_the_Corpus_Inscriptionum_Semiticarum_%28CIS_I_3-9%29_%28cropped%29.jpg
+  sha1: 9c6281d1dfb1f967f202d9e56928902a31d70493
+  original_size: [3766, 608]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×258 px
+size: [1600, 258]
+depicts: [eshmunazar-sarcophagus]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

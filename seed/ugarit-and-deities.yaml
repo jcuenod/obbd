@@ -1,0 +1,1610 @@
+# Seed entries: Ugaritic literature, ANE deities and divine beings, sea monsters,
+# the divine council and related concepts. See docs/seed-guide.md.
+
+- id: baal-cycle
+  aliases: [Baal Epic, Baʿlu Myth, Baal and Anat]
+  cultures: [ugaritic]
+  date: [-1350, -1185]
+  circa: true
+  scope: >-
+    The Ugaritic mythological cycle on six tablets (KTU 1.1-1.6) narrating Baal's
+    combat with Yam (Sea), the building of his palace on Mount Zaphon, and his
+    death at the hands of Mot (Death) and return to life and kingship. The entry
+    covers the composition and its biblical comparanda; the deities themselves
+    have their own entries.
+  passages:
+    - "Ps 29 | parallel | Storm-god hymn: divine assembly, thunderous voice over the waters, Lebanon and Sirion, enthronement"
+    - "Ps 93 | parallel | Divine kingship established over the raging floods (neharot)"
+    - "Exod 15:1-18 | parallel | Victory at the sea, mountain sanctuary, and eternal kingship in sequence"
+    - "Isa 27:1 | parallel | Leviathan the fleeing, twisting serpent; nearly verbatim with KTU 1.5 I 1-3"
+    - "Ps 74:13-14 | parallel | Smashing the heads of the sea dragons and Leviathan"
+    - "Ps 48:2 | language | Zion as yarkete ṣāpôn, transferring Baal's mountain Zaphon (MT 48:3)"
+    - "Ps 68:4 | language | 'Rider on the clouds/steppes' recalls Baal's epithet rkb ʿrpt (MT 68:5)"
+    - "Isa 25:8 | imagery | YHWH swallows Death, reversing Mot's all-devouring maw"
+    - "Isa 14:12-15 | parallel? | Failed ascent to the divine mountain; cf. Athtar's failed enthronement on Zaphon"
+    - "Dan 7:9-14 | parallel? | Aged enthroned judge and cloud-riding figure; El and Baal pattern (Emerton)"
+    - "1Kgs 18:20-40 | polemic | YHWH, not Baal, controls rain and fire; mockery of an absent god"
+    - "Deut 14:1 | practice | Gashing oneself in mourning; cf. El and Anat lacerate themselves for Baal"
+  related: [ugaritic-texts, ugarit, baal, chaoskampf, cloud-rider, cosmic-mountain, leviathan, temple-building-accounts]
+  wikipedia: Baal Cycle
+  image: Baal Cycle tablet Ugarit
+  author_notes:
+    - Date refers to the extant tablets, written by the scribe Ilimilku under a King Niqmaddu; whether this is Niqmaddu II (mid-14th c.) or Niqmaddu III (late 13th c.) is debated. The story is older and orally transmitted.
+    - The tablet order (especially of KTU 1.1-1.3) and whether the six tablets form one continuous narrative are disputed; present the standard sequence Yam - palace - Mot as conventional, not certain.
+    - Avoid the older seasonal-ritual reading (de Moor's agricultural calendar) and the Frazerian "dying and rising god" frame as settled interpretations; both are now widely criticized.
+    - The Ps 29 adaptation thesis (Ginsberg, Cross) is mainstream but not unanimous; distinguish shared West Semitic idiom from direct literary dependence throughout.
+    - Note the seven-day building of Baal's palace (fire burning six days, completed on the seventh) in connection with seven-day patterns and temple-building accounts.
+  sources_to_check:
+    - KTU 1.1-1.6 (= CTA 1-6)
+    - COS 1.86
+    - ANET 129-142
+    - M. S. Smith in S. B. Parker (ed.), Ugaritic Narrative Poetry (1997)
+    - M. S. Smith and W. T. Pitard, The Ugaritic Baal Cycle, vols. 1-2 (VTSup 55, 114)
+    - N. Wyatt, Religious Texts from Ugarit (2nd ed., 2002)
+
+- id: aqhat-epic
+  title: Aqhat Epic
+  aliases: [Tale of Aqhat, Legend of Danel, Aqhatu Legend]
+  cultures: [ugaritic]
+  date: [-1350, -1185]
+  circa: true
+  scope: >-
+    The Ugaritic narrative poem (KTU 1.17-1.19) about the just patriarch-king Danel,
+    the divinely granted birth of his son Aqhat, Aqhat's refusal of the goddess Anat's
+    offer of immortality in exchange for his bow, his murder, the ensuing drought, and
+    his sister Pughat's revenge. The end of the story is lost.
+  passages:
+    - "Ezek 14:14, 20; 28:3 | attests | Danel (Ketiv dnʾl) as proverbial ancient righteous and wise man"
+    - "Jub 4:20 | attests | Danel named as father-in-law of Enoch"
+    - "Gen 18:1-8 | parallel | Hospitality to a divine visitor: Danel and Danatiya feed Kothar-wa-Hasis"
+    - "Gen 15:1-6 | parallel | Childless patriarch receives divine promise of a son"
+    - "1Sam 1:9-20 | parallel? | Childless petitioner at a sanctuary is granted a son"
+    - "Isa 1:17 | language | Judging the cause of widow and orphan; cf. Danel's justice at the gate"
+    - "Isa 51:17-18 | parallel | A son's duty to take a drunken parent by the hand"
+    - "2Sam 18:18 | practice | Son raising a memorial stele for his father; cf. the duties of the ideal son"
+    - "2Sam 1:21 | parallel | Curse withholding dew and rain from a place of death (KTU 1.19 I)"
+  related: [ugaritic-texts, anat, rephaim, hospitality, widow-orphan-sojourner, courts-and-legal-procedure, care-for-the-dead, dream-incubation]
+  wikipedia: Tale of Aqhat
+  image: Aqhat tablet Ugarit
+  author_notes:
+    - Present the identification of Ezekiel's Danel (with Noah and Job, all non-Israelite ancients) with the Ugaritic Danel as the majority view (e.g. J. Day, VT 30, 1980); it is not the Daniel of the book of Daniel.
+    - The list of a son's filial duties (KTU 1.17 I, repeated) is a key source for family religion and care of the dead; note the debated meaning of skn ilib ("stele of the ancestral god/divine ancestor").
+    - Danel's seven-day ritual before the gods is often read as dream incubation; flag the debate.
+    - Anat's offer of immortality and Aqhat's reply that mortals must die bear on ANE views of death and the gods; avoid reading the story as a fertility allegory.
+  sources_to_check:
+    - KTU 1.17-1.19 (= CTA 17-19)
+    - COS 1.103
+    - ANET 149-155
+    - S. B. Parker (ed.), Ugaritic Narrative Poetry (1997)
+    - N. Wyatt, Religious Texts from Ugarit (2nd ed., 2002)
+
+- id: kirta-epic
+  aliases: [Keret Epic, Legend of Keret, Kirta Legend]
+  cultures: [ugaritic]
+  date: [-1350, -1185]
+  circa: true
+  scope: >-
+    The Ugaritic narrative poem (KTU 1.14-1.16) about King Kirta, who loses his
+    family, is instructed by El in a dream to win a new bride by military expedition,
+    obtains heirs, falls mortally ill after failing to keep a vow to Athirat, is healed
+    by El, and is challenged by his son for neglecting justice.
+  passages:
+    - "1Kgs 3:5-15 | parallel | King receives a dream theophany and divine grant (El appears to the weeping Kirta)"
+    - "Gen 15:1-6 | parallel? | Lament over lack of heir answered by divine promise of offspring"
+    - "Job 1:13-19 | parallel? | Successive calamities wipe out the hero's family"
+    - "Job 42:10-17 | parallel? | Restoration of household and new children"
+    - "Deut 20:7 | practice | Newlywed exempt from war; contrast Kirta's total levy taking even the bridegroom"
+    - "Deut 23:21-23 | practice | Danger of an unfulfilled vow; Kirta's broken vow to Athirat brings illness"
+    - "2Sam 15:1-6 | parallel | Royal son challenges father for not hearing the people's cases"
+    - "Ps 72:1-4, 12-14 | concept | King's duty to judge the widow, orphan and poor"
+    - "Ps 82:6-7 | parallel? | 'Son of El' who must nevertheless die; cf. 'Shall Kirta, son of El, die?'"
+  related: [ugaritic-texts, el, asherah, royal-ideology, king-as-son-of-god, dream-incubation, vows-and-votive-offerings, widow-orphan-sojourner]
+  wikipedia: Legend of Keret
+  image: Kirta tablet Ugarit
+  author_notes:
+    - Early readings of Kirta as a historical epic of patriarchal migrations (Virolleaud's "Terah", "Zebulun", "Asher", the Negeb) are discredited and should be mentioned only as a historiographical caution.
+    - The text is a key witness to Late Bronze royal ideology (king as son of El, guarantor of fertility and justice) and to the tension between sacral kingship and mortality.
+    - The siege of Udum follows a six-days-then-the-seventh pattern; useful for seven-day patterns, but avoid claiming dependence for Josh 6.
+    - The story may be incomplete (the ending is lost or the cycle unfinished); say so.
+  sources_to_check:
+    - KTU 1.14-1.16 (= CTA 14-16)
+    - COS 1.102
+    - ANET 142-149
+    - E. L. Greenstein in S. B. Parker (ed.), Ugaritic Narrative Poetry (1997)
+    - N. Wyatt, Religious Texts from Ugarit (2nd ed., 2002)
+
+- id: shahar-and-shalim
+  aliases: [Dawn and Dusk, Birth of the Gracious Gods, Shachar, Shalem]
+  cultures: [ugaritic, canaanite]
+  scope: >-
+    Shahar (Dawn) and Shalim (Dusk), twin deities whose conception by El is told in
+    the Ugaritic ritual-mythic text KTU 1.23 ("The Birth of the Gracious and Beautiful
+    Gods"). The entry covers both deities, the text, and biblical echoes of Shahar and
+    Shalem; the kid-in-milk question is treated under its own entry.
+  passages:
+    - "Isa 14:12 | language | Helel ben Shahar, 'Day Star, son of Dawn'"
+    - "Ps 139:9 | imagery | 'Wings of the dawn' (kanpe-šaḥar)"
+    - "Job 3:9 | imagery | 'Eyelids of the dawn' personified"
+    - "Job 41:18 | imagery | Leviathan's eyes like the eyelids of dawn (MT 41:10)"
+    - "Ps 110:3 | imagery? | 'From the womb of the dawn' (MT obscure; mišḥār)"
+    - "Gen 14:18 | language? | Salem, often linked to the god Shalem in the name Jerusalem"
+    - "Ps 76:2 | language? | Salem as YHWH's abode (MT 76:3)"
+    - "Exod 23:19 | practice? | Formerly linked to KTU 1.23:14; the Ugaritic reading is now doubted"
+  related: [el, jerusalem, kid-in-mothers-milk, ugaritic-texts, host-of-heaven, cosmic-mountain]
+  wikipedia: Shahar (god)
+  image: null
+  author_notes:
+    - The derivation of (Uru)salim/Jerusalem as "foundation of Shalem" is widely held but not certain; present it with caution, and treat theophoric readings of Absalom and Solomon as speculative.
+    - KTU 1.23 combines a liturgical frame with myth; whether it is a sacred-marriage rite or royal ritual is debated.
+    - Cite Ratner and Zuckerman (HUCA 57, 1986) for the collapse of the old reading "seethe a kid in milk" at line 14.
+    - In Isa 14:12 the closer mythic background may be Athtar or Venus (Helel) rather than Shahar himself; Shahar is the father in the epithet.
+  sources_to_check:
+    - KTU 1.23 (= CTA 23)
+    - COS 1.87
+    - T. J. Lewis in S. B. Parker (ed.), Ugaritic Narrative Poetry (1997)
+    - DDD, s.v. "Shahar"; "Shalem"; "Helel"
+
+- id: statue-of-el
+  cultures: [ugaritic]
+  date: [-1400, -1200]
+  circa: true
+  scope: >-
+    A small Late Bronze Age cast-bronze figurine of a seated, bearded male deity
+    from Ugarit, overlaid with gold foil, conventionally identified as El, the aged
+    head of the Ugaritic pantheon. The entry uses the object to introduce El's
+    iconography (enthroned, aged, raising a hand in blessing).
+  passages:
+    - "Dan 7:9 | imagery? | Ancient of Days enthroned, white-haired; cf. El as aged 'father of years'"
+    - "1Kgs 22:19 | imagery | Deity seated on a throne with the heavenly host standing beside him"
+    - "Isa 6:1 | imagery | Enthroned, exalted deity presiding over his court"
+    - "Ps 82:1 | concept | God presiding in the 'council of El'"
+    - "Job 36:26 | imagery? | Number of God's years unsearchable; cf. El's epithet ab šnm"
+  related: [el, divine-council, ugarit, cult-images, composite-beasts-daniel, cherub-throne]
+  wikipedia: null
+  image: Seated god El bronze statuette Ugarit gold
+  author_notes:
+    - Verify the excavation number, find-spot and current location before writing; several seated gold-foiled bronzes from Ugarit circulate under the label "El", and the stone "El stele" from Ugarit is a different object.
+    - The identification as El rests on typology (seated, bearded, raised hand) rather than an inscription; say so.
+    - The meaning of El's epithet ab šnm ("father of years" versus other proposals) is debated; do not overstate the Dan 7:9 link.
+  sources_to_check:
+    - M. H. Pope, El in the Ugaritic Texts (VTSup 2, 1955)
+    - I. Cornelius and H. Niehr, Götter und Kulte in Ugarit (2004)
+
+- id: baal-with-thunderbolt
+  aliases: [Baal au foudre, Baal Stele]
+  cultures: [ugaritic]
+  date: [-1500, -1200]
+  circa: true
+  scope: >-
+    A limestone relief stele found in 1932 near the Temple of Baal at Ugarit,
+    showing the storm god striding in the smiting pose, brandishing a club and
+    holding a spear or lightning-shaft that sprouts vegetation, with a small figure
+    (probably the king) beneath his arm.
+  passages:
+    - "Ps 29:3-9 | imagery | YHWH's thundering voice over the waters, shaking forests and wilderness"
+    - "Ps 18:13-14 | imagery | Thunder and lightning as the deity's arrows (MT 18:14-15)"
+    - "Ps 77:17-18 | imagery | Thunder, flashing arrows and lightning at the sea (MT 77:18-19)"
+    - "Hab 3:11 | imagery | Light of the divine arrows, gleam of the flashing spear"
+    - "Zech 9:14 | imagery | YHWH's arrow going forth like lightning"
+    - "Job 37:2-5 | imagery | God's voice thunders; lightning to the ends of the earth"
+  related: [baal, baal-cycle, ugarit, hadad-rimmon, smiting-the-enemy-motif, divine-warrior]
+  wikipedia: Baal with Thunderbolt
+  image: Baal with Thunderbolt Louvre
+  location: Musée du Louvre, Paris
+  author_notes:
+    - Dating ranges from the 15th to the 13th century BCE in the literature; give a range and explain the basis. Verify the Louvre inventory number (commonly given as AO 15775).
+    - The wavy lines beneath the god's feet are often read as mountains and/or sea; present as interpretation.
+    - The spear-shaft as lightning-and-vegetation links storm and fertility; useful for explaining why Baal's rain is at stake in 1 Kgs 17-18.
+    - Connect to the Egyptian and Levantine "smiting god" figurine type, and to Hadad iconography further north.
+  sources_to_check:
+    - I. Cornelius, The Iconography of the Canaanite Gods Reshef and Baʿal (OBO 140, 1994)
+    - M. Yon, The City of Ugarit at Tell Ras Shamra (2006)
+
+- id: marzeah
+  aliases: [marzeaḥ, mrzḥ, marziḥu]
+  cultures: [ugaritic, phoenician, hebrew]
+  scope: >-
+    The marzeaḥ, a West Semitic association of elite members who met for ritual
+    feasting and heavy drinking under a patron deity, attested from Ebla and Ugarit
+    through Phoenician, Aramaic, Nabataean and Palmyrene sources to rabbinic texts.
+    The entry covers the institution and its debated funerary associations.
+  passages:
+    - "Amos 6:4-7 | practice | Ivory beds, wine, oil and music; 'the marzeaḥ of the loungers' (v. 7)"
+    - "Jer 16:5-9 | practice | Prophet barred from the 'house of marzeaḥ' in a mourning context"
+    - "Amos 2:8 | practice? | Drinking confiscated wine in the house of their god"
+    - "Ps 106:28 | practice? | Eating 'sacrifices of the dead' at Baal-peor; linked to the marzeaḥ by rabbinic tradition"
+  related: [care-for-the-dead, baal-peor, rephaim, mourning-rites, marseilles-tariff, samaria-ivories, ugaritic-texts]
+  wikipedia: Marzeah
+  image: null
+  author_notes:
+    - Central debate is whether the marzeaḥ was intrinsically funerary (cult of the dead, Rephaim) or a social-religious drinking club whose links to mourning are occasional; J. L. McLaughlin argues against an intrinsic funerary character.
+    - KTU 1.114 depicts El drunk at his own marzeaḥ; legal texts (e.g. KTU 3.9) show the institution owned property and had a head (rb).
+    - Note the Moabite "marzeaḥ papyrus" is unprovenanced and of doubtful authenticity; do not use it as primary evidence.
+  sources_to_check:
+    - KTU 1.114
+    - KTU 3.9
+    - KAI 60
+    - J. L. McLaughlin, The Marzēaḥ in the Prophetic Literature (VTSup 86, 2001)
+
+- id: rephaim
+  aliases: [Rapiʾuma, shades, rpum]
+  cultures: [ugaritic, phoenician, hebrew]
+  scope: >-
+    The Rephaim, in Ugaritic and Phoenician texts the (royal) dead or deified
+    ancestors, and in the Hebrew Bible both the shades of the netherworld and a
+    legendary race of giant pre-Israelite inhabitants of Transjordan and Canaan.
+    The entry addresses both uses and their relationship.
+  passages:
+    - "Isa 14:9 | concept | Sheol rouses the Rephaim, former kings, to greet the dead tyrant"
+    - "Isa 26:14, 19 | concept | Rephaim do not rise; earth gives birth to the Rephaim"
+    - "Ps 88:10 | concept | Do the Rephaim rise to praise God? (MT 88:11)"
+    - "Prov 2:18; 9:18; 21:16 | concept | The way of folly leads to the Rephaim"
+    - "Job 26:5 | concept | The Rephaim tremble beneath the waters"
+    - "Deut 2:10-11, 20-21 | attests | Rephaim as ancient giant inhabitants (Emim, Zamzummim)"
+    - "Deut 3:11, 13 | attests | Og the last of the Rephaim; Bashan 'land of Rephaim'"
+    - "Josh 12:4 | concept | Og at Ashtaroth and Edrei, the seat of Rapiʾu in KTU 1.108"
+    - "2Sam 21:15-22 | attests? | Gittite warriors 'descendants of hārāpāh'"
+  related: [nephilim, care-for-the-dead, sheol-and-the-netherworld, necromancy, afterlife-and-resurrection, eshmunazar-sarcophagus, aqhat-epic, ugaritic-texts]
+  wikipedia: Rephaite
+  image: null
+  author_notes:
+    - The striking match between Og's cities (Ashtaroth and Edrei) and the abode of Rapiʾu in KTU 1.108 suggests that the Bashan giant traditions transformed a Rephaim/royal-dead tradition; widely accepted, but present the mechanism as hypothesis.
+    - KTU 1.161 is a royal funerary liturgy summoning the ancient Rephaim for a dead king; KTU 1.20-1.22 are fragmentary Rephaim texts; Phoenician curses (Tabnit, Eshmunazar) deny the violator rest "with the Rephaim".
+    - Whether the Rephaim at Ugarit are deified dead kings, a warrior elite, or both is debated; etymology from rpʾ "heal" is common but the sense is disputed.
+    - Treat claims about actual giants as a biblical ethnographic tradition, not history.
+  sources_to_check:
+    - KTU 1.20-1.22
+    - KTU 1.108
+    - KTU 1.161
+    - KAI 13
+    - KAI 14
+    - D. Pardee, Ritual and Cult at Ugarit (2002)
+    - DDD, s.v. "Rephaim"
+
+- id: el
+  cultures: [canaanite, ugaritic, phoenician, hebrew]
+  scope: >-
+    El (ʾil), both the common Semitic word for "god" and the proper name of the
+    aged creator, father and king who heads the Ugaritic pantheon and divine
+    assembly. The entry covers El in Ugaritic and other West Semitic sources and
+    the reception of El names and attributes in the Hebrew Bible's portrayal of YHWH.
+  passages:
+    - "Gen 14:18-22 | language | El Elyon 'creator of heaven and earth'; cf. Phoenician ʾl qn ʾrṣ"
+    - "Gen 16:13; 21:33 | language | Patriarchal El epithets: El Roi, El Olam"
+    - "Gen 33:20; 35:7 | language | El-Elohe-Israel at Shechem; El-Bethel"
+    - "Exod 6:2-3 | concept | YHWH identified with the El Shaddai of the ancestors"
+    - "Gen 49:24-25 | language | El of your father and Shaddai, blessings of breasts and womb"
+    - "Deut 32:8-9 | concept | Elyon apportions the nations among the sons of God"
+    - "Ps 82:1 | concept | God stands in 'the council of El' (ʿădat-ʾēl)"
+    - "Isa 14:13 | imagery | 'Stars of El' and the mount of assembly"
+    - "Ezek 28:2 | imagery | 'I am El, I sit in the seat of gods in the heart of the seas'"
+    - "Num 23:22 | imagery? | El likened to the horns of a wild ox; cf. 'Bull El'"
+  related: [elyon, divine-council, statue-of-el, sons-of-god, asherah, yhwh-origins, bull-iconography, baal]
+  wikipedia: El (deity)
+  image: El stele Ugarit
+  author_notes:
+    - Give El's Ugaritic epithets (ṯr il "Bull El", ltpn il dpid "Kindly El the Compassionate", ab adm "father of humanity", bny bnwt "creator of creatures", mlk) and his abode "at the source of the rivers, amid the springs of the two deeps".
+    - 'Present the main models for El and YHWH: early identification (Cross), originally distinct gods later merged (Smith, Eissfeldt), and the patriarchal "religion of El" (Alt; Exod 6:3); none is settled.'
+    - Note the theophoric name Israel and the absence of El-Baal hostility in the Bible; El language was absorbed, Baal language contested.
+    - Caution against treating every ʾēl in Hebrew as the Canaanite god; it is also the common noun "god".
+  sources_to_check:
+    - KTU 1.23
+    - KTU 1.114
+    - M. H. Pope, El in the Ugaritic Texts (VTSup 2, 1955)
+    - F. M. Cross, Canaanite Myth and Hebrew Epic (1973)
+    - DDD, s.v. "El"
+
+- id: elyon
+  aliases: [Most High, ʿElyon]
+  cultures: [hebrew, aramean, phoenician]
+  scope: >-
+    ʿElyon, "Most High", a divine title used in the Hebrew Bible for YHWH, often as
+    El Elyon, and attested as a divine name in the Aramaic Sefire treaty and in
+    Philo of Byblos. The entry covers the title's origin and its role in
+    Jerusalem royal-temple theology and in Deut 32:8-9.
+  passages:
+    - "Gen 14:18-22 | language | Melchizedek priest of El Elyon, creator of heaven and earth; Abram swears by YHWH El Elyon"
+    - "Deut 32:8-9 | concept | Elyon divides the nations; YHWH's portion is Jacob (text-critical issue in v. 8)"
+    - "Num 24:16 | language | Balaam 'knows the knowledge of Elyon'"
+    - "Ps 82:6 | concept | Gods as 'children of Elyon' who will die like mortals"
+    - "Isa 14:14 | concept | The tyrant aspires to be 'like Elyon'"
+    - "Ps 46:4 | concept | Holy habitation of Elyon by the river in the city of God (MT 46:5)"
+    - "Ps 47:2 | language | 'YHWH Elyon, great king over all the earth' (MT 47:3)"
+    - "Ps 18:13 | language | Elyon utters his voice in thunder (MT 18:14; 2 Sam 22:14)"
+    - "Dan 7:18, 22, 25, 27 | language | 'Holy ones of the Most High'"
+  related: [el, divine-council, sons-of-god, 4qdeut-j, sefire-treaties, cosmic-mountain]
+  wikipedia: Elyon
+  image: null
+  author_notes:
+    - Key debate is whether Elyon was originally an epithet of El or a separate deity; the Sefire pair "El and Elyon" (KAI 222) and Philo of Byblos's Elioun are the main evidence for a distinct god.
+    - On Deut 32:8-9, present the textual evidence (MT "sons of Israel"; 4QDeutj "sons of God"; LXX) and the debate over whether Elyon and YHWH are distinct there (Smith) or identical (most traditional readings).
+    - Elyon is not attested as an independent deity at Ugarit; ʿly is used of Baal in KTU 1.16. Do not claim a Ugaritic god Elyon.
+    - Many scholars connect El Elyon to pre-Israelite Jerusalem (Gen 14; Ps 76:2); present this as hypothesis.
+  sources_to_check:
+    - KAI 222
+    - DDD, s.v. "Elyon"
+
+- id: baal
+  aliases: [Baʿal, Baʿlu, Hadad]
+  cultures: [canaanite, ugaritic, phoenician]
+  scope: >-
+    Baal ("lord, owner"), the West Semitic storm and fertility god, identified with
+    Hadad, hero of the Ugaritic Baal Cycle and chief rival of YHWH in the biblical
+    narratives of the Omride period. The entry covers Baal at Ugarit and in the
+    first-millennium Levant, local Baals, and biblical polemic.
+  passages:
+    - "Judg 2:11-13 | polemic | Deuteronomistic summary: Israel serves the Baals and Astartes"
+    - "Judg 6:25-32 | polemic | Gideon destroys Baal's altar; etiology of Jerubbaal"
+    - "1Kgs 16:31-33 | attests | Ahab builds a temple and altar of Baal in Samaria"
+    - "1Kgs 18:17-40 | polemic | Contest on Carmel over rain and fire; Elijah mocks Baal's absence"
+    - "2Kgs 10:18-28 | polemic | Jehu destroys the temple and worshippers of Baal"
+    - "2Kgs 11:18 | attests | Temple of Baal and its priest Mattan in Jerusalem"
+    - "Hos 2:8 | polemic | Grain, wine and oil come from YHWH, not Baal (MT 2:10)"
+    - "Hos 2:16-17 | language | 'My husband' (ʾîšî), not 'my baal'; names of the Baals removed (MT 2:18-19)"
+    - "2Sam 2:8 | language | Ishbosheth, for Eshbaal (1 Chr 8:33): bōšet substituted for Baal"
+    - "Ps 29 | imagery | Storm theophany drawing on Baal's attributes"
+  related: [baal-cycle, baal-with-thunderbolt, hadad-rimmon, melqart, baal-zebub, jezebel, cloud-rider, asherah]
+  wikipedia: Baal
+  image: Baal bronze statuette Ugarit
+  author_notes:
+    - Distinguish Baal as the title of a specific god (Baal-Hadad at Ugarit) from the many local "baals" (Baal-peor, Baal-berith, Baal-zebub) and from the common noun baʿal "lord, husband".
+    - Which Baal Ahab and Jezebel promoted (Baal-Shamem, Melqart of Tyre, or a local Baal) is debated; do not assert Melqart as fact.
+    - Baal-names among Israelites (Jerubbaal, Eshbaal, Meribbaal; Samaria ostraca) suggest baʿal could be used of YHWH before Hosea-era polemic; note the later bōšet ("shame") substitutions.
+    - Avoid portraying "Baalism" as a fertility cult with sacred prostitution; that model is now widely rejected.
+  sources_to_check:
+    - KTU 1.1-1.6
+    - J. Day, Yahweh and the Gods and Goddesses of Canaan (JSOTSup 265, 2000)
+    - DDD, s.v. "Baal"
+
+- id: asherah
+  aliases: [Athirat, ʾAṯiratu, asherah pole, sacred pole]
+  cultures: [canaanite, ugaritic, judahite, israelite]
+  scope: >-
+    Asherah, the West Semitic goddess known at Ugarit as Athirat, consort of El and
+    mother of the gods, and in the Hebrew Bible both a goddess and a cultic object
+    (the ʾăšērâ, a wooden pole or stylized tree). The entry covers the goddess, the
+    cult object, and the inscriptional evidence for "YHWH and his asherah".
+  passages:
+    - "Deut 16:21 | practice | Prohibition of planting an asherah beside YHWH's altar"
+    - "Exod 34:13 | practice | Command to cut down the asherim"
+    - "Judg 6:25-30 | practice | The asherah beside Baal's altar is cut down for firewood"
+    - "1Kgs 15:13 | attests | Queen mother Maacah makes an image for Asherah"
+    - "1Kgs 18:19 | attests? | Four hundred prophets of Asherah (often judged secondary)"
+    - "2Kgs 21:7 | attests | Manasseh sets a carved image of Asherah in the temple"
+    - "2Kgs 23:4-7 | practice | Josiah removes Asherah's vessels and image; women weave for Asherah"
+    - "2Kgs 13:6 | attests | The asherah remains standing in Samaria"
+    - "Hos 14:8 | language? | Emendation 'I am his Anat and his Asherah' (Wellhausen) disputed (MT 14:9)"
+    - "Mic 5:14 | practice | YHWH will uproot the asherim (MT 5:13)"
+  related: [kuntillet-ajrud-inscriptions, khirbet-el-qom-inscription, judean-pillar-figurines, taanach-cult-stand, el, baal, astarte, cult-reforms-archaeology]
+  wikipedia: Asherah
+  image: Kuntillet Ajrud pithos drawing
+  author_notes:
+    - The Kuntillet ʿAjrud and Khirbet el-Qom blessings "by YHWH ... and his asherah" are central; present the debate over whether "his asherah" denotes the goddess, a cult object, or a hypostasis (the pronominal suffix on a personal name is grammatically awkward).
+    - At Ugarit Athirat is El's consort, "Lady Athirat of the Sea", creatress of the gods with seventy sons; her pairing with Baal in Kings is a Deuteronomistic construction.
+    - The identification of Judean pillar figurines and the Taanach stand with Asherah is plausible but not proven.
+    - Avoid the "fertility goddess" stereotype; note mainstream arguments (Olyan, Hadley, Ackerman) that Asherah was part of official Yahwistic cult in both kingdoms before the reforms.
+  sources_to_check:
+    - S. M. Olyan, Asherah and the Cult of Yahweh in Israel (SBLMS 34, 1988)
+    - J. M. Hadley, The Cult of Asherah in Ancient Israel and Judah (2000)
+    - DDD, s.v. "Asherah"
+
+- id: anat
+  aliases: [ʿAnat, ʿAnatu, Anath]
+  cultures: [ugaritic, egyptian, jewish]
+  scope: >-
+    Anat, the violent warrior goddess of Ugaritic myth, sister and ally of Baal,
+    also venerated in New Kingdom Egypt and still attested among the Judeans of
+    Persian-period Elephantine. In the Hebrew Bible she survives only in personal
+    and place names.
+  passages:
+    - "Judg 3:31; 5:6 | language | Shamgar 'son of Anath', perhaps a warrior epithet"
+    - "Jer 1:1 | language | Anathoth, Jeremiah's home town"
+    - "Josh 21:18 | language | Anathoth as a Levitical city"
+    - "Judg 1:33 | language | Beth-anath, an unconquered town in Naphtali"
+    - "Exod 32:20 | parallel? | Calf burned, ground and scattered; cf. Anat's destruction of Mot (Loewenstamm)"
+    - "Jer 7:18 | concept? | Anat proposed as the Queen of Heaven"
+    - "Hos 14:8 | language? | Emendation 'I am his Anat and his Asherah' disputed (MT 14:9)"
+  related: [baal-cycle, aqhat-epic, baal, mot, astarte, queen-of-heaven, elephantine-papyri]
+  wikipedia: Anat
+  image: Anat Egyptian stela
+  author_notes:
+    - Summarise her portrayal in the Baal Cycle (slaughter in KTU 1.3 II, mourning and burial of Baal, destruction of Mot in KTU 1.6 II) and in Aqhat; her epithet btlt ("maiden") concerns status, not chastity in a later sense.
+    - At Elephantine the temple accounts name Anat-Yahu and Anat-Bethel; explain the debate over whether these are consort goddesses or hypostases.
+    - Note her popularity in Ramesside Egypt as a warrior goddess (e.g. Bint-Anat, Ramesses II's daughter).
+    - Avoid portraying Anat as a love or fertility goddess paired sexually with Baal as a settled fact; the evidence is contested.
+  sources_to_check:
+    - KTU 1.3
+    - KTU 1.6
+    - DDD, s.v. "Anat"
+    - J. Day, Yahweh and the Gods and Goddesses of Canaan (JSOTSup 265, 2000)
+
+- id: astarte
+  aliases: [Ashtoreth, ʿAštart, ʿAṯtartu]
+  cultures: [phoenician, ugaritic, canaanite]
+  scope: >-
+    Astarte (Hebrew ʿAštōret, a deliberate vocalization after bōšet "shame"), a
+    major West Semitic goddess of war, sexuality and royal power, attested at Ugarit
+    and Emar, in Egypt, and especially as the chief goddess of Sidon and Tyre. The
+    plural ʿaštārôt is used in the Hebrew Bible for goddesses generally.
+  passages:
+    - "1Kgs 11:5, 33 | attests | 'Astarte the goddess of the Sidonians' worshipped by Solomon"
+    - "2Kgs 23:13 | attests | Josiah defiles the high places built for Astarte, Chemosh and Milcom"
+    - "Judg 2:13; 10:6 | language | 'The Baals and the Astartes' as generic gods and goddesses"
+    - "1Sam 7:3-4; 12:10 | language | Israel puts away the Baals and Astartes"
+    - "1Sam 31:10 | attests | Saul's armour placed in the Philistine temple of Astarte"
+    - "Deut 7:13 | language | ʿaštərōt ṣōʾnekā, 'increase of your flock', a fossilized divine name"
+    - "Gen 14:5 | language | Ashteroth-karnaim, a Bashan town named for the goddess"
+    - "Jer 7:18 | concept? | Astarte as a candidate for the Queen of Heaven"
+  related: [queen-of-heaven, ishtar, anat, asherah, sidon, eshmunazar-sarcophagus, name-theology, phoenicians]
+  wikipedia: Astarte
+  image: Astarte figurine Phoenician
+  author_notes:
+    - Explain the vocalization ʿAštōret as a bōšet distortion of ʿAštart; the Greek Astartē preserves the original.
+    - Astarte is called "name of Baal" (šm bʿl) in KTU 1.16 VI and in the Eshmunazar inscription; relevant to name theology.
+    - Do not conflate Astarte with Asherah or Ishtar, though some syncretism (especially with Ishtar) occurred; distinguish them clearly.
+    - Treat "sacred prostitution" in her cult as a largely discredited classical and modern construct.
+  sources_to_check:
+    - KAI 14
+    - DDD, s.v. "Astarte"
+    - I. Cornelius, The Many Faces of the Goddess (OBO 204, 2004)
+
+- id: mot
+  aliases: [Môtu, Death]
+  cultures: [ugaritic]
+  scope: >-
+    Mot ("Death"), the Ugaritic god of death and the netherworld, beloved of El,
+    whose insatiable maw swallows Baal in the Baal Cycle. The entry also covers the
+    personification of Death (māwet) in the Hebrew Bible.
+  passages:
+    - "Isa 25:8 | imagery | YHWH will swallow up Death forever, reversing the swallower"
+    - "Isa 28:15, 18 | concept | Covenant with Death and agreement with Sheol"
+    - "Hab 2:5 | imagery | Appetite wide as Sheol, never satisfied like Death"
+    - "Isa 5:14 | imagery | Sheol opens its throat and mouth without limit"
+    - "Jer 9:21 | imagery | Death climbs in through the windows (MT 9:20)"
+    - "Ps 49:14 | imagery | Death shepherds the foolish into Sheol (MT 49:15)"
+    - "Hos 13:14 | imagery | 'O Death, where are your plagues? O Sheol, where is your sting?'"
+    - "Job 18:13-14 | imagery | 'Firstborn of Death' and 'king of terrors'"
+    - "Song 8:6 | imagery | Love strong as Death, passion fierce as Sheol"
+    - "1Cor 15:54-55 | imagery | Paul cites Isa 25:8 and Hos 13:14 on Death's defeat"
+  related: [baal-cycle, baal, anat, sheol-and-the-netherworld, resheph, afterlife-and-resurrection]
+  wikipedia: Mot (god)
+  image: null
+  author_notes:
+    - Mot's gaping throat ("a lip to earth, a lip to heaven", KTU 1.5 II) is the most-cited image for biblical swallowing Death/Sheol.
+    - In the Hebrew Bible māwet is a personification rather than a worshipped god; avoid implying a cult of Mot in Israel.
+    - The Jer 9:21 "death through the window" link to the window in Baal's palace (Cassuto) is suggestive; Mesopotamian Lamashtu has also been proposed. Present as debated.
+    - No secure iconography of Mot is known.
+  sources_to_check:
+    - KTU 1.4-1.6
+    - DDD, s.v. "Mot"
+
+- id: yam
+  aliases: [Yammu, Sea, Prince Sea, Judge River]
+  cultures: [ugaritic, canaanite]
+  scope: >-
+    Yam ("Sea"), the Ugaritic sea god, also called Judge River (ṯpṭ nhr), whose bid
+    for kingship is defeated by Baal in the Baal Cycle. The entry covers the deity
+    and the biblical motif of YHWH's rebuke, restraint and defeat of the personified
+    Sea (yām) and Rivers.
+  passages:
+    - "Job 7:12 | imagery | 'Am I the Sea, or the Dragon, that you set a guard over me?'"
+    - "Job 38:8-11 | imagery | Sea shut in with doors and given its limit"
+    - "Ps 74:13 | imagery | YHWH divided the Sea by his might"
+    - "Ps 89:9 | imagery | YHWH rules the raging of the Sea (MT 89:10)"
+    - "Ps 93:3-4 | imagery | Floods (neharot) lifted up; YHWH mightier than the Sea"
+    - "Hab 3:8 | imagery | Wrath against the Rivers and the Sea, mirroring Yam // Nahar"
+    - "Nah 1:4 | imagery | He rebukes the Sea and makes it dry"
+    - "Isa 51:10 | imagery | Drying the Sea and the great deep at the exodus"
+    - "Mark 4:39 | imagery | Jesus rebukes the wind and silences the Sea"
+    - "Rev 21:1 | imagery | 'And the sea was no more'"
+  related: [chaoskampf, baal-cycle, leviathan, rahab-sea-monster, tannin, tehom, divine-warrior]
+  wikipedia: Yam (god)
+  image: null
+  author_notes:
+    - Yam is the clearest Levantine antecedent for biblical Sea-combat language; the older derivation from Babylonian Tiamat (Gunkel) has largely given way to a West Semitic background (Day), though both matter.
+    - Biblical yām is never worshipped and usually personified only in poetry; distinguish mythic imagery from belief in a rival god.
+    - Note the parallel pair ym // nhr in Ugaritic and the Hebrew pair yām // nəhārôt.
+    - Baal's victory with clubs made by Kothar (KTU 1.2 IV) and the cry "Yam is dead, Baal reigns" link sea-victory to kingship (cf. Ps 93).
+  sources_to_check:
+    - KTU 1.2
+    - J. Day, God's Conflict with the Dragon and the Sea (1985)
+    - DDD, s.v. "Yam"
+
+- id: resheph
+  aliases: [Reshef, Rašap]
+  cultures: [canaanite, ugaritic, egyptian, phoenician]
+  scope: >-
+    Resheph, a West Semitic god of plague and war, archer and gatekeeper of the
+    netherworld, attested from Ebla to Cyprus and popular in New Kingdom Egypt as a
+    smiting warrior god. In the Hebrew Bible rešep appears as a demoted divine figure
+    and as a word for pestilence, flame or lightning.
+  passages:
+    - "Hab 3:5 | imagery | Deber (Pestilence) and Resheph (Plague) march in YHWH's retinue"
+    - "Deut 32:24 | imagery | Devoured by Resheph and bitter Qeteb"
+    - "Ps 78:48 | imagery | Flocks given over to rəšāpîm (thunderbolts or plagues)"
+    - "Ps 76:3 | imagery | YHWH broke the 'rəšāpîm of the bow', flashing arrows (MT 76:4)"
+    - "Job 5:7 | imagery | 'Sons of Resheph' fly upward (sparks or birds)"
+    - "Song 8:6 | imagery | Love's flashes are 'flashes of fire'"
+    - "1Chr 7:25 | language | Resheph as an Ephraimite personal name"
+  related: [demons, divine-warrior, mot, smiting-the-enemy-motif, gods-of-2-kings-17, baal-with-thunderbolt]
+  wikipedia: Resheph
+  image: Reshef stela Egypt
+  author_notes:
+    - Resheph's archery (Cypriot "Resheph of the arrow", ršp ḥṣ, equated with Apollo) explains the arrow and flame imagery in Ps 76 and Song 8.
+    - At Ugarit he is equated with Nergal in god lists; relevant to plague and netherworld associations.
+    - Present Hab 3:5 as the clearest case of a demoted deity in YHWH's entourage; the other passages show varying degrees of demythologization.
+    - His Egyptian iconography (gazelle-headed crown, smiting pose) is well documented; use it for the image.
+  sources_to_check:
+    - I. Cornelius, The Iconography of the Canaanite Gods Reshef and Baʿal (OBO 140, 1994)
+    - M. M. Münnich, The God Resheph in the Ancient Near East (2013)
+    - DDD, s.v. "Resheph"
+
+- id: dagon
+  aliases: [Dagan]
+  cultures: [amorite, ugaritic, philistine]
+  scope: >-
+    Dagon (Dagan), a major Syrian and Middle Euphrates deity of the Bronze Age,
+    worshipped at Ebla, Mari, Terqa, Tuttul, Emar and Ugarit, and in the Iron Age the
+    chief god of the Philistines at Ashdod and Gaza according to the Bible.
+  passages:
+    - "Judg 16:23 | attests | Philistine lords sacrifice to Dagon their god at Gaza"
+    - "1Sam 5:1-5 | polemic | Dagon falls broken before the ark in his temple at Ashdod"
+    - "1Sam 5:5 | practice | Dagon's priests avoid treading on the threshold"
+    - "1Chr 10:10 | attests | Saul's head fastened in the temple of Dagon"
+    - "Josh 15:41 | language | Beth-dagon, a town in the Judean lowland"
+    - "1Macc 10:83-84 | attests | Jonathan burns the temple of Dagon at Azotus"
+  related: [philistines, ashdod, gaza, ark-of-the-covenant, emar-texts, mari-letters, ugarit, apkallu-reliefs]
+  wikipedia: Dagon
+  image: Dagan stele Ugarit
+  author_notes:
+    - Correct the "fish-god" misconception, based on folk etymology from Hebrew dāg "fish" in medieval exegesis and on nineteenth-century misidentification of Assyrian fish-cloaked apkallu figures as Dagon.
+    - Etymology is debated (Hebrew dāgān "grain"; a root meaning "cloud, rain"); Philo of Byblos equates Dagon with Siton (grain). Present options.
+    - At Ugarit Baal is "son of Dagan", yet Dagan has no role in the myths; two dedicatory stelae name Dagan, and one acropolis temple is often attributed to him.
+    - The Philistines likely adopted a Semitic deity after settling; this bears on Philistine acculturation.
+  sources_to_check:
+    - L. Feliu, The God Dagan in Bronze Age Syria (CHANE 19, 2003)
+    - DDD, s.v. "Dagon"
+
+- id: molek
+  title: Molek (Molech)
+  aliases: [Molech, Moloch]
+  cultures: [canaanite, phoenician, judahite]
+  scope: >-
+    Molek, the recipient of the practice of "making children pass through the fire"
+    condemned in Leviticus, Kings and Jeremiah. The entry covers the debate over
+    whether Molek was a deity (possibly chthonic) or whether *molk* was a sacrificial
+    term, as in Punic inscriptions.
+  passages:
+    - "Lev 18:21 | practice | Prohibition of giving offspring 'to Molek'"
+    - "Lev 20:2-5 | practice | Death penalty; 'prostituting after Molek' implies a deity"
+    - "2Kgs 23:10 | practice | Josiah defiles Topheth so none may pass a child through fire to Molek"
+    - "Jer 32:35 | practice | High places of Baal in the Hinnom valley for passing children to Molek"
+    - "1Kgs 11:7 | language | 'Molech the abomination of the Ammonites', probably an error for Milcom"
+    - "Isa 30:33 | language? | Topheth prepared 'for the king' (lammelek)"
+    - "Isa 57:9 | language? | Journeying 'to the king/Molek' with oil"
+    - "Acts 7:43 | language | 'Tent of Moloch' from LXX Amos 5:26"
+  related: [child-sacrifice, tophet, milkom, rephaim, gods-of-2-kings-17, phoenicians, chemosh]
+  wikipedia: Moloch
+  image: null
+  author_notes:
+    - Present the debate fairly. Eissfeldt (1935) read Punic mlk as a sacrifice type ("as a molk-offering"); Heider and Day defend a deity Molek, citing Lev 20:5 and Ugaritic/Akkadian Malik/mlk, who is linked to the dead and to ʿAshtaroth (KTU 1.100; 1.108).
+    - The vocalization mōlek may be a bōšet-style distortion of melek "king"; this is a hypothesis.
+    - Whether "pass through the fire" denotes actual immolation or a dedication rite remains debated, though most now accept that some child sacrifice occurred.
+    - Correct the popular image of a hollow bronze bull-headed furnace; it derives from medieval Jewish commentary (e.g. Rashi on Jer 7:31) and later art, not ancient evidence.
+  sources_to_check:
+    - G. C. Heider, The Cult of Molek (JSOTSup 43, 1985)
+    - 'J. Day, Molech: A God of Human Sacrifice in the Old Testament (1989)'
+    - DDD, s.v. "Molech"
+
+- id: chemosh
+  aliases: [Kemosh, Kamish]
+  cultures: [moabite]
+  scope: >-
+    Chemosh, the national god of Moab, known chiefly from the Mesha Stele and the
+    Hebrew Bible, with earlier attestations of a god Kamish in third-millennium Syria.
+  passages:
+    - "Num 21:29 | language | Moab as 'people of Chemosh', his sons and daughters made captives"
+    - "Judg 11:24 | concept | Chemosh as land-giving national god, set beside YHWH"
+    - "1Kgs 11:7, 33 | attests | Solomon builds a high place for Chemosh"
+    - "2Kgs 23:13 | attests | Josiah defiles the high place of Chemosh"
+    - "2Kgs 3:27 | practice | Mesha sacrifices his firstborn; 'great wrath' falls on Israel"
+    - "Jer 48:7, 13, 46 | polemic | Chemosh goes into exile; Moab ashamed of Chemosh"
+  related: [mesha-stele, moabites, dibon, herem, child-sacrifice, milkom]
+  wikipedia: Chemosh
+  image: Mesha Stele Louvre
+  author_notes:
+    - The Mesha Stele presents Chemosh in terms closely parallel to YHWH in Kings (anger with his land, ordering conquest, ḥērem devoted to Ashtar-Chemosh).
+    - Explain the debate over whose "great wrath" falls on Israel in 2 Kgs 3:27.
+    - Judg 11:24 attributes to Chemosh what is elsewhere Milcom's land (Ammon); note this as a known difficulty.
+    - No secure iconography exists; identifications of figures on Moabite stelae (Shihan, Baluʿa) with Chemosh are uncertain.
+  sources_to_check:
+    - KAI 181
+    - COS 2.23
+    - DDD, s.v. "Chemosh"
+
+- id: milkom
+  aliases: [Milcom, Malcam]
+  cultures: [ammonite]
+  scope: >-
+    Milkom, the national god of Ammon, attested in the Hebrew Bible and in Ammonite
+    inscriptions and seals. Several biblical occurrences depend on the vocalization of
+    the consonants mlkm ("Milkom" or "their king").
+  passages:
+    - "1Kgs 11:5, 33 | attests | Solomon follows 'Milcom the abomination of the Ammonites'"
+    - "2Kgs 23:13 | attests | Josiah defiles the high place of Milcom"
+    - "Jer 49:1, 3 | language | MT malkām 'their king'; LXX and many moderns read Milcom"
+    - "Zeph 1:5 | language | Those who swear by malkām, often read as Milcom"
+    - "2Sam 12:30 | language? | Crown of malkām (Milcom or 'their king') taken at Rabbah"
+    - "Amos 1:15 | language? | 'Their king' (malkām) goes into exile; cf. Jer 49:3"
+  related: [ammonites, rabbah, molek, chemosh, tell-siran-bottle-and-ammonite-inscriptions, seals-and-bullae]
+  wikipedia: Milcom
+  image: Ammonite statue Amman
+  author_notes:
+    - Extrabiblical evidence includes the Amman Citadel Inscription (often read as an oracle of Milkom) and theophoric names such as Milkomʾur on the Tell el-ʿUmeiri seal impression naming a servant of Baʿalyašaʿ (cf. Baalis, Jer 40:14). Verify readings.
+    - Milkom is distinct from Molek despite their shared root mlk; 1 Kgs 11:7 is commonly regarded as a textual confusion.
+    - Ammonite stone heads and statues with atef-like crowns may depict kings or deities; their identification with Milkom is uncertain.
+  sources_to_check:
+    - W. E. Aufrecht, A Corpus of Ammonite Inscriptions (1989)
+    - DDD, s.v. "Milcom"
+
+- id: qos
+  aliases: [Qaus, Qaush, Kos]
+  cultures: [edomite, arabian]
+  scope: >-
+    Qos (Qaus), the national god of Edom, known from Assyrian royal inscriptions,
+    Edomite theophoric names and inscriptions, and later Nabataean and Idumean
+    sources. He is never named in the Hebrew Bible apart from a theophoric name.
+  passages:
+    - "Ezra 2:53 | language | Barkos ('son of Qos') among returning temple servants"
+    - "Neh 7:55 | language | Barkos in the parallel list"
+    - "2Chr 25:14-15 | attests | Amaziah worships 'the gods of the people of Seir'"
+    - "Deut 33:2 | concept? | YHWH comes from Seir; southern origins near Edom"
+    - "Judg 5:4 | concept? | YHWH marches from Seir and the field of Edom"
+  related: [edomites, yhwh-origins, bozrah, nabataeans, petra-and-sela, kuntillet-ajrud-inscriptions]
+  wikipedia: Qos (deity)
+  image: Horvat Qitmit Edomite shrine figurine
+  author_notes:
+    - Assyrian sources name Edomite kings Qaus-malaka (Tiglath-pileser III) and Qaus-gabri (Esarhaddon, Ashurbanipal).
+    - The biblical silence about Qos, alongside texts placing YHWH's origin in Seir/Edom, is used in the southern-origins debate; present any Qos-YHWH relationship as speculative.
+    - Horvat Qitmit (Negev) has Qos inscriptions, and the Horvat ʿUza ostracon is reported to contain a blessing by Qos; verify details.
+    - Qos survives into the Nabataean period (Khirbet et-Tannur) and among Idumeans (Josephus, Ant. 15.253 on Costobarus's priestly ancestors of Koze); verify the Josephus reference.
+  sources_to_check:
+    - 'I. Beit-Arieh (ed.), Ḥorvat Qitmit: An Edomite Shrine in the Biblical Negev (1995)'
+    - DDD, s.v. "Qos"
+
+- id: melqart
+  aliases: [Milqart, Tyrian Heracles, Baal of Tyre]
+  cultures: [phoenician]
+  scope: >-
+    Melqart ("king of the city"), the chief god of Tyre, spread with Phoenician
+    colonization across the Mediterranean (Carthage, Gades) and identified by Greeks
+    with Heracles. The entry covers his cult and its possible bearing on the Baal of
+    Ahab and Jezebel.
+  passages:
+    - "1Kgs 16:31-32 | attests? | Jezebel's Baal and the temple in Samaria, often but not certainly Melqart"
+    - "1Kgs 18:27 | practice? | 'He is asleep and must be awakened': possible allusion to Melqart's egersis"
+    - "1Kgs 7:15-22 | realia? | Twin pillars Jachin and Boaz; cf. Herodotus 2.44 on Tyre's temple"
+    - "2Macc 4:18-20 | attests | Games at Tyre; Jason sends money for sacrifice to Heracles"
+    - "Matt 17:24-27 | realia | Temple tax paid in Tyrian shekels bearing Melqart-Heracles"
+  related: [tyre, melqart-stele, baal, jezebel, hiram-of-tyre, jachin-and-boaz, coinage, phoenicians]
+  wikipedia: Melqart
+  image: Tyrian shekel Melqart
+  author_notes:
+    - The identification of Jezebel's Baal with Melqart (de Vaux, Albright) versus Baal-Shamem (Eissfeldt) or a local Baal is unresolved; present all three.
+    - The "awakening" (egersis) of Heracles at Tyre is reported by Josephus citing Menander of Ephesus (Against Apion 1.119; Ant. 8.146); verify references and avoid over-reading 1 Kgs 18:27.
+    - Discuss the Melqart stele of Bar-Hadad as evidence for his cult in Aram.
+    - Tyrian shekels (with Melqart's head) were standard for temple dues in the Roman period; this is well attested and useful for NT readers.
+  sources_to_check:
+    - KAI 201
+    - 'C. Bonnet, Melqart: cultes et mythes de l''Héraclès tyrien en Méditerranée (1988)'
+    - DDD, s.v. "Melqart"
+
+- id: queen-of-heaven
+  aliases: [malkat haššāmayim]
+  cultures: [judahite, mesopotamian]
+  scope: >-
+    The "Queen of Heaven" whose cult, with cakes, libations and incense, Jeremiah
+    condemns among Judahites in Jerusalem and in Egypt. The entry covers the
+    identification of the goddess and the household, women-led character of the cult.
+  passages:
+    - "Jer 7:18 | practice | Families bake cakes (kawwānîm) for the Queen of Heaven"
+    - "Jer 44:15-19, 25 | practice | Judahites in Egypt defend offerings; cakes 'in her image'"
+  related: [ishtar, astarte, anat, host-of-heaven, elephantine-papyri, judean-pillar-figurines]
+  wikipedia: Queen of heaven (antiquity)
+  image: Mari mould nude goddess
+  author_notes:
+    - Main candidates are Ishtar (Akkadian šarrat šamê), Astarte, Anat and Asherah; many favour a syncretistic Ishtar-Astarte (Ackerman). Present the options.
+    - MT vocalizes məleket ("work/host of heaven"), probably a scribal avoidance; the versions and most moderns read malkat.
+    - The kawwānîm likely relate to Akkadian kamānu cakes offered to Ishtar; cake moulds from Mari are often cited (verify which moulds show a goddess).
+    - The Hermopolis papyri mention a temple of the Queen of Heaven at Syene in the Persian period.
+  sources_to_check:
+    - S. Ackerman, Under Every Green Tree (HSM 46, 1992)
+    - TAD A2.1-A2.7 (Hermopolis papyri)
+    - DDD, s.v. "Queen of Heaven"
+
+- id: tammuz
+  aliases: [Dumuzi, Dumuzid]
+  cultures: [mesopotamian, sumerian]
+  scope: >-
+    Tammuz (Sumerian Dumuzi), the shepherd god and consort of Inanna/Ishtar whose
+    death and descent to the netherworld were annually lamented in Mesopotamia. The
+    entry covers the Mesopotamian evidence, the women's lament in Ezek 8:14, and the
+    later Adonis cult.
+  passages:
+    - "Ezek 8:14 | practice | Women weeping for Tammuz at the north gate of the temple"
+    - "Isa 17:10-11 | practice? | 'Pleasant plants' possibly Adonis gardens"
+    - "Dan 11:37 | concept? | 'The one beloved by women', perhaps Tammuz-Adonis"
+    - "Zech 12:11 | practice? | Mourning for Hadad-rimmon, sometimes compared with Tammuz laments"
+  related: [descent-of-inanna-ishtar, ishtar, sumerian-love-songs, mourning-rites, calendars-and-month-names, sacred-marriage, hadad-rimmon]
+  wikipedia: Dumuzid
+  image: null
+  author_notes:
+    - Correct the Frazerian "dying and rising god" model; Dumuzi's alternation with his sister in the netherworld (Inanna's Descent) is not resurrection in the later sense (J. Z. Smith; M. S. Smith; but see Mettinger for a contrary view).
+    - The fourth month of the Babylonian and later Jewish calendar bears his name.
+    - Identification of Adonis with Tammuz is ancient (e.g. Jerome on Ezek 8:14) but involves a distinct, later Phoenician-Greek cult.
+  sources_to_check:
+    - DDD, s.v. "Tammuz"
+    - T. N. D. Mettinger, The Riddle of Resurrection (ConBOT 50, 2001)
+
+- id: shamash
+  aliases: [Utu, Shemesh, Shapash, sun god]
+  cultures: [ane, mesopotamian, ugaritic]
+  scope: >-
+    The sun god of Mesopotamia (Utu/Shamash, god of justice and divination), the
+    Ugaritic sun goddess Shapash, and solar worship and imagery in Israel and Judah.
+    The entry covers sun cult and solar language for YHWH; the winged sun disk has
+    its own entry.
+  passages:
+    - "2Kgs 23:5, 11 | practice | Josiah removes priests of the sun and burns the 'chariots of the sun'"
+    - "Ezek 8:16 | practice | Men in the temple court bow eastward to the sun"
+    - "Deut 4:19; 17:3 | polemic | Sun, moon and host of heaven forbidden as objects of worship"
+    - "Job 31:26-28 | practice | Kissing the hand to the shining sun or moon"
+    - "Ps 19:4-6 | imagery | Sun as bridegroom and runner; cf. Shamash hymns joining sun and law (MT 19:5-7)"
+    - "Mal 4:2 | imagery | Sun of righteousness with healing in its wings (MT 3:20)"
+    - "Ps 84:11 | imagery | 'YHWH God is a sun and shield' (MT 84:12)"
+    - "Josh 15:10 | language | Beth-shemesh, 'house of the sun'"
+  related: [tablet-of-shamash, code-of-hammurabi, winged-sun-disk, host-of-heaven, beth-shemesh, light-of-the-face, divine-wings]
+  wikipedia: Shamash
+  image: Tablet of Shamash British Museum
+  author_notes:
+    - The "solar Yahwism" thesis (J. G. Taylor) is debated; separate solar imagery for YHWH, which is common, from a solar YHWH cult, which is contested.
+    - Shamash as judge, who sees all and is invoked in divination (with Adad), is the main background for sun-justice imagery (Ps 19; Mal 4:2).
+    - Ugaritic Shapash is female, the "torch of the gods" who travels to the netherworld; note the gender difference from Mesopotamia.
+    - Josh 10:12-13 has been read against omen literature (Holladay); mention only as a proposal.
+  sources_to_check:
+    - J. G. Taylor, Yahweh and the Sun (JSOTSup 111, 1993)
+    - W. G. Lambert, Babylonian Wisdom Literature (1960) (Shamash Hymn)
+    - DDD, s.v. "Shemesh"
+
+- id: sin-moon-god
+  aliases: [Nanna, Suen, Yarikh, moon god of Harran]
+  cultures: [mesopotamian, aramean]
+  scope: >-
+    Sin (Sumerian Nanna), the Mesopotamian moon god, with major cult centres at Ur
+    and Harran, and the moon god Yarikh of the Levant. The entry covers lunar worship
+    and the biblical references to the moon as an object of cult.
+  passages:
+    - "Gen 11:28, 31 | setting | Terah's family linked to Ur and Harran, the two chief cult centres of Sin"
+    - "Deut 4:19 | polemic | Moon among the heavenly bodies not to be worshipped"
+    - "2Kgs 23:5 | practice | Josiah suppresses priests who burn incense to the moon (yārēaḥ)"
+    - "Job 31:26-28 | practice | The moon 'moving in splendour' as an object of veneration"
+    - "Jer 8:2 | practice | Bones spread before sun, moon and host they served"
+    - "Judg 8:21, 26 | realia | Crescent ornaments on the Midianite kings' camels"
+    - "Isa 3:18 | realia | Crescents (śahărōnîm) among Jerusalem women's ornaments"
+  related: [harran, ur, nabonidus, verse-account-of-nabonidus, host-of-heaven, new-moon]
+  wikipedia: Sin (mythology)
+  image: Nabonidus stele British Museum
+  author_notes:
+    - Nabonidus's devotion to Sin of Harran is the best-documented first-millennium case; link to the Nabonidus entries and Harran stelae.
+    - The Aramean bull-headed moon-god stelae with crescent (e.g. Bethsaida) show a Levantine Harran-type cult; verify details.
+    - Correct speculative etymologies (Sinai from Sin; Laban "white" or Jericho from yārēaḥ as evidence of patriarchal moon worship); they are not mainstream.
+  sources_to_check:
+    - O. Keel, Goddesses and Trees, New Moon and Yahweh (JSOTSup 261, 1998)
+    - G. Theuer, Der Mondgott in den Religionen Syrien-Palästinas (OBO 173, 2000)
+
+- id: marduk
+  aliases: [Bel, Merodach]
+  cultures: [babylonian]
+  scope: >-
+    Marduk, city god of Babylon and from the late second millennium head of the
+    Babylonian pantheon, celebrated in Enuma Elish as victor over Tiamat and king of
+    the gods; often called simply Bel ("lord"). The entry covers his cult and its
+    reflection in exilic prophecy and later Jewish literature.
+  passages:
+    - "Isa 46:1-2 | polemic | Bel bows down, Nebo stoops; idols carried as burdens on beasts"
+    - "Jer 50:2 | polemic | 'Bel is put to shame, Merodach is dismayed'"
+    - "Jer 51:44 | polemic | YHWH punishes Bel in Babylon and makes him disgorge"
+    - "Isa 44:24-45:7 | polemic | YHWH, not Marduk, calls Cyrus; cf. Cyrus Cylinder"
+    - "Bel 1-22 | polemic | Daniel exposes the priests who 'feed' the idol Bel"
+    - "Dan 4:8 | language | Belteshazzar 'named after the name of my god' (Aram. 4:5)"
+    - "Isa 39:1 | language | Merodach-baladan (Marduk-apla-iddina)"
+    - "2Kgs 25:27 | language | Evil-merodach (Amel-Marduk)"
+    - "Esth 2:5 | language | Mordecai, a name derived from Marduk"
+  related: [enuma-elish, babylon, akitu-festival, cyrus-cylinder, nabu, cult-images, etemenanki, amel-marduk]
+  wikipedia: Marduk
+  image: Marduk cylinder seal lapis lazuli
+  author_notes:
+    - Explain Marduk's rise (often linked to the Nebuchadnezzar I period) and his supremacy in Enuma Elish; the date of Enuma Elish is debated.
+    - Deutero-Isaiah's idol polemic and procession imagery (Isa 46) are best read against Akitu processions and the Cyrus Cylinder's claim that Marduk chose Cyrus.
+    - The derivation of Mordecai from Marduk is consensus; Esther from Ishtar is debated and should not be stated as fact.
+  sources_to_check:
+    - W. G. Lambert, Babylonian Creation Myths (2013)
+    - DDD, s.v. "Marduk"
+
+- id: nabu
+  aliases: [Nebo, Nabû]
+  cultures: [babylonian, assyrian]
+  scope: >-
+    Nabu, Babylonian god of scribes and writing, son of Marduk, with his main temple
+    (Ezida) at Borsippa and a major cult in first-millennium Assyria. The entry covers
+    his cult and his presence in biblical names and polemic.
+  passages:
+    - "Isa 46:1 | polemic | 'Nebo stoops' beside Bel in the procession of Babylon's gods"
+    - "Dan 1:7 | language | Abednego, a deformation of Abed-Nabu 'servant of Nabu'"
+    - "2Kgs 25:8 | language | Nebuzaradan (Nabu-zer-iddin), captain of the guard"
+    - "Jer 39:13 | language | Nebushazban, a Babylonian officer"
+    - "Num 32:38 | language? | The Moabite town Nebo, possibly named for the god"
+    - "Ezek 9:2-4 | imagery? | Man in linen with a scribe's writing case who marks the righteous"
+  related: [marduk, nebuchadnezzar-ii, tablet-of-destinies, scribes-and-scribal-education, babylon, nimrud]
+  wikipedia: Nabu
+  image: Statue of Nabu Nimrud British Museum
+  author_notes:
+    - Nebuchadnezzar (Nabu-kudurri-uṣur) and many Babylonian names carry Nabu; give the etymology.
+    - Nabu as keeper of the Tablet of Destinies and divine scribe is a frequent comparison for heavenly books and the scribal figure in Ezek 9; present as background, not source.
+    - Whether Mount Nebo and the Moabite town reflect the Mesopotamian god is debated.
+    - Aramaic papyri from Hermopolis mention a temple of Nabu at Syene, showing the cult among Arameans in Egypt.
+  sources_to_check:
+    - DDD, s.v. "Nabu"
+
+- id: ishtar
+  aliases: [Inanna, Ištar]
+  cultures: [mesopotamian, sumerian, assyrian]
+  scope: >-
+    Ishtar (Sumerian Inanna), the Mesopotamian goddess of sexual love and war,
+    identified with the planet Venus, with major cults at Uruk, Nineveh and Arbela.
+    The entry covers her mythology and cult and the biblical passages most often
+    discussed in relation to her.
+  passages:
+    - "Jer 7:18 | concept? | Ishtar (šarrat šamê) as the leading candidate for the Queen of Heaven"
+    - "Jer 44:17-19 | practice? | Cakes and libations for the Queen of Heaven; cf. kamānu cakes for Ishtar"
+    - "Ezek 8:14 | concept | Weeping for Tammuz, Ishtar's consort"
+    - "Isa 41:8-13 | form | 'Fear not' oracles; cf. Neo-Assyrian oracles of Ishtar of Arbela"
+    - "Song 4:9-12 | parallel? | 'My sister, my bride'; cf. Inanna-Dumuzi love songs"
+    - "Esth 2:7 | language? | Esther possibly from Ishtar, or from Persian 'star'"
+  related: [descent-of-inanna-ishtar, ishtar-gate, queen-of-heaven, tammuz, astarte, sumerian-love-songs, neo-assyrian-prophecies, burney-relief]
+  wikipedia: Inanna
+  image: Ishtar Akkadian cylinder seal
+  author_notes:
+    - Treat Ishtar and Astarte as cognate but distinct; first-millennium Levantine syncretism is plausible but should not be assumed.
+    - The Neo-Assyrian prophecies to Esarhaddon from Ishtar of Arbela are the strongest formal parallel to Deutero-Isaiah's salvation oracles.
+    - Love-song parallels to the Song of Songs are typological; avoid the older cultic-mythological (sacred-marriage) reading of the Song as consensus.
+    - Correct the "temple prostitution" stereotype; Herodotus 1.199 and related claims are widely doubted.
+  sources_to_check:
+    - SAA 9
+    - DDD, s.v. "Ishtar"
+
+- id: hadad-rimmon
+  aliases: [Hadad, Adad, Addu, Rimmon, Ramman]
+  cultures: [aramean, assyrian, ugaritic]
+  scope: >-
+    Hadad (Akkadian Adad, Addu), the storm god of Syria and Mesopotamia, chief god of
+    the Aramean kingdoms and especially Damascus, where he was called Rimmon
+    (Akkadian Rammānu, "thunderer"). The entry covers the god, his iconography, and
+    Hadad and Rimmon names in the Bible.
+  passages:
+    - "2Kgs 5:18 | attests | The temple of Rimmon in Damascus, where Naaman's master worships"
+    - "1Kgs 15:18 | language | Ben-hadad son of Tabrimmon: Hadad and Rimmon names in Damascus"
+    - "2Sam 8:3 | language | Hadadezer, 'Hadad is help', king of Zobah"
+    - "1Kgs 20:23 | concept | Arameans claim Israel's gods are 'gods of the hills'"
+    - "2Chr 28:23 | practice | Ahaz sacrifices to the gods of Damascus"
+    - "Zech 12:11 | practice? | Mourning for Hadad-rimmon in the plain of Megiddo (deity or place)"
+  related: [baal, damascus, arameans, ben-hadad, tell-fekheriye-statue, melqart-stele, baal-with-thunderbolt, tammuz]
+  wikipedia: Hadad
+  image: Adad storm god stele bull
+  author_notes:
+    - Rimmon is the Akkadian epithet Rammānu, vocalized in Hebrew to resemble rimmôn "pomegranate"; explain the pun.
+    - 'Zech 12:11 is debated: a lament for a dying god (Hadad-rimmon), a place name near Megiddo, or the mourning for Josiah; do not settle it.'
+    - The Tell Fekheriye statue (Hadad of Sikan) and Zincirli Hadad statue are key inscriptional sources; Ugaritic Baal is Hadad under another title.
+  sources_to_check:
+    - D. Schwemer, Die Wettergottgestalten Mesopotamiens und Nordsyriens (2001)
+    - DDD, s.v. "Hadad"; "Rimmon"
+
+- id: baal-zebub
+  aliases: [Beelzebul, Beelzebub, Baal-zebul]
+  cultures: [philistine, ugaritic, jewish]
+  scope: >-
+    Baal-zebub, the god of Ekron consulted by King Ahaziah, and Beelzebul, the
+    "ruler of demons" in the Gospels. The entry covers the name's form and meaning
+    and its development into a name for Satan.
+  passages:
+    - "2Kgs 1:2-3, 6, 16 | attests | Ahaziah sends to inquire of Baal-zebub, god of Ekron"
+    - "Matt 12:24-27 | language | Jesus accused of casting out demons by Beelzebul"
+    - "Mark 3:22 | language | Beelzebul as ruler of demons"
+    - "Luke 11:15-19 | language | Beelzebul controversy"
+    - "Matt 10:25 | language | Master of the house called Beelzebul"
+    - "1Kgs 8:13 | language | bêt zəbul 'exalted house', showing the root zbl"
+  related: [ekron, ekron-royal-dedicatory-inscription, baal, philistines, demons, divination, satan-the-adversary]
+  wikipedia: Beelzebub
+  image: null
+  author_notes:
+    - The majority view is that the original was Baal-zebul "Baal the Prince/Exalted" (cf. Ugaritic zbl bʿl), deformed into "lord of flies"; some defend a genuine "lord of flies" (an oracular or healing deity; LXX Baal muian).
+    - The NT form Beelzebul preserves -l and may reflect wordplay with zəbul "dwelling" (Matt 10:25) or zebel "dung"; present options.
+    - No extrabiblical attestation of Baal-zebub at Ekron exists; the Ekron inscription names the goddess PTGYH.
+  sources_to_check:
+    - DDD, s.v. "Baal-zebub"
+
+- id: baal-peor
+  aliases: [Baal of Peor]
+  cultures: [moabite]
+  scope: >-
+    Baal of Peor, the local god of a Transjordanian site in Moab whose worship by
+    Israelites at Shittim is narrated in Num 25 and became a paradigmatic memory of
+    apostasy.
+  passages:
+    - "Num 25:1-9 | event | Israel 'yokes itself' to Baal of Peor; sacrifices, sexual transgression and plague"
+    - "Num 31:16 | concept | Balaam blamed for the Peor apostasy"
+    - "Deut 4:3 | concept | Those who followed Baal of Peor destroyed"
+    - "Ps 106:28-31 | practice? | Ate 'sacrifices of the dead' at Baal of Peor"
+    - "Hos 9:10 | polemic | Israel consecrated itself to 'the shame' at Baal-peor"
+    - "1Cor 10:8 | concept | Paul recalls the Peor plague (23,000; Num 25:9 has 24,000)"
+  related: [marzeah, care-for-the-dead, midianites-and-kenites, moabites, deir-alla-inscription]
+  wikipedia: Baal-peor
+  image: null
+  author_notes:
+    - The phrase "sacrifices of the dead" (Ps 106:28) has been read as offerings to lifeless gods or as a funerary cult; rabbinic tradition (Sifre Num 131) links Peor with the marzeaḥ. Present the debate.
+    - Num 25 combines Moabite and Midianite strands; flag the composite text.
+    - There is no extrabiblical attestation of a "Baal of Peor"; the name is a local manifestation of Baal at Peor/Beth-peor.
+  sources_to_check:
+    - DDD, s.v. "Baal-peor"
+
+- id: baal-berith
+  aliases: [El-berith, Baal of the Covenant]
+  cultures: [canaanite, israelite]
+  scope: >-
+    Baal-berith ("Lord of the covenant"), also El-berith, the god of Shechem whose
+    temple funded Abimelech's rise and served as the citizens' stronghold in Judges 9.
+  passages:
+    - "Judg 8:33 | attests | Israel makes Baal-berith its god after Gideon's death"
+    - "Judg 9:4 | attests | Seventy shekels from the house of Baal-berith fund Abimelech"
+    - "Judg 9:46 | attests | Stronghold of the temple of El-berith at Shechem"
+    - "Judg 9:27 | practice | Vintage festival in the house of their god at Shechem"
+    - "Josh 24:25-27 | concept | Covenant-making at Shechem with a standing stone"
+    - "Gen 33:18-20 | language | Jacob's altar El-Elohe-Israel at Shechem"
+  related: [shechem, covenant-and-treaty-form, oaths-and-oath-formulas, el, baal]
+  wikipedia: Baal Berith
+  image: null
+  author_notes:
+    - Debate whether "berith" names a treaty-guaranteeing deity of a Shechemite league (Clements), whether El- and Baal- forms are variants of one god, and how this relates to Israelite covenant traditions at Shechem (T. J. Lewis, JBL 115, 1996).
+    - The identification of the temple with the Middle and Late Bronze "fortress temple" (migdal) excavated at Shechem is common but debated.
+  sources_to_check:
+    - T. J. Lewis, "The Identity and Function of El/Baal Berith," JBL 115 (1996)
+    - DDD, s.v. "Baal-berith"
+
+- id: gods-of-2-kings-17
+  aliases: [Succoth-benoth, Nergal, Ashima, Nibhaz, Tartak, Adrammelech, Anammelech]
+  cultures: [assyrian, babylonian, aramean]
+  scope: >-
+    The deities of the peoples Assyria resettled in Samaria after 722 BCE, as listed
+    in 2 Kgs 17:29-31: Succoth-benoth, Nergal, Ashima, Nibhaz, Tartak, Adrammelech and
+    Anammelech. The entry covers the identification of each and the polemical purpose
+    of the list.
+  passages:
+    - "2Kgs 17:24 | event | Assyrian resettlement of Babylon, Cuthah, Avva, Hamath and Sepharvaim in Samaria"
+    - "2Kgs 17:29-31 | attests | Each nation makes its own gods; Sepharvaites burn children"
+    - "2Kgs 17:32-41 | polemic | Settlers fear YHWH yet serve their own gods"
+    - "Amos 8:14 | language? | 'Ashimah of Samaria' (MT ʾašmat, 'guilt')"
+    - "Ezra 4:2, 9-10 | event | Samarian settlers trace their deportation to Esarhaddon and Osnappar"
+    - "2Kgs 18:34 | setting | Sepharvaim, Hena and Ivvah among cities conquered by Assyria"
+  related: [samaritan-origins, fall-of-samaria, deportation, sargon-ii-inscriptions, child-sacrifice, molek, hamath, elephantine-papyri]
+  wikipedia: null
+  image: null
+  author_notes:
+    - Only Nergal of Cuthah is securely identified; Succoth-benoth (perhaps Zarpanitu or a garbled term), Ashima (cf. Ashim-Bethel at Elephantine), Nibhaz, Tartak and Adrammelech/Anammelech (perhaps Adad-milki/Anu-milki or Attar-malk) are uncertain.
+    - Sepharvaim's location (Sippar vs. Sibraim in Syria, Ezek 47:16) is debated.
+    - Assyrian inscriptions of Sargon II confirm deportations into Samaria; the list's anti-Samaritan function in the Deuteronomistic History should be noted.
+    - Adrammelech the god should be distinguished from Sennacherib's son Adrammelech (2 Kgs 19:37).
+  sources_to_check:
+    - M. Cogan and H. Tadmor, II Kings (AB 11, 1988)
+    - DDD, s.v. "Nergal"; "Ashima"; "Adrammelech"
+
+- id: sakkut-and-kaiwan
+  aliases: [Sakkuth, Kaiwan, Kiyyun, Chiun, Rephan]
+  cultures: [assyrian, babylonian, israelite]
+  scope: >-
+    Sakkuth and Kaiwan, astral deities named in Amos 5:26, generally identified with
+    Mesopotamian SAG.KUD (an epithet of Ninurta) and kayyamānu, the planet Saturn.
+    The entry covers the identifications, the textual tradition (MT, LXX, Acts, CD) and
+    the date of the verse.
+  passages:
+    - "Amos 5:26 | language | 'Sakkuth your king and Kaiwan your star-god', vocalized after šiqqûṣ"
+    - "Amos 5:25-27 | polemic | Images carried into exile 'beyond Damascus'"
+    - "Acts 7:42-43 | language | Stephen quotes LXX: 'tent of Moloch and the star of Rephan'"
+  related: [host-of-heaven, astrology, constellations, gods-of-2-kings-17, septuagint, dead-sea-scrolls]
+  wikipedia: null
+  image: null
+  author_notes:
+    - The MT vowels follow šiqqûṣ ("abomination"); the reconstructed forms Sakkut and Kaiwan are widely accepted.
+    - Many scholars take v. 26 as a post-722 addition reflecting Assyrian-period cults (cf. 2 Kgs 17:30); others defend it as Amos's own.
+    - LXX "Rephan" arises from a misreading of k as r; the Damascus Document (CD VII 14-21) reinterprets the verse as the "booth of the king" and the books of the Torah.
+  sources_to_check:
+    - S. M. Paul, Amos (Hermeneia, 1991)
+    - DDD, s.v. "Sakkuth"; "Kaiwan"
+
+- id: lilith
+  aliases: [lîlît, lilītu]
+  cultures: [mesopotamian, judahite, jewish]
+  scope: >-
+    Lilith, a female night demon named once in the Hebrew Bible (Isa 34:14), derived
+    from the Mesopotamian lilû/lilītu wind-demons, and prominent in later Jewish magic
+    and legend. The entry covers the ancient evidence and distinguishes it from
+    medieval developments.
+  passages:
+    - "Isa 34:14 | language | Lilith rests among the ruins of Edom with wild creatures and goat-demons"
+    - "Isa 13:21-22 | imagery | Goat-demons and desert creatures haunting ruined Babylon"
+  related: [demons, lamashtu-pazuzu-amulets, burney-relief, amulets, dead-sea-scrolls]
+  wikipedia: Lilith
+  image: Aramaic incantation bowl Lilith
+  author_notes:
+    - Correct the misconception that the Bible presents Lilith as Adam's first wife; this comes from the medieval Alphabet of Ben Sira.
+    - Identification of the Burney Relief figure and of the ki-sikil-lil-la in the Sumerian Gilgamesh-Huluppu tale with Lilith is disputed.
+    - Qumran Songs of the Sage (4Q510-511) list lilin among demons; later Aramaic incantation bowls depict Lilith.
+    - Translations vary (KJV "screech owl"); explain the lexical history.
+  sources_to_check:
+    - DDD, s.v. "Lilith"
+
+- id: demons
+  aliases: [evil spirits, šēdîm, śəʿîrîm]
+  cultures: [ane, mesopotamian, hebrew, jewish]
+  scope: >-
+    Demons and harmful spirits in the ancient Near East and the Hebrew Bible:
+    Mesopotamian demons and anti-demonic ritual, the šēdîm and śəʿîrîm of the Bible,
+    demoted deities of plague, and evil spirits sent by God. The entry stops before
+    the developed demonology of the New Testament period, noting it only in outline.
+  passages:
+    - "Lev 17:7 | practice | Sacrifices to goat-demons (śəʿîrîm) prohibited"
+    - "Deut 32:17 | polemic | Sacrifices to šēdîm, not God; cf. Akkadian šēdu"
+    - "Ps 106:37 | polemic | Sons and daughters sacrificed to šēdîm"
+    - "Ps 91:5-6 | concept | Terror of the night, arrow by day, Deber and Qeteb at noon"
+    - "Lev 16:8-10 | practice | Goat sent to Azazel in the wilderness"
+    - "1Sam 16:14-23 | concept | An evil spirit from YHWH torments Saul; music as remedy"
+    - "Isa 13:21 | imagery | Goat-demons dance among ruins"
+    - "Tob 3:8 | concept | The demon Asmodeus kills Sarah's husbands"
+    - "Mark 5:1-20 | concept | Exorcism of the Gerasene demoniac"
+  related: [lamashtu-pazuzu-amulets, day-of-atonement-elimination, maqlu, amulets, lilith, resheph, satan-the-adversary, hittite-elimination-rituals]
+  wikipedia: null
+  image: Pazuzu statuette Louvre
+  author_notes:
+    - The Hebrew Bible has little systematic demonology; harmful powers are usually subordinate to YHWH (1 Sam 16:14). Avoid reading later demonology back into it.
+    - Mesopotamian evidence (Udug-hul incantations, Lamashtu and Pazuzu, Maqlû) offers the richest comparison; distinguish demons from protective spirits (šēdu/lamassu can be benevolent).
+    - Azazel's identity (demon, place, "complete removal") is debated; link to elimination rites.
+    - Several biblical terms (Deber, Qeteb, Resheph, Lilith) are demoted deities or demons; treat individually.
+  sources_to_check:
+    - 'M. J. Geller, Evil Demons: Canonical Utukkū Lemnūtu Incantations (2007)'
+    - F. A. M. Wiggermann, Mesopotamian Protective Spirits (1992)
+    - DDD, s.v. "Azazel"; "Deber"; "Qeteb"
+
+- id: yhwh-origins
+  aliases: [origins of Yahweh, Kenite hypothesis, Midianite hypothesis]
+  cultures: [hebrew, egyptian, arabian, edomite]
+  scope: >-
+    The historical origins of the worship of YHWH: the earliest extrabiblical
+    attestations, biblical traditions of a southern homeland (Sinai, Seir, Edom, Teman,
+    Midian), the Midianite-Kenite hypothesis, and YHWH's relationship to El. The entry
+    covers critical debate without endorsing any one reconstruction.
+  passages:
+    - "Exod 3:13-15 | concept | Revelation of the divine name at Horeb in Midian"
+    - "Exod 6:2-3 | concept | YHWH unknown by name to the ancestors, who knew El Shaddai"
+    - "Deut 33:2 | concept | YHWH comes from Sinai, Seir and Mount Paran"
+    - "Judg 5:4-5 | concept | YHWH marches from Seir and Edom; 'the One of Sinai'"
+    - "Hab 3:3, 7 | concept | God comes from Teman and Paran; Cushan and Midian tremble"
+    - "Ps 68:7-8 | concept | God of Sinai marches through the wilderness (MT 68:8-9)"
+    - "Exod 18:1-12 | concept | Jethro, priest of Midian, sacrifices and blesses YHWH"
+    - "Judg 1:16; 4:11 | attests | Kenites as kin of Moses' father-in-law"
+    - "Gen 4:26 | concept | People begin to call on YHWH's name in primeval times (non-P)"
+  related: [soleb-shasu-inscription, shasu, midianites-and-kenites, kuntillet-ajrud-inscriptions, el, qos, mesha-stele, divine-warrior]
+  wikipedia: Yahweh
+  image: Soleb temple Shasu of Yhw inscription
+  author_notes:
+    - The earliest possible attestation is the Egyptian toponym "land of the Shasu of Yhw(3)" at Soleb (Amenhotep III) and Amarah West (Ramesses II); its link to the divine name is widely but not universally accepted.
+    - Present the Midianite-Kenite hypothesis as influential but debated (Blenkinsopp 2008); recent reconstructions (Römer, Lewis) differ on the southern origin.
+    - Kuntillet ʿAjrud's "YHWH of Teman" supports southern associations; the Mesha Stele (9th c.) is the earliest secure mention of YHWH.
+    - Flag as fringe or discredited the claims of YHWH at Ebla (ya- names) or in Ugaritic yw (KTU 1.1 IV 14).
+  sources_to_check:
+    - J. Blenkinsopp, "The Midianite-Kenite Hypothesis Revisited," JSOT 33 (2008)
+    - T. Römer, The Invention of God (2015)
+    - T. J. Lewis, The Origin and Character of God (2020)
+    - DDD, s.v. "Yahweh"
+
+- id: divine-council
+  aliases: [heavenly council, assembly of the gods, sôd YHWH]
+  cultures: [ane, ugaritic, mesopotamian, hebrew]
+  scope: >-
+    The assembly of the gods presided over by the high god, attested in Mesopotamian,
+    Ugaritic, Phoenician and Aramaic sources, and in the Hebrew Bible as YHWH's
+    heavenly court of "sons of God", "holy ones" and the host of heaven, to which
+    prophets claim access.
+  passages:
+    - "Ps 82 | concept | God judges and condemns the gods in 'the council of El'"
+    - "1Kgs 22:19-23 | concept | Micaiah sees YHWH enthroned with the host; a spirit volunteers"
+    - "Job 1:6-12 | concept | The sons of God present themselves; the satan among them"
+    - "Isa 6:1-8 | concept | Throne vision; 'Who will go for us?'"
+    - "Isa 40:1-8 | concept | Plural commands to the heavenly court (Cross)"
+    - "Jer 23:18, 22 | concept | True prophets have stood in YHWH's council (sôd)"
+    - "Ps 89:5-7 | concept | 'Assembly of the holy ones', incomparability among heavenly beings (MT 89:6-8)"
+    - "Gen 1:26; 3:22; 11:7 | concept? | Divine plurals: 'let us make', 'like one of us', 'let us go down'"
+    - "Zech 3:1-7 | concept | Heavenly court scene with the accuser"
+    - "Deut 32:8-9 | concept | Nations allotted to the sons of God (4QDeutj, LXX)"
+  related: [sons-of-god, el, elyon, 4qdeut-j, satan-the-adversary, prophecy-in-the-ane, deir-alla-inscription, enuma-elish]
+  wikipedia: Divine council
+  image: null
+  author_notes:
+    - Ugaritic terms include phr ilm, ʿdt ilm (KTU 1.15 II) and dr bn il; Mesopotamian puḫrum appears in Enuma Elish and Atrahasis; the Deir ʿAlla text has the šdyn assembling.
+    - The Gen 1:26 plural is variously explained (council, plural of majesty, deliberation); council is a common critical view but not unanimous.
+    - On Ps 82, note the older reading of the "gods" as human judges (and John 10:34-36) versus the now-dominant mythological reading.
+    - Avoid popular maximalist "divine council worldview" readings that systematize all supernatural references into one framework; stay with mainstream scholarship (Mullen, Smith, Handy).
+  sources_to_check:
+    - E. T. Mullen, The Assembly of the Gods (HSM 24, 1980)
+    - F. M. Cross, "The Council of Yahweh in Second Isaiah," JNES 12 (1953)
+    - L. K. Handy, Among the Host of Heaven (1994)
+
+- id: sons-of-god
+  aliases: [bene elohim, bene elim, sons of the gods]
+  cultures: [hebrew, ugaritic, jewish]
+  scope: >-
+    The "sons of God/gods" (bənê ʾĕlōhîm, bənê ʾēlîm, bənê ʿelyôn), members of the
+    divine council, and their reception in Second Temple interpretation of Gen 6:1-4
+    as fallen angels (the Watchers).
+  passages:
+    - "Gen 6:1-4 | concept | Sons of God take human wives; Nephilim on the earth"
+    - "Job 1:6; 2:1 | concept | Sons of God present themselves before YHWH"
+    - "Job 38:7 | concept | Sons of God shout for joy at creation, parallel to morning stars"
+    - "Deut 32:8 | concept | 4QDeutj 'sons of God'; LXX 'angels/sons of God'; MT 'sons of Israel'"
+    - "Ps 29:1 | concept | Bənê ʾēlîm summoned to ascribe glory to YHWH"
+    - "Ps 89:6 | concept | None among the bənê ʾēlîm is like YHWH (MT 89:7)"
+    - "Ps 82:6 | concept | 'Sons of Elyon' sentenced to die like mortals"
+    - "Dan 3:25 | concept | Fourth figure in the furnace 'like a son of gods'"
+    - "1En 6:1-7:6 | concept | Watchers descend and beget giants"
+    - "Jude 6 | concept | Angels who left their proper dwelling kept in chains"
+  related: [divine-council, nephilim, 4qdeut-j, first-enoch, el, elyon, king-as-son-of-god]
+  wikipedia: Sons of God
+  image: null
+  author_notes:
+    - Ugaritic bn il/bn ilm and the seventy sons of Athirat provide the closest background; mainstream critical scholarship reads Gen 6:1-4 of divine beings.
+    - 'Survey the reception history: angels (1 Enoch, Jubilees, Jude, 2 Pet 2:4), human rulers or nobles (targums, rabbis), Sethites (later Christian).'
+    - The text-critical case for "sons of God" in Deut 32:8 is now widely accepted.
+    - Exclude sensational modern readings (alien or hybrid-genetics theories) except as misconceptions.
+  sources_to_check:
+    - 'R. S. Hendel, "Of Demigods and the Deluge: Toward an Interpretation of Genesis 6:1-4," JBL 106 (1987)'
+    - DDD, s.v. "Sons of (the) God(s)"
+
+- id: satan-the-adversary
+  aliases: [haśśāṭān, the accuser]
+  cultures: [hebrew, persian, jewish]
+  scope: >-
+    The śāṭān ("adversary, accuser") in the Hebrew Bible, from human opponents to the
+    heavenly "satan" of Job and Zechariah, and the emergence of Satan as a proper name
+    and chief of evil powers in the Persian and Hellenistic periods.
+  passages:
+    - "Job 1:6-12; 2:1-7 | concept | 'The satan' among the sons of God tests Job with permission"
+    - "Zech 3:1-2 | concept | The satan accuses the high priest Joshua"
+    - "1Chr 21:1 | concept | Satan (or 'an adversary') incites David; cf. 2 Sam 24:1 (YHWH)"
+    - "Num 22:22, 32 | language | YHWH's angel stands as a śāṭān to block Balaam"
+    - "1Kgs 11:14, 23, 25 | language | Hadad and Rezon raised up as political adversaries"
+    - "1Sam 29:4 | language | David as a potential śāṭān in battle"
+    - "Ps 109:6 | practice | Accuser at the right hand in a legal setting"
+    - "Wis 2:24 | concept | Death entered through the devil's envy; first link to Gen 3"
+  related: [divine-council, sons-of-god, angel-of-yhwh, demons, zoroastrianism, persia]
+  wikipedia: Satan
+  image: null
+  author_notes:
+    - In Job and Zechariah haśśāṭān has the article and denotes a role in the heavenly court, not a proper name; 1 Chr 21:1 (no article) is debated as the first proper-name use.
+    - The Persian "eyes of the king" informer model (Oppenheim) and Zoroastrian dualism as influences are debated; present them as hypotheses.
+    - Correct the misconceptions that the Gen 3 serpent or Isa 14:12 and Ezek 28 refer to Satan in their original contexts.
+  sources_to_check:
+    - 'P. L. Day, An Adversary in Heaven: śāṭān in the Hebrew Bible (HSM 43, 1988)'
+    - 'R. E. Stokes, The Satan: How God''s Executioner Became the Enemy (2019)'
+    - DDD, s.v. "Satan"
+
+- id: angel-of-yhwh
+  aliases: [Angel of the Lord, malʾak YHWH, divine messengers]
+  cultures: [hebrew, ugaritic, ane]
+  scope: >-
+    Divine messengers in the ancient Near East and the Hebrew Bible, and in
+    particular the "angel (messenger) of YHWH", whose identity often merges with YHWH
+    in the narratives. The entry covers ANE messenger conventions and the main
+    interpretive models.
+  passages:
+    - "Gen 16:7-13 | concept | The angel speaks to Hagar, who names 'the God who sees'"
+    - "Gen 22:11-18 | concept | The angel calls from heaven, speaking as YHWH"
+    - "Gen 31:11-13 | concept | The angel of God says 'I am the God of Bethel'"
+    - "Exod 3:2-6 | concept | The angel appears in the bush; God speaks from it"
+    - "Exod 23:20-23 | concept | Angel sent before Israel; 'my name is in him'"
+    - "Judg 6:11-24 | concept | The angel commissions Gideon; fear of having seen God"
+    - "Judg 13:3-23 | concept | Annunciation to Manoah's wife; the angel's wondrous name"
+    - "Gen 19:1 | form | Two messengers; cf. paired divine messengers at Ugarit"
+    - "Hag 1:13 | language | Prophet called 'the messenger of YHWH'"
+  related: [divine-council, name-theology, letter-writing-conventions, prophecy-in-the-ane, cherubim, sons-of-god]
+  wikipedia: Angel of the Lord
+  image: null
+  author_notes:
+    - 'Present the main models for the angel-YHWH fluidity: representation or agency (the messenger speaks in the sender''s voice), interpolation (angel added to earlier theophanies), and hypostasis; avoid later christological identifications as historical exegesis.'
+    - Ugaritic and Mesopotamian messengers (often paired, e.g. Gapn and Ugar) deliver messages verbatim in the first person of the sender, a key analogy.
+    - Distinguish malʾāk "messenger" (human or divine) from later angelology with names and ranks (Daniel, Tobit, 1 Enoch).
+  sources_to_check:
+    - S. A. Meier, The Messenger in the Ancient Semitic World (HSM 45, 1988)
+    - DDD, s.v. "Angel of Yahweh"
+
+- id: cherubim
+  aliases: [cherub, kərûbîm]
+  cultures: [hebrew, phoenician, assyrian]
+  scope: >-
+    The cherubim, winged composite guardian creatures of the Hebrew Bible who guard
+    Eden, flank the ark, bear YHWH's throne and decorate the sanctuary. The entry
+    covers their ANE iconographic background in winged sphinxes and guardian figures.
+  passages:
+    - "Gen 3:24 | concept | Cherubim and flaming sword guard the way to the tree of life"
+    - "Exod 25:18-22 | realia | Two golden cherubim over the mercy seat"
+    - "1Kgs 6:23-28 | realia | Two olivewood cherubim ten cubits high in the inner sanctuary"
+    - "1Sam 4:4 | imagery | YHWH 'enthroned on the cherubim'"
+    - "Ps 18:10 | imagery | YHWH rides on a cherub and flies (MT 18:11; 2 Sam 22:11)"
+    - "Ezek 1:5-14 | imagery | Four living creatures with four faces and wings"
+    - "Ezek 10:1-22 | imagery | Living creatures identified as cherubim beneath the throne-chariot"
+    - "Ezek 28:14-16 | concept | Guardian cherub on the holy mountain of God"
+    - "Ezek 41:18-20 | realia | Carved cherubim with human and lion faces alternating with palms"
+  related: [cherub-throne, lamassu, ahiram-sarcophagus, samaria-ivories, ark-of-the-covenant, ezekiel-throne-chariot, garden-of-god, seraphim]
+  wikipedia: Cherub
+  image: Phoenician ivory winged sphinx
+  author_notes:
+    - Mainstream view identifies the cherub with the Levantine winged sphinx (lion body, human head, wings), as on the Ahiram sarcophagus throne and Megiddo and Samaria ivories.
+    - Etymology from Akkadian kāribu/kurību (intercessory genius) is common but debated.
+    - Correct the later image of cherubs as winged infants (Renaissance putti).
+    - Ezekiel's cherubim combine several iconographic types (Assyrian lamassu, four-winged genii, atlas figures); see the throne-chariot entry.
+  sources_to_check:
+    - O. Keel and C. Uehlinger, Gods, Goddesses, and Images of God in Ancient Israel (1998)
+    - 'A. Wood, Of Wings and Wheels: A Synthetic Study of the Biblical Cherubim (BZAW 385, 2008)'
+    - DDD, s.v. "Cherubim"
+
+- id: seraphim
+  aliases: [seraph, śərāpîm]
+  cultures: [judahite, egyptian]
+  scope: >-
+    The seraphim (from śrp "burn"), the six-winged attendants of Isaiah's throne
+    vision, and the "fiery serpents" (śərāpîm) of the wilderness and prophetic oracles.
+    The entry covers their background in the Egyptian winged uraeus as adopted in
+    Iron Age Judahite iconography.
+  passages:
+    - "Isa 6:2-7 | imagery | Six-winged seraphim proclaim holiness; one touches Isaiah's lips with a coal"
+    - "Num 21:6-9 | imagery | Fiery serpents (śərāpîm) bite Israel; Moses makes a śārāp on a pole"
+    - "Deut 8:15 | imagery | Wilderness of fiery serpents and scorpions"
+    - "Isa 14:29 | imagery | A 'flying fiery serpent' (śārāp məʿôpēp)"
+    - "Isa 30:6 | imagery | Viper and flying seraph in the Negeb"
+  related: [nehushtan, cherubim, divine-council, seals-and-bullae, divine-wings, ezekiel-throne-chariot]
+  wikipedia: Seraph
+  image: winged uraeus Hebrew seal
+  author_notes:
+    - The serpent identification is the dominant critical view (Keel; Joines), based on śārāp as serpent elsewhere and on four-winged uraei on 8th-century Judahite and Israelite seals; some prefer a non-serpentine burning being.
+    - The uraeus's protective, fire-spitting role and its covering wings help explain the seraphim covering face and feet.
+    - Do not overstate Egyptian influence as direct borrowing; the motif came through Phoenician and Levantine mediation.
+  sources_to_check:
+    - O. Keel, Jahwe-Visionen und Siegelkunst (SBS 84/85, 1977)
+    - DDD, s.v. "Seraphim"
+
+- id: nehushtan
+  aliases: [bronze serpent, copper serpent]
+  cultures: [judahite, egyptian, arabian]
+  scope: >-
+    The bronze serpent made by Moses according to Num 21 and destroyed by Hezekiah
+    as the cult object Nehushtan, together with the archaeological corpus of copper
+    and bronze serpents from Bronze and Iron Age sanctuaries in the southern Levant.
+  passages:
+    - "Num 21:4-9 | realia | Moses makes a bronze serpent on a pole that heals the bitten"
+    - "2Kgs 18:4 | realia | Hezekiah breaks the bronze serpent 'called Nehushtan' that received offerings"
+    - "Wis 16:5-7 | concept | The serpent as a 'symbol of salvation', healing by God not the object"
+    - "John 3:14-15 | imagery | The Son of Man lifted up like the serpent in the wilderness"
+  related: [seraphim, timna, hezekiah, cult-reforms-archaeology, midianites-and-kenites, copper-production, cult-images]
+  wikipedia: Nehushtan
+  image: Timna copper snake
+  author_notes:
+    - The gilded copper snake from the Timna shrine (Rothenberg's Midianite phase) is the most cited parallel, alongside bronze serpents from Megiddo, Hazor and Gezer; note Midianite associations with the Num 21 setting.
+    - Note the wordplay nəḥaš nəḥōšet; whether "Nehushtan" was the cult name or Hezekiah's dismissive label is debated.
+    - Many scholars read Num 21:4-9 as an etiology legitimating a Jerusalem cult object; present this alongside the narrative's own claim.
+    - The historicity of Hezekiah's reform is debated archaeologically; link to the cult-reform entry.
+  sources_to_check:
+    - K. R. Joines, "The Bronze Serpent in the Israelite Cult," JBL 87 (1968)
+    - 'B. Rothenberg, Timna: Valley of the Biblical Copper Mines (1972)'
+    - DDD, s.v. "Nehushtan"
+
+- id: leviathan
+  aliases: [Litan, Lotan, Liwyatan]
+  cultures: [ugaritic, hebrew, jewish]
+  scope: >-
+    Leviathan, the multi-headed sea serpent defeated or tamed by YHWH, cognate with
+    Ugaritic Litan, the "fleeing, twisting serpent with seven heads" defeated by Baal
+    and Anat. The entry traces the figure from Ugarit through the Hebrew Bible to
+    apocalyptic literature.
+  passages:
+    - "Isa 27:1 | parallel | Leviathan the fleeing, twisting serpent; nearly verbatim with KTU 1.5 I 1-3"
+    - "Ps 74:14 | imagery | YHWH crushes the heads of Leviathan"
+    - "Job 3:8 | imagery | Those skilled to rouse Leviathan, invoked to curse a day"
+    - "Job 41:1-34 | imagery | Leviathan as untameable creature, king over the proud (MT 40:25-41:26)"
+    - "Ps 104:26 | polemic? | Leviathan formed to play in the sea"
+    - "1En 60:7-9 | concept | Leviathan, female, in the depths of the sea; Behemoth on land"
+    - "2Esd 6:49-52 | concept | Behemoth and Leviathan created and kept as food (4 Ezra)"
+    - "Rev 12:3; 13:1 | imagery | Seven-headed dragon and beast from the sea"
+  related: [baal-cycle, chaoskampf, tannin, rahab-sea-monster, behemoth, yam, first-enoch]
+  wikipedia: Leviathan
+  image: Seven-headed dragon Akkadian cylinder seal
+  author_notes:
+    - The Isa 27:1 / KTU 1.5 I 1-3 correspondence is among the closest verbal parallels between Ugaritic and Hebrew; Ugaritic ltn is now usually vocalized Litan (not Lotan).
+    - Seven-headed dragons appear in Mesopotamian art from the third millennium (e.g. Tell Asmar seal); this and Ps 74's plural "heads" bear on Rev 12-13.
+    - Whether Job 41 describes a mythic creature or a crocodile is debated; the trend is toward a mythic reading informed by Egyptian royal hunt imagery.
+    - Ps 104:26 may domesticate the monster as a creature YHWH plays with; note the ambiguity of "to play with it".
+  sources_to_check:
+    - KTU 1.3 III; 1.5 I
+    - J. Day, God's Conflict with the Dragon and the Sea (1985)
+    - DDD, s.v. "Leviathan"
+
+- id: rahab-sea-monster
+  aliases: [Rahab (monster)]
+  cultures: [hebrew]
+  scope: >-
+    Rahab ("boisterous, arrogant one"), a primordial sea monster defeated by YHWH in
+    Hebrew poetry and used as a sobriquet for Egypt. The name is not attested outside
+    the Bible and is unrelated to Rahab of Jericho.
+  passages:
+    - "Job 9:13 | imagery | 'The helpers of Rahab' bow beneath God"
+    - "Job 26:12 | imagery | By his understanding he struck down Rahab"
+    - "Ps 89:10 | imagery | YHWH crushed Rahab like a carcass (MT 89:11)"
+    - "Isa 51:9 | imagery | Arm of YHWH that cut Rahab in pieces and pierced the dragon"
+    - "Isa 30:7 | language | Egypt's help is vain; 'Rahab who sits still'"
+    - "Ps 87:4 | language | Rahab (Egypt) and Babylon among those who know YHWH"
+    - "Ps 40:4 | language? | rəhābîm 'the proud', possibly Rahab's allies (MT 40:5)"
+  related: [chaoskampf, leviathan, tannin, yam, tehom, enuma-elish]
+  wikipedia: Rahab (term)
+  image: null
+  author_notes:
+    - Distinguish Rahab (rahab) the monster from Rahab (rāḥāb) of Jericho; the spellings differ.
+    - Unlike Leviathan and Tannin, Rahab has no secure extrabiblical cognate; note this.
+    - Isa 51:9-10 fuses the defeat of Rahab with the Sea crossing, typical of the historicizing of combat myth.
+    - The text of Isa 30:7 is difficult; present emendations neutrally.
+  sources_to_check:
+    - J. Day, God's Conflict with the Dragon and the Sea (1985)
+    - DDD, s.v. "Rahab"
+
+- id: behemoth
+  cultures: [hebrew, jewish, egyptian]
+  scope: >-
+    Behemoth, the mighty land creature presented in God's second speech to Job, and
+    in later Jewish apocalyptic the land counterpart of Leviathan. The entry covers
+    natural (hippopotamus) and mythological interpretations.
+  passages:
+    - "Job 40:15-24 | imagery | Behemoth, 'first of the great acts of God', untameable by humans"
+    - "1En 60:7-9 | concept | Behemoth, male, in the desert of Dendain; Leviathan in the sea"
+    - "2Esd 6:49-52 | concept | Behemoth and Leviathan kept for the end-time (4 Ezra)"
+  related: [leviathan, chaoskampf, first-enoch, baal-cycle, egyptian-kingship, smiting-the-enemy-motif]
+  wikipedia: Behemoth
+  image: Horus harpooning hippopotamus relief Edfu
+  author_notes:
+    - The hippopotamus identification is traditional and still common; Keel's reading via Egyptian royal and Horus hippopotamus-hunt iconography (hippo as Seth) offers a bridge between natural and mythic readings.
+    - Some (Pope, Day) connect Behemoth with Ugaritic ʿgl il ʿtk ("El's calf Atik") among Baal's and Anat's defeated foes (KTU 1.3 III); this is disputed.
+    - The form is an intensive plural of bəhēmâ "beast"; Hebrew grammar, not a loanword, explains it.
+    - Correct popular claims that Behemoth is a dinosaur; this is a fringe reading.
+  sources_to_check:
+    - O. Keel, Jahwes Entgegnung an Ijob (FRLANT 121, 1978)
+    - J. Day, God's Conflict with the Dragon and the Sea (1985)
+    - DDD, s.v. "Behemoth"
+
+- id: tannin
+  aliases: [tannîn, tanninim, dragon, Tunnanu]
+  cultures: [hebrew, ugaritic]
+  scope: >-
+    Tannin (plural tanninim), the sea dragon or serpent of Hebrew poetry, cognate with
+    Ugaritic tnn, defeated by Baal and Anat. The term ranges from a mythic chaos
+    monster to created sea creatures and snakes, and is applied to Pharaoh and
+    Nebuchadnezzar.
+  passages:
+    - "Gen 1:21 | polemic | God creates the great tanninim as ordinary creatures"
+    - "Ps 74:13 | imagery | YHWH breaks the heads of the tanninim in the waters"
+    - "Isa 27:1 | imagery | YHWH kills the tannin in the sea"
+    - "Isa 51:9 | imagery | YHWH pierces the tannin"
+    - "Job 7:12 | imagery | 'Am I the Sea, or the Tannin?'"
+    - "Exod 7:9-12 | language | Aaron's staff becomes a tannin before Pharaoh"
+    - "Ezek 29:3; 32:2 | imagery | Pharaoh as the great tannin in the Nile"
+    - "Jer 51:34 | imagery | Nebuchadnezzar swallows Jerusalem like a tannin"
+    - "Neh 2:13 | language | 'Dragon's Spring' in Jerusalem"
+    - "Bel 23-27 | concept | Daniel kills the dragon venerated in Babylon"
+  related: [leviathan, rahab-sea-monster, chaoskampf, creation-accounts, yam, marduk, ishtar-gate]
+  wikipedia: Tannin (monster)
+  image: Mushhushshu dragon Ishtar Gate
+  author_notes:
+    - Ugaritic tnn appears among foes defeated by Anat and Baal (KTU 1.3 III) and as muzzled by a deity (KTU 1.83); give the cognate evidence.
+    - Gen 1:21's naming of the tanninim as created beings is widely read as demythologizing; avoid overstating it as explicit polemic.
+    - Ezek 29:3 MT tannîm is commonly read tannîn; note textual issues.
+    - LXX usually renders tannin as drakōn, the background for the dragon of Revelation and of Bel and the Dragon.
+  sources_to_check:
+    - J. Day, God's Conflict with the Dragon and the Sea (1985)
+    - DDD, s.v. "Tannin"
+
+- id: nephilim
+  aliases: [giants, gibborim, Anakim]
+  cultures: [hebrew, jewish]
+  scope: >-
+    The Nephilim of Gen 6:4 and Num 13:33 and related biblical traditions of giant
+    pre-Israelite peoples (Anakim, Emim, Zamzummim, Rephaim), together with their
+    expansion in Second Temple literature (Book of Watchers, Book of Giants).
+  passages:
+    - "Gen 6:4 | concept | Nephilim on earth when the sons of God fathered the gibborim"
+    - "Num 13:32-33 | concept | Spies report Nephilim; Anakim linked to them"
+    - "Deut 2:10-11, 20-21 | concept | Emim and Zamzummim as giant former inhabitants"
+    - "Deut 3:11 | concept | Og's nine-cubit iron/basalt bed"
+    - "Josh 11:21-22 | concept | Joshua cuts off the Anakim; survivors in Gaza, Gath and Ashdod"
+    - "1Sam 17:4 | concept | Goliath's height (MT six cubits; 4QSama and LXX four)"
+    - "Ezek 32:27 | concept? | Fallen warriors of old in Sheol (reading nōpəlîm with LXX)"
+    - "Sir 16:7 | concept | The ancient giants who revolted were not forgiven"
+    - "1En 7:1-6 | concept | Giants born of the Watchers devour humanity"
+    - "Jub 5:1-11 | concept | Watchers' offspring destroyed before the flood"
+  related: [sons-of-god, rephaim, first-enoch, enmeduranki-and-the-apkallu, gilgamesh-epic, champion-combat, jubilees, dead-sea-scrolls]
+  wikipedia: Nephilim
+  image: null
+  author_notes:
+    - The etymology from npl "fall" ("fallen ones") is uncertain; other proposals exist. Do not translate as "fallen angels".
+    - Num 13:33's identification of Anakim with Nephilim is often regarded as a gloss; Gen 6:4's "and also afterward" may also harmonize traditions.
+    - Comparative background includes Greek heroes/Titans (Hendel) and the Mesopotamian apkallu and Gilgamesh traditions, which the Qumran Book of Giants uses explicitly (Gilgamesh and Hobabish).
+    - Exclude sensational claims (giant skeletons, hybrid DNA, modern conspiracy readings) except to flag them as misconceptions.
+  sources_to_check:
+    - 'R. S. Hendel, "Of Demigods and the Deluge: Toward an Interpretation of Genesis 6:1-4," JBL 106 (1987)'
+    - L. T. Stuckenbruck, The Book of Giants from Qumran (TSAJ 63, 1997)
+    - B. R. Doak, The Last of the Rephaim (2012)
+    - DDD, s.v. "Nephilim"
+
+- id: shadday
+  aliases: [El Shaddai, Shaddai, the Almighty]
+  cultures: [hebrew]
+  scope: >-
+    The divine name or epithet Shadday, alone or as ʾēl šadday, used in the Priestly
+    patriarchal narratives, in archaic and archaizing poetry, and above all in Job. The entry
+    covers its distribution, the Priestly theory of revelation in Exod 6:3, the debated
+    etymology, and the šdyn gods of the Deir ʿAlla inscription.
+  passages:
+    - "Gen 17:1 | language | 'I am El Shaddai': divine self-presentation to Abraham in P"
+    - "Exod 6:3 | concept | The patriarchs knew God as El Shaddai, not by the name YHWH"
+    - "Gen 28:3; 35:11; 48:3 | language | El Shaddai in Priestly promises of fertility and descendants"
+    - "Gen 49:25 | language | Shadday and the 'blessings of the breasts (šādayim) and of the womb': wordplay"
+    - "Num 24:4, 16 | language | Balaam sees 'the vision of Shadday'; cf. the šdyn in the Deir ʿAlla text"
+    - "Ruth 1:20-21 | language | Shadday has dealt bitterly with Naomi"
+    - "Job 6:4 | language | 'Arrows of Shadday', one of some thirty uses in Job"
+    - "Ps 91:1 | language | Elyon and Shadday in parallel"
+    - "Isa 13:6 | language | 'Destruction from Shadday' (šōd miššadday) wordplay; repeated in Joel 1:15"
+    - "Ezek 10:5 | imagery | Sound of the cherubim's wings like the voice of El Shaddai; cf. 1:24"
+  related: [el, elyon, deir-alla-inscription, yhwh-origins, divine-council, amorites]
+  wikipedia: El Shaddai
+  image: null
+  author_notes:
+    - "Set out the etymologies neutrally: 'the one of the mountain(s)' (Akkadian šadû; Albright, Cross), 'the one of the field/steppe' (Hebrew śādeh), and links with šad 'breast' (fertility; cf. Gen 49:25). The mountain etymology is the most widely held but is not certain."
+    - "The translation 'Almighty' comes from the Septuagint (pantokratōr, mainly in Job) and the Vulgate (omnipotens), and from the rabbinic folk etymology še-day 'who is sufficient'. It is not the original sense."
+    - "Whether Shadday is genuinely archaic or deliberately archaizing (in P and Job) is debated. Note the personal names Shedeur, Zurishaddai and Ammishaddai (Num 1:5-12), which some date early."
+    - "The Deir ʿAlla plaster text (8th c.) has šdyn, a group of gods in council, alongside ʾlhn. This is the clearest extrabiblical evidence but does not settle the etymology."
+  sources_to_check:
+    - DDD, s.v. "Shadday"
+    - F. M. Cross, Canaanite Myth and Hebrew Epic (1973)
+    - "J. A. Hackett, The Balaam Text from Deir ʿAllā (HSM 31, 1984)"
+
+- id: athtar
+  aliases: [ʿAṯtar, Ashtar, Attar]
+  cultures: [ugaritic, arabian, moabite]
+  scope: >-
+    The West Semitic and South Arabian male deity ʿAṯtar, associated with the Venus star. In
+    the Ugaritic Baal Cycle he is made king after Baal's death but proves too small for Baal's
+    throne and comes down to rule the earth. The entry covers his Ugaritic, Moabite
+    (Ashtar-Chemosh) and South Arabian forms and the proposal that his myth lies behind the
+    fall of the "Day Star" in Isa 14.
+  passages:
+    - "Isa 14:12-15 | parallel? | Day Star, son of Dawn, aspires to the mount of assembly in Zaphon and is cast down; Athtar's failed enthronement compared"
+    - "Ezek 28:2-10 | parallel? | A ruler who claims to sit on the seat of the gods is brought down to the Pit"
+  related: [baal-cycle, astarte, ishtar, shahar-and-shalim, mesha-stele, chemosh, cosmic-mountain]
+  wikipedia: ʿAṯtar
+  image: null
+  author_notes:
+    - "The key Ugaritic passage is KTU 1.6 I 43-67: El and Athirat choose ʿAṯtar ʿrẓ ('the terrible'?), whose feet do not reach the footstool and whose head does not reach the top of Baal's throne; he descends and rules 'the earth'. In KTU 1.2 III he complains that he has no palace. Quote from a standard translation."
+    - "Linking Isa 14:12-15 to ʿAṯtar is one of several proposals (others include Helel and Shahar as Venus and Dawn, or Greek Phaethon). Present it as debated. H. R. Page (1996) traces a 'cosmic rebellion' myth through Ugaritic and biblical texts; note that this is a reconstruction."
+    - "ʿAṯtar is the male counterpart of Astarte (ʿAštart) and Mesopotamian Ishtar; keep the gender distinction clear. On the Mesha Stele (line 17) Mesha devotes Nebo's population to ʿštr kmš (Ashtar-Chemosh), probably a compound or a consort pairing; its meaning is debated."
+    - "In South Arabia ʿAṯtar was a leading god (often first in lists). Some scholars connect him with irrigation and rain; avoid building too much on later Arabic etymologies."
+  sources_to_check:
+    - COS 1.86
+    - DDD, s.v. "Athtar"
+    - "H. R. Page Jr., The Myth of Cosmic Rebellion (VTSup 65, 1996)"
+    - M. S. Smith, The Origins of Biblical Monotheism (2001)
+
+- id: azazel
+  aliases: [ʿĂzāʾzēl, Asael, scapegoat]
+  cultures: [hebrew, jewish]
+  scope: >-
+    The enigmatic recipient of the second goat on the Day of Atonement (Lev 16) and the
+    figure of Asael/Azazel in Second Temple literature, where he becomes a fallen angel
+    blamed for teaching forbidden arts. The entry covers the name, its interpretations and
+    its afterlife; the ritual and its elimination-rite parallels belong to
+    day-of-atonement-elimination, and wilderness demons generally to demons.
+  passages:
+    - "Lev 16:8 | language | A lot 'for YHWH' and a lot 'for Azazel'; the parallel suggests a personal name"
+    - "Lev 16:10 | practice | Goat presented alive and sent 'to Azazel' into the wilderness"
+    - "Lev 16:21-22 | practice | Iniquities confessed over the goat, carried off to a 'cut-off land' (ʾereṣ gĕzērâ)"
+    - "Lev 16:26 | practice | The one who sets the goat free washes before re-entering the camp"
+    - "Lev 17:7 | concept | Ban on sacrifices to goat-demons (śĕʿîrîm) in the open field"
+    - "Isa 34:14 | concept | Goat-demons and Lilith haunt desolate Edom: the wilderness as demonic realm"
+    - "1En 8:1 | concept | Asael teaches metalworking, weapons and cosmetics"
+    - "1En 10:4-8 | concept | Raphael binds Asael and casts him into darkness in the desert; all sin ascribed to him"
+  related: [day-of-atonement-elimination, demons, first-enoch, hittite-elimination-rituals, lots-and-cleromancy, nephilim, satan-the-adversary]
+  wikipedia: Azazel
+  image: null
+  author_notes:
+    - "Set out the interpretations: (1) a demon or wilderness deity, the most common critical view, supported by the lot 'for YHWH' and 'for Azazel'; (2) 'the goat that goes away' (ʿēz ʾōzēl; Septuagint apopompaios, Vulgate caper emissarius, hence Tyndale's 'scapegoat'); (3) a place name such as 'rugged cliff' (rabbinic; m. Yoma 6:6-8); (4) an abstract noun 'complete removal'."
+    - Milgrom and others argue that, even if Azazel was originally a demon, Lev 16 neutralizes him. The goat is not a sacrifice to Azazel but a vehicle that removes sin to his realm. Make this distinction clear.
+    - "Qumran texts (4Q180; the Temple Scroll) spell the name with a metathesis, often read as ʿzzʾl, 'El is strong' or 'fierce god'. Verify the spellings before citing them. The Enochic Asael (Aramaic ʿśʾl) was later assimilated to Azazel (Apocalypse of Abraham)."
+    - Keep later Christian and occult demonology (Azazel as Satan, Milton, modern fiction) to a brief reception note.
+  sources_to_check:
+    - DDD, s.v. "Azazel"
+    - "J. Milgrom, Leviticus 1-16 (AB 3, 1991)"
+    - "D. P. Wright, The Disposal of Impurity (SBLDS 101, 1987)"
+    - "L. L. Grabbe, 'The Scapegoat Tradition: A Study in Early Jewish Interpretation,' JSJ 18 (1987)"
+    - "D. Stökl Ben Ezra, The Impact of Yom Kippur on Early Christianity (WUNT 163, 2003)"
+
+- id: bes
+  aliases: [Bes-image, Bes figures]
+  cultures: [egyptian, phoenician, judahite]
+  scope: >-
+    The Egyptian protective dwarf god with a lion-like mane, frontal face and feathered crown,
+    guardian of childbirth, sleep and the household against snakes and demons. Bes amulets,
+    figurines and vessels were common in the Iron Age and Persian-period Levant, and Bes-like
+    figures appear in the Kuntillet ʿAjrud drawings.
+  passages:
+    - "Isa 3:18-20 | realia | Women's ornaments include crescents and amulets (lĕḥāšîm); Bes pendants are among the commonest Iron Age amulets"
+    - "Ps 91:5-6, 13 | concept? | Protection from night terrors, plague, lion and serpent: the dangers Bes warded off"
+  related: [kuntillet-ajrud-inscriptions, kuntillet-ajrud, amulets, demons, lamashtu-pazuzu-amulets, apotropaic-doorposts-and-thresholds]
+  wikipedia: Bes
+  image: Bes amulet faience
+  author_notes:
+    - "On Kuntillet ʿAjrud Pithos A, the two standing figures beneath the 'YHWH of Samaria and his asherah' inscription were once identified as YHWH and Asherah (Gilula). Most specialists now see Bes-type figures, and Beck argued that the drawings and the inscription are not one composition. Correct the popular 'portrait of YHWH and his wife'."
+    - "'Bes' is a convenient modern label for a type. In Egypt the iconography covers several related demon-gods (Aha and others), and the name Bes is late. Explain this briefly."
+    - Bes's protective role (childbirth, children, sleep, against snakes) explains his popularity in households and on amulets in Judah and Israel. This shows Egyptian apotropaic imagery used by Judahites without implying worship of Bes as a major deity.
+    - "Note Persian-period Bes vessels and the large Bes figures in Phoenician and Cypriot contexts."
+  sources_to_check:
+    - "P. Beck, 'The Drawings from Ḥorvat Teiman (Kuntillet ʿAjrud),' Tel Aviv 9 (1982)"
+    - O. Keel and C. Uehlinger, Gods, Goddesses, and Images of God in Ancient Israel (1998)
+    - V. Dasen, Dwarfs in Ancient Egypt and Greece (1993)
+    - "C. Herrmann, Ägyptische Amulette aus Palästina/Israel (OBO 138, 1994)"
+
+- id: angelology
+  aliases: [archangels, Michael, Gabriel, Raphael, Uriel, angels of the nations]
+  cultures: [jewish, hebrew]
+  scope: >-
+    The development of named angels, ranks of angels and national angelic "princes" in
+    Persian- and Hellenistic-period Judaism (Daniel, Tobit, 1 Enoch, Jubilees, Qumran) and
+    their reception in the New Testament. Anonymous divine messengers and the angel of YHWH,
+    and the divine council, have their own entries.
+  passages:
+    - "Deut 32:8 | concept | Nations allotted to the 'sons of God' (LXX 'angels of God'); background for national princes"
+    - "Zech 1:9-14 | concept | An unnamed interpreting angel mediates the vision"
+    - "Ezek 9:2-3 | concept | Man clothed in linen with a scribe's writing case among the executioners"
+    - "Dan 8:16; 9:21 | concept | Gabriel, the first angel named in the Hebrew Bible, interprets visions"
+    - "Dan 10:13, 20-21 | concept | Michael, 'one of the chief princes', fights the princes of Persia and Greece"
+    - "Dan 12:1 | concept | Michael, the great prince who protects Israel, arises at the end time"
+    - "Tob 12:15 | concept | Raphael, 'one of the seven angels who stand ready' before the Lord; cf. 3:17"
+    - "1En 20:1-8 | concept | Names and duties of the archangels (seven in Greek, six in Ethiopic)"
+    - "Jub 2:2 | concept | Angels of the presence, of sanctification and of the elements created on the first day"
+    - "Luke 1:19, 26 | concept | Gabriel, 'who stands in the presence of God', announces births"
+    - "Jude 9 | concept | The archangel Michael disputes with the devil over Moses' body"
+    - "Rev 12:7-9 | concept | Michael and his angels fight the dragon"
+  related: [angel-of-yhwh, divine-council, sons-of-god, first-enoch, zoroastrianism, satan-the-adversary, war-scroll, demons]
+  wikipedia: Angels in Judaism
+  image: null
+  author_notes:
+    - Names and ranks appear only in late texts (Daniel, Tobit, 1 Enoch). Earlier biblical messengers are anonymous and often refuse to give a name (Judg 13:17-18). Explain the shift rather than reading later angelology back.
+    - "Background proposals: Mesopotamian vizier or messenger gods (sukkallu; e.g. Nusku, Papsukkal) and Ugaritic messenger pairs for the role; Persian Aməša Spəntas for the seven archangels, which is debated; the demon Asmodeus in Tobit, a clear Iranian borrowing (Aēšma). Separate the firm from the speculative."
+    - "Olyan (1993) argued that many angel names and classes arose from exegesis of biblical words. A rabbinic tradition (y. Rosh Hash. 1:2) says the names of the angels 'came up from Babylon'. Verify the reference before quoting it."
+    - The War Scroll (1QM 9:15-16) names Michael, Gabriel, Sariel and Raphael on the shields of the towers. Note the variation in lists of four and seven across 1 Enoch 9, 20 and 40 and Qumran.
+  sources_to_check:
+    - "S. M. Olyan, A Thousand Thousands Served Him (TSAJ 36, 1993)"
+    - "M. Mach, Entwicklungsstadien des jüdischen Engelglaubens in vorrabbinischer Zeit (TSAJ 34, 1992)"
+    - ABD, s.v. "Angels"
+
+# ---------------------------------------------------------------- cosmos-cult-kingship

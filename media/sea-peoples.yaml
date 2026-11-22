@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: sea-peoples
+file: sea-peoples.jpg
+title: Medinet Habu Ramses III. Tempel 13.JPG
+caption: >-
+  Ramesses III leading Peleset (Philistine) prisoners before Amun and Mut, relief on the second
+  pylon at Medinet Habu.
+description: >-
+  König (Pharao) Ramses III. führt Gefangene Peleset (Philister) vor Amun und Mut. Relief
+  am zweiten Pylon im ersten Hof des Totentempels Ramses’ III. in Medinet Habu, Ägypten
+creator: Olaf Tausch
+credit_line: Own work
+license:
+  id: CC-BY-3.0
+  name: CC BY 3.0
+  url: https://creativecommons.org/licenses/by/3.0
+attribution: Olaf Tausch, CC BY 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Medinet_Habu_Ramses_III._Tempel_13.JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/13/Medinet_Habu_Ramses_III._Tempel_13.JPG
+  sha1: 9f80293ee78f18b1a4d6cbcdee8cdf815c492e23
+  original_size: [4103, 3079]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1201 px
+size: [1600, 1201]
+depicts: [sea-peoples]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

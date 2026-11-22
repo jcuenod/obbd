@@ -1,0 +1,52 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: lilith
+title: Lilith
+aliases: [lîlît, lilītu]
+type: deity
+cultures: [mesopotamian, judahite, jewish]
+scope: >-
+  Lilith, a female night demon named once in the Hebrew Bible (Isa 34:14), derived from the
+  Mesopotamian lilû/lilītu wind-demons, and prominent in later Jewish magic and legend. The
+  entry covers the ancient evidence and distinguishes it from medieval developments.
+passages:
+- ref: Isa 34:14
+  rel: language
+  note: Lilith rests among the ruins of Edom with wild creatures and goat-demons
+- ref: Isa 13:21-22
+  rel: imagery
+  note: Goat-demons and desert creatures haunting ruined Babylon
+related: [demons, lamashtu-pazuzu-amulets, burney-relief, amulets, dead-sea-scrolls]
+media:
+- id: lilith
+  role: primary
+external:
+  wikipedia: Lilith
+  wikidata: Q180627
+editorial:
+  author_notes:
+  - >-
+    Correct the misconception that the Bible presents Lilith as Adam's first wife; this comes
+    from the medieval Alphabet of Ben Sira.
+  - >-
+    Identification of the Burney Relief figure and of the ki-sikil-lil-la in the Sumerian
+    Gilgamesh-Huluppu tale with Lilith is disputed.
+  - >-
+    Qumran Songs of the Sage (4Q510-511) list lilin among demons; later Aramaic incantation
+    bowls depict Lilith.
+  - Translations vary (KJV "screech owl"); explain the lexical history.
+  sources_to_check: ['DDD, s.v. "Lilith"']
+  image_query: Aramaic incantation bowl Lilith
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

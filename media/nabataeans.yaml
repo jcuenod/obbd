@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: nabataeans
+file: nabataeans.jpg
+title: Silver drachm of Aretas IV with Shaqilat.jpg
+caption: Silver drachm of Aretas IV with Queen Shaqilat, 21 CE.
+description: Silver drachm of Aretas IV with Shaqilat from 21 AD (14 mm, 3.76 g)
+creator: Classical Numismatic Group (CNG), Inc., www.cngcoins.com
+credit_line: >-
+  Photos by Classical Numismatic Group (CNG), Inc.: https://www.cngcoins.com/Coin.aspx?CoinID=142172
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: http://creativecommons.org/licenses/by-sa/3.0/
+attribution: >-
+  Classical Numismatic Group (CNG), Inc., www.cngcoins.com, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Silver_drachm_of_Aretas_IV_with_Shaqilat.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/11/Silver_drachm_of_Aretas_IV_with_Shaqilat.jpg
+  sha1: b155c9fa22896aae536bb9b160dd214fd6691db8
+  original_size: [1535, 753]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1535, 753]
+depicts: [nabataeans]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

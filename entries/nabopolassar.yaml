@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: nabopolassar
+title: Nabopolassar
+aliases: [Nabû-apla-uṣur]
+type: person
+cultures: [babylonian]
+date:
+  from: -626
+  to: -605
+  display: 626–605 BCE
+scope: >-
+  Founder of the Neo-Babylonian (Chaldean) dynasty, who seized Babylon in 626 BCE, threw off
+  Assyrian rule and, allied with the Medes, destroyed Assyria (Assur 614, Nineveh 612, Harran
+  610). The Bible never names him, but his reign is the setting for Nahum, Zephaniah 2, Habakkuk
+  1 and the death of Josiah.
+passages:
+- ref: Nah 2:1-3:19
+  rel: event
+  note: Oracles on the fall of Nineveh, taken by Nabopolassar and the Medes in 612 (MT 2:2-3:19)
+- ref: Zeph 2:13-15
+  rel: event
+  note: Nineveh to become a desolation
+- ref: Hab 1:5-11
+  rel: setting
+  note: YHWH rouses the Chaldeans, a new power sweeping the region
+- ref: 2Kgs 23:29
+  rel: event
+  note: Necho marches to aid Assyria against Babylon (609); Josiah killed at Megiddo
+- ref: Jer 46:2
+  rel: event
+  note: Necho defeated at Carchemish (605) by Nabopolassar's crown prince Nebuchadnezzar
+related: [fall-of-nineveh-612, fall-of-nineveh-chronicle, nebuchadnezzar-ii, babylonia, medes,
+  battle-of-carchemish, babylonian-chronicles, etemenanki]
+media:
+- id: nabopolassar
+  role: primary
+external:
+  wikipedia: Nabopolassar
+  wikidata: Q273514
+editorial:
+  author_notes:
+  - >-
+    His origins are debated. His own inscriptions call him 'son of a nobody' (mār lā mammāna);
+    some link his family to Uruk. 'Chaldean' as a dynastic label comes from later Greek and
+    biblical usage.
+  - >-
+    The Babylonian chronicles (ABC 2-4) give a year-by-year account of his reign, including
+    the Median alliance and the campaigns of 616-609. Use them for the chronology rather than
+    Greek writers.
+  - >-
+    His building inscriptions (e.g. the restoration of Etemenanki) present him as a humble,
+    god-chosen restorer. This is useful for royal ideology and temple-building comparisons.
+  - >-
+    He died in August 605, just after Carchemish, and Nebuchadnezzar hurried back to Babylon
+    to take the throne.
+  sources_to_check:
+  - A. K. Grayson, Assyrian and Babylonian Chronicles (1975), Chronicles 2-4
+  - >-
+    R. Da Riva, The Inscriptions of Nabopolassar, Amēl-Marduk and Neriglissar (SANER 3, 2013)
+  image_query: Nabopolassar cylinder
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

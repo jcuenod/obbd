@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: bronze-sea-2
+file: bronze-sea-2.jpg
+title: Brazen Sea of soloman From Jewish Encyclopedia.jpg
+caption: >-
+  Modern artist's reconstruction of the bronze sea on twelve oxen, from the Jewish Encyclopedia
+  (1906).
+description: >-
+  An artist's rendition of the Brazen Sea (or Molten Sea) of Solomon. It was published in
+  the 1906 Jewish Encyclopedia which is now in the public domain. I cropped the image to remove
+  the text
+creator: Jewish Encyclopedia
+credit_line: http://www.jewishencyclopedia.com/view_page.jsp?artid=1424&letter=B&pid=1
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Jewish Encyclopedia. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Brazen_Sea_of_soloman_From_Jewish_Encyclopedia.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/28/Brazen_Sea_of_soloman_From_Jewish_Encyclopedia.jpg
+  sha1: 9cb11d1f4417d8d79fbe7576cb7e45f2c2de1fb0
+  original_size: [547, 428]
+  retrieved: '2026-11-20'
+derivative: null
+size: [547, 428]
+depicts: [bronze-sea]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

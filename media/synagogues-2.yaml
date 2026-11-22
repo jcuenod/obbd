@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: synagogues-2
+file: synagogues-2.jpg
+title: Masada 051013 Synagogue 01.jpg
+caption: The synagogue at Masada, with stepped benches along the walls and column bases.
+description: Ancient synagogue at Masada
+creator: Oren Rozen
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Oren Rozen, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Masada_051013_Synagogue_01.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/4/43/Masada_051013_Synagogue_01.jpg
+  sha1: c7b7f0becd60df6539136bc528ac8a120251ef0e
+  original_size: [2000, 1333]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [synagogues]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

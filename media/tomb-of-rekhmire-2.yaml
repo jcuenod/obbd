@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: tomb-of-rekhmire-2
+file: tomb-of-rekhmire-2.jpg
+title: Syrians bringing presents in the tomb of Rekhmire. Animals of all kind.jpg
+caption: Syrian tribute bearers in the transverse hall of the tomb of Rekhmire (TT100).
+description: "Detail from the scene from the transverse hall (left side). The tribute of foreign\
+  \ people. Rekhmire receives tribute on behalf of the king from various foreign countries.\
+  \ In the middle register, ebony, leopard skins, dogs, giraffe, ivory, and other animals\
+  \ from Nubia. In the fourth register, are people from Retenu (Syria - Palestine). All men\
+  \ have very fair skin and wear the same long white robe. They bring brown bear and an elephant.\
+  \ In the bottom register, are Nubian and Syrian captives. Here the women are dressed in\
+  \ bell-shaped dresses. They are accompanied by children. 18th dynasty, Sheik "
+creator: Heidi Kontkanen
+credit_line: https://www.flickr.com/photos/24729615@N00/49689553433/
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: Heidi Kontkanen, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Syrians_bringing_presents_in_the_tomb_of_Rekhmire._Animals_of_all_kind.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/60/Syrians_bringing_presents_in_the_tomb_of_Rekhmire._Animals_of_all_kind.jpg
+  sha1: ae57338d9d12dc951d9a02770fc3cc8f9c5078dc
+  original_size: [4928, 3264]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1060 px
+size: [1600, 1060]
+depicts: [tomb-of-rekhmire]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

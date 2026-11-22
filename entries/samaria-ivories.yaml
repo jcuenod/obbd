@@ -1,0 +1,80 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: samaria-ivories
+title: Samaria Ivories
+type: realia
+cultures: [phoenician, israelite]
+date:
+  from: -875
+  to: -725
+  circa: true
+  display: c. 875–725 BCE
+scope: >-
+  Hundreds of carved ivory plaques and fragments, mostly furniture inlays, found in the royal
+  acropolis of Samaria in the 1930s. They are carved in Phoenician and North Syrian styles,
+  with motifs such as sphinxes (cherubim), palmettes, lotus, the infant Horus, and the 'woman
+  at the window'.
+passages:
+- ref: 1Kgs 22:39
+  rel: realia
+  note: Ahab's 'ivory house'
+- ref: Amos 3:15
+  rel: realia
+  note: Houses of ivory to be destroyed
+- ref: Amos 6:4
+  rel: realia
+  note: Beds of ivory of the Samarian elite
+- ref: Ps 45:8
+  rel: realia
+  note: Ivory palaces in a royal wedding song (MT 45:9)
+- ref: 1Kgs 6:29, 32, 35
+  rel: realia
+  note: Temple decoration of cherubim, palm trees and open flowers
+- ref: 2Kgs 9:30
+  rel: imagery
+  note: '''Woman at the window'' motif; cf. Jezebel looking out of the window'
+- ref: Ezek 27:6, 15
+  rel: realia
+  note: Ivory in Phoenician trade and inlay
+related: [samaria, ahab, jezebel, phoenicians, cherubim, nimrud]
+media:
+- id: samaria-ivories
+  role: primary
+- id: samaria-ivories-2
+  role: gallery
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The stratigraphic context is poor, so dates range across the 9th to 8th centuries. Do
+    not tie individual pieces to Ahab without qualification.
+  - >-
+    Compare with ivories from Nimrud and Arslan Tash, many of which may be booty or tribute
+    from the west. Some Nimrud ivories may come from Samaria itself.
+  - >-
+    Discuss the Egyptianising iconography in an Israelite royal setting and what it suggests
+    about elite taste rather than religious belief.
+  sources_to_check:
+  - Crowfoot and Crowfoot, Early Ivories from Samaria (1938)
+  - Winter, Iraq 38 (1976)
+  image_query: Samaria ivories Israel Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+- date: '2026-11-21'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Image samaria-ivories: replaced GFDL-only File:Samuel and Saidye Bronfman Archaeology
+    WingDSCN5098.JPG with Furniture Inlay, 9th-8th Century BC (29347044728).jpg (CC0). GFDL
+    is no longer accepted.

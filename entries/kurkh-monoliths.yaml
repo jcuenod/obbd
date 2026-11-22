@@ -1,0 +1,75 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: kurkh-monoliths
+title: Kurkh Monoliths
+type: artifact
+cultures: [assyrian]
+date:
+  from: -879
+  to: -852
+  circa: true
+  display: c. 879–852 BCE
+scope: >-
+  Two Assyrian stelae found at Kurkh (Üçtepe) in southeastern Turkey, of Ashurnasirpal II
+  and Shalmaneser III. The Shalmaneser Monolith gives the earliest account of the battle of
+  Qarqar (853 BCE), naming 'Ahab the Israelite' with 2,000 chariots and 10,000 soldiers in
+  a coalition of western states.
+passages:
+- ref: 1Kgs 16:29-33
+  rel: attests
+  note: Ahab son of Omri, king of Israel
+- ref: 1Kgs 22:1
+  rel: setting
+  note: >-
+    Three years without war between Aram and Israel, the period of the anti-Assyrian alliance
+- ref: 1Kgs 20:31-34
+  rel: setting
+  note: Ahab's treaty with Ben-hadad of Aram, background to the coalition
+related: [battle-of-qarqar, shalmaneser-iii, ahab, ben-hadad, black-obelisk, chariots-and-horses,
+  qedarites-and-arabs, hamath]
+location:
+  institution: British Museum, London
+  accession: ME 118883
+media:
+- id: ahab
+  role: gallery
+- id: kurkh-monoliths
+  role: primary
+- id: kurkh-monoliths-2
+  role: gallery
+external:
+  wikipedia: Kurkh Monoliths
+  wikidata: Q1793123
+editorial:
+  author_notes:
+  - >-
+    Discovered in 1861 by J. E. Taylor, British consul at Diyarbakır. The Shalmaneser text
+    dates to c. 852 BCE, shortly after the battle.
+  - >-
+    The coalition was led by Adad-idri (Hadadezer) of Damascus and Irhuleni of Hamath; the
+    relationship of Hadadezer to the biblical Ben-hadad of 1 Kgs 20 is debated.
+  - >-
+    The 2,000 chariots credited to Ahab exceed every other contingent; some propose a scribal
+    error (e.g. 200), others accept the figure. Present both views.
+  - >-
+    The text also contains the first datable mention of Arabs (Gindibu with 1,000 camels).
+    The engraving is careless and the text has many errors.
+  sources_to_check: ['RIMA 3 (Grayson 1996), A.0.102.2', COS 2.113A, ANET 278-279]
+  image_query: Kurkh Monolith Shalmaneser III British Museum
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added accession from Wikidata Q1793123 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-1-sol

@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: weights-and-silver-money
+file: weights-and-silver-money.jpg
+title: Hoard silver jewelry. Eshtemoa. Israel Museum, Jerusalem.JPG
+caption: >-
+  Hoard of silver jewellery and pieces in jugs from Eshtemoa, 9th–8th century BCE; one jug
+  is inked with the Hebrew word for 'five' (Israel Museum, Jerusalem).
+description: >-
+  hoard of silver jewelry, Eshtemoa (9th-8th BCE) inscription in ink with word "hamesh" in
+  ancient hebrew script, meaning five hundred shekels in weight. Israel Museum, Jerusalem
+creator: Chamberi
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Chamberi, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Hoard_silver_jewelry._Eshtemoa._Israel_Museum,_Jerusalem.JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/33/Hoard_silver_jewelry._Eshtemoa._Israel_Museum%2C_Jerusalem.JPG
+  sha1: 024aa2e4f150a32153f8d5e71e9ddaef065d0325
+  original_size: [4000, 3000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [weights-and-silver-money]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

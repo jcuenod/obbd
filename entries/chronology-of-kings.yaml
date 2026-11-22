@@ -1,0 +1,89 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: chronology-of-kings
+title: Chronology of the Kings of Israel and Judah
+aliases: [Regnal chronology, Synchronisms]
+type: concept
+cultures: [israelite, judahite, assyrian, babylonian]
+scope: >-
+  The reconstruction of absolute dates for the kings of Israel and Judah from the regnal formulae
+  and synchronisms of Kings and Chronicles, anchored by Assyrian, Babylonian, and Egyptian
+  chronology. Covers methods (accession and calendar systems, coregencies), textual variants,
+  and the main competing systems.
+passages:
+- ref: 1Kgs 6:1
+  rel: concept
+  note: 480 years from exodus to temple, probably schematic (12 × 40)
+- ref: 1Kgs 14:25-26
+  rel: concept
+  note: Shishak's invasion in Rehoboam's fifth year, an anchor around 925
+- ref: 1Kgs 15:1, 9
+  rel: form
+  note: Synchronistic accession formulae cross-dating Judah and Israel
+- ref: 1Kgs 16:23
+  rel: form
+  note: Omri's accession dated to Asa's 31st year
+- ref: 2Kgs 15:5
+  rel: practice
+  note: Jotham governs during Uzziah's illness, a coregency
+- ref: 2Kgs 15:30
+  rel: concept
+  note: Hoshea's accession dated to Jotham's 20th year, conflicting with 17:1
+- ref: 2Kgs 17:1
+  rel: concept
+  note: Hoshea's accession in Ahaz's 12th year
+- ref: 2Kgs 18:1, 9-10, 13
+  rel: concept
+  note: Hezekiah synchronisms vs '14th year' for Sennacherib's 701 campaign
+- ref: 2Kgs 25:8
+  rel: concept
+  note: Jerusalem burned in Nebuchadnezzar's 19th year (587/586)
+- ref: Jer 25:1
+  rel: concept
+  note: Jehoiakim's 4th year equated with Nebuchadnezzar's 1st
+- ref: Amos 1:1
+  rel: concept
+  note: Dating by 'two years before the earthquake'
+related: [assyrian-eponym-list, battle-of-qarqar, black-obelisk, babylonian-chronicles, nebuchadnezzar-chronicle,
+  shoshenq-i, fall-of-jerusalem-587, royal-annals-and-historiography]
+media: []
+external:
+  wikipedia: Kings of Israel and Judah
+  wikidata: Q882685
+editorial:
+  author_notes:
+  - >-
+    Fixed points include the Assyrian eponym list anchored by the solar eclipse of 15 June
+    763 (eponymy of Bur-Saggile), Ahab at Qarqar (853), Jehu's tribute (841, Shalmaneser III's
+    18th year), and Jehoiachin's capture on 2 Adar (16 March) 597 in the Babylonian Chronicle.
+  - >-
+    Explain the method problems. They are accession versus non-accession reckoning, spring
+    (Nisan) versus autumn (Tishri) new year, coregencies, and textual variation (LXX and Lucianic
+    numbers differ, especially for the Omrides).
+  - >-
+    Compare the main systems (Thiele; Tadmor; Galil; Hughes). Present Thiele's coregencies
+    as effective but criticised as harmonising.
+  - >-
+    The 587 versus 586 date for Jerusalem's fall depends on calendar assumptions. State both.
+  sources_to_check:
+  - Thiele, The Mysterious Numbers of the Hebrew Kings (3rd ed. 1983)
+  - Galil, The Chronology of the Kings of Israel and Judah (1996)
+  - Millard, The Eponyms of the Assyrian Empire 910-612 BC (SAAS 2, 1994)
+  - Grayson, Assyrian and Babylonian Chronicles (1975)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: 'Passage tags checked against WEB text: 1Kgs 14:25-26 and 2Kgs 25:8 rel event -> concept'
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

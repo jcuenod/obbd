@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: hasmoneans-2
+file: hasmoneans-2.jpg
+title: Alexander Jannaeus coin.JPG
+caption: >-
+  Bronze prutah of Alexander Jannaeus with the inscription 'Jonathan the High Priest and the
+  Council of the Jews'.
+description: >-
+  A bronze en:prutah coin of Alexander Jannaeus. Obverse: the inscription "Jonathan the High
+  Priest and the Council of the Jews". Reverse: a pair of Cornucopias or Horns of Plenty,
+  which were a Hellenistic and Roman symbol. The pomegranate in the center of the coin gives
+  it a Jewish aspect. Pomegranate appears on many Hasmonean coins. Itamar Atzmon Collection
+creator: Atzmonit
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Atzmonit, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Alexander_Jannaeus_coin.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/b/b9/Alexander_Jannaeus_coin.JPG
+  sha1: 4b2596af4055e19c382e565b794fa000fce26d2f
+  original_size: [1274, 616]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1274, 616]
+depicts: [hasmoneans]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

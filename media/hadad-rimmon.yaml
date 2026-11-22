@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: hadad-rimmon
+file: hadad-rimmon.jpg
+title: Colossal statue of God Hadad, from Gerdshin near Sam'al, 775 BCE, Pergamon Museum.jpg
+caption: >-
+  Colossal basalt statue of Hadad erected by Panamuwa, from Gerdshin near Samʾal, 8th century
+  BCE (Pergamon Museum, Berlin).
+description: >-
+  Basalt colossal statue of Hadad, the Hittite god of weather. Erected by Panamuwa. The Aramaic
+  inscription on the lower torso reads at the beginning "I'm Panamuwa, the son of QRL, the
+  King of Ja'udi, I have erected this statue of Hadad, at my eternal grave". From Gerdshin
+  near Sam'al, Turkey. 775 BCE. Pergamon Museum, Berlin, Germany.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Colossal_statue_of_God_Hadad,_from_Gerdshin_near_Sam%27al,_775_BCE,_Pergamon_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/20/Colossal_statue_of_God_Hadad%2C_from_Gerdshin_near_Sam%27al%2C_775_BCE%2C_Pergamon_Museum.jpg
+  sha1: 90d1a134f6e99c49e765d776acd80c35c28fe1f9
+  original_size: [3698, 5907]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1002×1600 px
+size: [1002, 1600]
+depicts: [hadad-rimmon]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

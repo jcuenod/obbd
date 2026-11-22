@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: samaria-ostraca
+file: samaria-ostraca.jpg
+title: Samaria Ostraca House.jpg
+caption: >-
+  Plan by C. S. Fisher of part of the royal compound at Samaria, including the 'Ostraca House'
+  where the ostraca were found (published 1910).
+description: Image of the Ostraca House, published 1910
+creator: George Andrew Reisner
+credit_line: Israelite ostraca from Samaria, published 1910
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: George Andrew Reisner. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Samaria_Ostraca_House.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/9/94/Samaria_Ostraca_House.jpg
+  sha1: fb24672b895a0f5a1a40396ada2c054b421d4fab
+  original_size: [900, 1440]
+  retrieved: '2026-11-20'
+derivative: null
+size: [900, 1440]
+depicts: [samaria-ostraca]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

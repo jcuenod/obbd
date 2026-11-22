@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: sennacherib-campaign-701
+file: sennacherib-campaign-701.jpg
+title: >-
+  Assyrian siege-engine attacking the city wall of Lachish, part of the ascending assaulting
+  wave. Detail of a wall relief dating back to the reign of Sennacherib, 700-692 BCE. From
+  Nineveh, Iraq, currently housed in the British Museum.jpg
+caption: >-
+  Assyrian siege engine attacking the wall of Lachish, detail of the Lachish reliefs from
+  Sennacherib's palace at Nineveh, 700–692 BCE (British Museum, London).
+description: >-
+  Assyrian siege-engine attacking the city wall of Lachish. The ascending and assaulting Assyrian
+  military wave is overwhelming. Detail of a gypsum wall relief dating back to the reign of
+  Sennacherib, 700-692 BCE. From the South-West Palace at Nineveh, Mesopotamia, modern-day
+  Iraq, currently housed in the British Museum, London.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Assyrian_siege-engine_attacking_the_city_wall_of_Lachish,_part_of_the_ascending_assaulting_wave._Detail_of_a_wall_relief_dating_back_to_the_reign_of_Sennacherib,_700-692_BCE._From_Nineveh,_Iraq,_currently_housed_in_the_British_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/93/Assyrian_siege-engine_attacking_the_city_wall_of_Lachish%2C_part_of_the_ascending_assaulting_wave._Detail_of_a_wall_relief_dating_back_to_the_reign_of_Sennacherib%2C_700-692_BCE._From_Nineveh%2C_Iraq%2C_currently_housed_in_the_British_Museum.jpg
+  sha1: 222bcecec946fdaa53f8a29ac1a4bbbaceac6036
+  original_size: [4288, 2848]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1063 px
+size: [1600, 1063]
+depicts: [lachish-reliefs, sennacherib-campaign-701]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

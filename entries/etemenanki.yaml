@@ -1,0 +1,83 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: etemenanki
+title: Etemenanki (Ziggurat of Babylon)
+type: site
+cultures: [babylonian]
+scope: >-
+  The ziggurat of Marduk at Babylon, 'House, foundation platform of heaven and earth', adjacent
+  to the Esagil temple. Restored by Esarhaddon and completed by Nabopolassar and Nebuchadnezzar
+  II, it is the most likely historical model for the tower of Babel. Only its foundations
+  survive.
+passages:
+- ref: Gen 11:4
+  rel: setting
+  note: '''A tower with its top in the heavens'' in the land of Shinar'
+- ref: Gen 11:3
+  rel: realia
+  note: Baked brick and bitumen, Mesopotamian building materials
+- ref: Gen 11:9
+  rel: language
+  note: Babel explained by wordplay on balal 'confuse'; Akkadian Bab-ili 'gate of god'
+- ref: Gen 11:1-9
+  rel: polemic
+  note: Tower story read as a critique of Babylonian imperial pride
+- ref: Jer 51:53
+  rel: imagery
+  note: '''Though Babylon should mount up to heaven'''
+related: [ziggurat, ziggurat-and-babel, babylon, nebuchadnezzar-ii, marduk, cosmic-mountain,
+  ishtar-gate]
+media:
+- id: etemenanki
+  role: primary
+- id: etemenanki-2
+  role: gallery
+- id: etemenanki-3
+  role: gallery
+- id: ziggurat-and-babel
+  role: gallery
+external:
+  wikipedia: Etemenanki
+  wikidata: Q285788
+  pleiades: '142907963'
+editorial:
+  author_notes:
+  - >-
+    The Esagil Tablet gives the dimensions (base c. 91 m square, seven stages); Herodotus
+    1.181-182 describes the tower, perhaps from hearsay.
+  - >-
+    Nebuchadnezzar's building inscriptions speak of raising its top 'to rival the heavens',
+    a phrase close to Gen 11:4.
+  - >-
+    The Schøyen 'Tower of Babel stele' shows Nebuchadnezzar beside the ziggurat; mention it
+    and its unprovenanced status.
+  - >-
+    Gen 11 need not depend on the Neo-Babylonian rebuilding; earlier phases existed, and the
+    story's date is debated.
+  sources_to_check:
+  - George, "The Tower of Babel," AfO 51 (2005/2006)
+  - >-
+    George, Cuneiform Royal Inscriptions and Related Texts in the Schøyen Collection (CUSAS
+    17, 2011)
+  image_query: Tower of Babel stele Nebuchadnezzar Etemenanki
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q285788 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 32.53639
+  lon: 44.42083
+  source: wikidata:Q285788

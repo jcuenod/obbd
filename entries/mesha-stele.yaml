@@ -1,0 +1,120 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: mesha-stele
+title: Mesha Stele
+aliases: [Moabite Stone]
+type: artifact
+cultures: [moabite]
+date:
+  from: -840
+  to: -840
+  circa: true
+  display: c. 840 BCE
+scope: >-
+  The basalt victory and building inscription of Mesha, king of Moab, found at Dhiban in 1868.
+  It records Moab's liberation from Israelite control after the reign of Omri's dynasty and
+  Mesha's building works, and is the longest Iron Age inscription from the southern Levant.
+passages:
+- ref: 2Kgs 3:4-27
+  rel: event
+  note: Mesha's rebellion against Israel, told from the Moabite side
+- ref: 2Kgs 1:1
+  rel: event
+  note: Moab's rebellion after Ahab's death
+- ref: 1Kgs 16:21-28
+  rel: attests
+  note: Omri named as oppressor of Moab
+- ref: Num 21:29
+  rel: language
+  note: Moabites as the 'people of Chemosh'
+- ref: Judg 11:24
+  rel: concept
+  note: Chemosh as the national god who grants territory
+- ref: Num 32:34-38
+  rel: setting
+  note: 'Dibon, Ataroth, Nebo, Baal-meon, Kiriathaim: towns named in the stele'
+- ref: Josh 6:17-21
+  rel: practice
+  note: 'ḥērem: Mesha devotes Nebo''s population to Ashtar-Chemosh'
+- ref: Isa 15-16
+  rel: setting
+  note: Oracle against Moab naming many of the same towns
+- ref: Jer 48:18-24
+  rel: setting
+  note: 'Dibon, Aroer, Jahaz, Nebo, Kiriathaim, Beth-meon, Kerioth: stele towns in the oracle'
+- ref: 2Sam 23:20
+  rel: language
+  disputed: true
+  note: '''ariel(s) of Moab''; cf. ʾrʾl in line 12, sense debated'
+- ref: 2Sam 8:2
+  rel: attests
+  disputed: true
+  note: '''House of David'' reading in line 31 (bt[d]wd) is debated'
+- ref: Judg 3:12-30
+  rel: setting
+  note: >-
+    Earlier Moabite domination under Eglon: background to the long Moab–Israel conflict the
+    stele narrates
+related: [chemosh, omri, moabites, dibon, herem, tel-dan-stele, ahab, yhwh-origins]
+location:
+  institution: Musée du Louvre, Paris
+  accession: AO 5066 (Department of Near Eastern Antiquities of the Louvre)
+media:
+- id: herem
+  role: gallery
+- id: mesha-stele
+  role: gallery
+external:
+  wikipedia: Mesha Stele
+  wikidata: Q724954
+editorial:
+  author_notes:
+  - >-
+    Explain the discovery in 1868, the stone's breakage, and the role of Clermont-Ganneau's
+    squeeze in its reconstruction.
+  - >-
+    Contrast the Moabite and biblical accounts of the revolt's timing ('in his days' vs. after
+    Ahab's death) and outcome. The stele's 'forty years' of Omride control is a round number
+    and does not fit biblical chronology.
+  - >-
+    Lines 17-18 (Mesha takes the [vessels] of YHWH from Nebo and drags them before Chemosh)
+    contain the earliest datable extrabiblical attestation of the divine name YHWH.
+  - >-
+    Note the theological parallel of a national god angry with his land (Chemosh/YHWH) and
+    the language of ḥērem. The stele says nothing about the sacrifice of the king's son in
+    2 Kgs 3:27.
+  - >-
+    Present the 'House of David' (line 31) reading as proposed and debated, not as settled.
+    Lemaire proposed it in 1994; Finkelstein, Na'aman and Römer (2019) proposed 'Balak'; new
+    imaging has been claimed for both readings.
+  sources_to_check: [KAI 181, COS 2.23, ANET 320-321, 'Aḥituv, Echoes from the Past (2008)']
+  image_query: Mesha Stele Louvre
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Removed weak Judg 3:12-30 tag (Eglon story is west
+    of Jordan)
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Restored Judg 3:12-30 (specified by the editor, J. Cuénod) with a corrected note after
+    automated verification removed it.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added accession from Wikidata Q724954 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

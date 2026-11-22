@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: image-of-god
+file: image-of-god.jpg
+title: Tell Fekheriyeh statue.jpg
+caption: >-
+  The Tell Fekheriye statue of Hadad-yithʿi, basalt, 9th century BCE, whose Aramaic inscription
+  calls it both ṣlm ('image') and dmwt ('likeness').
+description: Tell Fekheriyeh statue
+creator: Wayne Pitard
+credit_line: https://vici.org/image.php?id=14085
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Wayne Pitard. CC0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tell_Fekheriyeh_statue.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/4/43/Tell_Fekheriyeh_statue.jpg
+  sha1: 2064a9f39a1f43a6e12be9506f751b9fec0c5d03
+  original_size: [585, 1032]
+  retrieved: '2026-11-20'
+derivative: null
+size: [585, 1032]
+depicts: [image-of-god, tell-fekheriye-statue]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

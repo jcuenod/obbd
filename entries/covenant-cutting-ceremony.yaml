@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: covenant-cutting-ceremony
+title: Covenant-Cutting Ceremonies
+aliases: [Cutting a covenant, Covenant between the pieces]
+type: practice
+cultures: [amorite, aramean, assyrian, hittite]
+scope: >-
+  Rituals that ratified covenants and treaties: cutting animals, passing between the pieces,
+  blood rites, sacrificial meals and witness objects. These are compared with Mari, Alalakh,
+  Assyrian and Aramaic treaty rites. The idiom 'to cut (kārat) a covenant' is included.
+passages:
+- ref: Gen 15:9-18
+  rel: practice
+  note: Animals cut in two; smoking pot and torch pass between the pieces
+- ref: Jer 34:18-20
+  rel: practice
+  note: Those who passed between the calf's halves will become like it
+- ref: Exod 24:3-8
+  rel: practice
+  note: 'Blood thrown on altar and people: ''the blood of the covenant'''
+- ref: Exod 24:9-11
+  rel: practice
+  note: Covenant meal before God on the mountain
+- ref: Gen 21:27-32
+  rel: practice
+  note: 'Abraham and Abimelech: animals and seven ewe lambs as witness'
+- ref: Gen 31:44-54
+  rel: practice
+  note: 'Jacob and Laban: heap of witness, oath and sacrificial meal'
+- ref: Ps 50:5
+  rel: language
+  note: Those who made a covenant with me by sacrifice
+- ref: 2Sam 5:3
+  rel: practice
+  note: Elders make a covenant with David before YHWH at Hebron
+- ref: Hos 12:1
+  rel: practice
+  disputed: true
+  note: Covenant with Assyria; oil carried to Egypt (MT 12:2)
+related: [covenant-and-treaty-form, sefire-treaties, mari-letters, oaths-and-oath-formulas,
+  blessings-and-curses, sacrifice, hittite-vassal-treaties]
+media: []
+external:
+  wikipedia: Covenant of the pieces
+  wikidata: Q5179022
+editorial:
+  author_notes:
+  - >-
+    Mari letters speak of 'killing a donkey foal' (ḥayāram qaṭālum) to make a treaty. At Alalakh,
+    Abba-AN cuts the neck of a lamb in the treaty with Yarim-Lim (AT 456).
+  - >-
+    Self-curse parallels: Ashur-nirari V's treaty with Matiʾilu (the ram's head 'is the head
+    of Matiʾilu'; SAA 2 2); Sefire I A 40, 'as this calf is cut in two, so may Matiʿel be
+    cut in two'.
+  - >-
+    The self-curse reading is the consensus for Jer 34. For Gen 15 it is debated, since only
+    the divine symbols pass between the pieces. Some read the scene as a promissory oath or
+    grant.
+  - Aramaic Sefire uses gzr ʿdy, 'cut a treaty', which parallels Hebrew kārat bĕrît.
+  sources_to_check: [SAA 2 2 (Aššur-nērārī V treaty), KAI 222 (Sefire I)]
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: 'Passage tags checked against WEB text: Gen 15:9-21 narrowed to Gen 15:9-18'
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

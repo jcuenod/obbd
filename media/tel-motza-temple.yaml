@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: tel-motza-temple
+file: tel-motza-temple.png
+title: Tel Motza Temple.png
+caption: >-
+  Remains of the Iron Age temple at Tel Moẓa west of Jerusalem, excavated beneath a modern
+  highway bridge.
+description: The Israelite Temple at Tel Motza.
+creator: Natritmeyer
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Natritmeyer, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tel_Motza_Temple.png
+  original_url: https://upload.wikimedia.org/wikipedia/commons/5/55/Tel_Motza_Temple.png
+  sha1: 2098273b0de57d0203e6126c9bf22936fa7b094a
+  original_size: [2048, 1356]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1059 px
+size: [1600, 1059]
+depicts: [tel-motza-temple]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

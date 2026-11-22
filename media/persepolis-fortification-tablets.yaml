@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: persepolis-fortification-tablets
+file: persepolis-fortification-tablets.jpg
+title: >-
+  Tablilla con inscripción cuneiforme en lengua elamita. Período aqueménida (559-331 a. C.)
+  - MARQ.jpg
+caption: >-
+  Clay tablet with an Elamite cuneiform text from Persepolis, Achaemenid period (shown at
+  the MARQ, Alicante).
+description: >-
+  Tablilla con inscripción cuneiforme en lengua elamita. Período aqueménida. 559-331 a. C.
+  Procedencia: Persépolis. Forma parte de la exposición Irán, cuna de civilizaciones en el
+  MARQ. Se exhibe en el Museo Nacional de Irán.
+creator: Dorieo
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Dorieo, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Tablilla_con_inscripci%C3%B3n_cuneiforme_en_lengua_elamita._Per%C3%ADodo_aquem%C3%A9nida_(559-331_a._C.)_-_MARQ.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/5/5d/Tablilla_con_inscripci%C3%B3n_cuneiforme_en_lengua_elamita._Per%C3%ADodo_aquem%C3%A9nida_%28559-331_a._C.%29_-_MARQ.jpg
+  sha1: bc55e79e485a6ad8e323dd4895eb021e01388528
+  original_size: [4000, 2667]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [persepolis-fortification-tablets]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

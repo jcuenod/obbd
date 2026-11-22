@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: plague-prayers-of-mursili
+file: plague-prayers-of-mursili.jpg
+title: >-
+  Mursili II prayers to the gods to end Plaque, 13th century BC, from Hattusa, Istanbul Archaeological
+  Museum.jpg
+caption: >-
+  Clay tablet from Hattusa with a plague prayer of Muršili II, 13th-century copy (Istanbul
+  Archaeology Museums).
+description: >-
+  The Hittite king Mursili II (also Muršili II, Mursilis II) prays to the gods to end the
+  epidemic of Plaque. Clay tablet. 13th century BC (original tablet written in the 14th century
+  BC) From Hattusa, Turkey. Istanbul Archaeological Museum.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Mursili_II_prayers_to_the_gods_to_end_Plaque,_13th_century_BC,_from_Hattusa,_Istanbul_Archaeological_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/96/Mursili_II_prayers_to_the_gods_to_end_Plaque%2C_13th_century_BC%2C_from_Hattusa%2C_Istanbul_Archaeological_Museum.jpg
+  sha1: d8c2863563f869a39c0f61c2766d720eb3222f40
+  original_size: [3036, 3519]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1381×1600 px
+size: [1381, 1600]
+depicts: [plague-prayers-of-mursili]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

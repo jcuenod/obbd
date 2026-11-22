@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: egyptian-cosmology
+file: egyptian-cosmology.jpg
+title: Geb, Nut, Shu.jpg
+caption: >-
+  The air god Shu raising the sky goddess Nut above the earth god Geb, from the Greenfield
+  Papyrus, early 22nd Dynasty (British Museum).
+description: >-
+  Detail from the Greenfield Papyrus (the Book of the Dead of Nesitanebtashru). It depicts
+  the air god Shu, assisted by the ram-headed Heh deities, supporting the sky goddess Nut
+  as the earth god Geb reclines beneath.
+creator: Photographed by the British Museum; original artist unknown
+credit_line: What Life Was Like on the Banks of the Nile, edited by Denise Dersin
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: >-
+  Photographed by the British Museum; original artist unknown. Public domain, via Wikimedia
+  Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Geb,_Nut,_Shu.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/0/0b/Geb%2C_Nut%2C_Shu.jpg
+  sha1: 6cc6e7cb79e67703b74eee0bbbb8d66431e96ce1
+  original_size: [1691, 1140]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1079 px
+size: [1600, 1079]
+depicts: [cosmology, egyptian-cosmology]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

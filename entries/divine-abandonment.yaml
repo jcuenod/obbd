@@ -1,0 +1,101 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: divine-abandonment
+title: Divine Abandonment and Captured Divine Images
+aliases: [departure of the deity, divine wrath and abandonment, godnapping]
+type: concept
+cultures: [hebrew, babylonian, assyrian]
+scope: >-
+  The ancient Near Eastern motif in which an angry deity abandons his city, temple or land,
+  leaving it open to enemies, and later relents and returns. It explains defeat in Mesopotamian
+  laments, the Marduk Prophecy, Esarhaddon's Babylon inscriptions and the Mesha Stele, and
+  shapes Ezekiel's departure and return of the glory. The making and capture of cult statues
+  are treated under cult-images.
+passages:
+- ref: Ezek 8:6
+  rel: concept
+  note: Abominations that 'drive me far from my sanctuary'
+- ref: Ezek 9:9
+  rel: concept
+  note: The people say 'YHWH has forsaken the land'; cf. 8:12
+- ref: Ezek 10:18-19; 11:22-23
+  rel: concept
+  note: The glory leaves the temple and the city eastward
+- ref: Ezek 43:1-5
+  rel: concept
+  note: The glory returns from the east and fills the temple
+- ref: 1Sam 4:1-7:2
+  rel: parallel
+  note: 'The ark is captured, afflicts its captors, and returns: a capture-and-return narrative'
+- ref: Ps 78:59-61
+  rel: concept
+  note: God abandons Shiloh and gives his 'power' (the ark) into captivity
+- ref: Jer 12:7
+  rel: concept
+  note: '''I have forsaken my house, I have abandoned my heritage'''
+- ref: Lam 2:1, 7
+  rel: concept
+  note: YHWH has forgotten his footstool, scorned his altar and disowned his sanctuary
+- ref: Isa 46:1-2
+  rel: polemic
+  note: Bel and Nebo themselves go into captivity
+- ref: 2Kgs 18:25
+  rel: concept
+  note: The Rabshakeh claims that YHWH sent Assyria against Judah
+- ref: Jer 25:11-12
+  rel: parallel
+  note: >-
+    Seventy years of desolation; Esarhaddon's Marduk decreed seventy years, then reduced them
+    to eleven
+- ref: Ezra 1:7-11
+  rel: practice
+  note: Cyrus returns the temple vessels, the counterpart of restoring captured gods
+related: [cult-images, city-laments, akkadian-prophecies, erra-and-ishum, mesha-stele, cyrus-cylinder,
+  ark-of-the-covenant, divine-glory-and-melammu]
+media:
+- id: divine-abandonment
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Survey the Mesopotamian sources: the Sumerian city laments (gods leave their cities),
+    the Marduk Prophecy (Marduk's journeys to Hatti, Assyria and Elam), Esarhaddon's Babylon
+    inscriptions (Marduk's anger, seventy years reduced to eleven), Erra and Išum, and the
+    Cyrus Cylinder (Marduk angered by Nabonidus chooses Cyrus). The Mesha Stele (Chemosh 'angry
+    with his land') shows the same logic in the Levant.
+  - >-
+    Block's studies of Ezekiel's adaptation of the motif are the standard starting point.
+    Note the difference: in Ezekiel there is no statue to remove, so the kābôd departs; and
+    YHWH leaves by choice in judgment, not because he is defeated.
+  - >-
+    Miller and Roberts (1977) read the ark narrative against Mesopotamian capture-and-return
+    accounts. Their reading is widely followed, though the date of the narrative is debated.
+  - >-
+    Distinguish the motif (divine anger and departure) from the practice (removal of statues).
+    Ancient sources often merge them: a statue taken as booty can be described as the god
+    'going' to the enemy.
+  sources_to_check:
+  - D. I. Block, The Gods of the Nations (2nd ed. 2000)
+  - >-
+    D. I. Block, 'Divine Abandonment: Ezekiel's Adaptation of an Ancient Near Eastern Motif,'
+    in M. S. Odell and J. T. Strong, eds., The Book of Ezekiel (SBLSymS 9, 2000)
+  - P. D. Miller Jr. and J. J. M. Roberts, The Hand of the Lord (1977)
+  - >-
+    J. F. Kutsko, Between Heaven and Earth: Divine Presence and Absence in the Book of Ezekiel
+    (2000)
+  - M. Cogan, Imperialism and Religion (SBLMS 19, 1974)
+  image_query: Black Stone of Esarhaddon British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

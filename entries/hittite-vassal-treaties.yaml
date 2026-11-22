@@ -1,0 +1,86 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: hittite-vassal-treaties
+title: Hittite Vassal Treaties
+type: text
+cultures: [hittite]
+date:
+  from: -1400
+  to: -1200
+  circa: true
+  display: c. 1400–1200 BCE
+scope: >-
+  The Late Bronze Age treaties by which Hittite great kings bound subordinate rulers. They
+  typically include a preamble, historical prologue, stipulations, provisions for deposit
+  and public reading, divine witnesses, and curses and blessings. Since Mendenhall (1954)
+  they have been central to the comparison of covenant forms in Exodus, Deuteronomy, and Joshua.
+passages:
+- ref: Exod 20:2
+  rel: form
+  note: Self-identification of the overlord with his past benefaction (historical prologue)
+- ref: Exod 20:1-17
+  rel: form
+  disputed: true
+  note: Decalogue read as treaty stipulations of exclusive loyalty (Mendenhall)
+- ref: Deut 1:6-3:29
+  rel: form
+  note: Historical review of the relationship before the stipulations
+- ref: Josh 24:1-28
+  rel: form
+  note: 'Covenant ceremony: history, stipulations, witnesses, written record'
+- ref: Deut 31:9-13, 24-26
+  rel: practice
+  note: Document deposited in the sanctuary and periodically read aloud
+- ref: Exod 25:16
+  rel: practice
+  note: Covenant document ('testimony') placed in the ark
+- ref: Deut 28
+  rel: form
+  note: Blessings and curses as treaty sanctions
+- ref: Deut 30:19
+  rel: form
+  note: Heaven and earth invoked as witnesses, as at the end of Hittite divine-witness lists
+related: [covenant-and-treaty-form, blessings-and-curses, esarhaddon-succession-treaty, egyptian-hittite-peace-treaty,
+  covenant-lawsuit, sefire-treaties, hittites-and-hethites]
+media:
+- id: hittite-vassal-treaties
+  role: primary
+- id: hittite-vassal-treaties-2
+  role: gallery
+- id: covenant-and-treaty-form
+  role: gallery
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Mendenhall, Baltzer, McCarthy, and Kitchen argued that the Hittite form matches the Sinai/Deuteronomy
+    covenant and supports an early date. Most now find Deuteronomy's closest analogues in
+    7th-c. Neo-Assyrian oaths, yet Hittite features (historical prologue, blessings) remain;
+    Berman revives the Hittite comparison.
+  - >-
+    Representative texts: Šuppiluliuma I with Aziru of Amurru; Muršili II with Tuppi-Teššub;
+    the bronze tablet of Tudḫaliya IV with Kurunta (found at Ḫattuša in 1986).
+  - >-
+    Treat the Decalogue-as-treaty idea as contested; the analogy holds better for Deuteronomy
+    as a whole.
+  sources_to_check:
+  - G. Beckman, Hittite Diplomatic Texts (2nd ed., SBLWAW 7, 1999)
+  - D. J. McCarthy, Treaty and Covenant (rev. ed., AnBib 21A, 1978)
+  - >-
+    K. A. Kitchen and P. J. N. Lawrence, Treaty, Law and Covenant in the Ancient Near East
+    (2012)
+  - ANET 203-205
+  image_query: Bronze tablet Hattusa treaty
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

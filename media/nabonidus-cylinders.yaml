@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: nabonidus-cylinders
+file: nabonidus-cylinders.jpg
+title: Cylinder of Nabonidus from the temple of Shamash at Larsa, Mesopotamia..JPG
+caption: >-
+  Terracotta cylinder of Nabonidus recording building work including the temple of Shamash
+  at Larsa (British Museum).
+description: >-
+  This terracotta cylinder records, in 3 columns, the building operations done by Nabonidus,
+  including the restoration of the temple of the God Shamash at Larsa. Probably from Larsa,
+  southern Mesopotamia. Neo-Babylonian period, 555-539 BCE. The British Museum, London.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Cylinder_of_Nabonidus_from_the_temple_of_Shamash_at_Larsa,_Mesopotamia..JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/9e/Cylinder_of_Nabonidus_from_the_temple_of_Shamash_at_Larsa%2C_Mesopotamia..JPG
+  sha1: 31161e70703df3454175c2286a3c3e711f3cde55
+  original_size: [3690, 2283]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×990 px
+size: [1600, 990]
+depicts: [nabonidus-cylinders]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

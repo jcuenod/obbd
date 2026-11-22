@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: sargon-of-akkad
+file: sargon-of-akkad.jpg
+title: Sargon of Akkad on his victory stele.jpg
+caption: >-
+  Sargon of Akkad on a fragment of his victory stele, Akkadian period (Musée du Louvre, Paris).
+description: Sargon of Akkad on his victory stele
+creator: ALFGRN
+credit_line: This image has been extracted from another file
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: ALFGRN, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sargon_of_Akkad_on_his_victory_stele.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/f/f2/Sargon_of_Akkad_on_his_victory_stele.jpg
+  sha1: 205183c3a4ad7771ae2c40e77f4f7912dca6a95e
+  original_size: [938, 1328]
+  retrieved: '2026-11-20'
+derivative: null
+size: [938, 1328]
+depicts: [sargon-of-akkad]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

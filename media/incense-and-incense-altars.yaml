@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: incense-and-incense-altars
+file: incense-and-incense-altars.jpg
+title: Holy of Holies from the sanctuary at Arad.jpg
+caption: >-
+  The inner shrine of the Iron Age sanctuary at Arad, with its two limestone incense altars
+  and standing stone, 8th century BCE (Israel Museum, Jerusalem).
+description: >-
+  Holy of Holies from the sanctuary at Arad, Iron Age II, 8th century BCE, Limestone, Israel
+  museum
+creator: Yair Haklai
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Yair Haklai, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Holy_of_Holies_from_the_sanctuary_at_Arad.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/13/Holy_of_Holies_from_the_sanctuary_at_Arad.jpg
+  sha1: 04afff963a09d80fb2793467fa174b73f90f1bef
+  original_size: [4128, 2322]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×900 px
+size: [1600, 900]
+depicts: [arad, incense-and-incense-altars]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

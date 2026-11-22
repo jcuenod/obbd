@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: necho-ii
+file: necho-ii.png
+title: Necho-KnellingStatue BrooklynMuseum.png
+caption: >-
+  Bronze kneeling statuette of a pharaoh Necho, either Necho I or Necho II (Brooklyn Museum).
+description: >-
+  Bronze kneeling statuette of the pharaoh Necho (either Necho I, circa 673-664 B.C., or Necho
+  II, circa 610-595 B.C.)
+creator: Keith Schengili-Roberts
+credit_line: Own work (photo)
+license:
+  id: CC-BY-2.5
+  name: CC BY 2.5
+  url: https://creativecommons.org/licenses/by/2.5
+attribution: Keith Schengili-Roberts, CC BY 2.5, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Necho-KnellingStatue_BrooklynMuseum.png
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/0/05/Necho-KnellingStatue_BrooklynMuseum.png
+  sha1: fdb3bce1bf07d8d7de121cbd1f281b6ed6f59439
+  original_size: [549, 1339]
+  retrieved: '2026-11-20'
+derivative: null
+size: [549, 1339]
+depicts: [necho-ii]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

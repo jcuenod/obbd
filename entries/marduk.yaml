@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: marduk
+title: Marduk (Bel, Merodach)
+aliases: [Bel, Merodach]
+type: deity
+cultures: [babylonian]
+scope: >-
+  Marduk, city god of Babylon and from the late second millennium head of the Babylonian pantheon,
+  celebrated in Enuma Elish as victor over Tiamat and king of the gods; often called simply
+  Bel ("lord"). The entry covers his cult and its reflection in exilic prophecy and later
+  Jewish literature.
+passages:
+- ref: Isa 46:1-2
+  rel: polemic
+  note: Bel bows down, Nebo stoops; idols carried as burdens on beasts
+- ref: Jer 50:2
+  rel: polemic
+  note: '''Bel is put to shame, Merodach is dismayed'''
+- ref: Jer 51:44
+  rel: polemic
+  note: YHWH punishes Bel in Babylon and makes him disgorge
+- ref: Isa 44:24-45:7
+  rel: polemic
+  note: YHWH, not Marduk, calls Cyrus; cf. Cyrus Cylinder
+- ref: Bel 1-22
+  rel: polemic
+  note: Daniel exposes the priests who 'feed' the idol Bel
+- ref: Dan 4:8
+  rel: language
+  note: Belteshazzar 'named after the name of my god' (Aram. 4:5)
+- ref: Isa 39:1
+  rel: language
+  note: Merodach-baladan (Marduk-apla-iddina)
+- ref: 2Kgs 25:27
+  rel: language
+  note: Evil-merodach (Amel-Marduk)
+- ref: Esth 2:5
+  rel: language
+  note: Mordecai, a name derived from Marduk
+related: [enuma-elish, babylon, akitu-festival, cyrus-cylinder, nabu, cult-images, etemenanki,
+  amel-marduk]
+media:
+- id: marduk
+  role: primary
+- id: marduk-2
+  role: gallery
+external:
+  wikipedia: Marduk
+  wikidata: Q190123
+editorial:
+  author_notes:
+  - >-
+    Explain Marduk's rise (often linked to the Nebuchadnezzar I period) and his supremacy
+    in Enuma Elish; the date of Enuma Elish is debated.
+  - >-
+    Deutero-Isaiah's idol polemic and procession imagery (Isa 46) are best read against Akitu
+    processions and the Cyrus Cylinder's claim that Marduk chose Cyrus.
+  - >-
+    The derivation of Mordecai from Marduk is consensus; Esther from Ishtar is debated and
+    should not be stated as fact.
+  sources_to_check:
+  - W. G. Lambert, Babylonian Creation Myths (2013)
+  - DDD, s.v. "Marduk"
+  image_query: Marduk cylinder seal lapis lazuli
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-1-sol

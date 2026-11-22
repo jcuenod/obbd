@@ -1,0 +1,2314 @@
+# Seed entries: Persian period, Second Temple Judaism, and New Testament background.
+# Order follows seed/master.txt (## persian-hellenistic-nt).
+
+- id: cyrus-cylinder
+  cultures: [persian, babylonian]
+  date: [-539, -538]
+  circa: true
+  scope: >-
+    Inscribed clay barrel cylinder in Akkadian cuneiform, found at Babylon in 1879,
+    issued in the name of Cyrus II after his capture of Babylon in 539 BCE. It presents
+    Cyrus as chosen by Marduk to replace the impious Nabonidus and records the return of
+    divine images and displaced peoples to their sanctuaries.
+  passages:
+    - "Isa 44:28-45:7 | concept | Cyrus called by name and his hand grasped by the deity; cf. Marduk choosing Cyrus"
+    - "Ezra 1:1-4 | parallel | Cyrus's decree permitting return and temple rebuilding; comparable restoration policy"
+    - "Ezra 6:3-5 | parallel | Aramaic memorandum of Cyrus on rebuilding the Jerusalem temple"
+    - "2Chr 36:22-23 | parallel | Cyrus charged by the God of heaven to build him a house"
+    - "Ezra 1:7-11 | practice | Return of temple vessels; cf. the Cylinder's return of divine images to their shrines"
+    - "Dan 5:30-31 | event | Fall of Babylon; Daniel assigns the kingdom to Darius the Mede (5:31 = MT 6:1)"
+  related: [cyrus-the-great, fall-of-babylon-539, nabonidus-chronicle, verse-account-of-nabonidus, marduk, persian-imperial-authorization, babylon]
+  wikipedia: Cyrus Cylinder
+  image: Cyrus Cylinder British Museum
+  location: British Museum, London
+  author_notes:
+    - "Present the text as a Babylonian royal building inscription in Mesopotamian tradition (it even cites an inscription of Ashurbanipal), written to legitimate Cyrus before a Babylonian audience."
+    - "Correct the popular claim that it is a 'charter of human rights'; the restorations it describes are pragmatic imperial policy toward Mesopotamian cult centres."
+    - "The Cylinder does not mention Judah, Jerusalem, or Jews. The link to Ezra 1 is an analogy of policy, not direct attestation of the biblical decree."
+    - "Note the debate over the authenticity of Ezra's decrees: the Aramaic memorandum (Ezra 6:3-5) is more often defended than the Hebrew edict (Ezra 1:2-4)."
+    - "Mention the joined Yale fragment and the cuneiform tablet copies of the same text identified in the British Museum in 2010."
+  sources_to_check:
+    - "ANET 315-316"
+    - "COS 2.124"
+    - "I. Finkel (ed.), The Cyrus Cylinder: The King of Persia's Proclamation from Ancient Babylon (2013)"
+    - "A. Kuhrt, The Persian Empire: A Corpus of Sources from the Achaemenid Period (2007)"
+
+- id: behistun-inscription
+  aliases: [Bisitun Inscription, Bisotun Inscription]
+  cultures: [persian, elamite, babylonian]
+  date: [-520, -518]
+  circa: true
+  scope: >-
+    Monumental rock relief and trilingual inscription (Old Persian, Elamite, Babylonian)
+    of Darius I at Bisotun in western Iran, recounting his accession and his suppression
+    of the revolts of 522-521 BCE. An Aramaic version on papyrus from Elephantine shows its
+    circulation through the empire; the monument was also the key to deciphering cuneiform.
+  passages:
+    - "Ezra 4:24 | setting | Temple work resumes in Darius's second year, just after the revolts were crushed"
+    - "Hag 1:1 | setting | Haggai's oracles dated to Darius's second year (520 BCE)"
+    - "Hag 2:6-7, 21-22 | setting? | Shaking of nations and overthrow of kingdoms, perhaps echoing the upheavals of 522-521"
+    - "Zech 1:11 | setting? | 'The whole earth remains at peace' after the empire's pacification"
+    - "Esth 1:22; 3:12; 8:9 | practice | Royal edicts sent to every province in its own script and language"
+    - "Ezra 6:11 | practice | Impalement threatened for violators; Darius records impaling rebel leaders"
+    - "Esth 2:23; 7:9-10 | practice | Execution on a stake, a Persian punishment"
+  related: [darius-i, persia, elephantine-papyri, aramaic-language, medes, zoroastrianism, winged-sun-disk]
+  wikipedia: Behistun inscription
+  image: Behistun Inscription relief Darius
+  location: In situ, Bisotun, Kermanshah Province, Iran
+  author_notes:
+    - "Explain Darius's account of the 'false Bardiya' (Gaumata) and the widely held view that Darius was himself a usurper; compare Herodotus 3.61-88."
+    - "Highlight the Aramaic version from Elephantine (late 5th century copy) as evidence of deliberate imperial dissemination of royal texts."
+    - "The links to Haggai and Zechariah are contextual (dating and atmosphere). Do not claim the prophets allude to the inscription."
+    - "Note the role of Ahuramazda ('by the favour of Ahuramazda') for discussions of Achaemenid religion, and Rawlinson's decipherment work of the 1830s-40s."
+  sources_to_check:
+    - "R. Schmitt, The Bisitun Inscriptions of Darius the Great: Old Persian Text (Corpus Inscriptionum Iranicarum, 1991)"
+    - "J. C. Greenfield and B. Porten, The Bisitun Inscription of Darius the Great: Aramaic Version (Corpus Inscriptionum Iranicarum, 1982)"
+    - "TAD C2.1"
+    - "R. G. Kent, Old Persian: Grammar, Texts, Lexicon (2nd ed., 1953)"
+    - "A. Kuhrt, The Persian Empire: A Corpus of Sources from the Achaemenid Period (2007)"
+
+- id: elephantine-papyri
+  cultures: [jewish, persian, egyptian]
+  date: [-495, -399]
+  circa: true
+  scope: >-
+    The Aramaic papyri and ostraca of the Judean military colony on Elephantine island
+    (Yeb) at Egypt's southern frontier, mostly from the 5th century BCE. The corpus
+    includes family archives, contracts, communal letters about the temple of YHW, lists,
+    and literary texts (Ahiqar, the Bisitun inscription). Individual key documents have
+    their own entries.
+  passages:
+    - "Jer 44:1 | setting | Judeans settled in Egypt, including Pathros (Upper Egypt)"
+    - "Jer 44:15-19 | practice | Judeans in Egypt honouring other deities; cf. Anat-Yahu and Eshem-Bethel in Elephantine texts"
+    - "Neh 2:10, 19 | attests | Sanballat governor of Samaria, whose sons the colonists petitioned"
+    - "Neh 12:22-23 | attests | Johanan the high priest, addressed by the colonists"
+    - "Ezra 4:11-16; 5:7-17 | form | Aramaic official letter formulae, address and 'and now' transitions"
+    - "Neh 13:23-27 | practice | Intermarriage; Elephantine contracts record Judean-Egyptian marriages"
+    - "Deut 24:1-4 | practice | Divorce; Elephantine marriage contracts let either spouse initiate divorce"
+    - "Mal 2:16 | language | 'Hate' (śnʾ) as technical term for divorce, as in Elephantine contracts"
+    - "Neh 13:15-22 | practice | Ostraca refer to the Sabbath as a fixed day in diaspora life"
+  related: [elephantine, elephantine-temple-petition, elephantine-passover-letter, ahiqar, aramaic-language, sabbath, marriage-and-bride-price, letter-writing-conventions]
+  wikipedia: Elephantine papyri and ostraca
+  image: Elephantine Aramaic papyrus
+  location: Dispersed; major holdings in the Ägyptisches Museum und Papyrussammlung, Berlin, the Brooklyn Museum, and the Egyptian Museum, Cairo
+  author_notes:
+    - "The colony predates Cambyses (525 BCE) according to the temple petition. Its origins (Saite mercenaries? refugees after 587?) are debated."
+    - "Discuss the colonists' self-designation (yhwdyʾ 'Judeans', also 'Arameans') and their worship of YHW alongside other named deities. Avoid anachronistic labels such as 'heterodox Judaism', and note the debate over syncretism versus Aramean neighbours."
+    - "Emphasize the absence of any clear knowledge of a written Torah, which matters for dating Pentateuchal authority."
+    - "Distinguish the main archives (Mibtahiah, Ananiah/Tamet, Jedaniah communal letters) and cite documents by TAD number."
+  sources_to_check:
+    - "B. Porten and A. Yardeni, Textbook of Aramaic Documents from Ancient Egypt (TAD), 4 vols. (1986-1999)"
+    - "B. Porten (ed.), The Elephantine Papyri in English (1996; 2nd ed. 2011)"
+    - "A. E. Cowley, Aramaic Papyri of the Fifth Century B.C. (1923)"
+    - "E. G. Kraeling, The Brooklyn Museum Aramaic Papyri (1953)"
+    - "B. Porten, Archives from Elephantine: The Life of an Ancient Jewish Military Colony (1968)"
+
+- id: elephantine-temple-petition
+  aliases: [Request to Bagohi, Petition to Bagavahya]
+  cultures: [jewish, persian]
+  date: [-407]
+  scope: >-
+    Aramaic petition (TAD A4.7, with draft A4.8) of 407 BCE from Jedaniah and the priests of
+    Elephantine to Bagavahya, governor of Judah, seeking support to rebuild the temple of
+    YHW destroyed in 410 BCE. The entry also covers the related memorandum (A4.9) and offer
+    (A4.10) that record the reply and conditions.
+  passages:
+    - "Neh 2:10, 19; 13:28 | attests | Sanballat governor of Samaria; the colonists also wrote to his sons Delaiah and Shelemiah"
+    - "Neh 12:22-23 | attests | Johanan the high priest, who left an earlier letter unanswered"
+    - "Neh 5:14-15 | attests | Office of governor (peḥâ) of Judah, held by Bagavahya in 407"
+    - "Ezra 6:3-12 | practice | Persian authorization to rebuild a temple, specifying permitted offerings"
+    - "Deut 12:5-14 | concept? | Centralization of sacrifice; the memorandum permits meal-offering and incense, not burnt offerings"
+    - "Isa 19:19 | concept? | An altar to YHWH in Egypt"
+    - "Dan 10:2-3 | practice | Mourning by fasting and abstaining from wine and anointing, as the petitioners report"
+  related: [elephantine-papyri, elephantine, sanballat, yehud-province, samaritan-origins, persian-imperial-authorization, khnum]
+  wikipedia: null
+  image: Elephantine papyrus petition Bagohi temple
+  location: Ägyptisches Museum und Papyrussammlung, Berlin
+  author_notes:
+    - "Dated 20 Marcheshvan, year 17 of Darius II (late 407 BCE); destruction in year 14 (410) by priests of Khnum with the support of the commander Vidranga."
+    - "Motives for the destruction are debated (property or space disputes, offence at animal sacrifice near the ram-god Khnum's temple). Present the Passover-lamb explanation as speculative."
+    - "The memorandum's silence on burnt offerings (and the offer in A4.10) is often read as deference to Jerusalem's claims or to Egyptian sensitivities."
+    - "Chronological value: Sanballat's sons active in 407 and Johanan as high priest support placing Nehemiah under Artaxerxes I, and bear on the date of Ezra (cf. Ezra 10:6)."
+  sources_to_check:
+    - "TAD A4.7-A4.10"
+    - "A. E. Cowley, Aramaic Papyri of the Fifth Century B.C. (1923), nos. 30-33"
+    - "J. M. Lindenberger, Ancient Aramaic and Hebrew Letters (2nd ed., 2003)"
+
+- id: elephantine-passover-letter
+  cultures: [jewish, persian]
+  date: [-419, -418]
+  scope: >-
+    Fragmentary Aramaic letter (TAD A4.1) of 419/418 BCE, year 5 of Darius II, from one
+    Hananiah to Jedaniah and the Judean garrison at Elephantine. It conveys instructions,
+    linked to a royal message to the satrap Arshama, for observing a festival from the 14th
+    to the 21st of Nisan with purity and avoidance of leaven.
+  passages:
+    - "Exod 12:15-20 | practice | Seven days of unleavened bread to the 21st day; removal of leaven"
+    - "Lev 23:5-8 | practice | Passover on the 14th and unleavened bread from the 15th for seven days"
+    - "Deut 16:1-8 | practice | Passover and unleavened bread as a pilgrimage feast"
+    - "Ezra 6:19-22 | practice | Passover kept by the purified returnees under Darius"
+    - "Ezra 7:12-26 | concept? | Royal involvement in Judean cultic norms, if the letter conveys a royal authorization"
+  related: [elephantine-papyri, elephantine, passover-origins, persian-imperial-authorization, calendars-and-month-names, festivals-agricultural]
+  wikipedia: null
+  image: Elephantine Passover papyrus
+  location: Ägyptisches Museum und Papyrussammlung, Berlin
+  author_notes:
+    - "Stress the damaged state: the word 'Passover' (psḥ) is restored in the letter, though psḥ is attested in Elephantine ostraca."
+    - "What the royal message concerned is debated: authorization of the festival itself, or something more general. Do not state that Darius II 'decreed the Passover'."
+    - "The letter is often cited as evidence for, or against, Frei's imperial authorization thesis; present both readings."
+    - "Discuss whether the instructions reflect knowledge of Priestly calendar laws (Exod 12; Lev 23), or a practice still being standardized."
+  sources_to_check:
+    - "TAD A4.1"
+    - "A. E. Cowley, Aramaic Papyri of the Fifth Century B.C. (1923), no. 21"
+    - "J. M. Lindenberger, Ancient Aramaic and Hebrew Letters (2nd ed., 2003)"
+
+- id: persepolis-fortification-tablets
+  cultures: [persian, elamite]
+  date: [-509, -458]
+  circa: true
+  scope: >-
+    The administrative archives excavated at Persepolis in 1933-34: thousands of
+    Fortification tablets (509-493 BCE, mostly Elamite, some Aramaic) recording rations,
+    travel provisions, and estate management, and the Treasury tablets (492-458 BCE). They
+    are the primary documentary evidence for how the Achaemenid heartland was run.
+  passages:
+    - "Neh 2:7-9 | practice | Royal letters for safe passage; cf. sealed travel authorizations for rations on royal roads"
+    - "Esth 3:13-15; 8:10, 14 | practice | Royal couriers on swift horses; cf. provisions for express messengers"
+    - "Neh 2:8 | language | 'Keeper of the king's park (pardēs)', a Persian loanword attested in the tablets"
+    - "Eccl 2:5 | language | pardēs 'park', Old Iranian loanword"
+    - "Ezra 6:9-10 | practice | Royal provision for sacrifices; tablets record rations for offerings to various gods"
+    - "Neh 5:14-18 | practice | The governor's food allowance and table within the ration system"
+    - "Ezra 4:7 | language | Aramaic as a language of imperial administration alongside Elamite"
+  related: [persepolis, darius-i, xerxes-i, persia, aramaic-language, marduka-tablet, roads-and-highways, court-officials]
+  wikipedia: Persepolis Administrative Archives
+  image: Persepolis Fortification Tablet Elamite
+  author_notes:
+    - "Explain the archive's discovery by the Oriental Institute (Chicago), the Persepolis Fortification Archive Project, and the legal dispute and phased return of tablets to Iran."
+    - "Henkelman's work shows state-funded offerings to Elamite, Iranian, and Babylonian gods. This is useful context for Persian support of local cults, but avoid making it a model of 'tolerance'."
+    - "Several officials named Marduka appear. The name is common, so do not use these texts to identify Mordecai."
+    - "The royal courier system also lies behind Greek angareuō 'to compel (service)' (Matt 5:41; 27:32), a possible cross-reference."
+  sources_to_check:
+    - "R. T. Hallock, Persepolis Fortification Tablets (OIP 92, 1969)"
+    - "G. G. Cameron, Persepolis Treasury Tablets (OIP 65, 1948)"
+    - "W. F. M. Henkelman, The Other Gods Who Are: Studies in Elamite-Iranian Acculturation Based on the Persepolis Fortification Texts (Achaemenid History 14, 2008)"
+    - "A. Kuhrt, The Persian Empire: A Corpus of Sources from the Achaemenid Period (2007)"
+
+- id: tattenai-tablet
+  cultures: [babylonian, persian]
+  date: [-502]
+  scope: >-
+    A Babylonian cuneiform legal tablet dated to year 20 of Darius I (502 BCE) that names
+    Tattannu, governor (pīḫatu) of Ebir-nāri ('Across the River'), through one of his
+    servants acting as witness. It attests the official whom Ezra 5-6 calls Tattenai.
+  passages:
+    - "Ezra 5:3, 6 | attests | Tattenai, governor of Beyond the River, investigates the temple rebuilding"
+    - "Ezra 6:6, 13 | attests | Darius's reply addressed to Tattenai, who complies"
+    - "Ezra 4:10-11, 16-17 | language | 'Beyond the River' (ʿăbar nahărāʾ) = Akkadian Ebir-nāri as a provincial name"
+    - "Neh 2:7, 9 | language | 'Governors of Beyond the River'"
+  related: [darius-i, yehud-province, persia, persian-imperial-authorization, letter-writing-conventions]
+  wikipedia: Tattenai
+  image: Tattenai cuneiform tablet
+  author_notes:
+    - "In 502 BCE Ebir-nāri still formed part of a combined satrapy with Babylon. Tattannu was subordinate to the satrap; explain the later division of the satrapy."
+    - "The tablet confirms the name and office, not the authenticity of the Aramaic correspondence in Ezra 5-6, which remains debated."
+    - "Verify the tablet's current museum and publication history (first identified by A. Ungnad and discussed by Olmstead) before citing them."
+  sources_to_check:
+    - "M. W. Stolper, 'The Governor of Babylon and Across-the-River in 486 B.C.', JNES 48 (1989)"
+
+- id: samaria-papyri
+  aliases: [Wadi Daliyeh papyri]
+  cultures: [persian, hebrew]
+  date: [-375, -335]
+  circa: true
+  scope: >-
+    Fourth-century BCE Aramaic legal papyri (mostly slave-sale deeds) and sealings
+    from Samaria, found in 1962 in a cave in Wadi ed-Daliyeh with the remains of refugees.
+    The refugees probably fled Alexander's reprisals of 332/331 BCE. The papyri attest
+    governors of Samaria from the house of Sanballat.
+  passages:
+    - "Neh 2:10, 19 | attests | A later governor named as 'son of Sanballat', on a bulla and in a deed"
+    - "Neh 13:28 | setting | Sanballat's family as a continuing ruling house in Samaria"
+    - "2Kgs 17:24-41 | setting | Mostly Yahwistic personal names in 4th-century Samaria; bears on the polemical portrait"
+    - "Lev 25:44-46 | practice | Chattel slavery and slave sales among Samarians"
+    - "Jer 32:9-14 | practice | Sealed legal deeds with bullae"
+  related: [sanballat, samaritan-origins, samaria, mount-gerizim, sealed-deeds, slavery, seals-and-bullae]
+  wikipedia: Wadi Daliyeh
+  image: Wadi Daliyeh papyrus Samaria
+  author_notes:
+    - "Present F. M. Cross's papponymy reconstruction (Sanballat I-III), which links the papyri to Josephus, Ant. 11.302-347. Note J. Dušek's critique, which removes the need for a Sanballat III."
+    - "The latest dated deed is from 335 BCE. The connection with Alexander and Samaria's revolt (Curtius Rufus 4.8.9-11) is an inference from the cave context."
+    - "Use the onomastics (Yahwistic, Aramaic, and other names) cautiously in Samaritan-origins discussions."
+  sources_to_check:
+    - "D. M. Gropp et al., Wadi Daliyeh II: The Samaria Papyri from Wadi Daliyeh (DJD XXVIII, 2001)"
+    - "M. J. W. Leith, Wadi Daliyeh I: The Wadi Daliyeh Seal Impressions (DJD XXIV, 1997)"
+    - "P. W. Lapp and N. L. Lapp (eds.), Discoveries in the Wâdī ed-Dâliyeh (AASOR 41, 1974)"
+    - "J. Dušek, Les manuscrits araméens du Wadi Daliyeh et la Samarie vers 450-332 av. J.-C. (2007)"
+
+- id: yehud-seals-and-coins
+  cultures: [persian, judahite, jewish]
+  date: [-500, -150]
+  circa: true
+  scope: >-
+    Inscribed stamp impressions on jar handles (yhd, yhwd, sometimes with names and the
+    title phwʾ 'governor') and small silver coins inscribed yhd/yhwd from the Persian and
+    early Hellenistic province of Judah. They provide the main epigraphic evidence for
+    Yehud's administration and governors.
+  passages:
+    - "Hag 1:1, 14 | attests | Zerubbabel 'governor (peḥâ) of Judah'; seal impressions attest the office"
+    - "Neh 5:14-15 | attests | Earlier governors of Judah before Nehemiah"
+    - "Mal 1:8 | attests | 'Offer that to your governor'"
+    - "Ezra 5:8 | language | 'The province of Judah' (yĕhûd mĕdîntāʾ)"
+    - "Neh 12:10-11, 22 | attests? | Johanan the high priest; a coin of 'Yohanan the priest' may name him"
+    - "1Chr 3:19 | attests? | Shelomith, 'maidservant of Elnathan the governor' on an unprovenanced seal; identification with Zerubbabel's daughter proposed"
+  related: [yehud-province, coinage, seals-and-bullae, ramat-rahel, paleo-hebrew-script, samaria-papyri]
+  wikipedia: Yehud coinage
+  image: Yehud coin
+  author_notes:
+    - "Use the Lipschits-Vanderhooft typology and chronology. Their distribution (Ramat Rahel, Jerusalem, Mizpah area) helps map provincial boundaries."
+    - "Avigad's bullae and seals naming Elnathan and Shelomith are unprovenanced. Note this, and present the Shelomith-Zerubbabel identification (Meyers) as conjecture."
+    - "Coins: 4th century BCE, including issues naming 'Yehezqiyah the governor' and 'Yohanan the priest'. Note the debated BM drachm with a seated deity (reading YHD vs. YHW)."
+    - "Note the use of Aramaic versus paleo-Hebrew scripts on these objects, and the minting of Yehud coins after the Persian period under Ptolemaic rule."
+  sources_to_check:
+    - "O. Lipschits and D. S. Vanderhooft, The Yehud Stamp Impressions (2011)"
+    - "N. Avigad, Bullae and Seals from a Post-Exilic Judean Archive (Qedem 4, 1976)"
+    - "Y. Meshorer, A Treasury of Jewish Coins (2001)"
+
+- id: udjahorresnet-statue
+  cultures: [egyptian, persian]
+  date: [-519]
+  circa: true
+  scope: >-
+    Naophorous statue of the Egyptian official Udjahorresnet, priest of Neith at Sais and
+    chief physician, whose inscription narrates his service to Cambyses and Darius I.
+    It records his role in composing Cambyses' royal titulary, restoring the Neith
+    sanctuary, and, on Darius's orders, re-establishing the 'House of Life'.
+  passages:
+    - "Ezra 7:12-26 | parallel | A native official commissioned by the Persian king to restore local cult and institutions"
+    - "Neh 1:11-2:8 | parallel | A courtier of subject origin gains royal sponsorship for his homeland"
+    - "Ezra 6:3-12 | practice | Persian royal patronage of a local sanctuary"
+  related: [persian-imperial-authorization, darius-i, persia, cyrus-cylinder, court-officials, scribes-and-scribal-education]
+  wikipedia: Udjahorresnet
+  image: Udjahorresnet statue Vatican
+  location: Museo Gregoriano Egizio, Vatican Museums
+  author_notes:
+    - "Debate on whether he was a collaborator or a protector of Egyptian interests. His positive portrait of Cambyses contrasts with Herodotus's 'mad Cambyses'."
+    - "The parallel to Ezra and Nehemiah is typological (Blenkinsopp 1987): it shows how Persian kings used native elites. It is not evidence of direct contact."
+    - "Relate him to the Demotic Chronicle's report that Darius ordered Egyptian law collected. This is important evidence in the imperial authorization debate."
+  sources_to_check:
+    - "M. Lichtheim, Ancient Egyptian Literature, vol. 3 (1980)"
+    - "G. Posener, La première domination perse en Égypte (1936)"
+    - "J. Blenkinsopp, 'The Mission of Udjahorresnet and Those of Ezra and Nehemiah', JBL 106 (1987)"
+    - "A. Kuhrt, The Persian Empire: A Corpus of Sources from the Achaemenid Period (2007)"
+
+- id: persian-imperial-authorization
+  aliases: [Reichsautorisation, Imperial authorization]
+  cultures: [persian]
+  scope: >-
+    The hypothesis, associated with Peter Frei, that the Achaemenid administration
+    ratified local norms so that they became binding imperial law, and that the Torah's
+    promulgation in Yehud was such a case. The entry covers the thesis, its evidence
+    (Letoon trilingual, Demotic Chronicle, Elephantine Passover letter, Ezra 7), and its
+    critique.
+  passages:
+    - "Ezra 7:25-26 | concept | 'The law of your God and the law of the king' enforced by royal sanction"
+    - "Ezra 7:12-26 | concept | Artaxerxes' rescript commissioning Ezra to implement the divine law"
+    - "Ezra 7:12, 14, 21 | language | dāt 'law', a Persian loanword"
+    - "Ezra 6:3-12 | concept | Royal authorization of temple rebuilding and its cult"
+    - "Neh 8:1-8 | setting | Public promulgation of the Torah under Persian-appointed leaders"
+    - "Esth 1:19; 8:8 | concept | Irrevocable 'laws of the Persians and Medes' (literary motif)"
+    - "Dan 6:8, 12, 15 | concept | Unalterable law of the Medes and Persians (MT 6:9, 13, 16)"
+  related: [udjahorresnet-statue, elephantine-passover-letter, artaxerxes-i, persia, cyrus-cylinder, yehud-province, ane-law-collections]
+  wikipedia: null
+  image: null
+  author_notes:
+    - "State Frei's thesis (1984; 2nd ed. 1996) precisely. Note that most specialists now reject the strong form: there was no attested legal mechanism for authorizing local codes."
+    - "Evaluate the key evidence: the Letoon trilingual (Xanthos, 337 BCE) concerns a local cult foundation, not a law code. The Demotic Chronicle's report of Darius codifying Egyptian law is late and debated."
+    - "A weaker version (Persian interest in local order, combined with local elites' use of imperial backing) remains influential in Pentateuch-formation debates."
+    - "Note that the irrevocability of Persian law (Esther, Daniel) has no support in Achaemenid sources."
+  sources_to_check:
+    - "J. W. Watts (ed.), Persia and Torah: The Theory of Imperial Authorization of the Pentateuch (2001)"
+    - "P. Frei and K. Koch, Reichsidee und Reichsorganisation im Perserreich (OBO 55, 1984; 2nd ed. 1996)"
+
+- id: marduka-tablet
+  cultures: [babylonian, persian]
+  date: [-500, -480]
+  circa: true
+  scope: >-
+    A Babylonian administrative tablet from the late reign of Darius I or early reign of
+    Xerxes that names a Marduka as an official (sipīru) on business from Susa.
+    A. Ungnad published it in 1940-41 as a possible extrabiblical reference to Mordecai.
+  passages:
+    - "Esth 2:5 | attests? | Mordecai (= Babylonian Marduka), a Judean at the Susa court"
+    - "Esth 2:19, 21 | attests? | Mordecai 'sitting at the king's gate', i.e. holding an office"
+    - "Ezra 2:2 | language | Mordecai among the returnees: a name formed on Marduk (cf. Neh 7:7)"
+  related: [xerxes-i, persepolis-fortification-tablets, susa, marduk, court-officials, murashu-archive]
+  wikipedia: null
+  image: Marduka cuneiform tablet Ungnad
+  author_notes:
+    - "Marduka was a common name: several are attested in the Persepolis Fortification texts and in Babylonian archives. The identification with Mordecai cannot be shown, and Clines's critique should be presented."
+    - "At most the evidence shows that the name and type of office are plausible for the Susa court in Xerxes' time; it does not establish Esther's historicity."
+    - "Discuss Esther's genre (court tale/novella) and known historical difficulties (Queen Amestris; Mordecai's age per Esth 2:6) alongside this evidence."
+    - "Verify the date, museum, and number of the tablet before publication; the reading of the official title also needs checking."
+  sources_to_check:
+    - "D. J. A. Clines, 'In Quest of the Historical Mordecai', VT 41 (1991)"
+
+- id: zoroastrianism
+  cultures: [persian]
+  scope: >-
+    The Iranian religious tradition associated with Zarathustra and the worship of
+    Ahura Mazda, together with Achaemenid royal religion more broadly. The entry covers
+    the long debate over Persian influence on Second Temple Jewish dualism, angelology,
+    demonology, eschatology, and resurrection belief.
+  passages:
+    - "Isa 45:7 | polemic? | YHWH forms light and creates darkness, makes weal and creates woe; read by some against dualism"
+    - "Dan 12:2-3 | concept? | Resurrection to everlasting life or contempt; Persian influence debated"
+    - "Dan 10:13, 20-21 | concept? | Angelic princes of the nations; angelology possibly shaped by Persian ideas"
+    - "1Chr 21:1 | concept? | Satan as an independent adversary (contrast 2 Sam 24:1)"
+    - "Tob 3:8, 17 | language | Asmodeus, generally derived from Avestan Aēšma daēva, 'demon of wrath'"
+    - "Matt 2:1-12 | language | Magi (magoi), originally a Median/Persian priestly caste"
+  related: [afterlife-and-resurrection, satan-the-adversary, demons, community-rule, behistun-inscription, persia, four-kingdoms-schema]
+  wikipedia: Zoroastrianism
+  image: Faravahar relief Persepolis
+  author_notes:
+    - "Stress the source problem: Zarathustra's date is disputed (often c. 1200-1000 BCE, sometimes 6th century). The Avesta was written down in the Sasanian period and the Pahlavi books date to the 9th-10th centuries CE, so claims of dependence are hard to prove."
+    - "Whether the Achaemenid kings were 'Zoroastrian' is debated. Their inscriptions invoke Ahuramazda but never mention Zarathustra."
+    - "Treat proposed influences (dualism, resurrection, angelology, final judgment, world ages) as a spectrum of probability. Inner-Israelite development and Hellenistic influences are also live explanations."
+    - "Isa 45:7 as anti-Zoroastrian polemic is common but contested. Many see it simply as monotheistic assertion."
+  sources_to_check:
+    - "M. Boyce, A History of Zoroastrianism, 3 vols. (1975-1991)"
+    - "M. Stausberg and Y. S.-D. Vevaina (eds.), The Wiley Blackwell Companion to Zoroastrianism (2015)"
+
+- id: darius-the-mede
+  cultures: [persian, jewish]
+  scope: >-
+    The king who in the book of Daniel receives the kingdom after Belshazzar's death and
+    under whom Daniel is thrown to the lions. No such ruler is attested between Nabonidus
+    and Cyrus. The entry covers the figure's literary function and the identifications
+    that have been proposed.
+  passages:
+    - "Dan 5:31 | setting | Darius the Mede receives the kingdom at age 62 (MT 6:1)"
+    - "Dan 6:1-28 | setting | Darius's court, the 120 satraps, and the lions' den (MT 6:2-29)"
+    - "Dan 9:1 | setting | 'Darius son of Ahasuerus, by birth a Mede'"
+    - "Dan 11:1 | setting | The first year of Darius the Mede"
+    - "Dan 5:28 | concept | Kingdom given to 'the Medes and Persians'"
+    - "Dan 2:39; 7:5; 8:20 | concept | A Median kingdom as second in Daniel's sequence of empires"
+    - "Isa 13:17 | concept | Medes stirred up against Babylon"
+    - "Jer 51:11, 28 | concept | The kings of the Medes against Babylon"
+  related: [four-kingdoms-schema, medes, fall-of-babylon-539, cyrus-the-great, darius-i, nabonidus-chronicle, belshazzar, xerxes-i]
+  wikipedia: Darius the Mede
+  image: null
+  author_notes:
+    - "Mainstream critical view: Darius the Mede is a literary construct. He fills a Median slot required by prophecies of Median conquest and by the four-kingdom schema, and is partly modelled on Darius I (satrapies; cf. Dan 6:1)."
+    - "Survey identifications neutrally and note that none has consensus: Gubaru/Ugbaru (Nabonidus Chronicle), Cyrus himself (reading Dan 6:28 as 'Darius, that is, Cyrus'), Cyaxares II (Xenophon), Astyages."
+    - "Dan 9:1 makes him son of Ahasuerus (Xerxes), inverting the historical relationship of Darius I and Xerxes."
+    - "Check the Old Greek's divergent royal names in Dan 5-6, which are useful for the figure's textual history."
+  sources_to_check:
+    - "H. H. Rowley, Darius the Mede and the Four World Empires in the Book of Daniel (1935)"
+    - "J. J. Collins, Daniel (Hermeneia, 1993)"
+
+- id: four-kingdoms-schema
+  cultures: [jewish, persian, greek]
+  scope: >-
+    The scheme of four successive world empires, followed by a final, divinely established
+    kingdom, in Dan 2 and 7. The entry covers its antecedents and parallels (the
+    Assyria-Media-Persia sequence in Greek historiography, Hesiod's metal ages, Persian and
+    Babylonian texts) and its later reinterpretation, especially as Rome.
+  passages:
+    - "Dan 2:31-45 | concept | Statue of four metals destroyed by the stone; God's everlasting kingdom"
+    - "Dan 7:1-27 | concept | Four beasts from the sea and the kingdom given to the holy ones"
+    - "Dan 8:20-22 | concept | Ram (Media and Persia) and he-goat (Greece) identified"
+    - "Rev 13:1-2 | imagery | One beast combining features of Daniel's four beasts"
+    - "2Esd 12:10-12 | concept | Eagle vision reinterprets Daniel's fourth kingdom (as Rome)"
+  related: [darius-the-mede, composite-beasts-daniel, antiochus-iv, medes, persia, zoroastrianism, messianic-expectations]
+  wikipedia: Four kingdoms of Daniel
+  image: null
+  author_notes:
+    - "Critical consensus identifies Daniel's kingdoms as Babylon, Media, Persia, and Greece (with the Seleucids). The traditional sequence of Babylon, Medo-Persia, Greece, and Rome should be presented as reception history."
+    - "Antecedents: the Assyria-Media-Persia succession (Herodotus, Ctesias), later extended to Macedonia and Rome (Aemilius Sura in Velleius Paterculus 1.6.6; Sib. Or. 4.49-101)."
+    - "Hesiod's ages (Works and Days 106-201) supply metal imagery. The Zand-i Wahman Yasn's metal tree is attested only late, so the direction of dependence is debated."
+    - "Mention the Babylonian Dynastic Prophecy as a Hellenistic-period ex eventu sequence of empires."
+  sources_to_check:
+    - "J. W. Swain, 'The Theory of the Four Monarchies: Opposition History under the Roman Empire', Classical Philology 35 (1940)"
+    - "J. J. Collins, Daniel (Hermeneia, 1993)"
+
+- id: composite-beasts-daniel
+  cultures: [jewish, mesopotamian]
+  scope: >-
+    The hybrid creatures of Daniel's visions (winged lion, bear, four-headed leopard,
+    iron-toothed beast, ram, and goat) and their possible backgrounds. The entry covers
+    Mesopotamian composite iconography, anomalous-birth omens (Šumma izbu), astral
+    geography, and West Semitic sea-chaos myth.
+  passages:
+    - "Dan 7:2-8 | imagery | Four hybrid beasts rising from the stirred-up sea"
+    - "Dan 7:4 | imagery | Lion with eagle's wings; cf. Mesopotamian winged lions"
+    - "Dan 8:3-12 | imagery | Two-horned ram and one-horned goat; astral-geographic readings proposed"
+    - "Ezek 1:5-14 | imagery | Composite living creatures in prophetic vision"
+    - "Rev 13:1-2 | imagery | Composite sea beast reworking Dan 7"
+  related: [four-kingdoms-schema, lamassu, ishtar-gate, chaoskampf, leviathan, lion-imagery, apkallu-reliefs]
+  wikipedia: null
+  image: Mushhushshu Ishtar Gate relief
+  author_notes:
+    - "Present the main proposals: Šumma izbu omens of anomalous births (Porter 1983); Mesopotamian glyptic and monumental hybrids; Cumont's astral geography for the ram and goat; Canaanite sea-chaos background (Gunkel, Emerton, Collins)."
+    - "Avoid one-to-one mapping between Daniel's beasts and specific reliefs. The 2nd-century author more likely drew on a broad, mediated stock of motifs."
+    - "Note how the hybrid, monstrous form serves the theological evaluation of empires as chaotic."
+  sources_to_check:
+    - "P. A. Porter, Metaphors and Monsters: A Literary-Critical Study of Daniel 7 and 8 (ConBOT 20, 1983)"
+    - "J. J. Collins, Daniel (Hermeneia, 1993)"
+
+- id: cyrus-the-great
+  cultures: [persian]
+  date: [-559, -530]
+  scope: >-
+    Cyrus II, founder of the Achaemenid Persian Empire, who conquered Media, Lydia, and
+    Babylon (539 BCE). The Hebrew Bible presents him as YHWH's anointed agent of return and
+    temple restoration.
+  passages:
+    - "Isa 44:28 | attests | Cyrus named as YHWH's shepherd who will rebuild Jerusalem and the temple"
+    - "Isa 45:1-7 | attests | Cyrus as YHWH's anointed, his right hand grasped"
+    - "Isa 41:2-4, 25 | attests | Unnamed conqueror from the east and north, generally identified with Cyrus"
+    - "Ezra 1:1-4 | event | Cyrus's edict of return"
+    - "2Chr 36:22-23 | event | The edict closing Chronicles"
+    - "Ezra 6:3-5 | event | Memorandum of Cyrus found at Ecbatana"
+    - "Ezra 5:13-16 | event | Sheshbazzar and the return of the temple vessels"
+    - "Dan 1:21; 6:28; 10:1 | attests | Daniel's career dated by Cyrus (6:28 = MT 6:29)"
+  related: [cyrus-cylinder, fall-of-babylon-539, nabonidus-chronicle, verse-account-of-nabonidus, persia, medes, nabonidus, shepherd-kingship]
+  wikipedia: Cyrus the Great
+  image: Tomb of Cyrus Pasargadae
+  author_notes:
+    - "Survey the sources: Cyrus Cylinder, Nabonidus Chronicle, Verse Account, Herodotus, Ctesias, and Xenophon's idealizing Cyropaedia."
+    - "The title 'anointed' (Isa 45:1) for a foreign king is unique. Date the Cyrus oracles of Deutero-Isaiah to the 540s, around the conquest of Babylon."
+    - "The return was probably gradual and modest. No Persian document mentions a decree for Judeans, and the extent of Cyrus's actual policy toward Judah is debated."
+    - "Josephus's story that Cyrus read Isaiah's prophecy (Ant. 11.5-6) is legendary."
+  sources_to_check:
+    - "P. Briant, From Cyrus to Alexander: A History of the Persian Empire (2002)"
+    - "A. Kuhrt, The Persian Empire: A Corpus of Sources from the Achaemenid Period (2007)"
+
+- id: darius-i
+  aliases: [Darius the Great]
+  cultures: [persian]
+  date: [-522, -486]
+  scope: >-
+    Darius I, Achaemenid king who seized the throne in 522 BCE, suppressed widespread
+    revolts, and reorganized the empire (satrapies, coinage, royal road, Persepolis). The
+    rebuilding of the Jerusalem temple (Haggai, Zechariah, Ezra 5-6) is dated to his reign.
+  passages:
+    - "Ezra 4:5, 24 | attests | Temple work halted until Darius's second year"
+    - "Ezra 5:1-6:15 | event | Temple rebuilding, Tattenai's inquiry, completion in Darius's sixth year"
+    - "Ezra 6:6-12 | event | Darius's decree confirming Cyrus's authorization"
+    - "Hag 1:1, 15; 2:10 | attests | Haggai's oracles dated by Darius's second year"
+    - "Zech 1:1, 7; 7:1 | attests | Zechariah's oracles dated by Darius's reign"
+    - "Dan 6:1 | language? | 120 satraps under 'Darius the Mede' may echo Darius I's satrapy system (MT 6:2)"
+  related: [behistun-inscription, persepolis, persepolis-fortification-tablets, tattenai-tablet, susa, persia, udjahorresnet-statue, darius-the-mede]
+  wikipedia: Darius the Great
+  image: Behistun relief Darius
+  author_notes:
+    - "Explain the accession crisis of 522 (Behistun) and its relevance to the date-formulas of Haggai and Zechariah (520-518 BCE)."
+    - "Temple completion in Adar of year 6 (515 BCE, Ezra 6:15) is the traditional date. Some scholars (e.g. Edelman) argue for a later completion."
+    - "Explain that Ezra 4:6-23 (Xerxes, Artaxerxes) is placed out of chronological order before the resumption under Darius."
+    - "Distinguish Darius I from Darius II (Elephantine documents) and from 'Darius the Persian' in Neh 12:22."
+  sources_to_check:
+    - "P. Briant, From Cyrus to Alexander: A History of the Persian Empire (2002)"
+    - "A. Kuhrt, The Persian Empire: A Corpus of Sources from the Achaemenid Period (2007)"
+
+- id: xerxes-i
+  aliases: [Ahasuerus]
+  cultures: [persian]
+  date: [-486, -465]
+  scope: >-
+    Xerxes I, son of Darius I, Achaemenid king known from his inscriptions, from
+    Persepolis, and from Herodotus's account of his invasion of Greece. He is generally
+    identified with Ahasuerus of Esther and Ezra 4:6.
+  passages:
+    - "Esth 1:1-2 | attests | Ahasuerus (Heb. ʾăḥašwērôš = Old Persian Xšayāršā) ruling from Susa"
+    - "Esth 1:3-8 | setting | The royal banquet of the third year; Persian court setting"
+    - "Esth 2:16 | setting | Esther taken to the king in the seventh year, after the Greek campaign"
+    - "Ezra 4:6 | attests | Accusation against Judah at the beginning of Ahasuerus's reign"
+    - "Dan 9:1 | attests | Ahasuerus as father of 'Darius the Mede', not historically reconcilable"
+  related: [persepolis, susa, persia, marduka-tablet, persepolis-fortification-tablets, darius-i, artaxerxes-i, eunuchs]
+  wikipedia: Xerxes I
+  image: Xerxes I relief Persepolis
+  author_notes:
+    - "The identification of Ahasuerus with Xerxes rests on the name's form (Old Persian Xšayāršā; Akkadian and Aramaic forms). LXX Esther and Josephus instead identify him with Artaxerxes."
+    - "Herodotus's queen is Amestris, not Vashti or Esther. Do not equate Vashti with Amestris uncritically."
+    - "Court details in Esther (couriers, banquets, Persian loanwords) are plausible, but the narrative's historicity is doubted by most scholars."
+    - "Mention the daiva inscription (XPh) for Xerxes' religious policy."
+  sources_to_check:
+    - "P. Briant, From Cyrus to Alexander: A History of the Persian Empire (2002)"
+    - "A. Kuhrt, The Persian Empire: A Corpus of Sources from the Achaemenid Period (2007)"
+
+- id: artaxerxes-i
+  cultures: [persian]
+  date: [-465, -424]
+  scope: >-
+    Artaxerxes I Longimanus, Achaemenid king in whose twentieth year Nehemiah was sent to
+    Jerusalem. He is also the probable (but debated) king of Ezra's mission and of the
+    correspondence in Ezra 4:7-23.
+  passages:
+    - "Ezra 4:7-23 | attests | Correspondence with Artaxerxes halts the rebuilding of Jerusalem's walls"
+    - "Ezra 7:1-26 | attests? | Ezra sent in Artaxerxes's seventh year (458 if Artaxerxes I; 398 if Artaxerxes II)"
+    - "Neh 2:1-8 | attests | Nehemiah, royal cupbearer, commissioned in the twentieth year (445 BCE)"
+    - "Neh 5:14 | attests | Nehemiah governor from the twentieth to the thirty-second year"
+    - "Neh 13:6 | attests | Nehemiah returns to the king in the thirty-second year (433 BCE)"
+    - "Ezra 6:14 | attests | Artaxerxes listed with Cyrus and Darius as patrons of the temple"
+  related: [persia, yehud-province, elephantine-temple-petition, susa, persian-imperial-authorization, xerxes-i, sanballat, darius-i]
+  wikipedia: Artaxerxes I
+  image: Tomb of Artaxerxes I Naqsh-e Rostam
+  author_notes:
+    - "Lay out the Ezra-Nehemiah chronology debate: Ezra in 458 (Artaxerxes I), 398 (Artaxerxes II), or 428 (emended 'thirty-seventh year')."
+    - "Nehemiah under Artaxerxes I is secured by the Elephantine temple petition (Sanballat's sons active in 407; Johanan high priest)."
+    - "Context: the Egyptian revolt of Inaros (c. 460-454) and Megabyzus's revolt. Hoglund's thesis that these explain Persian interest in Judah's fortification is debated."
+  sources_to_check:
+    - "K. G. Hoglund, Achaemenid Imperial Administration in Syria-Palestine and the Missions of Ezra and Nehemiah (SBLDS 125, 1992)"
+    - "P. Briant, From Cyrus to Alexander: A History of the Persian Empire (2002)"
+
+- id: sanballat
+  aliases: [Sanballat the Horonite]
+  cultures: [persian, hebrew]
+  date: [-445, -407]
+  circa: true
+  scope: >-
+    Sanballat (Akkadian Sin-uballiṭ), governor of Samaria and Nehemiah's leading opponent.
+    He is attested in the Elephantine petition of 407 BCE as father of Delaiah and
+    Shelemiah, and his family's continued rule is reflected in the Wadi Daliyeh papyri.
+  passages:
+    - "Neh 2:10, 19 | attests | Sanballat the Horonite opposes Nehemiah's mission"
+    - "Neh 4:1-8 | attests | Sanballat mocks the wall-building before the army of Samaria (MT 3:33-4:2)"
+    - "Neh 6:1-14 | attests | Plots and an open letter against Nehemiah"
+    - "Neh 13:28 | attests | A grandson of the high priest Eliashib married Sanballat's daughter"
+  related: [elephantine-temple-petition, samaria-papyri, samaritan-origins, samaria, mount-gerizim, qedarite-silver-bowl, ammonites, artaxerxes-i]
+  wikipedia: Sanballat the Horonite
+  image: Wadi Daliyeh bulla Sanballat
+  author_notes:
+    - "His sons' Yahwistic names (Delaiah, Shelemiah) indicate a Yahwistic family despite his Babylonian name."
+    - "The gentilic 'Horonite' is debated (Beth-horon, Hauran, or Horonaim)."
+    - "Josephus (Ant. 11.302-347) places a Sanballat under Darius III and Alexander who built the Gerizim temple. Discuss papponymy and Josephus's chronological confusion; archaeology dates the first Gerizim sanctuary to the mid-5th century."
+  sources_to_check:
+    - "TAD A4.7"
+    - "D. M. Gropp et al., Wadi Daliyeh II: The Samaria Papyri from Wadi Daliyeh (DJD XXVIII, 2001)"
+
+- id: dead-sea-scrolls
+  aliases: [Qumran Scrolls]
+  cultures: [jewish]
+  date: [-250, 68]
+  circa: true
+  scope: >-
+    The roughly 900+ manuscripts recovered between 1947 and 1956 from eleven caves near
+    Qumran, copied between about 250 BCE and 68 CE: biblical scrolls, parabiblical
+    literature, and the writings of a sectarian community. This hub entry also notes
+    related Judean Desert finds; individual scrolls have their own entries.
+  passages:
+    - "Isa 40:3 | concept | Wilderness 'way' applied to the community's Torah study (1QS 8:13-16)"
+    - "Mark 1:2-4 | parallel | John the Baptist in the wilderness, framed by Isa 40:3 as in the Community Rule"
+    - "Deut 32:8 | language | 4QDeut-j reads 'sons of God' against MT 'sons of Israel'"
+    - "1Sam 10:27 | language | 4QSam-a preserves a paragraph on Nahash's oppression absent from MT"
+    - "1Sam 17:4 | language | 4QSam-a gives Goliath's height as four cubits and a span, agreeing with LXX"
+    - "Jer 10:1-11 | language | 4QJer-b attests the shorter, differently ordered text known from LXX"
+    - "Ps 145:13 | language | 11QPs-a preserves the nun-line missing from MT's acrostic"
+    - "2Cor 6:14-7:1 | parallel? | Light/darkness and Belial (Beliar) vocabulary close to sectarian texts"
+  related: [qumran, great-isaiah-scroll, community-rule, 4qdeut-j, pesher-habakkuk, jewish-sects, septuagint, forgeries-in-biblical-archaeology]
+  wikipedia: Dead Sea Scrolls
+  image: Qumran Cave 4
+  location: Mainly the Israel Museum (Shrine of the Book) and the Israel Antiquities Authority, Jerusalem; some in the Jordan Museum, Amman
+  author_notes:
+    - "Biblical manuscripts (over 200) cover every book of the Hebrew Bible except Esther. They show textual plurality (proto-MT, pre-Samaritan, LXX-Vorlage, non-aligned); present Tov's and Ulrich's models."
+    - "The Essene identification of the Qumran community is the majority view. Note the alternatives (Golb; debates over the site's archaeology) and that many scrolls were brought from elsewhere."
+    - "Correct misconceptions: there are no New Testament texts at Qumran (the 7Q5 = Mark claim is rejected), and the post-2002 unprovenanced 'DSS fragments' (e.g. those of the Museum of the Bible) are largely forgeries."
+    - "Explain how scrolls are dated, by palaeography and AMS radiocarbon."
+  sources_to_check:
+    - "Discoveries in the Judaean Desert (DJD), 40 vols. (1955-2010)"
+    - "E. Tov, Textual Criticism of the Hebrew Bible (3rd ed., 2012)"
+    - "F. García Martínez and E. J. C. Tigchelaar, The Dead Sea Scrolls Study Edition, 2 vols. (1997-98)"
+    - "M. Abegg, P. Flint, and E. Ulrich, The Dead Sea Scrolls Bible (1999)"
+
+- id: great-isaiah-scroll
+  aliases: [1QIsaᵃ, 1QIsa-a, Isaiah Scroll]
+  cultures: [jewish]
+  date: [-150, -100]
+  circa: true
+  scope: >-
+    The complete scroll of Isaiah from Qumran Cave 1 (1QIsaᵃ), 54 columns on 17 sheets of
+    leather. It is the oldest substantially complete manuscript of a Hebrew biblical book
+    and a key witness to the text and scribal practice of Isaiah.
+  passages:
+    - "Isa 1-66 | language | Complete copy of Isaiah, broadly close to MT with fuller spelling and many variants"
+    - "Isa 2:9-10 | language | Lacks 2:9b-10, possibly reflecting a text before this expansion"
+    - "Isa 14:4 | language | Reads mrhbh ('insolence') for MT's obscure mdhbh, followed by NRSV"
+    - "Isa 21:8 | language | Reads 'the seer' (hrʾh) for MT 'a lion' (ʾryh), followed by NRSV"
+    - "Isa 40:7-8 | language | Text omitted by homoioteleuton supplied by a corrector between the lines"
+    - "Isa 53:11 | language | 'He shall see light', agreeing with LXX against MT"
+  related: [dead-sea-scrolls, qumran, septuagint, nash-papyrus, scribes-and-scribal-education, writing-materials]
+  wikipedia: Isaiah Scroll
+  image: Great Isaiah Scroll Shrine of the Book
+  location: Israel Museum, Jerusalem (Shrine of the Book)
+  author_notes:
+    - "Contrast 1QIsaᵃ (full orthography, many variants, 'Qumran scribal practice' per Tov) with 1QIsaᵇ, which is very close to MT."
+    - "Do not use the scroll to claim the MT was transmitted 'without change' (an apologetic overstatement), nor to exaggerate its divergence."
+    - "Note corrections by several hands and the scribal break after ch. 33, which some (Brownlee) take as evidence of a two-part production."
+    - "Palaeographic dating is c. 150-100 BCE (radiocarbon results broadly compatible); verify the current range."
+  sources_to_check:
+    - "M. Burrows (ed.), The Dead Sea Scrolls of St. Mark's Monastery, vol. 1 (1950)"
+    - "E. Ulrich and P. W. Flint, Qumran Cave 1.II: The Isaiah Scrolls (DJD XXXII, 2010)"
+
+- id: 4qdeut-j
+  aliases: [4Q37, 4QDeutʲ]
+  cultures: [jewish]
+  date: [-50, 50]
+  circa: true
+  scope: >-
+    A Herodian-period manuscript from Qumran Cave 4 containing excerpts of Deuteronomy
+    (and Exodus). It preserves at Deut 32:8 the reading 'sons of God', against the
+    Masoretic 'sons of Israel'. The entry also covers the related reading of Deut 32:43 in
+    4QDeutq and the LXX.
+  passages:
+    - "Deut 32:8-9 | language | Nations divided 'according to the number of the sons of God'; MT 'sons of Israel'"
+    - "Deut 32:43 | language | Longer text in 4QDeut-q and LXX calling heavenly beings to worship"
+    - "Heb 1:6 | language | Quotes the longer Greek form of Deut 32:43"
+    - "Ps 82:1, 6 | concept | God judges among the gods, 'children of the Most High'"
+    - "Job 1:6; 2:1; 38:7 | language | bĕnê hāʾĕlōhîm as heavenly beings"
+    - "Gen 10:1-32 | concept | The seventy nations, a count often linked with Deut 32:8"
+    - "Dan 10:13, 20-21 | concept | Angelic princes over nations, a development of Deut 32:8-9"
+  related: [dead-sea-scrolls, septuagint, sons-of-god, divine-council, elyon, table-of-nations]
+  wikipedia: null
+  image: 4QDeuteronomy j Dead Sea Scroll
+  author_notes:
+    - "Most text critics regard 'sons of God' as original and MT 'sons of Israel' as a theological correction. NRSV and other modern versions follow the Qumran reading."
+    - "LXX evidence: most witnesses read 'angels of God', some 'sons of God'. Check the Göttingen apparatus (Wevers) before stating the LXX reading."
+    - "Present neutrally the debate over whether Elyon in 32:8 is distinct from YHWH (32:9) or identical with him."
+    - "The manuscript's excerpted character (Deuteronomy and Exodus passages) suggests liturgical or devotional use; verify its exact contents and date in DJD XIV."
+  sources_to_check:
+    - "E. Ulrich, F. M. Cross et al., Qumran Cave 4.IX: Deuteronomy, Joshua, Judges, Kings (DJD XIV, 1995)"
+    - "E. Tov, Textual Criticism of the Hebrew Bible (3rd ed., 2012)"
+
+- id: nash-papyrus
+  cultures: [jewish]
+  date: [-150, -100]
+  circa: true
+  scope: >-
+    A single papyrus sheet acquired in Egypt in 1898 by W. L. Nash, containing the
+    Decalogue (in a form blending Exod 20 and Deut 5) followed by the Shema. Until the
+    Qumran discoveries it was the oldest known Hebrew biblical text, and it is probably a
+    liturgical or devotional excerpt rather than a biblical scroll.
+  passages:
+    - "Exod 20:2-17 | language | Decalogue text harmonizing Exodus and Deuteronomy forms"
+    - "Deut 5:6-21 | language | Decalogue (Deuteronomic form)"
+    - "Deut 6:4-5 | language | Shema, preceded by an introductory clause also found in LXX"
+    - "Luke 18:20 | language | Adultery listed before murder, the order of the Nash Papyrus and some LXX witnesses"
+    - "Rom 13:9 | language | Same order: adultery, murder, theft"
+    - "Mark 12:29-30 | practice | Shema as central confession; Decalogue and Shema recited together in temple liturgy"
+  related: [dead-sea-scrolls, septuagint, great-isaiah-scroll, writing-materials, sabbath]
+  wikipedia: Nash Papyrus
+  image: Nash Papyrus
+  location: Cambridge University Library
+  author_notes:
+    - "Albright dated it to the 2nd century BCE (Maccabean). Note that later palaeographic comparison with Qumran hands broadly supports this."
+    - "Connect it to m. Tamid 5:1 (Decalogue and Shema recited in the temple) and to the later dropping of the Decalogue from daily liturgy 'because of the heretics' (y. Ber. 1:3; b. Ber. 12a)."
+    - "Highlight its agreements with the LXX Vorlage (commandment order, plus before the Shema)."
+  sources_to_check:
+    - "S. A. Cook, 'A Pre-Massoretic Biblical Papyrus', PSBA 25 (1903)"
+    - "W. F. Albright, 'A Biblical Fragment from the Maccabaean Age: The Nash Papyrus', JBL 56 (1937)"
+
+- id: community-rule
+  aliases: [1QS, Serekh ha-Yaḥad, Manual of Discipline]
+  cultures: [jewish]
+  date: [-100, -75]
+  circa: true
+  scope: >-
+    The Rule of the Community (Serekh ha-Yaḥad) from Qumran Cave 1 (1QS), with further
+    copies from Cave 4 (4QS). It sets out admission, covenant renewal, the Treatise on the
+    Two Spirits, communal discipline, and penal codes. The date given is that of the 1QS
+    copy; the work itself was composed and revised earlier.
+  passages:
+    - "Isa 40:3 | concept | Separation to the wilderness to prepare the way by studying Torah (1QS 8:13-16)"
+    - "Mark 1:2-4 | parallel | John the Baptist's wilderness mission framed by Isa 40:3"
+    - "Acts 2:44-45; 4:32-35 | practice | Shared property; cf. the yaḥad's pooling of goods (1QS 1:11-13; 6:19-22)"
+    - "Matt 18:15-17 | practice | Graded reproof before witnesses and the assembly (1QS 5:24-6:1)"
+    - "Lev 19:17-18 | practice | Duty of reproof, the scriptural basis of the Qumran procedure"
+    - "Num 6:24-26 | form | Priestly blessing expanded in the covenant ceremony (1QS 2:2-4)"
+    - "Deut 27:14-26 | form | Levitical curses as a model for the covenant ceremony (1QS 1:16-2:18)"
+    - "Deut 18:15-18 | concept | Awaited prophet alongside the messiahs of Aaron and Israel (1QS 9:11)"
+    - "1Thess 5:5 | language | 'Children of light'; cf. 'sons of light' (1QS 1:9; 3:13)"
+  related: [dead-sea-scrolls, qumran, jewish-sects, messianic-expectations, war-scroll, zoroastrianism, blessings-and-curses]
+  wikipedia: Community Rule
+  image: Community Rule scroll 1QS
+  location: Israel Museum, Jerusalem (Shrine of the Book)
+  author_notes:
+    - "Discuss the redactional history revealed by the shorter Cave 4 copies (e.g. 4QSᵇ,ᵈ). Present the debate over whether the 1QS or 4QS forms are earlier (Metso, Alexander)."
+    - "The same scroll contains the Rule of the Congregation (1QSa) and the Blessings (1QSb). Compare the Damascus Document, which addresses a different, family-based form of community life."
+    - "The match with Josephus's and Philo's Essenes underpins the Essene hypothesis. Note both the agreements and the differences."
+    - "Treat the NT parallels as comparative, not as evidence of dependence. Links between John the Baptist and Qumran are speculative."
+  sources_to_check:
+    - "P. S. Alexander and G. Vermes, Qumran Cave 4.XIX: Serekh ha-Yaḥad and Two Related Texts (DJD XXVI, 1998)"
+    - "J. H. Charlesworth (ed.), The Dead Sea Scrolls: Hebrew, Aramaic, and Greek Texts with English Translations, vol. 1: Rule of the Community and Related Documents (1994)"
+
+- id: pesher-habakkuk
+  aliases: [1QpHab, Habakkuk Commentary]
+  cultures: [jewish]
+  date: [-30, 1]
+  circa: true
+  scope: >-
+    The continuous commentary (pesher) on Habakkuk 1-2 from Qumran Cave 1. It interprets
+    the prophet's words as referring to the community's own history: the Teacher of
+    Righteousness, the Wicked Priest, the Man of the Lie, and the Kittim (Romans).
+  passages:
+    - "Hab 1:1-2:20 | form | Running pesher on Habakkuk 1-2; chapter 3 is not included"
+    - "Hab 1:6 | language | The Chaldeans reinterpreted as the Kittim, i.e. the Romans (1QpHab 2:10-15)"
+    - "Hab 2:2-3 | concept | Prophet ignorant of the end; the Teacher given 'all the mysteries' (1QpHab 7:1-14)"
+    - "Hab 2:4 | concept | The righteous live by faithfulness to the Teacher (1QpHab 7:17-8:3)"
+    - "Hab 2:15 | concept | Wicked Priest confronts the Teacher on his Day of Atonement (1QpHab 11:2-8)"
+    - "Rom 1:17 | concept | Contemporary eschatological reading of Hab 2:4"
+    - "Heb 10:37-38 | concept | Delay of the vision and Hab 2:3-4 applied to the community"
+    - "Acts 2:16-21 | form | 'This is what was spoken by the prophet': a fulfilment hermeneutic comparable to pesher"
+  related: [dead-sea-scrolls, qumran, jewish-sects, community-rule, war-scroll, maccabean-revolt]
+  wikipedia: Habakkuk Commentary
+  image: Pesher Habakkuk scroll
+  location: Israel Museum, Jerusalem (Shrine of the Book)
+  author_notes:
+    - "Survey identifications of the Wicked Priest (Jonathan or Simon Maccabee most often; the Groningen hypothesis of several priests). Stress their uncertainty."
+    - "Kittim = Romans is widely accepted (e.g. sacrificing to their standards, 1QpHab 6:3-5)."
+    - "The absence of Hab 3 is not evidence that the chapter did not yet exist; the pesher's scope may simply have been chapters 1-2."
+    - "Note that the Tetragrammaton is written in paleo-Hebrew script within the square-script text."
+  sources_to_check:
+    - "M. P. Horgan, Pesharim: Qumran Interpretations of Biblical Books (CBQMS 8, 1979)"
+    - "W. H. Brownlee, The Midrash Pesher of Habakkuk (1979)"
+    - "M. Burrows (ed.), The Dead Sea Scrolls of St. Mark's Monastery, vol. 1 (1950)"
+
+- id: war-scroll
+  aliases: [1QM, War of the Sons of Light against the Sons of Darkness]
+  cultures: [jewish]
+  date: [-30, 50]
+  circa: true
+  scope: >-
+    The War Rule from Qumran Cave 1 (1QM), with related Cave 4 manuscripts (4Q491-496).
+    It describes an eschatological forty-year war of the 'sons of light' against the
+    'sons of darkness' (Belial, the Kittim), including battle formations, trumpets,
+    standards, and priestly liturgies.
+  passages:
+    - "Num 2:1-34 | concept | Tribal camp order and standards modelled in the war array"
+    - "Num 10:1-10 | practice | Silver trumpets for assembly and battle, with inscriptions prescribed (1QM 2:16-3:11)"
+    - "Deut 20:1-9 | practice | Priestly address before battle quoted and expanded (1QM 10:2-8)"
+    - "Num 24:17-19 | concept | Star out of Jacob quoted in the war hymn (1QM 11:6-7)"
+    - "Dan 11:40-12:3 | concept | Final war, Michael, and the time of distress reworked in 1QM 1"
+    - "Ezek 38-39 | concept | Eschatological defeat of Gog (cf. 1QM 11:16)"
+    - "Rev 19:11-21 | parallel | Heavenly army in the final battle"
+    - "2Cor 6:14-15 | language | Light vs. darkness and Beliar"
+  related: [dead-sea-scrolls, community-rule, divine-warrior, messianic-expectations, zoroastrianism, qumran]
+  wikipedia: War of the Sons of Light Against the Sons of Darkness
+  image: War Scroll 1QM Israel Museum
+  location: Israel Museum, Jerusalem (Shrine of the Book)
+  author_notes:
+    - "Composite work. The date of composition (late Hasmonean or early Roman) is tied to whether the Kittim of Assyria and Egypt are Seleucids/Ptolemies or Romans."
+    - "Yadin's argument from Roman military equipment and tactics is influential but debated."
+    - "Highlight the joint human-angelic warfare and the predetermined dualism (compare the Treatise on the Two Spirits)."
+  sources_to_check:
+    - "Y. Yadin, The Scroll of the War of the Sons of Light against the Sons of Darkness (1962)"
+    - "J. Duhaime, The War Texts: 1QM and Related Manuscripts (2004)"
+    - "M. Baillet, Qumrân grotte 4.III (4Q482-4Q520) (DJD VII, 1982)"
+
+- id: temple-scroll
+  aliases: [11QTᵃ, 11Q19]
+  cultures: [jewish]
+  date: [-30, 30]
+  circa: true
+  scope: >-
+    The longest Qumran scroll (11Q19, with 11Q20 and possibly 4Q524). It presents in
+    divine first-person speech a reworked law for an ideal temple, its courts, festivals,
+    purity, and the king, drawing chiefly on Exodus, Leviticus, and Deuteronomy. The date
+    given is the copy; composition is earlier, probably 2nd century BCE.
+  passages:
+    - "Exod 25-30 | parallel | Sanctuary building instructions rewritten for a permanent temple"
+    - "Deut 12-26 | parallel | Deuteronomic laws reworked as direct divine speech"
+    - "Deut 17:14-20 | parallel | Law of the King greatly expanded (11QT 56:12-59:21)"
+    - "Deut 17:17 | practice | King may take no other wife while the first lives (11QT 57:17-19)"
+    - "Deut 21:22-23 | practice | Hanging on a tree for treason (11QT 64:6-13)"
+    - "Gal 3:13 | concept | 'Cursed is everyone who hangs on a tree' applied to crucifixion"
+    - "Lev 23:15-21 | practice | Fifty-day counts extended to festivals of new wine and new oil"
+    - "Ezek 40-48 | concept | Visionary temple with concentric courts"
+  related: [dead-sea-scrolls, herods-temple, temple-as-cosmos, crucifixion, jubilees, tabernacle, qumran]
+  wikipedia: Temple Scroll
+  image: Temple Scroll 11Q19 Israel Museum
+  location: Israel Museum, Jerusalem (Shrine of the Book)
+  author_notes:
+    - "Describe Yadin's acquisition of the scroll in 1967 and its condition."
+    - "Debate on whether it is a sectarian or pre-sectarian work, and on its claim to authority (a 'new Torah'? Wacholder; replacement or supplement)."
+    - "Note the shared 364-day calendar and festival system with Jubilees."
+    - "The hanging law (cols. 64) and 4QpNahum are key evidence for Jewish discussions of crucifixion; present the debate over whether 'hanging' means crucifixion."
+  sources_to_check:
+    - "Y. Yadin, The Temple Scroll, 3 vols. (1983)"
+    - "F. García Martínez, E. J. C. Tigchelaar, and A. S. van der Woude, Qumran Cave 11.II (DJD XXIII, 1998)"
+    - "L. H. Schiffman, The Courtyards of the House of the Lord: Studies on the Temple Scroll (2008)"
+
+- id: genesis-apocryphon
+  aliases: [1QapGen, 1Q20]
+  cultures: [jewish]
+  date: [-25, 50]
+  circa: true
+  scope: >-
+    Aramaic retelling of Genesis from Qumran Cave 1, preserving narratives of Lamech and
+    Noah's birth, Noah, and Abram (to Gen 15:4), largely in first-person voice. It is a
+    major example of 'rewritten scripture'. The date given is the copy; composition is
+    probably 3rd-2nd century BCE.
+  passages:
+    - "Gen 5:28-29 | parallel | Lamech fears his son was fathered by a Watcher; Bitenosh's oath"
+    - "Gen 6:1-4 | parallel | Watchers' transgression presupposed"
+    - "Gen 10:1-32 | parallel | Noah's division of the earth among his sons"
+    - "Gen 12:10-20 | parallel | Abram's dream, praise of Sarai's beauty, and Pharaoh healed after Abram's prayer"
+    - "Gen 13:14-17 | parallel | Abram walks the boundaries of the promised land"
+    - "Gen 14:1-24 | parallel | Aramaic retelling of the war of the kings and Melchizedek"
+    - "1En 106-107 | parallel | The miraculous birth of Noah"
+    - "Jub 13 | parallel | Shared traditions on Abram's sojourn in Egypt"
+    - "Luke 4:40 | practice | Healing by laying on of hands, first attested in Jewish literature at 1QapGen 20:28-29"
+  related: [dead-sea-scrolls, jubilees, first-enoch, aramaic-language, nephilim, sons-of-god]
+  wikipedia: Genesis Apocryphon
+  image: Genesis Apocryphon scroll
+  location: Israel Museum, Jerusalem (Shrine of the Book)
+  author_notes:
+    - "Describe the scroll's poor condition and the importance of modern imaging (Machiela's edition)."
+    - "The relationship to Jubilees and 1 Enoch (shared sources vs. dependence) is debated."
+    - "Note its value for Middle Aramaic, for Targum studies, and for the language of Jesus' time."
+  sources_to_check:
+    - "J. A. Fitzmyer, The Genesis Apocryphon of Qumran Cave 1 (1Q20): A Commentary (3rd ed., 2004)"
+    - "D. A. Machiela, The Dead Sea Genesis Apocryphon (STDJ 79, 2009)"
+    - "N. Avigad and Y. Yadin, A Genesis Apocryphon (1956)"
+
+- id: prayer-of-nabonidus
+  aliases: [4Q242, 4QPrNab]
+  cultures: [jewish, babylonian]
+  date: [-75, -50]
+  circa: true
+  scope: >-
+    Fragmentary Aramaic text from Qumran Cave 4 in which Nabonidus tells how he was struck
+    with an evil disease for seven years at Teima and healed after a Jewish diviner
+    (gāzar) forgave his sin and told him to honour God. It is widely seen as related to the
+    tradition behind Daniel 4.
+  passages:
+    - "Dan 4:1-37 | parallel | King afflicted for seven years, restored after acknowledging the Most High (MT 3:31-4:34)"
+    - "Dan 5:4, 23 | parallel | Praising gods of silver, gold, bronze, iron, wood, and stone"
+    - "Dan 2:27; 4:7 | language | gzr 'diviner', the term used of the Jewish healer (4:7 = MT 4:4)"
+    - "Mark 2:5-12 | concept? | Forgiveness of sins linked with healing"
+  related: [nabonidus, nebuchadnezzar-ii, verse-account-of-nabonidus, nabonidus-chronicle, dead-sea-scrolls, aramaic-language]
+  wikipedia: Prayer of Nabonidus
+  image: 4Q242 Prayer of Nabonidus
+  author_notes:
+    - "Consensus: Daniel 4 transferred a tradition about Nabonidus's ten-year absence in Tayma to Nebuchadnezzar. 4Q242 reflects a parallel or earlier form, not Daniel's direct source."
+    - "Compare Nabonidus's own Harran inscriptions and the Tayma evidence."
+    - "Note the grammatical ambiguity over who forgave the sin (the diviner or God), and that reconstructions vary (Milik, Cross, Collins)."
+  sources_to_check:
+    - "G. Brooke et al., Qumran Cave 4.XVII: Parabiblical Texts, Part 3 (DJD XXII, 1996)"
+    - "J. T. Milik, 'Prière de Nabonide et autres écrits d'un cycle de Daniel', RB 63 (1956)"
+
+- id: septuagint
+  aliases: [LXX, Old Greek]
+  cultures: [jewish, greek]
+  date: [-280, -100]
+  circa: true
+  scope: >-
+    The Jewish Greek translations of the Hebrew scriptures, beginning with the Pentateuch
+    in 3rd-century BCE Alexandria and extending to other books over the following two
+    centuries. The entry covers their origin, character, value as witnesses to the Hebrew
+    text, and use in the New Testament.
+  passages:
+    - "Isa 7:14 | language | ʿalmâ rendered parthenos"
+    - "Matt 1:23 | language | Quotes Greek Isa 7:14 'the virgin'"
+    - "Deut 32:8 | language | 'Angels/sons of God' against MT 'sons of Israel'"
+    - "Amos 9:11-12 | language | Greek 'that the rest of humanity may seek the Lord' for MT 'possess Edom'"
+    - "Acts 15:16-18 | language | James quotes the Greek form of Amos 9:11-12"
+    - "Ps 40:6 | language | Greek 'a body you have prepared for me' (MT 40:7 'ears you have dug')"
+    - "Heb 10:5-7 | language | Quotes Greek Ps 40:6-8"
+    - "Jer 1-52 | language | Greek Jeremiah about one-seventh shorter, with oracles against the nations after 25:13"
+    - "1Sam 17:12-31 | language | Absent from LXX (Vaticanus), evidence of variant literary editions"
+  related: [letter-of-aristeas, dead-sea-scrolls, 4qdeut-j, great-isaiah-scroll, nash-papyrus, messianic-expectations]
+  wikipedia: Septuagint
+  image: Codex Vaticanus Septuagint page
+  author_notes:
+    - "Distinguish the Old Greek from later revisions (kaige, Aquila, Symmachus, Theodotion, Hexapla, Lucianic). In Daniel, 'Theodotion' displaced the Old Greek in church use."
+    - "Value for textual criticism: Jeremiah, Samuel, Job, Esther, and Exodus 35-40 differ significantly. Qumran confirms that some differences reflect Hebrew Vorlagen."
+    - "On Isa 7:14: ʿalmâ means 'young woman', and parthenos is not always strictly 'virgin' (cf. LXX Gen 34:3)."
+    - "Earliest witnesses include Rylands 458 (Deut), 4QLXXLev-a, and the Greek Minor Prophets scroll from Naḥal Ḥever. NT quotations do not always match later LXX manuscripts."
+  sources_to_check:
+    - "A. Pietersma and B. G. Wright (eds.), A New English Translation of the Septuagint (NETS, 2007)"
+    - "K. H. Jobes and M. Silva, Invitation to the Septuagint (2nd ed., 2015)"
+    - "A. Rahlfs and R. Hanhart, Septuaginta (rev. ed., 2006)"
+    - "Septuaginta: Vetus Testamentum Graecum (Göttingen edition)"
+
+- id: letter-of-aristeas
+  aliases: [Pseudo-Aristeas, Aristeas to Philocrates]
+  cultures: [jewish, greek]
+  date: [-200, -100]
+  circa: true
+  scope: >-
+    A Greek Jewish work presented as a letter by a courtier of Ptolemy II Philadelphus. It
+    narrates the translation of the Jewish Law into Greek by seventy-two Jerusalem elders,
+    with a description of Jerusalem and its temple, an apologetic account of the food
+    laws, and a symposium.
+  passages:
+    - "Neh 8:1-8 | parallel | Public reading and acceptance of the Law, a model for the translation's reception (Arist. 308-311)"
+    - "Exod 24:7 | parallel | People's assent to the book of the covenant"
+    - "Deut 4:2 | concept | No adding or subtracting; curse on altering the translation (Arist. 311)"
+    - "Lev 11:1-47 | practice | Allegorical defence of the food laws (Arist. 128-171)"
+    - "Exod 25:23-30 | realia | Ptolemy's gift of a table for the temple (Arist. 51-82)"
+    - "Exod 28:2-43 | realia | The high priest Eleazar's vestments described (Arist. 96-99)"
+  related: [septuagint, josephus, purity-and-impurity, pig-avoidance, jerusalem]
+  wikipedia: Letter of Aristeas
+  image: null
+  author_notes:
+    - "Pseudepigraphic. Most scholars date it c. 150-100 BCE; some argue earlier. It shows anachronisms (e.g. Demetrius of Phalerum's role)."
+    - "Distinguish the legend (72 translators in 72 days; later the miraculous agreement in Philo, Mos. 2.25-44) from the probable historical kernel: a 3rd-century Alexandrian translation of the Pentateuch."
+    - "Josephus paraphrases much of it (Ant. 12.11-118). Present debates on its purpose (apologetic, defence of the translation's authority against revisions)."
+  sources_to_check:
+    - "B. G. Wright III, The Letter of Aristeas (CEJL, 2015)"
+    - "R. J. H. Shutt, 'Letter of Aristeas', in J. H. Charlesworth (ed.), The Old Testament Pseudepigrapha, vol. 2 (1985)"
+
+- id: first-enoch
+  aliases: [1 Enoch, Ethiopic Enoch]
+  cultures: [jewish]
+  date: [-300, 50]
+  circa: true
+  scope: >-
+    A composite apocalyptic collection attributed to Enoch: Book of Watchers (1-36),
+    Similitudes (37-71), Astronomical Book (72-82), Dream Visions (83-90), and Epistle
+    (91-108). Its parts range from the 3rd century BCE to the turn of the era. It survives
+    complete in Ge'ez, with Aramaic fragments from Qumran and Greek portions.
+  passages:
+    - "Gen 5:21-24 | parallel | Enoch walked with God and was taken, the basis of his revelatory role"
+    - "Gen 6:1-4 | parallel | Watchers' descent, giants, and forbidden teachings (1 En 6-11)"
+    - "Jude 14-15 | attests | Quotes 1 En 1:9 as prophecy of 'Enoch, the seventh from Adam'"
+    - "Jude 6 | concept | Angels who left their dwelling kept in chains (cf. 1 En 10:4-6, 12)"
+    - "2Pet 2:4 | concept | Sinning angels held in chains of deepest darkness until judgment"
+    - "1Pet 3:19-20 | concept? | Proclamation to imprisoned spirits; cf. Enoch's mission to the Watchers (1 En 12-16)"
+    - "Dan 7:9-14 | parallel | Throne vision and 'son of man'; cf. 1 En 14:18-23; 46-48"
+    - "Matt 25:31 | concept | Son of Man on his throne of glory (cf. 1 En 62:5; 69:27-29)"
+  related: [enmeduranki-and-the-apkallu, nephilim, sons-of-god, jubilees, dead-sea-scrolls, messianic-expectations, genesis-apocryphon, demons]
+  wikipedia: Book of Enoch
+  image: Book of Enoch Ethiopic manuscript
+  author_notes:
+    - "Treat the five booklets separately in date and outlook. The Similitudes are absent at Qumran; Enoch Seminar consensus places them before 70 CE, probably late 1st century BCE to early 1st century CE."
+    - "The Mesopotamian background of the Enoch figure (Enmeduranki, apkallu) is well established (VanderKam)."
+    - "The book is canonical in the Ethiopian Orthodox Tewahedo Church. Jude's citation shows its authority in some early Christian circles, not 'canon' in a later sense."
+    - "Present the Similitudes' Son of Man in relation to the Gospels carefully: shared tradition, with the direction and nature of influence debated."
+  sources_to_check:
+    - "G. W. E. Nickelsburg, 1 Enoch 1 (Hermeneia, 2001)"
+    - "G. W. E. Nickelsburg and J. C. VanderKam, 1 Enoch 2 (Hermeneia, 2012)"
+    - "J. T. Milik, The Books of Enoch: Aramaic Fragments of Qumrân Cave 4 (1976)"
+    - "M. A. Knibb, The Ethiopic Book of Enoch, 2 vols. (1978)"
+
+- id: jubilees
+  aliases: [Book of Jubilees, Little Genesis]
+  cultures: [jewish]
+  date: [-170, -150]
+  circa: true
+  scope: >-
+    A Hebrew retelling of Genesis 1 to Exodus 24, presented as revealed to Moses on Sinai
+    by the Angel of the Presence from the heavenly tablets. It sets history within a
+    chronology of jubilee periods and promotes a 364-day calendar and strict halakha.
+  passages:
+    - "Exod 24:12-18 | setting | Moses on the mountain forty days: the book's revelatory frame (Jub 1)"
+    - "Gen 1:1-2:3 | parallel | Creation retold as 22 works culminating in the Sabbath (Jub 2)"
+    - "Exod 31:12-17 | practice | Sabbath laws expanded (Jub 2:17-33; 50:6-13)"
+    - "Gen 6:1-4 | parallel | Watchers and giants (Jub 5; 7:21-25)"
+    - "Gen 7:11-8:14 | concept | Flood chronology read within the 364-day year (Jub 5-6; 6:32-38)"
+    - "Gen 22:1-19 | parallel | Prince Mastema instigates the testing of Abraham (Jub 17:15-18:19)"
+    - "Exod 4:24-26 | parallel | Mastema, not YHWH, attacks Moses (Jub 48:2-3)"
+    - "Gal 3:19 | concept | Law 'ordained through angels'; cf. the Angel of the Presence dictating (Jub 1:27-2:1)"
+  related: [first-enoch, dead-sea-scrolls, genesis-apocryphon, temple-scroll, calendars-and-month-names, sabbath, satan-the-adversary, demons]
+  wikipedia: Book of Jubilees
+  image: Book of Jubilees Ethiopic manuscript
+  author_notes:
+    - "Composed in Hebrew; about fourteen or fifteen copies were found at Qumran. The full text survives in Ge'ez and part in Latin. It is canonical in the Ethiopian church."
+    - "Dating: usually c. 160-150 BCE (VanderKam). Some argue for a pre-Maccabean date."
+    - "Note the calendar polemic (Jub 6:32-38) and its links to Qumran calendrical texts and the Temple Scroll."
+    - "The demonology (Mastema, the spirits of the giants) reshapes problematic divine actions, a useful comparison with 1 Chr 21:1."
+  sources_to_check:
+    - "J. C. VanderKam, The Book of Jubilees (CSCO 510-511, 1989)"
+    - "J. C. VanderKam, Jubilees, 2 vols. (Hermeneia, 2018)"
+    - "H. Attridge et al., Qumran Cave 4.VIII: Parabiblical Texts, Part 1 (DJD XIII, 1994)"
+    - "O. S. Wintermute, 'Jubilees', in J. H. Charlesworth (ed.), The Old Testament Pseudepigrapha, vol. 2 (1985)"
+
+- id: josephus
+  aliases: [Flavius Josephus]
+  cultures: [jewish, roman]
+  date: [75, 100]
+  circa: true
+  scope: >-
+    The works of Flavius Josephus (37-c. 100 CE): Jewish War, Jewish Antiquities, Life,
+    and Against Apion. They are the principal narrative source for Judea from the
+    Hasmoneans to the revolt of 66-73 CE and for the persons, groups, and institutions in
+    the New Testament.
+  passages:
+    - "Mark 6:17-29 | event | Antipas executes John the Baptist (Ant. 18.116-119), with different stated motives"
+    - "Acts 12:20-23 | event | Death of Agrippa I at Caesarea after acclamation as divine (Ant. 19.343-350)"
+    - "Acts 5:36-37 | event | Theudas and Judas the Galilean (Ant. 20.97-98; 18.4-10)"
+    - "Acts 21:38 | event | The Egyptian prophet and his followers (War 2.261-263; Ant. 20.169-172)"
+    - "Luke 2:1-2 | event | Census under Quirinius in 6 CE (Ant. 18.1-2, 26)"
+    - "Mark 15:1-15 | attests | Pontius Pilate's governorship (War 2.169-177; Ant. 18.55-64)"
+    - "Gal 1:19 | attests | James the brother of Jesus, executed under Ananus (Ant. 20.200)"
+    - "Acts 23:6-8 | concept | Pharisees and Sadducees on resurrection and fate (War 2.162-166; Ant. 18.12-17)"
+    - "Acts 24:24 | attests | Felix and Drusilla (Ant. 20.141-144)"
+  related: [herod-the-great, herods-temple, jewish-sects, census-of-quirinius, masada, pilate-stone, arch-of-titus, messianic-expectations]
+  wikipedia: Josephus
+  image: Josephus Antiquities manuscript
+  author_notes:
+    - "Explain the dates and aims of each work (War c. 75-79; Antiquities 93/94; Life and Against Apion later), Flavian patronage, and apologetic tendencies. Do not take his numbers at face value."
+    - "Testimonium Flavianum (Ant. 18.63-64): the majority view is a partly authentic core with Christian interpolations. The James (Ant. 20.200) and John the Baptist passages are generally accepted as authentic."
+    - "Note divergences from the NT (e.g. Herodias's first husband; the Theudas chronology in Acts 5:36). The argument that Luke used Josephus is a minority view."
+    - "The so-called 'bust of Josephus' (Ny Carlsberg Glyptotek) has no basis as a portrait. Avoid using it as an image."
+  sources_to_check:
+    - "H. St. J. Thackeray, R. Marcus, A. Wikgren, and L. H. Feldman (trans.), Josephus, 10 vols. (Loeb Classical Library, 1926-1965)"
+    - "S. Mason (ed.), Flavius Josephus: Translation and Commentary (Brill, 2000-)"
+
+- id: antiochus-iv
+  aliases: [Antiochus Epiphanes]
+  cultures: [greek]
+  date: [-175, -164]
+  scope: >-
+    Antiochus IV Epiphanes, Seleucid king whose plundering of the Jerusalem temple,
+    proscription of Jewish practice, and installation of a pagan cult (167 BCE) provoked the
+    Maccabean revolt. He is the figure behind the 'little horn' and the ex eventu history
+    of Daniel 7-12.
+  passages:
+    - "Dan 7:8, 24-25 | attests | Little horn speaking arrogantly, changing times and law"
+    - "Dan 8:9-14, 23-25 | attests | Little horn removes the daily offering and profanes the sanctuary"
+    - "Dan 9:26-27 | attests | Offering ceases and 'an abomination that desolates' is set up"
+    - "Dan 11:21-45 | event | Ex eventu account of his reign; 11:40-45 predicts a death that did not happen thus"
+    - "Dan 11:29-30 | event | Roman ultimatum in Egypt (168 BCE), the 'ships of Kittim'"
+    - "1Macc 1:10-64 | event | Plunder of the temple, royal edict, persecution, and the desolating sacrilege"
+    - "2Macc 6:1-11 | event | Temple renamed for Zeus Olympios; persecution"
+    - "2Macc 9:1-29 | event | His death narrated as divine punishment"
+    - "Mark 13:14 | concept | 'Desolating sacrilege' reapplied from Daniel"
+  related: [maccabean-revolt, four-kingdoms-schema, heliodorus-stele, composite-beasts-daniel, afterlife-and-resurrection, jerusalem]
+  wikipedia: Antiochus IV Epiphanes
+  image: Antiochus IV Epiphanes tetradrachm
+  author_notes:
+    - "Daniel 7-12 is dated to 167-164 BCE by its accurate ex eventu detail down to 167 and its inaccurate prediction of his death (he died in Persia in 164)."
+    - "Causes of the persecution are debated: royal Hellenizing zeal, Jewish Hellenizers' initiative (Bickerman), or response to revolt (Tcherikover). Present the debate neutrally."
+    - "šiqqûṣ šōmēm 'abomination of desolation' is generally understood as a pun on Baʿal Šamêm."
+  sources_to_check:
+    - "E. Bickerman, The God of the Maccabees (1979)"
+    - "V. Tcherikover, Hellenistic Civilization and the Jews (1959)"
+    - "O. Mørkholm, Antiochus IV of Syria (1966)"
+
+- id: maccabean-revolt
+  cultures: [jewish, greek]
+  date: [-167, -160]
+  scope: >-
+    The Judean uprising against Seleucid rule and Antiochus IV's religious measures, led
+    by Mattathias and his sons. It saw the temple rededicated in 164 BCE and led ultimately
+    to Hasmonean independence. The entry covers the period to Judas's death in 160 BCE and
+    the sources that narrate it.
+  passages:
+    - "1Macc 2:1-70 | event | Mattathias's revolt at Modein"
+    - "1Macc 2:29-41 | practice | Debate over fighting on the Sabbath"
+    - "1Macc 4:36-59 | event | Purification and rededication of the temple; an eight-day festival"
+    - "2Macc 10:1-8 | event | Rededication celebrated like Sukkot"
+    - "2Macc 7:1-42 | event | Martyrdom of the seven brothers and their mother; hope of resurrection"
+    - "Dan 11:32-35 | event | The people who know their God resist; the wise fall; 'a little help'"
+    - "Dan 8:13-14 | event | Sanctuary restored after 2,300 evenings and mornings"
+    - "John 10:22-23 | practice | Festival of Dedication (Hanukkah) in Jerusalem"
+    - "Heb 11:35-38 | concept | Martyrs tortured, refusing release, for a better resurrection"
+  related: [antiochus-iv, heliodorus-stele, jewish-sects, afterlife-and-resurrection, josephus, sabbath, messianic-expectations]
+  wikipedia: Maccabean Revolt
+  image: null
+  author_notes:
+    - "Compare the sources: 1 Maccabees (pro-Hasmonean dynastic history), 2 Maccabees (epitome of Jason of Cyrene; temple and martyr focus), Daniel, and Josephus (Ant. 12-13)."
+    - "Note the problems of Seleucid-era chronology between 1 and 2 Maccabees, and the identity of the Hasideans (1 Macc 2:42; 7:13)."
+    - "Archaeology: the possible identification of the Seleucid Akra (Givati excavations, 2015) is debated."
+  sources_to_check:
+    - "J. A. Goldstein, I Maccabees (AB 41, 1976)"
+    - "J. A. Goldstein, II Maccabees (AB 41A, 1983)"
+    - "D. R. Schwartz, 2 Maccabees (CEJL, 2008)"
+    - "B. Bar-Kochva, Judas Maccabaeus: The Jewish Struggle against the Seleucids (1989)"
+
+- id: heliodorus-stele
+  cultures: [greek]
+  date: [-178]
+  scope: >-
+    Greek inscribed stele recording correspondence of Seleucus IV (178 BCE) to his minister
+    Heliodorus about appointing Olympiodoros as overseer of sanctuaries in Coele-Syria and
+    Phoenicia. It provides documentary context for the Heliodorus episode in 2 Maccabees 3.
+  passages:
+    - "2Macc 3:1-40 | attests | Heliodorus, chief minister of Seleucus IV, sent to seize the temple treasury"
+    - "2Macc 3:3 | attests | Seleucus IV funding the Jerusalem cult"
+    - "Dan 11:20 | attests | A ruler who sends an official (nôgēś) for royal revenue: Seleucus IV and Heliodorus"
+    - "2Macc 4:7-10 | setting | Royal control of sanctuaries; Jason purchases the high priesthood"
+  related: [antiochus-iv, maccabean-revolt, jerusalem, tribute-and-vassalage]
+  wikipedia: Heliodorus stele
+  image: Heliodorus Stele Israel Museum
+  location: Israel Museum, Jerusalem
+  author_notes:
+    - "Explain the provenance: the upper fragments surfaced on the antiquities market and were joined with fragments excavated at Maresha. This is a rare case of looted and excavated pieces being reunited."
+    - "The stele shows a real Seleucid policy of supervising sanctuaries. 2 Maccabees 3's angelic intervention is legendary elaboration around a plausible administrative episode."
+  sources_to_check:
+    - "H. M. Cotton and M. Wörrle, 'Seleukos IV to Heliodoros: A New Dossier of Royal Correspondence from Israel', ZPE 159 (2007)"
+    - "D. Gera, 'Olympiodoros, Heliodoros and the Temples of Koilē Syria and Phoinikē', ZPE 169 (2009)"
+
+- id: herod-the-great
+  cultures: [jewish, roman]
+  date: [-37, -4]
+  scope: >-
+    Herod I, Idumean-born client king of Judea appointed by Rome (40 BCE; ruling from 37
+    until his death in 4 BCE). He was a great builder (temple, Caesarea, Masada, Herodium)
+    and the king in whose reign Matthew and Luke set Jesus' birth.
+  passages:
+    - "Matt 2:1-12 | attests | Jesus born 'in the time of King Herod'; the magi at Herod's court"
+    - "Matt 2:16-18 | attests | Massacre of the infants, not independently attested"
+    - "Matt 2:19-22 | attests | Herod's death and Archelaus's succession in Judea"
+    - "Luke 1:5 | attests | 'In the days of King Herod of Judea'"
+    - "John 2:20 | attests | Temple under construction for forty-six years"
+    - "Acts 23:35 | realia | Paul held in 'Herod's headquarters' (praetorium) at Caesarea"
+  related: [herods-temple, caesarea-maritima, masada, josephus, nabataeans, edomites, bethlehem]
+  wikipedia: Herod the Great
+  image: Herod the Great coin
+  author_notes:
+    - "Death in 4 BCE (Josephus; the eclipse at Ant. 17.167) is the consensus. Alternative proposals of 1 BCE are a minority, so Jesus' birth is placed before 4 BCE."
+    - "The massacre of the infants is absent from Josephus. Its historicity is debated; it fits Herod's late cruelty but also Matthew's Moses typology."
+    - "Netzer identified his tomb at Herodium (2007); note that some dispute the identification."
+  sources_to_check:
+    - "P. Richardson, Herod: King of the Jews and Friend of the Romans (1996)"
+    - "E. Netzer, The Architecture of Herod, the Great Builder (2006)"
+
+- id: herods-temple
+  cultures: [jewish, roman]
+  date: [-20, 70]
+  circa: true
+  scope: >-
+    The Jerusalem temple as rebuilt and its precinct massively enlarged by Herod from
+    c. 20/19 BCE until its destruction by Rome in 70 CE. The entry covers the platform,
+    courts, porticoes, and sanctuary as known from Josephus, the Mishnah, and archaeology.
+  passages:
+    - "John 2:20 | setting | 'This temple has been under construction for forty-six years'"
+    - "Mark 11:15-17 | setting | Jesus' action against traders in the outer court"
+    - "Mark 13:1-2 | setting | Disciples admire the great stones; destruction foretold"
+    - "Luke 1:8-23 | practice | Zechariah chosen by lot to offer incense in the sanctuary"
+    - "Acts 3:1-11 | setting | The Beautiful Gate and Solomon's Portico"
+    - "John 10:23 | setting | Jesus walks in Solomon's Portico at Dedication"
+    - "Acts 21:26-30 | setting | Paul seized in the temple; the gates shut"
+    - "Matt 4:5 | setting | The 'pinnacle' (pterygion) of the temple"
+    - "Mark 15:38 | realia | The curtain of the sanctuary"
+  related: [temple-mount, temple-warning-inscription, trumpeting-place-inscription, herod-the-great, josephus, arch-of-titus, pool-of-siloam, jerusalem]
+  wikipedia: Herod's Temple
+  image: Western Wall Herodian masonry
+  author_notes:
+    - "Sources: Josephus (War 5.184-247; Ant. 15.380-425), m. Middot, and archaeology (retaining walls, Robinson's and Wilson's arches, southern steps and Huldah gates, Royal Stoa fragments). Almost nothing of the sanctuary itself survives."
+    - "Josephus gives conflicting start dates (Herod's 18th year, Ant. 15.380; 15th year, War 1.401). Explain the arithmetic behind John 2:20."
+    - "Coins found under Robinson's Arch show that work on the platform continued well after Herod's death."
+    - "Keep a neutral tone on the modern politics of the Temple Mount/Haram al-Sharif."
+  sources_to_check:
+    - "L. Ritmeyer, The Quest: Revealing the Temple Mount in Jerusalem (2006)"
+    - "B. Mazar, The Mountain of the Lord (1975)"
+
+- id: temple-warning-inscription
+  aliases: [Soreg inscription]
+  cultures: [jewish, greek]
+  date: [-20, 70]
+  circa: true
+  scope: >-
+    Greek inscriptions from the balustrade (soreg) around the inner courts of Herod's
+    temple, warning that any foreigner who passed it would be responsible for his own
+    death. One complete copy (found 1871) and one fragmentary copy (found 1935) survive.
+  passages:
+    - "Acts 21:27-30 | practice | Paul accused of bringing Greeks into the temple and defiling it"
+    - "Acts 24:6 | practice | Charge of attempting to profane the temple"
+    - "Eph 2:14 | imagery? | 'Dividing wall of hostility' possibly alluding to the balustrade"
+    - "Ezek 44:9 | concept | No foreigner uncircumcised in heart and flesh shall enter the sanctuary"
+    - "Lam 1:10 | concept | Nations forbidden to enter the congregation"
+    - "Mark 11:17 | concept | 'House of prayer for all the nations', spoken in the court open to Gentiles"
+  related: [herods-temple, temple-mount, josephus, purity-and-impurity, trumpeting-place-inscription, jerusalem]
+  wikipedia: Temple Warning inscription
+  image: Temple warning inscription Istanbul Archaeology Museum
+  location: Istanbul Archaeology Museums (complete copy); Israel Museum, Jerusalem (fragmentary copy)
+  author_notes:
+    - "Give the text and compare Josephus (War 5.193-194; 6.124-126; Ant. 15.417) and Philo (Legat. 212). Josephus says such notices were in Greek and Latin."
+    - "Debate: whether the warning implies Jewish capital jurisdiction (cf. John 18:31) or lynching/divine penalty."
+    - "The Eph 2:14 link is popular but uncertain. The metaphor need not refer to the physical balustrade, and Ephesians' date and authorship bear on it."
+  sources_to_check:
+    - "OGIS 598"
+    - "Corpus Inscriptionum Iudaeae/Palaestinae, vol. 1: Jerusalem (2010-2012)"
+
+- id: trumpeting-place-inscription
+  cultures: [jewish]
+  date: [-20, 70]
+  circa: true
+  scope: >-
+    Fragmentary Hebrew inscription on a parapet stone found below the southwest corner of
+    the Temple Mount, reading 'to the place of trumpeting to [...]'. It probably marked
+    where a priest blew the trumpet to announce the beginning and end of the Sabbath.
+  passages:
+    - "Num 10:10 | practice | Trumpets sounded on appointed days"
+    - "Ps 81:3 | practice | Blowing the shofar at new moon and festival (MT 81:4)"
+    - "Matt 4:5 | setting? | The temple 'pinnacle', sometimes linked to this corner of the precinct"
+  related: [herods-temple, temple-mount, josephus, sabbath, musical-instruments, new-moon]
+  wikipedia: Trumpeting Place inscription
+  image: Trumpeting Place inscription Israel Museum
+  location: Israel Museum, Jerusalem
+  author_notes:
+    - "Found in B. Mazar's excavations (1968-69) in the debris of 70 CE. The restoration of the final word (to 'announce' or to 'distinguish') is uncertain."
+    - "Josephus (War 4.582) describes a priest on a tower signalling the start and end of the Sabbath with a trumpet. This is the key comparison."
+    - "Links to Matt 4:5 (pinnacle) are speculative, and links to Matt 6:2 ('sound a trumpet' before almsgiving) are fringe; mention them only as such."
+  sources_to_check:
+    - "Corpus Inscriptionum Iudaeae/Palaestinae, vol. 1: Jerusalem (2010-2012)"
+
+- id: theodotos-inscription
+  cultures: [jewish, greek]
+  date: [-50, 70]
+  circa: true
+  scope: >-
+    Greek dedicatory inscription found in 1913 on the Ophel/City of David. It records that
+    Theodotos son of Vettenos, priest and archisynagogos, built a synagogue for the reading
+    of the Law and teaching of the commandments, with guest rooms and water installations
+    for visitors from abroad. It is the principal epigraphic evidence for a pre-70 synagogue
+    in Jerusalem.
+  passages:
+    - "Luke 4:16-21 | practice | Synagogue reading of scripture and teaching on the Sabbath"
+    - "Acts 15:21 | practice | Moses read in the synagogues every Sabbath"
+    - "Acts 13:15 | language | archisynagōgoi ('synagogue leaders'), the inscription's title"
+    - "Acts 2:5-11 | practice | Diaspora Jews in Jerusalem; lodging for visitors from abroad"
+    - "Acts 6:9 | attests? | Synagogue of the Freedmen; Theodotos's Latin family name may indicate freedman origin"
+  related: [synagogues, stone-vessels-and-mikvaot, city-of-david, jerusalem, magdala-stone, herods-temple]
+  wikipedia: Theodotos inscription
+  image: Theodotos inscription Jerusalem
+  author_notes:
+    - "Dating: a pre-70 date (Kloppenborg 2000) is the prevailing view against H. C. Kee's later dating."
+    - "The identification with the Synagogue of the Freedmen (Acts 6:9) is an attractive conjecture, not established."
+    - "Note the emphasis on Torah reading and hospitality rather than prayer, and the three generations of archisynagogoi."
+  sources_to_check:
+    - "CIJ II 1404"
+    - "J. S. Kloppenborg Verbin, 'Dating Theodotos (CIJ II 1404)', JJS 51 (2000)"
+    - "Corpus Inscriptionum Iudaeae/Palaestinae, vol. 1: Jerusalem (2010-2012)"
+
+- id: magdala-stone
+  cultures: [jewish]
+  date: [1, 67]
+  circa: true
+  scope: >-
+    Carved stone block found in 2009 in a first-century synagogue at Magdala (Migdal) on
+    the Sea of Galilee. Its decoration includes a seven-branched menorah, and it is widely
+    interpreted as a symbolic representation of the Jerusalem temple. The entry also
+    covers the synagogue itself.
+  passages:
+    - "Mark 1:39 | setting | Jesus preaching in synagogues throughout Galilee"
+    - "Luke 4:15 | setting | Teaching in the synagogues of Galilee"
+    - "Luke 8:2 | attests | Mary 'called Magdalene', i.e. from Magdala"
+    - "Matt 15:39 | attests? | 'Region of Magadan', with the variant Magdala"
+    - "Exod 25:31-40 | realia | Menorah depicted, evoking the temple lampstand"
+  related: [synagogues, menorah, galilee-boat, capernaum, herods-temple, stone-vessels-and-mikvaot]
+  wikipedia: Magdala stone
+  image: Magdala Stone menorah
+  author_notes:
+    - "Interpretation as a model of the temple (Aviam, Bauckham and others) is common but debated in its details. Its function (a table for Torah reading?) is uncertain."
+    - "It is one of the earliest menorah depictions outside Jerusalem (compare the coins of Mattathias Antigonus)."
+    - "Magdala's identification with Josephus's Taricheae is widely accepted. Avoid sensational claims that Jesus taught in this building."
+  sources_to_check:
+    - "R. Bauckham (ed.), Magdala of Galilee: A Jewish City in the Hellenistic and Roman Period (2018)"
+    - "M. Aviam, 'The Decorated Stone from the Synagogue at Migdal', Novum Testamentum 55 (2013)"
+
+- id: pilate-stone
+  cultures: [roman]
+  date: [26, 36]
+  scope: >-
+    Limestone block found at Caesarea Maritima in 1961, reused in the theatre, bearing a
+    Latin dedication of a Tiberieum by Pontius Pilatus, prefect of Judea. It is the only
+    contemporary inscription naming Pilate and gives his official title.
+  passages:
+    - "Luke 3:1 | attests | Pontius Pilate governor of Judea in Tiberius's fifteenth year"
+    - "Matt 27:2, 11 | language | 'Governor' (hēgemōn); the inscription gives the formal title praefectus"
+    - "Mark 15:1-15 | attests | Jesus' trial before Pilate"
+    - "John 18:28-19:16 | attests | Pilate's praetorium and the trial"
+    - "Acts 4:27 | attests | Pilate with Herod and the nations against Jesus"
+    - "1Tim 6:13 | attests | Christ's testimony before Pontius Pilate"
+    - "Acts 23:33-35 | setting | Caesarea as the Roman governor's seat"
+  related: [caesarea-maritima, imperial-cult, caiaphas-ossuary, crucifixion, josephus, herod-the-great]
+  wikipedia: Pilate stone
+  image: Pilate stone Israel Museum
+  location: Israel Museum, Jerusalem
+  author_notes:
+    - "Present the reading and restoration, and the debate over what the Tiberieum was (a cultic building or a maritime structure such as a lighthouse, per Alföldy)."
+    - "Prefect (not procurator, as in Tacitus, Ann. 15.44) was the correct title for equestrian governors of Judea before 44 CE."
+    - "Other evidence for Pilate: his coins (29-31 CE), Philo (Legat. 299-305), Josephus. The 2018 Herodium ring inscribed 'Pilatus' is of uncertain relevance."
+  sources_to_check:
+    - "Corpus Inscriptionum Iudaeae/Palaestinae, vol. 2: Caesarea and the Middle Coast (2011)"
+
+- id: caiaphas-ossuary
+  cultures: [jewish]
+  date: [1, 70]
+  circa: true
+  scope: >-
+    An ornate limestone ossuary from a family tomb discovered in 1990 in Jerusalem's
+    Peace Forest, inscribed 'Yehosef bar Qayafa'. It is widely identified as the ossuary
+    of the high priest Joseph Caiaphas (c. 18-36/37 CE).
+  passages:
+    - "Matt 26:3, 57 | attests | Caiaphas the high priest; Josephus names him 'Joseph called Caiaphas'"
+    - "John 11:49-53 | attests | Caiaphas counsels that one man die for the people"
+    - "John 18:13-14, 24 | attests | Annas, father-in-law of Caiaphas; Jesus sent to Caiaphas"
+    - "Luke 3:2 | attests | High priesthood of Annas and Caiaphas"
+    - "Acts 4:6 | attests | Annas and Caiaphas at the hearing of Peter and John"
+  related: [ossuaries, josephus, herods-temple, pilate-stone, jewish-sects, forgeries-in-biblical-archaeology]
+  wikipedia: Caiaphas ossuary
+  image: Caiaphas ossuary Israel Museum
+  location: Israel Museum, Jerusalem
+  author_notes:
+    - "The identification is widely accepted but has been questioned (the spelling Qafa/Qayafa, the modest tomb, the absence of a priestly title). Present it as probable rather than certain."
+    - "Note Josephus, Ant. 18.35, 95, and the family name Caiaphas."
+    - "The 'Miriam daughter of Yeshua son of Caiaphas' ossuary (published 2011) was recovered from looters. Its authenticity is generally accepted, but its context is lost."
+  sources_to_check:
+    - "L. Y. Rahmani, A Catalogue of Jewish Ossuaries in the Collections of the State of Israel (1994)"
+    - "Z. Greenhut and R. Reich, reports on the Caiaphas tomb in ʿAtiqot 21 (1992)"
+
+- id: ossuaries
+  cultures: [jewish]
+  date: [-20, 135]
+  circa: true
+  scope: >-
+    Stone chests used for secondary burial (ossilegium) of bones after the flesh had
+    decomposed in rock-cut tombs, characteristic of Jerusalem from the late 1st century BCE
+    to 70 CE and continuing elsewhere into the 2nd century. The entry covers the tombs,
+    inscriptions, and burial practices they reflect.
+  passages:
+    - "Matt 23:27 | imagery | Whitewashed tombs full of dead bones"
+    - "Matt 8:21-22 | practice? | 'Let the dead bury their own dead', perhaps alluding to secondary burial"
+    - "Matt 27:57-60 | realia | Rock-cut tomb closed with a stone"
+    - "Mark 16:3-5 | realia | Blocking stone and tomb chamber"
+    - "John 11:38-44 | realia | Cave tomb with a stone; the dead bound in cloths"
+    - "John 19:38-42 | practice | Burial with spices and linen before the Sabbath"
+    - "2Kgs 22:20 | concept | 'Gathered to your ancestors': antecedent of collective bone deposits"
+  related: [caiaphas-ossuary, bench-tombs, care-for-the-dead, afterlife-and-resurrection, forgeries-in-biblical-archaeology, crucifixion]
+  wikipedia: Ossuary
+  image: Jewish ossuary Jerusalem Second Temple
+  author_notes:
+    - "The link between ossilegium and resurrection belief has been proposed (Rahmani) but is debated."
+    - "Inscriptions (Hebrew, Aramaic, Greek) are a major source for onomastics."
+    - "Address controversies: the James ossuary (its inscription widely doubted despite the 2012 acquittal) and the Talpiot 'Jesus family tomb' claims (rejected by mainstream scholars)."
+    - "Most tomb-blocking stones were square; round rolling stones were rare before 70 CE (Kloner)."
+  sources_to_check:
+    - "L. Y. Rahmani, A Catalogue of Jewish Ossuaries in the Collections of the State of Israel (1994)"
+    - "R. Hachlili, Jewish Funerary Customs, Practices and Rites in the Second Temple Period (2005)"
+    - "B. R. McCane, Roll Back the Stone: Death and Burial in the World of Jesus (2003)"
+
+- id: crucifixion
+  cultures: [roman, jewish]
+  scope: >-
+    Execution by suspension on a stake or cross, used by Persians, Carthaginians, and
+    Hellenistic rulers and institutionalized by Rome for slaves, rebels, and provincials.
+    The entry covers literary and archaeological evidence, Jewish attitudes (Deut 21:22-23),
+    and its bearing on the Passion narratives.
+  passages:
+    - "Deut 21:22-23 | concept | One hanged on a tree is cursed; the body not left overnight"
+    - "Gal 3:13 | concept | Christ became a curse, citing Deut 21:23"
+    - "Acts 5:30 | language | 'Hanging on a tree' for crucifixion (cf. 11QTemple 64; 4QpNah)"
+    - "Mark 15:21-37 | practice | Crossbeam carried, titulus, crucifixion between bandits"
+    - "John 19:31-33 | practice | Breaking the legs; bodies removed before the Sabbath"
+    - "John 20:25 | practice | Nail marks in the hands"
+    - "1Cor 1:23 | concept | A crucified messiah as stumbling block and folly"
+    - "Phil 2:8 | concept | 'Death on a cross' as the extreme of humiliation"
+  related: [temple-scroll, ossuaries, pilate-stone, josephus, treatment-of-captives, messianic-expectations]
+  wikipedia: Crucifixion
+  image: Yehohanan heel bone nail crucifixion
+  author_notes:
+    - "Jewish evidence: Alexander Jannaeus crucified 800 (Ant. 13.380; cf. 4QpNahum); Varus crucified 2,000 (Ant. 17.295); Titus at Jerusalem (War 5.449-451)."
+    - "Archaeology: the Giv'at ha-Mivtar heel bone (Yehohanan) with a nail, plus later finds from Italy and England. Note Zias and Sekeles's correction of the original reconstruction."
+    - "Avoid speculative medical reconstructions of the cause of death. Methods varied widely (Seneca, Dial. 6.20.3)."
+  sources_to_check:
+    - "M. Hengel, Crucifixion in the Ancient World and the Folly of the Message of the Cross (1977)"
+    - "J. G. Cook, Crucifixion in the Mediterranean World (2014; 2nd ed. 2019)"
+    - "V. Tzaferis, 'Jewish Tombs at and near Giv'at ha-Mivtar, Jerusalem', IEJ 20 (1970)"
+    - "J. Zias and E. Sekeles, 'The Crucified Man from Giv'at ha-Mivtar: A Reappraisal', IEJ 35 (1985)"
+
+- id: stone-vessels-and-mikvaot
+  cultures: [jewish]
+  date: [-150, 135]
+  circa: true
+  scope: >-
+    Stepped immersion pools (miqvaʾot) and chalk-stone vessels, the two main archaeological
+    markers of Jewish purity practice in the late Second Temple period. The entry covers
+    their chronology, distribution, and halakhic rationale.
+  passages:
+    - "John 2:6 | realia | Six stone water jars 'for the Jewish rites of purification'"
+    - "Mark 7:1-5 | practice | Washing of hands, cups, pots, and bronze vessels"
+    - "Matt 23:25-26 | practice | Cleaning the outside of the cup and dish"
+    - "John 3:25 | practice | Dispute about purification"
+    - "Lev 11:32-33 | concept | Defiled earthen vessels must be broken; stone was held not to contract impurity"
+    - "Lev 15:13, 16, 18 | practice | Bathing in water after bodily discharges"
+  related: [purity-and-impurity, pool-of-siloam, pool-of-bethesda, qumran, jewish-sects, synagogues, magdala-stone]
+  wikipedia: Mikveh
+  image: Herodian stone vessels Jerusalem
+  author_notes:
+    - "Stone vessels: chalk workshops near Jerusalem (e.g. Ḥizma, Mount Scopus) and in Galilee (Reina, ʿEinot Amitai). Their distribution marks Jewish settlement; the rationale appears later in m. Kelim 10:1 and m. Parah 3:2."
+    - "Miqvaʾot appear from the late 2nd or early 1st century BCE. Do not read later rabbinic specifications (40 seʾahs, ʾotsar) back into all early pools."
+    - "John 2:6's 'two or three measures' (metrētai) per jar fits the large lathe-turned stone jars known archaeologically."
+  sources_to_check:
+    - "J. Magness, Stone and Dung, Oil and Spit: Jewish Daily Life in the Time of Jesus (2011)"
+    - "Y. Adler, The Origins of Judaism: An Archaeological-Historical Reappraisal (2022)"
+
+- id: synagogues
+  cultures: [jewish]
+  scope: >-
+    Jewish assembly buildings and institutions (synagōgē, proseuchē) before 135 CE. The
+    entry covers their debated origins, the excavated pre-70 buildings in the land of
+    Israel and the diaspora, and their functions of scripture reading, teaching, and
+    community life as reflected in the New Testament.
+  passages:
+    - "Luke 4:16-30 | practice | Sabbath reading from the prophets and teaching at Nazareth"
+    - "Mark 1:21 | setting | Jesus teaches in the Capernaum synagogue"
+    - "Luke 7:5 | practice | A centurion's benefaction: 'he built our synagogue'"
+    - "Acts 13:14-15 | practice | Reading of the law and prophets; officials invite a word of exhortation"
+    - "Acts 15:21 | practice | Moses read every Sabbath in every city"
+    - "Acts 16:13 | language | proseuchē 'place of prayer' at Philippi"
+    - "Mark 5:22 | language | archisynagōgos 'leader of the synagogue'"
+    - "Matt 23:2, 6 | realia | 'Moses' seat' and seats of honour"
+    - "Ps 74:8 | language? | 'Meeting places of God' in the land, sometimes read as synagogues"
+  related: [theodotos-inscription, magdala-stone, capernaum, masada, stone-vessels-and-mikvaot, septuagint]
+  wikipedia: Synagogue
+  image: Gamla synagogue
+  author_notes:
+    - "Origins debated (exilic, Hellenistic Egypt, Judean town gate). The earliest firm evidence is 3rd-century BCE proseuchē dedications from Ptolemaic Egypt."
+    - "Pre-70 buildings: Gamla, Masada, Herodium, Magdala, Qiryat Sefer, Modiʿin, among others. The white-limestone Capernaum synagogue is late antique, built over an earlier basalt structure."
+    - "Avoid retrojecting later rabbinic liturgy. Reading and teaching Torah are the best-attested functions; the prominence of prayer is debated."
+  sources_to_check:
+    - "L. I. Levine, The Ancient Synagogue: The First Thousand Years (2nd ed., 2005)"
+    - "A. Runesson, D. D. Binder, and B. Olsson, The Ancient Synagogue from Its Origins to 200 C.E.: A Source Book (2008)"
+
+- id: galilee-boat
+  aliases: [Jesus Boat, Sea of Galilee Boat, Ginosar Boat]
+  cultures: [jewish, roman]
+  date: [-100, 70]
+  circa: true
+  scope: >-
+    The hull of a wooden fishing boat (about 8.2 m long) recovered from the mud of the Sea
+    of Galilee near Ginosar in 1986, dated to the 1st century BCE to 1st century CE. It is
+    the type of vessel presupposed in the Gospel fishing and lake-crossing stories.
+  passages:
+    - "Mark 1:16-20 | realia | Fishermen, nets, boat, and hired men on the lake"
+    - "Mark 4:35-41 | realia | Boat crossing in a storm; Jesus asleep on the cushion in the stern"
+    - "Luke 5:1-11 | realia | Two boats working together; nets strained by the catch"
+    - "John 21:1-11 | realia | Night fishing from a boat with a net"
+    - "Matt 13:47-48 | realia | Dragnet (sagēnē) hauled ashore"
+  related: [capernaum, magdala-stone, josephus, phoenician-seafaring]
+  wikipedia: Sea of Galilee Boat
+  image: Ancient Galilee Boat Ginosar
+  location: Yigal Allon Centre, Kibbutz Ginosar
+  author_notes:
+    - "There is no connection to Jesus or the disciples. 'Jesus Boat' is a popular nickname."
+    - "Its construction (mortise-and-tenon, many repairs, mixed timbers) indicates long use and limited resources. Its capacity (about 15 people) can be compared with Josephus's lake boats (War 2.635-641; 3.522-531)."
+    - "Dating by radiocarbon, pottery, and construction technique."
+  sources_to_check:
+    - "S. Wachsmann, The Sea of Galilee Boat: A 2000-Year-Old Discovery from the Sea of Legends (1995)"
+    - "S. Wachsmann (ed.), 'The Excavations of an Ancient Boat in the Sea of Galilee (Lake Kinneret)', ʿAtiqot 19 (1990)"
+
+- id: pool-of-siloam
+  cultures: [jewish, judahite]
+  scope: >-
+    The pool(s) at the southern end of Jerusalem's City of David, fed by Hezekiah's tunnel
+    from the Gihon spring. The entry covers the large stepped pool of the late Second
+    Temple period, discovered in 2004, as well as its Iron Age and Byzantine predecessors
+    and successors.
+  passages:
+    - "John 9:7 | setting | The man born blind washes in the pool of Siloam ('Sent')"
+    - "John 7:37-38 | practice | Sukkot water ceremony drawing water from Siloam (m. Sukkah 4:9)"
+    - "Luke 13:4 | setting | The tower in Siloam that fell"
+    - "Isa 8:6 | language | 'The waters of Shiloah that flow gently'"
+    - "Neh 3:15 | setting | Wall of the Pool of Shelah by the king's garden"
+    - "2Kgs 20:20 | setting | Hezekiah's pool and conduit"
+    - "Isa 22:9-11 | setting | Lower pool and reservoir between the two walls"
+  related: [hezekiahs-tunnel, city-of-david, stone-vessels-and-mikvaot, herods-temple, pool-of-bethesda, jerusalem, siloam-inscription]
+  wikipedia: Pool of Siloam
+  image: Pool of Siloam steps excavation
+  author_notes:
+    - "The 2004 discovery (Reich and Shukron) of a stepped pool dated by coins to the 1st century BCE-1st century CE confirms John's topography. Distinguish it from the Byzantine and modern pool."
+    - "Its use as a large miqveh for pilgrims has been proposed but is debated."
+    - "Note the ongoing excavation of the stepped street toward the Temple Mount and the political sensitivities of excavating under Silwan."
+
+- id: pool-of-bethesda
+  cultures: [jewish, roman]
+  scope: >-
+    The twin pools north of the Temple Mount near the Church of St Anne, identified with the
+    pool 'by the Sheep Gate' with five porticoes in John 5. The entry covers the pools'
+    history and the later Roman healing sanctuary nearby.
+  passages:
+    - "John 5:2-9 | setting | Pool with five porticoes where the sick waited for healing"
+    - "John 5:3-4 | language | The angel stirring the water (5:3b-4) is absent from the earliest manuscripts"
+    - "Neh 3:1; 12:39 | setting | The Sheep Gate north of the temple"
+  related: [pool-of-siloam, herods-temple, stone-vessels-and-mikvaot, jerusalem, temple-mount, dead-sea-scrolls]
+  wikipedia: Pool of Bethesda
+  image: Pool of Bethesda St Anne Jerusalem
+  author_notes:
+    - "Excavations revealed two basins separated by a dam, supporting John's five porticoes (four sides plus the dividing dam). The pools' date and function (reservoir, possibly ritual bathing in the southern pool) are debated."
+    - "A healing sanctuary (Asclepius/Serapis) is attested after 135 CE. Its existence before 70 is disputed, so do not assume it as the setting of John 5."
+    - "The name varies in manuscripts (Bethesda, Bethzatha, Bethsaida). The Copper Scroll (3Q15) reading of a dual 'Beth Eshdatayin' is sometimes cited but debated."
+  sources_to_check:
+    - "J. Jeremias, The Rediscovery of Bethesda (1966)"
+
+- id: arch-of-titus
+  cultures: [roman]
+  date: [81, 82]
+  circa: true
+  scope: >-
+    Single-bay honorific arch on the Via Sacra in Rome, dedicated after Titus's death (81
+    CE) to the deified emperor. Its relief panels show the triumph of 71 CE over Judea,
+    including the temple menorah, the table of showbread, and trumpets carried as spoils.
+  passages:
+    - "Mark 13:1-2 | event | Destruction of the temple foretold"
+    - "Luke 19:41-44 | event | Jerusalem besieged and razed"
+    - "Luke 21:20-24 | event | Jerusalem surrounded by armies; inhabitants led captive among the nations"
+    - "Exod 25:31-40 | realia | The lampstand among the spoils"
+    - "Exod 25:23-30 | realia | The table of the bread of the presence among the spoils"
+    - "Num 10:1-10 | realia | Silver trumpets carried in the procession"
+    - "2Cor 2:14 | practice | Roman triumphal procession as metaphor"
+  related: [judaea-capta-coins, herods-temple, menorah, josephus, imperial-cult, masada]
+  wikipedia: Arch of Titus
+  image: Arch of Titus spoils relief menorah
+  location: In situ, Roman Forum, Rome
+  author_notes:
+    - "Compare Josephus's description of the triumph and spoils (War 7.123-162) and their later display in the Temple of Peace."
+    - "Debate on how accurately the menorah is depicted (e.g. the decorated octagonal base). Note the polychromy research of 2012."
+    - "A second, lost arch at the Circus Maximus had an inscription (CIL VI 944) claiming that Titus subdued the Jews and destroyed Jerusalem."
+  sources_to_check:
+    - "CIL VI 945"
+    - "CIL VI 944"
+    - "S. Fine, The Menorah: From the Bible to Modern Israel (2016)"
+    - "M. Pfanner, Der Titusbogen (1983)"
+
+- id: judaea-capta-coins
+  cultures: [roman]
+  date: [70, 96]
+  circa: true
+  scope: >-
+    Roman coins issued by Vespasian, Titus, and Domitian to commemorate the suppression of
+    the Jewish revolt. Typical types show a mourning woman (Judaea) seated beneath a palm
+    tree, often with a bound captive, and the legend IVDAEA CAPTA.
+  passages:
+    - "Isa 3:26 | imagery | Zion as a ravaged woman sitting on the ground at her gates"
+    - "Lam 1:1 | imagery | Jerusalem as a widow sitting alone"
+    - "Luke 21:24 | event | Jerusalem trampled by the Gentiles; people taken captive"
+    - "Rev 18:7 | imagery? | Babylon boasts 'I am no widow', perhaps inverting Flavian imagery"
+  related: [arch-of-titus, coinage, imperial-cult, josephus, herods-temple, masada]
+  wikipedia: Judaea Capta coinage
+  image: Judaea Capta sestertius
+  author_notes:
+    - "Place them in the Roman convention of conquered-province iconography (e.g. Germania capta) and in Flavian legitimation."
+    - "The parallel with the biblical image of Zion as a mourning woman is iconographic and conceptual. Do not claim the mints drew on Isaiah."
+    - "Contrast with the Jewish revolt coinage ('Jerusalem the Holy', 'Freedom of Zion') and mention the fiscus Iudaicus imposed after 70."
+  sources_to_check:
+    - "Roman Imperial Coinage, vol. II.1 (2nd ed., 2007)"
+    - "D. Hendin, Guide to Biblical Coins (5th ed., 2010)"
+
+- id: gallio-inscription
+  aliases: [Delphi Inscription]
+  cultures: [roman, greek]
+  date: [52]
+  circa: true
+  scope: >-
+    Fragmentary Greek copy at Delphi of a letter of the emperor Claudius naming 'Lucius
+    Junius Gallio, my friend and proconsul' of Achaia. Dated by Claudius's 26th imperial
+    acclamation (c. 52 CE), it is the main anchor for absolute Pauline chronology.
+  passages:
+    - "Acts 18:12-17 | attests | Gallio, proconsul of Achaia, dismisses the Jews' charges against Paul"
+    - "Acts 18:1-11 | setting | Paul's eighteen months at Corinth, dated relative to Gallio's term"
+  related: [corinth, erastus-inscription, politarch-inscriptions]
+  wikipedia: Delphi Inscription
+  image: Gallio inscription Delphi
+  location: Delphi Archaeological Museum
+  author_notes:
+    - "Explain the reconstruction of the nine fragments and the dating logic. Gallio's proconsulship is usually placed in 51-52 (less often 52-53), so Paul's hearing is in 51 or 52."
+    - "Gallio was the brother of Seneca. He left Achaia early because of illness (Seneca, Ep. 104.1)."
+    - "Note how Pauline chronology combines this with the expulsion of Jews from Rome under Claudius (Acts 18:2; Suetonius, Claud. 25.4), often dated to 49 CE but debated."
+  sources_to_check:
+    - "SIG³ 801 D"
+    - "J. Murphy-O'Connor, St. Paul's Corinth: Texts and Archaeology (3rd ed., 2002)"
+
+- id: erastus-inscription
+  cultures: [roman]
+  date: [1, 150]
+  circa: true
+  scope: >-
+    Latin inscription set in a paved square east of the theatre at Corinth, recording that
+    Erastus laid the pavement at his own expense in return for his aedileship. Its
+    possible identification with the Erastus of Rom 16:23 is debated.
+  passages:
+    - "Rom 16:23 | attests? | Erastus, 'the city treasurer' (oikonomos tēs poleōs), sends greetings from Corinth"
+    - "Acts 19:22 | attests? | Erastus sent to Macedonia with Timothy"
+    - "2Tim 4:20 | attests? | Erastus remained in Corinth"
+    - "1Cor 1:26 | setting | 'Not many of you were powerful': the social level of the Corinthian believers"
+  related: [corinth, gallio-inscription, politarch-inscriptions]
+  wikipedia: Erastus of Corinth
+  image: Erastus inscription Corinth
+  location: In situ, Ancient Corinth
+  author_notes:
+    - "Whether Greek oikonomos tēs poleōs can translate Latin aedilis is disputed (Theissen for; Meggitt and Friesen against)."
+    - "The date is debated: Kent placed it in the mid-1st century CE, while Friesen (2010) argued for the 2nd century. Erastus was also a fairly common name."
+    - "The identification bears on the 'new consensus' about the social status of Pauline communities. Present it as possible, not proven."
+  sources_to_check:
+    - "J. H. Kent, Corinth VIII.3: The Inscriptions 1926-1950 (1966), no. 232"
+    - "S. J. Friesen, 'The Wrong Erastus: Ideology, Archaeology, and Exegesis', in S. J. Friesen, D. N. Schowalter, and J. C. Walters (eds.), Corinth in Context (2010)"
+    - "G. Theissen, The Social Setting of Pauline Christianity (1982)"
+
+- id: politarch-inscriptions
+  cultures: [greek, roman]
+  date: [-150, 250]
+  circa: true
+  scope: >-
+    The group of Greek inscriptions, most from Thessalonica and other Macedonian cities,
+    that name politarchs as civic magistrates. They include the inscription from the
+    Vardar Gate. Together they confirm the title Acts uses for Thessalonica's officials.
+  passages:
+    - "Acts 17:6, 8 | language | Jason dragged before the city authorities (politarchai)"
+    - "Acts 16:20-22, 35-38 | language | Different titles at Philippi, a Roman colony: stratēgoi and rhabdouchoi"
+    - "1Thess 2:14 | setting | Persecution by fellow citizens in Thessalonica"
+  related: [gallio-inscription, erastus-inscription, imperial-cult, corinth]
+  wikipedia: Politarch
+  image: Vardar Gate inscription politarchs British Museum
+  location: British Museum, London (Vardar Gate inscription); others in Macedonian collections
+  author_notes:
+    - "The title is rare in literary sources but well attested epigraphically, mostly in Macedonia (G. H. R. Horsley's survey)."
+    - "Accuracy on local titles shows Luke's familiarity with civic terminology. It does not by itself prove the historicity of the episode; avoid apologetic overstatement."
+    - "Verify the date of the Vardar Gate inscription, which is often cited as 1st century CE but is debated."
+  sources_to_check:
+    - "G. H. R. Horsley, 'The Politarchs', in D. W. J. Gill and C. Gempf (eds.), The Book of Acts in Its Graeco-Roman Setting (1994)"
+
+- id: nazareth-inscription
+  cultures: [roman, greek]
+  date: [-50, 54]
+  circa: true
+  scope: >-
+    A marble slab with a Greek 'ordinance of Caesar' that prescribes capital punishment for
+    violating tombs or moving bodies. It entered the Froehner collection in 1878 with a note
+    that it had been sent from Nazareth. Its provenance, date, and emperor are uncertain.
+  passages:
+    - "Matt 28:11-15 | event? | Rumour that the disciples stole Jesus' body; a link to an imperial edict proposed"
+    - "Matt 27:62-66 | practice | Sealing and guarding a tomb against theft of the body"
+    - "John 20:2, 13-15 | practice | Concern that the body has been removed from the tomb"
+  related: [ossuaries, forgeries-in-biblical-archaeology, bench-tombs, care-for-the-dead]
+  wikipedia: Nazareth Inscription
+  image: Nazareth Inscription Cabinet des Médailles
+  location: Cabinet des Médailles, Bibliothèque nationale de France, Paris
+  author_notes:
+    - "The note 'sent from Nazareth' does not establish the findspot. A 2020 isotopic study pointed to marble from Kos, which weakens any Galilean connection."
+    - "The emperor is unnamed. Linking it to Claudius and a reaction to Christian resurrection claims is speculative and not mainstream."
+    - "Discuss it primarily as evidence for Greco-Roman concern with tomb violation."
+  sources_to_check:
+    - "F. Cumont, 'Un rescrit impérial sur la violation de sépulture', Revue historique 163 (1930)"
+
+- id: priene-calendar-inscription
+  cultures: [greek, roman]
+  date: [-9]
+  scope: >-
+    Decree of the provincial council of Asia (9 BCE), preserved at Priene and in other
+    copies, adopting a calendar in which the year began on Augustus's birthday. Its
+    accompanying text celebrates the birth of 'the god' as the beginning of 'good news'
+    (euangelia) and of a saviour who ended war.
+  passages:
+    - "Mark 1:1 | language | 'Beginning of the good news' (euangelion), a term also used of imperial benefactions"
+    - "Luke 2:10-11 | language | Angel announces good news and the birth of a 'Saviour'"
+    - "Luke 2:14 | concept | Peace on earth; cf. the Augustan peace"
+    - "Phil 3:20 | language | Awaiting a 'Saviour' from heaven"
+    - "Titus 2:13 | language | 'Appearing' (epiphaneia) of 'our great God and Saviour'"
+    - "Isa 52:7 | language | Messenger announcing good news (mĕbaśśēr), the Jewish background of euangelion"
+  related: [imperial-cult, res-gestae, census-of-quirinius, pergamon]
+  wikipedia: Priene calendar inscription
+  image: Priene calendar inscription Augustus
+  location: Antikensammlung, Staatliche Museen zu Berlin (Priene copy)
+  author_notes:
+    - "The decree was proposed by the proconsul Paullus Fabius Maximus. Note the plural euangelia."
+    - "Present the debate over the extent of counter-imperial meaning in NT 'gospel' language. Isaianic usage (Isa 40:9; 52:7; 61:1) is the other key background."
+    - "Verify the current locations of the Priene fragments and of the other copies (Apameia, Eumeneia, Dorylaion, Maionia)."
+  sources_to_check:
+    - "OGIS 458"
+    - "R. K. Sherk, Roman Documents from the Greek East (1969)"
+
+- id: res-gestae
+  aliases: [Monumentum Ancyranum]
+  cultures: [roman]
+  date: [14]
+  scope: >-
+    Augustus's first-person account of his achievements, completed by 14 CE and inscribed
+    at his mausoleum in Rome. It survives through provincial copies, chiefly the
+    Monumentum Ancyranum (Latin and Greek) at Ankara and fragments from Apollonia and
+    Antioch in Pisidia.
+  passages:
+    - "Luke 2:1 | setting | A decree of Augustus; the Res Gestae records three censuses of Roman citizens"
+    - "Luke 2:14 | concept | Peace on earth; cf. the Pax Augusta and the closing of Janus"
+    - "1Thess 5:3 | concept? | 'Peace and security', possibly echoing imperial slogans"
+    - "Acts 13:14 | setting | Antioch in Pisidia, where a Latin copy stood"
+  related: [priene-calendar-inscription, imperial-cult, census-of-quirinius, royal-annals-and-historiography, behistun-inscription]
+  wikipedia: Res Gestae Divi Augusti
+  image: Monumentum Ancyranum Res Gestae Ankara
+  location: In situ, Temple of Augustus and Rome, Ankara (Monumentum Ancyranum)
+  author_notes:
+    - "The censuses in the Res Gestae (28 BCE, 8 BCE, 14 CE) are of Roman citizens, not provincial registrations. Do not equate them with Luke's census."
+    - "Note 'son of the divine' (divi filius) in imperial titulature as background for NT 'Son of God' language. Avoid a one-sided derivation."
+    - "A comparison with Near Eastern royal res gestae (e.g. Behistun) is apt for the genre."
+  sources_to_check:
+    - "A. E. Cooley, Res Gestae Divi Augusti: Text, Translation, and Commentary (2009)"
+    - "P. A. Brunt and J. M. Moore, Res Gestae Divi Augusti (1967)"
+
+- id: census-of-quirinius
+  cultures: [roman, jewish]
+  date: [6]
+  scope: >-
+    The Roman provincial census of Judea carried out under P. Sulpicius Quirinius, legate
+    of Syria, in 6 CE after Archelaus was deposed. The entry covers Luke's association of it
+    with Jesus' birth and the chronological problem this creates.
+  passages:
+    - "Luke 2:1-5 | event | Registration 'while Quirinius was governor of Syria' linked to Jesus' birth"
+    - "Acts 5:37 | event | Judas the Galilean revolted 'at the time of the census'"
+    - "Luke 1:5 | setting | Birth narrative set 'in the days of King Herod' (d. 4 BCE)"
+    - "Mark 12:14-17 | practice | Paying the tax (kēnsos) to Caesar"
+  related: [josephus, herod-the-great, res-gestae, imperial-cult, priene-calendar-inscription, bethlehem, jewish-sects]
+  wikipedia: Census of Quirinius
+  image: null
+  author_notes:
+    - "Josephus (Ant. 17.355; 18.1-10, 26) dates the census to 6 CE. Herod died in 4 BCE (cf. Matt 2; Luke 1:5)."
+    - "Harmonizations (an earlier governorship based on the anonymous Lapis Tiburtinus; prōtē as 'before'; Tertullian's Saturninus) have not won wide acceptance. The mainstream view is that Luke's chronology is confused or theologically motivated."
+    - "No empire-wide census under Augustus is attested, and registration at an ancestral home is not attested Roman practice. The Egyptian edict of 104 CE ordering return home is a different situation."
+    - "The Apamea inscription of Q. Aemilius Secundus records a census under Quirinius."
+  sources_to_check:
+    - "CIL III 6687"
+    - "E. Schürer, G. Vermes, and F. Millar, The History of the Jewish People in the Age of Jesus Christ, vol. 1 (1973)"
+    - "R. E. Brown, The Birth of the Messiah (2nd ed., 1993)"
+
+- id: imperial-cult
+  cultures: [roman, greek]
+  scope: >-
+    Worship and honours for Roman emperors, living and deified, and for Roma, organized at
+    provincial, civic, and private levels, especially in the Greek East. The entry covers
+    its institutions and monuments and its bearing on Revelation, Acts, and Paul.
+  passages:
+    - "Rev 13:4-18 | polemic | Worship of the beast and its image; the mark required for commerce"
+    - "Rev 14:9-11 | polemic | Warning against worshipping the beast and its image"
+    - "Rev 2:13 | setting | Pergamum, 'where Satan's throne is'"
+    - "Acts 12:21-23 | event | Agrippa I hailed as a god and struck down (cf. Ant. 19.343-350)"
+    - "Acts 17:7 | concept | Acting against Caesar's decrees by proclaiming another king"
+    - "Mark 12:13-17 | practice | Coin bearing Caesar's image and inscription"
+    - "Phil 2:9-11 | concept? | Universal acclamation of Jesus as Lord, with possible counter-imperial resonance"
+    - "1Pet 2:13-17 | concept | Honour the emperor, but fear God"
+  related: [priene-calendar-inscription, res-gestae, pergamon, temple-of-artemis-ephesus, caesarea-maritima, judaea-capta-coins, king-as-son-of-god]
+  wikipedia: Roman imperial cult
+  image: Sebasteion Aphrodisias relief
+  author_notes:
+    - "Distinguish provincial cults (Pergamon 29 BCE; Smyrna under Tiberius; Ephesus Flavian temple of the Sebastoi), civic cults, and private devotion, and divus for deceased emperors versus honours for living ones."
+    - "Jews were exempt from emperor worship. Sacrifices for (not to) the emperor were offered in the Jerusalem temple until 66 (War 2.197, 409)."
+    - "Systematic persecution under Domitian is now largely doubted. Revelation's critique works within everyday participation in imperial cult (Friesen)."
+  sources_to_check:
+    - "S. R. F. Price, Rituals and Power: The Roman Imperial Cult in Asia Minor (1984)"
+    - "S. J. Friesen, Imperial Cults and the Apocalypse of John (2001)"
+
+- id: temple-of-artemis-ephesus
+  cultures: [greek, roman]
+  scope: >-
+    Ephesus, metropolis of the Roman province of Asia, and its famous sanctuary of Artemis
+    (the Artemision), one of the Seven Wonders. The entry covers the city's civic, cultic,
+    and imperial institutions as background to Paul's ministry and to Revelation.
+  passages:
+    - "Acts 19:23-41 | setting | Silversmiths' riot; 'Great is Artemis of the Ephesians'; the theatre"
+    - "Acts 19:24 | realia | Silver shrines (naoi) of Artemis made by Demetrius"
+    - "Acts 19:31 | language | Asiarchs, attested provincial dignitaries"
+    - "Acts 19:35 | language | Ephesus as temple warden (neōkoros) of Artemis; image 'fallen from heaven'"
+    - "Acts 19:19 | practice | Burning of magic books; cf. the 'Ephesian letters'"
+    - "1Cor 15:32 | setting | 'Fought with wild beasts at Ephesus'"
+    - "Rev 2:1-7 | setting | Message to the church in Ephesus"
+  related: [imperial-cult, pergamon, laodicea, corinth, priene-calendar-inscription]
+  wikipedia: Ephesus
+  image: Temple of Artemis Ephesus column
+  author_notes:
+    - "Outline the Artemision's history (archaic temple, burned 356 BCE, rebuilt), its rediscovery by J. T. Wood (1869), and the theatre. The Salutaris foundation (104 CE) documents Artemis processions."
+    - "Interpretations of the cult statue's 'many breasts' (breasts, eggs, bull scrota, ornaments) are debated; avoid fertility-cult clichés."
+    - "Acts' civic details (town clerk, Asiarchs, neokoros) are well supported epigraphically, but this does not settle the episode's historicity."
+  sources_to_check:
+    - "G. M. Rogers, The Sacred Identity of Ephesos: Foundation Myths of a Roman City (1991)"
+    - "P. Trebilco, The Early Christians in Ephesus from Paul to Ignatius (2004)"
+
+- id: pergamon
+  cultures: [greek, roman]
+  scope: >-
+    Pergamon (Pergamum), the Attalid capital in Mysia and a major Roman city of Asia. It was
+    known for the Great Altar, the Asklepieion, and the province's first temple to Roma and
+    Augustus. It is addressed in Rev 2:12-17 as the place 'where Satan's throne is'.
+  passages:
+    - "Rev 2:12-17 | setting | Message to Pergamum; the martyr Antipas"
+    - "Rev 2:13 | concept? | 'Satan's throne': imperial temple, Great Altar, Asclepius cult, or Roman judicial seat"
+    - "Rev 2:14 | practice | Eating food sacrificed to idols"
+  related: [imperial-cult, temple-of-artemis-ephesus, laodicea, satan-the-adversary, corinth]
+  wikipedia: Pergamon
+  image: Pergamon acropolis Trajaneum
+  author_notes:
+    - "Survey the candidates for 'Satan's throne' neutrally. The provincial imperial temple (29 BCE; Tacitus, Ann. 4.37) and Pergamon's role as an administrative and judicial centre are most often favoured; the Altar of Zeus identification is popular but unprovable."
+    - "The Great Altar is now in the Pergamonmuseum, Berlin."
+    - "Pliny's story that parchment was invented at Pergamon (NH 13.70) is partly legendary."
+  sources_to_check:
+    - "W. Radt, Pergamon: Geschichte und Bauten einer antiken Metropole (1999)"
+    - "H. Koester (ed.), Pergamon, Citadel of the Gods (HTS 46, 1998)"
+
+- id: corinth
+  cultures: [roman, greek]
+  scope: >-
+    Roman Corinth, refounded as a colony by Julius Caesar in 44 BCE a century after its
+    destruction, capital of Achaia and controller of the Isthmus. The entry covers its
+    archaeology and institutions as the setting of Paul's mission and correspondence.
+  passages:
+    - "Acts 18:1-18 | setting | Paul's eighteen-month stay; Aquila and Priscilla; trial before Gallio"
+    - "Acts 18:12-17 | realia | The tribunal (bēma) in the forum"
+    - "1Cor 8:10 | practice | Eating in an idol's temple; cf. dining rooms at the Asklepieion and the Demeter sanctuary"
+    - "1Cor 10:25 | realia | Meat sold in the market (makellon), attested at Corinth as a macellum"
+    - "1Cor 9:24-27 | practice | Athletic imagery; the Isthmian Games administered by Corinth"
+    - "1Cor 11:17-34 | practice | Communal meals in private houses"
+    - "Rom 16:1 | setting | Cenchreae, Corinth's eastern port"
+    - "Rom 16:23 | attests? | Erastus the city treasurer"
+  related: [gallio-inscription, erastus-inscription, imperial-cult, temple-of-artemis-ephesus, politarch-inscriptions]
+  wikipedia: Ancient Corinth
+  image: Ancient Corinth Temple of Apollo
+  author_notes:
+    - "Stress the Roman colonial character (Latin public inscriptions; freedmen settlers) after the destruction of 146 BCE and refoundation in 44 BCE."
+    - "Correct the misconception of '1,000 sacred prostitutes'. Strabo 8.6.20 refers to the pre-146 city and is unreliable."
+    - "Murphy-O'Connor's house-church reconstructions (e.g. the Anaploga villa) are illustrative, not evidential."
+  sources_to_check:
+    - "J. Murphy-O'Connor, St. Paul's Corinth: Texts and Archaeology (3rd ed., 2002)"
+    - "J. H. Kent, Corinth VIII.3: The Inscriptions 1926-1950 (1966)"
+
+- id: laodicea
+  cultures: [greek, roman]
+  scope: >-
+    Laodicea on the Lycus in Phrygia, a prosperous city near Hierapolis and Colossae, known
+    for banking, black wool, and a medical school. It appears in Colossians and is
+    addressed in the last of the seven messages of Revelation.
+  passages:
+    - "Rev 3:14-22 | setting | Message to the church in Laodicea"
+    - "Rev 3:15-16 | imagery | 'Neither cold nor hot'; cf. Hierapolis's hot springs, Colossae's cold water, and Laodicea's piped supply"
+    - "Rev 3:17-18 | imagery | Wealth, clothing, and eye-salve, matching the city's banking, textiles, and medicine"
+    - "Col 2:1 | setting | Paul's struggle for those in Laodicea"
+    - "Col 4:13-16 | setting | Epaphras; Nympha's house church; the letter from Laodicea"
+  related: [pergamon, temple-of-artemis-ephesus, imperial-cult, cisterns-and-water-systems]
+  wikipedia: Laodicea on the Lycus
+  image: Laodicea on the Lycus ruins
+  author_notes:
+    - "The city rebuilt itself without imperial aid after the earthquake of 60 CE (Tacitus, Ann. 14.27), which is relevant to Rev 3:17."
+    - "The hot/cold/lukewarm water interpretation (Rudwick and Green) is popular but has been critiqued (e.g. C. Koester). Present it as one reading."
+    - "Note the recent Turkish excavations under C. Şimşek."
+  sources_to_check:
+    - "C. J. Hemer, The Letters to the Seven Churches of Asia in Their Local Setting (1986)"
+    - "C. R. Koester, 'The Message to Laodicea and the Problem of Its Local Context', NTS 49 (2003)"
+
+- id: nabataeans
+  cultures: [arabian]
+  scope: >-
+    The Arab people and kingdom centred on Petra, who controlled the incense routes from the
+    Hellenistic period until Roman annexation in 106 CE. The entry gives particular
+    attention to Aretas IV (9 BCE-40 CE) and to the Nabataeans' interactions with the
+    Hasmoneans, the Herods, and Paul.
+  passages:
+    - "2Cor 11:32-33 | attests | The ethnarch of King Aretas guards Damascus; Paul escapes in a basket"
+    - "Acts 9:23-25 | event | Paul's escape over the Damascus wall"
+    - "Gal 1:17 | setting | Paul goes away into 'Arabia', i.e. Nabataean territory"
+    - "Gal 4:25 | setting | 'Mount Sinai in Arabia'"
+    - "Mark 6:17-18 | setting | Antipas's marriage to Herodias after divorcing Aretas's daughter (Ant. 18.109-115)"
+    - "1Macc 5:25 | attests | Nabataeans meet Judas Maccabeus peaceably"
+    - "2Macc 5:8 | attests | Aretas (I), 'ruler of the Arabs'"
+  related: [petra-and-sela, qedarites-and-arabs, herod-the-great, edomites, damascus, incense-trade]
+  wikipedia: Nabataeans
+  image: Aretas IV Nabataean coin
+  author_notes:
+    - "Whether and how Aretas IV controlled Damascus c. 37-40 CE is debated (ethnarch as governor or as head of a Nabataean community). The gap in Roman civic coinage is suggestive but not decisive."
+    - "Antipas's war with Aretas (36 CE) and its link to John the Baptist's death (Josephus) are relevant."
+    - "Correct the misconception that the Nabataeans are the biblical Nebaioth (Gen 25:13). The names differ philologically."
+    - "Note that Nabataean script is the ancestor of Arabic script."
+  sources_to_check:
+    - "J. F. Healey, The Religion of the Nabataeans: A Conspectus (2001)"
+    - "G. W. Bowersock, Roman Arabia (1983)"
+
+- id: jewish-sects
+  cultures: [jewish]
+  scope: >-
+    The Jewish groups of the late Second Temple period: chiefly the Pharisees, Sadducees,
+    and Essenes, along with Josephus's 'Fourth Philosophy'. The entry covers how they are
+    presented in Josephus, the Dead Sea Scrolls, the New Testament, and rabbinic
+    literature, and the methodological problems of reconstructing them.
+  passages:
+    - "Matt 3:7 | attests | Pharisees and Sadducees coming to John's baptism"
+    - "Mark 7:1-13 | practice | Pharisaic 'tradition of the elders' and handwashing"
+    - "Mark 12:18-27 | concept | Sadducees deny the resurrection"
+    - "Acts 23:6-8 | concept | Sadducees deny resurrection, angels, and spirits; Pharisees affirm them"
+    - "Acts 5:34 | attests | Gamaliel, a Pharisee and teacher of the law"
+    - "Acts 15:5 | language | 'The sect (hairesis) of the Pharisees', Josephus's term for the schools"
+    - "Phil 3:5 | attests | Paul: 'as to the law, a Pharisee'"
+    - "Matt 23:1-36 | polemic | Woes against scribes and Pharisees; a polemical portrayal"
+  related: [community-rule, josephus, dead-sea-scrolls, qumran, messianic-expectations, stone-vessels-and-mikvaot, afterlife-and-resurrection, synagogues]
+  wikipedia: null
+  image: null
+  author_notes:
+    - "Josephus frames the groups as Greek-style 'philosophies' (War 2.119-166; Ant. 13.171-173; 18.11-25). Account for this Hellenizing lens."
+    - "The majority view identifies the Qumran yaḥad as Essene or Essene-related. Essenes also lived in towns (Philo, Josephus)."
+    - "Avoid equating Pharisees with later rabbis, and avoid reading Matt 23 as neutral description. Sadducees are known almost only through hostile sources."
+    - "Note that 'scribes' and 'Herodians' are not sects in the same sense."
+  sources_to_check:
+    - "A. J. Saldarini, Pharisees, Scribes and Sadducees in Palestinian Society (1988)"
+    - "S. Mason, Flavius Josephus on the Pharisees (1991)"
+    - "E. Schürer, G. Vermes, F. Millar, and M. Goodman, The History of the Jewish People in the Age of Jesus Christ, vol. 2 (1979)"
+
+- id: messianic-expectations
+  cultures: [jewish]
+  scope: >-
+    The varied hopes in Second Temple Judaism for anointed or agent figures of the end time:
+    Davidic king, priestly messiah, eschatological prophet, and heavenly 'son of man'. The
+    entry covers their scriptural roots and their expression in the Scrolls,
+    Psalms of Solomon, Enoch, and the New Testament.
+  passages:
+    - "Ps 2:2, 7 | concept | The LORD's anointed as son, reread messianically (4QFlorilegium; Pss. Sol. 17)"
+    - "2Sam 7:12-14 | concept | Dynastic promise read eschatologically in 4QFlorilegium"
+    - "Isa 11:1-5 | concept | Davidic shoot who strikes the wicked with the breath of his lips (Pss. Sol. 17)"
+    - "Zech 4:14 | concept | Two 'sons of oil', background for royal and priestly messiahs (1QS 9:11)"
+    - "Num 24:17 | concept | Star from Jacob, read messianically (CD 7:18-21; 1QM 11:6-7)"
+    - "Dan 7:13-14 | concept | One like a son of man, reinterpreted in the Similitudes and the Gospels"
+    - "Matt 11:2-6 | concept | Signs of the Messiah: blind see, dead raised, good news to the poor (cf. 4Q521)"
+    - "Luke 1:32-35 | parallel | 'Son of the Most High' and 'Son of God' language paralleled in 4Q246"
+    - "John 1:19-25 | concept | Messiah, Elijah, and 'the prophet' as distinct expected figures"
+    - "Mark 8:27-30 | concept | Peter's confession: 'You are the Messiah'"
+  related: [community-rule, first-enoch, dead-sea-scrolls, king-as-son-of-god, jewish-sects, war-scroll, four-kingdoms-schema, josephus]
+  wikipedia: Messiah in Judaism
+  image: null
+  author_notes:
+    - "Stress diversity. There was no single 'Jewish messianic expectation', and many texts (e.g. much of Daniel, Jubilees, 1 Maccabees) have no messiah figure."
+    - "In the Hebrew Bible, māšîaḥ usually refers to a reigning king or priest. Avoid reading later eschatological expectation back into it."
+    - "Note Josephus's popular kings and sign-prophets (Judas, Simon, Athronges; Theudas; the Egyptian) as social expressions of hope."
+  sources_to_check:
+    - "J. J. Collins, The Scepter and the Star: Messianism in Light of the Dead Sea Scrolls (2nd ed., 2010)"
+
+- id: first-jewish-revolt
+  aliases: [First Jewish-Roman War, Great Revolt, Jewish War]
+  cultures: [jewish, roman]
+  date: [66, 74]
+  scope: >-
+    The Judean revolt against Rome from 66 CE to the fall of Masada in 73 or 74 CE: its
+    causes and factions, Vespasian's campaign in Galilee, Titus's siege and the destruction of
+    Jerusalem and the temple in 70, and its aftermath. It also covers the revolt's importance
+    for dating and reading the Gospels. The Arch of Titus, the Judaea Capta coins, the revolt
+    coinage and Masada have their own entries.
+  passages:
+    - "Mark 13:1-2 | event | Jesus foretells that no stone of the temple will be left on another"
+    - "Mark 13:14-20 | event | The 'desolating sacrilege' and flight to the mountains"
+    - "Luke 19:41-44 | event | Jerusalem encircled by a rampart and dashed to the ground"
+    - "Luke 21:20-24 | event | Jerusalem surrounded by armies; its people taken captive among the nations"
+    - "Matt 22:7 | event? | The king sends troops and burns the city, often read as reflecting 70 CE"
+    - "Rev 11:1-2 | event? | The outer court and holy city trampled by the nations; its relation to 70 CE is debated"
+    - "Dan 9:26-27 | concept | Destruction of city and sanctuary, applied by Josephus (Ant. 10.276) to the Romans"
+    - "2Esd 10:21-23 | event | Lament for the sanctuary laid waste, written after 70 CE but set after 587 BCE"
+  related: [josephus, masada, arch-of-titus, judaea-capta-coins, jewish-revolt-coinage, herods-temple, jewish-sects, messianic-expectations]
+  wikipedia: First Jewish–Roman War
+  image: Burnt House Jerusalem
+  author_notes:
+    - "Josephus's Jewish War is almost the only narrative source. He commanded rebel forces in Galilee, then served with Titus, so read him critically. Add Tacitus (Hist. 5.1-13), Cassius Dio, and archaeology: Gamla, Yodefat (Jotapata), Jerusalem (the Burnt House, the Herodian street with fallen Temple Mount stones), and Masada."
+    - "Causes and factions: misgovernment under Florus, conflict at Caesarea, and the end of the sacrifice for the emperor (War 2.409-410). The factions included the Zealots, the Sicarii, John of Gischala and Simon bar Giora. Do not treat 'the Zealots' as a single movement existing long before 66."
+    - "Timeline: Cestius Gallus defeated (66); Vespasian in Galilee (67); Titus's siege (spring to summer 70) and the burning of the temple in Ab; Masada (73 or 74)."
+    - "For the NT, discuss whether Mark 13 and Luke 21:20-24 are prophecies after the event, and how far Luke's more specific siege language reflects 70. The usual dating of Mark around 70 and of Matthew and Luke later depends on this. The tradition of the Jerusalem church's flight to Pella (Eusebius, Hist. eccl. 3.5.3) is debated."
+    - "Aftermath: the fiscus Iudaicus, the end of sacrificial worship, the rabbinic gathering at Yavneh, and the decline of the Sadducees."
+  sources_to_check:
+    - "H. St. J. Thackeray (trans.), Josephus: The Jewish War, 3 vols. (Loeb Classical Library, 1927-1928)"
+    - "M. Goodman, The Ruling Class of Judaea: The Origins of the Jewish Revolt against Rome A.D. 66-70 (1987)"
+    - "A. M. Berlin and J. A. Overman (eds.), The First Jewish Revolt: Archaeology, History, and Ideology (2002)"
+
+- id: hasmoneans
+  aliases: [Hasmonean Dynasty, Maccabees (dynasty), Hasmonaeans]
+  cultures: [jewish, greek]
+  date: [-152, -37]
+  scope: >-
+    The priestly family of Mattathias, which led the Maccabean revolt and then ruled Judea
+    as high priests (from Jonathan in 152 BCE) and later as kings until Pompey's intervention
+    in 63 BCE and the death of Antigonus in 37 BCE. The entry covers their rule, expansion,
+    coinage and ideology, and the opposition they provoked. The revolt itself, to 160 BCE, is
+    treated under maccabean-revolt.
+  passages:
+    - "1Macc 2:1-5 | attests | Mattathias, a priest of the family of Joarib, and his five sons"
+    - "1Macc 8:17-32 | event | Judas's embassy to Rome and treaty of friendship"
+    - "1Macc 10:18-21 | event | Alexander Balas makes Jonathan high priest; he dons the vestments at Tabernacles (152 BCE)"
+    - "1Macc 13:41-42 | event | 'The yoke of the Gentiles was removed'; documents dated by Simon's years"
+    - "1Macc 14:27-47 | event | Decree making Simon high priest, commander and ruler 'until a trustworthy prophet should arise'"
+    - "1Macc 16:11-22 | event | Simon murdered at Dok; John Hyrcanus succeeds"
+    - "Dan 11:34 | event? | 'A little help' for the persecuted, often read as a cool view of the Maccabees"
+    - "John 4:20 | setting | Samaritan worship on Gerizim, whose temple John Hyrcanus destroyed"
+  related: [maccabean-revolt, antiochus-iv, herod-the-great, jewish-sects, psalms-of-solomon, dead-sea-scrolls, samaritan-origins, coinage]
+  wikipedia: Hasmonean dynasty
+  image: Alexander Jannaeus prutah anchor star
+  author_notes:
+    - "The name 'Hasmonean' comes from Josephus (an ancestor Asamonaios) and rabbinic sources, not from 1-2 Maccabees. Rulers: Jonathan (high priest 152), Simon (142-135), John Hyrcanus I (135-104), Aristobulus I (104-103, the first to take the royal title according to Josephus), Alexander Jannaeus (103-76), Salome Alexandra (76-67), then Hyrcanus II and Aristobulus II, Pompey's conquest (63), and Antigonus (40-37)."
+    - "Opposition: a non-Zadokite family held the high priesthood together with civil and later royal power. The Qumran 'Wicked Priest' is often identified with Jonathan or Simon (debated); the Pharisees opposed Jannaeus; Pss. Sol. 17 condemns the Hasmoneans for seizing David's throne. Pesher Nahum's 'Lion of Wrath' who hanged men alive is usually taken as Jannaeus, who crucified 800 opponents (Josephus, Ant. 13.380; verify)."
+    - "Expansion: Idumea and Iturea were annexed and their people circumcised, and Samaria and the Gerizim temple were destroyed. Debate the forced-conversion reading and the date of the destruction (archaeology suggests c. 111-110 BCE). This expansion is the background to a Jewish Galilee in the NT period."
+    - "1 Maccabees is dynastic history written in favour of the house of Simon. The Danielic 'little help' (Dan 11:34) is read by many as reserve toward the militants, but this is contested."
+    - "Coins: Yehoḥanan the high priest and 'the council (ḥever) of the Jews'; Jannaeus's bilingual 'Yehonatan the king / Basileōs Alexandrou'. Who first minted is debated (see coinage)."
+  sources_to_check:
+    - "J. A. Goldstein, I Maccabees (AB 41, 1976)"
+    - "E. Regev, The Hasmoneans: Ideology, Archaeology, Identity (2013)"
+    - "K. Atkinson, A History of the Hasmonean State (2016)"
+
+- id: herod-antipas
+  aliases: [Antipas, Herod the Tetrarch]
+  cultures: [jewish, roman]
+  date: [-4, 39]
+  scope: >-
+    Herod Antipas, son of Herod the Great and Malthace, tetrarch of Galilee and Perea from
+    4 BCE until Caligula exiled him in 39 CE. He executed John the Baptist and governed the
+    Galilee of Jesus' ministry, rebuilt Sepphoris and founded Tiberias. The entry covers
+    him as known from the Gospels, Josephus, coins and archaeology.
+  passages:
+    - "Mark 6:14-29 | event | 'King Herod' has John the Baptist beheaded at the request of Herodias's daughter"
+    - "Luke 3:1 | attests | Herod tetrarch of Galilee in Tiberius's fifteenth year"
+    - "Luke 3:19-20 | event | John rebukes Herod over Herodias and is imprisoned"
+    - "Luke 8:3 | attests | Joanna, wife of Herod's steward Chuza, among Jesus' supporters"
+    - "Luke 13:31-32 | attests | 'Go and tell that fox'"
+    - "Luke 23:6-12 | event | Pilate sends Jesus to Herod; the two become friends"
+    - "Acts 4:27 | attests | Herod and Pontius Pilate gathered against Jesus"
+    - "Acts 13:1 | attests | Manaen, a member of Herod the tetrarch's court"
+    - "John 6:23 | setting | Boats from Tiberias, Antipas's new capital"
+    - "Matt 11:7-8 | imagery? | 'A reed shaken by the wind' and soft robes in royal palaces; the reed on Antipas's coins"
+  related: [herod-the-great, josephus, pontius-pilate, nabataeans, capernaum, magdala-stone, galilee-boat, coinage]
+  wikipedia: Herod Antipas
+  image: Herod Antipas coin Tiberias reed
+  author_notes:
+    - "Mark calls him 'King Herod', a popular usage; Matthew and Luke correct this to 'tetrarch'. His request to Caligula for the royal title led to his exile (Josephus, Ant. 18.240-256)."
+    - "Josephus (Ant. 18.116-119) says Antipas imprisoned John at Machaerus and executed him for fear of sedition, and that people saw Antipas's defeat by Aretas IV (whose daughter he had divorced to marry Herodias) as divine punishment. Compare the motives and details with Mark. Mark names Herodias's former husband Philip, while Josephus calls him Herod. Josephus, not the Gospels, names the daughter Salome."
+    - "Coins: aniconic bronzes struck at Tiberias with a reed, palm branch or wreath and the legend 'of Herod the tetrarch'. Theissen's reading of Matt 11:7 in the light of the reed coin type is suggestive but not established."
+    - "Building: Sepphoris rebuilt as 'the ornament of all Galilee', and Tiberias founded c. 19-20 CE partly over tombs (Ant. 18.36-38). How far his urbanization affected the Galilean village economy is debated."
+    - "Luke 23:6-12 (Jesus before Antipas) is found only in Luke, and its historicity is debated."
+  sources_to_check:
+    - "H. W. Hoehner, Herod Antipas (SNTSMS 17, 1972)"
+    - "M. H. Jensen, Herod Antipas in Galilee (WUNT 2/215, 2006)"
+
+- id: pontius-pilate
+  aliases: [Pilate, Pilatus]
+  cultures: [roman]
+  date: [26, 36]
+  scope: >-
+    Pontius Pilate, Roman prefect of Judea under Tiberius (c. 26-36 CE), who ordered the
+    crucifixion of Jesus. The entry covers his governorship and portrayal in the Gospels,
+    Philo, Josephus and Tacitus, his coinage, and later traditions. The Caesarea
+    inscription naming him is treated under pilate-stone.
+  passages:
+    - "Mark 15:1-15 | event | Jesus handed over to Pilate; Barabbas released; Jesus sent to be crucified"
+    - "Mark 15:42-45 | practice | Pilate releases Jesus' body to Joseph of Arimathea"
+    - "Matt 27:11-26 | event | The trial with the wife's dream and the washing of hands"
+    - "Luke 3:1 | attests | Pilate governor of Judea in Tiberius's fifteenth year"
+    - "Luke 13:1 | event? | Galileans whose blood Pilate mingled with their sacrifices, not attested elsewhere"
+    - "Luke 23:1-25 | event | Pilate three times declares Jesus innocent and sends him to Herod"
+    - "John 18:28-19:16 | event | Interrogation at the praetorium; 'What is truth?'; judgement at Gabbatha"
+    - "John 19:19-22 | practice | The title 'King of the Jews' in Hebrew, Latin and Greek"
+    - "Acts 3:13 | attests | Pilate had decided to release Jesus"
+    - "1Tim 6:13 | attests | Christ's testimony before Pontius Pilate"
+  related: [pilate-stone, herod-antipas, caiaphas-ossuary, crucifixion, caesarea-maritima, josephus, imperial-cult, herods-temple]
+  wikipedia: Pontius Pilate
+  image: Pontius Pilate prutah lituus
+  author_notes:
+    - "Non-biblical sources: Philo, Legat. 299-305 (gilded shields in Herod's palace, with a hostile character sketch); Josephus, War 2.169-177 and Ant. 18.55-62 (military standards brought into Jerusalem; an aqueduct paid for from temple funds) and Ant. 18.85-89 (the Samaritans at Gerizim, which led to his recall by Vitellius); Tacitus, Ann. 15.44 (Christus executed by Pilate, called procurator)."
+    - "His dates (c. 26-36/37) rest on Josephus's ten-year term and the recall before Tiberius's death. His title was prefect (see pilate-stone)."
+    - "His bronze prutot (29-31 CE) bear the lituus and simpulum, Roman cultic implements. Whether these were deliberately provocative is debated."
+    - "Avoid both caricatures, the vacillating weakling of popular reading and the monster of Philo. Assess him as an equestrian prefect with auxiliary troops, working with the high priest Caiaphas and subordinate to the legate of Syria. The Gospels increasingly exonerate him, a trend that later Christian tradition continues (in the Coptic and Ethiopian churches he is venerated as a saint)."
+    - "The Passover amnesty (Mark 15:6) is not attested outside the Gospels, and Luke 13:1 is unconfirmed. Present both as debated."
+  sources_to_check:
+    - "H. K. Bond, Pontius Pilate in History and Interpretation (SNTSMS 100, 1998)"
+    - "F. H. Colson (trans.), Philo, vol. 10: On the Embassy to Gaius (Loeb Classical Library, 1962)"
+
+- id: damascus-document
+  aliases: [CD, Zadokite Fragments, Damascus Rule, 4QD]
+  cultures: [jewish]
+  date: [-125, -75]
+  circa: true
+  scope: >-
+    A sectarian work known from two medieval copies from the Cairo Genizah (CD-A and CD-B,
+    published by Schechter in 1910) and from ten fragmentary Qumran manuscripts (4Q266-273,
+    5Q12, 6Q15). It combines an Admonition, which tells the community's origins and
+    interprets scripture, with Laws covering oaths, purity, the Sabbath, the organization of
+    the 'camps' and a penal code. The date is that of composition; the copies range from the
+    first century BCE to the twelfth century CE.
+  passages:
+    - "Num 21:18 | concept | The well dug with the staff read as the Law and its Interpreter (CD 6:3-11)"
+    - "Amos 5:26-27 | concept | Sikkut and Kiyyun exiled 'beyond Damascus' reread as the books of the Law and the Prophets (CD 7:14-21)"
+    - "Acts 7:42-43 | parallel | Stephen quotes Amos 5:25-27 with 'beyond Babylon', another reworking of the same text"
+    - "Isa 24:17 | concept | 'Terror, pit and snare' read as Belial's three nets: fornication, wealth, defiling the sanctuary (CD 4:12-19)"
+    - "Num 24:17 | concept | Star and sceptre read as the Interpreter of the Law and the Prince of the congregation (CD 7:18-21)"
+    - "Ezek 44:15 | concept | Priests, Levites and sons of Zadok applied to the community's members (CD 3:21-4:4)"
+    - "Mark 10:6-9 | parallel | Gen 1:27 used against divorce; CD 4:20-5:2 uses it against taking two wives"
+    - "Exod 16:29 | practice | Basis for Sabbath limits: 1,000 cubits outside the town, 2,000 for grazing (CD 10:21; 11:5-6)"
+    - "Jer 17:21-22 | practice | No carrying out of the house on the Sabbath (CD 11:7-9)"
+    - "Isa 58:13 | practice | No talk of business or the next day's work on the Sabbath (CD 10:17-19)"
+    - "Matt 12:11-12 | parallel | Sheep fallen into a pit; CD 11:13-14 forbids lifting an animal out on the Sabbath"
+    - "Luke 14:5 | parallel | Child or ox fallen into a well on the Sabbath; contrast CD 11:13-14"
+    - "Matt 18:15-17 | parallel | Graduated reproof before witnesses, as in CD 9:2-8 and 1QS 5:24-6:1"
+  related: [dead-sea-scrolls, community-rule, sabbath, qumran, jewish-sects, messianic-expectations, sakkut-and-kaiwan, temple-scroll]
+  wikipedia: Damascus Document
+  image: Damascus Document Cairo Genizah
+  author_notes:
+    - "Manuscripts: Genizah MS A (10th century) and MS B (12th century), now in Cambridge University Library (verify shelfmarks). The Qumran copies (earliest 4Q266, first century BCE) show that the Genizah text is shortened and partly rearranged. They add the opening, laws on skin disease and other matters, a fuller penal code, and an expulsion ceremony. Use Baumgarten's DJD 18 edition and note the different column numbering systems."
+    - "'Damascus' may be a literal place of exile or a code name (for Qumran, or for Babylon in Murphy-O'Connor's hypothesis); the question is debated. The 390 years and the 'twenty years' before the Teacher of Righteousness (CD 1:5-11) are schematic and should not be used for exact dating."
+    - "CD addresses members living in 'camps' with wives and children, unlike the yaḥad of the Community Rule. A common view links this with Josephus's marrying Essenes (War 2.160-161), but the relationship between the two rules is complex and was revised over time."
+    - "The Sabbath code (CD 10:14-11:18) is the fullest pre-rabbinic Sabbath halakhah. It starts the Sabbath while the sun is still above the horizon (CD 10:14-17) and is stricter than later rabbinic law on rescuing animals (contrast Matt 12:11; Luke 14:5). CD 11:16-17 on rescuing a person is textually difficult; compare 4Q265, which permits using a garment. Present these details precisely."
+    - "Messianic language: 'the messiah of Aaron and Israel' (CD 12:23-13:1; 14:19; 19:10-11; 20:1) may mean one figure or two (cf. 1QS 9:11). The question is debated."
+  sources_to_check:
+    - "J. M. Baumgarten, Qumran Cave 4.XIII: The Damascus Document (4Q266-273) (DJD 18, 1996)"
+    - "S. Schechter, Documents of Jewish Sectaries, vol. 1: Fragments of a Zadokite Work (1910)"
+    - "M. Broshi (ed.), The Damascus Document Reconsidered (1992)"
+    - "C. Hempel, The Damascus Texts (2000)"
+    - "L. Doering, Schabbat: Sabbathalacha und -praxis im antiken Judentum und Urchristentum (TSAJ 78, 1999)"
+
+- id: psalms-of-solomon
+  aliases: [Pss. Sol.]
+  cultures: [jewish]
+  date: [-63, -30]
+  circa: true
+  scope: >-
+    Eighteen psalms preserved in Greek and Syriac and probably composed in Hebrew in
+    Jerusalem after Pompey's capture of the city in 63 BCE (Pompey's death in 48 BCE is
+    alluded to in Psalm 2). They interpret the Roman conquest as judgement on Hasmonean and
+    other 'sinners', and Psalms 17-18 portray a Davidic 'Lord Messiah' who will purge
+    Jerusalem and rule in righteousness.
+  passages:
+    - "2Sam 7:12-16 | concept | God's oath that David's kingdom would not fail, invoked against the Hasmoneans (Pss. Sol. 17:4-6)"
+    - "Ps 2:8-9 | parallel | Shattering sinners with an iron rod like a potter's vessel (Pss. Sol. 17:23-24)"
+    - "Isa 11:2-4 | parallel | The king strikes the earth with the word of his mouth, wise and strong in the holy spirit (Pss. Sol. 17)"
+    - "Isa 66:18-20 | parallel | Nations come to see the glory and bring Jerusalem's scattered children (Pss. Sol. 17:31)"
+    - "Dan 12:2 | concept | The righteous rise to eternal life while sinners perish (Pss. Sol. 3:11-12)"
+    - "Mark 10:47-48 | language | 'Son of David' as a messianic title, first clearly attested in Pss. Sol. 17:21"
+    - "Luke 2:11 | language | 'Messiah, the Lord' (christos kyrios), as in Pss. Sol. 17:32"
+  related: [messianic-expectations, hasmoneans, david, jewish-sects, royal-ideology, afterlife-and-resurrection, herods-temple, septuagint]
+  wikipedia: Psalms of Solomon
+  image: null
+  author_notes:
+    - "The text survives in medieval Greek manuscripts and in Syriac. It is listed in the table of contents of Codex Alexandrinus, but those pages are lost. A Hebrew original is likely. Verse numbering differs between Rahlfs and the Wright/OTP edition, so state which is used."
+    - "Historical allusions: Pompey's siege and entry into the sanctuary (Pss. Sol. 2; 8; 17), his death on the Egyptian shore (2:26-27), and the Hasmoneans who 'laid waste the throne of David' (17:4-8). Whether the 'man alien to our race' (17:7) is Pompey or Herod affects the date."
+    - "Provenance: the older attribution to Pharisees (Ryle and James; Wellhausen) is now held more cautiously. Essene authorship is a minority view. 'Pious circles in Jerusalem' is the safer description."
+    - "The messiah is a human Davidic king who purges Jerusalem of Gentiles and sinners and rules by wisdom rather than 'horse and rider and bow' (17:33). The phrase christos kyrios (17:32; cf. 18:7) is sometimes emended to christos kyriou ('the Lord's anointed'); note the debate. This is key background for NT 'Son of David' and messianic language."
+    - "The title 'of Solomon' is secondary, perhaps inspired by Ps 72."
+  sources_to_check:
+    - "R. B. Wright, The Psalms of Solomon: A Critical Edition of the Greek Text (2007)"
+    - "R. B. Wright, 'Psalms of Solomon,' in J. H. Charlesworth (ed.), The Old Testament Pseudepigrapha, vol. 2 (1985)"
+    - "K. Atkinson, I Cried to the Lord: A Study of the Psalms of Solomon's Historical Background and Social Setting (JSJSup 84, 2004)"
+
+- id: ben-sira
+  aliases: [Sirach, Ecclesiasticus, Ben Sirach]
+  cultures: [jewish, greek]
+  date: [-190, -175]
+  circa: true
+  scope: >-
+    The wisdom book of Jesus (Yeshua) son of Eleazar son of Sira, written in Hebrew in
+    Jerusalem in the early second century BCE and translated into Greek in Egypt by his
+    grandson after 132 BCE. The entry covers its Hebrew manuscripts (Cairo Genizah, Masada,
+    Qumran), its place among Proverbs and other ancient Near Eastern wisdom, its theology of
+    Wisdom and Torah, and its canonical status. The date is that of composition.
+  passages:
+    - "Sir 24:1-23 | concept | Wisdom dwells in Israel and is identified with 'the book of the covenant' (24:23)"
+    - "Prov 8:22-31 | parallel | Personified Wisdom created before the world, the model for Sir 24"
+    - "Sir 38:24-39:11 | parallel | The scribe's leisure compared with the trades, like the Egyptian Satire of the Trades"
+    - "Sir 44:1-50:24 | form | Praise of the ancestors, ending with the high priest Simon"
+    - "Sir 50:1-21 | attests | Simon son of Onias (Simon II, c. 200 BCE) officiating in the temple"
+    - "Mal 4:5-6 | concept | Sir 48:10 cites Elijah's return to turn the hearts of parents (MT 3:23-24)"
+    - "Sir 51:23 | language | 'Lodge in my house of instruction' (Hebrew bêt midrāš)"
+    - "Matt 11:28-30 | parallel | 'Come to me ... take my yoke', echoing Sir 51:23-27 and 6:24-30"
+    - "Luke 12:16-21 | parallel | The rich fool who plans to enjoy his goods; cf. Sir 11:18-19"
+    - "Jas 1:19 | parallel | 'Quick to listen, slow to speak'; cf. Sir 5:11"
+  related: [ane-wisdom-literature, satire-of-the-trades, scribes-and-scribal-education, masada, septuagint, dead-sea-scrolls, medicine-and-healing]
+  wikipedia: Book of Sirach
+  image: Ben Sira scroll Masada
+  author_notes:
+    - "Hebrew text: six Genizah manuscripts (A-F, identified from 1896 onward), the Masada scroll (Sir 39:27-44:17, first century BCE), and Qumran fragments (2Q18 from Sir 6; 11QPs-a with Sir 51:13-20, 30b). About two thirds of the book survives in Hebrew. There are two Greek forms (GI and the expanded GII) and a Syriac version. Greek manuscripts transpose 30:25-33:13a and 33:13b-36:16a; English versions follow the Hebrew order, so check the numbering."
+    - "Date: the grandson's prologue puts his arrival in Egypt in the 38th year of Euergetes (Ptolemy VIII), 132 BCE. The eulogy of Simon II and the absence of any reference to Antiochus IV's persecution place composition c. 190-175 BCE."
+    - "Theology: Wisdom identified with Torah (24:23); retribution in this life without a blessed afterlife (17:27-28; 41:4); the scribe as ideal (38:34-39:11); devotion to temple and priesthood (Aaron, Phinehas, Simon). Sir 25:24 ('from a woman sin had its beginning') is usually read of Eve, though some argue otherwise. Present it, and Ben Sira's views on women, in context."
+    - "Canon: cited in rabbinic literature though not canonized; deuterocanonical in Catholic and Orthodox Bibles and among the Apocrypha for Protestants. The Latin title Ecclesiasticus means 'church book'."
+  sources_to_check:
+    - "P. W. Skehan and A. A. Di Lella, The Wisdom of Ben Sira (AB 39, 1987)"
+    - "P. C. Beentjes, The Book of Ben Sira in Hebrew (VTSup 68, 1997)"
+    - "Y. Yadin, The Ben Sira Scroll from Masada (1965)"
+
+- id: jewish-revolt-coinage
+  aliases: [Shekel of Israel, First Revolt shekel, Bar Kokhba coins]
+  cultures: [jewish]
+  date: [66, 135]
+  scope: >-
+    The coins struck by Jewish authorities during the First Revolt (66-70 CE), chiefly
+    silver shekels and half-shekels dated years 1-5 and bronze prutot, and during the Bar
+    Kokhba revolt (132-135 CE), struck over Roman coins. Both series use paleo-Hebrew
+    legends and temple-related imagery as statements of independence. Roman victory coinage
+    is treated under judaea-capta-coins and the Tyrian shekel separately.
+  passages:
+    - "Exod 30:13 | language | 'Half a shekel by the sanctuary shekel'; cf. the legends 'shekel of Israel' and 'half shekel'"
+    - "Exod 30:13-16 | practice? | Revolt shekels perhaps minted for temple dues in place of Tyrian coins"
+    - "Isa 52:1 | language | 'Jerusalem, the holy city'; cf. the shekel legend 'Jerusalem the holy'"
+    - "Lev 23:40 | realia | Lulav and etrog of Sukkot on year-four bronzes and Bar Kokhba coins"
+    - "Num 10:2 | realia | Silver trumpets, depicted on Bar Kokhba coins"
+    - "Num 24:17 | concept | 'A star out of Jacob' applied to Bar Kosiba; a star above the temple facade on some tetradrachms"
+    - "1Macc 15:6 | practice | The right to mint coins as a mark of sovereignty"
+  related: [first-jewish-revolt, coinage, tyrian-shekel, judaea-capta-coins, paleo-hebrew-script, herods-temple, masada, messianic-expectations]
+  wikipedia: First Jewish Revolt coinage
+  image: First Jewish Revolt shekel year 2
+  author_notes:
+    - "First Revolt silver: shekels and half-shekels (rare quarters) of high-quality silver, dated year 1 to year 5 (the year-5 issue is very rare). They have a chalice with 'shekel of Israel' and a stem with three pomegranates with 'Jerusalem the holy'. They were probably minted in Jerusalem under temple authority. Whether the chalice and pomegranates refer to temple vessels or Aaron's rod is speculative."
+    - "First Revolt bronzes: year 2-3 prutot with amphora and vine leaf and the legend 'freedom of Zion' (ḥērût ṣîyôn). The larger year-4 bronzes have lulav and etrog and the legend 'for the redemption of Zion'."
+    - "Bar Kokhba coins were struck over Roman denarii and tetradrachms. Legends include 'Simon', 'Simon prince of Israel', 'Eleazar the priest', 'year one of the redemption of Israel' and 'for the freedom of Jerusalem'. Types include a temple facade (with an object inside variously read as the ark or the showbread table), lulav, trumpets, lyres and jugs. See Mildenberg."
+    - "The paleo-Hebrew script was by then an archaizing national symbol, already used on Hasmonean coins. Mention that forgeries of revolt coins are common on the market."
+    - "Link to judaea-capta-coins for the Roman answer to these claims of freedom, and to tyrian-shekel for the temple-tax standard they replaced."
+  sources_to_check:
+    - "Y. Meshorer, A Treasury of Jewish Coins (2001)"
+    - "D. Hendin, Guide to Biblical Coins (5th ed., 2010)"
+    - "L. Mildenberg, The Coinage of the Bar Kokhba War (1984)"
+
+- id: tyrian-shekel
+  aliases: [Tyrian tetradrachm, Shekel of Tyre, Didrachm (half-shekel)]
+  cultures: [phoenician, jewish]
+  date: [-126, 66]
+  scope: >-
+    The silver shekels (tetradrachms) and half-shekels minted at Tyre from 126/125 BCE to
+    the mid-60s CE, with the head of Melqart-Herakles and an eagle. Because of their
+    reliable weight and purity they were required for the temple tax in late Second Temple
+    Jerusalem. The entry covers the coin, the half-shekel tax and the money changers;
+    coinage in general is treated under coinage.
+  passages:
+    - "Exod 30:11-16 | practice | Half-shekel 'by the shekel of the sanctuary' as ransom at the census, the basis of the later annual tax"
+    - "2Chr 24:6-9 | practice | The tax of Moses collected for the house of God"
+    - "Neh 10:32 | practice | A third of a shekel yearly for the service of the temple (MT 10:33)"
+    - "Matt 17:24-27 | practice | Collectors of the didrachma; a stater (one shekel) pays for Jesus and Peter"
+    - "Matt 21:12 | practice | Money changers' tables overturned in the temple"
+    - "Mark 11:15-17 | practice | Money changers and dove sellers driven out"
+    - "John 2:13-16 | practice | Money changers in the temple at Passover"
+    - "Matt 26:15; 27:3-10 | realia? | Thirty pieces of silver, perhaps Tyrian shekels, returned to the temple treasury"
+  related: [coinage, melqart, tyre, jewish-revolt-coinage, herods-temple, weights-and-silver-money]
+  wikipedia: Tyrian shekel
+  image: Tyrian shekel Melqart eagle
+  author_notes:
+    - "Describe the coin: obverse laureate head of Melqart (Herakles), reverse eagle with the legend 'of Tyre the holy and inviolable'; dated by the Tyrian era from 126/125 BCE. Meshorer argued that from c. 18 BCE cruder 'KP/KAP' shekels were struck in Jerusalem under Herod's authority. That is a hypothesis and is debated."
+    - "Temple tax: rabbinic texts specify Tyrian currency for sanctuary payments (e.g. m. Bekhorot 8:7), probably for its weight and purity despite the pagan image. Money changers set up tables in the provinces on 15 Adar and in the temple on 25 Adar (m. Sheqalim 1:3) and charged an agio (qolbon)."
+    - "The annual half-shekel tax is a Second Temple development out of the one-time ransom of Exod 30 and the third-shekel of Neh 10:32. 4Q159 (Ordinances) appears to limit the half-shekel to once in a lifetime, which shows that the practice was disputed."
+    - "Matt 17:24-27: the didrachma (half-shekel) paid by each man, and the stater (tetradrachm) paying for two. After 70 the tax was diverted to the fiscus Iudaicus, which may affect how Matthew's readers heard the story."
+    - "The identification of the 'thirty pieces of silver' with Tyrian shekels is plausible but cannot be proved."
+  sources_to_check:
+    - "Y. Meshorer, A Treasury of Jewish Coins (2001)"
+    - "D. Hendin, Guide to Biblical Coins (5th ed., 2010)"
+
+- id: baptism
+  aliases: [Immersion, John's baptism, Proselyte baptism]
+  cultures: [jewish, christian]
+  scope: >-
+    Ritual immersion in water as practised by John the Baptist and the early Christian
+    movement, set against its background in biblical purification law and Second Temple
+    Jewish washing rites (miqvaʾot, Qumran, proselyte immersion). The entry covers the
+    New Testament period; later liturgical development and the infant-baptism debate are
+    mentioned only briefly.
+  passages:
+    - "Mark 1:4-11 | practice | John's 'baptism of repentance' in the Jordan; Jesus baptized by John"
+    - "Luke 3:7-16 | practice | John's ethical demands on those coming for baptism; water contrasted with Spirit and fire"
+    - "John 3:22-4:2 | practice | John and Jesus' disciples baptizing side by side; dispute 'about purification'"
+    - "Lev 15:5-13 | practice | Bathing in water to end impurity, the basis of later Jewish immersion"
+    - "2Kgs 5:10-14 | language | Naaman dips seven times in the Jordan; LXX renders the verb ebaptisato"
+    - "Ezek 36:25-27 | imagery | Eschatological cleansing with water joined to the gift of a new spirit"
+    - "Mark 7:3-4 | language | baptizō/baptismos used for Jewish washings of persons and vessels"
+    - "Acts 2:38-41 | practice | Baptism 'in the name of Jesus Christ' for forgiveness, with the gift of the Spirit"
+    - "Acts 19:1-7 | practice | Disciples who knew only 'John's baptism' are baptized in the name of Jesus"
+    - "Rom 6:3-4 | concept | Baptism as burial with Christ into death and rising to new life"
+  related: [stone-vessels-and-mikvaot, purity-and-impurity, qumran, community-rule, jewish-sects, josephus, herod-antipas, circumcision]
+  wikipedia: Baptism
+  image: null
+  author_notes:
+    - "Greek baptō/baptizō means 'dip, immerse'. Note its LXX and Jewish uses (2 Kgs 5:14; Jdt 12:7; Sir 34:25 [31:30], numbering to verify) and the NT washings in Mark 7:4 and Luke 11:38. Whether early Christian baptism was always full immersion is debated: Didache 7 allows pouring when running or cold water is lacking."
+    - "Contrast John's rite with Jewish purification. Jewish immersions were repeated and self-administered. John's was apparently once only, administered by him ('baptized by him'), and tied to repentance and coming judgment. Josephus (Ant. 18.116-119) says John's baptism did not remit sins but consecrated the body once the soul was purified by righteousness. Present this tension with Mark 1:4 neutrally."
+    - "Qumran: 1QS 3:4-9 and 5:13-14 link washing to repentance and the holy spirit, and ritual baths are found at the site. The view that John had Essene connections is possible but unproven. Do not present it as established."
+    - "Proselyte immersion is clearly attested only in rabbinic sources (e.g. m. Pesaḥ. 8:8; b. Yebam. 46a-47b), with a possible earlier allusion in Epictetus (Arrian, Diss. 2.9.20). Whether it existed before 70 CE is debated, so it should not be presented as the source of John's baptism."
+    - "The older history-of-religions derivation of Pauline baptism (Rom 6) from mystery-cult initiation (e.g. Isis in Apuleius, Met. 11) is now widely rejected or heavily qualified. Mention Matt 28:19's triadic formula beside the 'name of Jesus' formula in Acts, and give the household baptisms (Acts 16:15, 33) only as the point where the infant-baptism debate begins."
+  sources_to_check:
+    - "Josephus, Antiquities 18.116-119"
+    - "1QS (Community Rule) 3:4-9; 5:13-14"
+    - "Didache 7"
+    - "J. E. Taylor, The Immerser: John the Baptist within Second Temple Judaism (1997)"
+    - "R. L. Webb, John the Baptizer and Prophet: A Socio-Historical Study (JSNTSup 62, 1991)"
+    - "J. D. Lawrence, Washing in Water: Trajectories of Ritual Bathing in the Hebrew Bible and Second Temple Literature (2006)"
+    - "A. J. M. Wedderburn, Baptism and Resurrection: Studies in Pauline Theology against Its Graeco-Roman Background (WUNT 44, 1987)"
+    - "E. Ferguson, Baptism in the Early Church: History, Theology, and Liturgy in the First Five Centuries (2009)"

@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: sheba
+file: sheba.jpg
+title: Awam Temple.jpg
+caption: The Awwam temple (Mahram Bilqis), the Sabaean sanctuary of Almaqah near Marib, Yemen.
+description: Temple of Awam in Marib Governorate
+creator: Ali Mohamed
+credit_line: https://www.flickr.com/photos/196476764@N04/52649325436/
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: Ali Mohamed, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Awam_Temple.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/d/d1/Awam_Temple.jpg
+  sha1: b46dc44cbd0c7a8233e7a33a35c732b16c3aa596
+  original_size: [5760, 3840]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [sheba]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: esarhaddon
+file: esarhaddon.jpg
+title: Detail. Sam'al stele of Esarhaddon, 671 BCE, Pergamon Museum.jpg
+caption: >-
+  Esarhaddon on the basalt victory stele from Samʾal (Zincirli), 671 BCE (Pergamon Museum,
+  Berlin).
+description: >-
+  This is the Assyrian king Esarhaddon; detail of a stele. This commemorative basalt stela
+  depicts the Assyrian king Esarhaddon worshiping gods and symbols of gods. The king's left
+  hand holds a royal mace and two ropes. These ropes pass through the lips of two captives.
+  The kneeling smaller figure appears to an Egyptian crown prince Ushankhuru or probably pharaoh
+  Taharqa, while the larger standing man is a Syrian city-state governor; probably the king
+  of Tyre Baal I or king of Sidon Abdi-Milkutti. There are cuneiform inscriptions on the front
+  side of the stela which narrate the victorious milita
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Detail._Sam%27al_stele_of_Esarhaddon,_671_BCE,_Pergamon_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/e/e4/Detail._Sam%27al_stele_of_Esarhaddon%2C_671_BCE%2C_Pergamon_Museum.jpg
+  sha1: be74a82396a8daa28da40429db6a9b5dbd83f2d6
+  original_size: [4016, 6016]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1068×1600 px
+size: [1068, 1600]
+depicts: [esarhaddon]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

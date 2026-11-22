@@ -1,0 +1,76 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: messianic-expectations
+title: Messianic Expectations in Second Temple Judaism
+type: concept
+cultures: [jewish]
+scope: >-
+  The varied hopes in Second Temple Judaism for anointed or agent figures of the end time:
+  Davidic king, priestly messiah, eschatological prophet, and heavenly 'son of man'. The entry
+  covers their scriptural roots and their expression in the Scrolls, Psalms of Solomon, Enoch,
+  and the New Testament.
+passages:
+- ref: Ps 2:2, 7
+  rel: concept
+  note: The LORD's anointed as son, reread messianically (4QFlorilegium; Pss. Sol. 17)
+- ref: 2Sam 7:12-14
+  rel: concept
+  note: Dynastic promise read eschatologically in 4QFlorilegium
+- ref: Isa 11:1-5
+  rel: concept
+  note: Davidic shoot who strikes the wicked with the breath of his lips (Pss. Sol. 17)
+- ref: Zech 4:14
+  rel: concept
+  note: Two 'sons of oil', background for royal and priestly messiahs (1QS 9:11)
+- ref: Num 24:17
+  rel: concept
+  note: Star from Jacob, read messianically (CD 7:18-21; 1QM 11:6-7)
+- ref: Dan 7:13-14
+  rel: concept
+  note: One like a son of man, reinterpreted in the Similitudes and the Gospels
+- ref: Matt 11:2-6
+  rel: concept
+  note: 'Signs of the Messiah: blind see, dead raised, good news to the poor (cf. 4Q521)'
+- ref: Luke 1:32-35
+  rel: parallel
+  note: '''Son of the Most High'' and ''Son of God'' language paralleled in 4Q246'
+- ref: John 1:19-25
+  rel: concept
+  note: Messiah, Elijah, and 'the prophet' as distinct expected figures
+- ref: Mark 8:27-30
+  rel: concept
+  note: 'Peter''s confession: ''You are the Messiah'''
+related: [community-rule, first-enoch, dead-sea-scrolls, king-as-son-of-god, jewish-sects,
+  war-scroll, four-kingdoms-schema, josephus]
+media: []
+external:
+  wikipedia: Messiah in Judaism
+  wikidata: Q5421977
+editorial:
+  author_notes:
+  - >-
+    Stress diversity. There was no single 'Jewish messianic expectation', and many texts (e.g.
+    much of Daniel, Jubilees, 1 Maccabees) have no messiah figure.
+  - >-
+    In the Hebrew Bible, māšîaḥ usually refers to a reigning king or priest. Avoid reading
+    later eschatological expectation back into it.
+  - >-
+    Note Josephus's popular kings and sign-prophets (Judas, Simon, Athronges; Theudas; the
+    Egyptian) as social expressions of hope.
+  sources_to_check:
+  - >-
+    J. J. Collins, The Scepter and the Star: Messianism in Light of the Dead Sea Scrolls (2nd
+    ed., 2010)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

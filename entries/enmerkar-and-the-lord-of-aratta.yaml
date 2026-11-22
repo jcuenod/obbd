@@ -1,0 +1,61 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: enmerkar-and-the-lord-of-aratta
+title: Enmerkar and the Lord of Aratta
+type: text
+cultures: [sumerian]
+date:
+  from: -2100
+  to: -1800
+  circa: true
+  display: c. 2100–1800 BCE
+scope: >-
+  A Sumerian epic poem about the contest between Enmerkar of Uruk and the lord of the distant
+  land of Aratta, notable for the "spell of Nudimmud" passage on a time when all humanity
+  spoke one language, and for its tale of the invention of writing on clay.
+passages:
+- ref: Gen 11:1-9
+  rel: parallel
+  disputed: true
+  note: '''Spell of Nudimmud'': once all people addressed Enlil in one tongue; Enki alters
+    speech'
+- ref: Gen 10:10
+  rel: setting
+  note: Uruk (Erech), Enmerkar's city, in Nimrod's kingdom
+related: [ziggurat-and-babel, writing-and-literacy, sumerian-king-list, nimrod]
+media:
+- id: enmerkar-and-the-lord-of-aratta
+  role: primary
+external:
+  wikipedia: Enmerkar and the Lord of Aratta
+  wikidata: Q989784
+editorial:
+  author_notes:
+  - >-
+    Kramer (JAOS 1968) read the Nudimmud spell as a lost golden age of one language ended
+    by Enki's confusion of tongues; Alster and Vanstiphout read it as a future-oriented incantation
+    in which Enki will unify speech (or as acknowledging existing diversity). Present it as
+    debated; do not call it a 'Sumerian Tower of Babel'.
+  - There is no tower in the text; the Babel connection lies only in the one-language motif.
+  - >-
+    Enmerkar is in the Sumerian King List as a king of Uruk; the poem is preserved in Old
+    Babylonian copies and probably composed in the Ur III period.
+  sources_to_check:
+  - COS 1.170
+  - ETCSL 1.8.2.3
+  - H. Vanstiphout, Epics of Sumerian Kings (SBLWAW 20, 2003)
+  - 'S. N. Kramer, ''The Babel of Tongues: A Sumerian Version,'' JAOS 88 (1968): 108-111'
+  image_query: Enmerkar and the Lord of Aratta tablet
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,70 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: circumcision
+title: Circumcision in the Ancient Near East
+type: practice
+cultures: [egyptian, hebrew, ane]
+scope: >-
+  The practice of circumcision in the ancient Near East: Egyptian evidence from the Old Kingdom
+  onward, West Semitic and biblical evidence, and its absence among the Philistines and Mesopotamians.
+  The entry also covers its transformation in Israel into an infant covenant sign.
+passages:
+- ref: Gen 17:9-14
+  rel: practice
+  note: Circumcision on the eighth day as covenant sign
+- ref: Gen 34:13-24
+  rel: practice
+  note: Circumcision demanded of the men of Shechem
+- ref: Exod 4:24-26
+  rel: practice
+  note: 'Zipporah circumcises with a flint: ''bridegroom of blood'''
+- ref: Josh 5:2-9
+  rel: practice
+  note: Flint knives; the 'disgrace of Egypt' rolled away
+- ref: Jer 9:25-26
+  rel: attests
+  note: Egypt, Judah, Edom, Ammon, Moab, and desert peoples as circumcised; MT 9:24-25
+- ref: Judg 14:3
+  rel: practice
+  note: Philistines as 'the uncircumcised'
+- ref: Ezek 32:19
+  rel: concept
+  note: Egypt consigned to lie among the uncircumcised in the netherworld
+related: [philistines, purity-and-impurity, edomites, ammonites, moabites, sea-peoples]
+media:
+- id: circumcision
+  role: primary
+external:
+  wikipedia: History of circumcision
+  wikidata: Q5868155
+editorial:
+  author_notes:
+  - >-
+    The Egyptian evidence includes the Sixth Dynasty relief in the tomb of Ankhmahor at Saqqara
+    and the First Intermediate Period stela of Uha (a group circumcision). Egyptian practice
+    may not have been universal, and its form is debated.
+  - >-
+    Herodotus (2.104) claims the Syrians of Palestine learned circumcision from the Egyptians.
+    Present this as Herodotus's view, not fact.
+  - >-
+    Israel is distinctive in performing the rite on infants (Gen 17, P) rather than at puberty
+    or marriage. Exod 4:24-26 and Gen 34 may preserve older associations with marriage.
+  - >-
+    The meaning of "the disgrace of Egypt" (Josh 5:9) and the translation of Jer 9:25-26 ("circumcised
+    yet uncircumcised"?) are both debated. Ezekiel's consignment of Egypt to the uncircumcised
+    is a deliberate insult.
+  sources_to_check: ['Herodotus, Histories 2.104']
+  image_query: Ankhmahor tomb circumcision relief Saqqara
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

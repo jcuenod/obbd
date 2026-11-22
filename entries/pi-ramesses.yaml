@@ -1,0 +1,72 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: pi-ramesses
+title: Pi-Ramesses (Qantir)
+aliases: [Per-Ramesses, Qantir, Raamses, Rameses]
+type: site
+cultures: [egyptian]
+scope: >-
+  The Delta residence city founded under Seti I and Ramesses II at Qantir, adjacent to Avaris.
+  It was the capital of the Ramesside kings until the shifting Pelusiac Nile branch led to
+  its abandonment in the 11th century BCE. Its monuments were then moved to Tanis and Bubastis.
+  It is usually identified with biblical Raamses or Rameses.
+passages:
+- ref: Exod 1:11
+  rel: attests
+  note: Raamses, a store city built by Hebrew labour
+- ref: Exod 12:37
+  rel: setting
+  note: Departure from Rameses to Succoth
+- ref: Num 33:3, 5
+  rel: setting
+  note: The itinerary begins at Rameses
+- ref: Gen 47:11
+  rel: language
+  note: '''Land of Rameses'' in the Joseph story, a Ramesside-era name'
+related: [ramesses-ii, avaris, tanis, exodus-historical-questions, pithom, papyrus-anastasi,
+  hyksos]
+media:
+- id: pi-ramesses
+  role: primary
+external:
+  wikipedia: Pi-Ramesses
+  wikidata: Q937930
+  pleiades: '905314398'
+editorial:
+  author_notes:
+  - >-
+    Ramesside monuments found at Tanis once led Montet to identify Tanis with Pi-Ramesses.
+    The Qantir identification (Bietak; Pusch's excavations and magnetometry) is now standard.
+  - >-
+    Scholars disagree on what the name "Raamses" implies. Some take it as pointing to a Ramesside
+    setting for the oppression tradition. Others (e.g., Redford) note that the name and the
+    Ramesside cults survived into the first millennium, so the detail need not date the narrative
+    early.
+  - >-
+    Egyptian scribal compositions praising Pi-Ramesses (Ramesside miscellanies) are useful
+    comparanda for the city's fame.
+  sources_to_check:
+  - Bietak, Avaris. The Capital of the Hyksos (1996)
+  - Hoffmeier, Israel in Egypt (1997)
+  image_query: Qantir Pi-Ramesses excavation
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q937930 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 30.79937
+  lon: 31.83422
+  source: wikidata:Q937930

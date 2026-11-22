@@ -1,0 +1,83 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: millstones-and-grinding
+title: Millstones and Grinding
+aliases: [Querns, Handmill]
+type: realia
+cultures: [hebrew, greek, roman]
+scope: >-
+  Grain-grinding technology from the Iron Age saddle quern to the Hellenistic hopper-rubber
+  and Roman rotary and donkey mills, grinding as daily household labour, and the millstone
+  in biblical law and imagery.
+passages:
+- ref: Exod 11:5
+  rel: realia
+  note: The slave girl 'behind the handmill'
+- ref: Num 11:8
+  rel: realia
+  note: Manna ground in mills or beaten in mortars
+- ref: Deut 24:6
+  rel: practice
+  note: Handmill or upper millstone not to be taken in pledge
+- ref: Judg 9:53
+  rel: realia
+  note: A woman drops an upper millstone on Abimelech
+- ref: Judg 16:21
+  rel: practice
+  note: Blinded Samson made to grind in prison
+- ref: Isa 47:2
+  rel: imagery
+  note: 'Virgin Babylon humiliated: ''take the millstones and grind meal'''
+- ref: Jer 25:10
+  rel: imagery
+  note: Sound of the millstones and light of the lamp banished
+- ref: Eccl 12:3-4
+  rel: imagery
+  note: Grinders cease; sound of grinding low
+- ref: Job 41:24
+  rel: imagery
+  note: Leviathan's heart hard as the lower millstone (MT 41:16)
+- ref: Matt 24:41
+  rel: realia
+  note: Two women grinding at the mill
+- ref: Matt 18:6
+  rel: realia
+  note: '''Great millstone'' (lit. donkey millstone) around the neck'
+- ref: Rev 18:21-22
+  rel: imagery
+  note: Millstone hurled into the sea; Babylon silenced
+related: [agriculture-and-farming, four-room-house, oil-lamps, threshing-floors, capernaum]
+media:
+- id: millstones-and-grinding
+  role: primary
+- id: millstones-and-grinding-2
+  role: gallery
+external:
+  wikipedia: Quern-stone
+  wikidata: Q1543947
+editorial:
+  author_notes:
+  - >-
+    The Iron Age saddle quern (a basalt lower stone with a hand-held upper stone) was operated
+    by women for hours each day, which explains why grinding is an image of the household
+    and of degradation (Exod 11:5; Judg 16:21; Isa 47:2).
+  - >-
+    Trace later technology. The Hellenistic hopper-rubber (Olynthus mill) was followed by
+    the rotary quern and the large donkey-driven mill. 'Donkey millstone' (mylos onikos) in
+    Matt 18:6 refers to the latter.
+  - >-
+    Deut 24:6 treats the millstone as means of life. Compare garment pledges (Exod 22:26-27).
+  image_query: saddle quern basalt
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

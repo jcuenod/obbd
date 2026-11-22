@@ -1,0 +1,64 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: marzeah
+title: Marzeaḥ
+aliases: [marzeaḥ, mrzḥ, marziḥu]
+type: practice
+cultures: [ugaritic, phoenician, hebrew]
+scope: >-
+  The marzeaḥ, a West Semitic association of elite members who met for ritual feasting and
+  heavy drinking under a patron deity, attested from Ebla and Ugarit through Phoenician, Aramaic,
+  Nabataean and Palmyrene sources to rabbinic texts. The entry covers the institution and
+  its debated funerary associations.
+passages:
+- ref: Amos 6:4-7
+  rel: practice
+  note: Ivory beds, wine, oil and music; 'the marzeaḥ of the loungers' (v. 7)
+- ref: Jer 16:5-9
+  rel: practice
+  note: Prophet barred from the 'house of marzeaḥ' in a mourning context
+- ref: Amos 2:8
+  rel: practice
+  disputed: true
+  note: Drinking confiscated wine in the house of their god
+- ref: Ps 106:28
+  rel: practice
+  disputed: true
+  note: >-
+    Eating 'sacrifices of the dead' at Baal-peor; linked to the marzeaḥ by rabbinic tradition
+related: [care-for-the-dead, baal-peor, rephaim, mourning-rites, marseilles-tariff, samaria-ivories,
+  ugaritic-texts]
+media: []
+external:
+  wikipedia: Marzēaḥ
+  wikidata: Q6868206
+editorial:
+  author_notes:
+  - >-
+    Central debate is whether the marzeaḥ was intrinsically funerary (cult of the dead, Rephaim)
+    or a social-religious drinking club whose links to mourning are occasional; J. L. McLaughlin
+    argues against an intrinsic funerary character.
+  - >-
+    KTU 1.114 depicts El drunk at his own marzeaḥ; legal texts (e.g. KTU 3.9) show the institution
+    owned property and had a head (rb).
+  - >-
+    Note the Moabite "marzeaḥ papyrus" is unprovenanced and of doubtful authenticity; do not
+    use it as primary evidence.
+  sources_to_check:
+  - KTU 1.114
+  - KTU 3.9
+  - KAI 60
+  - J. L. McLaughlin, The Marzēaḥ in the Prophetic Literature (VTSup 86, 2001)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

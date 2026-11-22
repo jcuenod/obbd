@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: egyptian-loanwords
+title: Egyptian Loanwords and Names in the Hebrew Bible
+type: concept
+cultures: [egyptian, hebrew]
+scope: >-
+  Egyptian loanwords and personal names in the Hebrew Bible, concentrated in the Joseph and
+  exodus narratives and in technical vocabulary (measures, materials, writing, the Nile).
+  The entry covers their identification, their use as evidence for the date and setting of
+  biblical texts, and the limits of that use.
+passages:
+- ref: Exod 2:3
+  rel: language
+  note: 'tēbâ (chest), gōmeʾ (papyrus), sûp (reeds), yĕʾōr (Nile): Egyptian loans'
+- ref: Exod 2:10
+  rel: language
+  note: 'Moses: Egyptian ms(i) ''born of'' (cf. Thutmose); Hebrew folk etymology from mšh'
+- ref: Exod 6:25
+  rel: language
+  note: Phinehas from Egyptian pꜣ-nḥsy 'the Nubian'
+- ref: 1Sam 1:3
+  rel: language
+  note: Hophni and Phinehas, Egyptian names among Shiloh's priests (Hophni less certain)
+- ref: Gen 41:8
+  rel: language
+  note: ḥarṭummîm 'magicians' from Egyptian ḥry-tp (chief lector priest); also Exod 7:11
+- ref: Gen 41:42
+  rel: language
+  note: šēš 'fine linen' from Egyptian šs
+- ref: Gen 41:43
+  rel: language
+  disputed: true
+  note: 'ʾabrēk: Egyptian or Akkadian (abarakku) etymology debated'
+- ref: Gen 41:45
+  rel: language
+  note: 'Zaphenath-paneah, Asenath, Potiphera: Egyptian name types'
+- ref: Gen 41:2
+  rel: language
+  note: ʾāḥû 'reed-grass' from Egyptian ꜣḫ-w
+- ref: Exod 29:40
+  rel: language
+  note: hîn liquid measure from Egyptian hnw
+related: [exodus-historical-questions, nile, yam-suph, court-officials, weights-and-silver-money,
+  divination]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Explain the dating debate. Redford argued that the Joseph-story names (Potiphera, Asenath,
+    Zaphenath-paneah) are most typical of the Saite period (7th-6th centuries). Kitchen and
+    Hoffmeier argue for earlier attestations. Present both sides with the evidence.
+  - >-
+    Loanwords show contact, but most could have entered Hebrew at many periods. Do not use
+    them alone to date a text.
+  - >-
+    Moses' name is probably Egyptian. Exod 2:10's explanation is a Hebrew wordplay, not the
+    historical etymology.
+  - >-
+    Distinguish true loanwords (tēbâ, gōmeʾ, hîn, ʾêpâ) from Egyptian personal and place names
+    transmitted in Hebrew.
+  sources_to_check:
+  - Lambdin, 'Egyptian Loan Words in the Old Testament', JAOS 73 (1953)
+  - Muchiki, Egyptian Proper Names and Loanwords in North-West Semitic (1999)
+  - Noonan, Non-Semitic Loanwords in the Hebrew Bible (2019)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

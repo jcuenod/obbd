@@ -1,0 +1,73 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: amalekites
+title: Amalekites
+aliases: [Amalek]
+type: people
+scope: >-
+  The Amalekites, a nomadic people of the Negev and Sinai in biblical tradition and Israel's
+  archetypal enemy. Covers the biblical evidence, the absence of extrabiblical attestation,
+  and the ethical and reception issues raised by the Amalek texts.
+passages:
+- ref: Gen 14:7
+  rel: setting
+  note: '''The country of the Amalekites'' (anachronistic)'
+- ref: Gen 36:12, 16
+  rel: setting
+  note: Amalek as a grandson of Esau
+- ref: Exod 17:8-16
+  rel: setting
+  note: Battle at Rephidim; perpetual war against Amalek
+- ref: Num 24:20
+  rel: setting
+  note: Amalek 'first among the nations' in Balaam's oracle
+- ref: Deut 25:17-19
+  rel: concept
+  note: Command to 'blot out the remembrance of Amalek'
+- ref: Judg 6:3
+  rel: setting
+  note: Amalekites join Midianite raids
+- ref: 1Sam 15
+  rel: practice
+  note: Saul's ḥērem against Amalek; Agag spared
+- ref: 1Sam 30
+  rel: setting
+  note: Amalekites raid Ziklag; David's pursuit
+- ref: 1Chr 4:42-43
+  rel: setting
+  note: Simeonites destroy the remnant of Amalek
+- ref: Esth 3:1
+  rel: concept
+  note: Haman 'the Agagite' as heir of Agag
+related: [herem, edomites, midianites-and-kenites, kadesh-barnea, conquest-accounts-and-war-rhetoric,
+  treatment-of-captives]
+media: []
+external:
+  wikipedia: Amalek
+  wikidata: Q16010675
+editorial:
+  author_notes:
+  - >-
+    No ancient Near Eastern text names Amalek, and no material culture can be assigned to
+    it. Say this plainly. Proposed archaeological identifications are speculative.
+  - >-
+    Amalek functions as a theological archetype (Deut 25; 1 Sam 15; Esther's Agagite) and
+    has a long reception in Jewish tradition. Address modern political misuse of the texts
+    carefully and neutrally.
+  - >-
+    No culture tag is assigned because there is no extrabiblical evidence. The editor may
+    wish to add one.
+  sources_to_check: ['ABD, s.v. "Amalek"']
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

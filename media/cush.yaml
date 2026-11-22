@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: cush
+file: cush.jpg
+title: 7 Statuen nubischer kuschitischer Könige Kerma Musuem.jpg
+caption: >-
+  Granite statues of Kushite kings, including Taharqa and Tanutamani, from the Dukki Gel cache
+  (Kerma Museum, Sudan).
+description: >-
+  Black Pharaohs and Kings left to right: Tanotamun, Taharqa (rear), Senkamanisken, again
+  Tanotamun (rear), Aspelta, Anlamani, again Senkamanisken. Found in 2003 by swiss archaeologist
+  Charles Bonnet in a cahe in Dukki Gel. They were broken carefully and hidden in a cache
+  c. 590 BC in order - probably - to preven commemoration.
+creator: Matthias Gehricke
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Matthias Gehricke, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:7_Statuen_nubischer_kuschitischer_K%C3%B6nige_Kerma_Musuem.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/ba/7_Statuen_nubischer_kuschitischer_K%C3%B6nige_Kerma_Musuem.jpg
+  sha1: 7ae75ac79611b11cf516adf1dd2ed9046970f1a1
+  original_size: [6194, 4089]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1056 px
+size: [1600, 1056]
+depicts: [cush, taharqa]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

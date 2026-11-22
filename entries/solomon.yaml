@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: solomon
+title: 'Solomon: Historical Questions'
+type: person
+cultures: [hebrew]
+date:
+  from: -970
+  to: -931
+  circa: true
+  display: c. 970–931 BCE
+scope: >-
+  The historical questions surrounding Solomon: the lack of contemporary inscriptions, the
+  archaeological debate over 'Solomonic' building at Hazor, Megiddo and Gezer, copper production
+  in the Arabah, Phoenician relations, and the chronological anchor of Shishak's campaign.
+  It does not cover Solomon's literary portrayal or later traditions.
+passages:
+- ref: 1Kgs 9:15-19
+  rel: realia
+  disputed: true
+  note: Building Jerusalem, Hazor, Megiddo and Gezer; the 'Solomonic gates' debate
+- ref: 1Kgs 5:1-12
+  rel: setting
+  note: Treaty with Hiram of Tyre for cedar and craftsmen (MT 5:15-26)
+- ref: 1Kgs 9:26-28
+  rel: event
+  disputed: true
+  note: Red Sea fleet to Ophir with Hiram's sailors
+- ref: 1Kgs 10:1-13
+  rel: event
+  disputed: true
+  note: Visit of the Queen of Sheba; date of Sabaean statehood debated
+- ref: 1Kgs 10:28-29
+  rel: setting
+  note: Horse and chariot trade with Egypt and Kue
+- ref: 1Kgs 11:14-25
+  rel: setting
+  note: Adversaries in Edom and Damascus
+- ref: 1Kgs 11:40
+  rel: attests
+  note: Shishak, i.e. Shoshenq I, an Egyptian synchronism for the end of the reign
+- ref: 1Kgs 4:21
+  rel: concept
+  note: Rule 'from the Euphrates to the border of Egypt' as royal ideology (MT 5:1)
+related: [low-chronology-debate, hiram-of-tyre, shoshenq-i, sheba, gezer, megiddo, hazor,
+  faynan]
+media: []
+external:
+  wikipedia: Solomon
+  wikidata: Q37085
+editorial:
+  author_notes:
+  - No extrabiblical text names Solomon. Say so plainly.
+  - >-
+    Yadin's six-chamber gates as 'Solomonic' versus the low chronology and radiocarbon redating.
+    Present the current state of the debate fairly.
+  - >-
+    Copper production at Timna and Faynan peaked in the 10th century. Its political control
+    (Edomite or other local groups, not necessarily Jerusalem) is debated.
+  - >-
+    Dates derive from biblical numbers anchored by Shoshenq I's campaign (c. 925). The regnal
+    span is conventional.
+  sources_to_check:
+  - Handy (ed.), The Age of Solomon (1997)
+  - Finkelstein and Silberman, David and Solomon (2006)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

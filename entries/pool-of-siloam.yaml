@@ -1,0 +1,72 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: pool-of-siloam
+title: Pool of Siloam
+type: site
+cultures: [jewish, judahite]
+scope: >-
+  The pool(s) at the southern end of Jerusalem's City of David, fed by Hezekiah's tunnel from
+  the Gihon spring. The entry covers the large stepped pool of the late Second Temple period,
+  discovered in 2004, as well as its Iron Age and Byzantine predecessors and successors.
+passages:
+- ref: John 9:7
+  rel: setting
+  note: The man born blind washes in the pool of Siloam ('Sent')
+- ref: John 7:37-38
+  rel: practice
+  note: Sukkot water ceremony drawing water from Siloam (m. Sukkah 4:9)
+- ref: Luke 13:4
+  rel: setting
+  note: The tower in Siloam that fell
+- ref: Isa 8:6
+  rel: language
+  note: '''The waters of Shiloah that flow gently'''
+- ref: Neh 3:15
+  rel: setting
+  note: Wall of the Pool of Shelah by the king's garden
+- ref: 2Kgs 20:20
+  rel: setting
+  note: Hezekiah's pool and conduit
+- ref: Isa 22:9-11
+  rel: setting
+  note: Lower pool and reservoir between the two walls
+related: [hezekiahs-tunnel, city-of-david, stone-vessels-and-mikvaot, herods-temple, pool-of-bethesda,
+  jerusalem, siloam-inscription]
+media:
+- id: pool-of-siloam
+  role: primary
+external:
+  wikipedia: Pool of Siloam
+  wikidata: Q1483483
+editorial:
+  author_notes:
+  - >-
+    The 2004 discovery (Reich and Shukron) of a stepped pool dated by coins to the 1st century
+    BCE-1st century CE confirms John's topography. Distinguish it from the Byzantine and modern
+    pool.
+  - Its use as a large miqveh for pilgrims has been proposed but is debated.
+  - >-
+    Note the ongoing excavation of the stepped street toward the Temple Mount and the political
+    sensitivities of excavating under Silwan.
+  image_query: Pool of Siloam steps excavation
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates from Wikidata Q1483483 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 31.77056
+  lon: 35.235
+  source: wikidata:Q1483483

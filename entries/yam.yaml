@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: yam
+title: Yam (Sea)
+aliases: [Yammu, Sea, Prince Sea, Judge River]
+type: deity
+cultures: [ugaritic, canaanite]
+scope: >-
+  Yam ("Sea"), the Ugaritic sea god, also called Judge River (ṯpṭ nhr), whose bid for kingship
+  is defeated by Baal in the Baal Cycle. The entry covers the deity and the biblical motif
+  of YHWH's rebuke, restraint and defeat of the personified Sea (yām) and Rivers.
+passages:
+- ref: Job 7:12
+  rel: imagery
+  note: '''Am I the Sea, or the Dragon, that you set a guard over me?'''
+- ref: Job 38:8-11
+  rel: imagery
+  note: Sea shut in with doors and given its limit
+- ref: Ps 74:13
+  rel: imagery
+  note: YHWH divided the Sea by his might
+- ref: Ps 89:9
+  rel: imagery
+  note: YHWH rules the raging of the Sea (MT 89:10)
+- ref: Ps 93:3-4
+  rel: imagery
+  note: Floods (neharot) lifted up; YHWH mightier than the Sea
+- ref: Hab 3:8
+  rel: imagery
+  note: Wrath against the Rivers and the Sea, mirroring Yam // Nahar
+- ref: Nah 1:4
+  rel: imagery
+  note: He rebukes the Sea and makes it dry
+- ref: Isa 51:10
+  rel: imagery
+  note: Drying the Sea and the great deep at the exodus
+- ref: Mark 4:39
+  rel: imagery
+  note: Jesus rebukes the wind and silences the Sea
+- ref: Rev 21:1
+  rel: imagery
+  note: '''And the sea was no more'''
+related: [chaoskampf, baal-cycle, leviathan, rahab-sea-monster, tannin, tehom, divine-warrior]
+media: []
+external:
+  wikipedia: Yam (god)
+  wikidata: Q2340435
+editorial:
+  author_notes:
+  - >-
+    Yam is the clearest Levantine antecedent for biblical Sea-combat language; the older derivation
+    from Babylonian Tiamat (Gunkel) has largely given way to a West Semitic background (Day),
+    though both matter.
+  - >-
+    Biblical yām is never worshipped and usually personified only in poetry; distinguish mythic
+    imagery from belief in a rival god.
+  - Note the parallel pair ym // nhr in Ugaritic and the Hebrew pair yām // nəhārôt.
+  - >-
+    Baal's victory with clubs made by Kothar (KTU 1.2 IV) and the cry "Yam is dead, Baal reigns"
+    link sea-victory to kingship (cf. Ps 93).
+  sources_to_check:
+  - KTU 1.2
+  - J. Day, God's Conflict with the Dragon and the Sea (1985)
+  - DDD, s.v. "Yam"
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

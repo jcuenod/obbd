@@ -1,0 +1,90 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: cosmology
+title: Ancient Near Eastern Cosmology
+type: concept
+cultures: [ane]
+scope: >-
+  The ways ancient Near Eastern cultures pictured the structure of the world: heavens, earth,
+  the waters above and below, and the netherworld. The entry surveys Mesopotamian, Egyptian,
+  and Levantine conceptions and the cosmological assumptions shared by biblical texts. Creation
+  narratives, combat myths, and individual features (firmament, pillars, tehom) have their
+  own entries.
+passages:
+- ref: Gen 1:1-2:3
+  rel: concept
+  note: Ordering of a pre-existing watery mass into heavens, earth, and seas
+- ref: Gen 1:6-8
+  rel: concept
+  note: A dome (rāqîaʿ) separates the waters above from the waters below
+- ref: Gen 7:11
+  rel: concept
+  note: Fountains of the deep and windows of the heavens opened in the flood
+- ref: Exod 20:4
+  rel: concept
+  note: 'Tripartite formula: heaven above, earth beneath, water under the earth'
+- ref: Ps 104:2-9
+  rel: concept
+  note: Heavens stretched like a tent, earth on foundations, waters given bounds
+- ref: Job 26:7-14
+  rel: concept
+  note: Earth hung over the void, waters bound in clouds, pillars of heaven
+- ref: Job 38:4-11
+  rel: concept
+  note: Earth founded and measured like a building; the sea shut in with doors
+- ref: Prov 8:22-31
+  rel: concept
+  note: Wisdom present as heavens, deep, and earth's foundations are set
+- ref: Isa 40:22
+  rel: imagery
+  note: God enthroned above the 'circle' (ḥûg) of the earth; heavens as a tent
+- ref: Phil 2:10
+  rel: concept
+  note: Beings in heaven, on earth, and under the earth
+- ref: Ps 148:4
+  rel: concept
+  note: '''You waters above the heavens'' summoned to praise'
+related: [egyptian-cosmology, babylonian-map-of-the-world, firmament, waters-above-and-below,
+  pillars-and-foundations-of-the-earth, sheol-and-the-netherworld, creation-accounts, enuma-elish]
+media:
+- id: egyptian-cosmology
+  role: primary
+- id: cosmology
+  role: gallery
+external:
+  wikipedia: Biblical cosmology
+  wikidata: Q2566489
+editorial:
+  author_notes:
+  - >-
+    The "three-tiered universe" is a useful shorthand, but biblical texts use several images
+    (tent, building on pillars, earth suspended over nothing) and do not offer one systematic
+    model. Present the evidence as a family of overlapping pictures.
+  - >-
+    Mesopotamian sources describe multiple heavens of different stones and a subterranean
+    apsû (Horowitz). Egyptian sources picture the sky goddess Nut arched over the earth god
+    Geb, separated by Shu, with Nun as the surrounding waters.
+  - >-
+    Note the scholarly consensus that biblical writers shared the physical cosmology of their
+    environment. Avoid concordist readings that harmonize the texts with modern science, and
+    avoid presenting the shared picture as a sign of literary dependence.
+  - >-
+    The Babylonian Map of the World (BM 92687) is a good visual aid for the circular earth
+    surrounded by the bitter river (marratu).
+  sources_to_check:
+  - Wayne Horowitz, Mesopotamian Cosmic Geography (1998)
+  - Othmar Keel, The Symbolism of the Biblical World (1978)
+  image_query: Nut Geb Shu Greenfield papyrus
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

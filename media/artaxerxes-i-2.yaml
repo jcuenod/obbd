@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: artaxerxes-i-2
+file: artaxerxes-i-2.jpg
+title: Tomb of Artaxerxes I, Naqsh-e Rustam.jpg
+caption: The rock-cut tomb of Artaxerxes I at Naqsh-e Rostam, near Persepolis.
+description: Tomb of Artaxerxes I, Naqsh-e Rustam, Iran
+creator: Bernard Gagnon
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Bernard Gagnon, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tomb_of_Artaxerxes_I,_Naqsh-e_Rustam.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/68/Tomb_of_Artaxerxes_I%2C_Naqsh-e_Rustam.jpg
+  sha1: 3c4b37638dced0b9f0066b444c1320f6318c8048
+  original_size: [2121, 3182]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1067×1600 px
+size: [1067, 1600]
+depicts: [artaxerxes-i]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

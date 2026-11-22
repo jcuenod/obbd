@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: pithom
+file: pithom.jpg
+title: >-
+  The Brick store-chambers of Pithom, the city built by Hebrew bondsmen (looking north) --Egypt.
+  (32) (1904) - front - TIMEA.jpg
+caption: >-
+  Mud-brick structures at Tell el-Maskhuta that Édouard Naville identified as the 'store-chambers
+  of Pithom', stereograph of 1904.
+description: Man next to a decayed brick structure
+creator: Underwood & Underwood
+credit_line: >-
+  This image comes from the Travelers in the Middle East Archive (TIMEA) where it is available
+  at the following Uniform Resource Identifier: 5598. Original source: Original stereograph:
+  "The Brick store-chambers of Pithom, the city built by Hebrew bondsmen (looking north) --Egypt.
+  (32)." (Underwood and Underwood). 7.75 x 4.2 inches. From the collection of Dr. Paula Sanders,
+  Rice University.This tag does not indicate the copyright status of the attached work. A
+  normal copyright tag is still required. See Commons:Licensing.
+license:
+  id: CC-BY-SA-2.5
+  name: CC BY-SA 2.5
+  url: https://creativecommons.org/licenses/by-sa/2.5
+attribution: Underwood & Underwood, CC BY-SA 2.5, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:The_Brick_store-chambers_of_Pithom,_the_city_built_by_Hebrew_bondsmen_(looking_north)_--Egypt._(32)_(1904)_-_front_-_TIMEA.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/f/f7/The_Brick_store-chambers_of_Pithom%2C_the_city_built_by_Hebrew_bondsmen_%28looking_north%29_--Egypt._%2832%29_%281904%29_-_front_-_TIMEA.jpg
+  sha1: 7554599aacb7f07f6f8b722cdde328997a80d7fc
+  original_size: [1024, 559]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1024, 559]
+depicts: [pithom]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

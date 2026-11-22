@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: horned-altars
+file: horned-altars.jpg
+title: Sandstone Sacrificial Altar, Tel Beersheba, 8th C. BC (29343946728).jpg
+caption: >-
+  The reassembled horned altar of ashlar sandstone from Tel Beersheba, 8th century BCE (Israel
+  Museum, Jerusalem).
+description: >-
+  Israel Museum, Jerusalem, Israel. Complete indexed photo collection at WorldHistoryPics.com
+creator: Gary Todd from Xinzheng, China
+credit_line: Sandstone Sacrificial Altar, Tel Beersheba, 8th C. BC
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Gary Todd from Xinzheng, China. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Sandstone_Sacrificial_Altar,_Tel_Beersheba,_8th_C._BC_(29343946728).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/d0/Sandstone_Sacrificial_Altar%2C_Tel_Beersheba%2C_8th_C._BC_%2829343946728%29.jpg
+  sha1: 1c4a80fc51176d142f8d46539debe2cb7b44dea1
+  original_size: [6000, 4000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [horned-altars]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

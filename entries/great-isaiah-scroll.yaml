@@ -1,0 +1,81 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: great-isaiah-scroll
+title: Great Isaiah Scroll (1QIsaᵃ)
+aliases: [1QIsaᵃ, 1QIsa-a, Isaiah Scroll]
+type: artifact
+cultures: [jewish]
+date:
+  from: -150
+  to: -100
+  circa: true
+  display: c. 150–100 BCE
+scope: >-
+  The complete scroll of Isaiah from Qumran Cave 1 (1QIsaᵃ), 54 columns on 17 sheets of leather.
+  It is the oldest substantially complete manuscript of a Hebrew biblical book and a key witness
+  to the text and scribal practice of Isaiah.
+passages:
+- ref: Isa 1-66
+  rel: language
+  note: Complete copy of Isaiah, broadly close to MT with fuller spelling and many variants
+- ref: Isa 2:9-10
+  rel: language
+  note: Lacks 2:9b-10, possibly reflecting a text before this expansion
+- ref: Isa 14:4
+  rel: language
+  note: Reads mrhbh ('insolence') for MT's obscure mdhbh, followed by NRSV
+- ref: Isa 21:8
+  rel: language
+  note: Reads 'the seer' (hrʾh) for MT 'a lion' (ʾryh), followed by NRSV
+- ref: Isa 40:7-8
+  rel: language
+  note: Text omitted by homoioteleuton supplied by a corrector between the lines
+- ref: Isa 53:11
+  rel: language
+  note: '''He shall see light'', agreeing with LXX against MT'
+related: [dead-sea-scrolls, qumran, septuagint, nash-papyrus, scribes-and-scribal-education,
+  writing-materials]
+location:
+  institution: Israel Museum, Jerusalem (Shrine of the Book)
+  accession: 1Qlsa (Shrine of the Book)
+media:
+- id: great-isaiah-scroll
+  role: primary
+external:
+  wikipedia: Isaiah Scroll
+  wikidata: Q1824743
+editorial:
+  author_notes:
+  - >-
+    Contrast 1QIsaᵃ (full orthography, many variants, 'Qumran scribal practice' per Tov) with
+    1QIsaᵇ, which is very close to MT.
+  - >-
+    Do not use the scroll to claim the MT was transmitted 'without change' (an apologetic
+    overstatement), nor to exaggerate its divergence.
+  - >-
+    Note corrections by several hands and the scribal break after ch. 33, which some (Brownlee)
+    take as evidence of a two-part production.
+  - >-
+    Palaeographic dating is c. 150-100 BCE (radiocarbon results broadly compatible); verify
+    the current range.
+  sources_to_check:
+  - M. Burrows (ed.), The Dead Sea Scrolls of St. Mark's Monastery, vol. 1 (1950)
+  - 'E. Ulrich and P. W. Flint, Qumran Cave 1.II: The Isaiah Scrolls (DJD XXXII, 2010)'
+  image_query: Great Isaiah Scroll Shrine of the Book
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added accession from Wikidata Q1824743 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

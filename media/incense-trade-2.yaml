@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: incense-trade-2
+file: incense-trade-2.jpg
+title: Oman, Wadi Dawkah, Land of Frankincense.jpg
+caption: >-
+  Frankincense trees in Wadi Dawkah, Oman, in the incense-producing region of southern Arabia.
+description: 'Oman: Wadi Dawkah: Land of Frankincense'
+creator: Dr. Thomas Liptak
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Dr. Thomas Liptak, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Oman,_Wadi_Dawkah,_Land_of_Frankincense.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/65/Oman%2C_Wadi_Dawkah%2C_Land_of_Frankincense.jpg
+  sha1: 0fe71d14254decb4bdcac0feaf53c1756f229ceb
+  original_size: [4910, 2762]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×900 px
+size: [1600, 900]
+depicts: [incense-trade]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

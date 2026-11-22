@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: imperial-cult-2
+file: imperial-cult-2.jpg
+title: Aphrodisias - Sebasteion.jpg
+caption: >-
+  The Sebasteion at Aphrodisias, a 1st-century CE complex dedicated to Aphrodite and the Julio-Claudian
+  emperors.
+description: The Sebasteion in Aphrodisias, Turkey
+creator: Bernard Gagnon
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Bernard Gagnon, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Aphrodisias_-_Sebasteion.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/8/87/Aphrodisias_-_Sebasteion.jpg
+  sha1: d6fd13964b0f3ad4a17ee7cacda8f307668f7b75
+  original_size: [5003, 3384]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1083 px
+size: [1600, 1083]
+depicts: [imperial-cult]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

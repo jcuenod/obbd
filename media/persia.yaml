@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: persia
+file: persia.jpg
+title: CyrustheGreatTomb 22059.jpg
+caption: The tomb of Cyrus the Great at Pasargadae.
+description: The tomb of Cyrus the Great
+creator: Truth Seeker
+credit_line: http://blogtext.org/TruthSeeker/
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Truth Seeker, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:CyrustheGreatTomb_22059.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/0/04/CyrustheGreatTomb_22059.jpg
+  sha1: 2862f87c12e69792a51918d96dc80768dc7ef865
+  original_size: [3648, 2736]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [cyrus-the-great, persia]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: war-scroll
+file: war-scroll.jpg
+title: >-
+  Dead Sea Scrolls and caves and Qumran Excavations of Essene Monastery. Scroll from 'the
+  war of the sons of light against the sons of darkness' LOC matpc.13011.jpg
+caption: >-
+  Columns of the War Scroll (1QM) from Qumran Cave 1, Matson Photo Service photograph (Library
+  of Congress).
+description: >-
+  Title: Dead Sea Scrolls and caves and Qumran Excavations of Essene Monastery. Scroll from
+  "the war of the sons of light against the sons of darkness" Abstract/medium: G. Eric and
+  Edith Matson Photograph Collection Physical description: 1 negative :
+creator: Matson Collection
+credit_line: >-
+  Library of Congress Catalog: https://www.loc.gov/pictures/collection/matpc/item/mpc2005009439/PP
+  Original url: https://hdl.loc.gov/loc.pnp/matpc.13011
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Matson Collection. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Dead_Sea_Scrolls_and_caves_and_Qumran_Excavations_of_Essene_Monastery._Scroll_from_%27the_war_of_the_sons_of_light_against_the_sons_of_darkness%27_LOC_matpc.13011.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/b1/Dead_Sea_Scrolls_and_caves_and_Qumran_Excavations_of_Essene_Monastery._Scroll_from_%27the_war_of_the_sons_of_light_against_the_sons_of_darkness%27_LOC_matpc.13011.jpg
+  sha1: c50261175661030df918e01e0500ab5bf41c3cf1
+  original_size: [3320, 2322]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1119 px
+size: [1600, 1119]
+depicts: [war-scroll]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

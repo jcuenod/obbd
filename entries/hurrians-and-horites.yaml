@@ -1,0 +1,67 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: hurrians-and-horites
+title: Hurrians, Horites, and Hivites
+aliases: [Hurrians, Horites, Mitanni, Hurri]
+type: people
+cultures: [hurrian]
+scope: >-
+  The Hurrians, a non-Semitic people of northern Mesopotamia and Syria (Urkesh, Mitanni, Nuzi,
+  Alalakh), and the biblical Horites of Seir. Covers Hurrian history and influence in the
+  Levant and the debated equation of Horites (and Hivites) with Hurrians.
+passages:
+- ref: Gen 14:6
+  rel: setting
+  note: Horites in the hill country of Seir
+- ref: Gen 36:20-30
+  rel: setting
+  note: Genealogy of Seir the Horite
+- ref: Deut 2:12, 22
+  rel: setting
+  note: Horites displaced from Seir by Esau's descendants
+- ref: Gen 34:2
+  rel: setting
+  disputed: true
+  note: 'Hamor ''the Hivite'' (LXX: Horite)'
+- ref: Josh 9:7
+  rel: setting
+  disputed: true
+  note: 'Gibeonites as Hivites (LXX: Horites)'
+related: [nuzi-texts, amarna-letters, edomites, hittites-and-hethites, teraphim, adoption]
+media:
+- id: hurrians-and-horites
+  role: primary
+- id: hurrians-and-horites-2
+  role: gallery
+external:
+  wikipedia: Hurrians
+  wikidata: Q190394
+editorial:
+  author_notes:
+  - >-
+    The Hurrians are attested from the late third millennium (Urkesh). Mitanni was a major
+    power in the fifteenth and fourteenth centuries; Tushratta's Amarna letters are an example.
+    Hurrian personal and divine names occur in Late Bronze Canaan, as in Abdi-Heba of Jerusalem,
+    and Egyptian 'Ḫurru' can denote Syria-Palestine.
+  - >-
+    The equation Horite = Hurrian is debated. The Horites of Gen 36 bear Semitic names, and
+    some read ḥōrî as 'cave dweller' or a local group name. Some link the Hivites with Hurrians
+    instead. The LXX evidence should be checked verse by verse.
+  - >-
+    Nuzi-based explanations of patriarchal customs (Speiser, Gordon) were largely refuted
+    by Thompson and Van Seters in the 1970s. Present them historiographically.
+  sources_to_check: ['Wilhelm, The Hurrians (1989)']
+  image_query: Urkesh Tish-atal foundation lion
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: seraphim
+file: seraphim.jpg
+title: Winged uraeus amulet MET 23.10.30 EGDP017150.jpg
+caption: >-
+  Egyptian winged uraeus (cobra) amulet (Metropolitan Museum of Art, New York); winged cobras
+  are a common point of comparison for the seraphim.
+description: Amulet, winged uraeus
+creator: null
+credit_line: >-
+  This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum
+  of Art. See the Image and Data Resources Open Access Policy
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Unknown author. CC0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Winged_uraeus_amulet_MET_23.10.30_EGDP017150.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/db/Winged_uraeus_amulet_MET_23.10.30_EGDP017150.jpg
+  sha1: e4cc0b8a4e2d6dc9e03335150d9f99b39a334fef
+  original_size: [4000, 2667]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [seraphim]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

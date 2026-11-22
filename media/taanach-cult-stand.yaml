@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: taanach-cult-stand
+file: taanach-cult-stand.jpg
+title: Taanach terracotta.jpg
+caption: >-
+  The earlier terracotta cult stand from Taanach found by E. Sellin, decorated with lions
+  and other figures (Istanbul Archaeology Museums).
+description: >-
+  آثار من الطين النضيج من قرية تعنك الكنعانية الواقعة شمال غرب جنين، في متحف إسطنبول الأثري
+creator: oncenawhile
+credit_line: Istanbul Archaeology Museums
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: oncenawhile. CC0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Taanach_terracotta.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/5/50/Taanach_terracotta.jpg
+  sha1: a9a004afc84d1f99a61bf8d9f80f46fc09bf168b
+  original_size: [1765, 3152]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 896×1600 px
+size: [896, 1600]
+depicts: [taanach-cult-stand]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

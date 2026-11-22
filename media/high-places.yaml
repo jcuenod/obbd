@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: high-places
+file: high-places.jpg
+title: Tel-dan-kultplatz-d-altar.JPG
+caption: The Iron Age sacred precinct at Tel Dan, with a modern reconstruction of the altar.
+description: 'Tel Dan: Kultplatz mit der Altarnachbildung'
+creator: Mboesch
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Mboesch, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tel-dan-kultplatz-d-altar.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/b/b5/Tel-dan-kultplatz-d-altar.JPG
+  sha1: a2b638f0e070dee04ebd838b14f62de32df62f4d
+  original_size: [3200, 2133]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [dan, high-places]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,443 @@
+4qdeut-j: []   # reason: no freely licensed image of 4QDeut-j (4Q37) found on Commons
+
+adad-nirari-iii:
+  - file: "File:Stele of Adad-nirari III.jpg"
+    caption: "The Tell al-Rimah stele of Adad-nirari III, which records tribute from Joash of Samaria, early 8th century BCE (Iraq Museum, Baghdad)."
+    role: primary
+  - file: "File:Saba'a Stele of Adad-nirari III at the Ancient Orient Museum, Istanbul. C. 800 BCE.jpg"
+    caption: "The Saba'a stele of Adad-nirari III, basalt, c. 800 BCE (Ancient Orient Museum, Istanbul)."
+    role: gallery
+
+adapa:
+  - file: "File:Fragment of the Epic of Adapa, Akkadian, Mesopotamia, Neo-Assyrian period, c. 7th century BC, clay - Morgan Library & Museum - New York City - DSC06601.jpg"
+    caption: "Clay fragment of the Adapa myth from the library of Ashurbanipal, Neo-Assyrian, 7th century BCE (Morgan Library & Museum, New York)."
+    role: primary
+
+admonitions-of-ipuwer:
+  - file: "File:Papyrus van Ipoewer - Google Art Project.jpg"
+    caption: "Papyrus Leiden I 344 recto, the sole copy of the Admonitions of Ipuwer, Nineteenth Dynasty (Rijksmuseum van Oudheden, Leiden)."
+    role: primary
+
+afterlife-and-resurrection:
+  - file: "File:BD Weighing of the Heart.jpg"
+    caption: "The weighing of the heart before Osiris in the Book of the Dead of Ani, papyrus, Nineteenth Dynasty (British Museum, London)."
+    role: primary
+    depicts: [book-of-the-dead]
+
+agriculture-and-farming:
+  - file: "File:The Gezer Calendar tablet, early iron age, 10th century BCE, Museum of Archaeology, Istanbul, Turkey.jpg"
+    caption: "The Gezer Calendar, a limestone tablet listing the months of the agricultural year, 10th century BCE (Istanbul Archaeology Museums)."
+    role: primary
+    depicts: [gezer-calendar]
+
+ahab:
+  - file: "File:Kurkh Monolith.jpg"
+    caption: "The Kurkh Monolith of Shalmaneser III, which names 'Ahab the Israelite' among the coalition at Qarqar in 853 BCE (British Museum, London)."
+    role: primary
+    depicts: [kurkh-monoliths]
+
+ahaz:
+  - file: "File:טביעת חותם המלך חזקיהו.jpg"
+    caption: "Clay bulla of Hezekiah 'son of Ahaz, king of Judah', late 8th century BCE (on display at the Israel Museum, Jerusalem)."
+    role: primary
+
+ahiqar:
+  - file: "File:Papyrus narrating the story of the wise chancellor Ahiqar. Aramaic script. 5th century BCE. From Elephantine, Egypt. Neues Museum.jpg"
+    caption: "Aramaic papyrus with the story of Ahiqar, ink on papyrus, 5th century BCE, from Elephantine (Neues Museum, Berlin)."
+    role: primary
+
+ahiram-sarcophagus:
+  - file: "File:Ahiram sarcophag from Biblos XIII-XBC.jpg"
+    caption: "The limestone sarcophagus of Ahiram, king of Byblos, c. 1000 BCE (National Museum of Beirut)."
+    role: primary
+  - file: "File:Sarcophag of Ahiram inscription (0).png"
+    caption: "Drawing of the Phoenician inscription on the Ahiram sarcophagus."
+    role: gallery
+
+ai:
+  - file: "File:Et-Tell (Ai) ruins.jpg"
+    caption: "Ruins at et-Tell near Ramallah, the site usually identified with biblical Ai."
+    role: primary
+
+ain-dara-temple:
+  - file: "File:Ain Dara Alp1.jpg"
+    caption: "The Iron Age Syro-Hittite temple at ʿAin Dara, northwest of Aleppo."
+    role: primary
+  - file: "File:Huge footprints Ain Dara.jpg"
+    caption: "The giant footprints carved into the thresholds of the ʿAin Dara temple."
+    role: gallery
+
+akhenaten:
+  - file: "File:Colossal Statue of Amenhotep IV from Karnak, 1356-1350 BCE (5).jpg"
+    caption: "Colossal statue of Amenhotep IV (Akhenaten) from his Aten temple at Karnak, c. 1356–1350 BCE (Egyptian Museum, Cairo)."
+    role: primary
+  - file: "File:Akhenaten, Nefertiri and three daughers beneath the Aten - Neues Museum - Berlin - Germany 2017 (cropped).jpg"
+    caption: "Relief of Akhenaten, Nefertiti and three daughters beneath the rays of the Aten (Neues Museum, Berlin)."
+    role: gallery
+
+akitu-festival:
+  - file: "File:Ishtar Gate Processional Way section, Pergamon Museum.JPG"
+    caption: "Glazed-brick lions from the Processional Way of Babylon, along which the gods' statues were carried at the akītu festival, 6th century BCE (Pergamon Museum, Berlin)."
+    role: primary
+
+akkadian-prophecies: []   # reason: no freely licensed photograph of the Marduk, Šulgi, Uruk or Dynastic Prophecy tablets found
+
+al-yahudu-tablets:
+  - file: "File:Al-Yahudu Tablets3 (cropped).jpg"
+    caption: "Cuneiform tablet from the Āl-Yāhūdu archive naming the town of Āl-Yāhūdu, 6th–5th century BCE (Bible Lands Museum, Jerusalem)."
+    role: primary
+
+altars:
+  - file: "File:Tel arad fortress altar1956.jpg"
+    caption: "The sacrificial altar of fieldstones in the courtyard of the Iron Age shrine in the Arad fortress, as displayed at the site."
+    role: primary
+  - file: "File:Tel Be'er Sheva Altar 2007041.JPG"
+    caption: "Reconstruction of the horned altar of ashlar blocks found dismantled at Tel Beersheba, displayed at the site."
+    role: gallery
+    depicts: [horned-altars]
+
+amarna-letters:
+  - file: "File:One of the Amarna letters. A letter from Abdi-Heba of Jerusalem to the Egyptian Pharaoh Amenhotep III. 1st half of the 14th century BCE. From Tell el-Amarna, Egypt. Vorderasiatisches Museum, Berlin.jpg"
+    caption: "Amarna letter from Abdi-Heba of Jerusalem to the pharaoh, clay tablet, 14th century BCE (Vorderasiatisches Museum, Berlin)."
+    role: primary
+  - file: "File:Five Amarna letters on display at the British Museum, LondonA.jpg"
+    caption: "Five Amarna letters on display at the British Museum, London."
+    role: gallery
+
+ammonites:
+  - file: "File:Statue of an Ammonite deified King on display at the Jordan Museum.jpg"
+    caption: "Ammonite stone statue of a king or deified king, Iron Age (Jordan Museum, Amman)."
+    role: primary
+
+amorites:
+  - file: "File:Dinastie amorrite, pittura dell'investitura, dal palazzo di zimri-lim a mari, 2000-1800 ac ca., AO 19826.jpg"
+    caption: "The Investiture of Zimri-Lim, wall painting from the palace of the Amorite king of Mari, early 2nd millennium BCE (Musée du Louvre, Paris)."
+    role: primary
+    depicts: [mari]
+
+amulets:
+  - file: "File:Ketef hinom scrolls.JPG"
+    caption: "The silver amulet scrolls from Ketef Hinnom, Jerusalem, inscribed with a form of the priestly blessing, late Iron Age (Israel Museum, Jerusalem)."
+    role: primary
+    depicts: [ketef-hinnom-amulets]
+  - file: "File:Egyptian - Group of 16 Amulets Strung as a Necklace - Walters 481685-1699 - View A.jpg"
+    caption: "Group of Egyptian amulets, restrung in modern times in the order of an amulet necklace found on a mummy (Walters Art Museum, Baltimore)."
+    role: gallery
+
+anat:
+  - file: "File:Anat and Ramesses II.JPG"
+    caption: "Granite statue of Ramesses II seated beside the goddess Anat, Nineteenth Dynasty, 13th century BCE."
+    role: primary
+
+ane-law-collections:
+  - file: "File:P1050763 Louvre code Hammurabi face rwk.JPG"
+    caption: "The stele of the Laws of Hammurabi, basalt, 18th century BCE (Musée du Louvre, Paris)."
+    role: primary
+    depicts: [code-of-hammurabi]
+
+ane-wisdom-literature:
+  - file: "File:Papyrus with the Instruction of Amenemope.jpg"
+    caption: "Papyrus with the Instruction of Amenemope, copied by the scribe Senu, Third Intermediate Period (British Museum, London)."
+    role: primary
+    depicts: [instruction-of-amenemope]
+
+aniconism:
+  - file: "File:Arad Debir 2.jpg"
+    caption: "The cella of the Iron Age shrine at Tel Arad, with a standing stone (massebah) in its niche and two incense altars on the steps, as displayed at the site."
+    role: primary
+
+antiochus-iv:
+  - file: "File:Syria - king Antiochos IV - 175-164 BC - silver tetradrachm - head of Antiochos IV Epiphanes - Zeus Nikephoros - München SMS 01.jpg"
+    caption: "Silver tetradrachm with the portrait of Antiochus IV Epiphanes, 175–164 BCE (Staatliche Münzsammlung, Munich)."
+    role: primary
+
+apkallu-reliefs:
+  - file: "File:A human-headed and winged apkallu holding a pine cone and bucket for religious rituals. From the North-West of Ashurnasipal II at Nimrud, Iraq, 883-859 BCE. Alabaster-bas relief. Museum of the Ancient Orient, Istanbul, Turkey.jpg"
+    caption: "Winged human-headed apkallu with cone and bucket, alabaster relief from the Northwest Palace of Ashurnasirpal II at Nimrud, 883–859 BCE (Ancient Orient Museum, Istanbul)."
+    role: primary
+  - file: "File:Wall relief depicting an eagle-headed and winged man, Apkallu, from Nimrud..JPG"
+    caption: "Eagle-headed winged apkallu holding cone and bucket, wall relief from Nimrud, 9th century BCE."
+    role: gallery
+  - file: "File:Plate 6 fish god (A second series of the monuments of Nineveh) 1853 (cropped).jpg"
+    caption: "Fish-cloaked figure, probably an apkallu, from a Nimrud relief, engraving in Layard's A Second Series of the Monuments of Nineveh (1853)."
+    role: gallery
+
+apology-of-hattusili:
+  - file: "File:Apologie de Hattusili III.jpg"
+    caption: "Clay tablet with the Apology of Ḫattušili III (KUB 1.1), from Ḫattuša, 13th century BCE."
+    role: primary
+
+apotropaic-doorposts-and-thresholds:
+  - file: "File:Human-headed bull lamassu and a winged divine figure, from Khorsabad, Iraq, 710-705 BC. The British Museum.jpg"
+    caption: "Lamassu and winged protective figure that once guarded a gateway of Sargon II's palace at Khorsabad, 710–705 BCE (British Museum, London)."
+    role: primary
+    depicts: [lamassu]
+
+apries:
+  - file: "File:DSCF0842 Louvre sphinx roi Apries N515 rwk.jpg"
+    caption: "Sphinx of Apries (Hophra), Twenty-sixth Dynasty, early 6th century BCE (Musée du Louvre, Paris)."
+    role: primary
+
+aqhat-epic:
+  - file: "File:Danel epic AO17323 img 0160.jpg"
+    caption: "Clay tablet of the Aqhat (Danel) epic from Ugarit, 14th–13th century BCE (Musée du Louvre, Paris)."
+    role: primary
+
+arad:
+  - file: "File:Tel arad fortress.JPG"
+    caption: "Aerial view of the Iron Age Judahite fortress on the upper hill at Tel Arad."
+    role: primary
+  - file: "File:Arad Debir 2.jpg"
+    caption: "The cella of the shrine within the Arad fortress, with a standing stone and incense altars, as displayed at the site."
+    role: gallery
+
+arad-ostraca:
+  - file: "File:Letter, Arad, 6th Century BC, Ink on Pottery, Earliest Reference to Solomon's Temple (42499943804).jpg"
+    caption: "Arad ostracon 18, an ink letter to Eliashib that mentions 'the house of YHWH', early 6th century BCE (Israel Museum, Jerusalem)."
+    role: primary
+  - file: "File:Letters Ink Written on Pottery (43217168051).jpg"
+    caption: "Ink-inscribed ostraca from Arad on display at the Israel Museum, Jerusalem."
+    role: gallery
+
+aramaic-language:
+  - file: "File:JRSLM 300116 Tel Dan Stele 01.jpg"
+    caption: "The Tel Dan Stele, an Old Aramaic royal inscription in basalt, 9th century BCE (Israel Museum, Jerusalem)."
+    role: primary
+    depicts: [tel-dan-stele]
+  - file: "File:Papyrus narrating the story of the wise chancellor Ahiqar. Aramaic script. 5th century BCE. From Elephantine, Egypt. Neues Museum.jpg"
+    caption: "Imperial Aramaic papyrus with the story of Ahiqar, 5th century BCE, from Elephantine (Neues Museum, Berlin)."
+    role: gallery
+    depicts: [ahiqar]
+
+arameans:
+  - file: "File:F1317 Louvre Stele Si Gabbor AO3027 rwk.jpg"
+    caption: "Funerary stele of the priest Si'gabbor with an Aramaic inscription, basalt, 7th century BCE, from Neirab near Aleppo (Musée du Louvre, Paris)."
+    role: primary
+  - file: "File:Aramaean Orthostats from Palace of Tell Halaf, c. 9th Cent. BC.jpg"
+    caption: "Basalt orthostats from the Aramean palace at Tell Halaf (Guzana), c. 9th century BCE (Pergamon Museum, Berlin)."
+    role: gallery
+
+ararat-urartu:
+  - file: "File:Van Fortress From Northwest.JPG"
+    caption: "The citadel rock of Van (Urartian Tušpa), the capital of Urartu, from the northwest."
+    role: primary
+  - file: "File:UrartianCaldron02.jpg"
+    caption: "Urartian bronze cauldron (Museum of Anatolian Civilizations, Ankara)."
+    role: gallery
+
+arch-of-titus:
+  - file: "File:Arch Titus, Forum Romanum, Rome, Italy.jpg"
+    caption: "The Arch of Titus on the Via Sacra, Rome, dedicated after 81 CE."
+    role: primary
+  - file: "File:04 2022 Roma (Arco di Trionfo di Tito- Bassorilievi) FO228685 bis Photo by Paolo Villa.jpg"
+    caption: "Inner relief panel of the arch showing the spoils of Jerusalem, including the temple menorah, carried in the triumph of 71 CE."
+    role: gallery
+
+ark-of-the-covenant:
+  - file: "File:DuraSyn-WB4-Ark and Temple of Dagon.jpg"
+    caption: "The Ark of the Covenant on an ox-cart beside the ruined temple of Dagon (1 Sam 5–6), wall painting from the Dura-Europos synagogue, mid-3rd century CE (National Museum of Damascus)."
+    role: primary
+
+artaxerxes-i:
+  - file: "File:Relief of Artaxerxes I, from his tomb in Naqsh-e Rustam.jpg"
+    caption: "Artaxerxes I on the throne-bearing platform, relief from his rock-cut tomb at Naqsh-e Rostam."
+    role: primary
+  - file: "File:Tomb of Artaxerxes I, Naqsh-e Rustam.jpg"
+    caption: "The rock-cut tomb of Artaxerxes I at Naqsh-e Rostam, near Persepolis."
+    role: gallery
+
+ashdod:
+  - file: "File:Ashdoda.jpg"
+    caption: "The 'Ashdoda', a Philistine terracotta figurine of a seated woman merged with a chair, 12th century BCE, from Tel Ashdod (Israel Museum, Jerusalem)."
+    role: primary
+
+asherah:
+  - file: "File:Hecht Museum, Israel – figurines 010.JPG"
+    caption: "Judahite pillar figurine, terracotta, Iron Age II, a type often linked with Asherah (Hecht Museum, Haifa)."
+    role: primary
+    depicts: [judean-pillar-figurines]
+  - file: "File:Cultic incense stand from Ta'anach.jpg"
+    caption: "Terracotta cult stand from Taanach decorated with religious symbols, 10th century BCE."
+    role: gallery
+    depicts: [taanach-cult-stand]
+  - file: "File:הכד מלכיש - ציור ההקדשה לאלת.jpg"
+    caption: "The Lachish ewer, 13th century BCE, painted with ibexes flanking stylized trees and bearing a Proto-Canaanite dedication to the goddess ʾlt (Elat)."
+    role: gallery
+
+ashkelon:
+  - file: "File:Ashkelon – The Canaanite city gate and ramparts.jpg"
+    caption: "The Middle Bronze Age Canaanite gate and ramparts at Ashkelon, 2000–1550 BCE."
+    role: primary
+
+ashurbanipal:
+  - file: "File:Ashurbanipal, detail of a lion-hunt scene from Nineveh, 7th century BC, the British Museum.jpg"
+    caption: "Ashurbanipal in a lion-hunt relief from the North Palace at Nineveh, 7th century BCE (British Museum, London)."
+    role: primary
+
+assyria:
+  - file: "File:Alabaster Stela of the Asirian King Ashurnasirpal II (884-859 BC) - British Museum.jpg"
+    caption: "Alabaster stele of the Assyrian king Ashurnasirpal II (884–859 BCE) (British Museum, London)."
+    role: primary
+
+assyrian-eponym-list: []   # reason: no free photo of an eponym list or Eponym Chronicle tablet; the only related images are uninscribed limmu stelae from Assur
+
+assyrian-sacred-tree:
+  - file: "File:Ashurnasirpal II performs religious rituals before the sacred tree. From Nimrud, Iraq. 865-860 BCE. British Museum.jpg"
+    caption: "Ashurnasirpal II, shown twice, before the sacred tree beneath the winged disk, flanked by winged apkallu, throne-room relief from Nimrud, 865–860 BCE (British Museum, London)."
+    role: primary
+    depicts: [apkallu-reliefs]
+
+assyrian-siege-warfare:
+  - file: "File:Assyrian siege.jpg"
+    caption: "Assyrian relief of troops attacking a besieged city with a battering ram on a siege ramp while archers exchange fire."
+    role: primary
+  - file: "File:Capture of Lachish - ramps and battle engines.jpg"
+    caption: "Assault on Lachish with siege ramps and battering engines, relief from Sennacherib's palace at Nineveh, c. 700 BCE (British Museum, London)."
+    role: gallery
+    depicts: [lachish-reliefs]
+
+astarte:
+  - file: "File:Astarte - 7th cent AD - Museo Arqueológico de Sevilla-2.jpg"
+    caption: "Bronze figurine of Astarte, Phoenician, 7th century BCE (Archaeological Museum of Seville)."
+    role: primary
+
+astrology:
+  - file: "File:Venus Tablet of Ammisaduqa.jpg"
+    caption: "The Venus Tablet of Ammisaduqa (Enuma Anu Enlil tablet 63), Neo-Assyrian copy of observations of Venus (British Museum, London)."
+    role: primary
+
+atrahasis:
+  - file: "File:Babylon Story of the Flood, Tablet containing the Epic of Atrahasis, 1635 BCE, probably from Sipar. Currently at the British Museum.jpg"
+    caption: "Old Babylonian tablet of the Atrahasis epic, recounting the flood, probably from Sippar, 17th century BCE (British Museum, London)."
+    role: primary
+
+avaris:
+  - file: "File:Tell el-Daba.jpg"
+    caption: "A small mound at Tell el-Dabʿa (Avaris) in the eastern Nile Delta, excavated by the Austrian Archaeological Institute."
+    role: primary
+  - file: "File:Reconstructed Minoan Fresco Avaris.jpg"
+    caption: "Modern reconstruction of a Minoan-style fresco with bulls from Avaris (Archaeological Museum of Heraklion)."
+    role: gallery
+
+azekah:
+  - file: "File:TEL AZEKA A.jpg"
+    caption: "Tel ʿAzeqa (Azekah) above the Elah Valley in the Shephelah."
+    role: primary
+
+baal:
+  - file: "File:Baal Ugarit Louvre AO17329.jpg"
+    caption: "Bronze figure of Baal with raised arm, 14th–12th century BCE, from Ugarit (Musée du Louvre, Paris)."
+    role: primary
+
+baal-cycle:
+  - file: "File:P1180250 Louvre Langue ougaritique Tablette poeme mythologique AO16641 et 16642 rwk.jpg"
+    caption: "Ugaritic tablet of the Baal Cycle narrating Baal and Mot, 14th–13th century BCE (Musée du Louvre, Paris)."
+    role: primary
+
+baal-with-thunderbolt:
+  - file: "File:Stèle de Baal au foudre - Musée du Louvre Antiquités orientales AO 15775.jpg"
+    caption: "The Baal with Thunderbolt stele, limestone, from Ugarit (Musée du Louvre, Paris)."
+    role: primary
+
+babylon:
+  - file: "File:Ancient Remains in Babylon.jpg"
+    caption: "Excavated brick remains in the ancient city of Babylon, Iraq."
+    role: primary
+
+babylonia:
+  - file: "File:Striding lions - Processional Way of Babylon - Pergamonmuseum - Berlin - Germany 2017.jpg"
+    caption: "Glazed-brick striding lions from the Processional Way of Neo-Babylonian Babylon, 6th century BCE (Pergamon Museum, Berlin)."
+    role: primary
+
+babylonian-chronicles:
+  - file: "File:ABC 05 Early Years of Nebuchadnezzar chronicle.jpg"
+    caption: "The Babylonian chronicle of the early years of Nebuchadnezzar II (ABC 5), clay tablet (British Museum, London)."
+    role: primary
+    depicts: [nebuchadnezzar-chronicle]
+
+babylonian-exile:
+  - file: "File:Clay tablet. The Akkadian cuneiform inscription lists certain rations and mentions the name of Jeconiah (Jehoiachin), King of Judah and the Babylonian captivity. From Babylon, Iraq. C. 580 BCE. Vorderasiatisches Museum, Berlin.jpg"
+    caption: "Ration tablet from Babylon naming Jehoiachin, king of Judah, c. 580 BCE (Vorderasiatisches Museum, Berlin)."
+    role: primary
+    depicts: [jehoiachin-ration-tablets]
+  - file: "File:Al-Yahudu Tablets3 (cropped).jpg"
+    caption: "Tablet from the Āl-Yāhūdu archive documenting Judean deportees in Babylonia (Bible Lands Museum, Jerusalem)."
+    role: gallery
+
+babylonian-map-of-the-world:
+  - file: "File:Map of the World from Sippar, Iraq, 6th century BCE. British Museum.jpg"
+    caption: "The Babylonian Map of the World, clay tablet, probably from Sippar, 6th century BCE (British Museum, London)."
+    role: primary
+
+babylonian-theodicy: []   # reason: no freely licensed image of a Babylonian Theodicy manuscript found
+
+bar-rakib-and-panamuwa-inscriptions:
+  - file: "File:Pergamon Museum King Barrakib and scribe from Sam'al aka Zincirli 7980.jpg"
+    caption: "Basalt orthostat of King Bar-Rakib enthroned before his scribe, with a short inscription, Samʾal (Zincirli), c. 730 BCE (Pergamon Museum, Berlin)."
+    role: primary
+  - file: "File:Panamuwa II torso inscription (KAI 215).jpg"
+    caption: "Drawing of Bar-Rakib's memorial inscription for Panamuwa II (KAI 215), from Ausgrabungen in Sendschirli, vol. 1."
+    role: gallery
+
+battle-of-carchemish:
+  - file: "File:The cuneiform inscription highlights the conquest of Jerusalem and the surrender of Jehoiakim, king of Judah, in 597 BCE. From Babylon, Iraq.jpg"
+    caption: "The Neo-Babylonian chronicle for 605–594 BCE, which opens with Nebuchadnezzar's defeat of the Egyptian army at Carchemish (British Museum, London)."
+    role: primary
+    depicts: [nebuchadnezzar-chronicle]
+  - file: "File:The so-called \"Chronicle of Nabopolassar\". The cuneiform inscriptions on this clay tablet narrate the chronicle of the years 608-605 BCE. 550-400 BCE. From Iraq.jpg"
+    caption: "The so-called Chronicle of Nabopolassar, a clay tablet narrating the years 608–605 BCE."
+    role: gallery
+
+battle-of-qarqar:
+  - file: "File:Kurkh Monolith.jpg"
+    caption: "The Kurkh Monolith of Shalmaneser III, whose inscription describes the battle of Qarqar in 853 BCE (British Museum, London)."
+    role: primary
+    depicts: [kurkh-monoliths]
+
+beersheba:
+  - file: "File:Tel Be'er Sheva Overview 2007041.JPG"
+    caption: "Excavated Iron Age town at Tel Beersheba, looking south."
+    role: primary
+  - file: "File:Tel Be'er Sheva Altar 2007041.JPG"
+    caption: "Reconstruction of the horned altar from Tel Beersheba, displayed at the site."
+    role: gallery
+    depicts: [horned-altars]
+
+behemoth:
+  - file: "File:Edfu35.JPG"
+    caption: "Relief of Horus spearing Seth in the form of a hippopotamus, Ptolemaic temple of Horus at Edfu."
+    role: primary
+
+behistun-inscription:
+  - file: "File:کتیبه داریوش ( بیستون(.jpg"
+    caption: "The Behistun relief of Darius I with the captive rebel kings, above the trilingual inscription, c. 520 BCE (Bisotun, Iran)."
+    role: primary
+  - file: "File:Behistun relief Darius and Gaumata.jpg"
+    caption: "Detail of the Behistun relief: Darius I with his foot on the prostrate Gaumata."
+    role: gallery
+
+belshazzar:
+  - file: "File:Nabonidus's preoccupation with the moon god Sin led to building work outside Babylon. This clay cylinder records the restoration of Sin's ziggurat at Ur, and also asks him to protect Nabonidus and his son, Belshazzar. From Ur, Iraq.jpg"
+    caption: "Clay cylinder of Nabonidus from Ur recording the restoration of Sin's ziggurat and praying for his son Belshazzar, 6th century BCE (British Museum, London)."
+    role: primary
+    depicts: [nabonidus-cylinders]
+
+ben-hadad:
+  - file: "File:Melqart or Bir Hadad stele.jpg"
+    caption: "The Melqart stele, dedicated to Melqart by Bar-Hadad, king of Aram, basalt, 9th–8th century BCE."
+    role: primary
+    depicts: [melqart-stele]
+  - file: "File:Stèle de Zakkur - Musée du Louvre Antiquités orientales AO 8185.jpg"
+    caption: "The Zakkur stele, which names Bar-Hadad son of Hazael as leader of the coalition against Hamath, c. 800 BCE (Musée du Louvre, Paris)."
+    role: gallery
+    depicts: [zakkur-stele]
+
+ben-sira:
+  - file: "File:Masada casemate room 1109.jpg"
+    caption: "Casemate room 1109 at Masada, where the Hebrew Ben Sira scroll (MasSir) was found."
+    role: primary
+
+bench-tombs:
+  - file: "File:Burial cave. Ketef Hinnom. Israel Museum, Jerusalem.JPG"
+    caption: "Reconstruction of an Iron Age bench tomb from Ketef Hinnom with its funerary goods, 7th–6th century BCE (Israel Museum, Jerusalem)."
+    role: primary

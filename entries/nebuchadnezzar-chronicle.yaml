@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: nebuchadnezzar-chronicle
+title: Chronicle of the Early Years of Nebuchadnezzar (ABC 5)
+aliases: [ABC 5, BM 21946, Jerusalem Chronicle]
+type: artifact
+cultures: [babylonian]
+scope: >-
+  The Babylonian chronicle tablet covering the first years of Nebuchadnezzar II (605-594 BCE),
+  including the battle of Carchemish and the capture of "the city of Judah" on 2 Adar of his
+  seventh year (March 597). It provides the most precise extra-biblical date in the history
+  of Judah.
+passages:
+- ref: 2Kgs 24:10-17
+  rel: event
+  note: Capture of Jerusalem (March 597), king seized, 'a king of his own choice' appointed
+- ref: 2Chr 36:10
+  rel: event
+  note: Jehoiachin taken to Babylon; Zedekiah made king
+- ref: Jer 46:2
+  rel: event
+  note: >-
+    Egyptian army routed at Carchemish in Nabopolassar's 21st year (605), led by crown prince
+    Nebuchadnezzar
+- ref: Jer 47:5-7
+  rel: event
+  note: Ashkelon captured and sacked (Kislev 604)
+- ref: 2Kgs 24:1
+  rel: event
+  note: Costly Babylonian-Egyptian clash of 601, likely context of Jehoiakim's revolt
+- ref: Dan 1:1-2
+  rel: event
+  disputed: true
+  note: 605 campaign in Hatti, sometimes linked to Daniel's 'third year of Jehoiakim' siege
+related: [babylonian-chronicles, nebuchadnezzar-ii, jehoiachin, battle-of-carchemish, fall-of-jerusalem-587,
+  jehoiachin-ration-tablets, ashkelon]
+location:
+  institution: British Museum, London
+  accession: null
+media:
+- id: babylonian-chronicles
+  role: gallery
+- id: battle-of-carchemish
+  role: gallery
+external:
+  wikipedia: Nebuchadnezzar Chronicle
+  wikidata: Q20426837
+editorial:
+  author_notes:
+  - >-
+    Published by Wiseman (1956). Neither Jehoiachin nor Zedekiah is named; the city is 'the
+    city of Judah' (URU ia-a-ḫu-du).
+  - >-
+    Use it for the chronology of 597 (Babylonian year 7, cf. Jer 52:28) against 2 Kgs 24:12
+    ('eighth year'), and for accession-year reckoning.
+  - >-
+    The chronicle does not mention a siege of Jerusalem in 605, so Dan 1:1-2 remains historically
+    problematic; present this neutrally.
+  - The tablet's own date of writing is uncertain; do not assign it a firm date.
+  sources_to_check:
+  - A. K. Grayson, Assyrian and Babylonian Chronicles (1975), Chronicle 5
+  - D. J. Wiseman, Chronicles of Chaldaean Kings (1956)
+  image_query: Nebuchadnezzar Chronicle BM 21946 British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Jer 46:2 note: Carchemish dated to Nabopolassar's
+    21st year, not Nebuchadnezzar's accession year
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

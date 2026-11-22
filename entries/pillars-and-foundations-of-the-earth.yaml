@@ -1,0 +1,71 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: pillars-and-foundations-of-the-earth
+title: Pillars and Foundations of the Earth
+type: concept
+cultures: [ane]
+scope: >-
+  Biblical and ancient Near Eastern language picturing the earth (and sometimes the sky) as
+  a built structure resting on pillars, foundations, and bases, which God established and
+  can shake. The entry covers architectural metaphors for creation and their cosmological
+  assumptions.
+passages:
+- ref: 1Sam 2:8
+  rel: concept
+  note: '''The pillars of the earth are the LORD''s; on them he has set the world'''
+- ref: Job 9:6
+  rel: concept
+  note: God shakes the earth so that its pillars tremble
+- ref: Job 26:11
+  rel: concept
+  note: The pillars of heaven tremble at God's rebuke
+- ref: Job 38:4-6
+  rel: imagery
+  note: 'Earth founded like a building: measurements, line, bases, cornerstone'
+- ref: Ps 75:3
+  rel: concept
+  note: God keeps the earth's pillars steady; MT 75:4
+- ref: Ps 104:5
+  rel: concept
+  note: Earth set on its foundations, never to be shaken
+- ref: Prov 8:29
+  rel: concept
+  note: God marks out the foundations of the earth
+- ref: Ps 18:7, 15
+  rel: concept
+  note: Foundations of the mountains and of the world shaken and laid bare; MT 18:8, 16
+- ref: Isa 24:18
+  rel: concept
+  note: The foundations of the earth tremble in judgment
+- ref: Mic 6:2
+  rel: concept
+  note: '''Enduring foundations of the earth'' summoned as witnesses'
+related: [cosmology, cosmic-mountain, temple-building-accounts, waters-above-and-below, creation-accounts,
+  egyptian-cosmology]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The imagery draws on building practice (foundation-laying, measuring line, cornerstone).
+    Note the overlap with temple-building language and the "temple as cosmos" idea.
+  - >-
+    Egyptian sources picture the sky held up by four supports or by Shu. Mesopotamian sources
+    speak of the "foundations" and "bonds" of heaven and earth. Present these as comparable
+    images, not one shared doctrine.
+  - >-
+    Job 26:7 ("hangs the earth upon nothing") stands beside pillar language in the same book.
+    Use this to caution against reconstructing a single fixed model.
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

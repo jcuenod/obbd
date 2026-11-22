@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: tell-tayinat
+file: tell-tayinat.jpg
+title: Tayinat Flyover (Photo credit Murat Akar).jpg
+caption: >-
+  Aerial view of the mound of Tell Tayinat (ancient Kunulua) in the Amuq plain, southern Turkey.
+description: Tayinat Flyover
+creator: Tayinat Archaeological Project - credit Murat Akar
+credit_line: Tayinat Archaeological Project
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Tayinat Archaeological Project - credit Murat Akar, CC BY-SA 4.0, via Wikimedia
+  Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tayinat_Flyover_(Photo_credit_Murat_Akar).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/26/Tayinat_Flyover_%28Photo_credit_Murat_Akar%29.jpg
+  sha1: 4b3f4e01d6c1df665303e1aa4101371013bfac73
+  original_size: [6000, 3989]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1063 px
+size: [1600, 1063]
+depicts: [tell-tayinat]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

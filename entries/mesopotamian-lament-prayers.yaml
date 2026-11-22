@@ -1,0 +1,80 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: mesopotamian-lament-prayers
+title: Mesopotamian Prayers of Lament (šuilla, eršaḫunga)
+aliases: [Šuila prayers, Prayers of the lifted hand, Eršaḫunga, Penitential psalms (Mesopotamian)]
+type: text
+cultures: [babylonian, assyrian, sumerian]
+scope: >-
+  Individual prayers of complaint, petition, and penitence from Mesopotamia, above all the
+  Akkadian šuilla ("raising of the hand") incantation-prayers and the bilingual eršaḫunga
+  ("lament to appease the heart"). They are the main comparative corpus for the biblical individual
+  and penitential laments.
+passages:
+- ref: Ps 6
+  rel: form
+  note: 'Lament of the sick: plea that divine anger cease'
+- ref: Ps 13:1-2
+  rel: language
+  note: '''How long?'' (Akk. adi mati) formula of lament (MT 13:2-3)'
+- ref: Ps 38
+  rel: form
+  note: Penitential lament linking illness to sin
+- ref: Ps 51
+  rel: form
+  note: Penitential prayer confessing sin and seeking cleansing
+- ref: Ps 130
+  rel: form
+  note: Penitential plea from the depths for forgiveness
+- ref: Ps 143:2
+  rel: concept
+  note: No one living is righteous before the deity
+- ref: Ps 19:12
+  rel: concept
+  note: Forgiveness sought for hidden or unknown faults (MT 19:13)
+- ref: Ps 141:2
+  rel: practice
+  note: Lifting of hands in prayer; šu-ila means 'raised hand'
+- ref: Ps 88
+  rel: form
+  note: Lament from the edge of death
+related: [sumerian-man-and-his-god, ludlul-bel-nemeqi, prayer-postures, city-laments, ishtar,
+  prostration-and-obeisance]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Distinguish šuilla (incantation-prayers recited by the āšipu within rituals), eršaḫunga
+    (penitential, Sumerian with Akkadian glosses), dingiršadabba, and the communal balag/eršemma
+    laments.
+  - >-
+    Classic comparative study: Widengren (1937); see also Mayer (1976) on the form of the
+    'Gebetsbeschwörungen' and Lenzi (ed. 2011) for an introduction with translations.
+  - >-
+    Key differences: Mesopotamian prayers are embedded in ritual and magic, address many deities,
+    and rely on the personal god's intercession; motifs such as unknown sin and 'how long?'
+    are shared.
+  - >-
+    The 'Prayer of Lamentation to Ishtar' (ANET 383-385) is the most-quoted example and can
+    anchor the article.
+  sources_to_check:
+  - ANET 383-385
+  - 'A. Lenzi (ed.), Reading Akkadian Prayers and Hymns: An Introduction (2011)'
+  - >-
+    G. Widengren, The Accadian and Hebrew Psalms of Lamentation as Religious Documents (1937)
+  - >-
+    W. Mayer, Untersuchungen zur Formensprache der babylonischen 'Gebetsbeschwörungen' (1976)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

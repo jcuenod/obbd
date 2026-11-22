@@ -1,0 +1,67 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: sumerian-man-and-his-god
+title: Man and His God (Sumerian "Job")
+aliases: [A Man and His God, Sumerian Job]
+type: text
+cultures: [sumerian]
+date:
+  from: -1800
+  to: -1800
+  circa: true
+  display: c. 1800 BCE
+scope: >-
+  A Sumerian poem in which a young man afflicted by illness and social rejection laments to
+  his personal god, confesses his sins, and is restored. It is the earliest known treatment
+  of the righteous-sufferer theme.
+passages:
+- ref: Job 19:13-19
+  rel: parallel
+  note: Sufferer estranged from friends and kin
+- ref: Job 14:4
+  rel: concept
+  note: '''Never has a sinless child been born to its mother''; no one is clean'
+- ref: Ps 51:5
+  rel: concept
+  note: Sinful from birth (MT 51:7)
+- ref: Ps 32:3-5
+  rel: concept
+  note: Confession of sin leads to the god's turning and healing
+- ref: Ps 6
+  rel: form
+  note: Individual lament of the sick sufferer pleading with the deity
+- ref: Job 42:10-12
+  rel: parallel
+  note: God hears the plea and restores the sufferer
+related: [ludlul-bel-nemeqi, babylonian-theodicy, mesopotamian-lament-prayers, ane-wisdom-literature]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Kramer's 1955 publication ('Man and His God: A Sumerian Variation on the Job Motif', VTSup
+    3) introduced it to biblical studies; the standard English translation is Klein's in COS.
+  - >-
+    Unlike Job, the sufferer assumes his own guilt and is restored after confession; it is
+    a didactic lament-and-thanksgiving, closer to the penitential psalms than to Job's protest
+    of innocence.
+  - >-
+    Old Babylonian copies (Nippur); composition perhaps Ur III. The 'no sinless child' line
+    is the most quoted parallel.
+  - >-
+    Do not confuse it with the Akkadian Old Babylonian 'Dialogue between a Man and His God',
+    a different text (which has its own Wikipedia article).
+  sources_to_check: [COS 1.179, ANET 589-591]
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

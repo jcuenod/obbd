@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: altars
+file: altars.jpg
+title: Tel arad fortress altar1956.jpg
+caption: >-
+  The sacrificial altar of fieldstones in the courtyard of the Iron Age shrine in the Arad
+  fortress, as displayed at the site.
+description: Tel Arad altar in temple of upper fortress
+creator: יעקב
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: יעקב, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tel_arad_fortress_altar1956.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/d/dc/Tel_arad_fortress_altar1956.jpg
+  sha1: 7e61eb30f4044bf1eb02f8955cdf085f07310721
+  original_size: [5184, 3888]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [altars]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

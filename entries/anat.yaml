@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: anat
+title: Anat
+aliases: [ʿAnat, ʿAnatu, Anath]
+type: deity
+cultures: [ugaritic, egyptian, jewish]
+scope: >-
+  Anat, the violent warrior goddess of Ugaritic myth, sister and ally of Baal, also venerated
+  in New Kingdom Egypt and still attested among the Judeans of Persian-period Elephantine.
+  In the Hebrew Bible she survives only in personal and place names.
+passages:
+- ref: Judg 3:31; 5:6
+  rel: language
+  note: Shamgar 'son of Anath', perhaps a warrior epithet
+- ref: Jer 1:1
+  rel: language
+  note: Anathoth, Jeremiah's home town
+- ref: Josh 21:18
+  rel: language
+  note: Anathoth as a Levitical city
+- ref: Judg 1:33
+  rel: language
+  note: Beth-anath, an unconquered town in Naphtali
+- ref: Exod 32:20
+  rel: parallel
+  disputed: true
+  note: Calf burned, ground and scattered; cf. Anat's destruction of Mot (Loewenstamm)
+- ref: Jer 7:18
+  rel: concept
+  disputed: true
+  note: Anat proposed as the Queen of Heaven
+- ref: Hos 14:8
+  rel: language
+  disputed: true
+  note: Emendation 'I am his Anat and his Asherah' disputed (MT 14:9)
+related: [baal-cycle, aqhat-epic, baal, mot, astarte, queen-of-heaven, elephantine-papyri]
+media:
+- id: anat
+  role: primary
+external:
+  wikipedia: Anat
+  wikidata: Q487290
+editorial:
+  author_notes:
+  - >-
+    Summarise her portrayal in the Baal Cycle (slaughter in KTU 1.3 II, mourning and burial
+    of Baal, destruction of Mot in KTU 1.6 II) and in Aqhat; her epithet btlt ("maiden") concerns
+    status, not chastity in a later sense.
+  - >-
+    At Elephantine the temple accounts name Anat-Yahu and Anat-Bethel; explain the debate
+    over whether these are consort goddesses or hypostases.
+  - >-
+    Note her popularity in Ramesside Egypt as a warrior goddess (e.g. Bint-Anat, Ramesses
+    II's daughter).
+  - >-
+    Avoid portraying Anat as a love or fertility goddess paired sexually with Baal as a settled
+    fact; the evidence is contested.
+  sources_to_check:
+  - KTU 1.3
+  - KTU 1.6
+  - DDD, s.v. "Anat"
+  - J. Day, Yahweh and the Gods and Goddesses of Canaan (JSOTSup 265, 2000)
+  image_query: Anat Egyptian stela
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

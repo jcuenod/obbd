@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: byblos-2
+file: byblos-2.jpg
+title: ByblosObeliskTemple.jpg
+caption: The Obelisk Temple at Byblos, Middle Bronze Age.
+description: Byblos, Lebanon - Obelisk Temple
+creator: Heretiq
+credit_line: Own work
+license:
+  id: CC-BY-SA-2.5
+  name: CC BY-SA 2.5
+  url: https://creativecommons.org/licenses/by-sa/2.5
+attribution: Heretiq, CC BY-SA 2.5, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:ByblosObeliskTemple.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/8/86/ByblosObeliskTemple.jpg
+  sha1: 3f60c036310078b8ff2266e136a754f6b4398cd8
+  original_size: [2048, 1536]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [byblos]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

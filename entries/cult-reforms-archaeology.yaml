@@ -1,0 +1,80 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: cult-reforms-archaeology
+title: 'Hezekiah''s and Josiah''s Cult Reforms: Archaeological Evidence'
+aliases: [Hezekiah's reform, Josiah's reform, Cult centralisation]
+type: concept
+cultures: [judahite]
+scope: >-
+  The archaeological evidence claimed for and against the cult reforms of Hezekiah and Josiah
+  reported in Kings and Chronicles, especially at Arad, Beersheba, Lachish, and Tel Moẓa.
+  Covers the persistence of household cult.
+passages:
+- ref: 2Kgs 18:3-6
+  rel: event
+  disputed: true
+  note: Hezekiah removes high places, pillars, the Asherah, and Nehushtan
+- ref: 2Kgs 18:22
+  rel: event
+  note: Rabshakeh cites Hezekiah's removal of high places and altars
+- ref: 2Chr 29-31
+  rel: event
+  note: Chronicler's expanded account of Hezekiah's reform
+- ref: 2Kgs 23:4-20
+  rel: event
+  disputed: true
+  note: Josiah's purge of the temple, high places, and Bethel
+- ref: 2Kgs 23:8
+  rel: realia
+  note: High places defiled 'from Geba to Beersheba'; high places of the gates
+- ref: 2Chr 34:3-7
+  rel: event
+  note: Chronicles dates Josiah's purge to his 12th year
+- ref: Deut 12:2-7
+  rel: concept
+  note: Centralisation law underlying the reform accounts
+- ref: 2Kgs 10:27
+  rel: practice
+  disputed: true
+  note: Temple of Baal made a latrine; cf. Lachish gate-shrine toilet
+related: [arad, beersheba, lachish, horned-altars, high-places, josiah, hezekiah, tel-motza-temple]
+media:
+- id: cult-reforms-archaeology
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    At Arad, Herzog dates the dismantling of the shrine to the late 8th century, against Aharoni's
+    split between Hezekiah (altar) and Josiah (shrine). The stratigraphy remains disputed.
+    Residue analysis (2020) identified frankincense and cannabis on its incense altars.
+  - >-
+    The Beersheba horned altar was found dismantled, with its stones reused in a storehouse
+    wall. Aharoni linked this to Hezekiah, but the timing is debated.
+  - >-
+    The Lachish Level III gate shrine had cut altar horns and a stone toilet. The excavators
+    read it as reform-era desecration (compare 2 Kgs 10:27), but this is contested.
+  - >-
+    Some scholars (e.g., Na'aman; Fried) question whether the archaeology supports the reform
+    reports. Judean pillar figurines and the Tel Moẓa temple show continuing cult practice.
+    Present the evidence as ambiguous.
+  image_query: Beersheba horned altar
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: 2Kgs 18:3-6, 2Kgs 23:4-20 and 2Kgs 10:27 marked
+    disputed
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

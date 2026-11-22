@@ -1,0 +1,87 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ane-law-collections
+title: Ancient Near Eastern Law Collections
+aliases: [Cuneiform law, Ancient Near Eastern law codes]
+type: concept
+cultures: [sumerian, akkadian, assyrian, hittite, babylonian, hebrew]
+scope: >-
+  Overview of the cuneiform law collections (Ur-Nammu, Lipit-Ishtar, Eshnunna, Hammurabi,
+  the Middle Assyrian and Hittite laws, the Neo-Babylonian laws) and their relation to the
+  biblical law corpora: the Covenant Code, the Holiness Code, and the Deuteronomic Code. The
+  entry is the hub for questions of genre, form, purpose, and literary dependence; individual
+  collections and topics have their own entries.
+passages:
+- ref: Exod 20:22-23:33
+  rel: form
+  note: 'Covenant Code: casuistic and apodictic law framed by altar and cult rules'
+- ref: Exod 21:2-22:17
+  rel: form
+  note: Casuistic 'if a man...' laws closest in form to cuneiform collections (MT 21:2-22:16)
+- ref: Exod 22:18-20
+  rel: form
+  note: Apodictic death-penalty prohibitions (MT 22:17-19)
+- ref: Lev 17-26
+  rel: form
+  note: Holiness Code, with concluding blessings and curses
+- ref: Deut 12-26
+  rel: form
+  note: Deuteronomic law corpus, revising and expanding the Covenant Code
+- ref: Deut 28
+  rel: form
+  note: Blessings and curses closing a law corpus; cf. LH epilogue curses
+- ref: Deut 4:5-8
+  rel: concept
+  note: Israel's laws as wisdom admired by the nations; cf. royal claims in LH prologue/epilogue
+- ref: Ezra 7:25-26
+  rel: practice
+  note: Persian authorisation of 'the law of your God and the law of the king'
+related: [code-of-hammurabi, laws-of-ur-nammu, laws-of-lipit-ishtar, laws-of-eshnunna, middle-assyrian-laws,
+  hittite-laws, covenant-and-treaty-form, persian-imperial-authorization]
+media:
+- id: ane-law-collections
+  role: primary
+external:
+  wikipedia: Cuneiform law
+  wikidata: Q844410
+editorial:
+  author_notes:
+  - >-
+    Give the corpus and approximate dates. Ur-Nammu (ca. 2100), Lipit-Ishtar (ca. 1930), Eshnunna
+    (ca. 1800), Hammurabi (ca. 1750), Hittite Laws (Old Hittite with later copies), Middle
+    Assyrian Laws (tablets of the 11th century), Neo-Babylonian Laws (7th century).
+  - >-
+    Explain the debate over purpose. Bottéro and Kraus read the collections as scholarly or
+    royal-apologetic texts, not statutory legislation, since court records almost never cite
+    them. Westbrook reads them as reference works within a shared ANE 'common law'. Most scholars
+    now agree they are not codes in the modern sense, so 'law collections' is the preferred
+    term.
+  - >-
+    Alt's casuistic/apodictic distinction is still useful as description. His claim that apodictic
+    law is uniquely Israelite is no longer accepted.
+  - >-
+    Present the current dependence debate, especially D. P. Wright's thesis that the Covenant
+    Code draws directly on Hammurabi (Inventing God's Law, 2009), and Levinson's model of
+    Deuteronomy as a revision of the Covenant Code.
+  - >-
+    Note distinctive biblical features: law as divine speech set in narrative, motive clauses,
+    cultic and civil law mixed together, and the whole people addressed rather than judges.
+  sources_to_check:
+  - Roth, Law Collections from Mesopotamia and Asia Minor (SBLWAW 6, 2nd ed. 1997)
+  - ANET 159-198
+  - 'Hoffner, The Laws of the Hittites: A Critical Edition (1997)'
+  - Westbrook (ed.), A History of Ancient Near Eastern Law (HdO 72, 2003)
+  image_query: Code of Hammurabi stele Louvre
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

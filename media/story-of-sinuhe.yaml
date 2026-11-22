@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: story-of-sinuhe
+file: story-of-sinuhe.jpg
+title: Papyrus Berlin 3022 (A-I).jpg
+caption: >-
+  Papyrus Berlin 3022, a Middle Kingdom hieratic manuscript of the Story of Sinuhe (Ägyptisches
+  Museum und Papyrussammlung, Berlin).
+description: Hieratic papyrus (Papyrus Berlin 3022) with the "Story of Sinuhe"
+creator: Lisa Baylis (Scan)
+credit_line: https://id.smb.museum/object/779872/
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Lisa Baylis (Scan), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Papyrus_Berlin_3022_(A-I).jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/0/0b/Papyrus_Berlin_3022_%28A-I%29.jpg
+  sha1: 27c67584729289c5970a65a9f171077aadad1f35
+  original_size: [2074, 1181]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×911 px
+size: [1600, 911]
+depicts: [story-of-sinuhe]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

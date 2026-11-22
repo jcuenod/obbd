@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: mount-ebal-altar
+file: mount-ebal-altar.jpg
+title: Joshua's Altar 20.jpg
+caption: >-
+  The Iron Age I stone structure on Mount Ebal (el-Burnat) interpreted by Adam Zertal as an
+  altar.
+description: מזבח יהושע
+creator: Hoshvilim
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Hoshvilim, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Joshua%27s_Altar_20.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/b/b1/Joshua%27s_Altar_20.jpg
+  sha1: a8e3aa18d9c5263a08a4610e9a6f97b6bc6556df
+  original_size: [4000, 3000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [mount-ebal-altar]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

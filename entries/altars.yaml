@@ -1,0 +1,84 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: altars
+title: Altars
+type: realia
+cultures: [hebrew, canaanite]
+scope: >-
+  Altars for sacrifice and offering in Israel and the Levant: earthen and fieldstone altars,
+  bronze-plated altars, the large stepped temple altar of Ezekiel's vision, and archaeological
+  examples. The entry covers the biblical laws on construction and the contested history of
+  altar legislation.
+passages:
+- ref: Exod 20:24-26
+  rel: realia
+  note: Altar of earth or unhewn stone, without steps
+- ref: Exod 27:1-8
+  rel: realia
+  note: Tabernacle altar of acacia overlaid with bronze, five cubits square
+- ref: Deut 27:5-6
+  rel: realia
+  note: Altar of unhewn stones on Mount Ebal
+- ref: Josh 8:30-31
+  rel: realia
+  note: Joshua's altar of unhewn stones on Ebal
+- ref: Josh 22:10-34
+  rel: practice
+  note: Transjordanian altar as a witness, not for sacrifice
+- ref: 1Sam 14:33-35
+  rel: practice
+  note: A great stone used as an improvised altar
+- ref: 1Kgs 18:30-32
+  rel: practice
+  note: Elijah repairs the altar with twelve stones
+- ref: 1Kgs 8:64
+  rel: realia
+  note: Bronze altar too small for the dedication offerings
+- ref: 2Kgs 16:10-16
+  rel: realia
+  note: Ahaz copies an altar seen at Damascus
+- ref: 2Chr 4:1
+  rel: realia
+  note: Bronze altar twenty cubits square and ten high
+- ref: Ezek 43:13-17
+  rel: realia
+  note: Stepped altar with 'bosom of the earth' base and 'altar hearth' (harʾēl/ʾărîʾēl)
+related: [horned-altars, incense-and-incense-altars, mount-ebal-altar, arad, tel-motza-temple,
+  sacrifice, high-places, beersheba]
+media:
+- id: altars
+  role: primary
+- id: altars-2
+  role: gallery
+external:
+  wikipedia: Altar of Burnt Offering
+  wikidata: Q1981145
+editorial:
+  author_notes:
+  - >-
+    The Arad sanctuary altar (fieldstones and earth, about five cubits square) is often compared
+    with Exod 20:25 and 27:1. The Beersheba horned altar of dressed stones contradicts Exod
+    20:25. Use both to discuss the gap between law and practice.
+  - >-
+    The Mount Ebal structure (Zertal) is interpreted by some as an early Israelite altar and
+    by others as a watchtower or farmstead. Present it as contested.
+  - >-
+    Ezekiel's harʾēl/ʾărîʾēl has been compared to the Mesha Stele's ʾrʾl (line 12) and to
+    Akkadian terms. These links are debated.
+  - >-
+    The relationship between the altar law of Exod 20:24 ("in every place") and Deuteronomic
+    centralization is a classic crux of pentateuchal criticism. Give it brief treatment.
+  image_query: Arad sanctuary altar
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

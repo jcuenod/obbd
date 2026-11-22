@@ -1,0 +1,75 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: masada
+title: Masada
+aliases: [Meṣada]
+type: site
+cultures: [jewish, roman]
+scope: >-
+  The isolated mesa-top fortress by the Dead Sea, fortified by the Hasmoneans and rebuilt
+  by Herod, the last stronghold of the Jewish revolt against Rome. Covers the Herodian palaces,
+  the Roman siege works, the scroll finds and the modern myth surrounding the site.
+passages:
+- ref: 1Sam 24:22
+  rel: language
+  note: David goes up to the 'stronghold' (mĕṣûdâ), the word behind the name (MT 24:23)
+- ref: Sir 39:27-44:17
+  rel: attests
+  note: Hebrew Ben Sira scroll from Masada
+- ref: Ezek 35:11-38:14
+  rel: attests
+  note: Ezekiel scroll from Masada, including the dry bones vision
+- ref: Ps 81-85
+  rel: attests
+  note: Psalms scroll from Masada, close to the later Masoretic text
+related: [herod-the-great, josephus, dead-sea-scrolls, judaea-capta-coins, synagogues, qumran]
+media:
+- id: masada
+  role: primary
+- id: masada-2
+  role: gallery
+external:
+  wikipedia: Masada
+  wikidata: Q186312
+  pleiades: '687968'
+editorial:
+  author_notes:
+  - >-
+    Josephus credits the first fortification to 'Jonathan the high priest'. Herod built the
+    Northern Palace, the Western Palace, storehouses, a bathhouse and cisterns. Yadin excavated
+    in 1963-65 and Netzer published the architecture.
+  - >-
+    The Roman siege by Flavius Silva (73 or 74 CE) left the best-preserved circumvallation,
+    camps and siege ramp in the Roman world. The mass suicide account (Josephus, War 7) is
+    debated. Yadin's reading of the 'lots' ostraca and the nationalist 'Masada myth' (Ben-Yehuda)
+    deserve comment.
+  - >-
+    Scroll finds include biblical books (among them Leviticus, Deuteronomy, Ezekiel and Psalms),
+    Hebrew Ben Sira, and the Songs of the Sabbath Sacrifice, also known from Qumran. How they
+    reached Masada is debated.
+  - The synagogue is among the earliest known in the land.
+  sources_to_check:
+  - Yadin, Masada - Herod's Fortress and the Zealots' Last Stand (1966)
+  - Netzer, The Architecture of Herod, the Great Builder (2006)
+  image_query: Masada aerial view
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q186312 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-1-sol
+coordinates:
+  lat: 31.31556
+  lon: 35.35389
+  source: wikidata:Q186312

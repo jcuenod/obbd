@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: fall-of-nineveh-612
+title: Fall of Nineveh (612 BCE)
+aliases: [Battle of Nineveh, Sack of Nineveh]
+type: event
+cultures: [assyrian, babylonian]
+date:
+  from: -612
+  to: -612
+  display: 612 BCE
+scope: >-
+  The capture and destruction of the Assyrian capital in the summer of 612 BCE by Babylonian
+  and Median forces under Nabopolassar and Cyaxares (Umakištar), which ended Assyria as an
+  imperial power. The entry covers the event, its archaeology and its biblical echoes; the
+  Babylonian chronicle that reports it has its own entry.
+passages:
+- ref: Nah 2:1-13
+  rel: event
+  note: 'Assault on Nineveh: chariots in the streets, river gates opened, plunder (MT 2:2-14)'
+- ref: Nah 3:1-19
+  rel: event
+  note: Woe to the bloody city; Thebes' fall in 663 cited as precedent (vv. 8-10)
+- ref: Zeph 2:13-15
+  rel: event
+  note: Nineveh made a desolation, a lair for wild animals
+- ref: Ezek 31:3-18
+  rel: imagery
+  note: Assyria as a felled cosmic cedar, a warning to Pharaoh
+- ref: Jonah 3:1-10
+  rel: setting
+  note: Nineveh's reprieve, told for readers who knew of its fall in 612
+- ref: 2Kgs 23:29
+  rel: event
+  note: Necho goes to aid the Assyrian remnant (609); Josiah killed
+- ref: Tob 14:15
+  rel: event
+  note: >-
+    Tobias hears of Nineveh's destruction by Cyaxares of Media (GI reads Nebuchadnezzar and
+    Ahasuerus)
+related: [nineveh, fall-of-nineveh-chronicle, nabopolassar, medes, assyria, harran, josiah,
+  necho-ii]
+media:
+- id: fall-of-nineveh-chronicle
+  role: gallery
+external:
+  wikipedia: Fall of Nineveh
+  wikidata: Q612286
+editorial:
+  author_notes:
+  - >-
+    Sequence: Assur fell to the Medes in 614; Nineveh fell in the month Abu 612 after a siege
+    of about three months; Sin-šar-iškun died; Aššur-uballiṭ II held out at Harran until 610,
+    and an Egyptian-backed attempt to retake it failed in 609. The fall of Nineveh was therefore
+    not quite the end of Assyria.
+  - >-
+    Excavations at the Halzi Gate (Stronach) found skeletons of defenders and gateways narrowed
+    for a last defence, which vividly confirm a violent end.
+  - >-
+    The story that a flood breached the walls comes from Ctesias via Diodorus, not from Babylonian
+    sources. Do not use it to make Nah 2:6 eyewitness detail. Whether Nahum was composed before
+    or after 612 is debated; the terminus post quem is the fall of Thebes (663).
+  - >-
+    Note the reception of Nineveh's fall in Jonah, Tobit and Greek historiography (Herodotus'
+    'Assyrian logoi', Xenophon's ruined 'Mespila').
+  sources_to_check:
+  - A. K. Grayson, Assyrian and Babylonian Chronicles (1975), Chronicle 3
+  - C. J. Gadd, The Fall of Nineveh (1923)
+  image_query: Halzi Gate Nineveh
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

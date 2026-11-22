@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: astarte
+title: Astarte (Ashtoreth)
+aliases: [Ashtoreth, ʿAštart, ʿAṯtartu]
+type: deity
+cultures: [phoenician, ugaritic, canaanite]
+scope: >-
+  Astarte (Hebrew ʿAštōret, a deliberate vocalization after bōšet "shame"), a major West Semitic
+  goddess of war, sexuality and royal power, attested at Ugarit and Emar, in Egypt, and especially
+  as the chief goddess of Sidon and Tyre. The plural ʿaštārôt is used in the Hebrew Bible
+  for goddesses generally.
+passages:
+- ref: 1Kgs 11:5, 33
+  rel: attests
+  note: '''Astarte the goddess of the Sidonians'' worshipped by Solomon'
+- ref: 2Kgs 23:13
+  rel: attests
+  note: Josiah defiles the high places built for Astarte, Chemosh and Milcom
+- ref: Judg 2:13; 10:6
+  rel: language
+  note: '''The Baals and the Astartes'' as generic gods and goddesses'
+- ref: 1Sam 7:3-4; 12:10
+  rel: language
+  note: Israel puts away the Baals and Astartes
+- ref: 1Sam 31:10
+  rel: attests
+  note: Saul's armour placed in the Philistine temple of Astarte
+- ref: Deut 7:13
+  rel: language
+  note: ʿaštərōt ṣōʾnekā, 'increase of your flock', a fossilized divine name
+- ref: Gen 14:5
+  rel: language
+  note: Ashteroth-karnaim, a Bashan town named for the goddess
+- ref: Jer 7:18
+  rel: concept
+  disputed: true
+  note: Astarte as a candidate for the Queen of Heaven
+related: [queen-of-heaven, ishtar, anat, asherah, sidon, eshmunazar-sarcophagus, name-theology,
+  phoenicians]
+media:
+- id: astarte
+  role: primary
+external:
+  wikipedia: Astarte
+  wikidata: Q130274
+editorial:
+  author_notes:
+  - >-
+    Explain the vocalization ʿAštōret as a bōšet distortion of ʿAštart; the Greek Astartē
+    preserves the original.
+  - >-
+    Astarte is called "name of Baal" (šm bʿl) in KTU 1.16 VI and in the Eshmunazar inscription;
+    relevant to name theology.
+  - >-
+    Do not conflate Astarte with Asherah or Ishtar, though some syncretism (especially with
+    Ishtar) occurred; distinguish them clearly.
+  - >-
+    Treat "sacred prostitution" in her cult as a largely discredited classical and modern
+    construct.
+  sources_to_check:
+  - KAI 14
+  - DDD, s.v. "Astarte"
+  - I. Cornelius, The Many Faces of the Goddess (OBO 204, 2004)
+  image_query: Astarte figurine Phoenician
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

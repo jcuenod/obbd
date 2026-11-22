@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: persepolis-2
+file: persepolis-2.jpg
+title: Tribute Bearers on the Apadana Staircase 22 (Best Viewed Size "Large") (4688831503).jpg
+caption: >-
+  Tribute bearers led by a Persian official, relief on the Apadana staircase at Persepolis.
+description: >-
+  According to the Lonely Planet guide to Iran, "Most impressive of all, however, and among
+  the most impressive historical sights in all of Iran, are the bas-reliefs of the Apadana
+  Staircase on the eastern wall [of the Apadana Palace]." "The panels at the southern end
+  [of the Apadana Staircase] are the most interesting, showing 23 delegations bringing their
+  tributes to the Achaemenid king." "This rich record of the nations of the time ranges from
+  the Ethiopians in the bottom left center, through a climbing pantheon of, among other peoples,
+  Arabs, Thracians, Indians, Parthians and Cappadocians, u
+creator: A.Davey from Portland, Oregon, EE UU
+credit_line: >-
+  Tribute Bearers on the Apadana Staircase 22 (Best Viewed Size "Large") Uploaded by Marcus
+  Cyron
+license:
+  id: CC-BY-2.0
+  name: CC BY 2.0
+  url: https://creativecommons.org/licenses/by/2.0
+attribution: A.Davey from Portland, Oregon, EE UU, CC BY 2.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Tribute_Bearers_on_the_Apadana_Staircase_22_(Best_Viewed_Size_%22Large%22)_(4688831503).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/29/Tribute_Bearers_on_the_Apadana_Staircase_22_%28Best_Viewed_Size_%22Large%22%29_%284688831503%29.jpg
+  sha1: 7d1e3eea0b3b65cc62ad843202161c4ac528a073
+  original_size: [3828, 2441]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1020 px
+size: [1600, 1020]
+depicts: [persepolis]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

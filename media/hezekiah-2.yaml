@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: hezekiah-2
+file: hezekiah-2.jpg
+title: >-
+  Cuneiform Inscription mentioning in details the tribute sent by Hezekiah, king of Judah,
+  to Sennacherib. The British Museum.jpg
+caption: >-
+  Inscription from the human-headed bulls of Sennacherib's palace at Nineveh, detailing Hezekiah's
+  tribute (British Museum, London).
+description: >-
+  This is the beginning of the inscription which was carved on the pair of human-headed wing
+  bulls which flanked the main entrance to the Throne Room of the Assyrian king Sennacherib
+  (r. 704-681 BCE). It includes the most detailed surviving account of the tribute sent by
+  Hezekiah, king of Judah, after the Assyrian military campaign to Palestine in 701 BCE. About
+  693/2 BCE. From Nineveh, South-West Palace, Courtyard H, door "a". The British Museum in
+  London.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Cuneiform_Inscription_mentioning_in_details_the_tribute_sent_by_Hezekiah,_king_of_Judah,_to_Sennacherib._The_British_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/dd/Cuneiform_Inscription_mentioning_in_details_the_tribute_sent_by_Hezekiah%2C_king_of_Judah%2C_to_Sennacherib._The_British_Museum.jpg
+  sha1: 3ea5726a73f162b1bd03ff1d14c01508eb922d00
+  original_size: [5582, 3146]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×902 px
+size: [1600, 902]
+depicts: [hezekiah]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

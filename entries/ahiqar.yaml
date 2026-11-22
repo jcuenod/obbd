@@ -1,0 +1,81 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ahiqar
+title: Story and Proverbs of Ahiqar
+aliases: [Ahikar, Words of Ahiqar, Story of Ahikar]
+type: text
+cultures: [aramean, assyrian]
+date:
+  from: -700
+  to: -500
+  circa: true
+  display: c. 700–500 BCE
+scope: >-
+  The tale of Ahiqar, wise counsellor of the Assyrian kings Sennacherib and Esarhaddon, betrayed
+  by his adopted nephew Nadin and later vindicated, combined with a collection of Aramaic
+  proverbs. The earliest copy is the late-5th-century Elephantine papyrus; the work circulated
+  widely in later languages and is named in Tobit.
+passages:
+- ref: Tob 1:21-22
+  rel: attests
+  note: Ahikar as Tobit's nephew and chief cupbearer and administrator under Esarhaddon
+- ref: Tob 14:10
+  rel: attests
+  note: Nadab's treachery against Ahikar as a moral example
+- ref: Tob 2:10; 11:18
+  rel: attests
+  note: Ahikar supports Tobit and attends his son's wedding
+- ref: Prov 23:13-14
+  rel: parallel
+  note: Do not withhold the rod from a child; he will not die
+- ref: Prov 25:15
+  rel: parallel
+  note: A soft tongue breaks bones
+- ref: Dan 6
+  rel: form
+  note: Wise courtier at a foreign court, falsely accused, condemned, and vindicated
+- ref: Matt 24:45-51
+  rel: parallel
+  disputed: true
+  note: Wicked servant who abuses fellow servants and is punished (cf. Nadin)
+related: [elephantine-papyri, ane-wisdom-literature, esarhaddon, aramaic-language, court-officials,
+  instruction-of-amenemope]
+media:
+- id: ahiqar
+  role: primary
+external:
+  wikipedia: Story of Ahikar
+  wikidata: Q340528
+editorial:
+  author_notes:
+  - >-
+    The Elephantine papyrus (written over a customs account from Xerxes' reign, c. 475) has
+    the narrative in Imperial Aramaic and proverbs probably older, in a western Aramaic dialect
+    (Lindenberger).
+  - >-
+    A Seleucid tablet from Uruk lists the scholar Aba-enlil-dari 'whom the Arameans call Aḫuqar'
+    under Esarhaddon, so the figure may have a historical kernel; do not overstate this.
+  - >-
+    Later Syriac, Armenian, Arabic, and other versions, and the Greek Life of Aesop, reworked
+    the story; distinguish them from the Aramaic text when citing proverbs.
+  - >-
+    Ahiqar is a key witness to the courtier-tale genre (Joseph, Daniel, Esther) and to the
+    shared international wisdom culture.
+  sources_to_check:
+  - TAD C1.1
+  - J. M. Lindenberger, The Aramaic Proverbs of Ahiqar (1983)
+  - ANET 427-430
+  image_query: Ahiqar papyrus Elephantine
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

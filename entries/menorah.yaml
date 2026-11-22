@@ -1,0 +1,84 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: menorah
+title: Menorah
+aliases: [Temple lampstand, Seven-branched lampstand]
+type: realia
+cultures: [hebrew, jewish]
+scope: >-
+  The gold lampstand of the tabernacle and Second Temple, described in Exodus as a six-branched
+  stand with almond-blossom cups bearing seven lamps. The entry covers its biblical descriptions,
+  its tree symbolism, Solomon's ten lampstands, Zechariah's vision, and its Second Temple
+  and Roman-period depictions.
+passages:
+- ref: Exod 25:31-40
+  rel: realia
+  note: Lampstand of hammered gold with six branches and almond-blossom cups
+- ref: Exod 37:17-24
+  rel: realia
+  note: Construction of the lampstand
+- ref: Exod 27:20-21
+  rel: practice
+  note: Pure olive oil for the lamp to burn regularly
+- ref: Lev 24:1-4
+  rel: practice
+  note: Lamps tended from evening to morning before YHWH
+- ref: 1Sam 3:3
+  rel: realia
+  note: The 'lamp of God' in the Shiloh sanctuary
+- ref: 1Kgs 7:49
+  rel: realia
+  note: Ten gold lampstands in Solomon's temple, five on each side
+- ref: 2Chr 13:11
+  rel: realia
+  note: Chronicler presupposes a single gold lampstand
+- ref: Zech 4:1-14
+  rel: imagery
+  note: Lampstand with a bowl, seven lamps with spouts, flanked by two olive trees
+- ref: 1Macc 1:21; 4:49-50
+  rel: realia
+  note: Lampstand removed by Antiochus IV and replaced at the rededication
+- ref: Rev 1:12-13, 20
+  rel: imagery
+  note: Seven golden lampstands as the churches
+related: [tabernacle, arch-of-titus, magdala-stone, tree-of-life, oil-lamps, herods-temple,
+  antiochus-iv]
+media:
+- id: menorah
+  role: primary
+external:
+  wikipedia: Temple menorah
+  wikidata: Q170476
+editorial:
+  author_notes:
+  - >-
+    Carol Meyers (The Tabernacle Menorah, 1976) argued that its form derives from Late Bronze
+    Age stylized-tree imagery. This is widely accepted as background, not as proof of a date.
+  - >-
+    The Exodus description belongs to the Priestly source. Kings gives Solomon ten lampstands,
+    so trace the development rather than harmonizing.
+  - >-
+    Zechariah's lampstand (a bowl with seven spouted lamps) recalls Iron Age multi-spouted
+    lamps. It is not the same as the Exodus form.
+  - >-
+    Earliest securely dated depictions: Mattathias Antigonus coins (40–37 BCE), the Magdala
+    stone, and the Arch of Titus (after 81 CE). Note the debate over the Arch's stepped/octagonal
+    base.
+  image_query: Arch of Titus menorah relief
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: 'Passage tags checked against WEB text: 1Macc 1:21; 4:49-50 rel event -> realia'
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,85 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tell-fekheriye-statue
+title: Tell Fekheriye Bilingual Statue
+aliases: [Tell Fekherye bilingual, Statue of Hadad-yithʿi]
+type: artifact
+cultures: [aramean, assyrian]
+date:
+  from: -850
+  to: -825
+  circa: true
+  display: c. 850–825 BCE
+scope: >-
+  A basalt statue of Hadad-yithʿi, ruler of Guzan, found in 1979 at Tell Fekheriye (ancient
+  Sikani) in northeastern Syria. It carries a dedication to the storm god in Akkadian and
+  Old Aramaic. It is the earliest substantial Aramaic text, and it calls the statue both ṣlm
+  ('image') and dmwt ('likeness').
+passages:
+- ref: Gen 1:26-27
+  rel: language
+  note: ṣelem 'image' and dĕmût 'likeness' used together of a representation
+- ref: Gen 5:1-3
+  rel: language
+  note: Likeness and image passed from Adam to Seth
+- ref: Lev 26:26
+  rel: parallel
+  note: 'Futility curse: many women bake in one oven, yet people are not satisfied'
+- ref: Hos 4:10
+  rel: parallel
+  note: 'Futility curse: they eat but are not satisfied'
+- ref: Mic 6:14-15
+  rel: parallel
+  note: Eat and not be satisfied; sow and not reap
+- ref: Hag 1:6
+  rel: parallel
+  note: Futility formulas of sowing, eating and drinking
+- ref: 2Kgs 17:6; 18:11
+  rel: setting
+  note: Gozan on the Habor, a destination of Israelite deportees
+related: [image-of-god, blessings-and-curses, cult-images, hadad-rimmon, aramaic-language,
+  arameans, deportation]
+location:
+  institution: National Museum of Damascus
+  accession: null
+media:
+- id: image-of-god
+  role: gallery
+external:
+  wikipedia: Tell Fekherya bilingual inscription
+  wikidata: Q18207974
+editorial:
+  author_notes:
+  - >-
+    The statue stood in a temple and represents the ruler before the god. This is important
+    for discussions of 'image' as royal representation and presence in the imago Dei debate.
+    Do not imply direct dependence of Genesis on this text.
+  - >-
+    The Aramaic calls Hadad-yithʿi 'king' where the Akkadian has 'governor'. This illustrates
+    local versus imperial framing.
+  - >-
+    Dating is debated (palaeography vs. Assyrian prosopography). Mid-9th century is the common
+    estimate.
+  - >-
+    The futility curses are a widely shared treaty and curse genre (cf. Sefire, Deut 28).
+    Present them as a shared genre.
+  sources_to_check:
+  - KAI 309
+  - COS 2.34
+  - >-
+    Abou-Assaf, Bordreuil and Millard, La statue de Tell Fekherye et son inscription bilingue
+    assyro-araméenne (1982)
+  image_query: Tell Fekheriye statue Hadad-yithi
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

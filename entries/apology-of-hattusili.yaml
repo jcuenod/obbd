@@ -1,0 +1,72 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: apology-of-hattusili
+title: Apology of Ḫattušili III
+aliases: [Apology of Ḫattušili III, Autobiography of Hattusili]
+type: text
+cultures: [hittite]
+date:
+  from: -1267
+  to: -1237
+  circa: true
+  display: c. 1267–1237 BCE
+scope: >-
+  The self-justifying account by which Ḫattušili III, who deposed his nephew Urḫi-Teššub,
+  presents his rise as guided by the goddess Šaušga (Ishtar) of Šamuḫa and his seizure of
+  the throne as forced and lawful. It is the standard example of the ANE royal "apology" genre
+  compared with the story of David's rise.
+passages:
+- ref: 1Sam 16-31
+  rel: form
+  note: History of David's rise as a royal apology for a usurper
+- ref: 2Sam 1:1-5:10
+  rel: form
+  note: Continuation of David's rise, defending him against charges of usurpation
+- ref: 1Sam 18:12-16
+  rel: concept
+  note: Divine favour and military success legitimate the rising hero
+- ref: 2Sam 3:28-39
+  rel: concept
+  note: Protestation of innocence in the deaths of rivals
+- ref: 1Sam 24:1-22
+  rel: concept
+  disputed: true
+  note: Restraint toward the reigning king before taking power (MT 24:2-23)
+- ref: 1Kgs 1-2
+  rel: form
+  disputed: true
+  note: Account justifying a contested succession
+related: [david, royal-ideology, ishtar, royal-annals-and-historiography, plague-prayers-of-mursili,
+  hittites-and-hethites]
+media:
+- id: apology-of-hattusili
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Hoffner (1975) and McCarter (JBL 1980) set out the genre comparison; Knapp (2015) widens
+    it to first-millennium apologies (e.g. Esarhaddon's Nineveh A, Kilamuwa), which narrows
+    the chronological gap with Samuel.
+  - The comparison concerns genre and propaganda, not Hittite literary influence on Samuel.
+  - >-
+    The Edict of Telipinu (an earlier Hittite succession text) is also compared with 1 Kgs
+    1-2; note it if the article treats succession narratives.
+  sources_to_check:
+  - COS 1.77
+  - H. Otten, Die Apologie Hattusilis III (StBoT 24, 1981)
+  - 'P. K. McCarter Jr., ''The Apology of David,'' JBL 99 (1980): 489-504'
+  - A. Knapp, Royal Apologetic in the Ancient Near East (WAWSup 4, 2015)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

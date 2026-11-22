@@ -1,0 +1,68 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: cult-stands
+title: Cult Stands and Wheeled Stands
+aliases: [mĕkōnôt, wheeled stands]
+type: realia
+cultures: [hebrew, canaanite, philistine]
+scope: >-
+  Cult stands in the Levant, especially the ten bronze wheeled stands (mĕkōnôt) with basins
+  in Solomon's temple and their Cypriot bronze analogues, and the decorated ceramic stands
+  from Taanach and other sites.
+passages:
+- ref: 1Kgs 7:27-37
+  rel: realia
+  note: Ten bronze stands on wheels with panels of lions, oxen, cherubim, and palms
+- ref: 1Kgs 7:38-39
+  rel: realia
+  note: Ten bronze basins (kiyyōrôt) on the stands
+- ref: 2Kgs 16:17
+  rel: realia
+  note: Ahaz cuts off the stands' frames and removes the basins
+- ref: 2Kgs 25:13, 16
+  rel: realia
+  note: Babylonians break up and carry off the stands
+- ref: Jer 52:17, 20
+  rel: realia
+  note: Stands among the bronze temple furnishings taken to Babylon
+- ref: Jer 27:19
+  rel: realia
+  note: Stands among the remaining vessels
+- ref: 2Chr 4:6, 14
+  rel: realia
+  note: Basins for rinsing burnt offerings; stands
+related: [taanach-cult-stand, bronze-sea, jachin-and-boaz, hiram-of-tyre, solomon, cherubim,
+  lion-imagery]
+media:
+- id: cult-stands
+  role: primary
+- id: cult-stands-2
+  role: gallery
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The best comparanda for the mĕkōnôt are Late Cypriot bronze four-sided wheeled stands
+    (12th-11th c. BCE) with openwork panels of animals and sphinxes. This supports the Phoenician
+    or Cypriot craft tradition implied by Hiram (1 Kgs 7:13-14).
+  - >-
+    The description in 1 Kgs 7:27-37 contains rare technical terms and textual difficulties.
+    Rely on commentaries when reconstructing it.
+  - >-
+    Distinguish the ceramic fenestrated stands (Taanach, Pella, Yavneh, Tel Rehov) from the
+    bronze basin stands. Their iconography (e.g. on Taanach) and whether it represents Asherah
+    and YHWH are debated.
+  image_query: Cypriot bronze wheeled stand British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

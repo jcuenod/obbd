@@ -1,0 +1,86 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: sea-peoples
+title: Sea Peoples
+aliases: [Peoples of the Sea]
+type: people
+cultures: [philistine, egyptian]
+date:
+  from: -1210
+  to: -1170
+  circa: true
+  display: c. 1210–1170 BCE
+scope: >-
+  The groups called 'Sea Peoples' in modern scholarship, after Egyptian texts of Merneptah
+  and Ramesses III that describe invaders 'from the islands'. Covers the sources, the groups
+  named, and their role in the Late Bronze Age collapse and in the settlement of the Philistines
+  and others on the Levantine coast.
+passages:
+- ref: Gen 10:14
+  rel: setting
+  note: Caphtorim in the Table of Nations (the Philistine clause is probably misplaced)
+- ref: Deut 2:23
+  rel: setting
+  note: Caphtorim from Caphtor destroy the Avvim as far as Gaza
+- ref: Amos 9:7
+  rel: setting
+  note: Philistines brought from Caphtor
+- ref: Jer 47:4
+  rel: setting
+  note: Philistines, 'the remnant of the coastland of Caphtor'
+- ref: Ezek 25:16
+  rel: setting
+  note: Cherethites (Cretans?) and the remnant of the seacoast
+- ref: Zeph 2:5
+  rel: setting
+  note: '''Nation of the Cherethites'' on the seacoast'
+- ref: 2Sam 8:18
+  rel: setting
+  disputed: true
+  note: Cherethites and Pelethites in David's guard
+- ref: Josh 17:11
+  rel: setting
+  note: Dor, a Tjeker (Sikil) town in the Report of Wenamun
+related: [philistines, medinet-habu-sea-peoples, report-of-wenamun, merneptah-stele, ugarit,
+  hittites-and-hethites]
+media:
+- id: medinet-habu-sea-peoples
+  role: gallery
+- id: medinet-habu-sea-peoples-2
+  role: primary
+- id: sea-peoples
+  role: gallery
+external:
+  wikipedia: Sea Peoples
+  wikidata: Q193850
+editorial:
+  author_notes:
+  - >-
+    The term is modern (Maspero). The Egyptian sources are Merneptah's Libyan war texts and
+    the Ramesses III Year 8 inscriptions and reliefs at Medinet Habu. They name the Peleset,
+    Tjeker (Sikil), Shekelesh, Denyen, Weshesh, Sherden, Lukka and Ekwesh.
+  - >-
+    The Late Bronze collapse had many causes (drought, systems collapse, earthquakes, migration).
+    Avoid a single-cause story in which the Sea Peoples destroyed everything.
+  - >-
+    Sherden appear earlier as Egyptian mercenaries (e.g. in the Kadesh reliefs). The proposed
+    link between the Denyen and the tribe of Dan (Yadin) is speculative.
+  - Ugarit's final letters about enemy ships are often cited. Cross-refer ugarit.
+  sources_to_check:
+  - >-
+    Killebrew and Lehmann (eds.), The Philistines and Other 'Sea Peoples' in Text and Archaeology
+    (2013)
+  image_query: Medinet Habu Sea Peoples naval battle relief
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

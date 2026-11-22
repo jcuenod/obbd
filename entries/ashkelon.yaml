@@ -1,0 +1,89 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ashkelon
+title: Ashkelon
+aliases: [Ascalon, Tel Ashkelon]
+type: site
+cultures: [philistine, canaanite]
+scope: >-
+  The coastal city of Ashkelon, a Middle Bronze Canaanite port and later a city of the Philistine
+  pentapolis, destroyed by Nebuchadnezzar in 604 BCE. Covers the Leon Levy Expedition's results
+  from the Bronze Age to the Babylonian destruction; later periods are covered briefly.
+passages:
+- ref: Judg 1:18
+  rel: setting
+  note: 'Judah takes Ashkelon (LXX: did not take)'
+- ref: Judg 14:19
+  rel: setting
+  note: Samson kills thirty men of Ashkelon
+- ref: 1Sam 6:17
+  rel: setting
+  note: Ashkelon among the five Philistine cities
+- ref: 2Sam 1:20
+  rel: setting
+  note: '''Do not proclaim it in the streets of Ashkelon'''
+- ref: Jer 25:20
+  rel: setting
+  note: Ashkelon among the nations to drink the cup
+- ref: Jer 47:5-7
+  rel: attests
+  note: Ashkelon silenced; the destruction of 604 BCE
+- ref: Amos 1:8
+  rel: setting
+  note: The one who holds the sceptre from Ashkelon
+- ref: Zeph 2:4, 7
+  rel: setting
+  note: Ashkelon desolated, a pasture for Judah's remnant
+- ref: Zech 9:5
+  rel: setting
+  note: Ashkelon shall see it and be afraid
+related: [philistines, sea-peoples, nebuchadnezzar-ii, nebuchadnezzar-chronicle, ethnicity-and-material-culture,
+  merneptah-stele, phoenicians]
+media:
+- id: ashkelon
+  role: primary
+external:
+  wikipedia: Ashkelon
+  wikidata: Q60956
+  pleiades: '687839'
+editorial:
+  author_notes:
+  - >-
+    The Leon Levy Expedition (Stager, then Master, 1985-2016) exposed a Middle Bronze rampart
+    and mudbrick arched gate, an early Philistine settlement with Aegean-style pottery and
+    pig consumption, and a dramatic 604 destruction.
+  - >-
+    The Philistine cemetery (eleventh to eighth centuries) and an aDNA study (Feldman et al.,
+    Science Advances, 2019) showed a European-related genetic component in early Iron Age
+    individuals that was diluted later. Avoid the headline claim that DNA 'proved' a migration.
+  - >-
+    The Babylonian Chronicle dates Nebuchadnezzar's capture of Ashkelon to Kislev of his first
+    year (604). Ashkelon also appears in the Merneptah Stele and in Sennacherib's deposition
+    of Sidqa.
+  sources_to_check:
+  - NEAEHL
+  - >-
+    Stager, Schloen and Master (eds.), Ashkelon 1 - Introduction and Overview (1985-2006)
+    (2008)
+  image_query: Ashkelon Canaanite gate
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q60956 (verify).
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 31.66583
+  lon: 34.56639
+  source: wikidata:Q60956

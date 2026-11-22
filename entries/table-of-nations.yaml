@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: table-of-nations
+title: Table of Nations
+aliases: [Generations of Noah]
+type: concept
+cultures: [ane]
+scope: >-
+  Genesis 10 (with 1 Chr 1), the genealogical map of the world's peoples descended from Shem,
+  Ham and Japheth. The entry covers its sources, its geographical and political horizon, the
+  identification of the names, and its function.
+passages:
+- ref: Gen 10:1-32
+  rel: concept
+  note: Segmented genealogy of the nations after the flood
+- ref: Gen 10:2-5
+  rel: setting
+  note: 'Japheth: Gomer (Cimmerians), Madai (Medes), Javan (Ionians), Tubal, Meshech'
+- ref: Gen 10:6-20
+  rel: setting
+  note: 'Ham: Cush, Egypt, Put, Canaan; includes the Nimrod notice'
+- ref: Gen 10:21-31
+  rel: setting
+  note: 'Shem: Elam, Asshur, Arpachshad, Lud, Aram and Arabian groups'
+- ref: 1Chr 1:1-23
+  rel: concept
+  note: Chronicler's adaptation
+- ref: Deut 32:8
+  rel: concept
+  note: Nations divided according to the number of the sons of God (LXX, 4QDeutʲ)
+- ref: Ezek 27:10-24
+  rel: setting
+  note: Tyre's trading partners share many of the same names
+- ref: Ezek 38:2-6
+  rel: setting
+  note: Gog of Magog with Meshech, Tubal, Gomer and Beth-togarmah
+- ref: Isa 66:19
+  rel: setting
+  note: Tarshish, Pul (read Put with LXX), Lud, Tubal and Javan as distant nations
+related: [genealogies, ziggurat-and-babel, nimrod, cush, medes, tarshish, 4qdeut-j, sons-of-god]
+media: []
+external:
+  wikipedia: Generations of Noah
+  wikidata: Q2033715
+editorial:
+  author_notes:
+  - >-
+    The chapter combines a Priestly framework ('these are the descendants of…') with non-Priestly
+    material (e.g. 10:8-19, 21, 24-30). It contains duplicates such as Havilah and Sheba.
+  - >-
+    Its horizon (Cimmerians, Medes, Ionians, Togarmah) fits the Neo-Assyrian and Neo-Babylonian
+    world of the 8th to 6th centuries.
+  - >-
+    Kinship here expresses geography, political relations and sometimes language, not 'race'.
+    Address and correct racialized readings of Ham and the 'curse of Ham' (Gen 9:25 curses
+    Canaan).
+  - >-
+    The tradition of seventy nations links to Deut 32:8 and later Jewish and Christian reception.
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Isa 66:19 note corrected (MT reads Pul; Put is
+    the LXX reading)
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

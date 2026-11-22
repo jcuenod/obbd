@@ -1,0 +1,107 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: pontius-pilate
+title: Pontius Pilate
+aliases: [Pilate, Pilatus]
+type: person
+cultures: [roman]
+date:
+  from: 26
+  to: 36
+  display: 26–36 CE
+scope: >-
+  Pontius Pilate, Roman prefect of Judea under Tiberius (c. 26-36 CE), who ordered the crucifixion
+  of Jesus. The entry covers his governorship and portrayal in the Gospels, Philo, Josephus
+  and Tacitus, his coinage, and later traditions. The Caesarea inscription naming him is treated
+  under pilate-stone.
+passages:
+- ref: Mark 15:1-15
+  rel: event
+  note: Jesus handed over to Pilate; Barabbas released; Jesus sent to be crucified
+- ref: Mark 15:42-45
+  rel: practice
+  note: Pilate releases Jesus' body to Joseph of Arimathea
+- ref: Matt 27:11-26
+  rel: event
+  note: The trial with the wife's dream and the washing of hands
+- ref: Luke 3:1
+  rel: attests
+  note: Pilate governor of Judea in Tiberius's fifteenth year
+- ref: Luke 13:1
+  rel: attests
+  disputed: true
+  note: >-
+    Galileans whose blood Pilate mingled with their sacrifices; incident not attested elsewhere
+- ref: Luke 23:1-25
+  rel: event
+  note: Pilate three times declares Jesus innocent and sends him to Herod
+- ref: John 18:28-19:16
+  rel: event
+  note: Interrogation at the praetorium; 'What is truth?'; judgement at Gabbatha
+- ref: John 19:19-22
+  rel: practice
+  note: The title 'King of the Jews' in Hebrew, Latin and Greek
+- ref: Acts 3:13
+  rel: attests
+  note: Pilate had decided to release Jesus
+- ref: 1Tim 6:13
+  rel: attests
+  note: Christ's testimony before Pontius Pilate
+related: [pilate-stone, herod-antipas, caiaphas-ossuary, crucifixion, caesarea-maritima, josephus,
+  imperial-cult, herods-temple]
+media:
+- id: pilate-stone
+  role: gallery
+- id: pontius-pilate
+  role: primary
+external:
+  wikipedia: Pontius Pilate
+  wikidata: Q17131
+editorial:
+  author_notes:
+  - >-
+    Non-biblical sources: Philo, Legat. 299-305 (gilded shields in Herod's palace, with a
+    hostile character sketch); Josephus, War 2.169-177 and Ant. 18.55-62 (military standards
+    brought into Jerusalem; an aqueduct paid for from temple funds) and Ant. 18.85-89 (the
+    Samaritans at Gerizim, which led to his recall by Vitellius); Tacitus, Ann. 15.44 (Christus
+    executed by Pilate, called procurator).
+  - >-
+    His dates (c. 26-36/37) rest on Josephus's ten-year term and the recall before Tiberius's
+    death. His title was prefect (see pilate-stone).
+  - >-
+    His bronze prutot (29-31 CE) bear the lituus and simpulum, Roman cultic implements. Whether
+    these were deliberately provocative is debated.
+  - >-
+    Avoid both caricatures, the vacillating weakling of popular reading and the monster of
+    Philo. Assess him as an equestrian prefect with auxiliary troops, working with the high
+    priest Caiaphas and subordinate to the legate of Syria. The Gospels increasingly exonerate
+    him, a trend that later Christian tradition continues (in the Coptic and Ethiopian churches
+    he is venerated as a saint).
+  - >-
+    The Passover amnesty (Mark 15:6) is not attested outside the Gospels, and Luke 13:1 is
+    unconfirmed. Present both as debated.
+  sources_to_check:
+  - H. K. Bond, Pontius Pilate in History and Interpretation (SNTSMS 100, 1998)
+  - >-
+    F. H. Colson (trans.), Philo, vol. 10: On the Embassy to Gaius (Loeb Classical Library,
+    1962)
+  image_query: Pontius Pilate prutah lituus
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Luke 13:1 rel event -> attests (incident unattested
+    elsewhere)
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,80 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ossuaries
+title: Ossuaries and Secondary Burial
+type: realia
+cultures: [jewish]
+date:
+  from: -20
+  to: 135
+  circa: true
+  display: c. 20 BCE–135 CE
+scope: >-
+  Stone chests used for secondary burial (ossilegium) of bones after the flesh had decomposed
+  in rock-cut tombs, characteristic of Jerusalem from the late 1st century BCE to 70 CE and
+  continuing elsewhere into the 2nd century. The entry covers the tombs, inscriptions, and
+  burial practices they reflect.
+passages:
+- ref: Matt 23:27
+  rel: imagery
+  note: Whitewashed tombs full of dead bones
+- ref: Matt 8:21-22
+  rel: practice
+  disputed: true
+  note: '''Let the dead bury their own dead'', perhaps alluding to secondary burial'
+- ref: Matt 27:57-60
+  rel: realia
+  note: Rock-cut tomb closed with a stone
+- ref: Mark 16:3-5
+  rel: realia
+  note: Blocking stone and tomb chamber
+- ref: John 11:38-44
+  rel: realia
+  note: Cave tomb with a stone; the dead bound in cloths
+- ref: John 19:38-42
+  rel: practice
+  note: Burial with spices and linen before the Sabbath
+- ref: 2Kgs 22:20
+  rel: concept
+  note: '''Gathered to your ancestors'': antecedent of collective bone deposits'
+related: [caiaphas-ossuary, bench-tombs, care-for-the-dead, afterlife-and-resurrection, forgeries-in-biblical-archaeology,
+  crucifixion]
+media:
+- id: ossuaries
+  role: primary
+external:
+  wikipedia: Ossuary
+  wikidata: Q255595
+editorial:
+  author_notes:
+  - >-
+    The link between ossilegium and resurrection belief has been proposed (Rahmani) but is
+    debated.
+  - Inscriptions (Hebrew, Aramaic, Greek) are a major source for onomastics.
+  - >-
+    Address controversies: the James ossuary (its inscription widely doubted despite the 2012
+    acquittal) and the Talpiot 'Jesus family tomb' claims (rejected by mainstream scholars).
+  - >-
+    Most tomb-blocking stones were square; round rolling stones were rare before 70 CE (Kloner).
+  sources_to_check:
+  - >-
+    L. Y. Rahmani, A Catalogue of Jewish Ossuaries in the Collections of the State of Israel
+    (1994)
+  - >-
+    R. Hachlili, Jewish Funerary Customs, Practices and Rites in the Second Temple Period
+    (2005)
+  - 'B. R. McCane, Roll Back the Stone: Death and Burial in the World of Jesus (2003)'
+  image_query: Jewish ossuary Jerusalem Second Temple
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

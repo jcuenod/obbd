@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: divine-wings
+file: divine-wings.jpg
+title: Winged Isis--Egyptian-saam-1929.8.154 1.jpg
+caption: >-
+  Bronze figure of the goddess Isis with outstretched protective wings (Smithsonian American
+  Art Museum, 1929.8.154).
+description: >-
+  Unidentified, Winged Isis--Egyptian, bronze, Smithsonian American Art Museum, Gift of John
+  Gellatly, 1929.8.154
+creator: AnonymousUnknown author
+credit_line: >-
+  This file is part of the Smithsonian Institution's Open Access collection.Their website
+  states: "We have released these images and data into the Public Domain as Creative Commons
+  Zero (CC0), meaning you can use, transform, and share our open access assets without asking
+  permission from the Smithsonian."
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: AnonymousUnknown author. CC0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Winged_Isis--Egyptian-saam-1929.8.154_1.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/99/Winged_Isis--Egyptian-saam-1929.8.154_1.jpg
+  sha1: 6b918f377466f45686f777001f7dc05c57c1e0e6
+  original_size: [2077, 3000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1108×1600 px
+size: [1108, 1600]
+depicts: [divine-wings]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

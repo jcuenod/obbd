@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: hezekiahs-tunnel
+title: Hezekiah's Tunnel
+aliases: [Siloam Tunnel, Channel VIII]
+type: site
+cultures: [judahite]
+scope: >-
+  The rock-cut water channel (c. 533 m) carrying the Gihon spring's water under the City of
+  David to the Siloam pool, where the Siloam Inscription was found. Covers its engineering,
+  dating and relation to biblical notices of Hezekiah's water works; the inscription itself
+  has its own entry.
+passages:
+- ref: 2Kgs 20:20
+  rel: attests
+  note: Hezekiah 'made the pool and the conduit and brought water into the city'
+- ref: 2Chr 32:2-4
+  rel: setting
+  note: Springs stopped before Sennacherib's arrival
+- ref: 2Chr 32:30
+  rel: attests
+  note: Upper outlet of Gihon channelled down to the west of the city of David
+- ref: Isa 22:9-11
+  rel: setting
+  note: Waters of the lower pool; a reservoir between the two walls
+- ref: Isa 8:6
+  rel: setting
+  disputed: true
+  note: '''Waters of Shiloah that flow gently'', perhaps the earlier Siloam Channel'
+- ref: Sir 48:17
+  rel: attests
+  note: Hezekiah tunnelled the rock with iron and built pools
+- ref: John 9:7
+  rel: setting
+  note: Blind man sent to wash in the pool of Siloam
+related: [siloam-inscription, hezekiah, city-of-david, pool-of-siloam, sennacherib-campaign-701,
+  cisterns-and-water-systems]
+media:
+- id: hezekiahs-tunnel
+  role: primary
+external:
+  wikipedia: Siloam tunnel
+  wikidata: Q1620682
+editorial:
+  author_notes:
+  - >-
+    The consensus dates the tunnel to Hezekiah's reign (late eighth century). Reich and Shukron
+    argued for an earlier date (c. 800) from pottery in related fills; radiometric dating
+    published by Frumkin, Shimron and Rosenbaum (Nature, 2003; verify) supported c. 700.
+  - >-
+    Explain the S-shaped course (following a karst fissure is the leading explanation) and
+    the meeting of the two teams described in the inscription.
+  - >-
+    Distinguish the tunnel from the Middle Bronze spring system, Warren's Shaft and the earlier
+    open Siloam Channel (Channel II).
+  sources_to_check: [NEAEHL, COS 2.28]
+  image_query: Hezekiah's Tunnel Siloam water channel
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates from Wikidata Q1620682 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 31.77236
+  lon: 35.23567
+  source: wikidata:Q1620682

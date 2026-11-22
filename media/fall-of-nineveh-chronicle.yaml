@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: fall-of-nineveh-chronicle
+file: fall-of-nineveh-chronicle.jpg
+title: Fall of Nineveh Chronicle BM 21901.jpg
+caption: >-
+  The Fall of Nineveh Chronicle, a clay tablet copied c. 550–400 BCE, covering 616–609 BCE
+  (British Museum, BM 21901).
+description: >-
+  Cuneiform tablet, chronic about the fall of Nineveh in 612 BC, and the war ending the Assyrian
+  Empire during the years 616-607 BC. Copy made ca 550-400 BC. British Museum, BM 21901 https://www.britishmuseum.org/collection/object/W_1896-0409-6
+  / Livius https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-3-fall-of-nineveh-chronicle/
+creator: Zunkir
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Zunkir, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Fall_of_Nineveh_Chronicle_BM_21901.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/72/Fall_of_Nineveh_Chronicle_BM_21901.jpg
+  sha1: 82a86ab7f2fdb7bc9d3454f590f34bbe7791d573
+  original_size: [2912, 4928]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 946×1600 px
+size: [946, 1600]
+depicts: [fall-of-nineveh-612, fall-of-nineveh-chronicle]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

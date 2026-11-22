@@ -1,0 +1,70 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: maqlu
+title: Maqlû Incantation Series
+aliases: [Maqlû, Burning]
+type: text
+cultures: [assyrian, babylonian]
+date:
+  from: -900
+  to: -600
+  circa: true
+  display: c. 900–600 BCE
+scope: >-
+  The nine-tablet Akkadian anti-witchcraft ceremony ("Burning") performed by the exorcist
+  (āšipu) over one night, in which figurines of the witch are burned and her spells returned
+  upon her. It is the principal Mesopotamian source on how witchcraft (kišpū) was conceived
+  and countered.
+passages:
+- ref: Exod 22:18
+  rel: practice
+  note: Prohibition of the female sorcerer (mĕkaššēpâ; cf. Akk. kaššāptu, 'witch') (MT 22:17)
+- ref: Deut 18:10-11
+  rel: practice
+  note: Forbidden diviners and sorcerers, incl. the mĕkaššēp
+- ref: Mic 5:12
+  rel: language
+  note: YHWH will cut off sorceries (kĕšāpîm) (MT 5:11)
+- ref: Isa 47:9, 12
+  rel: language
+  note: Babylon's many sorceries and spells
+- ref: Nah 3:4
+  rel: imagery
+  note: Nineveh as a harlot and mistress of sorceries
+- ref: Ezek 13:17-23
+  rel: practice
+  disputed: true
+  note: 'Women''s binding bands and veils to ''hunt lives'': harmful magic'
+related: [divination, demons, lamashtu-pazuzu-amulets, necromancy, amulets, mouth-washing-and-opening]
+media: []
+external:
+  wikipedia: Maqlû
+  wikidata: Q6754277
+editorial:
+  author_notes:
+  - >-
+    Abusch's edition (2016) and studies reconstruct the ceremony's growth from a shorter rite;
+    it was performed at the end of the month Abu.
+  - >-
+    In Mesopotamia witchcraft (kišpū) was illicit harmful magic, while the āšipu's counter-magic
+    was legitimate state-sanctioned expertise. Biblical law rejects a wider range of practices,
+    so do not equate the categories.
+  - >-
+    The root kšp is shared by Hebrew and Akkadian; note the lexical link without assuming
+    identical practices.
+  sources_to_check:
+  - 'T. Abusch, The Magical Ceremony Maqlû: A Critical Edition (2016)'
+  - T. Abusch and D. Schwemer, Corpus of Mesopotamian Anti-Witchcraft Rituals (2011-)
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-1-sol

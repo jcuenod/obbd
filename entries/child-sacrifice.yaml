@@ -1,0 +1,95 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: child-sacrifice
+title: Child Sacrifice
+type: practice
+cultures: [phoenician, judahite, moabite, ane]
+scope: >-
+  The ritual killing of children as offerings, as alleged and condemned in the Hebrew Bible
+  ("passing through the fire", offerings "to Molek"), as narrated in stories such as Gen 22
+  and 2 Kgs 3:27, and as debated for Phoenician and Punic tophets.
+passages:
+- ref: Gen 22:1-19
+  rel: concept
+  note: Command to offer Isaac and its reversal
+- ref: Judg 11:30-40
+  rel: practice
+  note: Jephthah's vow and sacrifice of his daughter
+- ref: 2Kgs 3:27
+  rel: practice
+  note: Mesha of Moab offers his firstborn on the wall; 'great wrath' on Israel
+- ref: 2Kgs 16:3
+  rel: practice
+  note: Ahaz makes his son pass through fire
+- ref: 2Kgs 17:31
+  rel: practice
+  note: Sepharvites burn children to Adrammelech and Anammelech
+- ref: 2Kgs 21:6
+  rel: practice
+  note: Manasseh makes his son pass through fire
+- ref: 2Kgs 23:10
+  rel: practice
+  note: Josiah defiles Topheth so none may pass a child through fire to Molek
+- ref: Lev 18:21
+  rel: language
+  disputed: true
+  note: '''Give your offspring to Molek'': deity name or sacrificial term (mlk) debated'
+- ref: Lev 20:2-5
+  rel: practice
+  note: Death penalty for giving offspring to Molek
+- ref: Jer 7:31
+  rel: polemic
+  note: Burning sons and daughters at Topheth, 'which I did not command'
+- ref: Jer 19:5
+  rel: polemic
+  note: Children burned as burnt offerings to Baal
+- ref: Ezek 20:25-26
+  rel: concept
+  note: '''Statutes that were not good'': offering every firstborn'
+- ref: Mic 6:7
+  rel: concept
+  note: '''Shall I give my firstborn for my transgression?'''
+- ref: Exod 22:29
+  rel: concept
+  note: '''The firstborn of your sons you shall give to me''; MT 22:28'
+related: [tophet, molek, mesha-stele, firstfruits-and-firstborn, phoenicians, vows-and-votive-offerings,
+  ahaz, manasseh]
+media:
+- id: child-sacrifice
+  role: primary
+external:
+  wikipedia: Child sacrifice
+  wikidata: Q5097923
+editorial:
+  author_notes:
+  - >-
+    Eissfeldt (1935) argued that Punic mlk is a sacrificial term (molk-offering), not a deity,
+    and that biblical lammōlek means "as a molk-offering". This remains debated against the
+    deity view (Heider; Day). Present both.
+  - >-
+    For the Carthage tophet, Greek and Roman literary accounts (e.g. Diodorus 20.14) and the
+    inscribed stelae support sacrifice. Some osteological studies argue that many burials
+    were of naturally deceased infants. Since about 2010 the debate has continued in Antiquity
+    and elsewhere, and the majority view now accepts sacrifice. Present the evidence fairly.
+  - >-
+    Distinguish polemical accusation from evidence of practice. Jer 7:31; 19:5; 32:35 and
+    Ezek 20:25-26 suggest that some in Judah regarded child sacrifice as YHWH-pleasing (Levenson,
+    The Death and Resurrection of the Beloved Son; Stavrakopoulou, King Manasseh and Child
+    Sacrifice).
+  - >-
+    Neo-Assyrian contract penalty clauses threatening to "burn" a son to a deity are sometimes
+    cited. Their literal force is debated.
+  image_query: Carthage tophet stelae
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

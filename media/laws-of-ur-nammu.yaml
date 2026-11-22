@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: laws-of-ur-nammu
+file: laws-of-ur-nammu.jpg
+title: Ur Nammu code Istanbul.jpg
+caption: Tablet fragments of the Laws of Ur-Nammu from Nippur (Istanbul Archaeology Museums).
+description: Ur Nammu code Istanbul
+creator: Istanbul Archaeology Museums
+credit_line: Own work
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Istanbul Archaeology Museums. CC0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ur_Nammu_code_Istanbul.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/7/71/Ur_Nammu_code_Istanbul.jpg
+  sha1: 043444febf7fcf5cd0f1ad779e70d81c902a3f59
+  original_size: [811, 1616]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 803×1600 px
+size: [803, 1600]
+depicts: [laws-of-ur-nammu]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

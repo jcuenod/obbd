@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: low-chronology-debate
+file: low-chronology-debate.jpg
+title: Outer opening of the chambered gate at Megiddo (B) (20693218186).jpg
+caption: >-
+  Remains of the chambered city gate at Megiddo, one of the gates that Yadin attributed to
+  Solomon and whose date is central to the debate.
+description: The Gate is 10th century BCE with 7th century BCE additions. Tel Megiddo
+creator: Ian Scott
+credit_line: Outer opening of the chambered gate at Megiddo (B)
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: Ian Scott, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Outer_opening_of_the_chambered_gate_at_Megiddo_(B)_(20693218186).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/5/54/Outer_opening_of_the_chambered_gate_at_Megiddo_%28B%29_%2820693218186%29.jpg
+  sha1: 15a0fa727b7fe916163a543fb54423babe3650e6
+  original_size: [4000, 3000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [low-chronology-debate]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

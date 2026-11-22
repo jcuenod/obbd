@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: bench-tombs
+file: bench-tombs.jpg
+title: Burial cave. Ketef Hinnom. Israel Museum, Jerusalem.JPG
+caption: >-
+  Reconstruction of an Iron Age bench tomb from Ketef Hinnom with its funerary goods, 7th–6th
+  century BCE (Israel Museum, Jerusalem).
+description: >-
+  Reconstructed burial cave with funerary gifts. Ketef Hinnom, Jerusalem (7th-6th BCE). Israel
+  Museum, Jerusalem
+creator: Chamberi
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Chamberi, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Burial_cave._Ketef_Hinnom._Israel_Museum,_Jerusalem.JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/43/Burial_cave._Ketef_Hinnom._Israel_Museum%2C_Jerusalem.JPG
+  sha1: 16acff1598a5b60f573944a1f91b36c0684082d4
+  original_size: [4000, 3000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [bench-tombs]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

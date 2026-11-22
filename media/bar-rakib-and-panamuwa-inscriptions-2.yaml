@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: bar-rakib-and-panamuwa-inscriptions-2
+file: bar-rakib-and-panamuwa-inscriptions-2.jpg
+title: Panamuwa II torso inscription (KAI 215).jpg
+caption: >-
+  Drawing of Bar-Rakib's memorial inscription for Panamuwa II (KAI 215), from Ausgrabungen
+  in Sendschirli, vol. 1.
+description: Sam'al inscriptions from Ausgrabungen in Sendschirli, volume 1
+creator: Felix von Luschan et al
+credit_line: >-
+  Volume 1: Felix von Luschan et al, Ausgrabungen in Sendschirli: Einleitung und Inschriften,
+  Spemann, 1893 Volume 2: Felix von Luschan and Carl Humann and Robert Koldewey, Ausgrabungen
+  in Sendschirli: Ausgrabungsbericht und Architektur, Spemann, 1898 Volume 3: Felix von Luschan,
+  Ausgrabungen in Sendschirli: Thorsculpturen, Georg Reimer, 1902 Volume 4: Felix von Luschan
+  and Gustav Jacoby, Ausgrabungen in Sendschirli, Georg Reimer, 1911
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Felix von Luschan et al. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Panamuwa_II_torso_inscription_(KAI_215).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/62/Panamuwa_II_torso_inscription_%28KAI_215%29.jpg
+  sha1: a38e577a395f9c34a64b30109d0a93310dd5d4d7
+  original_size: [906, 2201]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 659×1600 px
+size: [659, 1600]
+depicts: [bar-rakib-and-panamuwa-inscriptions]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

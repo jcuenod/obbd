@@ -1,0 +1,75 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tirzah
+title: Tirzah (Tell el-Farʿah North)
+aliases: [Tell el-Farʿah (North)]
+type: site
+cultures: [israelite]
+scope: >-
+  The early capital of the northern kingdom before Omri moved to Samaria, usually identified
+  with Tell el-Farʿah (North) northeast of Nablus. Covers the identification, de Vaux's excavations
+  and the Iron Age town.
+passages:
+- ref: Num 26:33
+  rel: language
+  note: Tirzah as a daughter of Zelophehad, a clan and place name
+- ref: Josh 12:24
+  rel: setting
+  note: King of Tirzah in the list of defeated kings
+- ref: 1Kgs 14:17
+  rel: setting
+  note: Jeroboam's wife returns to Tirzah
+- ref: 1Kgs 15:21, 33
+  rel: setting
+  note: Baasha reigns at Tirzah
+- ref: 1Kgs 16:8-23
+  rel: setting
+  note: Zimri burns the palace; Omri reigns six years at Tirzah
+- ref: 2Kgs 15:14-16
+  rel: setting
+  note: Menahem comes up from Tirzah
+- ref: Song 6:4
+  rel: imagery
+  note: The beloved 'beautiful as Tirzah, comely as Jerusalem'
+related: [omri, samaria, shechem, four-room-house, low-chronology-debate]
+media: []
+external:
+  wikipedia: Tirzah (Tell el-Farah North)
+  wikidata: Q2002121
+  pleiades: '589744740'
+editorial:
+  author_notes:
+  - >-
+    De Vaux excavated the site in 1946-60. The identification with Tell el-Farʿah (North),
+    proposed by Albright, is widely accepted.
+  - >-
+    De Vaux linked an unfinished building phase to Omri's move to Samaria (1 Kgs 16:23-24).
+    This interpretation and the dating of the Iron Age phases are debated in the light of
+    the low chronology.
+  - >-
+    Iron Age houses (including four-room houses) and de Vaux's argument for growing social
+    stratification in the eighth century are relevant to prophetic social critique. The site
+    also has major Chalcolithic and Early Bronze remains.
+  sources_to_check: [NEAEHL]
+  image_query: Tell el-Far'ah North
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q2002121 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 32.2874
+  lon: 35.3378
+  source: wikidata:Q2002121

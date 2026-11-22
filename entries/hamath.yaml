@@ -1,0 +1,87 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: hamath
+title: Hamath
+aliases: [Hama, Epiphania, Lebo-hamath (border)]
+type: site
+cultures: [luwian, aramean]
+scope: >-
+  The city on the Orontes in central Syria, capital of a Neo-Hittite and then Aramean kingdom
+  in the Iron Age. Covers its citadel excavations and inscriptions, its role in anti-Assyrian
+  coalitions, and its conquest by Sargon II. 'Lebo-hamath' as Israel's ideal northern border
+  is also discussed.
+passages:
+- ref: Num 34:8
+  rel: setting
+  note: Lebo-hamath on the ideal northern border
+- ref: 2Sam 8:9-10
+  rel: setting
+  note: Toi king of Hamath congratulates David
+- ref: 1Kgs 8:65
+  rel: setting
+  note: '''From Lebo-hamath to the Wadi of Egypt'''
+- ref: 2Kgs 14:28
+  rel: setting
+  note: Jeroboam II's recovery of Damascus and Hamath (text difficult)
+- ref: 2Kgs 17:24, 30
+  rel: setting
+  note: Deportees from Hamath settled in Samaria; their god Ashima
+- ref: 2Kgs 18:34
+  rel: setting
+  note: '''Where are the gods of Hamath?'''
+- ref: Isa 10:9
+  rel: setting
+  note: '''Is not Hamath like Arpad?'''
+- ref: Amos 6:2
+  rel: setting
+  note: '''Go to Hamath the great'''
+- ref: Amos 6:14
+  rel: setting
+  note: '''From Lebo-hamath to the Wadi Arabah'''
+related: [zakkur-stele, battle-of-qarqar, arameans, sargon-ii, gods-of-2-kings-17, hittites-and-hethites,
+  kurkh-monoliths]
+media:
+- id: hamath
+  role: primary
+- id: hamath-2
+  role: gallery
+external:
+  wikipedia: Hama
+  wikidata: Q173545
+  pleiades: '668182'
+editorial:
+  author_notes:
+  - >-
+    Danish excavations on the citadel (1931-38) revealed a palace complex and Luwian hieroglyphic
+    inscriptions of Neo-Hittite kings (e.g. Urhilina). Zakkur of Hamath and Luʿash represents
+    the later Aramean dynasty.
+  - >-
+    Irhuleni of Hamath was a leader of the Qarqar coalition (853). Sargon II crushed Yau-biʾdi
+    (Ilu-biʾdi) of Hamath in 720. Whether that name contains the divine element Yahu is debated.
+  - >-
+    Lebo-hamath is probably Lebweh in the northern Beqaʿ, not Hamath itself. Translations
+    that render it 'entrance of Hamath' obscure this.
+  sources_to_check:
+  - Younger, A Political History of the Arameans (2016)
+  image_query: Hama citadel
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q173545 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 35.135
+  lon: 36.75
+  source: wikidata:Q173545

@@ -1,0 +1,72 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: nabataeans
+title: Nabataeans and King Aretas IV
+type: people
+cultures: [arabian]
+scope: >-
+  The Arab people and kingdom centred on Petra, who controlled the incense routes from the
+  Hellenistic period until Roman annexation in 106 CE. The entry gives particular attention
+  to Aretas IV (9 BCE-40 CE) and to the Nabataeans' interactions with the Hasmoneans, the
+  Herods, and Paul.
+passages:
+- ref: 2Cor 11:32-33
+  rel: attests
+  note: The ethnarch of King Aretas guards Damascus; Paul escapes in a basket
+- ref: Acts 9:23-25
+  rel: event
+  note: Paul's escape over the Damascus wall
+- ref: Gal 1:17
+  rel: setting
+  note: Paul goes away into 'Arabia', i.e. Nabataean territory
+- ref: Gal 4:25
+  rel: setting
+  note: '''Mount Sinai in Arabia'''
+- ref: Mark 6:17-18
+  rel: setting
+  note: Antipas's marriage to Herodias after divorcing Aretas's daughter (Ant. 18.109-115)
+- ref: 1Macc 5:25
+  rel: attests
+  note: Nabataeans meet Judas Maccabeus peaceably
+- ref: 2Macc 5:8
+  rel: attests
+  note: Aretas (I), 'ruler of the Arabs'
+related: [petra-and-sela, qedarites-and-arabs, herod-the-great, edomites, damascus, incense-trade]
+media:
+- id: nabataeans
+  role: primary
+- id: nabataeans-2
+  role: gallery
+external:
+  wikipedia: Nabataeans
+  wikidata: Q220594
+editorial:
+  author_notes:
+  - >-
+    Whether and how Aretas IV controlled Damascus c. 37-40 CE is debated (ethnarch as governor
+    or as head of a Nabataean community). The gap in Roman civic coinage is suggestive but
+    not decisive.
+  - >-
+    Antipas's war with Aretas (36 CE) and its link to John the Baptist's death (Josephus)
+    are relevant.
+  - >-
+    Correct the misconception that the Nabataeans are the biblical Nebaioth (Gen 25:13). The
+    names differ philologically.
+  - Note that Nabataean script is the ancestor of Arabic script.
+  sources_to_check:
+  - 'J. F. Healey, The Religion of the Nabataeans: A Conspectus (2001)'
+  - G. W. Bowersock, Roman Arabia (1983)
+  image_query: Aretas IV Nabataean coin
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

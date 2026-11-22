@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: dead-sea-scrolls-2
+file: dead-sea-scrolls-2.jpg
+title: Dead Sea Scroll, Pesher Isaiah, from Qumran Cave 4, the Jordan Museum in Amman.jpg
+caption: >-
+  Fragment of a pesher (commentary) on Isaiah from Qumran Cave 4 (The Jordan Museum, Amman).
+description: >-
+  Dead Sea Scroll, Pesher Isaiah. From Qumran Cave 4. From Qumran (Khirbet Qumran or Wadi
+  Qumran), West Bank of the Jordan River, near the Dead Sea, modern-day State of Israel. On
+  display at The Jordan Museum in Amman, the Hashemite Kingdom of Jordan.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Dead_Sea_Scroll,_Pesher_Isaiah,_from_Qumran_Cave_4,_the_Jordan_Museum_in_Amman.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/8/8e/Dead_Sea_Scroll%2C_Pesher_Isaiah%2C_from_Qumran_Cave_4%2C_the_Jordan_Museum_in_Amman.jpg
+  sha1: 73422f94c4c370f2766baec3dea361915b42cc95
+  original_size: [5153, 3830]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1189 px
+size: [1600, 1189]
+depicts: [dead-sea-scrolls]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

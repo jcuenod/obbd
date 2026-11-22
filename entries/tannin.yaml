@@ -1,0 +1,76 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tannin
+title: Tannin (Sea Dragons)
+aliases: [tannîn, tanninim, dragon, Tunnanu]
+type: deity
+cultures: [hebrew, ugaritic]
+scope: >-
+  Tannin (plural tanninim), the sea dragon or serpent of Hebrew poetry, cognate with Ugaritic
+  tnn, defeated by Baal and Anat. The term ranges from a mythic chaos monster to created sea
+  creatures and snakes, and is applied to Pharaoh and Nebuchadnezzar.
+passages:
+- ref: Gen 1:21
+  rel: polemic
+  note: God creates the great tanninim as ordinary creatures
+- ref: Ps 74:13
+  rel: imagery
+  note: YHWH breaks the heads of the tanninim in the waters
+- ref: Isa 27:1
+  rel: imagery
+  note: YHWH kills the tannin in the sea
+- ref: Isa 51:9
+  rel: imagery
+  note: YHWH pierces the tannin
+- ref: Job 7:12
+  rel: imagery
+  note: '''Am I the Sea, or the Tannin?'''
+- ref: Exod 7:9-12
+  rel: language
+  note: Aaron's staff becomes a tannin before Pharaoh
+- ref: Ezek 29:3; 32:2
+  rel: imagery
+  note: Pharaoh as the great tannin in the Nile
+- ref: Jer 51:34
+  rel: imagery
+  note: Nebuchadnezzar swallows Jerusalem like a tannin
+- ref: Neh 2:13
+  rel: language
+  note: '''Dragon''s Spring'' in Jerusalem'
+- ref: Bel 23-27
+  rel: concept
+  note: Daniel kills the dragon venerated in Babylon
+related: [leviathan, rahab-sea-monster, chaoskampf, creation-accounts, yam, marduk, ishtar-gate]
+media: []
+external:
+  wikipedia: Tannin (mythology)
+  wikidata: Q2393094
+editorial:
+  author_notes:
+  - >-
+    Ugaritic tnn appears among foes defeated by Anat and Baal (KTU 1.3 III) and as muzzled
+    by a deity (KTU 1.83); give the cognate evidence.
+  - >-
+    Gen 1:21's naming of the tanninim as created beings is widely read as demythologizing;
+    avoid overstating it as explicit polemic.
+  - Ezek 29:3 MT tannîm is commonly read tannîn; note textual issues.
+  - >-
+    LXX usually renders tannin as drakōn, the background for the dragon of Revelation and
+    of Bel and the Dragon.
+  sources_to_check:
+  - J. Day, God's Conflict with the Dragon and the Sea (1985)
+  - DDD, s.v. "Tannin"
+  image_query: Mushhushshu dragon Ishtar Gate
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

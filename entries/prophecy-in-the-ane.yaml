@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: prophecy-in-the-ane
+title: Prophecy in the Ancient Near East
+aliases: [ancient Near Eastern prophecy]
+type: practice
+cultures: [amorite, assyrian, aramean, egyptian, ane]
+scope: >-
+  A hub entry on intuitive, inspired divination by prophets in the ancient Near East. Covers
+  Old Babylonian Mari and Eshnunna, Neo-Assyrian prophecies to Esarhaddon and Ashurbanipal,
+  West Semitic inscriptions (Zakkur, Deir ʿAlla), and Egyptian and other scattered evidence,
+  with their bearing on Israelite prophecy.
+passages:
+- ref: Deut 18:15-22
+  rel: concept
+  note: Prophet like Moses and tests of true prophecy
+- ref: Deut 13:1-5
+  rel: concept
+  note: Prophet or dreamer who leads to other gods; MT 13:2-6
+- ref: 1Kgs 22:1-28
+  rel: practice
+  note: Court prophets consulted before battle; Micaiah's dissent
+- ref: 1Kgs 18:26-29
+  rel: practice
+  note: Ecstatic behaviour of Baal's prophets
+- ref: 1Sam 10:5-13
+  rel: practice
+  note: Band of prophets with music falling into ecstasy
+- ref: Jer 29:26
+  rel: language
+  note: '''Every madman (mĕšuggāʿ) who plays the prophet''; cf. Mari muḫḫûm'
+- ref: Jer 28:1-17
+  rel: practice
+  note: Conflict between prophets with opposing oracles
+- ref: Amos 7:10-17
+  rel: practice
+  note: Royal sanctuary priest expels a prophet
+- ref: Isa 41:10, 13-14
+  rel: form
+  note: '''Do not fear'' oracles; cf. Neo-Assyrian oracles to Esarhaddon'
+- ref: Num 22-24
+  rel: attests
+  note: Balaam son of Beor, known also from the Deir ʿAlla plaster texts
+related: [mari-letters, neo-assyrian-prophecies, zakkur-stele, deir-alla-inscription, report-of-wenamun,
+  divination, lachish-letters]
+media:
+- id: deir-alla-inscription
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Around 50 Mari texts report oracles by āpilum ("answerer"), muḫḫûm ("ecstatic"), and others,
+    often lay persons. The Neo-Assyrian corpus (SAA 9) contains salvation oracles of Ishtar
+    of Arbela to Esarhaddon whose "fear not" form parallels Second Isaiah.
+  - >-
+    The main difference is not phenomenology but the literary afterlife. Only in Israel were
+    prophetic oracles collected, expanded, and canonized as books. Present this as the consensus
+    contrast.
+  - >-
+    Nissinen's anthology (SBLWAW 12) is the standard source collection. Stökl (2012) offers
+    a philological and sociological comparison.
+  - >-
+    Treat Wenamun's ecstatic at Byblos and Lachish Letter 3 ("the prophet") as scattered evidence,
+    not a coherent Levantine institution.
+  sources_to_check:
+  - Martti Nissinen, Prophets and Prophecy in the Ancient Near East (SBLWAW 12, 2003)
+  - SAA 9
+  image_query: Deir Alla inscription plaster
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

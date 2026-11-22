@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: passover-origins
+file: passover-origins.jpg
+title: >-
+  Passover potsherd from Elephantine, Egypt circa 475 BCE, housed at the Ashmolean Museum,
+  Oxford.jpg
+caption: >-
+  Aramaic ostracon from Elephantine mentioning Passover, 5th century BCE (Ashmolean Museum,
+  Oxford).
+description: >-
+  This letter, written in Aramaic on a potsherd (ostraca), contains one of the earliest known
+  references to the Jewish festival of Passover. It comes from the 5th century BCE settlement
+  of Elephantine, Egypt, home to a thriving Jewish community. Clay potsherds were a cheap
+  alternative to papyrus and ideal for writing short messages. Passover commemorates the escape
+  of the Israelites from slavery in Egypt, led by Moses through the wilderness back to the
+  land of Canaan.
+creator: SpeakingArch
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: SpeakingArch, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Passover_potsherd_from_Elephantine,_Egypt_circa_475_BCE,_housed_at_the_Ashmolean_Museum,_Oxford.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/0/0d/Passover_potsherd_from_Elephantine%2C_Egypt_circa_475_BCE%2C_housed_at_the_Ashmolean_Museum%2C_Oxford.jpg
+  sha1: d540d56fe934216ebc3bb46f04c650fee980ad31
+  original_size: [736, 736]
+  retrieved: '2026-11-20'
+derivative: null
+size: [736, 736]
+depicts: [passover-origins]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: pool-of-bethesda
+file: pool-of-bethesda.jpg
+title: Jerusalem Bethesda BW 1.JPG
+caption: Excavated remains of the Pool of Bethesda beside the Church of St Anne, Jerusalem.
+description: Jerusalem, Pool of Bethesda
+creator: Berthold Werner
+credit_line: Own work
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Berthold Werner. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Jerusalem_Bethesda_BW_1.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/0/07/Jerusalem_Bethesda_BW_1.JPG
+  sha1: ff2cf0aac384289a58158a7bd4467a6bde1b53d4
+  original_size: [2592, 3872]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1071×1600 px
+size: [1071, 1600]
+depicts: [pool-of-bethesda]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

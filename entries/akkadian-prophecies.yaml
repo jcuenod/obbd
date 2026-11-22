@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: akkadian-prophecies
+title: Akkadian Prophecies (Marduk, Šulgi, Uruk, and Dynastic Prophecies)
+aliases: [Akkadian apocalypses, Marduk Prophecy, Šulgi Prophecy, Uruk Prophecy, Dynastic Prophecy,
+  literary predictive texts]
+type: text
+cultures: [babylonian, assyrian]
+date:
+  from: -1100
+  to: -300
+  circa: true
+  display: c. 1100–300 BCE
+scope: >-
+  A small group of Akkadian literary texts (the Marduk and Šulgi Prophecies, the Uruk Prophecy,
+  the Dynastic Prophecy, and "Text A") that survey a series of unnamed future reigns as good
+  or bad and usually climax in a restoring king. They are vaticinia ex eventu written to legitimate
+  a ruler or cult, and they are the main Mesopotamian comparanda for the historical reviews
+  in Daniel. Oracles of actual prophets belong to neo-assyrian-prophecies and mari-letters.
+passages:
+- ref: Dan 11:2-45
+  rel: form
+  note: Succession of unnamed kings 'arising' as a history disguised as prediction
+- ref: Dan 8:23-25
+  rel: form
+  note: Ex eventu portrait of a coming king, cast in the future tense
+- ref: Dan 2:36-45
+  rel: parallel
+  disputed: true
+  note: Sequence of empires; the Dynastic Prophecy runs from Assyria to the Macedonians
+- ref: Ezek 43:1-5
+  rel: parallel
+  note: Deity returns to his temple after departing; cf. the Marduk Prophecy's return from
+    exile
+- ref: Ezek 10:18-19; 11:22-23
+  rel: parallel
+  note: Departure of the god from his city, as Marduk 'goes' to Hatti, Assyria and Elam
+related: [four-kingdoms-schema, prophecy-of-neferti, divine-abandonment, marduk, prophecy-in-the-ane,
+  neo-assyrian-prophecies, babylonian-chronicles]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The texts are not prophecy in the sense of oracles delivered by prophets. They are scribal
+    compositions that use predictive language (often in the omen style 'a prince will arise
+    and rule for N years'). Grayson's label 'literary predictive texts' and Hallo's 'Akkadian
+    apocalypses' are both found; explain why neither label is perfect.
+  - >-
+    Give the dates and agenda of each text separately. The Marduk Prophecy (copies from Assur
+    and Nineveh) recounts the god's absences in Hatti, Assyria and Elam and predicts the king
+    who will bring him back, probably Nebuchadnezzar I (12th c.). The Uruk Prophecy (late
+    copy from Uruk) ends with a king from Uruk, often taken as Nebuchadnezzar II. The Dynastic
+    Prophecy (Hellenistic) covers the fall of Assyria to the defeat of Darius III.
+  - >-
+    Lambert (1978) and others saw these texts as one background for Jewish apocalyptic, especially
+    Dan 8 and 11. Present this as a typological and generic comparison, not as proof of direct
+    literary dependence.
+  - >-
+    Note the shared logic with the Egyptian Prophecy of Neferti, a much older example of vaticinium
+    ex eventu.
+  sources_to_check:
+  - A. K. Grayson and W. G. Lambert, 'Akkadian Prophecies,' JCS 18 (1964)
+  - A. K. Grayson, Babylonian Historical-Literary Texts (1975)
+  - H. Hunger and S. A. Kaufman, 'A New Akkadian Prophecy Text,' JAOS 95 (1975)
+  - R. Borger, 'Gott Marduk und Gott-König Šulgi als Propheten,' BiOr 28 (1971)
+  - W. G. Lambert, The Background of Jewish Apocalyptic (1978)
+  - Tremper Longman III, Fictional Akkadian Autobiography (1991)
+  - M. Neujahr, Predicting the Past in the Ancient Near East (BJS 354, 2012)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

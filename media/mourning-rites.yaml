@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: mourning-rites
+file: mourning-rites.jpg
+title: Sarcophagus of Ahiram detail.jpg
+caption: >-
+  Mourning women beating their breasts and tearing their hair, relief on the side of the sarcophagus
+  of Ahiram of Byblos (National Museum of Beirut).
+description: Detail of the side of the sarcophagus of Ahiram showing four mourning women
+creator: Emna Mizouni
+credit_line: File:Sarcophagus_with_Phoenician_writing_3.jpg
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Emna Mizouni, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sarcophagus_of_Ahiram_detail.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/0/05/Sarcophagus_of_Ahiram_detail.jpg
+  sha1: 65b6dbb99339e5605e6773c38e4aa28256179616
+  original_size: [2166, 1008]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×745 px
+size: [1600, 745]
+depicts: [mourning-rites]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

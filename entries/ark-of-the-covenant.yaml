@@ -1,0 +1,81 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ark-of-the-covenant
+title: Ark of the Covenant
+aliases: [Ark of YHWH, Ark of God, Ark of the testimony]
+type: realia
+cultures: [hebrew, egyptian]
+scope: >-
+  The portable wooden chest of Israelite tradition, variously presented as the container of
+  the covenant tablets, the footstool of YHWH enthroned on the cherubim, and a war palladium.
+  The entry covers its descriptions and history in the biblical traditions, and its comparanda
+  in Egyptian processional chests and barques and in ancient Near Eastern treaty deposits.
+passages:
+- ref: Exod 25:10-22
+  rel: realia
+  note: Acacia chest overlaid with gold, carrying poles, kappōret and two cherubim
+- ref: Deut 10:1-5
+  rel: practice
+  note: The ark as container for the tablets; cf. treaty deposit before the deity
+- ref: Num 10:35-36
+  rel: concept
+  note: '''Arise, O LORD'': the ark as the presence of the divine warrior'
+- ref: Josh 3:3-17
+  rel: practice
+  note: The ark leads the procession across the Jordan
+- ref: 1Sam 4-6
+  rel: concept
+  note: Ark captured and returned; cf. the capture of divine images in war
+- ref: 2Sam 6
+  rel: practice
+  note: David's procession of the ark to Jerusalem
+- ref: 1Kgs 8:1-9
+  rel: realia
+  note: Ark installed under the cherubim in the inner sanctuary; holds only the tablets
+- ref: 1Chr 28:2
+  rel: concept
+  note: Ark as 'the footstool of our God'
+- ref: Ps 132:8
+  rel: concept
+  note: '''You and the ark of your might'' brought to rest'
+- ref: Jer 3:16
+  rel: concept
+  note: The ark will not be remembered or remade
+related: [cherub-throne, footstool, tabernacle, cherubim, divine-warrior, covenant-and-treaty-form,
+  tutankhamun-anubis-shrine, cult-images]
+media:
+- id: ark-of-the-covenant
+  role: primary
+external:
+  wikipedia: Ark of the Covenant
+  wikidata: Q131316
+editorial:
+  author_notes:
+  - >-
+    Separate the conceptions: the Deuteronomistic container of the tablets, the Priestly kappōret
+    with cherubim, and the older war palladium (Num 10:35-36; 1 Sam 4).
+  - >-
+    Close formal parallels are Egyptian portable chests and barque shrines carried on poles
+    (e.g. Tutankhamun's Anubis shrine). Hittite and Egyptian treaties were deposited before
+    the gods, which bears on Deut 10:1-5.
+  - >-
+    1 Sam 4–6 should be read alongside the Mesopotamian capture and return of divine statues.
+    Rost's 'Ark Narrative' hypothesis remains debated.
+  - >-
+    The ark's fate is unknown. Note recent proposals tied to Kiriath-jearim excavations as
+    hypotheses, and do not engage the popular 'lost ark' claims (Ethiopia, etc.) beyond a
+    mention.
+  image_query: Tutankhamun Anubis shrine carrying poles
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,80 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: paleo-hebrew-script
+title: Paleo-Hebrew Script and Hebrew Epigraphy
+aliases: [Old Hebrew script, Hebrew epigraphy]
+type: concept
+cultures: [hebrew]
+scope: >-
+  The national script of Israel and Judah, derived from the Phoenician alphabet and distinct
+  by the 9th to 8th centuries, and the field of Hebrew epigraphy built on it. The entry covers
+  its replacement by the Aramaic-derived square script and its survival in Qumran manuscripts,
+  Hasmonean and Revolt coinage, and the Samaritan script.
+passages:
+- ref: Isa 8:1
+  rel: practice
+  note: Writing on a large tablet 'in common characters' (ḥereṭ ʾĕnôš)
+- ref: Job 19:23-24
+  rel: realia
+  note: Words engraved in rock with iron stylus and lead
+- ref: Jer 17:1
+  rel: realia
+  note: Writing with an iron pen and diamond point
+- ref: Deut 27:2-8
+  rel: practice
+  note: Law written on plastered stones
+- ref: Hab 2:2
+  rel: practice
+  note: Writing the vision plainly on tablets
+- ref: 2Kgs 18:26
+  rel: language
+  note: '''Judean'' (yĕhûdît) as the language of Jerusalem, distinct from Aramaic'
+- ref: Neh 13:24
+  rel: language
+  note: Children who cannot speak 'Judean'
+- ref: Ezra 4:7
+  rel: language
+  note: A letter written in Aramaic script
+related: [writing-and-literacy, proto-sinaitic-script, aramaic-language, siloam-inscription,
+  samaritan-origins, dead-sea-scrolls, scribes-and-scribal-education, ostraca]
+media:
+- id: siloam-inscription
+  role: primary
+- id: paleo-hebrew-script
+  role: gallery
+external:
+  wikipedia: Paleo-Hebrew alphabet
+  wikidata: Q440608
+editorial:
+  author_notes:
+  - >-
+    Present the main typological and palaeographic dating framework (Cross, Naveh, Rollston)
+    and its limits. Palaeography gives ranges, not precise dates.
+  - >-
+    Note the distinctive Hebrew features (e.g. the shapes of kaph and mem), the use of hieratic
+    numerals, and the regional north/south differences.
+  - >-
+    Scribes kept the old script for the divine name in some Qumran manuscripts and for whole
+    scrolls (e.g. paleo-Leviticus). Explain the ideological uses of the script in the Hasmonean
+    and Bar Kokhba periods.
+  - >-
+    Link to the literacy debate (Rollston, Schniedewind) without overclaiming widespread literacy.
+  sources_to_check:
+  - Naveh, Early History of the Alphabet (1982)
+  - Rollston, Writing and Literacy in the World of Ancient Israel (2010)
+  - Renz and Röllig, Handbuch der althebräischen Epigraphik (1995-2003)
+  - Dobbs-Allsopp et al., Hebrew Inscriptions (2005)
+  image_query: Paleo-Hebrew Leviticus scroll Qumran
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

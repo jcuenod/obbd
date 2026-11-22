@@ -1,0 +1,90 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: lachish
+title: Lachish
+aliases: [Tel Lachish, Tell ed-Duweir, Lakisu]
+type: site
+cultures: [judahite, canaanite]
+scope: >-
+  The leading Judahite city of the Shephelah after Jerusalem and a Late Bronze Canaanite city-state.
+  Covers its Canaanite temples, the Iron Age palace-fort, the 701 BCE Assyrian siege and its
+  depiction at Nineveh, the gate shrine, and the final destruction of 588/586 BCE.
+passages:
+- ref: Josh 10:31-35
+  rel: setting
+  note: Joshua takes Lachish
+- ref: Josh 15:39
+  rel: setting
+  note: Lachish in Judah's Shephelah district list
+- ref: 2Chr 11:5-9
+  rel: setting
+  note: Rehoboam fortifies Lachish
+- ref: 2Kgs 14:19
+  rel: setting
+  note: Amaziah flees to Lachish and is killed there
+- ref: 2Kgs 18:14, 17; 19:8
+  rel: attests
+  note: Sennacherib's headquarters; Level III destruction and siege ramp (701 BCE)
+- ref: 2Chr 32:9
+  rel: setting
+  note: Sennacherib at Lachish with all his forces
+- ref: Mic 1:13
+  rel: setting
+  note: Lachish to harness steeds; 'beginning of sin to daughter Zion'
+- ref: Jer 34:7
+  rel: attests
+  note: Lachish and Azekah the last fortified cities; cf. Lachish Letter 4
+- ref: Neh 11:30
+  rel: setting
+  note: Lachish resettled in the Persian period
+related: [lachish-reliefs, lachish-letters, sennacherib-campaign-701, sennacherib, assyrian-siege-warfare,
+  lmlk-seal-impressions, fall-of-jerusalem-587, city-gates]
+media:
+- id: lachish
+  role: primary
+- id: lachish-2
+  role: gallery
+external:
+  wikipedia: Tel Lachish
+  wikidata: Q848509
+  pleiades: '687951'
+editorial:
+  author_notes:
+  - >-
+    Ussishkin's excavations settled the old debate by dating Level III's destruction to 701
+    (Sennacherib), not 597. This date anchors the Judahite pottery sequence and the lmlk jars.
+  - >-
+    The Assyrian siege ramp and the Judahite counter-ramp are the only excavated Assyrian
+    siege works. Compare them directly with the Nineveh reliefs.
+  - >-
+    The Level III gate shrine, with a defaced horned altar and a toilet installation, has
+    been read as material evidence of Hezekiah's reform (2 Kgs 18:4). This reading is debated.
+  - >-
+    The Late Bronze Fosse Temple and the Level VI Canaanite city (destroyed c. 1150) belong
+    in the Canaanite background. Level II ends in the Babylonian destruction, the context
+    of the Lachish letters.
+  sources_to_check:
+  - NEAEHL
+  - Ussishkin, The Renewed Archaeological Excavations at Lachish (1973-1994) (2004)
+  image_query: Tel Lachish aerial
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q848509 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-1-sol
+coordinates:
+  lat: 31.56528
+  lon: 34.84917
+  source: wikidata:Q848509

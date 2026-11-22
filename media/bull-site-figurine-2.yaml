@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: bull-site-figurine-2
+file: bull-site-figurine-2.png
+title: The Bull Site.png
+caption: >-
+  The Bull Site, an Iron Age I open-air cult place on a ridge in the northern Samarian hills.
+description: The Bull Site, an Iron I cultic installation in the Samarian Hills
+creator: Natritmeyer
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Natritmeyer, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:The_Bull_Site.png
+  original_url: https://upload.wikimedia.org/wikipedia/commons/0/08/The_Bull_Site.png
+  sha1: 11dbbda383319b79b7ba0d4f74e5032314d6f545
+  original_size: [1024, 768]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1024, 768]
+depicts: [bull-site-figurine]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

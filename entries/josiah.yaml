@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: josiah
+title: Josiah
+type: person
+cultures: [judahite]
+date:
+  from: -640
+  to: -609
+  circa: true
+  display: c. 640–609 BCE
+scope: >-
+  Josiah son of Amon, king of Judah, remembered for the discovery of the 'book of the law'
+  and a cult reform, and killed at Megiddo by Necho II in 609. No extrabiblical text names
+  him. He is approached through the Babylonian Chronicle, late 7th-century seals and bullae,
+  and the archaeology of Judah.
+passages:
+- ref: 2Kgs 22:8-13
+  rel: setting
+  note: Discovery of the 'book of the law', since de Wette linked to Deuteronomy
+- ref: 2Kgs 23:4-20
+  rel: practice
+  disputed: true
+  note: Cult reform in Jerusalem, Judah and Bethel; archaeological evidence debated
+- ref: 2Kgs 23:29-30
+  rel: event
+  note: Death at Megiddo when Necho went up to the king of Assyria
+- ref: 2Chr 35:20-24
+  rel: event
+  note: The Chronicler's battle account at Megiddo
+- ref: Zeph 1:1, 4-6
+  rel: setting
+  note: Prophecy in Josiah's day against Baal, the host of heaven and Milcom
+- ref: Jer 22:15-16
+  rel: concept
+  note: Josiah remembered for justice to the poor and needy
+related: [cult-reforms-archaeology, necho-ii, fall-of-nineveh-chronicle, megiddo, bullae-of-jeremiah-era-officials,
+  mesad-hashavyahu-ostracon, babylonian-chronicles, esarhaddon-succession-treaty]
+media: []
+external:
+  wikipedia: Josiah
+  wikidata: Q313228
+editorial:
+  author_notes:
+  - >-
+    The Babylonian Chronicle for 609 shows Egypt going to aid Assyria at Harran. This clarifies
+    2 Kgs 23:29, which says Necho went up 'to' (not 'against') the king of Assyria.
+  - >-
+    The historicity and extent of the reform and of Josiah's northward expansion are heavily
+    debated (minimalist and maximalist positions; the absence of iconic material in late 7th-century
+    bullae; persistence of pillar figurines).
+  - >-
+    Deuteronomy's dependence on Assyrian treaty forms (Esarhaddon's Succession Treaty) is
+    relevant to the 'book of the law'. Present it as a scholarly hypothesis about Deuteronomy,
+    not about Josiah.
+  - >-
+    Bullae of officials named in 2 Kgs 22-23 and Jeremiah (e.g. Nathan-melech) give a prosopographical
+    context.
+  sources_to_check:
+  - Grayson, Assyrian and Babylonian Chronicles (1975)
+  - Cogan and Tadmor, II Kings (AB 11, 1988)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

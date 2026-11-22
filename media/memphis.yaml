@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: memphis
+file: memphis.jpg
+title: Memphis200401.JPG
+caption: Ruins of the hypostyle hall and pylon of Ramesses II at Memphis (Mit Rahina).
+description: >-
+  Ruins of the hypostyle room and pylon of Ramses II - 19th dynasty - Memphis - Mit Rahineh
+creator: No machine-readable author provided. Neithsabes assumed (based on copyright claims).
+credit_line: No machine-readable source provided. Own work assumed (based on copyright claims).
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: >-
+  No machine-readable author provided. Neithsabes assumed (based on copyright claims).. Public
+  domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Memphis200401.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/c/cf/Memphis200401.JPG
+  sha1: 5f7a1c5eb5a08f8b111148764bf7457f0b2c7808
+  original_size: [2048, 1536]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [memphis]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

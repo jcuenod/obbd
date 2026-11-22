@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ziggurat-and-babel
+title: The Tower of Babel and Its Mesopotamian Background
+aliases: [Tower of Babel]
+type: concept
+cultures: [babylonian, sumerian, assyrian]
+scope: >-
+  The Tower of Babel story (Gen 11:1-9) against its Mesopotamian background: ziggurats (especially
+  Etemenanki in Babylon), brick-and-bitumen construction, the name Babylon, and Mesopotamian
+  traditions about one language and imperial building projects.
+passages:
+- ref: Gen 11:1-9
+  rel: concept
+  note: City and tower in Shinar; confusion of language and scattering
+- ref: Gen 11:3
+  rel: realia
+  note: Baked brick and bitumen in place of stone and mortar
+- ref: Gen 11:4
+  rel: concept
+  note: '''A tower with its top in the heavens''; cf. ziggurat names and inscriptions'
+- ref: Gen 11:9
+  rel: language
+  note: Babel explained by bālal 'confuse'; Akkadian Bāb-ili 'gate of god'
+- ref: Gen 10:10
+  rel: setting
+  note: Babel in the land of Shinar, beginning of Nimrod's kingdom
+- ref: Gen 28:12
+  rel: imagery
+  disputed: true
+  note: Stairway (sullām) to heaven; ziggurat stairs proposed as background
+- ref: Isa 14:13-14
+  rel: imagery
+  note: King of Babylon would ascend above the clouds
+- ref: Jer 51:53
+  rel: imagery
+  note: '''Though Babylon should mount up to heaven'''
+related: [etemenanki, ziggurat, babylon, enmerkar-and-the-lord-of-aratta, enuma-elish, nimrod,
+  table-of-nations, cosmic-mountain]
+media:
+- id: ziggurat-and-babel
+  role: primary
+- id: ziggurat-and-babel-2
+  role: gallery
+external:
+  wikipedia: Tower of Babel
+  wikidata: Q41213
+editorial:
+  author_notes:
+  - >-
+    Etemenanki ('House of the foundation of heaven and earth') in Babylon is the most likely
+    referent. Nebuchadnezzar II's inscriptions boast of raising its top to rival the heavens.
+    Compare Enuma Elish VI, where the gods build Esagila with bricks.
+  - >-
+    Uehlinger (Weltreich und 'eine Rede', OBO 101, 1990) reads the story against Neo-Assyrian
+    imperial 'one speech' ideology and Sargon II's Dur-Sharrukin. This is influential but
+    debated.
+  - >-
+    The 'spell of Nudimmud' in Enmerkar and the Lord of Aratta speaks of a single language.
+    Whether it describes an original unity or a future one is disputed.
+  - >-
+    Do not identify the 'actual' tower archaeologically. The story is generally assigned to
+    the non-Priestly primeval history, and its date is debated.
+  image_query: Ziggurat of Ur
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

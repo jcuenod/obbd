@@ -1,0 +1,96 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: debt-release
+title: Debt Remission, Manumission, and Jubilee
+aliases: [Jubilee, Year of Release, Shemittah, Mīšarum, Andurārum, Derôr]
+type: practice
+cultures: [hebrew, akkadian, sumerian, assyrian]
+scope: >-
+  Biblical laws for cancelling debts, releasing debt-servants, and returning alienated land
+  (the seventh-year release of Deut 15 and the fiftieth-year Jubilee of Lev 25), compared
+  with Mesopotamian royal edicts of 'justice' (mīšarum) and 'release' (andurārum). The fallow
+  year is treated under sabbatical-year.
+passages:
+- ref: Lev 25:8-17
+  rel: practice
+  note: 'Jubilee: proclamation of release (dĕrôr, cf. Akk. andurārum) and return of land'
+- ref: Lev 25:39-55
+  rel: practice
+  note: Release of Israelite debt-servants in the Jubilee
+- ref: Deut 15:1-11
+  rel: practice
+  note: Seventh-year remission (šĕmiṭṭâ) of loans between Israelites
+- ref: Deut 15:12-18
+  rel: practice
+  note: Release of Hebrew debt-servants in the seventh year
+- ref: Exod 21:2-6
+  rel: practice
+  note: Release of a Hebrew slave after six years' service
+- ref: Jer 34:8-22
+  rel: practice
+  note: Zedekiah's proclamation of release (dĕrôr) and its revocation
+- ref: Neh 5:1-13
+  rel: practice
+  note: Ad hoc remission of debts and pledges, comparable to a royal mīšarum
+- ref: Neh 10:31
+  rel: practice
+  note: Covenant pledge to forgo debts in the seventh year (MT 10:32)
+- ref: Ezek 46:17
+  rel: practice
+  note: '''Year of liberty'' (šĕnat hadĕrôr) when gifted land reverts'
+- ref: Isa 61:1-2
+  rel: concept
+  note: Proclaiming liberty (dĕrôr) to captives, the year of YHWH's favour
+- ref: Luke 4:18-19
+  rel: concept
+  note: Jesus applies Isa 61:1-2 and 58:6 to his ministry
+related: [sabbatical-year, edict-of-ammi-saduqa, slavery, land-redemption, code-of-hammurabi,
+  hammurabi, widow-orphan-sojourner]
+media: []
+external:
+  wikipedia: Jubilee (biblical)
+  wikidata: Q1194545
+editorial:
+  author_notes:
+  - >-
+    Distinguish three biblical institutions that are often conflated. They are the seventh-year
+    remission of loans (Deut 15:1-11), the release of debt-servants after six years (Exod
+    21:2-6; Deut 15:12-18), and the Jubilee return of land and persons (Lev 25).
+  - >-
+    Mesopotamian edicts (Uru-inimgina's amargi; Old Babylonian mīšarum acts such as Ammi-ṣaduqa's)
+    were issued at a king's discretion, often on accession, and cancelled consumer debts but
+    not commercial loans. The biblical releases are periodic and grounded in divine ownership
+    of land and people.
+  - >-
+    Hebrew dĕrôr is cognate with Akkadian andurārum, but etymology alone does not prove borrowing.
+    Present the lexical link with that caution.
+  - >-
+    Whether the Jubilee was ever practised is debated, and positive evidence is lacking. Jer
+    34 and Neh 5 look more like ad hoc royal or gubernatorial acts. Lev 25 is usually assigned
+    to H (late pre-exilic to post-exilic). 11QMelchizedek and Luke 4 show its eschatological
+    reuse.
+  - >-
+    Mention Hillel's prozbul (m. Shevi'it 10:3) as evidence that Deut 15 remission was observed
+    in later Judaism and caused credit problems.
+  sources_to_check:
+  - Kraus, Königliche Verfügungen in altbabylonischer Zeit (1984)
+  - Weinfeld, Social Justice in Ancient Israel and in the Ancient Near East (1995)
+  - Bergsma, The Jubilee from Leviticus to Qumran (2007)
+  - ANET 526-528
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: 'Passage tags checked against WEB text: Jer 34:8-22 rel event -> practice'
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: harpers-songs
+file: harpers-songs.jpg
+title: Tomb chapel of paätenemheb (RMO Leiden egypt saqqara 1333-1307bc) (3970065130).jpg
+caption: >-
+  Blind harper with the text of his song above him, relief from the tomb chapel of Paatenemheb
+  at Saqqara, c. 1330 BCE (Rijksmuseum van Oudheden, Leiden).
+description: >-
+  "Blind" harper books.google.nl/books?id=l7Bfd0zy_YQC&pg=PA120&lp... The text is above him
+  (according to the museum)
+creator: rob koopman from Leiderdorp, netherlands
+credit_line: Tomb chapel of paätenemheb (RMO Leiden egypt saqqara 1333-1307bc)
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: rob koopman from Leiderdorp, netherlands, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Tomb_chapel_of_pa%C3%A4tenemheb_(RMO_Leiden_egypt_saqqara_1333-1307bc)_(3970065130).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/c/c7/Tomb_chapel_of_pa%C3%A4tenemheb_%28RMO_Leiden_egypt_saqqara_1333-1307bc%29_%283970065130%29.jpg
+  sha1: f2171d4351b5f432d8ec7873d03835d6ff0051b2
+  original_size: [3259, 2655]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1303 px
+size: [1600, 1303]
+depicts: [harpers-songs]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

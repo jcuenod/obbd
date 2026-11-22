@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: forgeries-in-biblical-archaeology
+file: forgeries-in-biblical-archaeology.jpg
+title: The Shapira Manuscript of Deuteronomy - The Graphic 1883.jpg
+caption: >-
+  Drawings of the Shapira 'Deuteronomy' strips, published in The Graphic on 1 September 1883,
+  shortly before they were exposed as forgeries.
+description: >-
+  The Shapira Manuscript of Deuteronomy. Illustration for The Graphic, 1 September 1883. Drawings
+  of Fragment E from The Graphic (1883). Column 3 is shown below. The text on top is from
+  Fragment A, column 1. Republished in 2021 by Idan Dershowitz in The Valediction of Moses:
+  A Proto-Biblical Book.
+creator: signed two times RWR? MWR WMR
+credit_line: >-
+  Dershowitz, Idan (2021). The Valediction of Moses: A Proto-Biblical Book. Forschungen zum
+  Alten Testament.
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: signed two times RWR? MWR WMR. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:The_Shapira_Manuscript_of_Deuteronomy_-_The_Graphic_1883.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/91/The_Shapira_Manuscript_of_Deuteronomy_-_The_Graphic_1883.jpg
+  sha1: b0fbec41a70e4de7d68d470e715d46e3e542dc0c
+  original_size: [2258, 1807]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1281 px
+size: [1600, 1281]
+depicts: [forgeries-in-biblical-archaeology]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

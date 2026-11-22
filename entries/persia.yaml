@@ -1,0 +1,86 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: persia
+title: Persia (Achaemenid Empire)
+aliases: [Achaemenid Empire, Persian Empire, Pārsa]
+type: people
+cultures: [persian]
+date:
+  from: -550
+  to: -330
+  display: 550–330 BCE
+scope: >-
+  The Achaemenid Persian Empire from Cyrus II to Darius III, under which Judah became the
+  province of Yehud. Covers the empire's history, sources, administration and royal ideology,
+  and their reflection in Ezra-Nehemiah, Esther, Daniel, Haggai, Zechariah and Second Isaiah.
+passages:
+- ref: Isa 44:28-45:7
+  rel: setting
+  note: Cyrus as YHWH's shepherd and anointed
+- ref: Ezra 1:1-4
+  rel: practice
+  note: Cyrus's edict permitting return and temple rebuilding
+- ref: Ezra 4:7-24
+  rel: form
+  note: Official Aramaic correspondence with Persian kings
+- ref: Ezra 6:1-12
+  rel: practice
+  note: Archive search at Ecbatana; Darius confirms the decree
+- ref: Ezra 7:11-26
+  rel: practice
+  note: 'Artaxerxes'' rescript: ''the law of your God and the law of the king'''
+- ref: Neh 2:1-9
+  rel: practice
+  note: Nehemiah as cupbearer; royal letters to governors
+- ref: Hag 1:1
+  rel: setting
+  note: Dating by Darius's regnal years; Zerubbabel governor of Judah
+- ref: Esth 1
+  rel: setting
+  note: The Achaemenid court at Susa
+- ref: Dan 6
+  rel: setting
+  note: Satrapal administration under 'Darius the Mede'
+- ref: Dan 11:2
+  rel: setting
+  note: Four Persian kings to arise
+related: [cyrus-the-great, darius-i, cyrus-cylinder, behistun-inscription, persian-imperial-authorization,
+  yehud-province, persepolis, susa]
+media:
+- id: persia
+  role: primary
+external:
+  wikipedia: Achaemenid Empire
+  wikidata: Q389688
+editorial:
+  author_notes:
+  - >-
+    The sources are Achaemenid royal inscriptions (Behistun and others), the Persepolis archives,
+    Aramaic documents (Elephantine, Bactria), and Greek writers (Herodotus, Xenophon, Ctesias).
+    Each has its own biases.
+  - >-
+    Frei's 'imperial authorization' thesis for the Pentateuch is debated and has been substantially
+    weakened. Cross-refer persian-imperial-authorization.
+  - >-
+    The Cyrus Cylinder does not mention Judeans. The popular image of it as a 'charter of
+    human rights' is a misconception.
+  - >-
+    Persian administrative vocabulary in the Bible includes dāt 'law', ʾăḥašdarpĕnîm 'satraps'
+    and ganzak 'treasury'. Yehud was a small province.
+  sources_to_check:
+  - Briant, From Cyrus to Alexander (2002)
+  - Kuhrt, The Persian Empire - A Corpus of Sources from the Achaemenid Period (2007)
+  image_query: Tomb of Cyrus Pasargadae
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

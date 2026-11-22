@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: septuagint
+file: septuagint.jpg
+title: P. Ryl. GK. 458.jpeg
+caption: >-
+  Papyrus Rylands 458, fragments of Deuteronomy in Greek, one of the oldest Septuagint manuscripts
+  (John Rylands Library, Manchester).
+description: >-
+  The John Rylands University Library holds one of the richest and most wide-ranging papyrus
+  collections in Britain, including religious, devotional, literary and administrative texts.
+  The images show some of the highlights of the * Greek papyri, numbering approximately 2,000
+  items, include the famous fragments of St John's Gospel and Deuteronomy, the earliest surviving
+  pieces of the New Testament and the Greek Old Testament respectively.
+creator: The hunter1986
+credit_line: Own work
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: The hunter1986. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:P._Ryl._GK._458.jpeg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/6/6e/P._Ryl._GK._458.jpeg
+  sha1: 2741e4db6e2065d90d6454c6e7580743f887f732
+  original_size: [1042, 626]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1042, 626]
+depicts: [septuagint]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

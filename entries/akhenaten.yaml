@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: akhenaten
+title: Akhenaten
+aliases: [Amenhotep IV, Akhenaton]
+type: person
+cultures: [egyptian]
+date:
+  from: -1353
+  to: -1336
+  circa: true
+  display: c. 1353–1336 BCE
+scope: >-
+  Eighteenth Dynasty pharaoh who promoted the exclusive worship of the sun disk (Aten), founded
+  a new capital at Akhetaten (Amarna), and suppressed the cult of Amun. His reign is documented
+  in the Amarna Letters, and he is a perennial figure in debates about the origins of monotheism.
+passages:
+- ref: Ps 104:20-30
+  rel: parallel
+  note: Great Hymn to the Aten, composed under Akhenaten, parallels the creation psalm
+- ref: Deut 6:4
+  rel: concept
+  disputed: true
+  note: Exclusive devotion to one deity; Atenism as a comparandum, not a source
+related: [great-hymn-to-the-aten, amarna-letters, egyptian-kingship, yhwh-origins, habiru,
+  tutankhamun-footstool]
+media:
+- id: akhenaten
+  role: primary
+- id: akhenaten-2
+  role: gallery
+external:
+  wikipedia: Akhenaten
+  wikidata: Q81794
+editorial:
+  author_notes:
+  - >-
+    Present the debate over whether Atenism was monotheism, henotheism, or a royal cult. It
+    centred on the king and royal family, without ethical or covenantal dimensions comparable
+    to Israelite Yahwism.
+  - >-
+    Freud's derivation of Mosaic monotheism from Atenism (Moses and Monotheism, 1939) and
+    later popular variants are not supported. Assmann's work on "Moses the Egyptian" deals
+    with cultural memory, not a historical link.
+  - >-
+    Regnal dates are conventional (c. 1353-1336). Amarna chronology, including a possible
+    coregency with Amenhotep III, is debated.
+  - >-
+    After his death his monuments were dismantled and his name was suppressed. This is relevant
+    to how his religion could, or could not, have been transmitted.
+  sources_to_check:
+  - Hornung, Akhenaten and the Religion of Light (1999)
+  - Assmann, Moses the Egyptian (1997)
+  - Moran, The Amarna Letters (1992)
+  image_query: Akhenaten colossal statue Karnak
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: removed Josh 10:1 (Adoni-zedek; tangential to Akhenaten,
+    covered under amarna-letters)
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: dibon-2
+file: dibon-2.jpg
+title: Tell Dhiban 76.jpg
+caption: Excavated remains on the summit of Tell Dhiban.
+description: The archaeological site of Tell Dhiban, home to the palace of the Moabite King
+  Mesha.
+creator: Mohammad hajeer
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Mohammad hajeer, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tell_Dhiban_76.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/7/7c/Tell_Dhiban_76.jpg
+  sha1: be6b7473309a567c09ad9144bd5255b14b7979a6
+  original_size: [4000, 3000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [dibon]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

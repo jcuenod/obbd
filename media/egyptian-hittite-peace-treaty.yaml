@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: egyptian-hittite-peace-treaty
+file: egyptian-hittite-peace-treaty.jpg
+title: >-
+  Kadesh Treaty, written in Akkadian. 1269 BCE. From Boğazköy, Turkey. Clay tablet. Museum
+  of the Ancient Orient, Istanbul, Turkey.jpg
+caption: >-
+  Akkadian clay tablet of the Egyptian–Hittite peace treaty from Boğazköy (Ḫattuša), 13th
+  century BCE (Museum of the Ancient Orient, Istanbul).
+description: >-
+  The Treaty of Kadesh was written in the Akkadian language in 1269 BCE. It was a peace treaty
+  that was concluded between Ramesses II (the Egyptian pharaoh) and Hattusilis (king of Hittite).
+  The two fragments of the same large tablets were found in Boğazköy-Buyulkale (the ancient
+  capital of the Hittite), Turkey in 1906 CE. Terracotta, Hittite imperial era, 1269 BCE.
+  Clay tablet. Museum of the Ancient Orient, Istanbul, Turkey.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Kadesh_Treaty,_written_in_Akkadian._1269_BCE._From_Bo%C4%9Fazk%C3%B6y,_Turkey._Clay_tablet._Museum_of_the_Ancient_Orient,_Istanbul,_Turkey.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/e/e9/Kadesh_Treaty%2C_written_in_Akkadian._1269_BCE._From_Bo%C4%9Fazk%C3%B6y%2C_Turkey._Clay_tablet._Museum_of_the_Ancient_Orient%2C_Istanbul%2C_Turkey.jpg
+  sha1: ebf64f54ecfe98ccd8a4f162ce37bcb5dec9daf5
+  original_size: [4016, 6016]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1068×1600 px
+size: [1068, 1600]
+depicts: [brotherhood-language, egyptian-hittite-peace-treaty]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

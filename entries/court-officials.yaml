@@ -1,0 +1,84 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: court-officials
+title: Court Titles and Officials
+aliases: [Royal officials, Court titles]
+type: concept
+cultures: [judahite, assyrian, babylonian, egyptian, persian]
+scope: >-
+  The titles and functions of royal officials in Israel and Judah (secretary, herald or recorder,
+  'over the house', king's friend), and foreign court titles appearing in the Bible, many
+  of them Akkadian, Egyptian or Persian loans. The entry covers epigraphic attestations on
+  seals, bullae and inscriptions.
+passages:
+- ref: 2Sam 8:16-18
+  rel: language
+  note: 'David''s officials: army commander, recorder, priests, secretary'
+- ref: 1Kgs 4:1-6
+  rel: language
+  note: Solomon's officials, including secretaries, recorder, king's friend, 'over the house'
+- ref: 1Kgs 18:3
+  rel: language
+  note: Obadiah 'over the house' of Ahab
+- ref: Isa 22:15-25
+  rel: language
+  note: Shebna and Eliakim 'over the house'; key of the house of David
+- ref: Isa 36:3
+  rel: language
+  note: Eliakim over the house, Shebna secretary, Joah recorder
+- ref: 2Kgs 18:17
+  rel: language
+  note: 'Tartan, Rab-saris and Rabshakeh: Akkadian turtānu, rab ša rēši, rab šāqê'
+- ref: Jer 39:3, 13
+  rel: language
+  note: 'Babylonian officials: Rab-saris, Rab-mag'
+- ref: 2Kgs 25:8
+  rel: language
+  note: Nebuzaradan, 'chief of the guard' (cf. Akkadian rab ṭābiḫi)
+- ref: Gen 40:1-2
+  rel: language
+  note: Pharaoh's chief cupbearer and chief baker
+- ref: Neh 1:11
+  rel: language
+  note: Nehemiah, cupbearer to Artaxerxes
+- ref: Esth 1:14
+  rel: practice
+  note: Seven princes who saw the king's face
+- ref: Dan 3:2-3
+  rel: language
+  note: Persian and Aramaic official titles (satraps, prefects, governors)
+related: [royal-steward-inscription, eunuchs, bullae-of-jeremiah-era-officials, seals-and-bullae,
+  scribes-and-scribal-education, egyptian-loanwords, sennacherib-campaign-701]
+media:
+- id: eunuchs-2
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The Akkadian titles in 2 Kgs 18:17 are well established (H. Tadmor). Rab-shakeh is 'chief
+    cupbearer', not a personal name.
+  - >-
+    The Nebo-Sarsekim tablet (British Museum, 595 BCE) names a Nabû-šarrussu-ukīn, rab ša
+    rēši. Its identification with Jer 39:3 is debated because the Hebrew of that verse is
+    difficult.
+  - >-
+    Epigraphy: the Silwan 'royal steward' tomb inscription ('…yahu who is over the house');
+    seals and bullae with 'servant of the king' and 'who is over the house'.
+  - >-
+    T. N. D. Mettinger, Solomonic State Officials (1971), argued for Egyptian models. Present
+    this as debated.
+  image_query: Nebo-Sarsekim tablet
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

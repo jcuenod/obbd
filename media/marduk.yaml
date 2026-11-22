@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: marduk
+file: marduk.jpg
+title: Sceau culte Marduk Nabu AO 7217.jpg
+caption: >-
+  Chalcedony cylinder seal and modern impression showing the worship of Marduk and Nabû, Neo-Assyrian
+  period (Musée du Louvre, AO 7217).
+description: >-
+  Cylinder seal in chalcedony with modern print: worship of the Babylonian gods Marduk and
+  Nabû. Neo-Assyrian period (934-609 BC). AO 7217.
+creator: Zunkir
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Zunkir, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sceau_culte_Marduk_Nabu_AO_7217.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/0/0b/Sceau_culte_Marduk_Nabu_AO_7217.jpg
+  sha1: 18a4d3609e3126d0c8da41069bc3384322e6a40b
+  original_size: [5549, 3186]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×918 px
+size: [1600, 918]
+depicts: [marduk]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

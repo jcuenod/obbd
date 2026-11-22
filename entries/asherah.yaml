@@ -1,0 +1,90 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: asherah
+title: Asherah
+aliases: [Athirat, ʾAṯiratu, asherah pole, sacred pole]
+type: deity
+cultures: [canaanite, ugaritic, judahite, israelite]
+scope: >-
+  Asherah, the West Semitic goddess known at Ugarit as Athirat, consort of El and mother of
+  the gods, and in the Hebrew Bible both a goddess and a cultic object (the ʾăšērâ, a wooden
+  pole or stylized tree). The entry covers the goddess, the cult object, and the inscriptional
+  evidence for "YHWH and his asherah".
+passages:
+- ref: Deut 16:21
+  rel: practice
+  note: Prohibition of planting an asherah beside YHWH's altar
+- ref: Exod 34:13
+  rel: practice
+  note: Command to cut down the asherim
+- ref: Judg 6:25-30
+  rel: practice
+  note: The asherah beside Baal's altar is cut down for firewood
+- ref: 1Kgs 15:13
+  rel: attests
+  note: Queen mother Maacah makes an image for Asherah
+- ref: 1Kgs 18:19
+  rel: attests
+  disputed: true
+  note: Four hundred prophets of Asherah (often judged secondary)
+- ref: 2Kgs 21:7
+  rel: attests
+  note: Manasseh sets a carved image of Asherah in the temple
+- ref: 2Kgs 23:4-7
+  rel: practice
+  note: Josiah removes Asherah's vessels and image; women weave for Asherah
+- ref: 2Kgs 13:6
+  rel: attests
+  note: The asherah remains standing in Samaria
+- ref: Hos 14:8
+  rel: language
+  disputed: true
+  note: Emendation 'I am his Anat and his Asherah' (Wellhausen) disputed (MT 14:9)
+- ref: Mic 5:14
+  rel: practice
+  note: YHWH will uproot the asherim (MT 5:13)
+related: [kuntillet-ajrud-inscriptions, khirbet-el-qom-inscription, judean-pillar-figurines,
+  taanach-cult-stand, el, baal, astarte, cult-reforms-archaeology]
+media:
+- id: asherah
+  role: primary
+- id: asherah-2
+  role: gallery
+- id: asherah-3
+  role: gallery
+external:
+  wikipedia: Asherah
+  wikidata: Q83975
+editorial:
+  author_notes:
+  - >-
+    The Kuntillet ʿAjrud and Khirbet el-Qom blessings "by YHWH ... and his asherah" are central;
+    present the debate over whether "his asherah" denotes the goddess, a cult object, or a
+    hypostasis (the pronominal suffix on a personal name is grammatically awkward).
+  - >-
+    At Ugarit Athirat is El's consort, "Lady Athirat of the Sea", creatress of the gods with
+    seventy sons; her pairing with Baal in Kings is a Deuteronomistic construction.
+  - >-
+    The identification of Judean pillar figurines and the Taanach stand with Asherah is plausible
+    but not proven.
+  - >-
+    Avoid the "fertility goddess" stereotype; note mainstream arguments (Olyan, Hadley, Ackerman)
+    that Asherah was part of official Yahwistic cult in both kingdoms before the reforms.
+  sources_to_check:
+  - S. M. Olyan, Asherah and the Cult of Yahweh in Israel (SBLMS 34, 1988)
+  - J. M. Hadley, The Cult of Asherah in Ancient Israel and Judah (2000)
+  - DDD, s.v. "Asherah"
+  image_query: Kuntillet Ajrud pithos drawing
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

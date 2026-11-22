@@ -1,0 +1,73 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: land-redemption
+title: Land Tenure and Redemption
+aliases: [Naḥalah, Gĕʾullah, Kinsman-redeemer, Patrimony]
+type: practice
+cultures: [hebrew, akkadian, ugaritic]
+scope: >-
+  Land tenure in ancient Israel: the ideal of inalienable ancestral patrimony (naḥălâ), the
+  kinsman's right and duty to redeem alienated land, the theology of divine ownership of the
+  land, and prophetic critique of land accumulation, with ancient Near Eastern comparanda.
+passages:
+- ref: Lev 25:23-28
+  rel: practice
+  note: Land is YHWH's and cannot be sold in perpetuity; kinsman redeems
+- ref: Lev 25:29-34
+  rel: practice
+  note: Different rules for walled-city houses and Levitical property
+- ref: Ruth 4:1-12
+  rel: practice
+  note: Redemption of Elimelech's field combined with marrying Ruth
+- ref: Jer 32:6-15
+  rel: practice
+  note: Jeremiah exercises the right of redemption at Anathoth; sealed deed
+- ref: 1Kgs 21:1-19
+  rel: practice
+  note: Naboth refuses to sell 'the inheritance of my ancestors'
+- ref: Num 27:1-11
+  rel: practice
+  note: Daughters inherit to keep the patrimony in the clan
+- ref: Mic 2:1-2
+  rel: practice
+  note: Woe to those who covet and seize fields and houses
+- ref: Isa 5:8
+  rel: practice
+  note: Woe to those who join house to house and field to field
+- ref: Ezek 46:16-18
+  rel: practice
+  note: Prince may not dispossess people of their inheritance
+related: [debt-release, boundary-markers, inheritance-and-birthright, sealed-deeds, levirate-marriage,
+  laws-of-eshnunna, kudurru]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Cuneiform comparanda include family redemption rights in Old Babylonian sale documents,
+    LE §39 (a seller's right to redeem a house; verify), and restrictions on alienating service-fields
+    in LH §§36-41. Ugaritic royal grants show land transfers supervised by the king.
+  - >-
+    Note the debate whether the inalienability ideal reflects early tribal reality or later
+    idealisation. Assess the 'latifundia' thesis for eighth-century Israel and Judah, which
+    archaeologists and social historians question.
+  - >-
+    Jer 32 offers the best documentary-style description, with a sealed and an open copy deposited
+    in a jar. Link it to sealed-deeds and to excavated bullae.
+  - Treat Ruth 4 as literary. Its legal combination of redemption and marriage is debated.
+  sources_to_check:
+  - Westbrook, Property and the Family in Biblical Law (JSOTSup 113, 1991)
+  - Yaron, The Laws of Eshnunna (2nd ed. 1988)
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-1-sol

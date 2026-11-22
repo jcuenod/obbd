@@ -1,0 +1,81 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: necromancy
+title: Necromancy and Consulting the Dead
+aliases: [consulting the dead, ʾôb and yiddĕʿōnî]
+type: practice
+cultures: [babylonian, hittite, hebrew, greek]
+scope: >-
+  Consulting the spirits of the dead for knowledge. The entry covers the biblical terminology
+  (ʾôb, yiddĕʿōnî, dōrēš ʾel-hammētîm), the medium at Endor, prophetic and legal condemnation,
+  and Mesopotamian, Hittite, and Greek comparanda.
+passages:
+- ref: 1Sam 28:3-25
+  rel: practice
+  note: Saul consults the medium (baʿălat-ʾôb) at Endor; Samuel rises as an ʾĕlōhîm
+- ref: Lev 19:31
+  rel: practice
+  note: Do not turn to mediums (ʾōbōt) or wizards (yiddĕʿōnîm)
+- ref: Lev 20:6, 27
+  rel: practice
+  note: Penalties for consulting and for being a medium
+- ref: Deut 18:11
+  rel: practice
+  note: Medium, wizard, and 'one who seeks the dead' forbidden
+- ref: Isa 8:19-20
+  rel: practice
+  note: Ghosts that chirp and mutter; consulting the dead for the living
+- ref: Isa 19:3
+  rel: practice
+  note: Egyptians consult idols, spirits of the dead, ghosts, and familiar spirits
+- ref: Isa 29:4
+  rel: imagery
+  note: Jerusalem's voice from the ground like a ghost
+- ref: 2Kgs 21:6
+  rel: practice
+  note: Manasseh deals with mediums and wizards
+- ref: 2Kgs 23:24
+  rel: practice
+  note: Josiah removes mediums, wizards, and teraphim
+- ref: Isa 65:4
+  rel: practice
+  note: Sitting in tombs and spending the night in secret places
+related: [care-for-the-dead, divination, rephaim, sheol-and-the-netherworld, teraphim, marzeah,
+  dream-incubation]
+media: []
+external:
+  wikipedia: Necromancy
+  wikidata: Q337935
+editorial:
+  author_notes:
+  - >-
+    The meaning of ʾôb is debated. Hoffner (JBL 1967) compared Hittite a-a-bi and Akkadian
+    apu, meaning a ritual pit used to call up the dead. Others derive it from ʾāb ("father,
+    ancestor") or take it as the ghost itself. yiddĕʿōnî is usually "knowing one". Present
+    the options.
+  - >-
+    Mesopotamian necromancy is attested but rare (Finkel, AfO 29/30). Ghosts (eṭemmu) were
+    more often objects of exorcism and care than sources of oracles. Odyssey 11 is the classic
+    Greek comparandum.
+  - >-
+    Connect necromancy with care for the dead and ancestor cult. The extent of a Judahite
+    cult of the dead is debated (Schmidt, Israel's Beneficent Dead, 1994, is sceptical).
+  - >-
+    1 Sam 28 is a narrative, not a technical description. Avoid reconstructing ritual procedure
+    from it.
+  sources_to_check:
+  - Brian B. Schmidt, Israel's Beneficent Dead (FAT 11, 1994)
+  - Josef Tropper, Nekromantie (AOAT 223, 1989)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

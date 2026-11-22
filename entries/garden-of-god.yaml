@@ -1,0 +1,88 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: garden-of-god
+title: Garden of God (Eden)
+aliases: [Eden, Garden of Eden, paradise]
+type: concept
+cultures: [ane, assyrian, persian]
+scope: >-
+  The garden of God (Eden) as a mythic and royal-sacral motif: the well-watered divine garden
+  with sacred trees, cherub guardians, and rivers, its links to temple symbolism, and its
+  background in ancient Near Eastern royal and temple gardens.
+passages:
+- ref: Gen 2:8-3:24
+  rel: concept
+  note: Garden planted by God with trees, rivers, and cherubim at the east gate
+- ref: Gen 2:10-14
+  rel: concept
+  note: One river dividing into four, watering the world
+- ref: Ezek 28:12-19
+  rel: parallel
+  note: King of Tyre in 'Eden, the garden of God' on the holy mountain, with a guardian cherub
+- ref: Ezek 31:8-9, 16-18
+  rel: imagery
+  note: Cedars and trees of Eden in the garden of God
+- ref: Isa 51:3
+  rel: imagery
+  note: Zion's wilderness to become like Eden, the garden of the LORD
+- ref: Joel 2:3
+  rel: imagery
+  note: Land like the garden of Eden before the locust army
+- ref: Ezek 47:1-12
+  rel: concept
+  note: Life-giving river flowing from the temple, with fruit trees on its banks
+- ref: Ps 46:4
+  rel: concept
+  note: A river whose streams gladden the city of God; MT 46:5
+- ref: 1Kgs 6:29-35
+  rel: realia
+  note: Temple carved with cherubim, palm trees, and open flowers
+- ref: 2Kgs 21:18
+  rel: realia
+  note: Royal burial in the 'garden of Uzza'
+- ref: Eccl 2:4-6
+  rel: realia
+  note: Royal gardens and parks (pardēsîm) with pools for irrigation
+- ref: Neh 2:8
+  rel: language
+  note: Keeper of the king's 'park' (pardēs), a Persian loanword
+related: [tree-of-life, cosmic-mountain, temple-as-cosmos, cherubim, enki-and-ninhursag, assyrian-sacred-tree,
+  tell-fekheriye-statue, adapa]
+media:
+- id: amorites
+  role: primary
+- id: garden-of-god
+  role: gallery
+external:
+  wikipedia: Garden of Eden
+  wikidata: Q19014
+editorial:
+  author_notes:
+  - >-
+    Emphasize the overlap of garden, mountain, and temple symbolism (Ezek 28; 47). Many scholars
+    read the Eden narrative with temple imagery in view (cherubim, eastern entrance, gold
+    and precious stones), but how far the correspondence goes is debated.
+  - >-
+    Royal gardens are well attested (Assyrian palace gardens at Nineveh; Persian pairidaēza,
+    the source of Greek paradeisos and Hebrew pardēs). Note the ideology of the king as gardener.
+  - >-
+    The etymology of ʿēden is debated. Proposals are Sumerian/Akkadian edin "steppe" and West
+    Semitic ʿdn "abundance, luxuriance", the latter attested in the Tell Fekheriye inscription.
+    Present both.
+  - >-
+    Attempts to locate Eden geographically from the four rivers should be treated as part
+    of the text's cosmological geography rather than as a solvable map problem.
+  image_query: Ashurbanipal garden party relief
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

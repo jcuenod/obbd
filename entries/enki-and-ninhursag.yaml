@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: enki-and-ninhursag
+title: Enki and Ninhursag
+type: text
+cultures: [sumerian]
+date:
+  from: -1800
+  to: -1800
+  circa: true
+  display: c. 1800 BCE
+scope: >-
+  A Sumerian myth set in the pure land of Dilmun, which Enki provides with fresh water, followed
+  by Enki's serial impregnations, his eating of plants that the mother goddess Ninhursag has
+  made, her curse, and his healing by goddesses born to cure each ailing body part, among
+  them Ninti.
+passages:
+- ref: Gen 2:8-14
+  rel: concept
+  note: Pristine land (Dilmun) watered by a god; cf. Eden and its rivers
+- ref: Gen 2:6
+  rel: parallel
+  disputed: true
+  note: Fresh water rising from the earth to irrigate the land
+- ref: Isa 11:6-9
+  rel: imagery
+  note: Paradisal land where the lion does not kill and the wolf does not seize the lamb
+- ref: Isa 65:25
+  rel: imagery
+  note: Wolf and lamb at peace in the renewed creation
+- ref: Gen 3:6, 17-19
+  rel: parallel
+  disputed: true
+  note: Eating plants reserved by the deity incurs a curse
+- ref: Gen 2:21-22
+  rel: parallel
+  disputed: true
+  note: Ninti, 'lady of the rib' / 'lady who makes live' (Kramer); widely cited, doubtful
+related: [garden-of-god, eridu-genesis, creation-of-humanity, adapa, tree-of-life]
+media:
+- id: enki-and-ninhursag
+  role: primary
+external:
+  wikipedia: Ninhursag
+  wikidata: Q836170
+editorial:
+  author_notes:
+  - >-
+    Kramer's rib proposal rests on Sumerian ti = 'rib' and 'to live'; the pun does not work
+    in Hebrew (ṣēlāʿ vs. ḥawwâ), so any link is at best indirect. Present it as a famous but
+    doubtful suggestion, not as an established source of Gen 2.
+  - >-
+    Dilmun (historically linked to Bahrain) is a pristine but initially waterless land; the
+    myth is largely about fertility, not about a 'fall'. Avoid the older label 'Sumerian paradise
+    myth' without qualification.
+  - >-
+    The animal-peace lines (lion, wolf, lamb) are the most secure point of contact and concern
+    prophetic imagery rather than Gen 2-3.
+  - >-
+    There is no dedicated English Wikipedia article; the title given is a redirect to a section
+    of the Ninhursag article.
+  sources_to_check:
+  - ANET 37-41
+  - ETCSL 1.1.1
+  - P. Attinger, 'Enki et Ninḫursaĝa,' ZA 74 (1984)
+  image_query: Enki and Ninhursag tablet Penn Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

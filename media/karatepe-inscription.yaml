@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: karatepe-inscription
+file: karatepe-inscription.jpg
+title: KaratepeNord7.jpg
+caption: >-
+  Part of the Phoenician text of the Azatiwada bilingual at the north gate of Karatepe-Aslantaş,
+  8th century BCE.
+description: >-
+  Karatepe (Asatiwataya), neo-Hethitite site near Osmaniye, southern Turkey, Phoenician script,
+  part of the Bilingue of Karatepe
+creator: Klaus-Peter Simon
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Klaus-Peter Simon, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:KaratepeNord7.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/f/fb/KaratepeNord7.jpg
+  sha1: d9bf80e54b615262505cf4fcd51032b3c0146cc9
+  original_size: [5184, 3456]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [karatepe-inscription]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

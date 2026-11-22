@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: samaritan-origins
+file: samaritan-origins.jpg
+title: Archaeological site Mount Gerizim IMG 2176.JPG
+caption: The excavated sacred precinct on the summit of Mount Gerizim.
+description: Mount Gerizim Archaeological site, Mount Gerizim
+creator: Deror_avi
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Deror_avi, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Archaeological_site_Mount_Gerizim_IMG_2176.JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/f/fb/Archaeological_site_Mount_Gerizim_IMG_2176.JPG
+  sha1: 5e9251713c34da6cfc0ab08d22eca4692f648995
+  original_size: [5184, 3456]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [mount-gerizim, samaritan-origins]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

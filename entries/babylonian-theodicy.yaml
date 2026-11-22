@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: babylonian-theodicy
+title: Babylonian Theodicy
+type: text
+cultures: [babylonian]
+date:
+  from: -1100
+  to: -900
+  circa: true
+  display: c. 1100–900 BCE
+scope: >-
+  An acrostic dialogue poem of 27 eleven-line stanzas between a sufferer and a friend on why
+  the pious suffer and the wicked prosper. The acrostic spells out the author's name, Saggil-kīnam-ubbib,
+  and the poem is the closest Mesopotamian formal analogue to the dialogue of Job.
+passages:
+- ref: Job 3-31
+  rel: form
+  note: Alternating dialogue between sufferer and friend(s) on divine justice
+- ref: Job 21:7-16
+  rel: concept
+  note: Prosperity of the wicked versus suffering of the pious
+- ref: Ps 73:2-14
+  rel: concept
+  note: Envy at the prosperity of the wicked; is piety in vain?
+- ref: Jer 12:1-2
+  rel: concept
+  note: Why does the way of the guilty prosper?
+- ref: Eccl 8:14
+  rel: concept
+  note: The righteous treated as the wicked deserve, and vice versa
+- ref: Job 4:17-19; 15:14-16
+  rel: concept
+  note: Humans inherently flawed; the gods made humans prone to falsehood
+- ref: Ps 119
+  rel: form
+  note: Acrostic composition (the Theodicy spells the author's name, not the alphabet)
+related: [ludlul-bel-nemeqi, dialogue-of-pessimism, ane-wisdom-literature, sumerian-man-and-his-god,
+  scribes-and-scribal-education]
+media: []
+external:
+  wikipedia: Babylonian Theodicy
+  wikidata: Q23640803
+editorial:
+  author_notes:
+  - >-
+    The acrostic yields roughly 'I, Saggil-kīnam-ubbib, the incantation priest, am adorant
+    of the god and the king'; a later tradition places this scholar under Nebuchadnezzar I
+    or Adad-apla-iddina (c. 11th c.).
+  - >-
+    Resolution differs from Job: the friend finally concedes that the gods gave humans a propensity
+    to lie and wrong, and the sufferer appeals for mercy; there is no theophany.
+  - >-
+    The dialogue form and arguments are the closest Mesopotamian analogue to Job 3-31, but
+    the relationship is generic; avoid claims of dependence.
+  sources_to_check:
+  - W. G. Lambert, Babylonian Wisdom Literature (1960)
+  - T. Oshima, Babylonian Poems of Pious Sufferers (2014)
+  - COS 1.154
+  - ANET 438-440
+  image_query: Babylonian Theodicy tablet British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

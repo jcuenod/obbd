@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: horned-altars-2
+file: horned-altars-2.jpg
+title: Limestone Incense Altar, Megiddo, 8th Century BC (42500035834).jpg
+caption: Horned limestone incense altars from Megiddo, Iron Age (Israel Museum, Jerusalem).
+description: Jerusalem, Limestone Incense Altar, Megiddo, 8th Century BC
+creator: Gary Todd from Xinzheng, China
+credit_line: Limestone Incense Altar, Megiddo, 8th Century BC
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Gary Todd from Xinzheng, China. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Limestone_Incense_Altar,_Megiddo,_8th_Century_BC_(42500035834).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/af/Limestone_Incense_Altar%2C_Megiddo%2C_8th_Century_BC_%2842500035834%29.jpg
+  sha1: 15e5eef458dbc1213b2b806b9238c72c51cd1f2f
+  original_size: [6000, 4000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [horned-altars, incense-and-incense-altars]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

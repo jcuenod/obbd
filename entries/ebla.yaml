@@ -1,0 +1,70 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ebla
+title: Ebla (Tell Mardikh)
+aliases: [Tell Mardikh]
+type: site
+cultures: [ane]
+scope: >-
+  The north Syrian city at Tell Mardikh whose mid-third-millennium palace archive revealed
+  an early Semitic language (Eblaite). Covers the site and archive, its real significance
+  for Semitic studies and religion, and the 1970s controversy over alleged 'biblical' connections.
+passages:
+- ref: 1Sam 5:2-5
+  rel: language
+  note: Dagon; Dagan is prominent in Ebla's pantheon
+- ref: Num 21:29
+  rel: language
+  note: Chemosh; cf. the god Kamiš attested at Ebla
+- ref: Hab 3:5
+  rel: language
+  note: Resheph (pestilence); cf. the god Rašap at Ebla
+related: [chemosh, resheph, dagon, amorites, mari, scribes-and-scribal-education, writing-and-literacy]
+media:
+- id: ebla
+  role: primary
+external:
+  wikipedia: Ebla
+  wikidata: Q5743
+  pleiades: '869702586'
+editorial:
+  author_notes:
+  - >-
+    Italian excavations under Matthiae since 1964. The Palace G archives (c. twenty-fourth
+    century BCE) number some 17,000 inventoried pieces, far fewer complete tablets. They include
+    Sumerian-Eblaite bilingual lexical lists.
+  - >-
+    Use the site as a cautionary case. Early claims (Pettinato in the 1970s, amplified in
+    the popular press) that the tablets named Sodom, Gomorrah and the cities of Gen 14, that
+    the element 'Ya' was YHWH, and that a king Ebrium was Eber have all been rejected. Pettinato
+    himself withdrew some of them.
+  - >-
+    Its real significance lies in early West Semitic personal names, deities (Dagan, Rašap,
+    Kamiš, Aštar), administration and scribal culture.
+  - >-
+    The palace was destroyed in the later third millennium (by Sargon or Naram-Sin of Akkad;
+    debated). The Middle Bronze city was destroyed c. 1600.
+  sources_to_check:
+  - Matthiae, Ebla - An Empire Rediscovered (1980)
+  image_query: Ebla Tell Mardikh royal palace
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q5743 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 35.79806
+  lon: 36.79861
+  source: wikidata:Q5743

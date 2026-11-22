@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: maat
+file: maat.jpg
+title: Maat-E 4436-IMG 7942-white.jpg
+caption: Statuette of the goddess Maat wearing her ostrich feather (Musée du Louvre, E 4436).
+description: Statue of Maat, adorned with the ostrich feather of truth
+creator: Rama
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0 fr
+  url: https://creativecommons.org/licenses/by-sa/3.0/fr/deed.en
+attribution: Rama, CC BY-SA 3.0 fr, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Maat-E_4436-IMG_7942-white.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/c/c2/Maat-E_4436-IMG_7942-white.jpg
+  sha1: c4f9ef2ab426fdfd9cef0187434ac28804fa6120
+  original_size: [7000, 7000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1600 px
+size: [1600, 1600]
+depicts: [maat]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

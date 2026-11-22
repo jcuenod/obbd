@@ -1,0 +1,86 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: babylonia
+title: Babylonia and the Chaldeans (Neo-Babylonian Empire)
+aliases: [Neo-Babylonian Empire, Chaldeans, Kaldu]
+type: people
+cultures: [babylonian]
+date:
+  from: -626
+  to: -539
+  display: 626–539 BCE
+scope: >-
+  The Neo-Babylonian ('Chaldean') Empire from Nabopolassar to Nabonidus, which destroyed Jerusalem
+  and held Judeans in exile. Covers Babylonia and the Chaldean tribes in the Assyrian period,
+  the empire's history and sources, and its place in the Bible.
+passages:
+- ref: 2Kgs 20:12-19
+  rel: setting
+  note: Merodach-baladan's envoys to Hezekiah
+- ref: 2Kgs 24:1-17
+  rel: setting
+  note: Jehoiakim's vassalage and the deportation of 597
+- ref: 2Kgs 25:1-21
+  rel: setting
+  note: Siege and destruction of Jerusalem
+- ref: 2Kgs 25:27-30
+  rel: setting
+  note: Evil-merodach (Amel-Marduk) releases Jehoiachin
+- ref: Jer 27:1-15
+  rel: concept
+  note: Serve the king of Babylon
+- ref: Hab 1:6-11
+  rel: setting
+  note: '''The Chaldeans, that fierce and impetuous nation'''
+- ref: Isa 13-14
+  rel: setting
+  note: Oracle against Babylon
+- ref: Isa 46-47
+  rel: polemic
+  note: Bel and Nebo carried off; Daughter Babylon humbled; astrologers mocked
+- ref: Ezek 1:1-3
+  rel: setting
+  note: Exiles by the river Chebar (nār Kabari, attested near Nippur)
+- ref: Dan 1-5
+  rel: setting
+  note: Court tales set in Babylon
+related: [nebuchadnezzar-ii, babylon, nabonidus, babylonian-exile, babylonian-chronicles,
+  merodach-baladan, al-yahudu-tablets, fall-of-babylon-539]
+media:
+- id: babylonia
+  role: primary
+external:
+  wikipedia: Neo-Babylonian Empire
+  wikidata: Q624887
+editorial:
+  author_notes:
+  - >-
+    The Chaldeans (Kaldu) were tribal groups of southern Babylonia from the ninth century.
+    The origins of Nabopolassar's dynasty are debated. In Daniel 'Chaldeans' also names a
+    class of diviners.
+  - >-
+    The Babylonian Chronicles give the capture of Jerusalem on 2 Adar of Nebuchadnezzar's
+    year 7 (597). The date of the final fall is debated (587 vs. 586).
+  - >-
+    Evidence for exile communities includes the Al-Yahudu tablets, the Murashu archive (later,
+    Persian period) and the Jehoiachin ration tablets. Babylonian deportation policy, unlike
+    the Assyrian, did not resettle foreigners in Judah.
+  - >-
+    Neo-Babylonian royal inscriptions are mostly building texts, not annals, so the chronicles
+    and administrative texts carry more historical weight.
+  sources_to_check:
+  - Beaulieu, A History of Babylon, 2200 BC - AD 75 (2018)
+  image_query: Ishtar Gate Pergamon Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,80 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: smiting-the-enemy-motif
+title: Smiting the Enemy and Trampling Foes
+aliases: [Smiting scene, Trampling the enemy]
+type: concept
+cultures: [egyptian, assyrian, canaanite]
+scope: >-
+  The iconographic and literary motif of the king or god striking down enemies, trampling
+  them, or setting a foot on their necks, from the Egyptian 'smiting scene' to Levantine smiting-god
+  figurines and Assyrian royal rhetoric. The entry covers its use in royal psalms and divine
+  warrior texts.
+passages:
+- ref: Ps 110:1, 5-6
+  rel: imagery
+  note: Enemies as footstool; the Lord shatters kings and heads
+- ref: Ps 2:9
+  rel: imagery
+  note: Breaking nations with an iron rod, dashing them like a potter's vessel
+- ref: Ps 18:37-42
+  rel: imagery
+  note: King pursues and crushes enemies under his feet (MT 18:38-43)
+- ref: Ps 68:21
+  rel: imagery
+  note: God shatters the heads of his enemies (MT 68:22)
+- ref: Josh 10:24
+  rel: practice
+  note: Commanders put their feet on the necks of the captured kings
+- ref: 1Kgs 5:3
+  rel: imagery
+  note: Enemies put 'under the soles of his feet' (MT 5:17)
+- ref: Isa 63:1-6
+  rel: imagery
+  note: Divine warrior treading peoples in the winepress
+- ref: Hab 3:13
+  rel: imagery
+  note: Crushing the head of the house of the wicked
+- ref: Mal 4:3
+  rel: imagery
+  note: Treading down the wicked like ashes underfoot (MT 3:21)
+- ref: 1Cor 15:25
+  rel: imagery
+  note: All enemies under his feet (Ps 110:1)
+related: [narmer-palette, footstool, tutankhamun-footstool, royal-ideology, divine-warrior,
+  execration-texts, baal-with-thunderbolt, treatment-of-captives]
+media:
+- id: smiting-the-enemy-motif
+  role: primary
+- id: smiting-the-enemy-motif-2
+  role: gallery
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The Egyptian smiting scene (the king grasping a foe by the hair, mace raised) runs from
+    the Narmer Palette to the Roman period. Smiting-god figurines and the Baal stele from
+    Ugarit carry the motif into the Levant.
+  - >-
+    O. Keel's Symbolism of the Biblical World remains the standard treatment of Ps 110 and
+    Ps 2:9.
+  - >-
+    The link between Ps 2:9 and Egyptian execration rites (smashing inscribed vessels) is
+    plausible but debated. Present it as a proposal.
+  - >-
+    Distinguish iconographic ideology from actual practice. Treatment of real captives belongs
+    in a separate entry.
+  image_query: Narmer Palette smiting scene
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

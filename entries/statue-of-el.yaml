@@ -1,0 +1,68 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: statue-of-el
+title: Seated Bronze Figurine of El (Ugarit)
+type: artifact
+cultures: [ugaritic]
+date:
+  from: -1400
+  to: -1200
+  circa: true
+  display: c. 1400–1200 BCE
+scope: >-
+  A small Late Bronze Age cast-bronze figurine of a seated, bearded male deity from Ugarit,
+  overlaid with gold foil, conventionally identified as El, the aged head of the Ugaritic
+  pantheon. The entry uses the object to introduce El's iconography (enthroned, aged, raising
+  a hand in blessing).
+passages:
+- ref: Dan 7:9
+  rel: imagery
+  disputed: true
+  note: Ancient of Days enthroned, white-haired; cf. El as aged 'father of years'
+- ref: 1Kgs 22:19
+  rel: imagery
+  note: Deity seated on a throne with the heavenly host standing beside him
+- ref: Isa 6:1
+  rel: imagery
+  note: Enthroned, exalted deity presiding over his court
+- ref: Ps 82:1
+  rel: concept
+  note: God presiding in the 'council of El'
+- ref: Job 36:26
+  rel: imagery
+  disputed: true
+  note: Number of God's years unsearchable; cf. El's epithet ab šnm
+related: [el, divine-council, ugarit, cult-images, composite-beasts-daniel, cherub-throne]
+media:
+- id: statue-of-el
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Verify the excavation number, find-spot and current location before writing; several seated
+    gold-foiled bronzes from Ugarit circulate under the label "El", and the stone "El stele"
+    from Ugarit is a different object.
+  - >-
+    The identification as El rests on typology (seated, bearded, raised hand) rather than
+    an inscription; say so.
+  - >-
+    The meaning of El's epithet ab šnm ("father of years" versus other proposals) is debated;
+    do not overstate the Dan 7:9 link.
+  sources_to_check:
+  - M. H. Pope, El in the Ugaritic Texts (VTSup 2, 1955)
+  - I. Cornelius and H. Niehr, Götter und Kulte in Ugarit (2004)
+  image_query: Seated god El bronze statuette Ugarit gold
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

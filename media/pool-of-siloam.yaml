@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: pool-of-siloam
+file: pool-of-siloam.jpg
+title: Pool of Siloam (3734427511).jpg
+caption: >-
+  Stone steps of the late Second Temple Pool of Siloam, excavated from 2004 in the City of
+  David, Jerusalem.
+description: >-
+  The recently excavated Pool of Siloam. These steps likely ran around all four sides of the
+  large rectangular pool, which collected water that had come from the Gihon Spring via "Hezekiah's
+  Tunnel." The pool stood beside the Cardo Maximus, the main road running along the floor
+  of the shallow Central Valley (the North-South valley separating the Temple-Mount and City
+  of David from the Western Hill). Only one end of the pool has so far been excavated, and
+  you can see the wall of earth (at right) where the excavation ended. Jerusalem
+creator: Ian Scott
+credit_line: Pool of Siloam
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: Ian Scott, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Pool_of_Siloam_(3734427511).jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/a/a2/Pool_of_Siloam_%283734427511%29.jpg
+  sha1: c10be39ea12a1980c4076e95bc9da519116aa60b
+  original_size: [4000, 3000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [pool-of-siloam]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

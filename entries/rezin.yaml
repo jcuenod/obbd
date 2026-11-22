@@ -1,0 +1,67 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: rezin
+title: Rezin
+type: person
+cultures: [aramean]
+date:
+  from: -750
+  to: -732
+  circa: true
+  display: c. 750–732 BCE
+scope: >-
+  Rezin, the last king of Aram-Damascus, who led the anti-Assyrian coalition with Pekah of
+  Israel and besieged Jerusalem in the Syro-Ephraimite war. Tiglath-pileser III records his
+  tribute (738), his defeat and Damascus's annexation (733-732). He is named in Assyrian texts
+  as Raḫiānu.
+passages:
+- ref: 2Kgs 15:37
+  rel: event
+  note: Rezin and Pekah sent against Judah
+- ref: 2Kgs 16:5-9
+  rel: event
+  note: Siege of Jerusalem; Assyria takes Damascus and kills Rezin
+- ref: 2Kgs 16:6
+  rel: event
+  disputed: true
+  note: Elath recovered for Aram (or Edom; textual problem)
+- ref: Isa 7:1-9
+  rel: event
+  note: '''The head of Aram is Damascus, the head of Damascus is Rezin'''
+- ref: Isa 8:6
+  rel: attests
+  note: Judahites who 'rejoice over Rezin'; Hebrew difficult
+- ref: Isa 17:1-3
+  rel: setting
+  note: Oracle on the fall of Damascus
+related: [tiglath-pileser-iii-inscriptions, tiglath-pileser-iii, pekah, ahaz, damascus, arameans,
+  tribute-and-vassalage]
+media: []
+external:
+  wikipedia: Rezin
+  wikidata: Q878947
+editorial:
+  author_notes:
+  - >-
+    Assyrian Raḫiānu suggests an original Aramaic form like Raḍyān. The Masoretic rĕṣîn may
+    be secondary. Note the philological discussion.
+  - >-
+    Tiglath-pileser lists Rezin among tributaries in 738 (with Menahem), then describes the
+    campaign against Damascus in 733-732. The annals are fragmentary.
+  - >-
+    In 2 Kgs 16:6 the MT has 'Aram' and the Qere and many commentators have 'Edom'. Flag the
+    textual issue.
+  sources_to_check: ['Tadmor and Yamada, RINAP 1 (2011)', 'Pitard, Ancient Damascus (1987)']
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

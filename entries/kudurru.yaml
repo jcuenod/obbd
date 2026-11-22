@@ -1,0 +1,88 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: kudurru
+title: Kudurru (Boundary Stones)
+aliases: [Babylonian boundary stones, entitlement narus]
+type: realia
+cultures: [babylonian]
+date:
+  from: -1400
+  to: -630
+  circa: true
+  display: c. 1400–630 BCE
+scope: >-
+  Inscribed stone monuments from Kassite and post-Kassite Babylonia recording royal land grants,
+  tax exemptions, and property settlements, carved with divine symbols and protected by elaborate
+  curses. The entry covers the object type, its imagery, and its curse formulae.
+passages:
+- ref: Deut 19:14
+  rel: practice
+  note: Prohibition on moving a neighbour's boundary marker
+- ref: Deut 27:17
+  rel: practice
+  note: Curse on whoever moves a neighbour's boundary marker
+- ref: Prov 22:28
+  rel: practice
+  note: Do not remove the ancient landmark
+- ref: Prov 23:10-11
+  rel: practice
+  note: Landmark of orphans protected by a divine redeemer
+- ref: Hos 5:10
+  rel: imagery
+  note: Judah's princes like those who move a landmark
+- ref: 1Sam 8:14
+  rel: practice
+  note: King grants fields and vineyards to his servants
+- ref: Deut 28:15-68
+  rel: form
+  note: Extended curse sequence invoking divine sanctions
+related: [boundary-markers, blessings-and-curses, land-redemption, shamash, constellations,
+  babylonia, merodach-baladan]
+location:
+  institution: >-
+    Major collections in the Musée du Louvre, Paris (many found at Susa) and the British Museum,
+    London
+  accession: null
+media:
+- id: boundary-markers
+  role: gallery
+- id: kudurru
+  role: primary
+- id: kudurru-2
+  role: gallery
+- id: merodach-baladan
+  role: gallery
+external:
+  wikipedia: Kudurru
+  wikidata: Q221662
+editorial:
+  author_notes:
+  - >-
+    Correct the common label 'boundary stone'. Most kudurrus were set up in temples, with
+    copies on clay, and were not field markers; Slanski calls them 'entitlement narûs'.
+  - >-
+    The divine symbols (sun disk, crescent, star, spade of Marduk, etc.) place the grant under
+    the gods' protection; avoid treating them as an early zodiac.
+  - >-
+    The curses (no heir, disease, loss of name) are close in form to biblical and treaty curses;
+    useful for Deut 27-28.
+  - >-
+    The biblical landmark laws concern ordinary field markers; the connection with kudurrus
+    is the shared protection of land tenure by divine sanction.
+  sources_to_check:
+  - Slanski, The Babylonian Entitlement narûs (kudurrus) (2003)
+  - Paulus, Die babylonischen Kudurru-Inschriften (AOAT 51, 2014)
+  image_query: Kudurru Melishipak Louvre
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-1-sol

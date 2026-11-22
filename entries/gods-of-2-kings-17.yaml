@@ -1,0 +1,72 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: gods-of-2-kings-17
+title: Gods of the Resettled Peoples (2 Kgs 17:29–31)
+aliases: [Succoth-benoth, Nergal, Ashima, Nibhaz, Tartak, Adrammelech, Anammelech]
+type: deity
+cultures: [assyrian, babylonian, aramean]
+scope: >-
+  The deities of the peoples Assyria resettled in Samaria after 722 BCE, as listed in 2 Kgs
+  17:29-31: Succoth-benoth, Nergal, Ashima, Nibhaz, Tartak, Adrammelech and Anammelech. The
+  entry covers the identification of each and the polemical purpose of the list.
+passages:
+- ref: 2Kgs 17:24
+  rel: event
+  note: Assyrian resettlement of Babylon, Cuthah, Avva, Hamath and Sepharvaim in Samaria
+- ref: 2Kgs 17:29-31
+  rel: attests
+  note: Each nation makes its own gods; Sepharvaites burn children
+- ref: 2Kgs 17:32-41
+  rel: polemic
+  note: Settlers fear YHWH yet serve their own gods
+- ref: Amos 8:14
+  rel: language
+  disputed: true
+  note: '''Ashimah of Samaria'' (MT ʾašmat, ''guilt'')'
+- ref: Ezra 4:2, 9-10
+  rel: setting
+  note: >-
+    Samarian settlers trace their deportation to Esarhaddon and Osnappar, later than 2 Kgs
+    17
+- ref: 2Kgs 18:34
+  rel: setting
+  note: Sepharvaim, Hena and Ivvah among cities conquered by Assyria
+related: [samaritan-origins, fall-of-samaria, deportation, sargon-ii-inscriptions, child-sacrifice,
+  molek, hamath, elephantine-papyri]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Only Nergal of Cuthah is securely identified; Succoth-benoth (perhaps Zarpanitu or a garbled
+    term), Ashima (cf. Ashim-Bethel at Elephantine), Nibhaz, Tartak and Adrammelech/Anammelech
+    (perhaps Adad-milki/Anu-milki or Attar-malk) are uncertain.
+  - Sepharvaim's location (Sippar vs. Sibraim in Syria, Ezek 47:16) is debated.
+  - >-
+    Assyrian inscriptions of Sargon II confirm deportations into Samaria; the list's anti-Samaritan
+    function in the Deuteronomistic History should be noted.
+  - >-
+    Adrammelech the god should be distinguished from Sennacherib's son Adrammelech (2 Kgs
+    19:37).
+  sources_to_check:
+  - M. Cogan and H. Tadmor, II Kings (AB 11, 1988)
+  - DDD, s.v. "Nergal"; "Ashima"; "Adrammelech"
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Ezra 4:2, 9-10 rel event -> setting (later deportations,
+    not the 2 Kgs 17 event)
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

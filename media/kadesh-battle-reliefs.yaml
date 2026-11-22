@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: kadesh-battle-reliefs
+file: kadesh-battle-reliefs.jpg
+title: Templo de Ramsés II, Abu Simbel, Egipto, 2022-04-02, DD 74-76 HDR.jpg
+caption: >-
+  Ramesses II in his chariot at the battle of Kadesh, relief on the south wall of the hypostyle
+  hall of the Great Temple at Abu Simbel.
+description: >-
+  Bas-relief of Ramesses II on his chariot during the Battle of Kadesh against the Hittite
+  Empire under Muwatalli II, south wall in the Hypostyle Hall of the Great Temple of Abu Simbel,
+  Egypt. The Great Temple at Abu Simbel, which took about twenty years to build, was completed
+  around year 24 of the reign of Ramesses the Great (which corresponds to 1265 BC). It was
+  dedicated to the gods Amun, Ra-Horakhty, and Ptah, as well as to the deified Ramesses himself.
+  It is generally considered the grandest and most beautiful of the temples commissioned during
+  the reign of Ramesses II, and one of the most
+creator: Diego Delso
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Diego Delso, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Templo_de_Rams%C3%A9s_II,_Abu_Simbel,_Egipto,_2022-04-02,_DD_74-76_HDR.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/e/e2/Templo_de_Rams%C3%A9s_II%2C_Abu_Simbel%2C_Egipto%2C_2022-04-02%2C_DD_74-76_HDR.jpg
+  sha1: decd6f3035cf7aa521ec383102f0a20cc4526274
+  original_size: [8234, 4787]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×930 px
+size: [1600, 930]
+depicts: [kadesh-battle-reliefs]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

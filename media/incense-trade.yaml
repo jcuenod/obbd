@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: incense-trade
+file: incense-trade.jpg
+title: Avdat Ancient Incense Route.jpg
+caption: Avdat, a Nabataean station on the incense route through the Negev.
+description: Avdat, Israel
+creator: Tomash Devenishek
+credit_line: Flickr -https://www.flickr.com/photos/04deveni/4044208573
+license:
+  id: CC-BY-2.0
+  name: CC BY 2.0
+  url: https://creativecommons.org/licenses/by/2.0
+attribution: Tomash Devenishek, CC BY 2.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Avdat_Ancient_Incense_Route.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/0/08/Avdat_Ancient_Incense_Route.jpg
+  sha1: 17d6fbbdf0276408a943b246934b7cf33525b90f
+  original_size: [1920, 1280]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [incense-trade]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ugarit
+title: Ugarit (Ras Shamra)
+aliases: [Ras Shamra, Minet el-Beida]
+type: site
+cultures: [ugaritic]
+scope: >-
+  The Late Bronze Age port-kingdom at Ras Shamra on the north Syrian coast, destroyed c. 1185
+  BCE, whose archives in several languages and scripts include the Ugaritic alphabetic literary
+  texts. Covers the site, its palaces, temples and archives; the texts themselves are treated
+  in ugaritic-texts and related entries.
+passages:
+- ref: Ps 29
+  rel: parallel
+  note: Storm-god hymn closely paralleled in Ugaritic Baal texts
+- ref: Ps 82
+  rel: concept
+  note: Divine council and the 'sons of the Most High'; cf. El's assembly
+- ref: Deut 32:8-9
+  rel: concept
+  note: Nations allotted by number of the 'sons of God' (4QDeut(j), LXX); cf. El's seventy
+    sons
+- ref: Isa 27:1
+  rel: language
+  note: Leviathan the twisting serpent; cf. Ugaritic ltn
+- ref: Ezek 14:14, 20; 28:3
+  rel: attests
+  disputed: true
+  note: Danel, perhaps the Dnil of the Aqhat epic
+related: [ugaritic-texts, baal-cycle, aqhat-epic, kirta-epic, el, baal, divine-council, rephaim]
+media:
+- id: ugarit
+  role: primary
+external:
+  wikipedia: Ugarit
+  wikidata: Q191369
+  pleiades: '668295'
+editorial:
+  author_notes:
+  - >-
+    French excavations since 1929 (Schaeffer, then Yon and others) have recovered archives
+    in Ugaritic alphabetic cuneiform, Akkadian, Hurrian, Hittite and other languages, from
+    the royal palace and private houses (e.g. Rapanu, Urtenu). The nearby Ras Ibn Hani palace
+    also yielded texts.
+  - >-
+    Ugarit is never mentioned in the Bible. Its importance is linguistic, literary and religious,
+    not historical.
+  - >-
+    Ugaritic texts distinguish Ugarit from 'Canaan'. Avoid presenting Ugaritic religion simply
+    as 'Canaanite religion'.
+  - >-
+    Its final destruction (c. 1185) is linked in the late letters to enemy ships, part of
+    the wider Late Bronze collapse.
+  sources_to_check:
+  - Yon, The City of Ugarit at Tell Ras Shamra (2006)
+  - Watson and Wyatt (eds.), Handbook of Ugaritic Studies (1999)
+  image_query: Ugarit Ras Shamra royal palace
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q191369 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 35.60194
+  lon: 35.78556
+  source: wikidata:Q191369

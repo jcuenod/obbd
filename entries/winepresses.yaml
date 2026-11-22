@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: winepresses
+title: Winepresses and Viticulture
+aliases: [Viticulture, Wine production]
+type: realia
+cultures: [hebrew]
+scope: >-
+  Vineyards, rock-cut winepresses, and wine production in ancient Israel, and the winepress
+  as a prophetic and apocalyptic image of judgment.
+passages:
+- ref: Isa 5:1-7
+  rel: realia
+  note: 'Song of the vineyard: clearing stones, watchtower, hewn wine vat'
+- ref: Isa 16:10
+  rel: realia
+  note: No treader treads wine in Moab's presses
+- ref: Isa 63:1-6
+  rel: imagery
+  note: Divine warrior treading the winepress, garments stained
+- ref: Judg 6:11
+  rel: realia
+  note: Gideon beats out wheat in a winepress
+- ref: Judg 9:27
+  rel: practice
+  note: Shechemites tread grapes and hold a festival
+- ref: Neh 13:15
+  rel: practice
+  note: Treading winepresses on the Sabbath
+- ref: Joel 3:13
+  rel: imagery
+  note: '''The wine press is full; the vats overflow'' (MT 4:13)'
+- ref: Lam 1:15
+  rel: imagery
+  note: The Lord treads daughter Judah as in a winepress
+- ref: Matt 21:33
+  rel: realia
+  note: Vineyard with wall, winepress, and tower (after Isa 5)
+- ref: Rev 14:19-20
+  rel: imagery
+  note: The great winepress of God's wrath
+related: [gibeon, samaria-ostraca, olive-oil-production, agriculture-and-farming, festivals-agricultural,
+  divine-warrior, sabbath]
+media:
+- id: winepresses
+  role: primary
+external:
+  wikipedia: Winepress
+  wikidata: Q253591
+editorial:
+  author_notes:
+  - >-
+    Rock-cut presses with a treading floor (gat) and collecting vat (yeqeb) are common throughout
+    the highlands. Note that they are hard to date.
+  - >-
+    Gibeon has 8th-7th-century installations interpreted as wine cellars, and jar handles
+    inscribed with gbʿn and personal names. The Samaria ostraca mention 'old wine' (yn yšn).
+  - >-
+    Link to vintage festivals (Judg 9:27; 21:19-21; Booths) and to Neh 13:15 for the Sabbath
+    prohibition on treading and transport.
+  image_query: ancient winepress Israel
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Isa 5:1-7 note corrected (stone clearing, not terracing)
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: nazareth-inscription
+file: nazareth-inscription.jpg
+title: Cabinet des Médailes, Paris - Nazareth Edict.JPG
+caption: >-
+  The Nazareth Inscription, a marble slab with a Greek imperial edict against tomb violation
+  (Cabinet des Médailles, Bibliothèque nationale de France, Paris).
+description: >-
+  Cabinet des médailles, Paris, France. Nazareth edict, regarding tomb desacrament. Attributed
+  to Nero, 62-64.
+creator: Poulpy
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Poulpy, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Cabinet_des_M%C3%A9dailes,_Paris_-_Nazareth_Edict.JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/c/c4/Cabinet_des_M%C3%A9dailes%2C_Paris_-_Nazareth_Edict.JPG
+  sha1: a37d19690477c7e3ce7a5de5d982db6264816dde
+  original_size: [2921, 4446]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1051×1600 px
+size: [1051, 1600]
+depicts: [nazareth-inscription]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

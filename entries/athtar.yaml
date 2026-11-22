@@ -1,0 +1,70 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: athtar
+title: Athtar (ʿAṯtar)
+aliases: [ʿAṯtar, Ashtar, Attar]
+type: deity
+cultures: [ugaritic, arabian, moabite]
+scope: >-
+  The West Semitic and South Arabian male deity ʿAṯtar, associated with the Venus star. In
+  the Ugaritic Baal Cycle he is made king after Baal's death but proves too small for Baal's
+  throne and comes down to rule the earth. The entry covers his Ugaritic, Moabite (Ashtar-Chemosh)
+  and South Arabian forms and the proposal that his myth lies behind the fall of the "Day
+  Star" in Isa 14.
+passages:
+- ref: Isa 14:12-15
+  rel: parallel
+  disputed: true
+  note: >-
+    Day Star, son of Dawn, aspires to the mount of assembly in Zaphon and falls; cf. Athtar's
+    failed enthronement
+- ref: Ezek 28:2-10
+  rel: parallel
+  disputed: true
+  note: A ruler who claims to sit on the seat of the gods is brought down to the Pit
+related: [baal-cycle, astarte, ishtar, shahar-and-shalim, mesha-stele, chemosh, cosmic-mountain]
+media: []
+external:
+  wikipedia: ʿAṯtar
+  wikidata: Q755753
+editorial:
+  author_notes:
+  - >-
+    The key Ugaritic passage is KTU 1.6 I 43-67: El and Athirat choose ʿAṯtar ʿrẓ ('the terrible'?),
+    whose feet do not reach the footstool and whose head does not reach the top of Baal's
+    throne; he descends and rules 'the earth'. In KTU 1.2 III he complains that he has no
+    palace. Quote from a standard translation.
+  - >-
+    Linking Isa 14:12-15 to ʿAṯtar is one of several proposals (others include Helel and Shahar
+    as Venus and Dawn, or Greek Phaethon). Present it as debated. H. R. Page (1996) traces
+    a 'cosmic rebellion' myth through Ugaritic and biblical texts; note that this is a reconstruction.
+  - >-
+    ʿAṯtar is the male counterpart of Astarte (ʿAštart) and Mesopotamian Ishtar; keep the
+    gender distinction clear. On the Mesha Stele (line 17) Mesha devotes Nebo's population
+    to ʿštr kmš (Ashtar-Chemosh), probably a compound or a consort pairing; its meaning is
+    debated.
+  - >-
+    In South Arabia ʿAṯtar was a leading god (often first in lists). Some scholars connect
+    him with irrigation and rain; avoid building too much on later Arabic etymologies.
+  sources_to_check:
+  - COS 1.86
+  - DDD, s.v. "Athtar"
+  - H. R. Page Jr., The Myth of Cosmic Rebellion (VTSup 65, 1996)
+  - M. S. Smith, The Origins of Biblical Monotheism (2001)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: 'Passage tags checked against WEB text: Isa 14:12-15 note shortened to 20 words'
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,57 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: queen-of-heaven
+title: Queen of Heaven
+aliases: [malkat haššāmayim]
+type: deity
+cultures: [judahite, mesopotamian]
+scope: >-
+  The "Queen of Heaven" whose cult, with cakes, libations and incense, Jeremiah condemns among
+  Judahites in Jerusalem and in Egypt. The entry covers the identification of the goddess
+  and the household, women-led character of the cult.
+passages:
+- ref: Jer 7:18
+  rel: practice
+  note: Families bake cakes (kawwānîm) for the Queen of Heaven
+- ref: Jer 44:15-19, 25
+  rel: practice
+  note: Judahites in Egypt defend offerings; cakes 'in her image'
+related: [ishtar, astarte, anat, host-of-heaven, elephantine-papyri, judean-pillar-figurines]
+media:
+- id: judean-pillar-figurines
+  role: primary
+external:
+  wikipedia: Queen of Heaven (antiquity)
+  wikidata: Q286491
+editorial:
+  author_notes:
+  - >-
+    Main candidates are Ishtar (Akkadian šarrat šamê), Astarte, Anat and Asherah; many favour
+    a syncretistic Ishtar-Astarte (Ackerman). Present the options.
+  - >-
+    MT vocalizes məleket ("work/host of heaven"), probably a scribal avoidance; the versions
+    and most moderns read malkat.
+  - >-
+    The kawwānîm likely relate to Akkadian kamānu cakes offered to Ishtar; cake moulds from
+    Mari are often cited (verify which moulds show a goddess).
+  - >-
+    The Hermopolis papyri mention a temple of the Queen of Heaven at Syene in the Persian
+    period.
+  sources_to_check:
+  - S. Ackerman, Under Every Green Tree (HSM 46, 1992)
+  - TAD A2.1-A2.7 (Hermopolis papyri)
+  - DDD, s.v. "Queen of Heaven"
+  image_query: Mari mould nude goddess
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

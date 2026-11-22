@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: rassam-cylinder
+file: rassam-cylinder.jpg
+title: Rassam Prism of Ashurbanipal, 10-sided prism, Nineveh, 643 BCE.jpg
+caption: >-
+  The Rassam Prism of Ashurbanipal, ten-sided clay prism from Nineveh, 643 BCE (British Museum,
+  London).
+description: Rassam Prism of Ashurbanipal, 10-sided prism, Nineveh, 643 BCE British Museum,
+  London
+creator: Anthony Huan
+credit_line: https://www.flickr.com/photos/anthonyhuan/31947606038/
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: Anthony Huan, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Rassam_Prism_of_Ashurbanipal,_10-sided_prism,_Nineveh,_643_BCE.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/bd/Rassam_Prism_of_Ashurbanipal%2C_10-sided_prism%2C_Nineveh%2C_643_BCE.jpg
+  sha1: 4fe09466d134913794b0ece3edf8a284e6c7f116
+  original_size: [2164, 4217]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 821×1600 px
+size: [821, 1600]
+depicts: [rassam-cylinder]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

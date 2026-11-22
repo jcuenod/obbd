@@ -1,0 +1,70 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: theodotos-inscription
+title: Theodotos Inscription
+type: artifact
+cultures: [jewish, greek]
+date:
+  from: -50
+  to: 70
+  circa: true
+  display: c. 50 BCE–70 CE
+scope: >-
+  Greek dedicatory inscription found in 1913 on the Ophel/City of David. It records that Theodotos
+  son of Vettenos, priest and archisynagogos, built a synagogue for the reading of the Law
+  and teaching of the commandments, with guest rooms and water installations for visitors
+  from abroad. It is the principal epigraphic evidence for a pre-70 synagogue in Jerusalem.
+passages:
+- ref: Luke 4:16-21
+  rel: practice
+  note: Synagogue reading of scripture and teaching on the Sabbath
+- ref: Acts 15:21
+  rel: practice
+  note: Moses read in the synagogues every Sabbath
+- ref: Acts 13:15
+  rel: language
+  note: archisynagōgoi ('synagogue leaders'), the inscription's title
+- ref: Acts 2:5-11
+  rel: practice
+  note: Diaspora Jews in Jerusalem; lodging for visitors from abroad
+- ref: Acts 6:9
+  rel: attests
+  disputed: true
+  note: Synagogue of the Freedmen; Theodotos's Latin family name may indicate freedman origin
+related: [synagogues, stone-vessels-and-mikvaot, city-of-david, jerusalem, magdala-stone,
+  herods-temple]
+media:
+- id: theodotos-inscription
+  role: primary
+external:
+  wikipedia: Theodotos inscription
+  wikidata: Q7016648
+editorial:
+  author_notes:
+  - >-
+    Dating: a pre-70 date (Kloppenborg 2000) is the prevailing view against H. C. Kee's later
+    dating.
+  - >-
+    The identification with the Synagogue of the Freedmen (Acts 6:9) is an attractive conjecture,
+    not established.
+  - >-
+    Note the emphasis on Torah reading and hospitality rather than prayer, and the three generations
+    of archisynagogoi.
+  sources_to_check:
+  - CIJ II 1404
+  - J. S. Kloppenborg Verbin, 'Dating Theodotos (CIJ II 1404)', JJS 51 (2000)
+  - 'Corpus Inscriptionum Iudaeae/Palaestinae, vol. 1: Jerusalem (2010-2012)'
+  image_query: Theodotos inscription Jerusalem
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

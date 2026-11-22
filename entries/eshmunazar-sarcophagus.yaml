@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: eshmunazar-sarcophagus
+title: Sarcophagus of Eshmunazar II
+type: artifact
+cultures: [phoenician, persian]
+date:
+  from: -540
+  to: -450
+  circa: true
+  display: c. 540–450 BCE
+scope: >-
+  The Egyptian-style basalt anthropoid sarcophagus of Eshmunazar II, king of Sidon, found
+  in 1855. Its long Phoenician inscription curses anyone who opens the tomb, praying that
+  they have no resting place among the Rephaim. It records temple building for Astarte and
+  Eshmun and a Persian royal grant of Dor and Joppa.
+passages:
+- ref: Isa 14:9-11
+  rel: concept
+  note: The Rephaim in Sheol greet a dead king
+- ref: Isa 26:14
+  rel: concept
+  note: The Rephaim do not rise
+- ref: Ps 88:10
+  rel: concept
+  note: Can the Rephaim praise God? (MT 88:11)
+- ref: Isa 14:18-20
+  rel: parallel
+  note: Honourable royal burial contrasted with being denied a tomb
+- ref: 1Kgs 11:5
+  rel: attests
+  note: Astarte (Ashtoreth), goddess of the Sidonians
+- ref: Ezra 3:7
+  rel: setting
+  note: Sidonians and Tyrians bring cedar by sea to Joppa under a Persian grant
+- ref: Ezra 7:12
+  rel: language
+  note: Persian king as 'king of kings'; cf. 'lord of kings' (ʾdn mlkm)
+related: [rephaim, sidon, astarte, sheol-and-the-netherworld, care-for-the-dead, persia, phoenicians,
+  ahiram-sarcophagus]
+location:
+  institution: Musée du Louvre, Paris
+  accession: null
+media:
+- id: eshmunazar-sarcophagus
+  role: primary
+- id: eshmunazar-sarcophagus-2
+  role: gallery
+external:
+  wikipedia: Sarcophagus of Eshmunazar II
+  wikidata: Q52725080
+editorial:
+  author_notes:
+  - >-
+    The date is debated. Older dates put Eshmunazar II in the first half of the 5th century.
+    Elayi's Sidonian chronology places him c. 539-525. Say which chronology is followed.
+  - >-
+    The Rephaim as shades of the dead, not giants, is the key point for Isaiah, Psalms and
+    Job. Link to the Ugaritic rpum.
+  - >-
+    The 'lord of kings' who granted Dor and Joppa is the Persian king, a rare Phoenician witness
+    to Achaemenid patronage of coastal cities.
+  sources_to_check: [KAI 14]
+  image_query: Sarcophagus of Eshmunazar II Louvre
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

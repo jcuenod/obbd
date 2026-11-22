@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: scribes-and-scribal-education-3
+file: scribes-and-scribal-education-3.jpg
+title: >-
+  Assyrian wall relief showing a scribe and a horseman trampling enemies. From Anah, Iraq.
+  Iraq Museum.jpg
+caption: >-
+  Fragment of an Assyrian wall relief from Anah with a scribe holding a stylus and clay tablet
+  (Iraq Museum, Baghdad).
+description: >-
+  Fragment of a wall relief depicting an Assyrian scribe holding a stylus and a clay tablet.
+  Before him, an Assyrian warrior/horseman trampling enemies. The scene documents war (unidentified)
+  in a mountainous area. Neo-Assyrian period, 9th-7th century BCE. From A'na (Anat; Anah)
+  District, al-Anbar Governorate, Iraq. The Iraq Museum in Baghdad, Iraq.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Assyrian_wall_relief_showing_a_scribe_and_a_horseman_trampling_enemies._From_Anah,_Iraq._Iraq_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/0/0a/Assyrian_wall_relief_showing_a_scribe_and_a_horseman_trampling_enemies._From_Anah%2C_Iraq._Iraq_Museum.jpg
+  sha1: 8cc2b9862c22414ab7213195ab01700accb5c21f
+  original_size: [3967, 4016]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1580×1600 px
+size: [1580, 1600]
+depicts: [scribes-and-scribal-education]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

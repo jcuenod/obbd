@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: corinth
+title: Corinth
+type: site
+cultures: [roman, greek]
+scope: >-
+  Roman Corinth, refounded as a colony by Julius Caesar in 44 BCE a century after its destruction,
+  capital of Achaia and controller of the Isthmus. The entry covers its archaeology and institutions
+  as the setting of Paul's mission and correspondence.
+passages:
+- ref: Acts 18:1-18
+  rel: setting
+  note: Paul's eighteen-month stay; Aquila and Priscilla; trial before Gallio
+- ref: Acts 18:12-17
+  rel: realia
+  note: The tribunal (bēma) in the forum
+- ref: 1Cor 8:10
+  rel: practice
+  note: >-
+    Eating in an idol's temple; cf. dining rooms at the Asklepieion and the Demeter sanctuary
+- ref: 1Cor 10:25
+  rel: realia
+  note: Meat sold in the market (makellon), attested at Corinth as a macellum
+- ref: 1Cor 9:24-27
+  rel: practice
+  note: Athletic imagery; the Isthmian Games administered by Corinth
+- ref: 1Cor 11:17-34
+  rel: practice
+  note: Communal meals in private houses
+- ref: Rom 16:1
+  rel: setting
+  note: Cenchreae, Corinth's eastern port
+- ref: Rom 16:23
+  rel: attests
+  disputed: true
+  note: Erastus the city treasurer
+related: [gallio-inscription, erastus-inscription, imperial-cult, temple-of-artemis-ephesus,
+  politarch-inscriptions]
+media:
+- id: corinth
+  role: primary
+external:
+  wikipedia: Ancient Corinth
+  wikidata: Q1363688
+  pleiades: '570182'
+editorial:
+  author_notes:
+  - >-
+    Stress the Roman colonial character (Latin public inscriptions; freedmen settlers) after
+    the destruction of 146 BCE and refoundation in 44 BCE.
+  - >-
+    Correct the misconception of '1,000 sacred prostitutes'. Strabo 8.6.20 refers to the pre-146
+    city and is unreliable.
+  - >-
+    Murphy-O'Connor's house-church reconstructions (e.g. the Anaploga villa) are illustrative,
+    not evidential.
+  sources_to_check:
+  - 'J. Murphy-O''Connor, St. Paul''s Corinth: Texts and Archaeology (3rd ed., 2002)'
+  - 'J. H. Kent, Corinth VIII.3: The Inscriptions 1926-1950 (1966)'
+  image_query: Ancient Corinth Temple of Apollo
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q1363688 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 37.90579
+  lon: 22.87874
+  source: wikidata:Q1363688

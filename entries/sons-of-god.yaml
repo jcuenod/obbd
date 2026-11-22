@@ -1,0 +1,75 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: sons-of-god
+title: Sons of God (bene elohim)
+aliases: [bene elohim, bene elim, sons of the gods]
+type: concept
+cultures: [hebrew, ugaritic, jewish]
+scope: >-
+  The "sons of God/gods" (bənê ʾĕlōhîm, bənê ʾēlîm, bənê ʿelyôn), members of the divine council,
+  and their reception in Second Temple interpretation of Gen 6:1-4 as fallen angels (the Watchers).
+passages:
+- ref: Gen 6:1-4
+  rel: concept
+  note: Sons of God take human wives; Nephilim on the earth
+- ref: Job 1:6; 2:1
+  rel: concept
+  note: Sons of God present themselves before YHWH
+- ref: Job 38:7
+  rel: concept
+  note: Sons of God shout for joy at creation, parallel to morning stars
+- ref: Deut 32:8
+  rel: concept
+  note: 4QDeutj 'sons of God'; LXX 'angels/sons of God'; MT 'sons of Israel'
+- ref: Ps 29:1
+  rel: concept
+  note: Bənê ʾēlîm summoned to ascribe glory to YHWH
+- ref: Ps 89:6
+  rel: concept
+  note: None among the bənê ʾēlîm is like YHWH (MT 89:7)
+- ref: Ps 82:6
+  rel: concept
+  note: '''Sons of Elyon'' sentenced to die like mortals'
+- ref: Dan 3:25
+  rel: concept
+  note: Fourth figure in the furnace 'like a son of gods'
+- ref: 1En 6:1-7:6
+  rel: concept
+  note: Watchers descend and beget giants
+- ref: Jude 6
+  rel: concept
+  note: Angels who left their proper dwelling kept in chains
+related: [divine-council, nephilim, 4qdeut-j, first-enoch, el, elyon, king-as-son-of-god]
+media: []
+external:
+  wikipedia: Sons of God
+  wikidata: Q4119683
+editorial:
+  author_notes:
+  - >-
+    Ugaritic bn il/bn ilm and the seventy sons of Athirat provide the closest background;
+    mainstream critical scholarship reads Gen 6:1-4 of divine beings.
+  - >-
+    Survey the reception history: angels (1 Enoch, Jubilees, Jude, 2 Pet 2:4), human rulers
+    or nobles (targums, rabbis), Sethites (later Christian).
+  - The text-critical case for "sons of God" in Deut 32:8 is now widely accepted.
+  - >-
+    Exclude sensational modern readings (alien or hybrid-genetics theories) except as misconceptions.
+  sources_to_check:
+  - >-
+    R. S. Hendel, "Of Demigods and the Deluge: Toward an Interpretation of Genesis 6:1-4,"
+    JBL 106 (1987)
+  - DDD, s.v. "Sons of (the) God(s)"
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

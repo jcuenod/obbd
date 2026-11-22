@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: mourning-rites-2
+file: mourning-rites-2.jpg
+title: Pleureuses Saqqara.jpeg
+caption: >-
+  Professional mourning women with raised arms, wall painting in the tomb of Ramose, 18th
+  Dynasty.
+description: Pleureuses. Fresques figurant dans la tombe du Ramose, XVIIIem Dynastie.
+creator: Unknown authorUnknown author
+credit_line: Science & Avenir Hors Série n°157 - Janvier/Février 2009 - Page 53
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Unknown authorUnknown author. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Pleureuses_Saqqara.jpeg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/8/8b/Pleureuses_Saqqara.jpeg
+  sha1: 65002a3209c1d63c8d15f182e76de1392ccd0d5f
+  original_size: [2787, 2336]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1341 px
+size: [1600, 1341]
+depicts: [mourning-rites]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

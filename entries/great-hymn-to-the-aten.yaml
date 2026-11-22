@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: great-hymn-to-the-aten
+title: Great Hymn to the Aten
+aliases: [Hymn to the Aten, Hymn to the Aton]
+type: text
+cultures: [egyptian]
+date:
+  from: -1353
+  to: -1336
+  circa: true
+  display: c. 1353–1336 BCE
+scope: >-
+  The longest hymn of the Amarna period, inscribed in the tomb of Ay at Amarna. It praises
+  the sun disk (Aten) as sole creator and sustainer of all life, with Akhenaten as its unique
+  intermediary. The entry covers its contents, its place in Atenist religion, and its long-noted
+  resemblance to Psalm 104.
+passages:
+- ref: Ps 104:20-23
+  rel: parallel
+  note: Darkness brings out the lions; at sunrise people go out to their work
+- ref: Ps 104:24
+  rel: parallel
+  note: '''How manifold are your works'' (Aten hymn: ''How many are your deeds'')'
+- ref: Ps 104:25-26
+  rel: parallel
+  note: The sea, its creatures, and ships as part of the created order
+- ref: Ps 104:27-30
+  rel: parallel
+  note: >-
+    All creatures depend on the deity for food and breath; life when he gives, death when
+    he withdraws
+- ref: Ps 145:15-16
+  rel: concept
+  note: All living things look to the deity for their food
+related: [akhenaten, egyptian-cosmology, creation-accounts, amarna-letters, egyptian-kingship,
+  leviathan]
+media:
+- id: great-hymn-to-the-aten
+  role: primary
+- id: great-hymn-to-the-aten-2
+  role: gallery
+external:
+  wikipedia: Great Hymn to the Aten
+  wikidata: Q737001
+editorial:
+  author_notes:
+  - >-
+    The Ps 104 parallels are widely accepted, but direct dependence is unlikely given the
+    chronological gap and the suppression of Atenism. Most scholars posit a shared tradition
+    of Egyptian solar hymnody (also found in Amun hymns), possibly reaching Israel through
+    Canaanite or Phoenician mediation.
+  - >-
+    Ps 104 also draws on West Semitic storm-god imagery (vv. 3-4, 7-9). The Egyptian comparison
+    accounts for only part of the psalm.
+  - >-
+    Present Atenism as an exclusive cult centred on the king and the sun disk. Scholars debate
+    whether to call it monotheism. Freud's thesis that Mosaic monotheism derives from Atenism
+    (Moses and Monotheism) is not accepted.
+  - >-
+    The text survives chiefly in Ay's tomb (Amarna Tomb 25), now damaged. Earlier copies,
+    such as Bouriant's and Davies', preserve readings now lost.
+  sources_to_check: [COS 1.28, 'AEL 2:96-100', ANET 369-371]
+  image_query: Great Hymn to the Aten tomb of Ay Amarna
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

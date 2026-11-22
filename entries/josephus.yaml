@@ -1,0 +1,94 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: josephus
+title: Josephus
+aliases: [Flavius Josephus]
+type: text
+cultures: [jewish, roman]
+date:
+  from: 75
+  to: 100
+  circa: true
+  display: c. 75–100 CE
+scope: >-
+  The works of Flavius Josephus (37-c. 100 CE): Jewish War, Jewish Antiquities, Life, and
+  Against Apion. They are the principal narrative source for Judea from the Hasmoneans to
+  the revolt of 66-73 CE and for the persons, groups, and institutions in the New Testament.
+passages:
+- ref: Mark 6:17-29
+  rel: event
+  note: Antipas executes John the Baptist (Ant. 18.116-119), with different stated motives
+- ref: Acts 12:20-23
+  rel: event
+  note: Death of Agrippa I at Caesarea after acclamation as divine (Ant. 19.343-350)
+- ref: Acts 5:36-37
+  rel: event
+  note: Theudas and Judas the Galilean (Ant. 20.97-98; 18.4-10)
+- ref: Acts 21:38
+  rel: event
+  note: The Egyptian prophet and his followers (War 2.261-263; Ant. 20.169-172)
+- ref: Luke 2:1-2
+  rel: event
+  note: Quirinius's census, which Josephus dates to 6 CE, after Herod's death (Ant. 18.1-2,
+    26)
+- ref: Mark 15:1-15
+  rel: attests
+  note: Pontius Pilate's governorship (War 2.169-177; Ant. 18.55-64)
+- ref: Gal 1:19
+  rel: attests
+  note: James the brother of Jesus, executed under Ananus (Ant. 20.200)
+- ref: Acts 23:6-8
+  rel: concept
+  note: Pharisees and Sadducees on resurrection and fate (War 2.162-166; Ant. 18.12-17)
+- ref: Acts 24:24
+  rel: attests
+  note: Felix and Drusilla (Ant. 20.141-144)
+related: [herod-the-great, herods-temple, jewish-sects, census-of-quirinius, masada, pilate-stone,
+  arch-of-titus, messianic-expectations]
+media:
+- id: josephus
+  role: primary
+external:
+  wikipedia: Josephus
+  wikidata: Q134461
+editorial:
+  author_notes:
+  - >-
+    Explain the dates and aims of each work (War c. 75-79; Antiquities 93/94; Life and Against
+    Apion later), Flavian patronage, and apologetic tendencies. Do not take his numbers at
+    face value.
+  - >-
+    Testimonium Flavianum (Ant. 18.63-64): the majority view is a partly authentic core with
+    Christian interpolations. The James (Ant. 20.200) and John the Baptist passages are generally
+    accepted as authentic.
+  - >-
+    Note divergences from the NT (e.g. Herodias's first husband; the Theudas chronology in
+    Acts 5:36). The argument that Luke used Josephus is a minority view.
+  - >-
+    The so-called 'bust of Josephus' (Ny Carlsberg Glyptotek) has no basis as a portrait.
+    Avoid using it as an image.
+  sources_to_check:
+  - >-
+    H. St. J. Thackeray, R. Marcus, A. Wikgren, and L. H. Feldman (trans.), Josephus, 10 vols.
+    (Loeb Classical Library, 1926-1965)
+  - 'S. Mason (ed.), Flavius Josephus: Translation and Commentary (Brill, 2000-)'
+  image_query: Josephus Antiquities manuscript
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Luke 2:1-2 note no longer implies Luke dates the
+    census to 6 CE
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

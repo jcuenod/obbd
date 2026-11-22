@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tarshish
+title: Tarshish
+aliases: [Tartessos (proposed), Ships of Tarshish]
+type: site
+cultures: [phoenician]
+scope: >-
+  The distant western source of silver and metals reached by 'ships of Tarshish', and the
+  byword for the far end of the sea. Covers the proposed identifications, the Phoenician metals
+  trade, and the biblical usage of 'ships of Tarshish' as a class of ship.
+passages:
+- ref: Gen 10:4
+  rel: setting
+  note: Tarshish among the sons of Javan
+- ref: 1Kgs 10:22
+  rel: realia
+  note: '''Ships of Tarshish'' bringing gold, silver, ivory, apes and peacocks'
+- ref: 1Kgs 22:48
+  rel: realia
+  note: Jehoshaphat's ships of Tarshish wrecked at Ezion-geber (MT 22:49)
+- ref: Ps 72:10
+  rel: setting
+  note: Kings of Tarshish and the isles bring tribute
+- ref: Isa 2:16
+  rel: realia
+  note: Ships of Tarshish as symbols of pride
+- ref: Isa 23:1-14
+  rel: setting
+  note: '''Wail, O ships of Tarshish'' over Tyre'
+- ref: Jer 10:9
+  rel: realia
+  note: Beaten silver brought from Tarshish
+- ref: Ezek 27:12
+  rel: realia
+  note: Tarshish trades silver, iron, tin and lead with Tyre
+- ref: Jonah 1:3
+  rel: setting
+  note: Jonah flees toward Tarshish, the far west
+- ref: Isa 66:19
+  rel: setting
+  note: Tarshish among the distant nations
+related: [phoenicians, phoenician-seafaring, tyre, ophir, table-of-nations, nora-stone]
+media:
+- id: phoenician-seafaring
+  role: primary
+external:
+  wikipedia: Tarshish
+  wikidata: Q44826
+editorial:
+  author_notes:
+  - >-
+    The leading proposal is Tartessos in southwestern Iberia. Others include Sardinia (a reading
+    of the Nora Stone is debated), Tarsus in Cilicia (Josephus) and a generic 'far west'.
+    An Esarhaddon inscription names Tarsisi among lands of the sea (verify the text).
+  - >-
+    Lead-isotope studies of silver hoards from the southern Levant point to Iberian and Sardinian
+    sources from the tenth or ninth century BCE (Eshel et al., PNAS 2019; verify). This supports
+    early Phoenician western trade.
+  - >-
+    The phrase 'ship of Tarshish' probably denotes a type of long-haul ship. Chronicles reinterprets
+    it as ships sailing to Tarshish from Ezion-geber (2 Chr 9:21; 20:36), which is geographically
+    impossible for a western Tarshish.
+  sources_to_check:
+  - Aubet, The Phoenicians and the West (2nd ed., 2001)
+  image_query: Phoenician ship relief Nineveh Luli
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

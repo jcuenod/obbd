@@ -1,0 +1,71 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: footstool
+title: Footstool
+type: realia
+cultures: [egyptian, ane]
+scope: >-
+  The royal and divine footstool as an object and as an image of sovereignty and subjugation.
+  The entry covers the ark or temple as YHWH's footstool, the cosmic footstool, and enemies
+  made a footstool.
+passages:
+- ref: Ps 110:1
+  rel: imagery
+  note: Enemies made the king's footstool
+- ref: Ps 99:5
+  rel: imagery
+  note: Worship at YHWH's footstool
+- ref: Ps 132:7
+  rel: imagery
+  note: '''Let us worship at his footstool'' (ark procession)'
+- ref: 1Chr 28:2
+  rel: concept
+  note: Ark as the footstool of God
+- ref: Lam 2:1
+  rel: imagery
+  note: YHWH did not remember his footstool (Zion/temple)
+- ref: Isa 66:1
+  rel: imagery
+  note: Heaven my throne, earth my footstool
+- ref: 2Chr 9:18
+  rel: realia
+  note: Golden footstool attached to Solomon's throne
+- ref: Matt 5:35
+  rel: imagery
+  note: Earth as God's footstool in the oath saying
+- ref: Heb 1:13
+  rel: imagery
+  note: Ps 110:1 applied to Christ
+related: [tutankhamun-footstool, cherub-throne, ark-of-the-covenant, smiting-the-enemy-motif,
+  royal-ideology, temple-as-cosmos]
+media:
+- id: footstool
+  role: primary
+external:
+  wikipedia: Footstool
+  wikidata: Q14973416
+editorial:
+  author_notes:
+  - >-
+    Tutankhamun's footstools decorated with bound foreign enemies (the Nine Bows) illustrate
+    Ps 110:1 literally. Egyptian sandals and floors with enemy figures are related.
+  - >-
+    The ark as footstool goes with the cherub throne above it. Explain how Isa 66:1 shifts
+    the image to a cosmic scale and critiques the temple.
+  - >-
+    The image is very often cited in the New Testament through Ps 110:1. Keep the focus on
+    its ancient Near Eastern background.
+  image_query: Tutankhamun footstool bound captives
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

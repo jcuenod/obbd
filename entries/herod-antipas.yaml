@@ -1,0 +1,101 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: herod-antipas
+title: Herod Antipas
+aliases: [Antipas, Herod the Tetrarch]
+type: person
+cultures: [jewish, roman]
+date:
+  from: -4
+  to: 39
+  display: 4 BCE–39 CE
+scope: >-
+  Herod Antipas, son of Herod the Great and Malthace, tetrarch of Galilee and Perea from 4
+  BCE until Caligula exiled him in 39 CE. He executed John the Baptist and governed the Galilee
+  of Jesus' ministry, rebuilt Sepphoris and founded Tiberias. The entry covers him as known
+  from the Gospels, Josephus, coins and archaeology.
+passages:
+- ref: Mark 6:14-29
+  rel: event
+  note: '''King Herod'' has John the Baptist beheaded at the request of Herodias''s daughter'
+- ref: Luke 3:1
+  rel: attests
+  note: Herod tetrarch of Galilee in Tiberius's fifteenth year
+- ref: Luke 3:19-20
+  rel: event
+  note: John rebukes Herod over Herodias and is imprisoned
+- ref: Luke 8:3
+  rel: attests
+  note: Joanna, wife of Herod's steward Chuza, among Jesus' supporters
+- ref: Luke 13:31-32
+  rel: attests
+  note: '''Go and tell that fox'''
+- ref: Luke 23:6-12
+  rel: attests
+  note: Pilate sends Jesus to Herod; the two become friends
+- ref: Acts 4:27
+  rel: attests
+  note: Herod and Pontius Pilate gathered against Jesus
+- ref: Acts 13:1
+  rel: attests
+  note: Manaen, a member of Herod the tetrarch's court
+- ref: John 6:23
+  rel: setting
+  note: Boats from Tiberias, Antipas's new capital
+- ref: Matt 11:7-8
+  rel: imagery
+  disputed: true
+  note: '''A reed shaken by the wind'' and soft robes in royal palaces; the reed on Antipas''s
+    coins'
+related: [herod-the-great, josephus, pontius-pilate, nabataeans, capernaum, magdala-stone,
+  galilee-boat, coinage]
+media:
+- id: herod-antipas
+  role: primary
+external:
+  wikipedia: Herod Antipas
+  wikidata: Q192950
+editorial:
+  author_notes:
+  - >-
+    Mark calls him 'King Herod', a popular usage; Matthew and Luke correct this to 'tetrarch'.
+    His request to Caligula for the royal title led to his exile (Josephus, Ant. 18.240-256).
+  - >-
+    Josephus (Ant. 18.116-119) says Antipas imprisoned John at Machaerus and executed him
+    for fear of sedition, and that people saw Antipas's defeat by Aretas IV (whose daughter
+    he had divorced to marry Herodias) as divine punishment. Compare the motives and details
+    with Mark. Mark names Herodias's former husband Philip, while Josephus calls him Herod.
+    Josephus, not the Gospels, names the daughter Salome.
+  - >-
+    Coins: aniconic bronzes struck at Tiberias with a reed, palm branch or wreath and the
+    legend 'of Herod the tetrarch'. Theissen's reading of Matt 11:7 in the light of the reed
+    coin type is suggestive but not established.
+  - >-
+    Building: Sepphoris rebuilt as 'the ornament of all Galilee', and Tiberias founded c.
+    19-20 CE partly over tombs (Ant. 18.36-38). How far his urbanization affected the Galilean
+    village economy is debated.
+  - >-
+    Luke 23:6-12 (Jesus before Antipas) is found only in Luke, and its historicity is debated.
+  sources_to_check:
+  - H. W. Hoehner, Herod Antipas (SNTSMS 17, 1972)
+  - M. H. Jensen, Herod Antipas in Galilee (WUNT 2/215, 2006)
+  image_query: Herod Antipas coin Tiberias reed
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Luke 23:6-12 rel event -> attests (no extrabiblical
+    account of the episode)
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

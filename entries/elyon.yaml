@@ -1,0 +1,81 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: elyon
+title: Elyon
+aliases: [Most High, ʿElyon]
+type: deity
+cultures: [hebrew, aramean, phoenician]
+scope: >-
+  ʿElyon, "Most High", a divine title used in the Hebrew Bible for YHWH, often as El Elyon,
+  and attested as a divine name in the Aramaic Sefire treaty and in Philo of Byblos. The entry
+  covers the title's origin and its role in Jerusalem royal-temple theology and in Deut 32:8-9.
+passages:
+- ref: Gen 14:18-22
+  rel: language
+  note: >-
+    Melchizedek priest of El Elyon, creator of heaven and earth; Abram swears by YHWH El Elyon
+- ref: Deut 32:8-9
+  rel: concept
+  note: Elyon divides the nations; YHWH's portion is Jacob (text-critical issue in v. 8)
+- ref: Num 24:16
+  rel: language
+  note: Balaam 'knows the knowledge of Elyon'
+- ref: Ps 82:6-7
+  rel: concept
+  note: Gods as 'children of Elyon' who will die like mortals
+- ref: Isa 14:14
+  rel: concept
+  note: The tyrant aspires to be 'like Elyon'
+- ref: Ps 46:4
+  rel: concept
+  note: Holy habitation of Elyon by the river in the city of God (MT 46:5)
+- ref: Ps 47:2
+  rel: language
+  note: '''YHWH Elyon, great king over all the earth'' (MT 47:3)'
+- ref: Ps 18:13
+  rel: language
+  note: Elyon utters his voice in thunder (MT 18:14; 2 Sam 22:14)
+- ref: Dan 7:18, 22, 25, 27
+  rel: language
+  note: '''Holy ones of the Most High'''
+related: [el, divine-council, sons-of-god, 4qdeut-j, sefire-treaties, cosmic-mountain]
+media: []
+external:
+  wikipedia: Elyon
+  wikidata: Q1082911
+editorial:
+  author_notes:
+  - >-
+    Key debate is whether Elyon was originally an epithet of El or a separate deity; the Sefire
+    pair "El and Elyon" (KAI 222) and Philo of Byblos's Elioun are the main evidence for a
+    distinct god.
+  - >-
+    On Deut 32:8-9, present the textual evidence (MT "sons of Israel"; 4QDeutj "sons of God";
+    LXX) and the debate over whether Elyon and YHWH are distinct there (Smith) or identical
+    (most traditional readings).
+  - >-
+    Elyon is not attested as an independent deity at Ugarit; ʿly is used of Baal in KTU 1.16.
+    Do not claim a Ugaritic god Elyon.
+  - >-
+    Many scholars connect El Elyon to pre-Israelite Jerusalem (Gen 14; Ps 76:2); present this
+    as hypothesis.
+  sources_to_check: [KAI 222, 'DDD, s.v. "Elyon"']
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Ps 82:6 widened to 82:6-7 to include 'die like
+    mortals'
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

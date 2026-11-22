@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: gath
+file: gath.jpg
+title: Tel-Tsafit-206.jpg
+caption: Tell eṣ-Ṣafi (Tel Tsafit), the mound of Philistine Gath, at the edge of the Shephelah.
+description: Tel Tsafit, Israel.
+creator: Bukvoed
+credit_line: Own work
+license:
+  id: CC-BY-3.0
+  name: CC BY 3.0
+  url: https://creativecommons.org/licenses/by/3.0
+attribution: Bukvoed, CC BY 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tel-Tsafit-206.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/3/32/Tel-Tsafit-206.jpg
+  sha1: c21e33a8bb087ff54d82f07748d73ff6a0dc7c44
+  original_size: [2277, 1206]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×848 px
+size: [1600, 848]
+depicts: [gath]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

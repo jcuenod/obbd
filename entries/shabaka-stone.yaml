@@ -1,0 +1,75 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: shabaka-stone
+title: Shabaka Stone (Memphite Theology)
+aliases: [Memphite Theology]
+type: artifact
+cultures: [egyptian, nubian]
+date:
+  from: -716
+  to: -702
+  circa: true
+  display: c. 716–702 BCE
+scope: >-
+  A basalt slab inscribed under the Kushite king Shabaka. It claims to copy a worm-eaten ancient
+  document, and it preserves the "Memphite Theology", in which Ptah creates the gods and all
+  things through his heart (thought) and tongue (command). It is a standard comparandum for
+  creation by divine word.
+passages:
+- ref: Gen 1:3-31
+  rel: concept
+  note: Creation by divine utterance ('And God said... and it was so')
+- ref: Ps 33:6-9
+  rel: concept
+  note: By the word of the LORD the heavens were made; he spoke and it came to be
+- ref: Ps 148:5
+  rel: concept
+  note: He commanded and they were created
+- ref: Gen 2:1-3
+  rel: parallel
+  disputed: true
+  note: Ptah 'rested/was satisfied' (ḥtp) after making all things
+- ref: John 1:1-3
+  rel: concept
+  disputed: true
+  note: Creative word (logos) as agent of creation
+related: [egyptian-cosmology, creation-accounts, divine-rest, cush, memphis]
+location:
+  institution: British Museum, London
+  accession: null
+media:
+- id: shabaka-stone
+  role: primary
+external:
+  wikipedia: Shabaka Stone
+  wikidata: Q1188062
+editorial:
+  author_notes:
+  - >-
+    The date of composition is debated. Older scholarship (Breasted, Sethe) took the text
+    as Old Kingdom. Most now consider it a Twenty-fifth Dynasty archaising composition (Junge),
+    though some argue for a Ramesside date.
+  - >-
+    Creation through authoritative utterance (Hu) and perception (Sia) is older in Egypt (e.g.,
+    the Coffin Texts), so the motif does not depend on dating this text early.
+  - >-
+    Treat the Gen 2:2 "rest" parallel cautiously. It depends on translating ḥtp as "rest"
+    rather than "be satisfied".
+  - >-
+    The stone's centre is worn because it was later reused as a millstone, and much of the
+    text is damaged.
+  sources_to_check: [COS 1.15, 'AEL 1:51-57', ANET 4-6]
+  image_query: Shabaka Stone British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,65 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: seal-of-shema
+title: Seal of Shema, Servant of Jeroboam
+aliases: [Shema seal, Megiddo lion seal]
+type: artifact
+cultures: [israelite]
+date:
+  from: -788
+  to: -747
+  circa: true
+  display: c. 788–747 BCE
+scope: >-
+  A large jasper stamp seal found at Megiddo in 1904, showing a roaring lion and inscribed
+  'Belonging to Shema, servant of Jeroboam'. It is a classic example of an Israelite official's
+  seal and of the title 'servant of the king'.
+passages:
+- ref: 2Kgs 14:23-29
+  rel: attests
+  disputed: true
+  note: Jeroboam II, the king usually identified as Shema's master
+- ref: 1Kgs 12:20
+  rel: attests
+  disputed: true
+  note: Jeroboam I, preferred by a minority
+- ref: 2Kgs 22:12
+  rel: language
+  note: ʿebed hammelek 'servant of the king' as an official's title
+related: [seals-and-bullae, megiddo, lion-imagery, court-officials, samaria-ostraca]
+media:
+- id: seal-of-shema
+  role: primary
+external:
+  wikipedia: Shema seal
+  wikidata: Q124714194
+editorial:
+  author_notes:
+  - >-
+    The original was sent to Istanbul and has been lost. Study now depends on casts and early
+    photographs.
+  - >-
+    Palaeography and style favour Jeroboam II (8th century). Ussishkin (1994) reopened the
+    stratigraphic question, and some have argued for Jeroboam I. Explain why the date matters.
+  - >-
+    Shema's own office is unknown. 'Servant' here is a court title, not a statement of servile
+    status.
+  sources_to_check:
+  - Avigad and Sass, Corpus of West Semitic Stamp Seals (1997)
+  - >-
+    Ussishkin, 'Gate 1567 at Megiddo and the Seal of Shema, Servant of Jeroboam', in Scripture
+    and Other Artifacts (1994)
+  image_query: Seal of Shema servant of Jeroboam
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

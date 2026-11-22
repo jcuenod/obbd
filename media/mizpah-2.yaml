@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: mizpah-2
+file: mizpah-2.jpg
+title: >-
+  Excavations. Tell-el-Nasbeh (Mizpah). City gate from the east, part of the barricade still
+  in place LOC matpc.15691.jpg
+caption: >-
+  The city gate of Tell en-Naṣbeh from the east during the excavations (Matson Photograph
+  Collection).
+description: >-
+  Title: Excavations. Tell-el-Nasbeh (Mizpah). City gate from the east, part of the barricade
+  still in place Abstract/medium: G. Eric and Edith Matson Photograph Collection Physical
+  description: 1 negative :
+creator: Matson Collection
+credit_line: >-
+  Library of Congress Catalog: https://www.loc.gov/pictures/collection/matpc/item/mpc2010001188/PP
+  Original url: https://hdl.loc.gov/loc.pnp/matpc.15691
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Matson Collection. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Excavations._Tell-el-Nasbeh_(Mizpah)._City_gate_from_the_east,_part_of_the_barricade_still_in_place_LOC_matpc.15691.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/a4/Excavations._Tell-el-Nasbeh_%28Mizpah%29._City_gate_from_the_east%2C_part_of_the_barricade_still_in_place_LOC_matpc.15691.jpg
+  sha1: 40d55133f09c5d54861af7d65368c7d05319a290
+  original_size: [3932, 2918]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1188 px
+size: [1600, 1188]
+depicts: [mizpah]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

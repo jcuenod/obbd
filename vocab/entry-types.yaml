@@ -1,0 +1,79 @@
+# Entry types. The type determines the article template (section headings),
+# which optional YAML fields are expected, and whether an image is expected.
+#
+# Section names in braces, e.g. "{background}", are slots filled from
+# `corpus_headings` according to the part of the Bible the entry mainly bears on:
+# the entry's `corpus` field if set, otherwise inferred from its passage tags
+# (see entry_corpus() in tools/obbd/common.py).
+corpus_headings:
+  ot:   {background: Ancient Near Eastern Evidence,   bible: In the Hebrew Bible}
+  nt:   {background: Jewish and Greco-Roman Evidence, bible: In the New Testament}
+  both: {background: Extrabiblical Evidence,          bible: In the Bible}
+
+types:
+  artifact:
+    label: Artifact
+    definition: >-
+      A specific, physically extant object or monument: a stele, statue,
+      tablet, prism, relief, seal, ostracon, sarcophagus, scroll.
+    image_expected: true
+    sections: [Overview, Description and Provenance, Contents, Significance for Biblical Studies, Scholarly Issues, Further Reading]
+  text:
+    label: Text or Composition
+    definition: >-
+      A literary or documentary composition known from one or more copies, or
+      a corpus/archive of related documents (Atrahasis, Amarna letters).
+      Use `artifact` instead when the entry is about one particular object.
+    image_expected: true
+    sections: [Overview, Manuscripts and Date, Contents, Significance for Biblical Studies, Scholarly Issues, Further Reading]
+  site:
+    label: Site or Place
+    definition: An archaeological site, city, region, or geographic feature.
+    image_expected: true
+    sections: [Overview, Location and Identification, Archaeological History, Significance for Biblical Studies, Further Reading]
+  person:
+    label: Person
+    definition: >-
+      A historical individual (usually a ruler or official) attested outside
+      the Bible and relevant to it, or a biblical figure whose historicity is
+      discussed in light of extrabiblical evidence.
+    image_expected: false
+    sections: [Overview, Extrabiblical Sources, Biblical Portrayal, Historical Assessment, Further Reading]
+  deity:
+    label: Deity or Supernatural Being
+    definition: A god, goddess, demon, or class of divine being.
+    image_expected: false
+    sections: [Overview, Sources and Iconography, "{bible}", Scholarly Issues, Further Reading]
+  people:
+    label: People or Polity
+    definition: An ethnic group, kingdom, or empire.
+    image_expected: false
+    sections: [Overview, Sources, History, In the Bible, Further Reading]
+  event:
+    label: Event
+    definition: >-
+      A datable historical event that serves as a hub for multiple sources
+      (Battle of Qarqar, Sennacherib's 701 campaign).
+    image_expected: false
+    sections: [Overview, Sources, Reconstruction, Biblical Accounts, Further Reading]
+  concept:
+    label: Concept or Motif
+    definition: >-
+      A theme, worldview element, literary motif, or image complex shared
+      across the cultures of the biblical world, whether ancient Near Eastern,
+      Second Temple Jewish, or Greco-Roman (shepherd-kingship, divine council,
+      cosmology, messianic expectations).
+    image_expected: false
+    sections: [Overview, "{background}", "{bible}", Interpretive Significance, Further Reading]
+  practice:
+    label: Practice or Institution
+    definition: A legal, cultic, social, or economic practice or institution.
+    image_expected: false
+    sections: [Overview, "{background}", "{bible}", Interpretive Significance, Further Reading]
+  realia:
+    label: Material Culture
+    definition: >-
+      A class of objects, structures, or technologies (horned altars, four-room
+      houses, cylinder seals), as opposed to one specific artifact.
+    image_expected: true
+    sections: [Overview, Archaeological Evidence, In the Bible, Further Reading]

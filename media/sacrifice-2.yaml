@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: sacrifice-2
+file: sacrifice-2.jpg
+title: Sacrificial divination Nimrud.JPG
+caption: >-
+  A diviner and his assistant preparing a sacrificial animal, detail of a relief from the
+  North-West Palace at Nimrud.
+description: >-
+  A diviner and his assitant preparing a sacrificial animal ofr purpose of divination (hepatoscopy
+  or extispicy). Detail of a relief from the North-West Palace of Nimrud, 9th century BC.
+creator: Zunkir
+credit_line: >-
+  This file was derived from: Assyrian Reliefs Nimrod North West Palace - Castle.JPG: Author
+  : Gtoffoletto Changes : detail of the diviner and its assitant.
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Zunkir, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sacrificial_divination_Nimrud.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/1/1a/Sacrificial_divination_Nimrud.JPG
+  sha1: 8c4dd46bcf32bb6c34f1fab050b63320cf2f7628
+  original_size: [1098, 966]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1098, 966]
+depicts: [sacrifice]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

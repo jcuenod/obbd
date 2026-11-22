@@ -1,0 +1,68 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: laws-of-ur-nammu
+title: Laws of Ur-Nammu
+aliases: [Code of Ur-Nammu, LU]
+type: text
+cultures: [sumerian]
+date:
+  from: -2112
+  to: -2047
+  circa: true
+  display: c. 2112–2047 BCE
+scope: >-
+  The oldest known law collection, in Sumerian, attributed to Ur-Nammu or his son Shulgi of
+  the Third Dynasty of Ur. A prologue on royal justice for the weak is followed by casuistic
+  laws that, notably, use monetary compensation for bodily injury.
+passages:
+- ref: Exod 22:22-24
+  rel: concept
+  note: Protection of widow and orphan as a royal/divine duty (prologue) (MT 22:21-23)
+- ref: Exod 21:18-25
+  rel: parallel
+  note: 'Bodily injury: LU sets fixed silver payments where Exodus has compensation and talion'
+- ref: Num 5:11-31
+  rel: practice
+  note: River ordeal for a wife accused of adultery (LU §14)
+- ref: Deut 22:25-27
+  rel: parallel
+  note: Rape of a betrothed young woman is a capital offence (LU §6)
+- ref: Deut 25:13-16
+  rel: concept
+  note: Royal standardisation of weights and measures (prologue)
+related: [ane-law-collections, widow-orphan-sojourner, trial-by-ordeal, weights-and-silver-money,
+  laws-of-lipit-ishtar, code-of-hammurabi]
+media:
+- id: laws-of-ur-nammu
+  role: primary
+external:
+  wikipedia: Code of Ur-Nammu
+  wikidata: Q705693
+editorial:
+  author_notes:
+  - >-
+    Attribution to Ur-Nammu (2112-2095) or Shulgi is debated; manuscripts come from Nippur,
+    Ur, and Sippar, with a fuller unprovenanced manuscript published by Civil (2011).
+  - >-
+    Monetary compensation for injury in the earliest law and talion in later Babylonian and
+    biblical law reverse the old evolutionary assumption that talion is 'primitive' (Finkelstein;
+    discuss rather than adjudicate).
+  - Section numbers differ between editions; check them against Roth.
+  sources_to_check:
+  - M. T. Roth, Law Collections from Mesopotamia and Asia Minor (2nd ed., 1997)
+  - COS 2.153
+  - ANET 523-525
+  image_query: Code of Ur-Nammu tablet Istanbul
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-1-sol

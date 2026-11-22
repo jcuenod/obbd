@@ -1,0 +1,93 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: marriage-and-bride-price
+title: Marriage, Bride-Price, and Dowry
+aliases: [Mohar, Dowry, Betrothal, Marriage contract]
+type: practice
+cultures: [hebrew, akkadian, assyrian, jewish]
+scope: >-
+  Marriage formation and marital property in ancient Israel and the wider Near East: betrothal,
+  the bride-price (mōhar), the dowry and other marriage gifts, marriage contracts, and divorce,
+  with special attention to the Elephantine Aramaic marriage documents.
+passages:
+- ref: Gen 24:50-53
+  rel: practice
+  note: Betrothal negotiated with Rebekah's family; gifts to bride, brother, and mother
+- ref: Gen 29:15-30
+  rel: practice
+  note: Jacob's labour as bride-price; a slave-woman given with each daughter
+- ref: Gen 31:14-16
+  rel: practice
+  note: Rachel and Leah complain that their father consumed their 'money'
+- ref: Gen 34:12
+  rel: practice
+  note: Shechem offers any mōhar and gift
+- ref: Exod 22:16-17
+  rel: practice
+  note: Seducer pays the bride-price of virgins (MT 22:15-16); cf. MAL A §§55-56
+- ref: Deut 22:28-29
+  rel: practice
+  note: Fifty shekels and no right of divorce after rape of an unbetrothed virgin
+- ref: 1Sam 18:25
+  rel: practice
+  note: Saul demands a hundred Philistine foreskins as mōhar
+- ref: Josh 15:16-19
+  rel: practice
+  note: Achsah requests springs as a marriage gift (cf. Judg 1:12-15)
+- ref: 1Kgs 9:16
+  rel: practice
+  note: Gezer given as dowry (šillûḥîm) with Pharaoh's daughter
+- ref: Deut 24:1-4
+  rel: practice
+  note: Bill of divorce and ban on remarriage to the first husband
+- ref: Tob 7:13-14
+  rel: practice
+  note: Raguel writes a marriage contract (NRSV 7:13; 7:14 in GI-based versions)
+related: [levirate-marriage, surrogacy-and-concubinage, inheritance-and-birthright, elephantine-papyri,
+  diplomatic-marriage, code-of-hammurabi, middle-assyrian-laws]
+media:
+- id: marriage-and-bride-price
+  role: primary
+external:
+  wikipedia: Bride price
+  wikidata: Q765157
+editorial:
+  author_notes:
+  - >-
+    Correct the 'wife-purchase' model. Most scholars (e.g., Westbrook, Lemos) see the mōhar
+    (Akk. terḫatum) as a marriage payment that creates affinal ties, not a sale price. Distinguish
+    it from the dowry (Akk. šeriktum; Heb. šillûḥîm) and from the husband's gift to the wife.
+  - >-
+    Present the Elephantine marriage documents (e.g., TAD B2.6, B3.3, B3.8; 5th century BCE).
+    They give the mōhar, list the dowry, and let either spouse initiate divorce with a declaration
+    of 'hating'. Verify numbering in TAD.
+  - >-
+    Compare Exod 22:16-17 / Deut 22:28-29 with MAL A §55, and LH §§159-161 on broken betrothals.
+  - >-
+    No Israelite marriage contract survives from the monarchic period. Tobit is the earliest
+    Jewish literary reference to a written contract.
+  sources_to_check:
+  - Porten and Yardeni, Textbook of Aramaic Documents from Ancient Egypt, vol. 2 (1989)
+  - Porten, The Elephantine Papyri in English (1996)
+  - Roth, Law Collections from Mesopotamia and Asia Minor (SBLWAW 6, 2nd ed. 1997)
+  - Lemos, Marriage Gifts and Social Change in Ancient Palestine (2010)
+  image_query: Elephantine papyrus marriage contract Brooklyn Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Tob 7:13 -> Tob 7:13-14 to cover GI/GII verse numbering
+    of the marriage contract
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

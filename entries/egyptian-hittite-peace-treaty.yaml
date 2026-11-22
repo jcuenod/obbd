@@ -1,0 +1,90 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: egyptian-hittite-peace-treaty
+title: Egyptian–Hittite Peace Treaty
+aliases: [Treaty of Kadesh, Silver Treaty]
+type: artifact
+cultures: [hittite, egyptian]
+date:
+  from: -1259
+  to: -1259
+  circa: true
+  display: c. 1259 BCE
+scope: >-
+  The parity treaty concluded about 1259 BCE between Ramesses II of Egypt and Ḫattušili III
+  of Ḫatti, preserved in Akkadian cuneiform tablets from Ḫattuša and in hieroglyphic versions
+  at Karnak and the Ramesseum. It sets out non-aggression, mutual defence, support for succession,
+  and extradition of fugitives between "brothers".
+passages:
+- ref: 1Kgs 5:12
+  rel: form
+  note: Parity treaty between equal kings (Solomon and Hiram) (MT 5:26)
+- ref: 1Kgs 9:13
+  rel: language
+  note: '''My brother'' as diplomatic address between allied kings'
+- ref: 1Kgs 20:32-34
+  rel: language
+  note: Ahab calls Ben-hadad 'my brother' and concludes a treaty
+- ref: Amos 1:9
+  rel: language
+  note: '''Covenant of brothers'' (bĕrît ʾaḥîm) between states'
+- ref: 1Kgs 2:39-40
+  rel: practice
+  disputed: true
+  note: Fugitive slaves recovered from a neighbouring king (cf. extradition clauses)
+- ref: Deut 23:15-16
+  rel: practice
+  disputed: true
+  note: Ban on returning a fugitive slave, against treaty extradition norms (MT 23:16-17)
+- ref: 1Kgs 3:1
+  rel: practice
+  note: Diplomatic marriage sealing an alliance with Egypt
+related: [ramesses-ii, brotherhood-language, diplomatic-marriage, covenant-and-treaty-form,
+  hittite-vassal-treaties, kadesh-battle-reliefs, hiram-of-tyre]
+location:
+  institution: >-
+    Istanbul Archaeology Museums (cuneiform tablet); hieroglyphic versions in situ at Karnak
+    and the Ramesseum
+  accession: null
+media:
+- id: egyptian-hittite-peace-treaty
+  role: primary
+- id: egyptian-hittite-peace-treaty-2
+  role: gallery
+external:
+  wikipedia: Egyptian–Hittite peace treaty
+  wikidata: Q253155
+editorial:
+  author_notes:
+  - >-
+    Dated to Ramesses II's year 21, some 15 years after Kadesh; the original silver tablets
+    are lost. Each version presents the other side as seeking peace, which is useful for discussing
+    royal propaganda.
+  - >-
+    A parity treaty, unlike the vassal treaties used in covenant-form debates. Its clauses
+    on extradition with amnesty for returned fugitives and on support for the legitimate heir
+    are frequently discussed.
+  - >-
+    Popular claims (e.g. 'the world's first peace treaty', the replica at the United Nations)
+    need careful phrasing; earlier treaties exist.
+  - >-
+    A royal marriage of Ramesses II to a Hittite princess followed about 13 years later; use
+    it for the diplomatic-marriage link.
+  sources_to_check:
+  - G. Beckman, Hittite Diplomatic Texts (2nd ed., 1999), no. 15
+  - E. Edel, Der Vertrag zwischen Ramses II. von Ägypten und Ḫattušili III. von Ḫatti (1997)
+  - ANET 199-203
+  image_query: Egyptian-Hittite peace treaty Istanbul Archaeology Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

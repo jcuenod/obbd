@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: mount-gerizim-2
+file: mount-gerizim-2.jpg
+title: רכס הר גריזים.jpg
+caption: Mount Gerizim above Nablus (ancient Shechem), seen from Mount Ebal, 2020.
+description: >-
+  Mount Gerizim overlooking the Palestinian city of Nablus in the West Bank, seen from Mount
+  Ebal, July 2020. Photographed by Samaria Tourism.
+creator: יאיר דב
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: יאיר דב, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:%D7%A8%D7%9B%D7%A1_%D7%94%D7%A8_%D7%92%D7%A8%D7%99%D7%96%D7%99%D7%9D.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/d5/%D7%A8%D7%9B%D7%A1_%D7%94%D7%A8_%D7%92%D7%A8%D7%99%D7%96%D7%99%D7%9D.jpg
+  sha1: 71a9b17ac4f22e140d468dbb07d0d3d0c9d10902
+  original_size: [5472, 3648]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [mount-gerizim]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

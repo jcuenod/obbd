@@ -1,0 +1,65 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: chemosh
+title: Chemosh
+aliases: [Kemosh, Kamish]
+type: deity
+cultures: [moabite]
+scope: >-
+  Chemosh, the national god of Moab, known chiefly from the Mesha Stele and the Hebrew Bible,
+  with earlier attestations of a god Kamish in third-millennium Syria.
+passages:
+- ref: Num 21:29
+  rel: language
+  note: Moab as 'people of Chemosh', his sons and daughters made captives
+- ref: Judg 11:24
+  rel: concept
+  note: Chemosh as land-giving national god, set beside YHWH
+- ref: 1Kgs 11:7, 33
+  rel: attests
+  note: Solomon builds a high place for Chemosh
+- ref: 2Kgs 23:13
+  rel: attests
+  note: Josiah defiles the high place of Chemosh
+- ref: 2Kgs 3:27
+  rel: practice
+  note: Mesha sacrifices his firstborn; 'great wrath' falls on Israel
+- ref: Jer 48:7, 13, 46
+  rel: polemic
+  note: Chemosh goes into exile; Moab ashamed of Chemosh
+related: [mesha-stele, moabites, dibon, herem, child-sacrifice, milkom]
+media:
+- id: chemosh
+  role: primary
+- id: herem
+  role: gallery
+external:
+  wikipedia: Chemosh
+  wikidata: Q1725600
+editorial:
+  author_notes:
+  - >-
+    The Mesha Stele presents Chemosh in terms closely parallel to YHWH in Kings (anger with
+    his land, ordering conquest, ḥērem devoted to Ashtar-Chemosh).
+  - Explain the debate over whose "great wrath" falls on Israel in 2 Kgs 3:27.
+  - >-
+    Judg 11:24 attributes to Chemosh what is elsewhere Milcom's land (Ammon); note this as
+    a known difficulty.
+  - >-
+    No secure iconography exists; identifications of figures on Moabite stelae (Shihan, Baluʿa)
+    with Chemosh are uncertain.
+  sources_to_check: [KAI 181, COS 2.23, 'DDD, s.v. "Chemosh"']
+  image_query: Mesha Stele Louvre
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

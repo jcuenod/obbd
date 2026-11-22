@@ -1,0 +1,64 @@
+# How an entry bears on a tagged passage. Every passage tag on an entry has
+# exactly one `rel`. These are deliberately coarse so that tagging stays
+# consistent across contributors; nuance belongs in the passage `note`.
+relations:
+  event:
+    label: Same event
+    definition: >-
+      The source narrates or documents the same historical event the passage
+      narrates (e.g. Sennacherib's annals and 2 Kgs 18-19).
+  attests:
+    label: Attests person/place/group
+    definition: >-
+      The source names or physically attests a person, place, people group,
+      office or object that the passage mentions, without necessarily
+      describing the same event (e.g. the Black Obelisk naming Jehu).
+  parallel:
+    label: Literary parallel
+    definition: >-
+      Shared plot, motif, wording or sequence between a text and the passage
+      (e.g. Atrahasis and the flood narrative; Amenemope and Prov 22:17-24:22).
+      Does not by itself claim dependence; say so in the note if dependence is
+      the consensus view.
+  form:
+    label: Genre or form
+    definition: >-
+      The source exemplifies a genre, literary form or document type that the
+      passage uses (treaty, law collection, city lament, building account,
+      letter formula).
+  imagery:
+    label: Imagery or metaphor
+    definition: >-
+      Background for a metaphor, title or image used in the passage (shepherd
+      king, cloud rider, divine wings).
+  concept:
+    label: Worldview or concept
+    definition: >-
+      Background for a cosmological, theological or anthropological idea
+      the passage assumes (firmament, divine council, Sheol).
+  practice:
+    label: Practice or institution
+    definition: >-
+      Background for a legal, cultic, social or economic practice or
+      institution reflected in the passage (levirate, debt release, divination).
+  polemic:
+    label: Polemic or contrast
+    definition: >-
+      The passage plausibly engages, rejects or subverts the idea, deity or
+      practice described in the entry. Use sparingly and only where this is a
+      mainstream reading; otherwise mark `disputed: true`.
+  language:
+    label: Language or terminology
+    definition: >-
+      Lexical, onomastic, grammatical, epigraphic or script background
+      (cognate terms, loanwords, titles, names of deities).
+  realia:
+    label: Material culture
+    definition: >-
+      Physical object, structure, technology or artefact type mentioned in or
+      presupposed by the passage (horned altar, threshing floor, cherub throne).
+  setting:
+    label: Geographic or historical setting
+    definition: >-
+      The entry is (or describes) the place, region, polity or period in which
+      the passage is set.

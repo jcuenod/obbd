@@ -1,0 +1,71 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: elephantine-passover-letter
+title: Elephantine "Passover Letter"
+type: artifact
+cultures: [jewish, persian]
+date:
+  from: -419
+  to: -418
+  display: 419–418 BCE
+scope: >-
+  Fragmentary Aramaic letter (TAD A4.1) of 419/418 BCE, year 5 of Darius II, from one Hananiah
+  to Jedaniah and the Judean garrison at Elephantine. It conveys instructions, linked to a
+  royal message to the satrap Arshama, for observing a festival from the 14th to the 21st
+  of Nisan with purity and avoidance of leaven.
+passages:
+- ref: Exod 12:15-20
+  rel: practice
+  note: Seven days of unleavened bread to the 21st day; removal of leaven
+- ref: Lev 23:5-8
+  rel: practice
+  note: Passover on the 14th and unleavened bread from the 15th for seven days
+- ref: Deut 16:1-8
+  rel: practice
+  note: Passover and unleavened bread as a pilgrimage feast
+- ref: Ezra 6:19-22
+  rel: practice
+  note: Passover kept by the purified returnees under Darius
+- ref: Ezra 7:12-26
+  rel: concept
+  disputed: true
+  note: Royal involvement in Judean cultic norms, if the letter conveys a royal authorization
+related: [elephantine-papyri, elephantine, passover-origins, persian-imperial-authorization,
+  calendars-and-month-names, festivals-agricultural]
+location:
+  institution: Ägyptisches Museum und Papyrussammlung, Berlin
+  accession: null
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Stress the damaged state: the word 'Passover' (psḥ) is restored in the letter, though
+    psḥ is attested in Elephantine ostraca.
+  - >-
+    What the royal message concerned is debated: authorization of the festival itself, or
+    something more general. Do not state that Darius II 'decreed the Passover'.
+  - >-
+    The letter is often cited as evidence for, or against, Frei's imperial authorization thesis;
+    present both readings.
+  - >-
+    Discuss whether the instructions reflect knowledge of Priestly calendar laws (Exod 12;
+    Lev 23), or a practice still being standardized.
+  sources_to_check:
+  - TAD A4.1
+  - A. E. Cowley, Aramaic Papyri of the Fifth Century B.C. (1923), no. 21
+  - J. M. Lindenberger, Ancient Aramaic and Hebrew Letters (2nd ed., 2003)
+  image_query: Elephantine Passover papyrus
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

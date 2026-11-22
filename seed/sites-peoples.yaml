@@ -1,0 +1,2617 @@
+# Seed entries for the sites-peoples domain: archaeological sites and places
+# (Levant, Mesopotamia, Egypt, Persia, selected NT sites) and peoples,
+# kingdoms and empires. See docs/seed-guide.md.
+
+- id: jerusalem
+  aliases: [Urusalim, Salem, Zion, Aelia Capitolina]
+  cultures: [judahite, canaanite, jewish]
+  scope: >-
+    The city of Jerusalem from its Bronze Age beginnings to the Roman period,
+    treated as an archaeological site and as the political and cultic centre of
+    Judah. Detailed treatment of the southeastern ridge, the temple platform and
+    the water systems is left to the entries on the City of David, the Temple
+    Mount and Hezekiah's Tunnel.
+  passages:
+    - "Gen 14:18 | setting? | Melchizedek king of Salem, traditionally Jerusalem (cf. Ps 76:2 [MT 76:3])"
+    - "Josh 10:1-5 | setting | Adoni-zedek of Jerusalem leads the southern coalition"
+    - "Josh 15:63 | setting | Jebusites of Jerusalem not dispossessed"
+    - "2Sam 5:6-10 | setting | David takes the stronghold of Zion and makes it his capital"
+    - "1Kgs 6-8 | setting | Solomon's temple and palace complex"
+    - "Isa 22:9-11 | attests | Houses torn down to fortify the wall; cf. the 'Broad Wall' on the Western Hill"
+    - "2Kgs 18:13-19:37 | setting | Jerusalem besieged but not taken by Sennacherib (701 BCE)"
+    - "2Kgs 25:8-17 | attests | Babylonian burning of the city; 586 destruction layers across the City of David"
+    - "Neh 2:11-3:32 | setting | Nehemiah's inspection and rebuilding of the walls"
+    - "Ps 48 | concept | Zion as the inviolable city of God"
+  related: [city-of-david, temple-mount, hezekiahs-tunnel, amarna-letters, sennacherib-campaign-701, fall-of-jerusalem-587, herods-temple, yehud-province]
+  wikipedia: Jerusalem
+  image: Jerusalem Old City from Mount of Olives
+  author_notes:
+    - The Amarna letters of Abdi-Heba of Urusalim (EA 285-290; verify range) show a Late Bronze city-state, though architecture of that period is scarce on the ground. The Execration Texts may name the city earlier (reading debated).
+    - The size and status of tenth-century Jerusalem is one of the sharpest debates in the field (E. Mazar and others vs. Finkelstein and the low chronology). Present the evidence and both readings; do not treat either as settled.
+    - The late eighth-century expansion onto the Western Hill (Avigad's Broad Wall) is widely linked to population influx after 722 and to Hezekiah's preparations. Population estimates vary widely.
+    - Keep this entry a synthesis; detailed stratigraphy belongs in city-of-david, temple-mount and herods-temple. Note the political sensitivity of excavation in East Jerusalem neutrally.
+  sources_to_check:
+    - NEAEHL
+    - Moran, The Amarna Letters (1992)
+
+- id: city-of-david
+  aliases: [Ophel, Stronghold of Zion, Wadi Hilweh ridge]
+  cultures: [judahite, canaanite]
+  scope: >-
+    The narrow southeastern ridge of Jerusalem above the Gihon spring, the core of
+    the Bronze and Iron Age city. Covers its fortifications, the Stepped Stone
+    Structure and Large Stone Structure, the spring installations, and the Iron Age
+    houses and bullae; the tunnel and the temple platform have their own entries.
+  passages:
+    - "2Sam 5:7-9 | setting | David takes the stronghold of Zion, 'the city of David', and builds from the Millo inward"
+    - "2Sam 5:8 | realia? | Joab's ascent by the ṣinnôr, often linked to Warren's Shaft (now doubted)"
+    - "1Kgs 1:33-45 | setting | Solomon anointed at the Gihon spring"
+    - "1Kgs 2:10 | setting | David buried in the city of David"
+    - "2Chr 32:30 | setting | Gihon's upper outlet channelled to the west side of the city of David"
+    - "Neh 3:15-16 | setting | Pool of Shelah, king's garden, and stairs down from the city of David"
+    - "Jer 36:10-12 | attests | Gemariah son of Shaphan; bulla of Gemaryahu son of Shaphan from the 'House of the Bullae'"
+    - "Jer 38:1 | attests | Jehucal son of Shelemiah and Gedaliah son of Pashhur named on bullae from the site"
+  related: [jerusalem, temple-mount, hezekiahs-tunnel, pool-of-siloam, bullae-of-jeremiah-era-officials, low-chronology-debate, david, cisterns-and-water-systems]
+  wikipedia: City of David (historic)
+  image: City of David Stepped Stone Structure
+  author_notes:
+    - The Stepped Stone Structure and E. Mazar's Large Stone Structure are dated anywhere from Iron I to Iron IIA. Whether they form one tenth-century complex (a 'palace of David') is contested; give the range of views.
+    - Reich and Shukron showed that the massive spring tower and pool fortifications are Middle Bronze Age, and that Warren's Shaft could not have been used as a water shaft in the Bronze Age. This undercuts the classic link with 2 Sam 5:8.
+    - Shiloh's Area G houses (House of Ahiel, Burnt Room, House of the Bullae) preserve the 586 destruction. The bullae corpus is the main epigraphic link to Jeremiah's officials.
+    - The excavations' sponsorship and their setting in the Silwan neighbourhood are politically contested. Mention this neutrally.
+  sources_to_check:
+    - NEAEHL
+    - Shiloh, Excavations at the City of David I (Qedem 19, 1984)
+    - Reich, Excavating the City of David (2011)
+
+- id: temple-mount
+  aliases: [Mount Moriah, Mount Zion, Haram al-Sharif, Har ha-Bayit]
+  cultures: [judahite, jewish]
+  scope: >-
+    The hill north of the City of David on which the First and Second Temples
+    stood, and the platform Herod enlarged. Covers biblical traditions about the
+    site (Moriah, Araunah's threshing floor, Zion), what can and cannot be known
+    archaeologically, and the Herodian platform.
+  passages:
+    - "Gen 22:2 | setting? | 'Land of Moriah' of Abraham's test, equated with the temple hill only later (2 Chr 3:1)"
+    - "2Sam 24:18-25 | setting | David buys Araunah's threshing floor and builds an altar"
+    - "2Chr 3:1 | setting | Solomon builds on Mount Moriah at Ornan's threshing floor"
+    - "1Kgs 6 | setting | Construction of Solomon's temple"
+    - "Ps 2:6 | concept | Zion, YHWH's holy hill, where the king is installed"
+    - "Isa 2:2-4 | concept | Mountain of YHWH's house raised above the hills (cf. Mic 4:1-3)"
+    - "Ezra 3:8-13 | setting | Foundation of the Second Temple"
+    - "Mark 13:1-2 | setting | Disciples admire the Herodian temple's great stones"
+  related: [jerusalem, city-of-david, herods-temple, cosmic-mountain, temple-as-cosmos, threshing-floors, temple-warning-inscription, trumpeting-place-inscription]
+  wikipedia: Temple Mount
+  image: Temple Mount Jerusalem aerial
+  author_notes:
+    - No excavation has taken place on the platform. The First Temple has not been located archaeologically, and finds from the Temple Mount Sifting Project come from unstratified spoil.
+    - The present platform is largely Herodian. Proposed earlier phases (e.g. the 'seam' in the eastern wall; Ritmeyer's square pre-Herodian platform) are debated.
+    - The identification of Moriah with the temple hill is late (Chronicles, then Josephus). 'Zion' first names the City of David stronghold (2 Sam 5:7) and later shifts to the temple hill and, later still, to the Western Hill.
+    - The site is a live religious and political flashpoint (Haram al-Sharif). Use neutral language and both names.
+  sources_to_check:
+    - NEAEHL
+    - Ritmeyer, The Quest - Revealing the Temple Mount in Jerusalem (2006)
+
+- id: hezekiahs-tunnel
+  aliases: [Siloam Tunnel, Channel VIII]
+  cultures: [judahite]
+  scope: >-
+    The rock-cut water channel (c. 533 m) carrying the Gihon spring's water under
+    the City of David to the Siloam pool, where the Siloam Inscription was found.
+    Covers its engineering, dating and relation to biblical notices of Hezekiah's
+    water works; the inscription itself has its own entry.
+  passages:
+    - "2Kgs 20:20 | attests | Hezekiah 'made the pool and the conduit and brought water into the city'"
+    - "2Chr 32:2-4 | setting | Springs stopped before Sennacherib's arrival"
+    - "2Chr 32:30 | attests | Upper outlet of Gihon channelled down to the west of the city of David"
+    - "Isa 22:9-11 | setting | Waters of the lower pool; a reservoir between the two walls"
+    - "Isa 8:6 | setting? | 'Waters of Shiloah that flow gently', perhaps the earlier Siloam Channel"
+    - "Sir 48:17 | attests | Hezekiah tunnelled the rock with iron and built pools"
+    - "John 9:7 | setting | Blind man sent to wash in the pool of Siloam"
+  related: [siloam-inscription, hezekiah, city-of-david, pool-of-siloam, sennacherib-campaign-701, cisterns-and-water-systems]
+  wikipedia: Siloam tunnel
+  image: Hezekiah's Tunnel Siloam water channel
+  author_notes:
+    - The consensus dates the tunnel to Hezekiah's reign (late eighth century). Reich and Shukron argued for an earlier date (c. 800) from pottery in related fills; radiometric dating published by Frumkin, Shimron and Rosenbaum (Nature, 2003; verify) supported c. 700.
+    - Explain the S-shaped course (following a karst fissure is the leading explanation) and the meeting of the two teams described in the inscription.
+    - Distinguish the tunnel from the Middle Bronze spring system, Warren's Shaft and the earlier open Siloam Channel (Channel II).
+  sources_to_check:
+    - NEAEHL
+    - COS 2.28
+
+- id: samaria
+  aliases: [Shomron, Sebaste, Sebastia]
+  cultures: [israelite]
+  scope: >-
+    The capital of the northern kingdom founded by Omri, later an Assyrian
+    provincial centre and the Herodian city of Sebaste. Covers the royal
+    acropolis, the ostraca and ivories, and the site's later history; the
+    Persian-period province and Samaritan origins are treated elsewhere.
+  passages:
+    - "1Kgs 16:24 | setting | Omri buys the hill of Shemer and builds Samaria"
+    - "1Kgs 16:32 | setting | Ahab builds a temple of Baal in Samaria"
+    - "1Kgs 22:39 | attests | Ahab's 'ivory house'; carved ivories from the royal acropolis"
+    - "Amos 3:15 | attests | 'Houses of ivory shall perish'"
+    - "Amos 6:4 | attests | Beds inlaid with ivory"
+    - "Amos 4:1 | setting | 'Cows of Bashan on the mountain of Samaria'"
+    - "Mic 1:6 | setting | Samaria to become a heap in the open country"
+    - "2Kgs 17:5-6 | setting | Assyrian siege and capture of Samaria"
+    - "2Kgs 17:24 | setting | Assyrian resettlement of deportees in the cities of Samaria"
+  related: [samaria-ostraca, samaria-ivories, omri, ahab, fall-of-samaria, sargon-ii, samaritan-origins, herod-the-great]
+  wikipedia: Samaria (ancient city)
+  image: Sebastia Samaria royal acropolis
+  author_notes:
+    - Excavated by Harvard (Reisner and Fisher, 1908-10) and the Joint Expedition (Crowfoot, Kenyon, Sukenik, 1931-35). Kenyon's 'Building Periods' and pottery periods have been reworked by Tappy and others, and the attribution of the first building period to Omri is debated.
+    - The acropolis with its casemate enclosure and fine ashlar masonry is a showcase of Omride royal architecture with Phoenician affinities.
+    - The eighth-century Samaria ostraca document fiscal administration and include both Yahwistic and Baal-names.
+    - The capture is credited to Shalmaneser V in 2 Kgs 17 but claimed by Sargon II in his inscriptions. Leave detail to fall-of-samaria. Herod rebuilt the city as Sebaste with a temple to Augustus.
+  sources_to_check:
+    - NEAEHL
+    - Tappy, The Archaeology of Israelite Samaria (2 vols., 1992, 2001)
+
+- id: megiddo
+  aliases: [Tel Megiddo, Tell el-Mutesellim, Armageddon]
+  cultures: [canaanite, israelite]
+  scope: >-
+    The major tell commanding the Wadi Ara pass into the Jezreel Valley, occupied
+    from the Chalcolithic to the Persian period. Covers its Bronze Age city-state,
+    its Iron Age palaces, gates, pillared buildings and water system, and its role
+    in the chronology debate and in the image of Armageddon.
+  passages:
+    - "Josh 12:21 | setting | King of Megiddo in the list of defeated kings"
+    - "Judg 1:27 | setting | Manasseh fails to dispossess Megiddo"
+    - "Judg 5:19 | setting | Kings fight at Taanach by the waters of Megiddo"
+    - "1Kgs 4:12 | setting | Megiddo in Baana's administrative district"
+    - "1Kgs 9:15 | attests? | Solomon builds Hazor, Megiddo and Gezer; the 'Solomonic' gate debate"
+    - "1Kgs 10:26 | realia? | Chariot cities; Stratum IVA pillared buildings as stables or storehouses"
+    - "2Kgs 9:27 | setting | Ahaziah flees to Megiddo and dies there"
+    - "2Kgs 23:29-30 | setting | Josiah killed at Megiddo by Pharaoh Neco"
+    - "Zech 12:11 | setting | Mourning for Hadad-rimmon in the plain of Megiddo"
+    - "Rev 16:16 | language | Armageddon, most likely 'mountain of Megiddo' (Har Megiddo)"
+  related: [low-chronology-debate, chariots-and-horses, shoshenq-i, josiah, necho-ii, cisterns-and-water-systems, amarna-letters, hazor]
+  wikipedia: Tel Megiddo
+  image: Tel Megiddo aerial view
+  author_notes:
+    - Thutmose III's siege (mid-fifteenth century) is the earliest detailed battle account; Biridiya of Megiddo writes in the Amarna letters.
+    - The dating of Strata VA-IVB and IVA, the six-chambered gate and Palaces 1723 and 6000 is central to the low chronology debate (Yadin's 'Solomonic' Megiddo vs. Finkelstein and Ussishkin's Omride or later attribution). Do not present the Solomonic attribution as established.
+    - The pillared buildings have been read as stables, storehouses or barracks. The Tel Aviv expedition has argued for stables and a horse-training centre in the eighth century.
+    - A fragment of a Shoshenq I stele was found in the spoil of the University of Chicago dig (1920s-30s). It is unstratified but confirms the pharaoh's presence.
+    - Correct popular 'end-times battlefield' readings. The Hebrew etymology of Armageddon is the usual view but not certain.
+  sources_to_check:
+    - NEAEHL
+    - Moran, The Amarna Letters (1992)
+
+- id: hazor
+  aliases: [Tel Hazor, Tell el-Qedah]
+  cultures: [canaanite, israelite]
+  scope: >-
+    The largest Bronze Age city of the southern Levant, in the Huleh basin of upper
+    Galilee, with an upper city and a vast lower city, and later an Israelite
+    fortified town. Covers its Bronze Age prominence, the Late Bronze destruction,
+    and the Iron Age strata down to the Assyrian conquest.
+  passages:
+    - "Josh 11:1-13 | setting? | Jabin of Hazor's coalition; Hazor 'head of all those kingdoms' burned by Joshua"
+    - "Josh 19:36 | setting | Hazor in the allotment of Naphtali"
+    - "Judg 4:2, 17 | setting | Jabin king of Canaan, who reigned in Hazor"
+    - "1Kgs 9:15 | attests? | Solomon builds Hazor; six-chambered gate and casemate wall"
+    - "2Kgs 15:29 | attests | Tiglath-pileser III takes Hazor (732 BCE); destruction of Stratum V"
+  related: [low-chronology-debate, emergence-of-israel, mari-letters, amarna-letters, tiglath-pileser-iii, megiddo, gezer]
+  wikipedia: Tel Hazor
+  image: Tel Hazor
+  author_notes:
+    - Hazor appears in the Mari archives (eighteenth century) as a major trading city and in the Amarna letters (e.g. EA 227-228; verify). Both are unusual for a southern Levantine city.
+    - The violent destruction of the Late Bronze city (thirteenth century) is undisputed, but who caused it is not. Ben-Tor and Yadin attribute it to Israelites, Zuckerman argues for an internal revolt, and others propose Egyptian or other agents. The date is also debated.
+    - Yadin assigned the Stratum X gate and casemate wall to Solomon. Finkelstein and others place them in the ninth century. Present this as part of the chronology debate.
+    - Jabin appears both in Josh 11 and in Judg 4, which raises literary-historical questions. The 'Hazor' of Jer 49:28-33 is an Arabian location and should not be confused with this site.
+  sources_to_check:
+    - NEAEHL
+    - Ben-Tor, Hazor - Canaanite Metropolis, Israelite City (2016)
+
+- id: gezer
+  aliases: [Tel Gezer, Tell el-Jazari, Gazara]
+  cultures: [canaanite, israelite]
+  scope: >-
+    A strategic city at the junction of the Shephelah and the coastal plain on the
+    road to Jerusalem. Covers its Bronze Age city-state, the row of standing stones,
+    its Egyptian connections, the Iron Age gate and the Hellenistic Gazara.
+  passages:
+    - "Josh 10:33 | setting | Horam king of Gezer defeated when aiding Lachish"
+    - "Josh 16:10 | setting | Canaanites remain in Gezer as forced labour"
+    - "Judg 1:29 | setting | Ephraim fails to drive out Gezer's Canaanites"
+    - "Josh 21:21 | setting | Gezer as a Levitical city of Ephraim"
+    - "2Sam 5:25 | setting | David strikes the Philistines as far as Gezer"
+    - "1Kgs 9:15-17 | attests? | Pharaoh captures Gezer as a dowry; Solomon rebuilds it; six-chambered gate"
+    - "1Macc 13:43-48 | setting | Simon captures and purifies Gazara"
+  related: [gezer-calendar, merneptah-stele, massebot, amarna-letters, low-chronology-debate, diplomatic-marriage, boundary-markers]
+  wikipedia: Tel Gezer
+  image: Tel Gezer standing stones
+  author_notes:
+    - Macalister's excavations (1902-09) had poor stratigraphic control. Later work by Hebrew Union College (Dever and others) and the Tandy expedition clarified the sequence.
+    - The Amarna letters include correspondence from Gezer's rulers, and the Merneptah Stele claims 'Gezer is captured'.
+    - The Middle Bronze 'high place' with ten massebot is a key exhibit for standing stones.
+    - The six-chambered gate's Solomonic date and the identity of the pharaoh in 1 Kgs 9:16 (often Siamun) are both debated. Give the low chronology view.
+    - Hellenistic or Roman rock-cut boundary inscriptions ('boundary of Gezer') confirmed the identification.
+  sources_to_check:
+    - NEAEHL
+
+- id: lachish
+  aliases: [Tel Lachish, Tell ed-Duweir, Lakisu]
+  cultures: [judahite, canaanite]
+  scope: >-
+    The leading Judahite city of the Shephelah after Jerusalem and a Late Bronze
+    Canaanite city-state. Covers its Canaanite temples, the Iron Age palace-fort,
+    the 701 BCE Assyrian siege and its depiction at Nineveh, the gate shrine, and
+    the final destruction of 588/586 BCE.
+  passages:
+    - "Josh 10:31-35 | setting | Joshua takes Lachish"
+    - "Josh 15:39 | setting | Lachish in Judah's Shephelah district list"
+    - "2Chr 11:5-9 | setting | Rehoboam fortifies Lachish"
+    - "2Kgs 14:19 | setting | Amaziah flees to Lachish and is killed there"
+    - "2Kgs 18:14, 17; 19:8 | attests | Sennacherib's headquarters; Level III destruction and siege ramp (701 BCE)"
+    - "2Chr 32:9 | setting | Sennacherib at Lachish with all his forces"
+    - "Mic 1:13 | setting | Lachish to harness steeds; 'beginning of sin to daughter Zion'"
+    - "Jer 34:7 | attests | Lachish and Azekah the last fortified cities; cf. Lachish Letter 4"
+    - "Neh 11:30 | setting | Lachish resettled in the Persian period"
+  related: [lachish-reliefs, lachish-letters, sennacherib-campaign-701, sennacherib, assyrian-siege-warfare, lmlk-seal-impressions, fall-of-jerusalem-587, city-gates]
+  wikipedia: Tel Lachish
+  image: Tel Lachish aerial
+  author_notes:
+    - Ussishkin's excavations settled the old debate by dating Level III's destruction to 701 (Sennacherib), not 597. This date anchors the Judahite pottery sequence and the lmlk jars.
+    - The Assyrian siege ramp and the Judahite counter-ramp are the only excavated Assyrian siege works. Compare them directly with the Nineveh reliefs.
+    - The Level III gate shrine, with a defaced horned altar and a toilet installation, has been read as material evidence of Hezekiah's reform (2 Kgs 18:4). This reading is debated.
+    - The Late Bronze Fosse Temple and the Level VI Canaanite city (destroyed c. 1150) belong in the Canaanite background. Level II ends in the Babylonian destruction, the context of the Lachish letters.
+  sources_to_check:
+    - NEAEHL
+    - Ussishkin, The Renewed Archaeological Excavations at Lachish (1973-1994) (2004)
+
+- id: dan
+  aliases: [Tel Dan, Tell el-Qadi, Laish, Leshem]
+  cultures: [israelite, canaanite]
+  scope: >-
+    The site at the main source of the Jordan, Bronze Age Laish and Iron Age Dan,
+    the northern limit of Israel. Covers the Middle Bronze rampart and arched gate,
+    the Iron Age cult precinct, the city gates, and the inscriptions found there.
+  passages:
+    - "Gen 14:14 | setting | Abram pursues the kings 'as far as Dan' (anachronistic name)"
+    - "Judg 18 | setting | Danite migration, capture of Laish and installation of Micah's image"
+    - "1Sam 3:20 | setting | 'From Dan to Beersheba' as the ideal extent of Israel"
+    - "1Kgs 12:28-30 | attests? | Jeroboam's golden calf at Dan; the cult precinct (Area T)"
+    - "1Kgs 15:20 | setting | Ben-hadad of Damascus conquers Dan"
+    - "2Kgs 10:29 | setting | Golden calves at Bethel and Dan persist under Jehu"
+    - "Amos 8:14 | attests | Oath 'As your god lives, O Dan'; cf. Hellenistic dedication 'to the god who is in Dan'"
+  related: [tel-dan-stele, high-places, bull-iconography, hazael, ben-hadad, horned-altars, city-gates, bethel]
+  wikipedia: Tel Dan
+  image: Tel Dan Middle Bronze gate
+  author_notes:
+    - Laish appears in Bronze Age texts (Mari, Egyptian toponym lists; verify specifics). The mudbrick arched gate (Middle Bronze II) is among the best preserved anywhere. The popular label 'Abraham's Gate' has no evidential basis.
+    - Biran's Area T podium and precinct is plausibly linked with Jeroboam's sanctuary, but its phasing and the reconstructions of the bamah are debated. Finds include a horned altar, altar shovels and a hearth.
+    - The Tel Dan Stele fragments (1993-94) were found reused in Iron Age construction near the gate. Leave the interpretation to tel-dan-stele.
+    - The Greek and Aramaic bilingual dedication 'to the god who is in Dan' (Hellenistic) confirms the site identification.
+  sources_to_check:
+    - NEAEHL
+    - Biran, Biblical Dan (1994)
+
+- id: beersheba
+  aliases: [Tel Beersheba, Tell es-Sebaʿ, Beer-sheba]
+  cultures: [judahite]
+  scope: >-
+    The Iron Age Judahite town at Tel Beersheba in the northern Negev and the
+    biblical traditions about Beersheba as a patriarchal and cultic site. Covers
+    the planned Iron II town, its water system and storehouses, and the
+    dismantled horned altar.
+  passages:
+    - "Gen 21:22-33 | setting | Abraham and Abimelech's oath; naming of Beersheba"
+    - "Gen 26:23-33 | setting | Isaac's altar, covenant and well at Beersheba"
+    - "Gen 46:1-5 | setting | Jacob sacrifices at Beersheba before going to Egypt"
+    - "1Sam 8:2 | setting | Samuel's sons judge at Beersheba"
+    - "1Kgs 19:3 | setting | Elijah flees to Beersheba"
+    - "2Kgs 18:4 | realia? | Aharoni linked the dismantled horned altar to Hezekiah's reform"
+    - "2Kgs 23:8 | setting | Josiah defiles the high places 'from Geba to Beersheba'"
+    - "Amos 5:5 | setting | 'Do not cross over to Beersheba'"
+    - "Amos 8:14 | setting | Oath by 'the way of Beersheba'"
+  related: [horned-altars, cult-reforms-archaeology, altars, hezekiah, oaths-and-oath-formulas, four-room-house, cisterns-and-water-systems, dan]
+  wikipedia: Tel Be'er Sheva
+  image: Tel Beersheba horned altar
+  author_notes:
+    - Distinguish Tel Beersheba from the modern city. Settlement begins in Iron I, so there are no remains from a 'patriarchal' period. The Genesis traditions reflect a later setting.
+    - Stratum II is a planned administrative town, most often thought destroyed in 701. Its date and the date of its destruction have been debated (Aharoni, Herzog, Singer-Avitz).
+    - The horned altar was reassembled from ashlars reused in a storehouse wall. Its original location (a temple has been proposed but not found) and the link to Hezekiah are inferences.
+  sources_to_check:
+    - NEAEHL
+    - Aharoni (ed.), Beer-Sheba I (1973)
+
+- id: arad
+  aliases: [Tel Arad]
+  cultures: [judahite, canaanite]
+  scope: >-
+    The two-part site of Tel Arad in the eastern Negev: an Early Bronze Age city
+    and, on its hill, a series of Iron Age Judahite fortresses containing a shrine.
+    Covers the fortress and shrine, the ostraca, and the problem of the Late
+    Bronze Canaanite king of Arad.
+  passages:
+    - "Num 21:1-3 | setting? | Canaanite king of Arad attacks Israel; the Late Bronze gap at Tel Arad"
+    - "Num 33:40 | setting | King of Arad in the Negeb hears of Israel's coming"
+    - "Josh 12:14 | setting | King of Arad in the list of defeated kings"
+    - "Judg 1:16 | setting | Kenites settle in the wilderness of Judah near Arad"
+    - "1Kgs 14:25-26 | attests | Shoshenq I's campaign; 'Arad' toponyms in his Karnak list"
+    - "Deut 12:13-14 | practice | Centralization law, against which a royal Yahwistic shrine at a fortress stands out"
+    - "2Kgs 18:4 | practice? | Decommissioning of the shrine linked to Hezekiah's (or Josiah's) reform"
+    - "Ezra 2:44 | attests? | Keros; a 'Kerosite' named in the Arad ostraca"
+  related: [arad-ostraca, cult-reforms-archaeology, massebot, incense-and-incense-altars, shoshenq-i, bubastite-portal, midianites-and-kenites, high-places]
+  wikipedia: Tel Arad
+  image: Tel Arad temple
+  author_notes:
+    - There is no Late Bronze occupation at Tel Arad. Proposed solutions to Num 21 include Tel Malhata or 'Arad' as the name of a region. Present this as a known problem.
+    - The shrine has a raised niche with one (perhaps two) massebot and two limestone altars. Residue analysis (Arie et al., 2020) identified cannabis on one altar and frankincense on the other; report this carefully.
+    - The dating of the shrine and its dismantling is contested. Aharoni placed it from Strata XI-VII with closure under Hezekiah or Josiah; Herzog's reappraisal limits it to Strata X-IX (eighth century) with closure c. 715-700.
+    - The Eliashib archive (Stratum VI, c. 600) mentions Kittim and the Edomite threat. Leave detail to arad-ostraca.
+  sources_to_check:
+    - NEAEHL
+    - Aharoni, Arad Inscriptions (1981)
+
+- id: jericho
+  aliases: [Tell es-Sultan, Ariha, City of Palms]
+  cultures: [canaanite]
+  scope: >-
+    The oasis site of Tell es-Sultan near the spring of ʿAin es-Sultan, one of the
+    oldest continuously visited settlements, and the nearby Hasmonean and Herodian
+    palace complex of New Testament Jericho. Covers its Neolithic remains, the Bronze
+    Age city, the debate over Joshua 6, and the later sites.
+  passages:
+    - "Josh 2 | setting | Rahab and the spies"
+    - "Josh 6 | setting? | Fall of Jericho; no Late Bronze II fortifications identified (Kenyon)"
+    - "Deut 34:3 | setting | 'Jericho, the city of palm trees'"
+    - "1Kgs 16:34 | setting | Hiel of Bethel rebuilds Jericho, fulfilling Josh 6:26"
+    - "2Kgs 2:4-22 | setting | Elijah and Elisha at Jericho; Elisha heals the spring"
+    - "2Kgs 25:5 | setting | Zedekiah captured in the plains of Jericho"
+    - "Luke 10:30 | setting | Road from Jerusalem down to Jericho"
+    - "Mark 10:46-52 | setting | Bartimaeus healed at Jericho"
+    - "Luke 19:1-10 | setting | Zacchaeus the chief tax collector at Jericho"
+  related: [emergence-of-israel, conquest-accounts-and-war-rhetoric, herem, ai, herod-the-great, exodus-historical-questions]
+  wikipedia: Tell es-Sultan
+  image: Tell es-Sultan Neolithic tower
+  author_notes:
+    - Garstang (1930s) dated a collapsed wall to c. 1400 and linked it to Joshua. Kenyon (1952-58) redated it to the Early Bronze Age and found the Middle Bronze city destroyed c. 1550, with Late Bronze occupation slight and eroded. Wood's 1990 attempt to revive a c. 1400 destruction has not won mainstream acceptance.
+    - The Pre-Pottery Neolithic A tower and wall (c. 8000 BCE) and the PPNB plastered skulls make the site important well beyond biblical studies.
+    - New Testament Jericho centres on the Hasmonean and Herodian winter palaces at Tulul Abu el-ʿAlayiq, where Herod died. The Mark 10:46 / Luke 18:35 'two Jerichos' harmonization should be noted only as a harmonization.
+    - Recent Italian-Palestinian excavations (Nigro and Marchetti). The site was inscribed on the UNESCO World Heritage List in 2023.
+  sources_to_check:
+    - NEAEHL
+    - Kenyon, Digging Up Jericho (1957)
+
+- id: ai
+  aliases: [et-Tell, Aiath, Aija]
+  cultures: [canaanite]
+  scope: >-
+    The site of Ai in the conquest narrative, usually identified with et-Tell east
+    of Bethel. Covers the Early Bronze city, the small Iron I village, the
+    resulting historical and etiological readings of Joshua 7-8, and alternative
+    identifications.
+  passages:
+    - "Gen 12:8; 13:3 | setting | Abram's tent between Bethel and Ai"
+    - "Josh 7:2-5 | setting? | Israel's defeat at Ai, 'near Beth-aven, east of Bethel'"
+    - "Josh 8:1-29 | setting? | Ambush and burning of Ai; et-Tell lacks a Late Bronze city"
+    - "Josh 8:28 | language | hāʿay 'the ruin': Ai made a 'heap forever', an etiological note"
+    - "Isa 10:28 | setting | Aiath on the route of the Assyrian advance"
+    - "Ezra 2:28 | setting | Men of Bethel and Ai among the returnees"
+  related: [jericho, bethel, emergence-of-israel, conquest-accounts-and-war-rhetoric, herem]
+  wikipedia: Ai (Canaan)
+  image: et-Tell Ai excavations
+  author_notes:
+    - Marquet-Krause (1933-35) and Callaway (1964-72) found a large Early Bronze city destroyed c. 2400 BCE (EB III), a gap of over a millennium, then a small unfortified Iron I village. There was no city for Joshua to conquer.
+    - Hence the widespread reading of Josh 7-8 as an etiology of a conspicuous ruin (Alt, Noth). Callaway himself abandoned historicizing solutions.
+    - Khirbet el-Maqatir, proposed by Bryant Wood and the Associates for Biblical Research, rests on a conquest date of c. 1400 and is not accepted in mainstream scholarship. Mention it as a minority view.
+    - The identification depends on Bethel being Beitin. Other candidates (e.g. Khirbet Haiyan, Khirbet Nisya) have also failed to produce a Late Bronze city.
+  sources_to_check:
+    - NEAEHL
+
+- id: shiloh
+  aliases: [Tel Shiloh, Khirbet Seilun]
+  cultures: [israelite]
+  scope: >-
+    The site in the Ephraimite hill country remembered as the location of the
+    tent of meeting and the ark before the monarchy. Covers the Bronze and Iron I
+    remains, the Iron I destruction, and how biblical traditions about Shiloh's
+    sanctuary and fall relate to the evidence.
+  passages:
+    - "Josh 18:1 | setting | The tent of meeting set up at Shiloh"
+    - "Judg 18:31 | setting | Micah's image at Dan 'as long as the house of God was at Shiloh'"
+    - "Judg 21:19-21 | setting | Annual festival and the dancing daughters of Shiloh"
+    - "1Sam 1:3, 9 | setting | Elkanah's pilgrimage; the 'temple (hêkal) of YHWH' at Shiloh"
+    - "1Sam 4:3-11 | setting | The ark taken from Shiloh into battle and captured"
+    - "1Kgs 14:2 | setting | Ahijah the prophet at Shiloh"
+    - "Ps 78:60 | setting | God abandoned his dwelling at Shiloh"
+    - "Jer 7:12-14 | setting | 'Go now to my place that was in Shiloh'"
+    - "Jer 26:6, 9 | setting | The temple will be made like Shiloh"
+  related: [ark-of-the-covenant, tabernacle, festivals-agricultural, emergence-of-israel, bethel]
+  wikipedia: Shiloh (biblical city)
+  image: Tel Shiloh excavations
+  author_notes:
+    - The identification with Khirbet Seilun is secure and fits the directions in Judg 21:19.
+    - Danish (1926-32) and Finkelstein's (1981-84) excavations found Iron I pillared buildings with collared-rim jars, destroyed by fire c. 1050. Many link this to the Philistines after Ebenezer, though the text never narrates a destruction (Jeremiah and Ps 78 imply one).
+    - No sanctuary structure has been found. Recent claims by the Associates for Biblical Research to have located the tabernacle site, and 'horned altar corners', are not mainstream and should be flagged as such.
+  sources_to_check:
+    - NEAEHL
+    - Finkelstein (ed.), Shiloh - The Archaeology of a Biblical Site (1993)
+
+- id: shechem
+  aliases: [Tell Balata, Sekmem, Sychar]
+  cultures: [canaanite, israelite]
+  scope: >-
+    The city in the pass between Mounts Gerizim and Ebal, a Bronze Age city-state
+    and early Israelite political and covenant centre. Covers its Middle Bronze
+    fortifications and fortress temple, its Amarna-period ruler Labayu, and its
+    Iron Age and Hellenistic phases.
+  passages:
+    - "Gen 12:6-7 | setting | Oak of Moreh; Abram's altar"
+    - "Gen 33:18-20 | setting | Jacob buys land and builds an altar, El-Elohe-Israel"
+    - "Gen 34 | setting | Dinah and the Shechemites"
+    - "Josh 24:1-28 | setting | Covenant assembly; stone set up under the oak"
+    - "Judg 9:4, 46-49 | attests? | Temple of Baal-berith / El-berith and 'Tower of Shechem'; the MB fortress temple"
+    - "1Kgs 12:1, 25 | setting | Rehoboam's assembly; Jeroboam fortifies Shechem"
+    - "John 4:5 | setting | Sychar, near the field Jacob gave Joseph"
+  related: [mount-gerizim, baal-berith, amarna-letters, massebot, covenant-and-treaty-form, samaritan-origins, execration-texts, habiru]
+  wikipedia: Shechem
+  image: Tell Balata Shechem fortress temple
+  author_notes:
+    - Shechem appears in the Execration Texts and the Khu-Sebek stele (Middle Bronze). Labayu of Shechem is prominent in the Amarna letters (EA 252-254; verify), where rivals accuse him of handing land to the ʿApiru.
+    - Sellin's German excavations and G. E. Wright's Drew-McCormick expedition identified a massive fortress (migdal) temple and a large massebah, which Wright linked to Judg 9. Whether the temple remained in use into Iron I is debated.
+    - The Hellenistic city has been linked with the Samaritan community. It was destroyed by John Hyrcanus in the late second century BCE.
+  sources_to_check:
+    - NEAEHL
+    - Moran, The Amarna Letters (1992)
+
+- id: bethel
+  aliases: [Beitin, Luz, Beth-aven]
+  cultures: [israelite]
+  scope: >-
+    The town north of Jerusalem associated with Jacob and with Jeroboam's royal
+    sanctuary, usually identified with Beitin. Covers the identification, the
+    excavations and their reappraisal, and the biblical prominence of the Bethel
+    sanctuary.
+  passages:
+    - "Gen 12:8 | setting | Abram's altar between Bethel and Ai"
+    - "Gen 28:10-22 | setting | Jacob's dream; stone pillar; 'house of God'"
+    - "Gen 35:1-15 | setting | Jacob builds an altar at Bethel"
+    - "Judg 20:18, 26-28 | setting | The ark at Bethel; Israel inquires of God"
+    - "1Kgs 12:28-33 | setting | Jeroboam's golden calf and royal sanctuary"
+    - "1Kgs 13:1-5 | setting | Man of God from Judah denounces the Bethel altar"
+    - "2Kgs 23:15-20 | setting | Josiah destroys the Bethel altar"
+    - "Amos 7:10-13 | setting | Amaziah: 'it is the king's sanctuary'"
+    - "Hos 10:5 | setting | 'Calf of Beth-aven', Hosea's pejorative for Bethel"
+    - "Jer 48:13 | language? | Bethel possibly as a divine name, as in Elephantine and Assyrian sources"
+  related: [bull-iconography, massebot, high-places, cult-reforms-archaeology, ai, dan, el]
+  wikipedia: Bethel
+  image: Beitin Bethel archaeological site
+  author_notes:
+    - The identification with Beitin (Robinson; Albright and Kelso's excavations 1934 and 1954-60) is standard. Alternatives such as el-Bireh are not accepted.
+    - Kelso's results were poorly published. Finkelstein and Singer-Avitz's reappraisal (2009) found limited Iron IIA-B and little Babylonian or Persian occupation, which matters for theories of Bethel as an exilic-period scribal centre.
+    - No sanctuary remains have been identified, so the location of Jeroboam's temple is unknown.
+    - The deity Bethel (Bayt-il) in Esarhaddon's treaty with Baal of Tyre and at Elephantine bears on Jer 48:13. Mark this as possible, not certain.
+  sources_to_check:
+    - NEAEHL
+
+- id: gibeon
+  aliases: [el-Jib]
+  cultures: [judahite]
+  scope: >-
+    The Benjaminite town at el-Jib north of Jerusalem, known from the Gibeonite
+    treaty traditions, Solomon's high place and its great rock-cut pool. Covers
+    the identification by inscribed jar handles, the water installations and
+    the wine industry.
+  passages:
+    - "Josh 9 | setting | Gibeonites' ruse and treaty with Israel"
+    - "Josh 10:1-14 | setting | Battle at Gibeon; 'sun, stand still at Gibeon'"
+    - "2Sam 2:12-17 | attests? | Contest 'by the pool of Gibeon'; the great rock-cut pool"
+    - "2Sam 21:1-14 | setting | Saul's descendants handed over to the Gibeonites"
+    - "1Kgs 3:4-15 | setting | Solomon sacrifices at the great high place and dreams"
+    - "1Chr 16:39 | setting | Tabernacle at the high place in Gibeon"
+    - "Jer 28:1 | setting | Hananiah son of Azzur, prophet from Gibeon"
+    - "Jer 41:12 | attests? | 'The great pool that is in Gibeon'"
+    - "Neh 3:7 | setting | Men of Gibeon repair the wall"
+  related: [champion-combat, cisterns-and-water-systems, high-places, covenant-and-treaty-form, winepresses, mizpah]
+  wikipedia: Gibeon (ancient city)
+  image: Gibeon pool el-Jib
+  author_notes:
+    - Pritchard's excavations (1956-62) found jar handles inscribed gbʿn with personal names, which secured the identification with el-Jib.
+    - The rock-cut pool (about 11 m across, with a spiral staircase) and the stepped tunnel to the spring are Iron Age. The exact dates are debated. Many rock-cut cellars point to a wine industry.
+    - Late Bronze remains are meagre, which bears on the historicity of Josh 9-10. Gibeon is also named in Shoshenq I's list.
+  sources_to_check:
+    - NEAEHL
+    - Pritchard, Gibeon - Where the Sun Stood Still (1962)
+
+- id: mizpah
+  aliases: [Tell en-Nasbeh, Mizpah of Benjamin]
+  cultures: [judahite, babylonian]
+  scope: >-
+    Mizpah of Benjamin, usually identified with Tell en-Nasbeh, a fortified
+    border town of Judah that became the seat of Babylonian administration after
+    586 BCE. Other places named Mizpah (Gilead, Moab) are excluded.
+  passages:
+    - "Judg 20:1-3 | setting | The tribes assemble at Mizpah"
+    - "1Sam 7:5-16 | setting | Samuel's assembly; Mizpah on his judging circuit"
+    - "1Sam 10:17-25 | setting | Saul chosen by lot at Mizpah"
+    - "1Kgs 15:22 | attests? | Asa fortifies Mizpah; the massive Iron II city wall"
+    - "2Kgs 25:22-25 | setting | Gedaliah governs from Mizpah and is murdered"
+    - "2Kgs 25:23 | attests? | Jaazaniah; seal of 'Yaazanyahu, servant of the king' from a tomb at the site"
+    - "Jer 40:6-41:18 | setting | Gedaliah's administration at Mizpah and Ishmael's massacre"
+    - "Neh 3:7, 15, 19 | setting | Mizpah as a district seat in the Persian-period province"
+    - "1Macc 3:46 | setting | The Maccabees assemble at Mizpah"
+  related: [babylonian-exile, fall-of-jerusalem-587, yehud-province, seals-and-bullae, gibeon, bethel]
+  wikipedia: Tell en-Nasbeh
+  image: Tell en-Nasbeh
+  author_notes:
+    - Tell en-Nasbeh is the majority identification. Nebi Samwil has been proposed (Magen) but is less widely accepted.
+    - Badè's excavations (1926-35) were reanalysed by Zorn, who identified a Babylonian-period stratum with new administrative buildings. This is key for Judah after 586.
+    - Finds include the Jaazaniah seal with a cockerel, and m(w)ṣh stamp impressions, probably 'Mozah', from the Babylonian period.
+  sources_to_check:
+    - NEAEHL
+
+- id: ramat-rahel
+  aliases: [Ramat Rachel, Khirbet Salih, Beth-haccherem (proposed)]
+  cultures: [judahite, persian]
+  scope: >-
+    The palace and administrative site on a hill between Jerusalem and Bethlehem,
+    occupied from the late Iron Age through the Persian period. Covers the royal
+    palace with its proto-Aeolic capitals and garden, its role in collecting
+    taxes under Assyrian, Babylonian and Persian rule, and identifications that
+    have been proposed.
+  passages:
+    - "Jer 22:13-14 | setting? | Jehoiakim's spacious palace with windows and vermilion paint (Aharoni's proposal)"
+    - "Jer 6:1 | setting? | Signal raised over Beth-haccherem, a proposed identification"
+    - "Neh 3:14 | setting? | Ruler of the district of Beth-haccherem"
+    - "Eccl 2:4-6 | realia | Royal gardens and pools; cf. the irrigated palace garden"
+    - "2Chr 32:28 | realia? | Royal storehouses for produce; concentration of lmlk and rosette impressions"
+    - "Neh 5:14-15 | setting | Governors' levies in Yehud; Yehud stamp impressions concentrated here"
+  related: [lmlk-seal-impressions, yehud-seals-and-coins, proto-aeolic-capitals, yehud-province, jerusalem, tribute-and-vassalage]
+  wikipedia: Ramat Rachel
+  image: Ramat Rachel proto-Aeolic capital
+  author_notes:
+    - Excavated by Aharoni (1954, 1959-62) and by Lipschits, Oeming and Gadot (2005-10). The renewed project dates the first palace to the late eighth or early seventh century and stresses its role as an imperial administrative centre.
+    - The site holds the largest assemblage of lmlk, rosette and Yehud stamp impressions, which shows administrative continuity from the Assyrian to the Persian period.
+    - Pollen from the garden includes exotic species, among them citron (Langgut and others). Verify the details before citing.
+    - The links to Beth-haccherem and to Jehoiakim's palace are proposals, not established. Many place Beth-haccherem at ʿAin Karim.
+  sources_to_check:
+    - NEAEHL
+    - Lipschits et al., What Are the Stones Whispering? Ramat Raḥel (2017)
+
+- id: khirbet-qeiyafa
+  aliases: [Elah Fortress, Shaaraim (proposed)]
+  cultures: [hebrew]
+  date: [-1020, -980]
+  circa: true
+  scope: >-
+    A short-lived fortified town above the Elah Valley, dated by radiocarbon to the
+    late eleventh or early tenth century BCE. Covers its casemate wall and two gates,
+    the cult rooms and shrine models, the ostracon, and the debate over who built it.
+  passages:
+    - "1Sam 17:1-3 | setting | Philistines and Israelites face each other across the Elah Valley"
+    - "1Sam 17:52 | setting? | Philistines flee 'on the way from Shaaraim', a proposed identification"
+    - "Josh 15:36 | setting? | Shaaraim ('two gates') in the Shephelah list; Garfinkel's identification"
+    - "1Kgs 6:4-5 | realia? | Recessed frames on a stone shrine model compared to temple windows"
+  related: [low-chronology-debate, philistines, gath, champion-combat, ethnicity-and-material-culture, david, city-gates, pig-avoidance]
+  wikipedia: Khirbet Qeiyafa
+  image: Khirbet Qeiyafa gate
+  author_notes:
+    - Excavated by Garfinkel and Ganor (2007-13). It is essentially a single-period site, with radiocarbon dates of c. 1020-980 BCE. A casemate wall with houses built into it and two gates are its defining features.
+    - Who built it is debated. Proposals include early Judah or David (excavators), a Saulide or northern polity (Finkelstein, Na'aman), and Philistine or Canaanite groups. The absence of pig bones and the cult objects are used on several sides.
+    - The Shaaraim identification is attractive but not certain, and other identifications have been proposed.
+    - The ostracon's language (Hebrew vs. a generic Canaanite) and content are contested. Several incompatible readings exist, so avoid calling it the 'earliest Hebrew inscription' without qualification.
+  sources_to_check:
+    - Garfinkel and Ganor, Khirbet Qeiyafa Vol. 1 (2009)
+
+- id: tel-motza-temple
+  aliases: [Tel Moza, Mozah]
+  cultures: [judahite]
+  scope: >-
+    The Iron Age temple excavated at Tel Moẓa, about 7 km west of Jerusalem,
+    alongside large storage facilities. Covers its plan, cult objects and dating,
+    and what it means for worship outside Jerusalem during the monarchy.
+  passages:
+    - "Josh 18:26 | setting | Mozah (hammōṣâ) in Benjamin's allotment"
+    - "1Kgs 3:2-4 | practice | Sacrifice at local shrines in the early monarchy"
+    - "Deut 12:2-14 | practice | Centralization law, against which a temple near the capital stands out"
+    - "2Kgs 18:4, 22 | practice? | Hezekiah's removal of the high places"
+    - "2Kgs 23:8 | practice | Josiah's suppression of shrines outside Jerusalem"
+  related: [cult-reforms-archaeology, high-places, altars, cult-images, jerusalem, arad]
+  wikipedia: Tel Motza
+  image: Tel Motza temple excavation
+  author_notes:
+    - Excavated by the Israel Antiquities Authority (2012-13, with Kisilevitz among the directors), followed by a joint expedition with Tel Aviv University (Kisilevitz and Lipschits). The temple was built in Iron IIA (early ninth century or earlier) and rebuilt later. Verify its end date in recent publications.
+    - Finds include anthropomorphic heads and horse figurines, a courtyard altar and a pit with ash and animal bones. The deity worshipped is not named, so avoid calling it a 'YHWH temple' without qualification.
+    - Large silos and granaries suggest a royal storage centre serving Jerusalem. The temple is important evidence for officially sanctioned worship outside the capital before the reforms.
+  sources_to_check:
+    - Kisilevitz, "The Iron IIA Judahite Temple at Tel Moẓa," Tel Aviv 42 (2015)
+
+- id: mount-ebal-altar
+  aliases: [el-Burnat, Joshua's Altar (popular)]
+  cultures: [hebrew]
+  scope: >-
+    The Iron I structure on the northeastern slope of Mount Ebal excavated by Adam
+    Zertal and interpreted by him as an altar, perhaps Joshua's. Covers the
+    structure, its faunal remains, rival interpretations, and recent claims about
+    an inscribed 'curse tablet'.
+  passages:
+    - "Deut 11:29 | setting | Blessing on Gerizim, curse on Ebal"
+    - "Deut 27:1-8 | setting? | Altar of unhewn stones on Mount Ebal (SamP 27:4: Gerizim); Zertal's identification"
+    - "Deut 27:11-13 | setting | Tribes stand on Gerizim and Ebal"
+    - "Josh 8:30-35 | setting? | Joshua builds the altar on Mount Ebal"
+    - "Exod 20:25 | realia? | Altar of unhewn stones"
+  related: [mount-gerizim, altars, emergence-of-israel, shechem, blessings-and-curses, forgeries-in-biblical-archaeology]
+  wikipedia: Mount Ebal
+  image: Mount Ebal structure el-Burnat
+  author_notes:
+    - Zertal excavated the site in 1982-89. The main structure has a ramp and fill of ash and animal bones (largely sheep, goat and cattle, plus fallow deer). He read it as a sacrificial altar. Alternatives include a farmhouse or watchtower (Kempinski) or a cultic installation unrelated to Joshua.
+    - Text-critically, the Samaritan Pentateuch (and some other witnesses) reads 'Gerizim' at Deut 27:4. In 4QJosh(a) the altar episode seems to follow the Jordan crossing. Both points matter for the history of the tradition.
+    - The 2022-23 claims of a proto-alphabetic 'curse tablet' naming YHW, from wet-sifted spoil, have been widely rejected by epigraphers, and no inscription is visible in published images. Present it as a disputed claim and a caution.
+  sources_to_check:
+    - NEAEHL
+
+- id: mount-gerizim
+  aliases: [Jebel et-Tur, Har Gerizim, Tell er-Ras]
+  cultures: [jewish, persian]
+  scope: >-
+    The mountain above Shechem, site of the blessing ceremony in Deuteronomy and of
+    the Samarian (later Samaritan) Yahwistic sanctuary. Covers the Persian and
+    Hellenistic sacred precinct, its inscriptions and destruction, and its place in
+    Samaritan tradition.
+  passages:
+    - "Deut 11:29 | setting | Blessing set on Mount Gerizim"
+    - "Deut 12:5 | language | SamP reads 'the place YHWH has chosen', referring to Gerizim"
+    - "Deut 27:4 | setting? | SamP reads 'Gerizim' for the altar site (MT Ebal)"
+    - "Deut 27:12 | setting | Tribes stand on Gerizim to bless"
+    - "Josh 8:33 | setting | Half the people stand in front of Gerizim"
+    - "Judg 9:7 | setting | Jotham's fable from the top of Gerizim"
+    - "2Macc 6:2 | setting | The Gerizim temple renamed for Zeus Xenios"
+    - "John 4:20-21 | setting | 'Our ancestors worshipped on this mountain'"
+  related: [samaritan-origins, samaria-papyri, shechem, mount-ebal-altar, antiochus-iv, josephus, sanballat]
+  wikipedia: Mount Gerizim
+  image: Mount Gerizim sacred precinct excavations
+  author_notes:
+    - Magen's excavations date the first sacred precinct to the mid-fifth century BCE (Persian period). It was rebuilt in the second century BCE and destroyed by John Hyrcanus (c. 111-110 BCE, from coins). Josephus' account of a temple founded under Alexander (Ant. 11) is thus too late for the first phase.
+    - Hundreds of Aramaic and Hebrew dedicatory inscriptions are primary evidence for Samarian Yahwism.
+    - Avoid using 'Samaritan' in the later sectarian sense for the fifth-century worshippers. The parting between Samaritans and Jews was gradual.
+    - Later phases include a Roman temple of Zeus at Tell er-Ras and a Byzantine church of the Theotokos.
+  sources_to_check:
+    - Magen, Mount Gerizim Excavations, Vol. 2 - A Temple City (2008)
+    - Magen, Misgav and Tsfania, Mount Gerizim Excavations, Vol. 1 - The Aramaic, Hebrew and Samaritan Inscriptions (2004)
+
+- id: kadesh-barnea
+  aliases: [Kadesh, ʿAin el-Qudeirat, Tell el-Qudeirat, En-mishpat]
+  cultures: [judahite]
+  scope: >-
+    The oasis in northeastern Sinai remembered as Israel's main wilderness
+    station, usually identified with ʿAin el-Qudeirat and its Iron Age fortresses.
+    Covers the identification, the Judahite fortresses, and what the absence of
+    Late Bronze remains means.
+  passages:
+    - "Gen 14:7 | setting | En-mishpat, that is, Kadesh"
+    - "Num 13:26 | setting | Spies return to Kadesh in the wilderness of Paran"
+    - "Num 20:1-21 | setting | Miriam's death, the waters of Meribah, embassy to Edom"
+    - "Num 34:4 | setting | Kadesh-barnea on Canaan's southern border"
+    - "Deut 1:19, 46 | setting | Israel's long stay at Kadesh"
+    - "Josh 14:6-7 | setting | Caleb recalls being sent from Kadesh-barnea"
+    - "Josh 15:3 | setting | Southern boundary of Judah"
+    - "Ezek 47:19 | setting | Waters of Meribath-kadesh on the ideal southern border"
+  related: [exodus-historical-questions, edomites, amalekites, arad, roads-and-highways]
+  wikipedia: Kadesh Barnea
+  image: Tell el-Qudeirat fortress
+  author_notes:
+    - The usual identification is ʿAin el-Qudeirat, with nearby ʿAin Qedeis preserving the name. Cohen's excavations (1976-82) uncovered three superimposed Iron Age fortresses.
+    - There are no Late Bronze remains, which features in discussions of the exodus. Caution against arguments from silence in both directions.
+    - The date of the earliest (oval) fortress is debated, tenth century (Cohen) or later (Finkelstein and others). The latest fortress is seventh to sixth century and produced Hebrew ostraca with hieratic numerals.
+    - Do not confuse it with Kadesh on the Orontes (the Egyptian-Hittite battle).
+  sources_to_check:
+    - Cohen and Bernick-Greenberg, Excavations at Kadesh Barnea (Tell el-Qudeirat) 1976-1982 (IAA Reports 34, 2007)
+
+- id: timna
+  aliases: [Timna Valley, King Solomon's Mines (popular)]
+  cultures: [egyptian, edomite]
+  scope: >-
+    The copper-mining valley north of Eilat in the southern Arabah. Covers
+    Egyptian New Kingdom mining and the Hathor shrine, the later 'Midianite' phase
+    with its tent shrine and copper snake, and Iron Age smelting.
+  passages:
+    - "Num 21:4-9 | realia? | Bronze serpent; cf. the copper snake from the Timna shrine"
+    - "Exod 26:7-14 | realia? | Tent coverings; textile remains of a tent shrine compared to the tabernacle"
+    - "Gen 36:12, 22, 40 | language | Timna as an Edomite (Horite) personal and clan name"
+    - "1Kgs 7:45-47 | realia? | Solomon's bronze; 'King Solomon's Mines' is a popular misnomer"
+  related: [copper-production, faynan, midianites-and-kenites, nehushtan, edomites, tabernacle]
+  wikipedia: Timna Valley
+  image: Timna Hathor temple
+  author_notes:
+    - Glueck's 1930s label 'King Solomon's Mines' was overturned by Rothenberg's excavations, which dated much activity to the Egyptian New Kingdom (Seti I to Ramesses V) and uncovered the Hathor shrine.
+    - Ben-Yosef's Central Timna Valley Project showed through radiocarbon that smelting peaked in the eleventh to ninth centuries BCE, organized by a local society that left few buildings. He proposes a link to early Edom.
+    - Qurayyah painted ('Midianite') pottery and a copper snake with a gilded head come from the post-Egyptian phase of the shrine. Rothenberg's tent-shrine reading and the link to Num 21 are suggestive only.
+  sources_to_check:
+    - Rothenberg, The Egyptian Mining Temple at Timna (1988)
+
+- id: faynan
+  aliases: [Feinan, Punon, Khirbat en-Nahas, Phaino]
+  cultures: [edomite]
+  scope: >-
+    The copper-ore district on the eastern side of the Arabah in southern Jordan,
+    including the Iron Age smelting centre of Khirbat en-Naḥas. Covers the scale and
+    dating of Iron Age copper production and its implications for the formation of
+    Edom.
+  passages:
+    - "Num 33:42-43 | setting | Punon, a station on the wilderness route"
+    - "Gen 36:31-39 | setting? | Kings of Edom 'before any king reigned over the Israelites'"
+    - "2Sam 8:13-14 | setting? | David's victory and garrisons in Edom"
+    - "1Kgs 11:14-16 | setting? | Joab's campaign in Edom"
+  related: [copper-production, timna, edomites, low-chronology-debate, bozrah, shoshenq-i]
+  wikipedia: Khirbat en-Nahas
+  image: Khirbat en-Nahas copper smelting
+  author_notes:
+    - The Edom Lowlands Regional Archaeology Project (Levy, Najjar, Ben-Yosef) dated massive slag deposits and a fortress at Khirbat en-Naḥas by radiocarbon to the eleventh to ninth centuries BCE. This challenged the older view that Edom formed only in the eighth to seventh centuries (Bienkowski).
+    - Whether this production was run by an early Edomite polity, a tribal confederation, or (as Levy has suggested) related to Davidic or Solomonic power is contested. Treat any link to David as speculative.
+    - Faynan is identified with Punon (Num 33:42-43) and with Roman Phaino, the mines to which Christians were condemned (Eusebius).
+    - Egyptian amulets and a scarab of the early Twenty-second Dynasty have been linked with Shoshenq I's campaign (Levy and others). Treat this as a proposal.
+  sources_to_check:
+    - Levy, Najjar and Ben-Yosef (eds.), New Insights into the Iron Age Archaeology of Edom, Southern Jordan (2014)
+
+- id: kuntillet-ajrud
+  aliases: [Horvat Teman]
+  cultures: [israelite, judahite]
+  date: [-800]
+  circa: true
+  scope: >-
+    The isolated Iron Age site in northeastern Sinai on a desert route, known for
+    its plastered and pithos inscriptions and drawings. Covers the buildings, the
+    site's function and date, and its Israelite connections; the inscriptions
+    themselves have their own entry.
+  passages:
+    - "Deut 33:2 | language | YHWH comes from Sinai, Seir and Paran; cf. 'YHWH of Teman'"
+    - "Hab 3:3 | language | 'God came from Teman'; cf. 'YHWH of Teman' at the site"
+    - "Judg 5:4 | concept | YHWH marching from Seir and Edom"
+    - "Deut 16:21 | practice? | Ban on an asherah beside YHWH's altar; cf. 'YHWH ... and his asherah'"
+    - "Amos 8:14 | concept | Local manifestations of a god; cf. 'YHWH of Samaria'"
+  related: [kuntillet-ajrud-inscriptions, asherah, yhwh-origins, khirbet-el-qom-inscription, shasu, roads-and-highways]
+  wikipedia: Kuntillet Ajrud
+  image: Kuntillet Ajrud pithos drawing
+  author_notes:
+    - Meshel excavated the site in 1975-76, and the final report appeared in 2012. It is essentially a single-phase site dated by radiocarbon to c. 800 BCE, with strong links to the northern kingdom (the Joash and Jeroboam II era).
+    - Its function is debated. Most see a way station or caravanserai with a religious dimension rather than a temple proper. The 'bench room' held the inscribed pithoi.
+    - The drawings (Bes-like figures, a seated lyre player, a cow suckling a calf) need not illustrate the inscriptions. Avoid identifying the lyre player as Asherah.
+  sources_to_check:
+    - Meshel, Kuntillet ʿAjrud (Ḥorvat Teman) - An Iron Age II Religious Site on the Judah-Sinai Border (2012)
+
+- id: dibon
+  aliases: [Dhiban, Dibon-gad]
+  cultures: [moabite]
+  scope: >-
+    The Moabite town at Dhiban north of the Arnon, Mesha's home and the findspot of
+    the Mesha Stele. Covers the site's excavations and Iron Age remains and its
+    place in biblical lists and oracles against Moab. A separate Dibon in Judah
+    (Neh 11:25) is excluded.
+  passages:
+    - "Num 21:30 | setting | Dibon in the Song of Heshbon"
+    - "Num 32:3, 34 | setting | Dibon requested and built by Gad"
+    - "Num 33:45-46 | setting | Dibon-gad as a wilderness station"
+    - "Josh 13:9, 17 | setting | Dibon in Reuben's allotment"
+    - "2Kgs 3:4-5 | attests | Mesha's revolt; Mesha calls himself 'the Dibonite'"
+    - "Isa 15:2 | setting | Dibon goes up to the high places to weep"
+    - "Jer 48:18, 22 | setting | 'Enthroned daughter Dibon' in the oracle against Moab"
+  related: [mesha-stele, moabites, chemosh, high-places, omri]
+  wikipedia: Dhiban
+  image: Dhiban Jordan tell
+  author_notes:
+    - The Mesha Stele was found here in 1868. Its building section (Qarḥoh) probably describes Dibon's royal acropolis.
+    - American excavations (1950-56; Winnett, Reed, Tushingham, Morton) and the Dhiban Excavation and Development Project (Porter, Routledge and others) found only limited Iron Age remains. Routledge's work on Moabite state formation uses the site.
+    - Distinguish this Dibon from the Judahite Dibon (Neh 11:25).
+  sources_to_check:
+    - Routledge, Moab in the Iron Age (2004)
+
+- id: rabbah
+  aliases: [Rabbath-ammon, Rabbat Bene ʿAmmon, Philadelphia, Amman Citadel]
+  cultures: [ammonite]
+  scope: >-
+    The capital of the Ammonites on the citadel hill of modern Amman, later
+    Hellenistic and Roman Philadelphia. Covers the Iron Age remains and inscriptions
+    from the citadel and Rabbah's role in biblical narrative and prophecy.
+  passages:
+    - "Deut 3:11 | setting | Og's iron bed 'still in Rabbah of the Ammonites'"
+    - "2Sam 11:1 | setting | Joab besieges Rabbah; Uriah's death"
+    - "2Sam 12:26-31 | setting | David captures Rabbah, the 'city of waters', and Milcom's crown"
+    - "2Sam 17:27 | setting | Shobi son of Nahash of Rabbah supplies David"
+    - "Jer 49:2-3 | setting | Oracle: Rabbah to become a desolate mound"
+    - "Ezek 21:20 | setting | Babylonian king's divination at the fork: Rabbah or Jerusalem (MT 21:25)"
+    - "Ezek 25:5 | setting | Rabbah to become a pasture for camels"
+    - "Amos 1:14 | setting | Fire on the wall of Rabbah"
+  related: [ammonites, milkom, tell-siran-bottle-and-ammonite-inscriptions, david, divination]
+  wikipedia: Amman Citadel
+  image: Amman Citadel
+  author_notes:
+    - The Iron Age city lies under the Roman, Byzantine and Umayyad remains of the Amman Citadel (Jebel al-Qalʿa), so Iron Age levels are fragmentary. The Amman Citadel inscription (ninth century) comes from the site.
+    - Ammonite stone statuary (some with atef crowns) from the Amman area illustrates royal and elite iconography.
+    - Ptolemy II Philadelphus refounded the city as Philadelphia, later a city of the Decapolis.
+    - Speculative explanations of Og's 'bed' (dolmen, basalt sarcophagus) should be marked as such.
+  sources_to_check:
+    - MacDonald and Younker (eds.), Ancient Ammon (1999)
+
+- id: bozrah
+  aliases: [Buseirah, Busayra]
+  cultures: [edomite]
+  scope: >-
+    The Edomite capital at Buseirah in southern Jordan, a major centre in the
+    eighth to sixth centuries BCE. Covers its acropolis buildings, its relation to
+    Assyrian hegemony, and its role in prophetic oracles against Edom. Bostra in
+    Syria is a different place.
+  passages:
+    - "Gen 36:33 | setting | Jobab son of Zerah of Bozrah, king of Edom"
+    - "Isa 34:6 | setting | YHWH's sacrifice in Bozrah, slaughter in Edom"
+    - "Isa 63:1 | imagery | The divine warrior comes from Bozrah in crimsoned garments"
+    - "Jer 49:13, 22 | setting | Bozrah to become a horror and a desolation"
+    - "Amos 1:12 | setting | Fire on Teman to devour Bozrah's strongholds"
+  related: [edomites, qos, faynan, petra-and-sela, assyria, divine-warrior]
+  wikipedia: Bozrah
+  image: Buseirah Jordan excavations
+  author_notes:
+    - Crystal Bennett's excavations (1971-80) uncovered monumental acropolis buildings of the eighth or seventh to sixth centuries BCE in Assyrian-influenced style. Little earlier material was found.
+    - Edomite kings (Qaus-malaka, Qaus-gabri) appear in Assyrian sources as vassals. Bozrah's floruit fits this period, which supports dating the prophetic references to it.
+    - The 'kings of Edom' list in Gen 36 raises questions of dating against the late flourishing of Bozrah. Link to faynan for the early-Edom debate.
+  sources_to_check:
+    - Bienkowski (ed.), Busayra - Excavations by Crystal-M. Bennett 1971-1980 (2002)
+
+- id: petra-and-sela
+  aliases: [Sela, Selaʿ, Joktheel, Umm el-Biyara, as-Silaʿ]
+  cultures: [edomite, arabian]
+  scope: >-
+    Biblical Sela ('the Rock'), an Edomite stronghold, and Petra, the later
+    Nabataean capital, often wrongly equated with it. Covers the candidate sites for
+    Sela (as-Silaʿ and Umm el-Biyara) and the Nabataean city as background to the
+    New Testament.
+  passages:
+    - "2Kgs 14:7 | setting? | Amaziah takes Sela and renames it Joktheel"
+    - "2Chr 25:11-12 | setting? | Edomite captives thrown from the top of 'the rock'"
+    - "Isa 16:1 | setting? | Lambs sent from Sela by way of the desert"
+    - "Isa 42:11 | setting | 'Let the inhabitants of Sela sing'"
+    - "Jer 49:16 | language | Edom 'living in the clefts of the rock (selaʿ)'"
+    - "Obad 3 | language | 'You who live in the clefts of the rock'"
+    - "2Cor 11:32 | setting | King Aretas IV of Nabataea, ruling from Petra"
+  related: [edomites, nabataeans, bozrah, qos, qedarites-and-arabs, nabonidus]
+  wikipedia: Petra
+  image: Petra Umm el-Biyara
+  author_notes:
+    - selaʿ is also a common noun, 'rock', so not every occurrence names a place. The candidates for Edomite Sela are as-Silaʿ near Tafila, which has a rock relief of Nabonidus, and Umm el-Biyara at Petra. Neither is certain.
+    - Bennett's excavations at Umm el-Biyara found a seventh-century Edomite settlement and a seal impression of Qaus-gabri, king of Edom.
+    - Petra's famous monuments are Nabataean (first century BCE to first century CE). Correct the popular conflation of Petra with Iron Age Edom's capital, which was Bozrah.
+  sources_to_check:
+    - Bienkowski, Early Edom and Moab (1992)
+
+- id: gath
+  aliases: [Tell es-Safi, Tel Zafit, Gimti]
+  cultures: [philistine, canaanite]
+  scope: >-
+    Philistine Gath, identified with Tell eṣ-Ṣafi at the edge of the Shephelah, the
+    largest Philistine city in the early Iron Age. Covers its Bronze Age
+    background, its Philistine material culture, the Aramean siege, and its later
+    decline.
+  passages:
+    - "Josh 11:22 | setting | Anakim remain in Gaza, Gath and Ashdod"
+    - "1Sam 5:8-9 | setting | The ark brought to Gath; plague follows"
+    - "1Sam 17:4 | language? | Goliath of Gath; cf. the names ʾLWT and WLT on a sherd from the site"
+    - "1Sam 21:10-15 | setting | David feigns madness before Achish of Gath (MT 21:11-16)"
+    - "1Sam 27:2-12 | setting | David as Achish's vassal at Ziklag"
+    - "2Sam 15:18 | setting | Ittai and the Gittites in David's guard"
+    - "2Kgs 12:17 | attests | Hazael takes Gath; siege trench and late-ninth-century destruction (MT 12:18)"
+    - "Amos 6:2 | attests | 'Go down to Gath of the Philistines', a city already fallen"
+    - "Mic 1:10 | setting | 'Tell it not in Gath'"
+  related: [philistines, hazael, ekron, ashdod, champion-combat, khirbet-qeiyafa, horned-altars, sea-peoples]
+  wikipedia: Tell es-Safi
+  image: Tell es-Safi Gath excavations
+  author_notes:
+    - Maeir's long-running excavations (from 1996) have made the identification with Tell eṣ-Ṣafi widely accepted. Gath was the largest Philistine city in the tenth and ninth centuries.
+    - A siege trench around the tell and a destruction of c. 830 BCE are attributed to Hazael (2 Kgs 12:17). Gath's absence from the eighth-century lists in Amos 1:6-8 and Zeph 2:4 fits its decline.
+    - The early Iron IIA sherd with the names ʾLWT and WLT shows names of non-Semitic type comparable to 'Goliath'. It is not a reference to Goliath himself, and the press framing should be corrected.
+    - Other finds include a two-horned altar and Philistine temple remains. Amarna-period Gimti (ruler Shuwardata) is probably Gath.
+  sources_to_check:
+    - NEAEHL
+    - Maeir (ed.), Tell es-Safi/Gath I - The 1996-2005 Seasons (2012)
+
+- id: ekron
+  aliases: [Tel Miqne, Khirbet el-Muqanna]
+  cultures: [philistine]
+  scope: >-
+    The northernmost city of the Philistine pentapolis at Tel Miqne. Covers its
+    Iron I Philistine foundation, its seventh-century olive oil industry under
+    Assyrian rule, the royal dedicatory inscription, and its destruction by
+    Babylon.
+  passages:
+    - "Josh 13:3 | setting | Ekron, the northern border of Philistine territory"
+    - "Josh 15:45-46 | setting | Ekron in Judah's allotment"
+    - "1Sam 5:10-12 | setting | The ark sent to Ekron; outcry of the city"
+    - "1Sam 6:16-17 | setting | Lords of the Philistines return to Ekron; list of five cities"
+    - "1Sam 7:14 | setting | Towns from Ekron to Gath restored to Israel"
+    - "2Kgs 1:2-16 | setting | Ahaziah consults Baal-zebub, god of Ekron"
+    - "Amos 1:8 | setting | Oracle against Ekron"
+    - "Zeph 2:4 | language | Wordplay: 'Ekron shall be uprooted'"
+    - "Zech 9:5-7 | setting | Ekron to become like the Jebusites"
+  related: [ekron-royal-dedicatory-inscription, philistines, olive-oil-production, baal-zebub, sennacherib-campaign-701, gath, ashdod]
+  wikipedia: Ekron
+  image: Tel Miqne Ekron olive oil press
+  author_notes:
+    - The 1996 royal dedicatory inscription naming ʾkyš (Achish/Ikausu) son of Padi, ruler of Ekron, confirmed the Tel Miqne identification. Padi is also known from Sennacherib's annals.
+    - Iron I Philistine levels (Dothan and Gitin, 1981-96) include locally made Aegean-style pottery and hearths.
+    - The seventh-century industrial zone, with over 100 olive presses, is a showcase of the Assyrian-era economy. The city was destroyed by Nebuchadnezzar c. 604-603.
+    - Cross-refer baal-zebub for the 'lord of flies' / Baal-zebul polemical deformation.
+  sources_to_check:
+    - NEAEHL
+
+- id: ashkelon
+  aliases: [Ascalon, Tel Ashkelon]
+  cultures: [philistine, canaanite]
+  scope: >-
+    The coastal city of Ashkelon, a Middle Bronze Canaanite port and later a city of
+    the Philistine pentapolis, destroyed by Nebuchadnezzar in 604 BCE. Covers the
+    Leon Levy Expedition's results from the Bronze Age to the Babylonian
+    destruction; later periods are covered briefly.
+  passages:
+    - "Judg 1:18 | setting | Judah takes Ashkelon (LXX: did not take)"
+    - "Judg 14:19 | setting | Samson kills thirty men of Ashkelon"
+    - "1Sam 6:17 | setting | Ashkelon among the five Philistine cities"
+    - "2Sam 1:20 | setting | 'Do not proclaim it in the streets of Ashkelon'"
+    - "Jer 25:20 | setting | Ashkelon among the nations to drink the cup"
+    - "Jer 47:5-7 | attests | Ashkelon silenced; the destruction of 604 BCE"
+    - "Amos 1:8 | setting | The one who holds the sceptre from Ashkelon"
+    - "Zeph 2:4, 7 | setting | Ashkelon desolated, a pasture for Judah's remnant"
+    - "Zech 9:5 | setting | Ashkelon shall see it and be afraid"
+  related: [philistines, sea-peoples, nebuchadnezzar-ii, nebuchadnezzar-chronicle, ethnicity-and-material-culture, merneptah-stele, phoenicians]
+  wikipedia: Ashkelon
+  image: Ashkelon Canaanite gate
+  author_notes:
+    - The Leon Levy Expedition (Stager, then Master, 1985-2016) exposed a Middle Bronze rampart and mudbrick arched gate, an early Philistine settlement with Aegean-style pottery and pig consumption, and a dramatic 604 destruction.
+    - The Philistine cemetery (eleventh to eighth centuries) and an aDNA study (Feldman et al., Science Advances, 2019) showed a European-related genetic component in early Iron Age individuals that was diluted later. Avoid the headline claim that DNA 'proved' a migration.
+    - The Babylonian Chronicle dates Nebuchadnezzar's capture of Ashkelon to Kislev of his first year (604). Ashkelon also appears in the Merneptah Stele and in Sennacherib's deposition of Sidqa.
+  sources_to_check:
+    - NEAEHL
+    - Stager, Schloen and Master (eds.), Ashkelon 1 - Introduction and Overview (1985-2006) (2008)
+
+- id: ashdod
+  aliases: [Tel Ashdod, Azotus, Ashdod-Yam]
+  cultures: [philistine]
+  scope: >-
+    The Philistine city of Ashdod on the southern coastal plain and its port at
+    Ashdod-Yam. Covers its Philistine strata, its Assyrian conquest and status as a
+    province, and Hellenistic and Roman Azotus.
+  passages:
+    - "Josh 13:3 | setting | Ashdod among the five Philistine lordships"
+    - "1Sam 5:1-7 | setting | The ark in the temple of Dagon at Ashdod"
+    - "2Chr 26:6 | setting | Uzziah breaks down the wall of Ashdod"
+    - "Isa 20:1 | attests | Sargon's commander takes Ashdod (712/711 BCE); Sargon stele fragments from the site"
+    - "Amos 3:9 | setting | 'Proclaim to the strongholds in Ashdod' (LXX: Assyria)"
+    - "Neh 4:7 | setting | Ashdodites oppose the wall-building (MT 4:1)"
+    - "Neh 13:23-24 | language | Children speaking 'the language of Ashdod'"
+    - "Zech 9:6 | setting | 'A mongrel people shall settle in Ashdod'"
+    - "1Macc 10:84 | setting | Jonathan burns the temple of Dagon at Azotus"
+    - "Acts 8:40 | setting | Philip found at Azotus"
+  related: [philistines, dagon, sargon-ii, sargon-ii-inscriptions, sea-peoples, gaza]
+  wikipedia: Ashdod
+  image: Ashdoda figurine
+  author_notes:
+    - M. Dothan's excavations (1962-72) revealed Philistine strata with locally made Mycenaean IIIC pottery and the 'Ashdoda' figurine, a female figure merged with a throne.
+    - Fragments of a basalt victory stele of Sargon II were found at the site, confirming the campaign of Isa 20. The revolt of Yamani is known from Sargon's inscriptions.
+    - Ashdod became the seat of an Assyrian province and later of a Persian-period province, which is the context of Neh 13:24.
+    - No temple of Dagon has been identified archaeologically. Dagon as a Philistine god is known mainly from biblical and later sources.
+  sources_to_check:
+    - NEAEHL
+
+- id: gaza
+  aliases: [ʿAzzah, Tell Harube]
+  cultures: [philistine, egyptian]
+  scope: >-
+    The southernmost Philistine city, gateway between Egypt and the Levant and
+    terminus of the Arabian incense route. Ancient Gaza lies mostly beneath the
+    modern city, so the entry relies chiefly on textual evidence from Egyptian,
+    Assyrian, biblical and Greek sources.
+  passages:
+    - "Gen 10:19 | setting | Canaanite territory reaching to Gaza"
+    - "Judg 16:1-3 | setting | Samson carries off Gaza's city gates"
+    - "Judg 16:21-30 | setting | Samson's death in the temple of Dagon at Gaza"
+    - "1Sam 6:17 | setting | Gaza among the five Philistine cities"
+    - "2Kgs 18:8 | setting | Hezekiah strikes the Philistines as far as Gaza"
+    - "Amos 1:6-7 | setting | Gaza's trade in captives to Edom"
+    - "Jer 47:1 | setting | Pharaoh strikes Gaza"
+    - "Zeph 2:4 | language | Wordplay: Gaza (ʿazzâ) shall be deserted (ʿăzûbâ)"
+    - "Acts 8:26 | setting | Road from Jerusalem to Gaza; Philip and the Ethiopian official"
+  related: [philistines, roads-and-highways, tiglath-pileser-iii, incense-trade, dagon, ashdod]
+  wikipedia: History of Gaza
+  image: null
+  author_notes:
+    - The ancient tell (Tell Harube / Tell ʿAzza) lies under the modern city and has seen very little excavation, so the article should stress textual sources.
+    - Gaza was the Egyptian New Kingdom administrative base on the Way of Horus, often identified with 'the city of Canaan' (pꜣ Knʿn) in Egyptian texts. Hanunu of Gaza fled to Egypt before Tiglath-pileser III in 734.
+    - It was the terminus of the Arabian incense trade (Herodotus' Kadytis) and resisted Alexander's siege in 332 BCE.
+    - Sites in the Gaza Strip (Anthedon, Tell es-Sakan, Tell el-ʿAjjul) are distinct from Gaza proper. Note recent damage to heritage neutrally. Supply an image when a suitable licensed photo is found.
+
+- id: beth-shemesh
+  aliases: [Tel Beth-Shemesh, Tell er-Rumeileh, Ir-shemesh]
+  cultures: [judahite, canaanite]
+  scope: >-
+    The town in the Sorek Valley on the border between Judah and Philistia.
+    Covers its Late Bronze and Iron Age strata, its role in discussions of ethnic
+    boundaries, and the Iron II water reservoir and industry.
+  passages:
+    - "Josh 15:10 | setting | Beth-shemesh on Judah's northern border"
+    - "Josh 21:16 | setting | Levitical city"
+    - "1Sam 6:9-21 | setting | The ark returned from the Philistines by way of Beth-shemesh"
+    - "1Kgs 4:9 | setting | Beth-shemesh in Ben-deker's district"
+    - "2Kgs 14:11-13 | setting | Jehoash of Israel defeats Amaziah at Beth-shemesh"
+    - "2Chr 28:18 | setting | Philistines take Beth-shemesh under Ahaz"
+  related: [philistines, ark-of-the-covenant, pig-avoidance, ethnicity-and-material-culture, cisterns-and-water-systems, ekron]
+  wikipedia: Tel Beit Shemesh
+  image: Tel Beth Shemesh
+  author_notes:
+    - Excavated by Mackenzie (1911-12), Grant (1928-33) and Bunimovitz and Lederman (from 1990). Very low pig frequencies at Iron I Beth-shemesh, compared with nearby Philistine sites, are central to the debate on ethnic boundaries and pig avoidance.
+    - The Iron II town had a large cruciform rock-cut reservoir and industrial installations. It was destroyed, probably in 701, and largely abandoned afterwards.
+    - The name ('house of the sun') suggests a solar cult in origin, but there is no direct evidence for one at the site. Do not confuse it with Beth-shemesh in Naphtali (Judg 1:33).
+  sources_to_check:
+    - NEAEHL
+
+- id: beth-shean
+  aliases: [Beth-shan, Tel Beth-Shean, Tell el-Husn, Scythopolis]
+  cultures: [egyptian, canaanite, israelite]
+  scope: >-
+    The tell at the junction of the Jezreel and Jordan valleys, an Egyptian
+    administrative centre in the Late Bronze Age, an Israelite town in the Iron Age,
+    and the Hellenistic-Roman city of Scythopolis at its foot. Covers the Egyptian
+    garrison, the temples, the Iron Age town and the Decapolis city in outline.
+  passages:
+    - "Josh 17:11-16 | setting | Manasseh cannot dispossess Beth-shean; Canaanites with iron chariots"
+    - "Judg 1:27 | setting | Canaanites remain in Beth-shean"
+    - "1Sam 31:8-13 | setting | Saul's body fastened to the wall of Beth-shan; armour in the temple of Astarte"
+    - "2Sam 21:12 | setting | Saul's bones taken from the public square of Beth-shan"
+    - "1Kgs 4:12 | setting | Beth-shean in Baana's district"
+    - "1Chr 10:10 | setting | Saul's head fastened in the temple of Dagon"
+    - "1Kgs 14:25-26 | attests | Shoshenq I's campaign; Beth-shean in his Karnak list"
+    - "2Macc 12:29-31 | setting | Scythopolis treats its Jewish residents well"
+    - "Mark 5:20 | setting | The Decapolis, of which Scythopolis was the largest city"
+  related: [shoshenq-i, astarte, dagon, chariots-and-horses, amarna-letters, philistines, habiru]
+  wikipedia: Beit She'an
+  image: Tel Beit Shean Scythopolis
+  author_notes:
+    - Under the New Kingdom (Eighteenth to Twentieth Dynasties), Beth-shean was an Egyptian garrison town. Finds include stelae of Seti I (one mentioning the ʿApiru) and Ramesses II, a statue of Ramesses III, and Egyptian-style residences.
+    - The anthropoid clay coffins from the northern cemetery have been attributed to Sea Peoples mercenaries, but they are better read as Egyptian-style burials of mixed personnel. The attribution is debated.
+    - The University of Pennsylvania excavations (1921-33) linked two Iron Age temples to 1 Sam 31:10 and 1 Chr 10:10. This is speculative. A. Mazar's excavations (1989-96) revised the stratigraphy.
+    - Scythopolis was the leading Decapolis city. The Roman-Byzantine city at the foot of the tell is a major site in its own right.
+  sources_to_check:
+    - NEAEHL
+
+- id: tyre
+  aliases: [Ṣur, Ṣor, Tyros]
+  cultures: [phoenician]
+  scope: >-
+    The leading Phoenician city of the Iron Age, an island city off the Lebanese
+    coast. Covers its history from Hiram I to Alexander's siege, its commercial
+    empire and colonies, the limited archaeology of its Iron Age levels, and its
+    New Testament setting.
+  passages:
+    - "2Sam 5:11 | setting | Hiram of Tyre sends cedar and craftsmen to David"
+    - "1Kgs 5:1-12 | setting | Hiram and Solomon's timber agreement (MT 5:15-26)"
+    - "1Kgs 9:11-14 | setting | Solomon cedes the land of Cabul to Hiram"
+    - "Isa 23 | setting | Oracle against Tyre and Sidon"
+    - "Amos 1:9-10 | setting | Tyre's breach of the 'covenant of kinship'"
+    - "Ezek 26-28 | setting | Oracles against Tyre: siege, lament over the ship, the king of Tyre"
+    - "Ezek 29:17-20 | setting | Nebuchadnezzar's long siege of Tyre without reward"
+    - "Joel 3:4-8 | setting | Tyre and Sidon sell Judeans to the Greeks (MT 4:4-8)"
+    - "Mark 7:24-31 | setting | Jesus in the region of Tyre"
+    - "Acts 21:3-7 | setting | Paul's ship unloads at Tyre"
+  related: [phoenicians, hiram-of-tyre, melqart, phoenician-seafaring, purple-dye, nebuchadnezzar-ii, sidon, tarshish]
+  wikipedia: Tyre, Lebanon
+  image: Tyre Al-Mina archaeological site
+  author_notes:
+    - Tyre was an island until Alexander's mole (332 BCE) joined it to the mainland. Its Iron Age levels are known mainly from Bikai's small sounding (1973-74) and from the cemetery at al-Bass on the mainland.
+    - Its history comes largely from Assyrian sources (tribute to Shalmaneser III; Esarhaddon's treaty with Baal of Tyre), Josephus' Tyrian king list (via Menander), and the thirteen-year Babylonian siege.
+    - The 'king of Tyre' oracle (Ezek 28) uses Eden and divine-mountain mythology. Do not read it as background for a fall of Satan.
+    - The Tyrian shekel was the standard silver coin for the temple tax in the Roman period.
+  sources_to_check:
+    - Aubet, The Phoenicians and the West (2nd ed., 2001)
+
+- id: sidon
+  aliases: [Ṣidon, Saida]
+  cultures: [phoenician]
+  scope: >-
+    The Phoenician city of Sidon on the Lebanese coast. Covers its Bronze Age
+    remains, its Iron Age history under Assyria, its Persian-period royal dynasty
+    and Eshmun sanctuary, and the use of 'Sidonians' as a general term for
+    Phoenicians.
+  passages:
+    - "Gen 10:15, 19 | setting | Sidon as Canaan's firstborn; border of the Canaanites"
+    - "Judg 18:7, 28 | setting | Laish lived 'after the manner of the Sidonians'"
+    - "1Kgs 5:6 | language | 'No one among us knows how to cut timber like the Sidonians' (MT 5:20)"
+    - "1Kgs 16:31 | setting | Jezebel daughter of Ethbaal, king of the Sidonians"
+    - "1Kgs 17:9 | setting | Zarephath, which belongs to Sidon"
+    - "Isa 23:2-4, 12 | setting | Oracle on Sidon's merchants and 'virgin daughter Sidon'"
+    - "Ezek 28:20-23 | setting | Oracle against Sidon"
+    - "Matt 15:21 | setting | Jesus withdraws to the district of Tyre and Sidon"
+    - "Acts 27:3 | setting | Paul allowed to visit friends at Sidon"
+  related: [phoenicians, eshmunazar-sarcophagus, tyre, jezebel, ahab, astarte, phoenician-seafaring]
+  wikipedia: Sidon
+  image: Temple of Eshmun Sidon
+  author_notes:
+    - In the Hebrew Bible and in Homer, 'Sidonians' often means Phoenicians in general. Ethbaal (Ittobaal) of 1 Kgs 16:31 was king of Tyre according to Josephus.
+    - Sennacherib drove out Luli in 701. Esarhaddon destroyed Sidon c. 677 and founded Kar-Esarhaddon.
+    - In the Persian period Sidon flourished under a royal dynasty (sarcophagi of Tabnit and Eshmunazar II). The Eshmun temple at Bustan esh-Sheikh yielded the Bodashtart inscriptions.
+    - British Museum excavations at the 'College site' (Doumet-Serhal) have produced important Bronze Age burials.
+  sources_to_check:
+    - Aubet, The Phoenicians and the West (2nd ed., 2001)
+
+- id: byblos
+  aliases: [Gebal, Gubla, Jbeil]
+  cultures: [phoenician, egyptian]
+  scope: >-
+    The ancient port of Byblos (Gebal) north of Beirut, a city with close
+    Egyptian ties from the third millennium and an early centre of Phoenician
+    royal inscriptions. Covers its temples and its role in the timber and papyrus
+    trade.
+  passages:
+    - "Josh 13:5 | setting | 'The land of the Gebalites' among the unconquered lands"
+    - "1Kgs 5:18 | setting | Gebalites help prepare timber and stone for the temple (MT 5:32)"
+    - "Ezek 27:9 | setting | Elders of Gebal as caulkers of Tyre's ship"
+    - "Matt 1:1 | language | Greek biblos 'book', from byblos 'papyrus', linked to the city's trade"
+  related: [ahiram-sarcophagus, report-of-wenamun, amarna-letters, phoenicians, writing-materials, phoenician-seafaring]
+  wikipedia: Byblos
+  image: Byblos Obelisk Temple
+  author_notes:
+    - Byblos had close ties with Egypt from the Old Kingdom, chiefly for cedar. Its sanctuaries include the temple of Baʿalat Gubal (the 'Lady of Byblos') and the Middle Bronze Obelisk Temple.
+    - Rib-Hadda of Byblos is the most prolific correspondent in the Amarna letters, a vivid source for Late Bronze politics and the ʿApiru.
+    - The Iron Age royal inscriptions (Ahiram, Yehimilk, Abibaal, Elibaal, Shipitbaal, and the later Yehawmilk) are foundational for the early Phoenician alphabet.
+    - Wenamun's visit to Zakar-Baal (c. 1075 BCE) illustrates the city's independence after the collapse. The 'Byblos syllabic' script remains undeciphered.
+  sources_to_check:
+    - Moran, The Amarna Letters (1992)
+
+- id: damascus
+  aliases: [Aram-Damascus, Dimashq, Ša-imērīšu]
+  cultures: [aramean]
+  scope: >-
+    Damascus as the capital of the leading Aramean kingdom of the Iron Age and
+    as a New Testament city. Covers the textual evidence for its history from
+    David to its capture by Tiglath-pileser III, the scant archaeology, and
+    Paul's Damascus.
+  passages:
+    - "Gen 14:15 | setting | Abram pursues the kings to Hobah, north of Damascus"
+    - "2Sam 8:5-6 | setting | David's garrisons in Aram of Damascus"
+    - "1Kgs 15:18-20 | setting | Asa bribes Ben-hadad of Damascus to attack Israel"
+    - "1Kgs 20:34 | practice | Trading quarters (ḥûṣôt) granted in Damascus and Samaria"
+    - "2Kgs 16:9-12 | setting | Tiglath-pileser III takes Damascus; Ahaz copies its altar"
+    - "Isa 17:1-3 | setting | Oracle: Damascus to become a heap of ruins"
+    - "Amos 1:3-5 | setting | Damascus threshed Gilead; the 'house of Hazael'"
+    - "Acts 9:1-25 | setting | Paul's conversion and escape from Damascus"
+    - "2Cor 11:32-33 | setting | The ethnarch of King Aretas guards Damascus"
+  related: [arameans, hazael, ben-hadad, rezin, hadad-rimmon, tiglath-pileser-iii, tel-dan-stele, nabataeans]
+  wikipedia: Damascus
+  image: Temple of Jupiter Damascus
+  author_notes:
+    - Iron Age Damascus lies beneath the Old City and is almost unexcavated. The temple of Hadad is presumed to underlie the Roman temple of Jupiter and the Umayyad Mosque, where a basalt orthostat with a sphinx was found.
+    - Assyrian sources call the kingdom KUR ša-imērīšu. Its kings include Hadadezer (Adad-idri at Qarqar), Hazael, Bar-Hadad, and Rezin (Raḫiānu). The biblical Ben-hadads are hard to number and correlate.
+    - How and when the Nabataean ethnarch controlled the city (2 Cor 11:32) is debated.
+  sources_to_check:
+    - Younger, A Political History of the Arameans (2016)
+
+- id: hamath
+  aliases: [Hama, Epiphania, Lebo-hamath (border)]
+  cultures: [luwian, aramean]
+  scope: >-
+    The city on the Orontes in central Syria, capital of a Neo-Hittite and then
+    Aramean kingdom in the Iron Age. Covers its citadel excavations and
+    inscriptions, its role in anti-Assyrian coalitions, and its conquest by Sargon
+    II. 'Lebo-hamath' as Israel's ideal northern border is also discussed.
+  passages:
+    - "Num 34:8 | setting | Lebo-hamath on the ideal northern border"
+    - "2Sam 8:9-10 | setting | Toi king of Hamath congratulates David"
+    - "1Kgs 8:65 | setting | 'From Lebo-hamath to the Wadi of Egypt'"
+    - "2Kgs 14:28 | setting | Jeroboam II's recovery of Damascus and Hamath (text difficult)"
+    - "2Kgs 17:24, 30 | setting | Deportees from Hamath settled in Samaria; their god Ashima"
+    - "2Kgs 18:34 | setting | 'Where are the gods of Hamath?'"
+    - "Isa 10:9 | setting | 'Is not Hamath like Arpad?'"
+    - "Amos 6:2 | setting | 'Go to Hamath the great'"
+    - "Amos 6:14 | setting | 'From Lebo-hamath to the Wadi Arabah'"
+  related: [zakkur-stele, battle-of-qarqar, arameans, sargon-ii, gods-of-2-kings-17, hittites-and-hethites, kurkh-monoliths]
+  wikipedia: Hama
+  image: Hama citadel
+  author_notes:
+    - Danish excavations on the citadel (1931-38) revealed a palace complex and Luwian hieroglyphic inscriptions of Neo-Hittite kings (e.g. Urhilina). Zakkur of Hamath and Luʿash represents the later Aramean dynasty.
+    - Irhuleni of Hamath was a leader of the Qarqar coalition (853). Sargon II crushed Yau-biʾdi (Ilu-biʾdi) of Hamath in 720. Whether that name contains the divine element Yahu is debated.
+    - Lebo-hamath is probably Lebweh in the northern Beqaʿ, not Hamath itself. Translations that render it 'entrance of Hamath' obscure this.
+  sources_to_check:
+    - Younger, A Political History of the Arameans (2016)
+
+- id: ugarit
+  aliases: [Ras Shamra, Minet el-Beida]
+  cultures: [ugaritic]
+  scope: >-
+    The Late Bronze Age port-kingdom at Ras Shamra on the north Syrian coast,
+    destroyed c. 1185 BCE, whose archives in several languages and scripts
+    include the Ugaritic alphabetic literary texts. Covers the site, its palaces,
+    temples and archives; the texts themselves are treated in ugaritic-texts and
+    related entries.
+  passages:
+    - "Ps 29 | parallel | Storm-god hymn closely paralleled in Ugaritic Baal texts"
+    - "Ps 82 | concept | Divine council and the 'sons of the Most High'; cf. El's assembly"
+    - "Deut 32:8-9 | concept | Nations allotted by number of the 'sons of God' (4QDeut(j), LXX); cf. El's seventy sons"
+    - "Isa 27:1 | language | Leviathan the twisting serpent; cf. Ugaritic ltn"
+    - "Ezek 14:14, 20; 28:3 | attests? | Danel, perhaps the Dnil of the Aqhat epic"
+  related: [ugaritic-texts, baal-cycle, aqhat-epic, kirta-epic, el, baal, divine-council, rephaim]
+  wikipedia: Ugarit
+  image: Ugarit Ras Shamra royal palace
+  author_notes:
+    - French excavations since 1929 (Schaeffer, then Yon and others) have recovered archives in Ugaritic alphabetic cuneiform, Akkadian, Hurrian, Hittite and other languages, from the royal palace and private houses (e.g. Rapanu, Urtenu). The nearby Ras Ibn Hani palace also yielded texts.
+    - Ugarit is never mentioned in the Bible. Its importance is linguistic, literary and religious, not historical.
+    - Ugaritic texts distinguish Ugarit from 'Canaan'. Avoid presenting Ugaritic religion simply as 'Canaanite religion'.
+    - Its final destruction (c. 1185) is linked in the late letters to enemy ships, part of the wider Late Bronze collapse.
+  sources_to_check:
+    - Yon, The City of Ugarit at Tell Ras Shamra (2006)
+    - Watson and Wyatt (eds.), Handbook of Ugaritic Studies (1999)
+
+- id: mari
+  aliases: [Tell Hariri]
+  cultures: [amorite]
+  scope: >-
+    The city on the middle Euphrates whose Old Babylonian palace, destroyed by
+    Hammurabi, yielded about 20,000 tablets. Covers the site, its palace and
+    temples, and why the archives matter for prophecy, tribal society and
+    treaty-making; the archive itself is treated in mari-letters.
+  passages:
+    - "Deut 13:1-5 | practice | Prophets and dreamers whose messages must be tested (MT 13:2-6)"
+    - "Jer 28 | practice | Prophetic conflict; Mari letters report prophets and test them with omens"
+    - "2Sam 7:1-17 | parallel | Divine promise to a king through a prophet; cf. Adad of Aleppo's message to Zimri-Lim"
+    - "Gen 15:9-10, 17 | practice | Covenant made by killing animals; cf. 'killing a donkey' (ḫayaram qaṭālum)"
+    - "Gen 35:18 | language | Benjamin; cf. the Binu-Yamina ('sons of the right/south') tribes"
+    - "Josh 11:10 | attests | Hazor as a leading city; Mari texts name Hazor and its king"
+  related: [mari-letters, prophecy-in-the-ane, amorites, covenant-cutting-ceremony, hazor, hammurabi, dreams-and-dream-interpretation]
+  wikipedia: Mari, Syria
+  image: Mari palace of Zimri-Lim
+  author_notes:
+    - French excavations since 1933 (Parrot, then Margueron, then Butterlin) uncovered a third-millennium city and the great palace of Zimri-Lim. Hammurabi destroyed the city c. 1761 BCE (middle chronology).
+    - Older uses of Mari to authenticate a 'patriarchal age' (the Albright school) are outdated. Present the comparisons as typological.
+    - The prophetic letters (āpilum, muḫḫûm and lay prophets) are among the most important comparative evidence for Israelite prophecy.
+    - The site was badly damaged and looted during the Syrian civil war.
+  sources_to_check:
+    - Nissinen, Prophets and Prophecy in the Ancient Near East (2003)
+    - Fleming, Democracy's Ancient Ancestors - Mari and Early Collective Governance (2004)
+
+- id: ebla
+  aliases: [Tell Mardikh]
+  cultures: [ane]
+  scope: >-
+    The north Syrian city at Tell Mardikh whose mid-third-millennium palace
+    archive revealed an early Semitic language (Eblaite). Covers the site and
+    archive, its real significance for Semitic studies and religion, and the
+    1970s controversy over alleged 'biblical' connections.
+  passages:
+    - "1Sam 5:2-5 | language | Dagon; Dagan is prominent in Ebla's pantheon"
+    - "Num 21:29 | language | Chemosh; cf. the god Kamiš attested at Ebla"
+    - "Hab 3:5 | language | Resheph (pestilence); cf. the god Rašap at Ebla"
+  related: [chemosh, resheph, dagon, amorites, mari, scribes-and-scribal-education, writing-and-literacy]
+  wikipedia: Ebla
+  image: Ebla Tell Mardikh royal palace
+  author_notes:
+    - Italian excavations under Matthiae since 1964. The Palace G archives (c. twenty-fourth century BCE) number some 17,000 inventoried pieces, far fewer complete tablets. They include Sumerian-Eblaite bilingual lexical lists.
+    - Use the site as a cautionary case. Early claims (Pettinato in the 1970s, amplified in the popular press) that the tablets named Sodom, Gomorrah and the cities of Gen 14, that the element 'Ya' was YHWH, and that a king Ebrium was Eber have all been rejected. Pettinato himself withdrew some of them.
+    - Its real significance lies in early West Semitic personal names, deities (Dagan, Rašap, Kamiš, Aštar), administration and scribal culture.
+    - The palace was destroyed in the later third millennium (by Sargon or Naram-Sin of Akkad; debated). The Middle Bronze city was destroyed c. 1600.
+  sources_to_check:
+    - Matthiae, Ebla - An Empire Rediscovered (1980)
+
+- id: babylon
+  aliases: [Babel, Bābilim, Hillah ruins]
+  cultures: [babylonian]
+  scope: >-
+    The city of Babylon on the Euphrates, capital of Hammurabi's dynasty and of
+    the Neo-Babylonian Empire. Covers the excavated Neo-Babylonian city, its
+    monuments and its symbolic role in the Bible from Genesis to Revelation; the
+    empire is treated in babylonia.
+  passages:
+    - "Gen 10:10 | setting | Babel in Nimrod's kingdom"
+    - "Gen 11:1-9 | setting | The tower of Babel; wordplay on the name (Akk. bāb-ilim 'gate of god')"
+    - "2Kgs 24:10-17 | setting | Jehoiachin and Jerusalem's elite deported to Babylon"
+    - "2Kgs 25:27-30 | attests | Jehoiachin's release; ration tablets from Babylon's Southern Palace"
+    - "Isa 13-14 | setting | Oracle against Babylon and taunt over its king"
+    - "Isa 46:1-2 | setting | Bel and Nebo bow down"
+    - "Jer 50-51 | setting | Oracles against Babylon"
+    - "Ps 137 | setting | 'By the rivers of Babylon'"
+    - "Dan 4:30 | attests | 'Is this not magnificent Babylon, which I have built?' (Aram. 4:27)"
+    - "Rev 17-18 | imagery | Babylon the great as a cipher for Rome"
+  related: [etemenanki, ishtar-gate, marduk, nebuchadnezzar-ii, babylonia, ziggurat-and-babel, east-india-house-inscription, jehoiachin-ration-tablets]
+  wikipedia: Babylon
+  image: Babylon ruins Iraq
+  author_notes:
+    - Koldewey's German excavations (1899-1917) exposed mainly the Neo-Babylonian city of Nebuchadnezzar II, including the Ishtar Gate, the Processional Way, the Southern Palace, the foundation of Etemenanki and Esagila. Earlier levels lie below the water table.
+    - The 'Hanging Gardens' have not been securely identified. Koldewey's 'vaulted building' is now usually read as a storehouse, where the Jehoiachin ration tablets were found. Dalley has argued for Nineveh.
+    - Saddam Hussein's reconstruction damaged the ruins. Babylon was inscribed as a UNESCO World Heritage Site in 2019.
+    - In Revelation and 1 Pet 5:13 'Babylon' is code for Rome. Keep the symbolic afterlife distinct from the historical city.
+  sources_to_check:
+    - George, Babylonian Topographical Texts (1992)
+    - Koldewey, The Excavations at Babylon (1914)
+
+- id: nineveh
+  aliases: [Ninua, Kuyunjik, Nebi Yunus]
+  cultures: [assyrian]
+  scope: >-
+    The great Assyrian city on the Tigris opposite modern Mosul, capital under
+    Sennacherib and his successors until its fall in 612 BCE. Covers the mounds of
+    Kuyunjik and Nebi Yunus, the palaces and their reliefs, the library, and
+    Nineveh in biblical prophecy and narrative.
+  passages:
+    - "Gen 10:11-12 | setting | Nineveh and Calah built; 'that is the great city'"
+    - "2Kgs 18:14 | attests | Sennacherib at Lachish; the Lachish reliefs from his Nineveh palace"
+    - "2Kgs 19:36-37 | setting | Sennacherib returns to Nineveh and is murdered"
+    - "Jonah 1:2 | setting | 'Nineveh, that great city'"
+    - "Jonah 3:3 | setting | 'Three days' walk across', a hyperbolic size"
+    - "Nah 2:1-3:19 | setting | Poetic depiction of Nineveh's fall in 612 (MT 2:2-3:19)"
+    - "Zeph 2:13-15 | setting | Nineveh to become a desolation"
+    - "Tob 1:3, 10 | setting | Tobit among the exiles in Nineveh"
+    - "Matt 12:41 | setting | The people of Nineveh repented at Jonah's preaching"
+  related: [sennacherib, ashurbanipal, library-of-ashurbanipal, lachish-reliefs, fall-of-nineveh-chronicle, assyria, gilgamesh-flood-tablet]
+  wikipedia: Nineveh
+  image: Nineveh Kuyunjik mound
+  author_notes:
+    - Excavations at Kuyunjik by Layard, Rassam, George Smith and others recovered Sennacherib's Southwest Palace ('Palace without Rival') and Ashurbanipal's North Palace with their reliefs and the library tablets.
+    - Sennacherib made Nineveh the capital c. 700 and enclosed it with a wall about 12 km long. Jonah's 'three days' walk' is hyperbole or includes the hinterland. Jonah's portrait of Nineveh is literary, not a source for eighth-century history.
+    - The Fall of Nineveh Chronicle records the city's capture by Medes and Babylonians in 612.
+    - ISIS destroyed parts of the site, including the Nebi Yunus shrine and gates, in 2014-16. Tunnels dug under Nebi Yunus exposed remains of a palace associated with Esarhaddon.
+  sources_to_check:
+    - Russell, Sennacherib's Palace without Rival at Nineveh (1991)
+
+- id: nimrud
+  aliases: [Calah, Kalḫu]
+  cultures: [assyrian]
+  scope: >-
+    The Assyrian capital Kalḫu (biblical Calah) on the Tigris, refounded by
+    Ashurnasirpal II. Covers its palaces, reliefs, ivories and royal tombs, and
+    the monuments from the site that name Israelite and Judahite kings.
+  passages:
+    - "Gen 10:11-12 | setting | Calah built by Nimrod (or Asshur)"
+    - "2Kgs 9:1-13 | attests | Jehu, shown paying tribute on the Black Obelisk found at Nimrud"
+    - "2Kgs 15:19-20 | attests | Menahem's tribute; Tiglath-pileser III's inscriptions from Calah"
+    - "1Kgs 22:39 | realia | Ahab's ivory house; cf. the Nimrud ivories, many of Levantine origin"
+    - "Amos 6:4 | realia | Beds inlaid with ivory"
+    - "Ezek 23:14-15 | realia | Men portrayed on the wall in vermilion; painted Mesopotamian palace reliefs"
+  related: [black-obelisk, shalmaneser-iii, tiglath-pileser-iii, samaria-ivories, lamassu, apkallu-reliefs, assyria, nineveh]
+  wikipedia: Nimrud
+  image: Nimrud Northwest Palace lamassu
+  author_notes:
+    - Ashurnasirpal II rebuilt Kalḫu as his capital (the Banquet Stele records its inauguration c. 879). Its major buildings include the Northwest Palace, the Nabu temple and Fort Shalmaneser, the arsenal where many ivories were stored.
+    - It was excavated by Layard (1845-51), by Mallowan (1949-57, the ivories) and by Iraqi teams, who found the queens' tombs with gold jewellery in 1988-89.
+    - The Nimrud ivories include Phoenician, North Syrian and Assyrian styles, much of it booty or tribute from the Levant. They are the closest comparanda for the Samaria ivories.
+    - ISIS deliberately destroyed much of the Northwest Palace in 2015.
+  sources_to_check:
+    - Oates and Oates, Nimrud - An Assyrian Imperial City Revealed (2001)
+
+- id: ur
+  aliases: [Tell el-Muqayyar, Urim, Ur of the Chaldeans]
+  cultures: [sumerian, babylonian]
+  scope: >-
+    The Sumerian and Babylonian city in southern Iraq, famous for its Royal
+    Cemetery and the ziggurat of Ur-Nammu, and named in Genesis as Abraham's
+    place of origin. Covers the site, its main periods and the problems of the
+    biblical 'Ur of the Chaldeans'.
+  passages:
+    - "Gen 11:28 | setting | Haran dies in Ur of the Chaldeans"
+    - "Gen 11:31 | setting | Terah's family leaves Ur of the Chaldeans (LXX: 'land of the Chaldeans')"
+    - "Gen 15:7 | setting | 'I brought you from Ur of the Chaldeans'"
+    - "Neh 9:7 | setting | God chose Abram and brought him out of Ur"
+    - "Acts 7:2-4 | setting | Stephen: Abraham in Mesopotamia before Haran"
+  related: [harran, sin-moon-god, ziggurat, babylonia, laws-of-ur-nammu, city-laments, nabonidus]
+  wikipedia: Ur
+  image: Ziggurat of Ur
+  author_notes:
+    - Woolley excavated Ur from 1922 to 1934. Key finds are the Royal Cemetery (c. 2600 BCE), the Ur III ziggurat of Ur-Nammu, and Nabonidus' restorations, including the residence of his daughter, the en-priestess Ennigaldi-Nanna.
+    - The phrase 'of the Chaldeans' is anachronistic for any second-millennium setting. The Chaldeans (Kaldu) are attested only from the ninth century BCE, which points to a first-millennium perspective in the text.
+    - A northern location (Urfa or a northern 'Ura'; Gordon and others) is a minority view. Most scholars accept southern Ur, but the problem should be stated. The Ur-Harran link through the moon-god Sin is often noted.
+    - Woolley's 'flood deposit' is a local flood layer and should not be presented as evidence for Gen 6-9.
+  sources_to_check:
+    - Woolley and Moorey, Ur 'of the Chaldees' (1982)
+
+- id: harran
+  aliases: [Haran, Ḫarrānu, Carrhae]
+  cultures: [aramean, assyrian]
+  scope: >-
+    The city in the upper Balikh valley in southeastern Turkey, a major centre of
+    the moon-god Sin and the place where Abraham's family settled. Covers its
+    role as a cult and political centre from the Bronze Age to Nabonidus and its
+    place in the patriarchal traditions.
+  passages:
+    - "Gen 11:31-32 | setting | Terah settles and dies in Haran"
+    - "Gen 12:4-5 | setting | Abram departs from Haran"
+    - "Gen 27:43 | setting | Jacob told to flee to Laban in Haran"
+    - "Gen 28:10 | setting | Jacob sets out for Haran"
+    - "Gen 29:4 | setting | 'We are from Haran'"
+    - "2Kgs 19:12 | setting | Gozan, Haran and Rezeph among nations conquered by Assyria"
+    - "Ezek 27:23 | setting | Haran among Tyre's trading partners"
+    - "Acts 7:2-4 | setting | Abraham in Haran before Canaan"
+  related: [ur, sin-moon-god, nabonidus, arameans, fall-of-nineveh-chronicle, mari-letters]
+  wikipedia: Harran
+  image: Harran ancient ruins
+  author_notes:
+    - Harran's temple of Sin (Ehulhul) was restored by Nabonidus. Stelae of Nabonidus and of his mother Adad-guppi were found reused in the Great Mosque.
+    - It was the last Assyrian stronghold under Ashur-uballit II (610-609) before the Babylonian conquest, the context of Neco's march in 2 Kgs 23:29.
+    - The names of Abraham's kin (Serug, Nahor, Terah) match place names in the Harran region (Sarugi, Nahur, Til-turaḫi). Nahur appears already in the Mari texts.
+  sources_to_check:
+    - Green, The City of the Moon God - Religious Traditions of Harran (1992)
+
+- id: susa
+  aliases: [Shushan, Shush]
+  cultures: [elamite, persian]
+  scope: >-
+    The Elamite capital in southwestern Iran, later an Achaemenid royal residence
+    where Darius I built a palace and audience hall. Covers its long history, the
+    Mesopotamian monuments taken there as booty, the Achaemenid palace, and its
+    setting in Nehemiah, Esther and Daniel.
+  passages:
+    - "Ezra 4:9 | setting | People of Susa (Elamites) among those settled in Samaria"
+    - "Neh 1:1 | setting | Nehemiah in Susa the citadel (bîrâ)"
+    - "Esth 1:2-5 | setting | Ahasuerus's banquet in Susa the citadel"
+    - "Esth 1:6 | realia | Palace furnishings: hangings, couches and a mosaic pavement"
+    - "Esth 2:3-8 | setting | Young women gathered to Susa"
+    - "Esth 3:15 | setting | 'The city of Susa was thrown into confusion'"
+    - "Dan 8:2 | setting | Daniel's vision at Susa by the Ulai canal"
+  related: [persia, darius-i, xerxes-i, artaxerxes-i, persepolis, code-of-hammurabi, victory-stele-of-naram-sin, medes]
+  wikipedia: Susa
+  image: Susa Apadana palace Darius
+  author_notes:
+    - French excavations (Dieulafoy from 1884, de Morgan from 1897, and later teams) recovered Mesopotamian monuments, including the Code of Hammurabi stele and Naram-Sin's victory stele, carried off by the Elamite king Shutruk-Nahhunte in the twelfth century.
+    - Darius I built a palace and Apadana. The glazed-brick friezes (archers, lions) and the foundation charter (DSf), which lists materials and craftsmen from across the empire, are key evidence.
+    - Esther's court details mix authentic Persian colouring with literary invention. Avoid using the palace to 'confirm' the narrative.
+    - The tradition of the 'Tomb of Daniel' at Shush is medieval.
+  sources_to_check:
+    - Perrot (ed.), The Palace of Darius at Susa (2013)
+
+- id: persepolis
+  aliases: [Pārsa, Takht-e Jamshid]
+  cultures: [persian]
+  date: [-518, -330]
+  circa: true
+  scope: >-
+    The Achaemenid ceremonial capital in Fars, founded by Darius I and burned by
+    Alexander. Covers its terrace palaces and reliefs, the Fortification and
+    Treasury archives, and what they show about Persian court life and
+    administration as background to Persian-period biblical books.
+  passages:
+    - "Ezra 7:12 | language | 'Artaxerxes, king of kings', the Achaemenid royal title"
+    - "Ezra 6:1-2 | practice | Search of the royal archives; cf. Persepolis administrative archives"
+    - "Esth 1:3-8 | practice | Royal banquet and court protocol of the Achaemenid court"
+    - "Esth 1:14 | practice | Seven officials who 'saw the king's face'"
+    - "Esth 8:10 | practice | Royal couriers on swift horses; cf. travel rations in the Fortification tablets"
+    - "Isa 60:6-11 | imagery? | Nations' processions bearing gifts; cf. the Apadana delegations"
+  related: [persepolis-fortification-tablets, persia, darius-i, xerxes-i, susa, tribute-and-vassalage, court-officials, roads-and-highways]
+  wikipedia: Persepolis
+  image: Persepolis Apadana staircase reliefs
+  author_notes:
+    - Founded by Darius I c. 518 BCE and expanded by Xerxes and later kings, the site has the Gate of All Nations, the Apadana and the Hall of a Hundred Columns. Alexander burned it in 330.
+    - The Fortification tablets (c. 509-493, mostly Elamite, some Aramaic) and the Treasury tablets document the economy, rations, travel and sealing practice. They are prime evidence for Achaemenid administration.
+    - The Apadana reliefs show gift-bearing delegations of subject peoples. Their reading as 'tribute' versus ceremonial gifts is debated.
+    - Esther is set at Susa, not Persepolis. Use Persepolis for the court culture, not as the stage of the story.
+  sources_to_check:
+    - Schmidt, Persepolis I-III (1953-70)
+    - Hallock, Persepolis Fortification Tablets (1969)
+
+- id: carchemish
+  aliases: [Karkemiš, Jerablus]
+  cultures: [luwian, hittite]
+  scope: >-
+    The city on the Euphrates at the modern Turkish-Syrian border, seat of a
+    Hittite viceroy and later capital of a Neo-Hittite kingdom, and site of the
+    decisive battle of 605 BCE. Covers its excavations, monuments and
+    inscriptions; the battle has its own entry.
+  passages:
+    - "Isa 10:9 | setting | 'Is not Calno like Carchemish?', conquered by Sargon II (717)"
+    - "2Kgs 23:29 | setting | Neco marches to the Euphrates to aid Assyria"
+    - "2Chr 35:20 | setting | Neco goes to fight at Carchemish; Josiah goes out against him"
+    - "Jer 46:2-12 | setting | Defeat of Neco's army at Carchemish (605 BCE)"
+    - "2Kgs 24:7 | setting | Babylon controls from the Wadi of Egypt to the Euphrates"
+  related: [battle-of-carchemish, nebuchadnezzar-chronicle, necho-ii, josiah, nebuchadnezzar-ii, sargon-ii, hittites-and-hethites]
+  wikipedia: Carchemish
+  image: Carchemish orthostat relief
+  author_notes:
+    - The British Museum excavated the site in 1911-14 and 1920 (Hogarth, Woolley, with T. E. Lawrence). A Turkish-Italian project has worked there since 2011.
+    - In the Late Bronze Age it was the seat of the Hittite viceroy in Syria. In the Iron Age it was the capital of a Neo-Hittite kingdom with Luwian hieroglyphic inscriptions and sculpted orthostats. Sargon II annexed it in 717.
+    - Woolley found burnt houses containing Egyptian objects, which he linked to the 605 battle. The Babylonian Chronicle is the main written source.
+  sources_to_check:
+    - Hogarth, Woolley and Barnett, Carchemish I-III (1914-52)
+
+- id: elephantine
+  aliases: [Yeb, Abu, Syene (Aswan)]
+  cultures: [jewish, egyptian, persian]
+  scope: >-
+    The island at the First Cataract opposite Aswan, home in the Persian period
+    to a Judean military colony with a temple of YHW. Covers the site, the
+    colony and its temple; the papyri and the temple petition have their own
+    entries.
+  passages:
+    - "Jer 44:1 | setting | Judeans living in Egypt, including Pathros (Upper Egypt)"
+    - "Jer 44:15-19 | practice? | Judeans in Egypt worship the Queen of Heaven; cf. Anat-Yahu at Elephantine"
+    - "Isa 19:18-19 | setting? | An altar to YHWH in Egypt; often compared with Elephantine (or Leontopolis)"
+    - "Ezek 29:10 | setting | 'From Migdol to Syene', the southern limit of Egypt"
+    - "Neh 2:10, 19 | attests | Sanballat, whose sons are named in the Elephantine petition"
+    - "Neh 12:22 | attests | Johanan the high priest, addressed in the Elephantine petition"
+    - "Exod 12:15-20 | practice | Unleavened bread; cf. the 'Passover letter'"
+  related: [elephantine-papyri, elephantine-temple-petition, elephantine-passover-letter, persia, queen-of-heaven, sanballat, anat, aramaic-language]
+  wikipedia: Elephantine
+  image: Elephantine Island Aswan ruins
+  author_notes:
+    - The Judean (Yehudaya) garrison served the Persian administration. The petition says their temple stood before Cambyses' conquest (525), so the colony probably goes back to the Saite period.
+    - In 410 BCE the temple was destroyed at the instigation of the Khnum priests. The colonists petitioned Bagavahya (Bagohi), governor of Yehud (407). The temple was later rebuilt, apparently without animal sacrifice.
+    - The divine names in the archive (YHW, Anat-Yahu, Eshem-Bethel, Herem-Bethel) raise debate over the colony's 'polytheism'. Avoid assuming the colonists knew a Pentateuch.
+    - German and Swiss excavations have located the temple area next to the Khnum precinct.
+  sources_to_check:
+    - Porten, Archives from Elephantine (1968)
+    - Porten et al., The Elephantine Papyri in English (1996)
+    - TAD A4.7-A4.8
+
+- id: qumran
+  aliases: [Khirbet Qumran]
+  cultures: [jewish]
+  date: [-100, 68]
+  circa: true
+  scope: >-
+    The settlement on a marl terrace above the northwestern Dead Sea and the
+    nearby caves where most of the Dead Sea Scrolls were found. Covers the
+    excavated buildings, stepped pools, cemetery and pottery, the link between
+    site and caves, and rival interpretations of the site.
+  passages:
+    - "Isa 40:3 | concept | 'In the wilderness prepare the way'; cited in the Community Rule (1QS 8) for withdrawal to the desert"
+    - "Josh 15:61-62 | setting? | Secacah or the City of Salt in the wilderness district, proposed identifications"
+    - "2Chr 26:10 | setting? | Uzziah builds towers in the wilderness; the Iron Age fort beneath the site"
+    - "Lev 15:13-18 | practice? | Immersion for purity; the site's many stepped pools"
+    - "Matt 3:1-6 | setting? | John the Baptist in the Judean wilderness; proposed Qumran connections"
+  related: [dead-sea-scrolls, community-rule, pesher-habakkuk, great-isaiah-scroll, jewish-sects, stone-vessels-and-mikvaot, temple-scroll, josephus]
+  wikipedia: Qumran
+  image: Qumran Cave 4
+  author_notes:
+    - De Vaux excavated the site in 1951-56. Magness revised his phasing, placing the sectarian settlement from c. 100-50 BCE to its destruction by Rome in 68 CE. An Iron Age II fort lies beneath.
+    - The Essene hypothesis (based on Pliny, Nat. Hist. 5.73; Philo; Josephus) remains the majority view. Alternatives include a villa, a fortress, a pottery workshop, and scrolls brought from Jerusalem. Pottery and proximity (especially Caves 4, 7-10) support a link between site and caves.
+    - The stepped pools are read as ritual baths (miqvaʾot) by most, though some see them as cisterns. The cemetery holds about 1,100 graves, and the excavated sample is mostly male.
+    - Links with John the Baptist or Jesus are popular but speculative. Do not equate the Qumran group with all Essenes.
+  sources_to_check:
+    - de Vaux, Archaeology and the Dead Sea Scrolls (1973)
+    - Magness, The Archaeology of Qumran and the Dead Sea Scrolls (2002; 2nd ed. 2021)
+
+- id: masada
+  aliases: [Meṣada]
+  cultures: [jewish, roman]
+  scope: >-
+    The isolated mesa-top fortress by the Dead Sea, fortified by the Hasmoneans
+    and rebuilt by Herod, the last stronghold of the Jewish revolt against Rome.
+    Covers the Herodian palaces, the Roman siege works, the scroll finds and the
+    modern myth surrounding the site.
+  passages:
+    - "1Sam 24:22 | language | David goes up to the 'stronghold' (mĕṣûdâ), the word behind the name (MT 24:23)"
+    - "Sir 39:27-44:17 | attests | Hebrew Ben Sira scroll from Masada"
+    - "Ezek 35:11-38:14 | attests | Ezekiel scroll from Masada, including the dry bones vision"
+    - "Ps 81-85 | attests | Psalms scroll from Masada, close to the later Masoretic text"
+  related: [herod-the-great, josephus, dead-sea-scrolls, judaea-capta-coins, synagogues, qumran]
+  wikipedia: Masada
+  image: Masada aerial view
+  author_notes:
+    - Josephus credits the first fortification to 'Jonathan the high priest'. Herod built the Northern Palace, the Western Palace, storehouses, a bathhouse and cisterns. Yadin excavated in 1963-65 and Netzer published the architecture.
+    - The Roman siege by Flavius Silva (73 or 74 CE) left the best-preserved circumvallation, camps and siege ramp in the Roman world. The mass suicide account (Josephus, War 7) is debated. Yadin's reading of the 'lots' ostraca and the nationalist 'Masada myth' (Ben-Yehuda) deserve comment.
+    - Scroll finds include biblical books (among them Leviticus, Deuteronomy, Ezekiel and Psalms), Hebrew Ben Sira, and the Songs of the Sabbath Sacrifice, also known from Qumran. How they reached Masada is debated.
+    - The synagogue is among the earliest known in the land.
+  sources_to_check:
+    - Yadin, Masada - Herod's Fortress and the Zealots' Last Stand (1966)
+    - Netzer, The Architecture of Herod, the Great Builder (2006)
+
+- id: caesarea-maritima
+  aliases: [Caesarea, Straton's Tower, Caesarea Palaestinae]
+  cultures: [roman, jewish]
+  scope: >-
+    The harbour city Herod founded on the site of Straton's Tower, later the seat
+    of the Roman governors of Judaea. Covers the harbour, the temple of Roma and
+    Augustus, the palace, theatre and aqueducts, and the city's setting in Acts.
+  passages:
+    - "Luke 3:1 | attests | Pontius Pilate, governor of Judaea; the Pilate Stone from Caesarea's theatre"
+    - "Acts 8:40 | setting | Philip arrives at Caesarea"
+    - "Acts 10:1-48 | setting | Cornelius the centurion of the Italian Cohort"
+    - "Acts 12:19-23 | setting | Death of Herod Agrippa I at Caesarea"
+    - "Acts 21:8-14 | setting | Paul at the house of Philip the evangelist"
+    - "Acts 23:23-35 | setting | Paul brought to Felix and held in Herod's praetorium"
+    - "Acts 25:1-26:32 | setting | Paul before Festus and Agrippa II"
+  related: [pilate-stone, herod-the-great, imperial-cult, josephus, roads-and-highways]
+  wikipedia: Caesarea Maritima
+  image: Caesarea Maritima aqueduct
+  author_notes:
+    - Herod built the city c. 22-10/9 BCE. Its artificial harbour (Sebastos) used hydraulic concrete, and a temple of Roma and Augustus dominated the harbour.
+    - The promontory palace was probably later the governor's praetorium (Acts 23:35). The Pilate inscription (found 1961) names a Tiberieum.
+    - Josephus' account of Agrippa I's death (Ant. 19) parallels Acts 12:19-23. Civil strife at Caesarea helped trigger the revolt of 66 CE.
+    - The city became a major Christian centre (Origen, Eusebius). Keep that later history brief.
+  sources_to_check:
+    - NEAEHL
+    - Holum et al., King Herod's Dream - Caesarea on the Sea (1988)
+
+- id: capernaum
+  aliases: [Kefar Naḥum, Tell Hum]
+  cultures: [jewish, roman]
+  scope: >-
+    The fishing village on the northwest shore of the Sea of Galilee that served
+    as the base of Jesus' Galilean ministry. Covers the village houses, the
+    'House of Peter' and later church, and the white limestone synagogue and its
+    basalt foundations.
+  passages:
+    - "Matt 4:13 | setting | Jesus settles in Capernaum by the sea"
+    - "Mark 1:21-34 | setting | Teaching in the synagogue; healing at Simon's house"
+    - "Mark 2:1-12 | realia | Paralytic lowered through the roof; cf. basalt houses with light roofs"
+    - "Matt 9:1 | setting | Capernaum as Jesus' 'own town'"
+    - "Luke 7:1-10 | attests? | Centurion who 'built our synagogue'; basalt foundations beneath the later synagogue"
+    - "Matt 17:24 | setting | Temple tax collected at Capernaum"
+    - "Matt 11:23 | setting | Woe on Capernaum"
+    - "John 6:24-59 | setting | Bread of life discourse in the Capernaum synagogue"
+  related: [synagogues, galilee-boat, magdala-stone, stone-vessels-and-mikvaot, roads-and-highways]
+  wikipedia: Capernaum
+  image: Capernaum synagogue
+  author_notes:
+    - The Franciscans (Corbo, Loffreda) excavated the western part of the site and the Greek Orthodox the eastern part. Capernaum was a modest village of perhaps 1,000-1,500 people.
+    - The white limestone synagogue dates to the fourth or fifth century CE (dating debated). It stands on basalt walls and a floor that some date to the first century and identify with the synagogue of Luke 7:5. This is possible, not proven.
+    - The 'House of Peter' was a house venerated from an early date, then enclosed (fourth century) and replaced by an octagonal church (fifth century). The identification with Peter rests on tradition and graffiti and should be presented with caution.
+  sources_to_check:
+    - Reed, Archaeology and the Galilean Jesus (2000)
+    - NEAEHL
+
+- id: bethlehem
+  aliases: [Ephrathah, Beit Lahm]
+  cultures: [judahite, jewish]
+  scope: >-
+    The Judahite town south of Jerusalem associated with Rachel, Ruth, David and
+    the birth of Jesus. Covers its slight Iron Age and later evidence, the
+    Church of the Nativity, and the traditions that shaped its biblical role.
+  passages:
+    - "Gen 35:19 | setting? | Rachel buried on the way to Ephrath; 'that is, Bethlehem' may be a gloss (cf. 1 Sam 10:2)"
+    - "Ruth 1:1-2, 19-22 | setting | Naomi's family from Bethlehem in Judah"
+    - "1Sam 16:1-13 | setting | Samuel anoints David in Bethlehem"
+    - "1Sam 17:12 | setting | Jesse the Ephrathite of Bethlehem"
+    - "2Sam 23:14-17 | setting | Philistine garrison; water from the well of Bethlehem"
+    - "Mic 5:2 | concept | A ruler from Bethlehem Ephrathah (MT 5:1)"
+    - "Matt 2:1-16 | setting | Jesus' birth, the magi and the slaughter of infants"
+    - "Luke 2:4-15 | setting | Joseph goes to Bethlehem, the city of David"
+    - "John 7:42 | concept | Expectation that the Messiah comes from Bethlehem"
+  related: [david, messianic-expectations, census-of-quirinius, herod-the-great, seals-and-bullae, amarna-letters]
+  wikipedia: Bethlehem
+  image: Church of the Nativity Bethlehem
+  author_notes:
+    - A fiscal bulla reading 'Bethlehem' (bt lḥm), found in 2012 in the City of David, is the first extrabiblical Iron Age attestation. A reading of Bethlehem in Amarna letter EA 290 has been proposed but is disputed.
+    - Iron Age remains at Bethlehem itself are limited. The Church of the Nativity (Constantinian, rebuilt under Justinian) stands over a cave tradition attested by Justin Martyr.
+    - The historicity of Jesus' birth at Bethlehem is debated among New Testament scholars, given the theological use of Mic 5:2 and the differences between Matthew and Luke. Present the views evenly.
+    - Bethlehem of Zebulun (Josh 19:15) has been proposed as an alternative birthplace, but this is a minority view.
+  sources_to_check:
+    - NEAEHL
+
+- id: hebron
+  aliases: [Kiriath-arba, Tell Rumeida, Mamre, Machpelah]
+  cultures: [judahite]
+  scope: >-
+    The town in the Judean hills associated with Abraham, the cave of Machpelah
+    and David's first capital. Covers the ancient tell of Tell Rumeida, the
+    Herodian enclosure over the traditional tombs, and Mamre.
+  passages:
+    - "Gen 13:18 | setting | Abram settles by the oaks of Mamre at Hebron"
+    - "Gen 23 | setting | Abraham buys the cave of Machpelah from Ephron the Hittite"
+    - "Num 13:22 | setting | Hebron built seven years before Zoan in Egypt"
+    - "Josh 14:13-15 | setting | Caleb receives Hebron (formerly Kiriath-arba)"
+    - "2Sam 2:1-4 | setting | David anointed king of Judah at Hebron"
+    - "2Sam 5:1-5 | setting | David reigns seven and a half years at Hebron"
+    - "2Sam 15:7-10 | setting | Absalom proclaims himself king at Hebron"
+    - "2Chr 32:28 | attests? | Royal storehouses; 'ḥbrn' among the place names on lmlk stamps"
+    - "1Macc 5:65 | setting | Judas captures Hebron from the Idumeans"
+  related: [lmlk-seal-impressions, herod-the-great, david, bench-tombs, edomites, hittites-and-hethites]
+  wikipedia: Hebron
+  image: Cave of the Patriarchs Hebron Herodian enclosure
+  author_notes:
+    - The ancient tell is Tell Rumeida (Jebel er-Rumeidah), with a Middle Bronze city wall and Iron Age remains. A Middle Bronze cuneiform administrative tablet was found there.
+    - The monumental enclosure over the traditional Machpelah (Haram el-Khalil) is Herodian in style and generally attributed to Herod. Mamre (Ramat el-Khalil) has a Herodian enclosure and a Constantinian church.
+    - The 'Zoan' synchronism (Num 13:22) is a literary claim of antiquity. Tanis became a royal city only in the Twenty-first Dynasty.
+    - Hebron was Idumean in the Persian and Hellenistic periods. The present-day setting is politically sensitive; handle it neutrally.
+  sources_to_check:
+    - NEAEHL
+
+- id: jezreel
+  aliases: [Tel Jezreel, Zerʿin]
+  cultures: [israelite]
+  scope: >-
+    The Omride royal enclosure at Tel Jezreel overlooking the Jezreel Valley, and
+    the town associated with Ahab, Jezebel and Jehu's coup. Covers the
+    ninth-century compound, its role in chronology debates, and the agricultural
+    installations around the tell.
+  passages:
+    - "1Sam 29:1 | setting | Israel camps by the fountain in Jezreel"
+    - "1Kgs 18:45-46 | setting | Ahab rides to Jezreel with Elijah running ahead"
+    - "1Kgs 21 | setting | Naboth's vineyard beside Ahab's palace"
+    - "2Kgs 9:14-37 | setting | Jehu kills Joram and Jezebel at Jezreel"
+    - "2Kgs 10:1-11 | setting | Heads of Ahab's sons piled at the gate of Jezreel"
+    - "Hos 1:4-5 | setting | 'The blood of Jezreel' punished on the house of Jehu"
+  related: [ahab, jezebel, jehu, omri, tel-dan-stele, samaria, winepresses, low-chronology-debate]
+  wikipedia: Tel Jezreel
+  image: Tel Jezreel
+  author_notes:
+    - Ussishkin and Woodhead (1990-96) excavated a large rectangular enclosure with casemate walls, corner towers and a rock-cut moat. It was short-lived and of the ninth century. Its pottery is a fixed point for the low chronology debate, since it matches strata elsewhere once dated to Solomon.
+    - The destruction of the enclosure has been linked to Hazael or to Jehu's coup. Both are inferences.
+    - The renewed Jezreel Expedition (from 2013) documented rock-cut wine presses and agricultural installations near the tell. Any link to Naboth's vineyard is evocative, not evidential.
+    - Its function as a military or chariot base for the Omrides is a hypothesis.
+
+- id: tirzah
+  aliases: [Tell el-Farʿah (North)]
+  cultures: [israelite]
+  scope: >-
+    The early capital of the northern kingdom before Omri moved to Samaria,
+    usually identified with Tell el-Farʿah (North) northeast of Nablus. Covers the
+    identification, de Vaux's excavations and the Iron Age town.
+  passages:
+    - "Num 26:33 | language | Tirzah as a daughter of Zelophehad, a clan and place name"
+    - "Josh 12:24 | setting | King of Tirzah in the list of defeated kings"
+    - "1Kgs 14:17 | setting | Jeroboam's wife returns to Tirzah"
+    - "1Kgs 15:21, 33 | setting | Baasha reigns at Tirzah"
+    - "1Kgs 16:8-23 | setting | Zimri burns the palace; Omri reigns six years at Tirzah"
+    - "2Kgs 15:14-16 | setting | Menahem comes up from Tirzah"
+    - "Song 6:4 | imagery | The beloved 'beautiful as Tirzah, comely as Jerusalem'"
+  related: [omri, samaria, shechem, four-room-house, low-chronology-debate]
+  wikipedia: Tirzah (ancient city)
+  image: Tell el-Far'ah North
+  author_notes:
+    - De Vaux excavated the site in 1946-60. The identification with Tell el-Farʿah (North), proposed by Albright, is widely accepted.
+    - De Vaux linked an unfinished building phase to Omri's move to Samaria (1 Kgs 16:23-24). This interpretation and the dating of the Iron Age phases are debated in the light of the low chronology.
+    - Iron Age houses (including four-room houses) and de Vaux's argument for growing social stratification in the eighth century are relevant to prophetic social critique. The site also has major Chalcolithic and Early Bronze remains.
+  sources_to_check:
+    - NEAEHL
+
+- id: tarshish
+  aliases: [Tartessos (proposed), Ships of Tarshish]
+  cultures: [phoenician]
+  scope: >-
+    The distant western source of silver and metals reached by 'ships of
+    Tarshish', and the byword for the far end of the sea. Covers the proposed
+    identifications, the Phoenician metals trade, and the biblical usage of
+    'ships of Tarshish' as a class of ship.
+  passages:
+    - "Gen 10:4 | setting | Tarshish among the sons of Javan"
+    - "1Kgs 10:22 | realia | 'Ships of Tarshish' bringing gold, silver, ivory, apes and peacocks"
+    - "1Kgs 22:48 | realia | Jehoshaphat's ships of Tarshish wrecked at Ezion-geber (MT 22:49)"
+    - "Ps 72:10 | setting | Kings of Tarshish and the isles bring tribute"
+    - "Isa 2:16 | realia | Ships of Tarshish as symbols of pride"
+    - "Isa 23:1-14 | setting | 'Wail, O ships of Tarshish' over Tyre"
+    - "Jer 10:9 | realia | Beaten silver brought from Tarshish"
+    - "Ezek 27:12 | realia | Tarshish trades silver, iron, tin and lead with Tyre"
+    - "Jonah 1:3 | setting | Jonah flees toward Tarshish, the far west"
+    - "Isa 66:19 | setting | Tarshish among the distant nations"
+  related: [phoenicians, phoenician-seafaring, tyre, ophir, table-of-nations, nora-stone]
+  wikipedia: Tarshish
+  image: Phoenician ship relief Nineveh Luli
+  author_notes:
+    - The leading proposal is Tartessos in southwestern Iberia. Others include Sardinia (a reading of the Nora Stone is debated), Tarsus in Cilicia (Josephus) and a generic 'far west'. An Esarhaddon inscription names Tarsisi among lands of the sea (verify the text).
+    - Lead-isotope studies of silver hoards from the southern Levant point to Iberian and Sardinian sources from the tenth or ninth century BCE (Eshel et al., PNAS 2019; verify). This supports early Phoenician western trade.
+    - The phrase 'ship of Tarshish' probably denotes a type of long-haul ship. Chronicles reinterprets it as ships sailing to Tarshish from Ezion-geber (2 Chr 9:21; 20:36), which is geographically impossible for a western Tarshish.
+  sources_to_check:
+    - Aubet, The Phoenicians and the West (2nd ed., 2001)
+
+- id: ophir
+  aliases: [Gold of Ophir]
+  cultures: [arabian]
+  scope: >-
+    The unlocated land famed for fine gold, reached by Solomon's and Hiram's Red
+    Sea fleet. Covers the biblical evidence, the Tell Qasile ostracon, and the
+    proposed locations.
+  passages:
+    - "Gen 10:29 | setting | Ophir among the sons of Joktan, with South Arabian names"
+    - "1Kgs 9:26-28 | setting | Solomon and Hiram's fleet sails from Ezion-geber to Ophir"
+    - "1Kgs 10:11 | realia | Gold, almug wood and precious stones from Ophir"
+    - "1Kgs 22:48 | setting | Jehoshaphat's ships fail to reach Ophir (MT 22:49)"
+    - "1Chr 29:4 | realia | Gold of Ophir given for the temple"
+    - "Job 28:16 | language | 'Gold of Ophir' as a byword for the finest gold"
+    - "Ps 45:9 | imagery | The queen in gold of Ophir (MT 45:10)"
+    - "Isa 13:12 | imagery | Humans made rarer than the gold of Ophir"
+  related: [tell-qasile-ostracon, sheba, tarshish, phoenician-seafaring, hiram-of-tyre, solomon, diplomatic-gift-exchange]
+  wikipedia: Ophir
+  image: Tell Qasile ostracon gold of Ophir
+  author_notes:
+    - The location is unknown. Candidates include southwestern Arabia, the Horn of Africa (linked with Egyptian Punt) and India (LXX Sōphira; Josephus). No archaeological identification exists.
+    - The Tell Qasile ostracon ('gold of Ophir to Beth-horon, 30 shekels'; eighth century) shows that 'Ophir gold' was a recognized grade or origin of gold.
+    - Nineteenth-century identifications of Ophir with Great Zimbabwe, and later ones with the Americas, are colonial-era or fringe curiosities. Mention them only as misconceptions.
+
+- id: sheba
+  aliases: [Saba, Sabaeans, Queen of the South]
+  cultures: [arabian]
+  date: [-800, 275]
+  circa: true
+  scope: >-
+    The South Arabian kingdom of Saba centred on Marib in Yemen, a major supplier
+    of frankincense and myrrh, and its portrayal in the Bible, above all in the
+    visit of the queen of Sheba. Covers Sabaean history and inscriptions in
+    outline and distinguishes Sheba from Seba and North Arabian groups.
+  passages:
+    - "Gen 10:7, 28 | setting | Sheba as both a Cushite and a Joktanite name"
+    - "1Kgs 10:1-13 | setting | The queen of Sheba's visit to Solomon"
+    - "Job 1:15 | setting | Sabeans raid Job's herds"
+    - "Job 6:19 | setting | 'The caravans of Sheba'"
+    - "Ps 72:10, 15 | setting | Kings of Sheba bring gifts; gold of Sheba"
+    - "Isa 60:6 | realia | Camels from Sheba bringing gold and frankincense"
+    - "Jer 6:20 | realia | Frankincense from Sheba"
+    - "Ezek 27:22-23 | setting | Merchants of Sheba trade spices, gems and gold with Tyre"
+    - "Matt 12:42 | setting | The 'queen of the South' at the judgment"
+  related: [incense-trade, camels-and-domestication, qedarites-and-arabs, ophir, diplomatic-gift-exchange, solomon, cush]
+  wikipedia: Sheba
+  image: Marib Temple of Awwam
+  author_notes:
+    - Saba was centred at Marib (great dam, temples of Almaqah such as Awwam and Barʾan). Assyrian texts mention Sabaeans under Tiglath-pileser III, Itʾamar the Sabaean under Sargon II, and Karibʾil under Sennacherib.
+    - Sabaean monumental inscriptions begin around the eighth century BCE (the chronology is still debated). No queen of Saba is known from inscriptions. The visit story may reflect later (eighth to seventh century) trade realities. Present the debate, not a verdict.
+    - Distinguish Sheba (Saba) from Seba (Gen 10:7; Isa 43:3; 45:14), possibly in Africa, and note the North Arabian Sabaeans of Job. The Ethiopian Kebra Nagast tradition is a later reception.
+  sources_to_check:
+    - Retsö, The Arabs in Antiquity (2003)
+
+- id: ararat-urartu
+  aliases: [Urartu, Uruaṭri, Biainili, Kingdom of Van]
+  cultures: [urartian]
+  date: [-850, -590]
+  circa: true
+  scope: >-
+    The Iron Age kingdom of Urartu around Lake Van, Assyria's northern rival,
+    called Ararat in the Hebrew Bible. Covers Urartian history and culture in
+    outline and the biblical references, including the 'mountains of Ararat' of
+    the flood story.
+  passages:
+    - "Gen 8:4 | setting | The ark rests on 'the mountains of Ararat', a region rather than one peak"
+    - "2Kgs 19:37 | setting | Sennacherib's assassins flee to the land of Ararat"
+    - "Isa 37:38 | setting | Sennacherib's assassins flee to the land of Ararat"
+    - "Jer 51:27 | setting | Ararat, Minni and Ashkenaz summoned against Babylon"
+    - "Tob 1:21 | setting | Sennacherib's sons flee to the mountains of Ararat"
+  related: [flood-traditions, gilgamesh-epic, sennacherib, esarhaddon, assyria, medes]
+  wikipedia: Urartu
+  image: Van Fortress Tushpa
+  author_notes:
+    - Hebrew ʾărārāṭ corresponds to Assyrian Urarṭu/Uruaṭri. The kingdom, which called itself Biainili, had its capital at Tushpa (Van). It spoke Urartian, a language related to Hurrian, and rivalled Assyria in the ninth to seventh centuries.
+    - Gen 8:4 names a mountainous region. The identification with the volcano Ağrı Dağı ('Mount Ararat') is much later. Other traditions locate the landing at Jebel Judi (Syriac and Qurʾan), and Gilgamesh XI has Mount Nimush.
+    - Correct claims of discovering the ark (e.g. the Durupınar formation) as pseudo-archaeology.
+    - Urartu ended in the early sixth century, probably under Median or Scythian pressure (the details are debated).
+  sources_to_check:
+    - Zimansky, Ecology and Empire - The Structure of the Urartian State (1985)
+
+- id: canaanites
+  aliases: [Canaan, Kinaḫḫu, Kinaḫni]
+  cultures: [canaanite]
+  scope: >-
+    The Bronze and early Iron Age population of the southern Levant and the
+    biblical category 'Canaanites'. Covers the term in ancient Near Eastern sources,
+    Canaanite material culture, the continuity between Canaanites and early Israel,
+    and the ideological use of the label in the Bible.
+  passages:
+    - "Gen 10:15-19 | setting | Canaan's descendants and the borders of Canaanite territory"
+    - "Gen 12:6 | setting | 'At that time the Canaanites were in the land'"
+    - "Gen 15:18-21 | setting | List of the peoples of the land"
+    - "Exod 3:8 | setting | Canaanites first in the stereotyped list of nations"
+    - "Deut 7:1-5 | polemic | Seven nations to be destroyed, with no intermarriage or treaty"
+    - "Judg 1:27-33 | setting | Canaanites remain among the tribes"
+    - "Isa 19:18 | language | 'The language of Canaan', i.e. Hebrew"
+    - "Ezek 16:3 | setting | 'Your origin and your birth were in the land of the Canaanites'"
+    - "Prov 31:24 | language | kĕnaʿănî as 'merchant'"
+    - "Matt 15:22 | setting | The 'Canaanite woman' (Mark 7:26: Syrophoenician)"
+  related: [amarna-letters, ugarit, emergence-of-israel, ethnicity-and-material-culture, herem, table-of-nations, amorites, phoenicians]
+  wikipedia: Canaanites
+  image: Megiddo ivories Canaanite
+  author_notes:
+    - The term Canaan (Kinaḫḫu, Kinaḫni) appears in Mari, Alalakh (Idrimi), Amarna and Egyptian sources. In the Late Bronze Age Canaan was an Egyptian province.
+    - Archaeologically, early Israel emerged largely from within the local population, with continuity in pottery, language and script. In the Bible 'Canaanite' is often an ideological foil rather than an ethnographic description.
+    - Ugaritic texts treat a 'man of Canaan' as a foreigner. Be careful about labelling Ugarit 'Canaanite'.
+    - Ancient DNA (e.g. Agranat-Tamir et al., Cell 2020; verify) shows strong continuity in Bronze Age Levantine populations. The lists of seven nations are stereotyped and not ethnographic.
+  sources_to_check:
+    - Killebrew, Biblical Peoples and Ethnicity (2005)
+    - Moran, The Amarna Letters (1992)
+
+- id: amorites
+  aliases: [Amurru, MAR.TU]
+  cultures: [amorite]
+  scope: >-
+    The West Semitic 'westerners' (Akkadian Amurrum) of third- and
+    second-millennium Mesopotamia and Syria, the Late Bronze kingdom of Amurru,
+    and the biblical Amorites as a pre-Israelite people. Covers how the term's
+    meaning shifts across sources.
+  passages:
+    - "Gen 10:16 | setting | Amorites among Canaan's descendants"
+    - "Gen 14:13 | setting | Mamre the Amorite, Abram's ally"
+    - "Gen 15:16 | concept | 'The iniquity of the Amorites is not yet complete'"
+    - "Num 13:29 | setting | Amorites in the hill country"
+    - "Num 21:21-35 | setting | Sihon and Og, kings of the Amorites"
+    - "Josh 10:5 | setting | Five kings of the Amorites"
+    - "Josh 24:15 | setting | 'The gods of the Amorites in whose land you are living'"
+    - "Ezek 16:3, 45 | setting | 'Your father was an Amorite'"
+    - "Amos 2:9-10 | imagery | Amorites tall as cedars and strong as oaks"
+  related: [mari-letters, mari, canaanites, hammurabi, rephaim, hyksos]
+  wikipedia: Amorites
+  image: Investiture of Zimri-Lim painting
+  author_notes:
+    - In the third millennium MAR.TU / Amurrum referred to West Semitic pastoral groups. Many Old Babylonian dynasties, including Hammurabi's and Zimri-Lim's, were of Amorite descent.
+    - The Late Bronze kingdom of Amurru (Abdi-Ashirta, Aziru) appears in the Amarna letters and Hittite treaties. Later, Assyrian 'Amurru' means the west in general.
+    - Biblical usage varies. 'Amorite' can mean a hill-country people, the Transjordanian kingdoms, or a general name for the pre-Israelite population. Some correlate the 'Amorite' and 'Canaanite' labels with different sources.
+    - The 'Amorite hypothesis', which placed the patriarchs within Middle Bronze Amorite migrations (Albright), is outdated.
+  sources_to_check:
+    - ABD, s.v. "Amorites"
+
+- id: hittites-and-hethites
+  aliases: [Hittites, Sons of Heth, Hatti, Neo-Hittites]
+  cultures: [hittite, luwian]
+  scope: >-
+    The Hittites of the Bible and their possible referents: the Late Bronze
+    Hittite empire of Anatolia, the Iron Age Neo-Hittite states of Syria, and the
+    'sons of Heth' living in Canaan in Genesis. The entry sets out how these
+    relate and where the biblical usage fits.
+  passages:
+    - "Gen 15:20 | setting | Hittites in the list of peoples of the land"
+    - "Gen 23:3-20 | setting | Abraham buys Machpelah from Ephron and the 'sons of Heth'"
+    - "Gen 26:34; 27:46 | setting | Esau's Hittite wives"
+    - "Num 13:29 | setting | Hittites in the hill country"
+    - "Josh 1:4 | language | 'All the land of the Hittites', cf. Assyrian māt Ḫatti for Syria-Palestine"
+    - "2Sam 11:3 | setting | Uriah the Hittite"
+    - "1Kgs 10:28-29 | setting | Horses and chariots exported to the kings of the Hittites and Aram"
+    - "1Kgs 11:1 | setting | Hittite women among Solomon's wives"
+    - "2Kgs 7:6 | setting | Arameans fear the kings of the Hittites and of Egypt"
+    - "Ezek 16:3, 45 | setting | 'Your mother was a Hittite'"
+  related: [hittite-vassal-treaties, hittite-laws, egyptian-hittite-peace-treaty, kadesh-battle-reliefs, carchemish, hamath, covenant-and-treaty-form, hurrians-and-horites]
+  wikipedia: Hittites
+  image: Hattusa Lion Gate
+  author_notes:
+    - Distinguish three referents. (1) The Late Bronze Hittite empire centred at Hattusa (c. 1650-1180 BCE). (2) The Iron Age Neo-Hittite (Luwian and Luwian-Aramean) states such as Carchemish and Hamath, the 'kings of the Hittites' in Kings and the 'Hatti' of Assyrian texts. (3) The 'sons of Heth' in Canaan (Gen 23), whose names are Semitic, probably a literary or local category rather than Anatolian Hittites.
+    - Mendenhall's comparison of Hittite vassal treaties with biblical covenant form remains important but is debated against the Neo-Assyrian treaties. Cross-refer the treaty entries.
+    - The Yahwistic name of Uriah 'the Hittite' leaves his ethnicity uncertain.
+  sources_to_check:
+    - Bryce, The Kingdom of the Hittites (new ed., 2005)
+    - Collins, The Hittites and Their World (2007)
+
+- id: hurrians-and-horites
+  aliases: [Hurrians, Horites, Mitanni, Hurri]
+  cultures: [hurrian]
+  scope: >-
+    The Hurrians, a non-Semitic people of northern Mesopotamia and Syria
+    (Urkesh, Mitanni, Nuzi, Alalakh), and the biblical Horites of Seir. Covers
+    Hurrian history and influence in the Levant and the debated equation of
+    Horites (and Hivites) with Hurrians.
+  passages:
+    - "Gen 14:6 | setting | Horites in the hill country of Seir"
+    - "Gen 36:20-30 | setting | Genealogy of Seir the Horite"
+    - "Deut 2:12, 22 | setting | Horites displaced from Seir by Esau's descendants"
+    - "Gen 34:2 | setting? | Hamor 'the Hivite' (LXX: Horite)"
+    - "Josh 9:7 | setting? | Gibeonites as Hivites (LXX: Horites)"
+  related: [nuzi-texts, amarna-letters, edomites, hittites-and-hethites, teraphim, adoption]
+  wikipedia: Hurrians
+  image: Urkesh Tish-atal foundation lion
+  author_notes:
+    - The Hurrians are attested from the late third millennium (Urkesh). Mitanni was a major power in the fifteenth and fourteenth centuries; Tushratta's Amarna letters are an example. Hurrian personal and divine names occur in Late Bronze Canaan, as in Abdi-Heba of Jerusalem, and Egyptian 'Ḫurru' can denote Syria-Palestine.
+    - The equation Horite = Hurrian is debated. The Horites of Gen 36 bear Semitic names, and some read ḥōrî as 'cave dweller' or a local group name. Some link the Hivites with Hurrians instead. The LXX evidence should be checked verse by verse.
+    - Nuzi-based explanations of patriarchal customs (Speiser, Gordon) were largely refuted by Thompson and Van Seters in the 1970s. Present them historiographically.
+  sources_to_check:
+    - Wilhelm, The Hurrians (1989)
+
+- id: philistines
+  aliases: [Peleset, Pelishtim, Pentapolis]
+  cultures: [philistine]
+  date: [-1175, -604]
+  circa: true
+  scope: >-
+    The people of the southern coastal plain whose five cities (Gaza, Ashkelon,
+    Ashdod, Ekron, Gath) were Israel's western neighbours and rivals. Covers their
+    Egyptian and Assyrian attestations, Aegean-linked material culture and its
+    development, language and religion, and the biblical portrait.
+  passages:
+    - "Gen 26:1-18 | setting | Isaac and Abimelech, 'king of the Philistines' at Gerar (anachronistic)"
+    - "Josh 13:2-3 | language | The five 'lords' (sĕrānîm), a title probably of non-Semitic origin"
+    - "Judg 13-16 | setting | The Samson cycle"
+    - "1Sam 4-6 | setting | Capture and return of the ark"
+    - "1Sam 13:19-22 | realia | Philistine control of smithing"
+    - "1Sam 17:4-7 | realia? | Goliath's armour, a mixture of Aegean and other elements"
+    - "1Sam 31 | setting | Saul's death on Gilboa"
+    - "Amos 9:7 | setting | Philistines brought from Caphtor"
+    - "Jer 47:4 | setting | 'The remnant of the coastland of Caphtor'"
+  related: [sea-peoples, medinet-habu-sea-peoples, gath, ekron, ashkelon, ashdod, pig-avoidance, dagon]
+  wikipedia: Philistines
+  image: Medinet Habu Peleset relief
+  author_notes:
+    - The Peleset appear in Ramesses III's Medinet Habu inscriptions (Year 8). Assyrian texts call them Palastu or Pilistu, the source of the name Palestine.
+    - Aegean-style material culture appears from the early twelfth century, including locally made Mycenaean IIIC pottery, hearths, pig consumption and loom weights. This was quickly entangled with local Canaanite culture. Present the aDNA results from Ashkelon (2019) with care.
+    - The 'Philistines' of Gen 21 and 26 are anachronistic.
+    - Few Philistine-language texts survive. Names such as Achish (Ikausu) and the title seren (cf. Greek tyrannos) are suggestive. The Ekron inscription is in a Phoenician-type script and language.
+    - Goliath's armour has been read as Aegean (Yadin) or as a composite reflecting later, perhaps seventh-century, hoplite equipment (Finkelstein).
+  sources_to_check:
+    - Dothan, The Philistines and Their Material Culture (1982)
+    - Killebrew, Biblical Peoples and Ethnicity (2005)
+
+- id: sea-peoples
+  aliases: [Peoples of the Sea]
+  cultures: [philistine, egyptian]
+  date: [-1210, -1170]
+  circa: true
+  scope: >-
+    The groups called 'Sea Peoples' in modern scholarship, after Egyptian texts
+    of Merneptah and Ramesses III that describe invaders 'from the islands'.
+    Covers the sources, the groups named, and their role in the Late Bronze
+    Age collapse and in the settlement of the Philistines and others on the
+    Levantine coast.
+  passages:
+    - "Gen 10:14 | setting | Caphtorim in the Table of Nations (the Philistine clause is probably misplaced)"
+    - "Deut 2:23 | setting | Caphtorim from Caphtor destroy the Avvim as far as Gaza"
+    - "Amos 9:7 | setting | Philistines brought from Caphtor"
+    - "Jer 47:4 | setting | Philistines, 'the remnant of the coastland of Caphtor'"
+    - "Ezek 25:16 | setting | Cherethites (Cretans?) and the remnant of the seacoast"
+    - "Zeph 2:5 | setting | 'Nation of the Cherethites' on the seacoast"
+    - "2Sam 8:18 | setting? | Cherethites and Pelethites in David's guard"
+    - "Josh 17:11 | setting | Dor, a Tjeker (Sikil) town in the Report of Wenamun"
+  related: [philistines, medinet-habu-sea-peoples, report-of-wenamun, merneptah-stele, ugarit, hittites-and-hethites]
+  wikipedia: Sea Peoples
+  image: Medinet Habu Sea Peoples naval battle relief
+  author_notes:
+    - The term is modern (Maspero). The Egyptian sources are Merneptah's Libyan war texts and the Ramesses III Year 8 inscriptions and reliefs at Medinet Habu. They name the Peleset, Tjeker (Sikil), Shekelesh, Denyen, Weshesh, Sherden, Lukka and Ekwesh.
+    - The Late Bronze collapse had many causes (drought, systems collapse, earthquakes, migration). Avoid a single-cause story in which the Sea Peoples destroyed everything.
+    - Sherden appear earlier as Egyptian mercenaries (e.g. in the Kadesh reliefs). The proposed link between the Denyen and the tribe of Dan (Yadin) is speculative.
+    - Ugarit's final letters about enemy ships are often cited. Cross-refer ugarit.
+  sources_to_check:
+    - Killebrew and Lehmann (eds.), The Philistines and Other 'Sea Peoples' in Text and Archaeology (2013)
+
+- id: arameans
+  aliases: [Aram, Arameans, Ahlamu]
+  cultures: [aramean]
+  scope: >-
+    The Aramaic-speaking peoples and states of Iron Age Syria and upper
+    Mesopotamia (Aram-Damascus, Zobah, Arpad, Samʾal, Guzana and others).
+    Covers their emergence, their relations with Israel, Assyrian conquest, and
+    the biblical memory of Aramean ancestry.
+  passages:
+    - "Gen 22:20-24 | setting | Aram as a grandson of Nahor"
+    - "Gen 25:20 | setting | Rebekah daughter of Bethuel the Aramean of Paddan-aram"
+    - "Gen 31:47 | language | Laban names the cairn in Aramaic (Jegar-sahadutha), Jacob in Hebrew (Galeed)"
+    - "Deut 26:5 | concept | 'A wandering Aramean was my father'"
+    - "2Sam 8:3-12 | setting | David defeats Hadadezer of Zobah and the Arameans of Damascus"
+    - "1Kgs 20 | setting | Ben-hadad's wars with Ahab"
+    - "2Kgs 5 | setting | Naaman the Aramean commander"
+    - "2Kgs 13:3-7, 22-25 | setting | Hazael and Ben-hadad oppress Israel"
+    - "2Kgs 18:26 | language | Aramaic as the language of diplomacy"
+    - "Amos 9:7 | setting | Arameans brought from Kir"
+  related: [aramaic-language, hazael, ben-hadad, damascus, tel-dan-stele, zakkur-stele, sefire-treaties, tell-fekheriye-statue]
+  wikipedia: Arameans
+  image: Tell Halaf orthostat relief
+  author_notes:
+    - The first secure mention is in Tiglath-pileser I (c. 1100, Aḫlamû-Aramaya). Earlier references are debated.
+    - Aramean states (Bit-Adini, Bit-Agusi/Arpad, Samʾal, Guzana, Zobah, Damascus) often had mixed Luwian-Aramean cultures. Their inscriptions (Tell Fekheriye, Zakkur, Sefire, Tel Dan) are key sources.
+    - The patriarchal 'Aramean' kinship traditions (Gen 24-31; Deut 26:5) raise questions of date and anachronism. The meaning of ʾōbēd in Deut 26:5 ('wandering' or 'perishing') is debated.
+    - Aramaic spread as the lingua franca of the Assyrian and Persian empires. Cross-refer aramaic-language.
+  sources_to_check:
+    - Younger, A Political History of the Arameans (2016)
+
+- id: moabites
+  aliases: [Moab, Moabites]
+  cultures: [moabite]
+  scope: >-
+    The Iron Age kingdom of Moab on the plateau east of the Dead Sea and its
+    people. Covers Moabite sources (above all the Mesha Stele), state formation,
+    religion and language, and Moab's varied portrayal in the Bible.
+  passages:
+    - "Gen 19:30-38 | polemic | Moab's origin from Lot's incestuous union"
+    - "Num 21:26-30 | setting | Sihon's conquest of Moabite land; the Song of Heshbon"
+    - "Num 22-24 | setting | Balak of Moab hires Balaam"
+    - "Deut 23:3-6 | practice | Moabites excluded from the assembly (MT 23:4-7)"
+    - "Judg 3:12-30 | setting | Ehud kills Eglon king of Moab"
+    - "Ruth 1:1-4 | setting | Ruth the Moabite"
+    - "2Sam 8:2 | setting | David subdues Moab"
+    - "2Kgs 3:4-27 | event | Mesha's revolt and the Israelite campaign; sacrifice on the wall"
+    - "Jer 48 | setting | Oracle against Moab, closely related to Isa 15-16"
+    - "Amos 2:1-3 | setting | Moab burned the bones of the king of Edom"
+  related: [mesha-stele, chemosh, dibon, deir-alla-inscription, ammonites, edomites, omri, herem]
+  wikipedia: Moab
+  image: Balua stele
+  author_notes:
+    - Moab appears in Ramesses II's Luxor reliefs. The Mesha Stele is the principal Moabite source, and Moabite kings appear as tributaries in Assyrian texts.
+    - Routledge's work frames Moabite state formation. Key sites include Dhiban, Khirbat al-Mudayna, and Khirbat Ataruz (Ataroth), whose temple and cult objects relate to the Mesha Stele.
+    - The Moabite language is very close to Hebrew.
+    - Biblical attitudes range from polemic (Gen 19) and exclusion (Deut 23, used in Ezra-Nehemiah) to the positive portrait of Ruth. Discuss these without harmonizing.
+  sources_to_check:
+    - Routledge, Moab in the Iron Age (2004)
+    - Bienkowski, Early Edom and Moab (1992)
+
+- id: ammonites
+  aliases: [Ammon, Bene-ʿAmmon, Bit-Ammon]
+  cultures: [ammonite]
+  scope: >-
+    The Iron Age kingdom of Ammon centred on Rabbah (Amman) and its people.
+    Covers Ammonite inscriptions, seals and statuary, relations with Assyria and
+    Babylon, and the biblical portrayal from the conquest stories to Nehemiah.
+  passages:
+    - "Gen 19:38 | polemic | Ben-ammi, ancestor of the Ammonites, born of incest"
+    - "Deut 2:19, 37 | setting | Ammonite territory not given to Israel"
+    - "Deut 23:3-6 | practice | Ammonites excluded from the assembly (MT 23:4-7)"
+    - "Judg 10:6-11:33 | setting | Jephthah's war with Ammon"
+    - "1Sam 11 | setting | Nahash besieges Jabesh-gilead"
+    - "2Sam 10-12 | setting | David's war with Hanun and the siege of Rabbah"
+    - "1Kgs 11:5, 7 | setting | Milcom, 'the abomination of the Ammonites'"
+    - "Jer 40:14 | attests | Baalis king of the Ammonites; probably Baʿalyašaʿ of the Tell el-ʿUmeiri seal impression"
+    - "Amos 1:13-15 | setting | Ammonites ripped open pregnant women in Gilead"
+    - "Neh 2:10, 19 | setting | Tobiah 'the Ammonite official'"
+  related: [rabbah, milkom, tell-siran-bottle-and-ammonite-inscriptions, moabites, seals-and-bullae, david]
+  wikipedia: Ammon
+  image: Ammonite statue Amman Citadel Museum
+  author_notes:
+    - Assyrian texts call the kingdom Bit-Ammon and name kings such as Sanipu and Amminadab. Ammonite inscriptions (Amman Citadel, Tell Siran bottle) and a rich corpus of seals document the language and onomastics.
+    - A seal impression from Tell el-ʿUmeiri naming Milkomʾur, servant of Baʿalyašaʿ, is widely linked with Baalis of Jer 40:14.
+    - Limestone statues from Amman, some wearing atef crowns, show Egyptianizing royal iconography.
+    - The Tobiad family of the Hellenistic period (ʿIraq al-Amir) may continue Nehemiah's Tobiah, but this is debated.
+  sources_to_check:
+    - MacDonald and Younker (eds.), Ancient Ammon (1999)
+
+- id: edomites
+  aliases: [Edom, Seir, Idumea, Idumeans]
+  cultures: [edomite]
+  scope: >-
+    The land and people of Edom in southern Transjordan and, later, Idumea in the
+    southern Judean hills. Covers Egyptian and Assyrian evidence, the debate over
+    when the Edomite state formed, Edomite religion and expansion, and the
+    hostility toward Edom in biblical texts after 586.
+  passages:
+    - "Gen 25:30 | language | Esau called Edom from the 'red stuff' (ʾādōm)"
+    - "Gen 36:31-39 | setting | Kings who reigned in Edom before Israel had kings"
+    - "Num 20:14-21 | setting | Edom refuses Israel passage"
+    - "Deut 23:7-8 | practice | 'You shall not abhor any of the Edomites, for they are your kin' (MT 23:8-9)"
+    - "2Sam 8:13-14 | setting | David's garrisons in Edom"
+    - "2Kgs 8:20-22 | setting | Edom revolts against Judah under Joram"
+    - "2Kgs 14:7 | setting | Amaziah defeats Edom and takes Sela"
+    - "Ps 137:7 | setting | Edomites cheer Jerusalem's fall"
+    - "Obad 10-14 | setting | Edom's betrayal of Judah"
+    - "Mal 1:2-5 | concept | 'I have loved Jacob but I have hated Esau'; Edom laid waste"
+  related: [bozrah, qos, faynan, petra-and-sela, shasu, nabataeans, yhwh-origins, hurrians-and-horites]
+  wikipedia: Edom
+  image: Horvat Qitmit Edomite goddess head
+  author_notes:
+    - Egyptian texts mention Shasu of Edom and Seir (Papyrus Anastasi VI). Assyrian sources name Edomite kings (Qaus-malaka, Qaus-gabri). Qos is the national god.
+    - When the state formed is debated, with options ranging from the late seventh century (Bienkowski, centred on Bozrah) or much earlier, from the Faynan copper evidence of the eleventh to ninth centuries (Levy, Ben-Yosef).
+    - In the seventh and sixth centuries Edom expanded into the Negev (Horvat Qitmit shrine, ʿEn Ḥaṣeva). Arad ostracon 24 warns of an Edomite threat. Later Idumea was absorbed by the Hasmoneans, and Herod was of Idumean descent.
+    - Post-586 anti-Edom polemic (Obadiah, Ps 137, Lam 4:21-22) should be read against both these material realities and kinship traditions (Deut 23:7).
+  sources_to_check:
+    - Bienkowski (ed.), Early Edom and Moab (1992)
+    - Levy, Najjar and Ben-Yosef (eds.), New Insights into the Iron Age Archaeology of Edom, Southern Jordan (2014)
+
+- id: midianites-and-kenites
+  aliases: [Midian, Kenites, Qenites]
+  cultures: [arabian]
+  scope: >-
+    The Midianites of northwestern Arabia and the Kenites, a group linked with
+    Moses' father-in-law and with metalworking. Covers the biblical traditions,
+    the archaeology of the Hejaz (Qurayyah) and the southern Arabah, and the
+    Midianite-Kenite hypothesis of YHWH's origins.
+  passages:
+    - "Gen 25:1-4 | setting | Midian, son of Abraham and Keturah"
+    - "Gen 37:28, 36 | setting | Midianite (Ishmaelite) traders sell Joseph"
+    - "Exod 2:15-22 | setting | Moses flees to Midian and marries Zipporah"
+    - "Exod 18 | setting | Jethro, priest of Midian, sacrifices and advises Moses"
+    - "Num 10:29-32 | setting | Hobab the Midianite asked to guide Israel"
+    - "Num 25:6-18 | setting | Cozbi the Midianite at Baal Peor"
+    - "Judg 1:16 | setting | Kenite descendants of Moses' father-in-law settle near Arad"
+    - "Judg 4:11, 17 | setting | Heber the Kenite and Jael"
+    - "Judg 6-8 | setting | Gideon against Midianite camel raiders"
+    - "1Sam 15:6 | setting | Saul spares the Kenites"
+  related: [yhwh-origins, shasu, timna, camels-and-domestication, edomites, amalekites, qedarites-and-arabs]
+  wikipedia: Midian
+  image: Qurayyah painted pottery
+  author_notes:
+    - Midian is generally located in the northern Hejaz, east of the Gulf of Aqaba. Qurayyah painted ware (thirteenth to twelfth centuries), found also at Timna and elsewhere in the Arabah, is often called 'Midianite pottery'.
+    - The Midianite-Kenite hypothesis (Budde, Rowley, Blenkinsopp and others) traces YHWH worship to southern groups. It is debated but well within the mainstream. Cross-refer yhwh-origins and shasu.
+    - Midianites are also called Ishmaelites (Gen 37; Judg 8:24). Their camels (Judg 6:5) raise questions of date in the light of camel domestication.
+    - The etymological link of qênî to 'smith' (cf. Gen 4:22) is suggestive, not proven.
+  sources_to_check:
+    - ABD, s.v. "Midian"
+
+- id: amalekites
+  aliases: [Amalek]
+  scope: >-
+    The Amalekites, a nomadic people of the Negev and Sinai in biblical
+    tradition and Israel's archetypal enemy. Covers the biblical evidence, the
+    absence of extrabiblical attestation, and the ethical and reception issues
+    raised by the Amalek texts.
+  passages:
+    - "Gen 14:7 | setting | 'The country of the Amalekites' (anachronistic)"
+    - "Gen 36:12, 16 | setting | Amalek as a grandson of Esau"
+    - "Exod 17:8-16 | setting | Battle at Rephidim; perpetual war against Amalek"
+    - "Num 24:20 | setting | Amalek 'first among the nations' in Balaam's oracle"
+    - "Deut 25:17-19 | concept | Command to 'blot out the remembrance of Amalek'"
+    - "Judg 6:3 | setting | Amalekites join Midianite raids"
+    - "1Sam 15 | practice | Saul's ḥērem against Amalek; Agag spared"
+    - "1Sam 30 | setting | Amalekites raid Ziklag; David's pursuit"
+    - "1Chr 4:42-43 | setting | Simeonites destroy the remnant of Amalek"
+    - "Esth 3:1 | concept | Haman 'the Agagite' as heir of Agag"
+  related: [herem, edomites, midianites-and-kenites, kadesh-barnea, conquest-accounts-and-war-rhetoric, treatment-of-captives]
+  wikipedia: Amalek
+  image: null
+  author_notes:
+    - No ancient Near Eastern text names Amalek, and no material culture can be assigned to it. Say this plainly. Proposed archaeological identifications are speculative.
+    - Amalek functions as a theological archetype (Deut 25; 1 Sam 15; Esther's Agagite) and has a long reception in Jewish tradition. Address modern political misuse of the texts carefully and neutrally.
+    - No culture tag is assigned because there is no extrabiblical evidence. The editor may wish to add one.
+  sources_to_check:
+    - ABD, s.v. "Amalek"
+
+- id: phoenicians
+  aliases: [Phoenicia, Sidonians, Kinaḫḫu]
+  cultures: [phoenician]
+  date: [-1200, -332]
+  circa: true
+  scope: >-
+    The Iron Age city-states of the Lebanese coast (Tyre, Sidon, Byblos, Arwad)
+    and their Mediterranean networks and colonies. Covers Phoenician history,
+    language and script, religion, crafts and seafaring, and their close ties with
+    Israel and Judah.
+  passages:
+    - "1Kgs 5:1-12 | setting | Hiram supplies cedar and craftsmen for the temple (MT 5:15-26)"
+    - "1Kgs 7:13-14 | setting | Hiram the bronzesmith from Tyre"
+    - "1Kgs 9:26-28 | setting | Phoenician sailors in Solomon's Red Sea fleet"
+    - "1Kgs 16:31-33 | setting | Jezebel, daughter of Ethbaal of the Sidonians; Baal cult in Samaria"
+    - "Isa 23 | setting | Oracle on the maritime wealth of Tyre and Sidon"
+    - "Ezek 27 | setting | Lament over Tyre as a merchant ship; trade inventory"
+    - "Ezek 28:1-19 | setting | Oracle against the prince and king of Tyre"
+    - "Joel 3:4-6 | setting | Tyre and Sidon sell Judeans to the Greeks (MT 4:4-6)"
+    - "Mark 7:26 | setting | The Syrophoenician woman"
+    - "Acts 11:19 | setting | Believers scattered as far as Phoenicia"
+  related: [tyre, sidon, byblos, phoenician-seafaring, purple-dye, melqart, hiram-of-tyre, ahiram-sarcophagus]
+  wikipedia: Phoenicia
+  image: Nimrud ivory woman at the window
+  author_notes:
+    - The name 'Phoenician' is a Greek exonym. The inhabitants identified themselves by city (Sidonians, Tyrians) or as Canaanites; Augustine reports that North African Punic speakers called themselves 'Chanani'.
+    - The Phoenician alphabet was transmitted to the Greeks. Phoenician inscriptions (Byblos, Karatepe, Kilamuwa) are basic to Hebrew and Aramaic epigraphy.
+    - The dates of westward expansion (Kition, Carthage, Sardinia, Iberia) are debated (late tenth to eighth centuries). Radiocarbon has pushed some earlier.
+    - Their religion (Baal, Melqart, Astarte, Eshmun) and the tophet debate should be cross-referenced. Phoenician craftsmanship (ivories, metalwork, architecture) is background to the Solomonic building accounts.
+  sources_to_check:
+    - Aubet, The Phoenicians and the West (2nd ed., 2001)
+
+- id: habiru
+  aliases: [ʿApiru, Ḫabiru, SA.GAZ]
+  cultures: [ane]
+  date: [-1800, -1100]
+  circa: true
+  scope: >-
+    The ḫabiru/ʿapiru of second-millennium texts from Mesopotamia to Egypt,
+    socially marginal people outside the normal political order, and the
+    long-debated question of their relation to the biblical 'Hebrews' (ʿibrîm).
+  passages:
+    - "Gen 14:13 | language? | 'Abram the Hebrew'"
+    - "Gen 39:14, 17 | language? | 'A Hebrew' as a label used by Egyptians"
+    - "Exod 1:15-19 | language? | The Hebrew midwives"
+    - "Exod 21:2 | practice? | Law of the Hebrew slave; cf. ḫabiru service contracts at Nuzi"
+    - "Deut 15:12 | practice? | Release of a Hebrew man or woman sold into service"
+    - "1Sam 13:3, 19 | language? | 'Hebrews' as a Philistine label"
+    - "1Sam 14:21 | language? | Hebrews who had been with the Philistines go over to Israel"
+    - "1Sam 29:3 | language? | 'What are these Hebrews doing here?'"
+    - "Jer 34:9, 14 | practice? | Release of Hebrew slaves"
+  related: [amarna-letters, nuzi-texts, emergence-of-israel, slavery, debt-release, shasu, shechem]
+  wikipedia: Habiru
+  image: Amarna letter Abdi-Heba
+  author_notes:
+    - Ḫabiru/ʿApiru (logogram SA.GAZ) are attested c. 1800-1100 BCE across the Near East as uprooted people, mercenaries, bandits and contract labourers. The term is social, not ethnic.
+    - A linguistic connection with ʿibrî is possible but disputed (ʿ-p-r vs. ʿ-b-r). Most scholars reject a simple Habiru = Hebrews equation while allowing some historical or semantic relation.
+    - In the Amarna letters rulers accuse rivals (e.g. Labayu of Shechem) of siding with the ʿApiru. Seti I's Beth-shean stele mentions ʿApiru.
+    - In the Hebrew Bible, 'Hebrew' is used mostly by or to outsiders and in slave laws, which some see as a trace of the social sense.
+  sources_to_check:
+    - Moran, The Amarna Letters (1992)
+    - Na'aman, "Ḫabiru and Hebrews - The Transfer of a Social Term to the Literary Sphere," JNES 45 (1986)
+
+- id: shasu
+  aliases: [Šꜣsw, Shosu]
+  cultures: [egyptian]
+  date: [-1500, -1100]
+  circa: true
+  scope: >-
+    The Shasu of New Kingdom Egyptian texts: semi-nomadic pastoralist groups of
+    the southern Levant, Sinai and Transjordan. Covers the sources, the 'Shasu
+    land of YHW' and 'Shasu of Seir/Edom' references, and their bearing on Israel's
+    origins and on the southern origin of YHWH.
+  passages:
+    - "Deut 33:2 | concept? | YHWH comes from Sinai, Seir and Paran; cf. 'Shasu land of YHW'"
+    - "Judg 5:4-5 | concept? | YHWH marches from Seir and Edom"
+    - "Hab 3:3 | concept? | God comes from Teman, the Holy One from Mount Paran"
+    - "Gen 47:4-6 | practice | Pastoralists admitted to the eastern Delta; cf. Shasu of Edom admitted at Tjeku (Papyrus Anastasi VI)"
+  related: [soleb-shasu-inscription, yhwh-origins, papyrus-anastasi, edomites, midianites-and-kenites, merneptah-stele, habiru]
+  wikipedia: Shasu
+  image: Shasu captive relief Egypt
+  author_notes:
+    - Egyptian š3sw denotes Semitic-speaking pastoralists. The topographical lists at Soleb (Amenhotep III) and Amarah West (Ramesses II) include 'Shasu land of YHW' and 'Shasu land of Seir'.
+    - The YHW toponym is important for the southern-origin hypothesis of YHWH. Note that it names a place or group, not explicitly a deity, and its location is debated.
+    - Papyrus Anastasi VI (late thirteenth century) reports Shasu tribes of Edom allowed past the fortress at Tjeku to the pools of Pithom.
+    - Rainey identified Merneptah's 'Israel' with Shasu figures in the Karnak reliefs, while Yurco and Stager identified them with Canaanites. Both views remain debated. Avoid equating Shasu with early Israel without qualification.
+  sources_to_check:
+    - Giveon, Les bédouins Shosou des documents égyptiens (1971)
+
+- id: qedarites-and-arabs
+  aliases: [Qedar, Kedar, Aribi, Arabs]
+  cultures: [arabian]
+  date: [-853, -350]
+  circa: true
+  scope: >-
+    The 'Arabs' of first-millennium BCE Assyrian, Babylonian, Persian and biblical
+    sources, especially the Qedarite confederation of northern Arabia. Covers the
+    sources, the Arab queens and kings who dealt with Assyria, the incense and
+    caravan trade, and Geshem the Arab of Nehemiah.
+  passages:
+    - "Gen 25:13 | setting | Kedar, son of Ishmael"
+    - "Isa 21:13-17 | setting | Oracle on Arabia; the end of Kedar's glory"
+    - "Isa 42:11 | setting | 'The villages that Kedar inhabits'"
+    - "Isa 60:7 | setting | Flocks of Kedar brought to the altar"
+    - "Jer 49:28-33 | setting | Nebuchadnezzar strikes Kedar and the 'kingdoms of Hazor'"
+    - "Ezek 27:21 | setting | Arabia and the princes of Kedar trade lambs and goats"
+    - "Song 1:5 | imagery | 'Black like the tents of Kedar'"
+    - "2Chr 26:7 | setting | Uzziah fights the Arabs of Gur-baal"
+    - "Neh 2:19; 6:1-6 | attests | Geshem the Arab; cf. 'Qaynu son of Gashmu, king of Qedar' on a silver bowl"
+  related: [qedarite-silver-bowl, incense-trade, camels-and-domestication, nabataeans, sheba, nabonidus, sanballat, midianites-and-kenites]
+  wikipedia: Qedarites
+  image: Ashurbanipal Arab camel riders relief
+  author_notes:
+    - The first mention of 'Arabs' is Gindibu the Arab with 1,000 camels at Qarqar (853), in Shalmaneser III's Kurkh Monolith.
+    - Assyrian texts from Tiglath-pileser III to Ashurbanipal name Arab queens (Zabibe, Samsi, Yatie, Teʾelhunu) and Qedarite kings (Hazael, Yauta/Uaite').
+    - Nehemiah's Geshem is widely identified with the Gashmu of a silver bowl from Tell el-Maskhuta and of an inscription from Dedan.
+    - Nabonidus resided at Tayma for about ten years. Avoid reading the modern ethnic identity 'Arab' back into these sources.
+  sources_to_check:
+    - Eph'al, The Ancient Arabs (1982)
+    - Retsö, The Arabs in Antiquity (2003)
+
+- id: assyria
+  aliases: [Neo-Assyrian Empire, Asshur, Aššur]
+  cultures: [assyrian]
+  date: [-911, -609]
+  scope: >-
+    The Neo-Assyrian Empire (911-609 BCE), which dominated the Levant from the
+    ninth century, destroyed Israel and made Judah a vassal. Covers its history,
+    sources, imperial ideology and administration, and its imprint on the Hebrew
+    Bible; earlier Assyrian history is treated briefly.
+  passages:
+    - "Gen 10:11-12 | setting | Asshur, Nineveh and Calah in the Table of Nations"
+    - "2Kgs 15:19-20, 29 | setting | Tiglath-pileser III (Pul) takes tribute and deports Galilee"
+    - "2Kgs 16:7-18 | setting | Ahaz becomes a vassal of Assyria"
+    - "2Kgs 17:1-24 | setting | Fall of Samaria and Assyrian resettlement"
+    - "2Kgs 18:13-19:37 | setting | Sennacherib's campaign against Judah"
+    - "Isa 10:5-19 | concept | Assyria, the rod of YHWH's anger, and its arrogant king"
+    - "Hos 5:13 | setting | Ephraim turns to Assyria"
+    - "Jonah 3 | setting | Repentance of Nineveh"
+    - "Nah 3 | setting | Doom of Nineveh"
+    - "Zeph 2:13-15 | setting | Assyria and Nineveh made desolate"
+  related: [tiglath-pileser-iii, sennacherib, sargon-ii, ashurbanipal, nineveh, assyrian-siege-warfare, deportation, esarhaddon-succession-treaty]
+  wikipedia: Neo-Assyrian Empire
+  image: Ashurnasirpal II relief Nimrud
+  author_notes:
+    - Distinguish Old, Middle and Neo-Assyrian Assyria. The Neo-Assyrian heartland cities were Ashur, Nimrud (Kalḫu), Khorsabad (Dur-Sharrukin) and Nineveh.
+    - Assyrian sources give rich synchronisms. They name Ahab (853), Jehu (841), Joash, Menahem, Pekah, Hoshea, Ahaz, Hezekiah and Manasseh. The eponym list, anchored by the eclipse of 763, underlies biblical chronology.
+    - Assyrian imperial ideology and treaty language (especially Esarhaddon's Succession Treaty) are widely seen as shaping Deuteronomy and First Isaiah. Present this as a major consensus line with variants.
+    - Deportation worked in both directions. Its scale and demographic effects are debated.
+    - The empire fell with Ashur (614), Nineveh (612) and Harran (610-609).
+  sources_to_check:
+    - Radner, Ancient Assyria - A Very Short Introduction (2015)
+    - Frahm (ed.), A Companion to Assyria (2017)
+
+- id: babylonia
+  aliases: [Neo-Babylonian Empire, Chaldeans, Kaldu]
+  cultures: [babylonian]
+  date: [-626, -539]
+  scope: >-
+    The Neo-Babylonian ('Chaldean') Empire from Nabopolassar to Nabonidus,
+    which destroyed Jerusalem and held Judeans in exile. Covers Babylonia and the
+    Chaldean tribes in the Assyrian period, the empire's history and sources,
+    and its place in the Bible.
+  passages:
+    - "2Kgs 20:12-19 | setting | Merodach-baladan's envoys to Hezekiah"
+    - "2Kgs 24:1-17 | setting | Jehoiakim's vassalage and the deportation of 597"
+    - "2Kgs 25:1-21 | setting | Siege and destruction of Jerusalem"
+    - "2Kgs 25:27-30 | setting | Evil-merodach (Amel-Marduk) releases Jehoiachin"
+    - "Jer 27:1-15 | concept | Serve the king of Babylon"
+    - "Hab 1:6-11 | setting | 'The Chaldeans, that fierce and impetuous nation'"
+    - "Isa 13-14 | setting | Oracle against Babylon"
+    - "Isa 46-47 | polemic | Bel and Nebo carried off; Daughter Babylon humbled; astrologers mocked"
+    - "Ezek 1:1-3 | setting | Exiles by the river Chebar (nār Kabari, attested near Nippur)"
+    - "Dan 1-5 | setting | Court tales set in Babylon"
+  related: [nebuchadnezzar-ii, babylon, nabonidus, babylonian-exile, babylonian-chronicles, merodach-baladan, al-yahudu-tablets, fall-of-babylon-539]
+  wikipedia: Neo-Babylonian Empire
+  image: Ishtar Gate Pergamon Museum
+  author_notes:
+    - The Chaldeans (Kaldu) were tribal groups of southern Babylonia from the ninth century. The origins of Nabopolassar's dynasty are debated. In Daniel 'Chaldeans' also names a class of diviners.
+    - The Babylonian Chronicles give the capture of Jerusalem on 2 Adar of Nebuchadnezzar's year 7 (597). The date of the final fall is debated (587 vs. 586).
+    - Evidence for exile communities includes the Al-Yahudu tablets, the Murashu archive (later, Persian period) and the Jehoiachin ration tablets. Babylonian deportation policy, unlike the Assyrian, did not resettle foreigners in Judah.
+    - Neo-Babylonian royal inscriptions are mostly building texts, not annals, so the chronicles and administrative texts carry more historical weight.
+  sources_to_check:
+    - Beaulieu, A History of Babylon, 2200 BC - AD 75 (2018)
+
+- id: persia
+  aliases: [Achaemenid Empire, Persian Empire, Pārsa]
+  cultures: [persian]
+  date: [-550, -330]
+  scope: >-
+    The Achaemenid Persian Empire from Cyrus II to Darius III, under which Judah
+    became the province of Yehud. Covers the empire's history, sources,
+    administration and royal ideology, and their reflection in Ezra-Nehemiah,
+    Esther, Daniel, Haggai, Zechariah and Second Isaiah.
+  passages:
+    - "Isa 44:28-45:7 | setting | Cyrus as YHWH's shepherd and anointed"
+    - "Ezra 1:1-4 | practice | Cyrus's edict permitting return and temple rebuilding"
+    - "Ezra 4:7-24 | form | Official Aramaic correspondence with Persian kings"
+    - "Ezra 6:1-12 | practice | Archive search at Ecbatana; Darius confirms the decree"
+    - "Ezra 7:11-26 | practice | Artaxerxes' rescript: 'the law of your God and the law of the king'"
+    - "Neh 2:1-9 | practice | Nehemiah as cupbearer; royal letters to governors"
+    - "Hag 1:1 | setting | Dating by Darius's regnal years; Zerubbabel governor of Judah"
+    - "Esth 1 | setting | The Achaemenid court at Susa"
+    - "Dan 6 | setting | Satrapal administration under 'Darius the Mede'"
+    - "Dan 11:2 | setting | Four Persian kings to arise"
+  related: [cyrus-the-great, darius-i, cyrus-cylinder, behistun-inscription, persian-imperial-authorization, yehud-province, persepolis, susa]
+  wikipedia: Achaemenid Empire
+  image: Tomb of Cyrus Pasargadae
+  author_notes:
+    - The sources are Achaemenid royal inscriptions (Behistun and others), the Persepolis archives, Aramaic documents (Elephantine, Bactria), and Greek writers (Herodotus, Xenophon, Ctesias). Each has its own biases.
+    - Frei's 'imperial authorization' thesis for the Pentateuch is debated and has been substantially weakened. Cross-refer persian-imperial-authorization.
+    - The Cyrus Cylinder does not mention Judeans. The popular image of it as a 'charter of human rights' is a misconception.
+    - Persian administrative vocabulary in the Bible includes dāt 'law', ʾăḥašdarpĕnîm 'satraps' and ganzak 'treasury'. Yehud was a small province.
+  sources_to_check:
+    - Briant, From Cyrus to Alexander (2002)
+    - Kuhrt, The Persian Empire - A Corpus of Sources from the Achaemenid Period (2007)
+
+- id: medes
+  aliases: [Media, Madai, Māda]
+  cultures: [persian]
+  date: [-835, -550]
+  circa: true
+  scope: >-
+    The Iranian-speaking Medes of the Zagros and their polity centred on
+    Ecbatana, allies of Babylon in destroying Assyria and later absorbed by
+    Cyrus. Covers Median history and its uncertainties, and the place of 'Media'
+    in the Bible, including Daniel's Median kingdom.
+  passages:
+    - "Gen 10:2 | setting | Madai among the sons of Japheth"
+    - "2Kgs 17:6 | setting | Israelite deportees settled 'in the cities of the Medes'"
+    - "Isa 13:17 | setting | The Medes stirred up against Babylon"
+    - "Isa 21:2 | setting | 'Go up, O Elam; lay siege, O Media'"
+    - "Jer 51:11, 28 | setting | Kings of the Medes against Babylon"
+    - "Dan 5:28-31 | setting | Kingdom given to the Medes and Persians; Darius the Mede (5:31 = MT 6:1)"
+    - "Dan 6:8 | language | 'The law of the Medes and the Persians', which cannot be revoked (MT 6:9)"
+    - "Dan 8:20 | setting | The two-horned ram: the kings of Media and Persia"
+    - "Esth 1:3, 19 | setting | 'The army of Persia and Media'; laws of the Persians and the Medes"
+    - "Ezra 6:2 | setting | Scroll found at Ecbatana in the province of Media"
+  related: [persia, darius-the-mede, four-kingdoms-schema, fall-of-nineveh-chronicle, assyria, babylonia, cyrus-the-great]
+  wikipedia: Medes
+  image: Persepolis relief Median dignitary
+  author_notes:
+    - The Medes appear in Assyrian sources from Shalmaneser III. For much of the period they appear as many local 'city lords', not one state. Herodotus' Median empire (Deioces and his successors) has been questioned (Sancisi-Weerdenburg and others).
+    - Cyaxares (Umakishtar) allied with Nabopolassar in the fall of Ashur (614) and Nineveh (612). Cyrus defeated Astyages c. 550 (Nabonidus Chronicle).
+    - Daniel's Median kingdom between Babylon and Persia (the four-kingdoms schema) is not historical, and 'Darius the Mede' is otherwise unattested. Cross-refer darius-the-mede.
+    - Ecbatana (Hamadan) served as an Achaemenid summer capital, which makes Ezra 6:2 plausible in setting.
+  sources_to_check:
+    - Lanfranchi, Roaf and Rollinger (eds.), Continuity of Empire (?) - Assyria, Media, Persia (2003)
+
+- id: ezion-geber
+  aliases: [Ezion-geber, Tell el-Kheleifeh, Elath]
+  cultures: [judahite, edomite]
+  scope: >-
+    The port at the head of the Gulf of Aqaba from which Solomon's and Jehoshaphat's Red
+    Sea ventures set out, and a station on the wilderness itinerary. The entry covers the
+    unresolved identification (Tell el-Kheleifeh, Jeziret Faraʿun), the relation to Elath,
+    and the dismantling of Glueck's 'Solomonic smelter'.
+  passages:
+    - "Num 33:35-36 | setting | A station on the wilderness itinerary before Kadesh"
+    - "Deut 2:8 | setting | Israel passes Elath and Ezion-geber on the Arabah road"
+    - "1Kgs 9:26-28 | setting | Solomon builds ships at Ezion-geber near Eloth; Hiram's sailors fetch gold from Ophir"
+    - "2Chr 8:17-18 | setting | Solomon at Ezion-geber and Eloth on the shore in Edom"
+    - "1Kgs 22:48 | setting | Jehoshaphat's ships wrecked at Ezion-geber (MT 22:49)"
+    - "2Chr 20:35-37 | setting | Jehoshaphat's joint fleet with Ahaziah wrecked"
+    - "2Kgs 14:22 | setting | Azariah rebuilds Elath and restores it to Judah"
+    - "2Kgs 16:6 | setting | Elath lost to Edom (MT reads Aram; Qere 'Edomites')"
+  related: [ophir, phoenician-seafaring, edomites, edomite-inscriptions, solomon, hiram-of-tyre, copper-production, timna]
+  wikipedia: Ezion-Geber
+  image: Tell el-Kheleifeh
+  author_notes:
+    - "Glueck excavated Tell el-Kheleifeh (1938-40), identified it as Ezion-geber, and interpreted its main building as a Solomonic copper smelter. He later withdrew the smelter interpretation himself. The building is now seen as a fort or storehouse, and its 'flues' as beam holes. Treat the 'Solomon's copper refinery' claim as a discredited misconception."
+    - "Pratico's reappraisal of Glueck's records dates the occupation from the eighth to the fourth century BCE, with nothing clearly of the tenth century. Tell el-Kheleifeh may therefore be Elath, or an Edomite or Judahite fort, rather than Solomon's port. Jeziret Faraʿun (Coral Island), with its natural anchorage, is another proposal. Leave the identification open."
+    - "Edomite material at Tell el-Kheleifeh includes the 'Qosʿanal, servant of the king' jar impressions and handmade 'Negebite' pottery. Link to edomite-inscriptions."
+    - "The Red Sea trade in the Solomon and Jehoshaphat stories is plausible geographically, but its scale and date are debated. Connect to ophir and phoenician-seafaring rather than repeating that material."
+    - "2 Kgs 16:6: MT reads 'Rezin king of Aram recovered Elath for Aram' with Qere 'Edomites' later in the verse; NRSV emends to Edom throughout. Explain this briefly."
+  sources_to_check:
+    - "G. D. Pratico, Nelson Glueck's 1938-1940 Excavations at Tell el-Kheleifeh: A Reappraisal (1993)"
+
+- id: dor
+  aliases: [Tel Dor, Naphath-dor, Dora, Khirbet el-Burj]
+  cultures: [phoenician, canaanite, israelite]
+  scope: >-
+    The harbour town on the Carmel coast (Tel Dor), occupied from the Bronze Age to the
+    Roman period. It appears as a Sikil (Tjeker) town in the Report of Wenamun, in the
+    Israelite territorial lists, as the Assyrian province of Duʾru, as a Phoenician and
+    Hellenistic city, and as a stronghold besieged in 1 Maccabees. The entry covers the
+    biblical references and the results of the Stern and Gilboa-Sharon excavations.
+  passages:
+    - "Josh 11:2 | setting | Naphoth-dor among the regions of Jabin's northern coalition"
+    - "Josh 12:23 | setting | The king of Dor in Naphath-dor among the defeated kings"
+    - "Josh 17:11-12 | setting | Dor assigned to Manasseh, which could not take it"
+    - "Judg 1:27 | setting | Manasseh fails to drive out the inhabitants of Dor"
+    - "1Kgs 4:11 | setting | Ben-abinadab over Naphath-dor, married to Solomon's daughter Taphath"
+    - "1Chr 7:29 | setting | Dor among the towns of the Manassites"
+    - "1Macc 15:11-14, 25 | event | Antiochus VII besieges the usurper Tryphon in Dor"
+  related: [report-of-wenamun, sea-peoples, phoenicians, phoenician-seafaring, purple-dye, eshmunazar-sarcophagus, tiglath-pileser-iii, caesarea-maritima]
+  wikipedia: Tel Dor
+  image: Tel Dor
+  author_notes:
+    - "Wenamun (c. 1070s BCE) calls Dor a town of the Tjeker (Sikil) ruled by a prince Beder. Stern stressed a Sea Peoples phase, but Gilboa and Sharon find the Iron I town culturally Canaanite/Phoenician with limited Aegean features. Present the debate."
+    - "When Israel took control of Dor is debated: the tenth century (1 Kgs 4:11 taken at face value) or the ninth, under the Omrides. After 732 Dor became the centre of the Assyrian province of Duʾru."
+    - "The Eshmunazar II sarcophagus records that the Persian king gave 'Dor and Joppa' to Sidon. In the Hellenistic and Roman periods Dora was a fortified harbour city; 1 Macc 15 and Josephus refer to it."
+    - "'Naphath-dor' (Josh 11:2; 12:23; 1 Kgs 4:11) may mean 'the heights of Dor' (the Carmel ridge) or simply 'the region of Dor'. Note the uncertainty."
+    - "The finds include purple-dye installations, harbour structures and shipwrecks in the lagoon. Link to purple-dye and phoenician-seafaring."
+  sources_to_check:
+    - "E. Stern, Dor, Ruler of the Seas (rev. ed. 2000)"
+    - "E. Stern et al., Excavations at Dor, Final Report, vols. IA-IB (Qedem Reports 1-2, 1995)"
+
+- id: azekah
+  aliases: [Tel ʿAzeqa, Tell Zakariya]
+  cultures: [judahite, canaanite]
+  scope: >-
+    Tel ʿAzeqa, a high mound on the north side of the Elah Valley in the Shephelah and a
+    fortified town on Judah's western frontier. The entry covers its biblical references,
+    the mention of Azekah in Lachish Letter 4, the Assyrian 'Azekah Inscription', and the
+    finds of the Lautenschläger Azekah Expedition (from 2012).
+  passages:
+    - "Josh 10:10-11 | setting | The Amorite kings pursued as far as Azekah; hailstones on the fleeing army"
+    - "Josh 15:35 | setting | Azekah among the Shephelah towns of Judah"
+    - "1Sam 17:1 | setting | The Philistines camp between Socoh and Azekah"
+    - "2Chr 11:9 | setting | Azekah in Rehoboam's list of fortified cities"
+    - "2Kgs 18:13 | event? | Sennacherib takes Judah's fortified cities; the Azekah Inscription is attributed to 701 or to Sargon II"
+    - "Jer 34:7 | event | Lachish and Azekah the last fortified cities of Judah holding out"
+    - "Neh 11:30 | setting | Azekah and its villages resettled by Judahites"
+  related: [lachish-letters, lachish, sennacherib-campaign-701, sargon-ii-inscriptions, fall-of-jerusalem-587, khirbet-qeiyafa, gath, champion-combat]
+  wikipedia: Azekah
+  image: Tel Azekah
+  author_notes:
+    - "Bliss and Macalister excavated in 1898-99. The Lautenschläger Azekah Expedition (Tel Aviv University and Heidelberg, from 2012) has documented a Late Bronze Age destruction with human remains and Iron Age fortifications. Check the latest publications for the stratigraphy."
+    - "Lachish Letter 4 ends: 'we are watching for the signals of Lachish ... for we cannot see Azekah.' It is often read as meaning that Azekah had already fallen, consistent with Jer 34:7, but it may describe only what was visible from the writer's post. Present both."
+    - "The Azekah Inscription (two joined British Museum fragments, K 6205 + 82-3-23,131) describes an Assyrian assault on Azekah, 'situated on a mountain ridge'. Na'aman's join and attribution to Sennacherib (701) are widely followed, but some scholars date it to Sargon II's campaign of 712. Do not present either as settled."
+    - "Azekah, Socoh and Khirbet Qeiyafa frame the Elah Valley. Link the geography of 1 Sam 17 without claiming the story as history."
+  sources_to_check:
+    - "N. Na'aman, 'Sennacherib's Letter to God on His Campaign to Judah,' BASOR 214 (1974)"
+    - KAI 194
+
+- id: khirbet-ataruz
+  aliases: [Ataroth, Khirbat Ataruz, Khirbat ʿAṭārūz]
+  cultures: [moabite, israelite]
+  scope: >-
+    Khirbat ʿAṭārūz in central Jordan, identified with Ataroth, which according to the Mesha
+    stele had been held by the 'men of Gad' and fortified by the king of Israel before Mesha
+    captured it. The entry covers the Iron Age temple complex and its cult objects, the
+    inscribed altar published in 2018, and the site's bearing on Israelite and Moabite
+    history. Ataroth in Ephraim (Josh 16) is a different place.
+  passages:
+    - "Num 32:3 | setting | Ataroth among the lands requested by Gad and Reuben"
+    - "Num 32:34 | attests | The Gadites build Ataroth; cf. Mesha: 'the men of Gad had lived in the land of Ataroth'"
+    - "2Kgs 3:4-5 | event | Mesha's rebellion, during which he captured Ataroth from Israel"
+    - "2Sam 23:20 | language? | 'Ariel of Moab' (ʾărîʾēl), possibly related to the ʾrʾl taken from Ataroth"
+    - "Ezek 43:15-16 | language? | ʾărîʾēl 'altar hearth', a proposed sense of ʾrʾl in Mesha's Ataroth account"
+  related: [mesha-stele, moabites, chemosh, dibon, omri, altars, cult-stands, high-places]
+  wikipedia: Khirbat Ataruz
+  image: Khirbat Ataruz temple
+  author_notes:
+    - "Mesha stele lines 10-13: the men of Gad had lived in Ataroth 'from of old', the king of Israel built it, and Mesha took it, killed its people as 'satiation' (ryt) for Chemosh and Moab, dragged the ʾrʾl dwdh before Chemosh at Kerioth, and resettled it with men of Sharon and Maharith. The meaning of ʾrʾl dwdh (altar hearth of its DWD, a cultic object, or a person) is disputed."
+    - "Excavations led by Chang-Ho Ji (from 2000) uncovered a large Iron IIA temple complex with altars, cult stands and figurines. The correlation of building phases with Omride construction and Mesha's conquest is debated. Present the excavators' view and note the alternatives."
+    - "The inscribed altar or pedestal published in 2018 carries two short texts in an early alphabetic script, possibly Moabite, with Egyptian hieratic numerals. The readings are provisional, so cite the editio princeps and do not build on details."
+    - "Distinguish Moabite Ataroth (Num 32) from Ataroth and Ataroth-addar in Ephraim and Benjamin (Josh 16:2, 5, 7; 18:13)."
+  sources_to_check:
+    - KAI 181
+    - COS 2.23
+    - "A. Bean, C. A. Rollston, P. K. McCarter and S. J. Wimmer, 'An Inscribed Altar from the Khirbat Ataruz Moabite Sanctuary,' Levant 50 (2018)"
+
+- id: geshur
+  aliases: [Geshurites, Maacah, Maacathites, Aram-maacah]
+  cultures: [aramean]
+  scope: >-
+    The small Aramean kingdom of Geshur on the Golan east and northeast of the Sea of
+    Galilee, together with neighbouring Maacah. Talmai of Geshur's daughter Maacah was
+    David's wife and the mother of Absalom. The entry covers the biblical references, the
+    Iron Age remains at et-Tell (later identified with Bethsaida) and other Golan sites,
+    and Geshur's absorption by Aram-Damascus.
+  passages:
+    - "Deut 3:14 | setting | Jair takes Argob as far as the border of the Geshurites and Maacathites"
+    - "Josh 12:5 | setting | Og's realm reaches the boundary of the Geshurites and Maacathites"
+    - "Josh 13:11-13 | setting | Geshur and Maacah not driven out; they live within Israel 'to this day'"
+    - "2Sam 3:3 | attests | Absalom's mother Maacah, daughter of King Talmai of Geshur"
+    - "2Sam 13:37-38 | setting | Absalom flees to Talmai of Geshur for three years"
+    - "2Sam 15:8 | setting | Absalom's vow 'while I lived at Geshur in Aram'"
+    - "1Chr 2:23 | setting | Geshur and Aram take the towns of Jair"
+    - "2Sam 10:6-8 | setting | The king of Maacah among the Aramean allies of Ammon"
+  related: [arameans, david, diplomatic-marriage, damascus, hazael, city-gates, massebot, bull-iconography]
+  wikipedia: Geshur
+  image: Bethsaida et-Tell city gate
+  author_notes:
+    - "David's marriage to Talmai's daughter is a diplomatic marriage with a neighbouring Aramean court, and Absalom's flight to his maternal grandfather follows from it. Link to diplomatic-marriage."
+    - "Et-Tell (Bethsaida Excavations Project, directed by R. Arav) has a large Iron IIA-B city with a monumental gate and a gate shrine with a stele of a horned, bull-headed figure, variously interpreted (often as a moon god). Its identification as Geshur's capital is a proposal, not certain. Other Golan and Sea of Galilee sites (e.g. Tel Hadar, ʿEn Gev) are also relevant."
+    - "Geshur probably ceased as an independent kingdom when Aram-Damascus expanded in the ninth century. The region was then devastated by Tiglath-pileser III in 733-732."
+    - "Distinguish the southern Geshurites near Philistia (Josh 13:2; 1 Sam 27:8), a different group."
+  sources_to_check:
+    - "B. Mazar, 'Geshur and Maacah,' JBL 80 (1961)"
+    - "R. Arav and R. A. Freund (eds.), Bethsaida: A City by the North Shore of the Sea of Galilee, 4 vols. (1995-2009)"
+
+# ---------------------------------------------------------------------------
+# Second Temple period and New Testament
+# ---------------------------------------------------------------------------

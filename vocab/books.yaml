@@ -1,0 +1,96 @@
+# Canonical book identifiers used in all scripture references.
+#
+# `id` is the OSIS book ID and is what appears in entry YAML (e.g. "2Kgs 18:13-19:37").
+# `sbl` is the SBL Handbook of Style abbreviation used for display.
+# `chapters` is the maximum chapter number accepted by the validator. Where English
+# and Hebrew (MT) chapter divisions differ (Joel, Malachi), the larger count is used.
+# Default versification is English (NRSV); see docs/data-model.md.
+#
+# corpus: ot | dc (deuterocanonical/apocrypha) | pseud (pseudepigrapha) | nt
+books:
+  - {id: Gen,    sbl: Gen,     name: Genesis,          corpus: ot, chapters: 50}
+  - {id: Exod,   sbl: Exod,    name: Exodus,           corpus: ot, chapters: 40}
+  - {id: Lev,    sbl: Lev,     name: Leviticus,        corpus: ot, chapters: 27}
+  - {id: Num,    sbl: Num,     name: Numbers,          corpus: ot, chapters: 36}
+  - {id: Deut,   sbl: Deut,    name: Deuteronomy,      corpus: ot, chapters: 34}
+  - {id: Josh,   sbl: Josh,    name: Joshua,           corpus: ot, chapters: 24}
+  - {id: Judg,   sbl: Judg,    name: Judges,           corpus: ot, chapters: 21}
+  - {id: Ruth,   sbl: Ruth,    name: Ruth,             corpus: ot, chapters: 4}
+  - {id: 1Sam,   sbl: 1 Sam,   name: 1 Samuel,         corpus: ot, chapters: 31}
+  - {id: 2Sam,   sbl: 2 Sam,   name: 2 Samuel,         corpus: ot, chapters: 24}
+  - {id: 1Kgs,   sbl: 1 Kgs,   name: 1 Kings,          corpus: ot, chapters: 22}
+  - {id: 2Kgs,   sbl: 2 Kgs,   name: 2 Kings,          corpus: ot, chapters: 25}
+  - {id: 1Chr,   sbl: 1 Chr,   name: 1 Chronicles,     corpus: ot, chapters: 29}
+  - {id: 2Chr,   sbl: 2 Chr,   name: 2 Chronicles,     corpus: ot, chapters: 36}
+  - {id: Ezra,   sbl: Ezra,    name: Ezra,             corpus: ot, chapters: 10}
+  - {id: Neh,    sbl: Neh,     name: Nehemiah,         corpus: ot, chapters: 13}
+  - {id: Esth,   sbl: Esth,    name: Esther,           corpus: ot, chapters: 10}
+  - {id: Job,    sbl: Job,     name: Job,              corpus: ot, chapters: 42}
+  - {id: Ps,     sbl: Ps,      name: Psalms,           corpus: ot, chapters: 150}
+  - {id: Prov,   sbl: Prov,    name: Proverbs,         corpus: ot, chapters: 31}
+  - {id: Eccl,   sbl: Eccl,    name: Ecclesiastes,     corpus: ot, chapters: 12}
+  - {id: Song,   sbl: Song,    name: Song of Songs,    corpus: ot, chapters: 8}
+  - {id: Isa,    sbl: Isa,     name: Isaiah,           corpus: ot, chapters: 66}
+  - {id: Jer,    sbl: Jer,     name: Jeremiah,         corpus: ot, chapters: 52}
+  - {id: Lam,    sbl: Lam,     name: Lamentations,     corpus: ot, chapters: 5}
+  - {id: Ezek,   sbl: Ezek,    name: Ezekiel,          corpus: ot, chapters: 48}
+  - {id: Dan,    sbl: Dan,     name: Daniel,           corpus: ot, chapters: 12}
+  - {id: Hos,    sbl: Hos,     name: Hosea,            corpus: ot, chapters: 14}
+  - {id: Joel,   sbl: Joel,    name: Joel,             corpus: ot, chapters: 4}
+  - {id: Amos,   sbl: Amos,    name: Amos,             corpus: ot, chapters: 9}
+  - {id: Obad,   sbl: Obad,    name: Obadiah,          corpus: ot, chapters: 1}
+  - {id: Jonah,  sbl: Jonah,   name: Jonah,            corpus: ot, chapters: 4}
+  - {id: Mic,    sbl: Mic,     name: Micah,            corpus: ot, chapters: 7}
+  - {id: Nah,    sbl: Nah,     name: Nahum,            corpus: ot, chapters: 3}
+  - {id: Hab,    sbl: Hab,     name: Habakkuk,         corpus: ot, chapters: 3}
+  - {id: Zeph,   sbl: Zeph,    name: Zephaniah,        corpus: ot, chapters: 3}
+  - {id: Hag,    sbl: Hag,     name: Haggai,           corpus: ot, chapters: 2}
+  - {id: Zech,   sbl: Zech,    name: Zechariah,        corpus: ot, chapters: 14}
+  - {id: Mal,    sbl: Mal,     name: Malachi,          corpus: ot, chapters: 4}
+
+  - {id: Tob,    sbl: Tob,     name: Tobit,            corpus: dc, chapters: 14}
+  - {id: Jdt,    sbl: Jdt,     name: Judith,           corpus: dc, chapters: 16}
+  - {id: AddEsth, sbl: Add Esth, name: Additions to Esther, corpus: dc, chapters: 16}
+  - {id: Wis,    sbl: Wis,     name: Wisdom of Solomon, corpus: dc, chapters: 19}
+  - {id: Sir,    sbl: Sir,     name: Sirach,           corpus: dc, chapters: 51}
+  - {id: Bar,    sbl: Bar,     name: Baruch,           corpus: dc, chapters: 6}
+  - {id: EpJer,  sbl: Ep Jer,  name: Letter of Jeremiah, corpus: dc, chapters: 1}
+  - {id: PrAzar, sbl: Pr Azar, name: Prayer of Azariah, corpus: dc, chapters: 1}
+  - {id: Sus,    sbl: Sus,     name: Susanna,          corpus: dc, chapters: 1}
+  - {id: Bel,    sbl: Bel,     name: Bel and the Dragon, corpus: dc, chapters: 1}
+  - {id: 1Macc,  sbl: 1 Macc,  name: 1 Maccabees,      corpus: dc, chapters: 16}
+  - {id: 2Macc,  sbl: 2 Macc,  name: 2 Maccabees,      corpus: dc, chapters: 15}
+  - {id: 1Esd,   sbl: 1 Esd,   name: 1 Esdras,         corpus: dc, chapters: 9}
+  - {id: 2Esd,   sbl: 2 Esd,   name: 2 Esdras,         corpus: dc, chapters: 16}
+  - {id: PrMan,  sbl: Pr Man,  name: Prayer of Manasseh, corpus: dc, chapters: 1}
+
+  - {id: 1En,    sbl: 1 En,    name: 1 Enoch,          corpus: pseud, chapters: 108}
+  - {id: Jub,    sbl: Jub,     name: Jubilees,         corpus: pseud, chapters: 50}
+
+  - {id: Matt,   sbl: Matt,    name: Matthew,          corpus: nt, chapters: 28}
+  - {id: Mark,   sbl: Mark,    name: Mark,             corpus: nt, chapters: 16}
+  - {id: Luke,   sbl: Luke,    name: Luke,             corpus: nt, chapters: 24}
+  - {id: John,   sbl: John,    name: John,             corpus: nt, chapters: 21}
+  - {id: Acts,   sbl: Acts,    name: Acts,             corpus: nt, chapters: 28}
+  - {id: Rom,    sbl: Rom,     name: Romans,           corpus: nt, chapters: 16}
+  - {id: 1Cor,   sbl: 1 Cor,   name: 1 Corinthians,    corpus: nt, chapters: 16}
+  - {id: 2Cor,   sbl: 2 Cor,   name: 2 Corinthians,    corpus: nt, chapters: 13}
+  - {id: Gal,    sbl: Gal,     name: Galatians,        corpus: nt, chapters: 6}
+  - {id: Eph,    sbl: Eph,     name: Ephesians,        corpus: nt, chapters: 6}
+  - {id: Phil,   sbl: Phil,    name: Philippians,      corpus: nt, chapters: 4}
+  - {id: Col,    sbl: Col,     name: Colossians,       corpus: nt, chapters: 4}
+  - {id: 1Thess, sbl: 1 Thess, name: 1 Thessalonians,  corpus: nt, chapters: 5}
+  - {id: 2Thess, sbl: 2 Thess, name: 2 Thessalonians,  corpus: nt, chapters: 3}
+  - {id: 1Tim,   sbl: 1 Tim,   name: 1 Timothy,        corpus: nt, chapters: 6}
+  - {id: 2Tim,   sbl: 2 Tim,   name: 2 Timothy,        corpus: nt, chapters: 4}
+  - {id: Titus,  sbl: Titus,   name: Titus,            corpus: nt, chapters: 3}
+  - {id: Phlm,   sbl: Phlm,    name: Philemon,         corpus: nt, chapters: 1}
+  - {id: Heb,    sbl: Heb,     name: Hebrews,          corpus: nt, chapters: 13}
+  - {id: Jas,    sbl: Jas,     name: James,            corpus: nt, chapters: 5}
+  - {id: 1Pet,   sbl: 1 Pet,   name: 1 Peter,          corpus: nt, chapters: 5}
+  - {id: 2Pet,   sbl: 2 Pet,   name: 2 Peter,          corpus: nt, chapters: 3}
+  - {id: 1John,  sbl: 1 John,  name: 1 John,           corpus: nt, chapters: 5}
+  - {id: 2John,  sbl: 2 John,  name: 2 John,           corpus: nt, chapters: 1}
+  - {id: 3John,  sbl: 3 John,  name: 3 John,           corpus: nt, chapters: 1}
+  - {id: Jude,   sbl: Jude,    name: Jude,             corpus: nt, chapters: 1}
+  - {id: Rev,    sbl: Rev,     name: Revelation,       corpus: nt, chapters: 22}

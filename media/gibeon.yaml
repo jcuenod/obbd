@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: gibeon
+file: gibeon.jpg
+title: Gibeon well 01.jpg
+caption: The great rock-cut pool at Gibeon (el-Jib).
+description: Gibeon pool and well
+creator: Ar2332
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Ar2332, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Gibeon_well_01.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/c/cf/Gibeon_well_01.jpg
+  sha1: 9eb48559fc5739f69df986eee0b4a4baa95433da
+  original_size: [2304, 3072]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1200×1600 px
+size: [1200, 1600]
+depicts: [gibeon]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

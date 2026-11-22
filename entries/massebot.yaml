@@ -1,0 +1,86 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: massebot
+title: Standing Stones (Massebot)
+aliases: [maṣṣēbâ, standing stones, betyls]
+type: realia
+cultures: [hebrew, canaanite, arabian]
+scope: >-
+  Standing stones (maṣṣēbôt) in the Levant, set up as memorials, witnesses, boundary markers,
+  or representations of divine presence. The entry covers their biblical evaluation, from
+  patriarchal use to Deuteronomic prohibition, and archaeological examples from Gezer, Hazor,
+  Arad, and desert shrines.
+passages:
+- ref: Gen 28:18-22
+  rel: practice
+  note: Jacob's pillar at Bethel, anointed and called 'house of God'
+- ref: Gen 31:45-52
+  rel: practice
+  note: Pillar and cairn as witness to a treaty
+- ref: Gen 35:14
+  rel: practice
+  note: Libation and oil on a pillar at Bethel
+- ref: Gen 35:20
+  rel: practice
+  note: Pillar over Rachel's grave
+- ref: Exod 24:4
+  rel: practice
+  note: Twelve pillars at Sinai for the twelve tribes
+- ref: Exod 23:24
+  rel: polemic
+  note: Canaanite pillars to be broken
+- ref: Deut 16:22
+  rel: polemic
+  note: No pillar, 'which YHWH your God hates'
+- ref: 2Sam 18:18
+  rel: practice
+  note: Absalom's memorial pillar, for lack of a son
+- ref: Josh 24:26-27
+  rel: practice
+  note: Large stone set up as witness at Shechem
+- ref: 1Kgs 14:23
+  rel: polemic
+  note: Pillars and sacred poles on every high hill
+- ref: 2Kgs 18:4
+  rel: polemic
+  note: Hezekiah breaks down the pillars
+- ref: Hos 3:4
+  rel: realia
+  note: Without sacrifice or pillar
+- ref: Isa 19:19
+  rel: practice
+  note: Pillar to YHWH at Egypt's border
+related: [aniconism, high-places, arad, gezer, hazor, bethel, boundary-markers, katumuwa-stele]
+media:
+- id: gezer
+  role: gallery
+external:
+  wikipedia: Matzevah
+  wikidata: Q56298995
+editorial:
+  author_notes:
+  - >-
+    Distinguish functions (commemorative, funerary, legal witness, boundary, and cultic representation
+    of a deity). Not every standing stone is cultic, and not every biblical "stone" (e.g.
+    Josh 4:20) is called a maṣṣēbâ.
+  - >-
+    Key sites include the Gezer row of monoliths (Middle Bronze Age), the Hazor stelae shrine
+    (Late Bronze Age), the Arad shrine (Iron Age, one or two maṣṣēbôt, with debate over their
+    number), and Negev and Sinai open-air sanctuaries (Avner).
+  - >-
+    Note the tension between patriarchal practice and Deut 16:22. Mettinger's "material aniconism"
+    frames standing stones as aniconic symbols of divine presence.
+  image_query: Gezer standing stones
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

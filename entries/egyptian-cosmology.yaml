@@ -1,0 +1,73 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: egyptian-cosmology
+title: Egyptian Cosmology
+aliases: [Egyptian creation myths]
+type: concept
+cultures: [egyptian]
+scope: >-
+  Ancient Egyptian conceptions of the origin and structure of the world: the primeval waters
+  (Nun), the emergence of the primeval mound, and the separation of sky (Nut) from earth (Geb)
+  by Shu. The entry also covers the complementary Heliopolitan, Hermopolitan, Memphite, and
+  Theban creation traditions and their use as comparanda for biblical cosmology.
+passages:
+- ref: Gen 1:2
+  rel: concept
+  note: Dark, formless primeval waters before creation; cf. Nun and the Hermopolitan Ogdoad
+- ref: Gen 1:6-8
+  rel: concept
+  note: Separation of the waters and the sky; cf. Shu lifting Nut from Geb
+- ref: Gen 1:9-10
+  rel: concept
+  note: Dry land emerging from the waters; cf. the primeval mound
+- ref: Job 26:7-11
+  rel: concept
+  note: Horizon drawn on the waters; pillars of heaven
+- ref: Ps 19:4-6
+  rel: imagery
+  note: The sun's daily course across the sky; MT 19:5-7
+- ref: Gen 1:26-27
+  rel: concept
+  note: 'Humans as the deity''s image (Merikare: humankind as the creator''s images)'
+related: [creation-accounts, cosmology, firmament, waters-above-and-below, shabaka-stone,
+  great-hymn-to-the-aten, khnum, tehom]
+media:
+- id: egyptian-cosmology
+  role: primary
+external:
+  wikipedia: Ancient Egyptian creation myths
+  wikidata: Q2172038
+editorial:
+  author_notes:
+  - >-
+    Egyptian cosmogonies coexisted as complementary accounts, not rival dogmas. Present them
+    by tradition (Heliopolis, Hermopolis, Memphis, Thebes) with their main sources (Pyramid
+    Texts, Coffin Texts, Memphite Theology).
+  - >-
+    The Gen 1 comparisons (watery precreation, separation, emergence of land, creation by
+    word) are commonly noted. Some scholars (e.g., Hoffmeier, Currid) stress Egyptian over
+    Mesopotamian background, but most treat both as comparanda without direct dependence.
+  - >-
+    Egyptian creation lacks a creation-by-combat myth comparable to Enuma Elish, though the
+    sun god's daily combat with Apophis offers a partial analogue.
+  - >-
+    The Instruction for Merikare's passage on humankind as the god's images is relevant to
+    the imago Dei discussion.
+  sources_to_check:
+  - Allen, Genesis in Egypt (1988)
+  - AEL 1:97-109
+  - Hornung, Conceptions of God in Ancient Egypt (1982)
+  image_query: Nut Geb Shu papyrus Greenfield
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

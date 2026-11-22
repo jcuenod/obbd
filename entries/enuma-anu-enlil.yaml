@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: enuma-anu-enlil
+title: Enūma Anu Enlil
+aliases: [Enūma Anu Enlil, EAE]
+type: text
+cultures: [babylonian, assyrian]
+date:
+  from: -1200
+  to: -650
+  circa: true
+  display: c. 1200–650 BCE
+scope: >-
+  The canonical Babylonian series of about seventy tablets of celestial omens (lunar, solar,
+  meteorological, and planetary) used by court scholars to interpret signs in the sky for
+  king and state. It is the chief background for biblical references to Babylonian star-gazers
+  and portents in the heavens.
+passages:
+- ref: Isa 47:13
+  rel: practice
+  note: Babylon's star-gazers who divide the heavens and forecast by the new moons
+- ref: Jer 10:2
+  rel: concept
+  note: '''Do not be dismayed at the signs of the heavens'' as the nations are'
+- ref: Dan 2:2, 10
+  rel: practice
+  note: Babylonian court experts (magicians, enchanters, Chaldeans) consulted by the king
+- ref: Amos 8:9
+  rel: imagery
+  disputed: true
+  note: 'Sun set at noon, darkness by day: eclipse as ominous portent'
+- ref: Matt 2:1-2
+  rel: practice
+  note: Magi from the east read a star as the sign of a royal birth
+related: [astrology, divination, constellations, host-of-heaven, extispicy, library-of-ashurbanipal]
+media:
+- id: enuma-anu-enlil
+  role: primary
+- id: astrology
+  role: gallery
+external:
+  wikipedia: Enuma Anu Enlil
+  wikidata: Q301593
+editorial:
+  author_notes:
+  - >-
+    Omens go back to the Old Babylonian period (the Venus Tablet of Ammi-ṣaduqa is EAE 63);
+    the series was standardised in the late second millennium; main copies are 7th-c. Nineveh.
+  - >-
+    Celestial divination concerned king and land, not individual horoscopes, which appear
+    only from the late 5th c. BCE. Neo-Assyrian scholars' reports and letters (SAA 8, SAA
+    10) show the series in use, including the substitute-king ritual after eclipses.
+  - >-
+    Biblical polemic against astral divination is concentrated in exilic and later texts (Deutero-Isaiah,
+    Daniel); avoid reading 'astrology' anachronistically into earlier passages.
+  sources_to_check:
+  - H. Hunger, Astrological Reports to Assyrian Kings (SAA 8, 1992)
+  - S. Parpola, Letters from Assyrian and Babylonian Scholars (SAA 10, 1993)
+  - E. Reiner and D. Pingree, Babylonian Planetary Omens (1975-2005)
+  - F. Rochberg, The Heavenly Writing (2004)
+  image_query: Venus tablet of Ammisaduqa British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

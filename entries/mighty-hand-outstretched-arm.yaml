@@ -1,0 +1,68 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: mighty-hand-outstretched-arm
+title: '"Mighty Hand and Outstretched Arm"'
+type: concept
+cultures: [egyptian, hebrew]
+scope: >-
+  The biblical formula for the exodus, "with a mighty hand and an outstretched arm", and related
+  arm-and-hand idioms of YHWH's power. It has been proposed as a polemical appropriation of
+  Egyptian royal epithets celebrating pharaoh's strong arm. The entry covers the formula's
+  distribution and the proposed Egyptian, and wider ancient Near Eastern, background.
+passages:
+- ref: Exod 6:6
+  rel: polemic
+  disputed: true
+  note: Redemption 'with an outstretched arm' against pharaoh
+- ref: Deut 4:34; 5:15; 26:8
+  rel: language
+  note: '''Mighty hand and outstretched arm'' as Deuteronomic exodus formula'
+- ref: Jer 32:21
+  rel: language
+  note: The formula in a prayer recalling the exodus
+- ref: Ps 136:12
+  rel: language
+  note: '''With a strong hand and an outstretched arm'''
+- ref: Exod 15:6
+  rel: imagery
+  note: YHWH's right hand shatters the enemy
+- ref: Ezek 20:33-34
+  rel: language
+  note: The formula turned in judgment against Israel itself
+related: [egyptian-kingship, divine-warrior, smiting-the-enemy-motif, exodus-historical-questions,
+  amarna-letters, ten-plagues-and-egyptian-gods]
+media:
+- id: mighty-hand-outstretched-arm
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Hoffmeier and Görg have argued that the formula appropriates Egyptian royal epithets (e.g.,
+    the king as "strong of arm", ḫpš), and the polemical reading is plausible. But "strong
+    arm" language is also found in Akkadian and in the Amarna letters (Abdi-Heba refers to
+    the king's strong arm; verify the EA references). The background is not exclusively Egyptian.
+  - >-
+    The full formula is characteristic of Deuteronomy and Deuteronomistic texts (Deut; Jer;
+    1 Kgs 8:42; Ps 136). Note what this implies for the date of the polemic.
+  - >-
+    Show how the idiom works in the plague narrative's contest between YHWH's arm and pharaoh's
+    (cf. Ezek 30:21-25, where pharaoh's arm is broken).
+  sources_to_check:
+  - >-
+    Hoffmeier, 'The Arm of God versus the Arm of Pharaoh in the Exodus Narratives', Biblica
+    67 (1986)
+  image_query: Ramesses II smiting enemies relief
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

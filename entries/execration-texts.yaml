@@ -1,0 +1,70 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: execration-texts
+title: Egyptian Execration Texts
+aliases: [Egyptian Execration Texts, Ächtungstexte]
+type: text
+cultures: [egyptian]
+date:
+  from: -1950
+  to: -1750
+  circa: true
+  display: c. 1950–1750 BCE
+scope: >-
+  Middle Kingdom ritual texts cursing enemies of Egypt: foreign rulers and peoples in Nubia,
+  Libya, and the Levant, along with rebellious Egyptians. They were written on pottery bowls
+  and clay figurines of bound captives, which were then smashed or buried. They are a major
+  source for Middle Bronze Age Levantine place names and Amorite personal names.
+passages:
+- ref: Josh 10:1
+  rel: attests
+  note: 'Jerusalem: ''Rushalimum'', with its rulers, is named in the texts'
+- ref: Jer 19:10-11
+  rel: practice
+  note: Smashing a jar as a symbolic act enacting a city's destruction
+- ref: Ps 2:9
+  rel: imagery
+  note: Nations dashed in pieces like a potter's vessel
+- ref: Num 22:6
+  rel: practice
+  note: Commissioned ritual cursing of an enemy people
+related: [jerusalem, blessings-and-curses, amorites, pottery-and-potters, canaanites, story-of-sinuhe]
+media:
+- id: execration-texts
+  role: primary
+- id: execration-texts-2
+  role: gallery
+external:
+  wikipedia: Execration texts
+  wikidata: Q252811
+editorial:
+  author_notes:
+  - >-
+    Describe the main groups. Sethe published inscribed bowls in Berlin (1926). Posener published
+    inscribed figurines from Saqqara, now in Brussels (1940); they are generally somewhat
+    later. The Mirgissa deposit in Nubia preserves the full ritual context, including a human
+    sacrifice.
+  - >-
+    The identification of Rushalimum with Jerusalem is widely accepted and makes this the
+    earliest mention of the city. Other Levantine identifications (e.g., Ashkelon, Shechem)
+    should be checked individually, as some readings are debated.
+  - >-
+    The ritual logic (breaking an inscribed object to break the enemy) illuminates prophetic
+    sign-acts (Jer 19) and royal imagery (Ps 2:9). Do not overstate direct influence.
+  sources_to_check:
+  - ANET 328-329
+  - Ritner, The Mechanics of Ancient Egyptian Magical Practice (1993)
+  image_query: Execration figurine Egyptian Middle Kingdom
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

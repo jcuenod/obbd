@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: herods-temple-2
+file: herods-temple-2.jpg
+title: Second Temple.jpg
+caption: >-
+  Modern model of Herod's Temple in the Holyland Model of Jerusalem (Israel Museum, Jerusalem).
+description: The Second Jewish Temple. Model in the Israel Museum.
+creator: Ariely
+credit_line: Own work
+license:
+  id: CC-BY-3.0
+  name: CC BY 3.0
+  url: https://creativecommons.org/licenses/by/3.0
+attribution: Ariely, CC BY 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Second_Temple.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/c/cd/Second_Temple.jpg
+  sha1: 4dcb7a6a7104eb302fd88c7a99483e8a6d2ddb97
+  original_size: [2048, 1536]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [herods-temple]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

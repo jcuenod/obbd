@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: politarch-inscriptions
+file: politarch-inscriptions.png
+title: Politarch inscription, Golden Gate Thessaloniki, before 1874.png
+caption: >-
+  The politarch inscription on the Vardar (Golden) Gate of Thessalonica, photographed before
+  the gate was demolished in 1874.
+description: Politarch inscription, Golden Gate Thessaloniki, before the gate was demolished
+  in 1874
+creator: Richard Wilkison
+credit_line: >-
+  Burton, Ernest DeWitt (1898). "The Politarchs". The American Journal of Theology. 2 (3):
+  600
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Richard Wilkison. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Politarch_inscription,_Golden_Gate_Thessaloniki,_before_1874.png
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/b4/Politarch_inscription%2C_Golden_Gate_Thessaloniki%2C_before_1874.png
+  sha1: 2b5f5d285a48fe4c10fc4d0757c562b2308c4184
+  original_size: [1798, 1270]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1130 px
+size: [1600, 1130]
+depicts: [politarch-inscriptions]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

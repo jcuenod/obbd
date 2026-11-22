@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: sidon-2
+file: sidon-2.jpg
+title: Archäologisches Museum Istanbul 2013-03-18y.jpg
+caption: >-
+  Sarcophagus of the Mourning Women from the royal necropolis of Sidon, Pentelic marble, mid-4th
+  century BCE (Istanbul Archaeology Museums).
+description: >-
+  Turkey: Istanbul Archaeology Museums, sarcophagus of the mourning women, Pentelic marble,
+  royal necropolis of Sidon, mid of 4th century BC
+creator: Rabe!
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Rabe!, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Arch%C3%A4ologisches_Museum_Istanbul_2013-03-18y.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/19/Arch%C3%A4ologisches_Museum_Istanbul_2013-03-18y.jpg
+  sha1: b137aec5dfb0748d3e1defe19fe1371cf115f790
+  original_size: [2933, 4627]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1014×1600 px
+size: [1014, 1600]
+depicts: [sidon]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,81 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ziggurat
+title: Ziggurats
+type: realia
+cultures: [mesopotamian]
+scope: >-
+  The stepped temple towers of Mesopotamian cities, built from the late third millennium (as
+  at Ur under Ur-Nammu) to the Neo-Babylonian period. The entry covers their form, function
+  and names, and their role as background for the tower of Babel and for the motif of a stairway
+  linking heaven and earth.
+passages:
+- ref: Gen 11:1-9
+  rel: realia
+  note: Tower 'with its top in the heavens' built of brick in Shinar
+- ref: Gen 28:12
+  rel: imagery
+  disputed: true
+  note: Jacob's stairway (sullam), compared with the ziggurat ramp (simmiltu)
+- ref: Gen 28:17
+  rel: language
+  note: '''Gate of heaven''; cf. Babylon''s name Bab-ili, ''gate of the god'''
+- ref: Ezek 43:13-17
+  rel: realia
+  disputed: true
+  note: >-
+    Stepped altar with 'bosom of the earth' and 'mountain of God', compared to ziggurat terms
+- ref: Isa 14:13
+  rel: imagery
+  note: Ascent to the mount of assembly in the far north
+related: [ziggurat-and-babel, etemenanki, cosmic-mountain, temple-as-cosmos, ur, babylon]
+media:
+- id: ziggurat
+  role: primary
+- id: ziggurat-2
+  role: gallery
+external:
+  wikipedia: Ziggurat
+  wikidata: Q170153
+editorial:
+  author_notes:
+  - >-
+    Ziggurats supported a high temple and functioned as visible links between heaven and earth;
+    they were not tombs or observatories. Correct popular misconceptions.
+  - >-
+    The Jacob's ladder comparison rests on sullam as a ramp or stair; it is widely cited but
+    not certain.
+  - >-
+    Albright's reading of Ezek 43:13-17 in light of ziggurat terminology (e.g. ḥêq hāʾāreṣ,
+    harʾēl) is influential but debated.
+  - >-
+    Distinguish the general institution (this entry) from Babylon's Etemenanki and from the
+    interpretive concept ziggurat-and-babel.
+  sources_to_check:
+  - >-
+    Walton, "The Mesopotamian Background of the Tower of Babel Account and Its Implications,"
+    BBR 5 (1995)
+  image_query: Ziggurat of Ur
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: 'Passage tags checked against WEB text: Gen 11:1-9 rel setting -> realia'
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+- date: '2026-11-21'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Image ziggurat-2: replaced GFDL-only File:Choqa Zanbil Darafsh 1 (36).JPG with Choqa Zanbil
+    2.jpg (CC BY-SA 2.0). GFDL is no longer accepted.

@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: elephantine-papyri
+file: elephantine-papyri.jpg
+title: Elephantine papyrus J 37112 (Sayce and Cowley 1906, F) from the Mibtahiah archive.jpg
+caption: >-
+  Aramaic papyrus from the Mibtahiah family archive at Elephantine, 5th century BCE (Egyptian
+  Museum, Cairo, J 37112).
+description: At the Egyptian Museum, 2022
+creator: Onceinawhile
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Onceinawhile, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Elephantine_papyrus_J_37112_(Sayce_and_Cowley_1906,_F)_from_the_Mibtahiah_archive.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/b0/Elephantine_papyrus_J_37112_%28Sayce_and_Cowley_1906%2C_F%29_from_the_Mibtahiah_archive.jpg
+  sha1: 8ad831abb2227192da8469883541fdeb2cb1d7e5
+  original_size: [1868, 2479]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1206×1600 px
+size: [1206, 1600]
+depicts: [elephantine-papyri]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

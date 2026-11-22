@@ -1,0 +1,90 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: chariots-and-horses
+title: Chariots and Horses
+aliases: [Chariotry, Cavalry, Horse trade]
+type: realia
+cultures: [israelite, judahite, egyptian, assyrian]
+scope: >-
+  Horse-drawn chariots and horses in warfare, prestige, and cult in the ancient Near East
+  and in Israel and Judah. Covers chariot technology, Israelite chariot forces in Assyrian
+  sources, the horse trade, and the theological critique of reliance on horses.
+passages:
+- ref: Exod 14:6-9, 23
+  rel: realia
+  note: Pharaoh's chariotry in pursuit
+- ref: Exod 15:1-4
+  rel: realia
+  note: Horse and rider and Pharaoh's chariots cast into the sea
+- ref: Deut 17:16
+  rel: practice
+  note: King must not multiply horses or send people back to Egypt for them
+- ref: Josh 11:6, 9
+  rel: practice
+  note: Hamstringing horses and burning chariots
+- ref: Judg 4:3, 13
+  rel: realia
+  note: Sisera's nine hundred 'iron' chariots
+- ref: 2Sam 8:4
+  rel: practice
+  note: David hamstrings captured chariot horses
+- ref: 1Kgs 10:26-29
+  rel: practice
+  note: Solomon's chariot cities; horses from 'Egypt and Kue' (Cilicia)
+- ref: 1Kgs 4:26
+  rel: realia
+  note: 40,000 stalls (MT 5:6); 2 Chr 9:25 reads 4,000
+- ref: 2Kgs 2:11-12
+  rel: imagery
+  note: Chariot of fire; 'the chariots of Israel and its horsemen'
+- ref: 2Kgs 23:11
+  rel: practice
+  note: Horses dedicated to the sun removed by Josiah
+- ref: Ps 20:7
+  rel: concept
+  note: '''Some take pride in chariots, and some in horses'' (MT 20:8)'
+- ref: Isa 31:1
+  rel: concept
+  note: Woe to those relying on Egypt's horses and chariots
+related: [battle-of-qarqar, kurkh-monoliths, megiddo, kadesh-battle-reliefs, ahab, solomon,
+  weapons, iron-technology]
+media:
+- id: chariots-and-horses
+  role: primary
+external:
+  wikipedia: Chariot
+  wikidata: Q203788
+editorial:
+  author_notes:
+  - >-
+    Ahab fielded 2,000 chariots at Qarqar (Kurkh Monolith), the largest chariot contingent
+    there. Sargon II incorporated a Samarian chariot unit into his army, and the Nimrud Horse
+    Lists (Dalley, Iraq 47, 1985) attest Israelite charioteers in Assyrian service.
+  - >-
+    The Megiddo pillared buildings have been read as stables or as storehouses. They are now
+    generally dated to the 8th century, not to Solomon. Present the debate.
+  - >-
+    'Egypt' (miṣrayim) in 1 Kgs 10:28 is sometimes emended to Muṣri in Anatolia. Kue is Cilicia.
+    'Iron chariots' probably means chariots with iron fittings.
+  - >-
+    Trace the shift from Late Bronze chariot elites (Amarna letters, Egyptian reliefs) to
+    Iron II cavalry, and the theological critique (Deut 17; Isa 31; Ps 20) of military horse
+    power.
+  sources_to_check:
+  - >-
+    Littauer and Crouwel, Wheeled Vehicles and Ridden Animals in the Ancient Near East (1979)
+  - Cantrell, The Horsemen of Israel (2011)
+  image_query: Assyrian chariot relief British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

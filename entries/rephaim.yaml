@@ -1,0 +1,81 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: rephaim
+title: Rephaim
+aliases: [Rapiʾuma, shades, rpum]
+type: concept
+cultures: [ugaritic, phoenician, hebrew]
+scope: >-
+  The Rephaim, in Ugaritic and Phoenician texts the (royal) dead or deified ancestors, and
+  in the Hebrew Bible both the shades of the netherworld and a legendary race of giant pre-Israelite
+  inhabitants of Transjordan and Canaan. The entry addresses both uses and their relationship.
+passages:
+- ref: Isa 14:9
+  rel: concept
+  note: Sheol rouses the Rephaim, former kings, to greet the dead tyrant
+- ref: Isa 26:14, 19
+  rel: concept
+  note: Rephaim do not rise; earth gives birth to the Rephaim
+- ref: Ps 88:10
+  rel: concept
+  note: Do the Rephaim rise to praise God? (MT 88:11)
+- ref: Prov 2:18; 9:18; 21:16
+  rel: concept
+  note: The way of folly leads to the Rephaim
+- ref: Job 26:5
+  rel: concept
+  note: The Rephaim tremble beneath the waters
+- ref: Deut 2:10-11, 20-21
+  rel: attests
+  note: Rephaim as ancient giant inhabitants (Emim, Zamzummim)
+- ref: Deut 3:11, 13
+  rel: attests
+  note: Og the last of the Rephaim; Bashan 'land of Rephaim'
+- ref: Josh 12:4
+  rel: concept
+  note: Og at Ashtaroth and Edrei, the seat of Rapiʾu in KTU 1.108
+- ref: 2Sam 21:15-22
+  rel: attests
+  disputed: true
+  note: Gittite warriors 'descendants of hārāpāh'
+related: [nephilim, care-for-the-dead, sheol-and-the-netherworld, necromancy, afterlife-and-resurrection,
+  eshmunazar-sarcophagus, aqhat-epic, ugaritic-texts]
+media: []
+external:
+  wikipedia: Rephaite
+  wikidata: Q1972451
+editorial:
+  author_notes:
+  - >-
+    The striking match between Og's cities (Ashtaroth and Edrei) and the abode of Rapiʾu in
+    KTU 1.108 suggests that the Bashan giant traditions transformed a Rephaim/royal-dead tradition;
+    widely accepted, but present the mechanism as hypothesis.
+  - >-
+    KTU 1.161 is a royal funerary liturgy summoning the ancient Rephaim for a dead king; KTU
+    1.20-1.22 are fragmentary Rephaim texts; Phoenician curses (Tabnit, Eshmunazar) deny the
+    violator rest "with the Rephaim".
+  - >-
+    Whether the Rephaim at Ugarit are deified dead kings, a warrior elite, or both is debated;
+    etymology from rpʾ "heal" is common but the sense is disputed.
+  - Treat claims about actual giants as a biblical ethnographic tradition, not history.
+  sources_to_check:
+  - KTU 1.20-1.22
+  - KTU 1.108
+  - KTU 1.161
+  - KAI 13
+  - KAI 14
+  - D. Pardee, Ritual and Cult at Ugarit (2002)
+  - DDD, s.v. "Rephaim"
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

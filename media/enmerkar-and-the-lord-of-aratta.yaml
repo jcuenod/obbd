@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: enmerkar-and-the-lord-of-aratta
+file: enmerkar-and-the-lord-of-aratta.jpg
+title: Enmerkar and the Lord of Aratta Ashmolean.jpg
+caption: >-
+  Fragment of a cuneiform tablet of Enmerkar and the Lord of Aratta, Old Babylonian period
+  (Ashmolean Museum, Oxford).
+description: >-
+  Fragment of Sumerian cuneiform tablet, "Enmerkar and the Lord of Aratta" epic, with a tale
+  about the invention of writing. Old Babylonian period (1900-1600 BC), findspot unknown (in
+  Iraq). Ashmolean Museum AN1924.475 https://collections.ashmolean.org/object/462298
+creator: Zunkir
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Zunkir, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Enmerkar_and_the_Lord_of_Aratta_Ashmolean.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/1e/Enmerkar_and_the_Lord_of_Aratta_Ashmolean.jpg
+  sha1: a36e153b92542e571e558e1e7e7b678e6b231830
+  original_size: [2750, 2346]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1365 px
+size: [1600, 1365]
+depicts: [enmerkar-and-the-lord-of-aratta]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

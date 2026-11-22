@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: cosmic-mountain
+file: cosmic-mountain.jpg
+title: View of Jebel Aqra mountain from Yoğunoluk village in southern Turkey.jpg
+caption: >-
+  Jebel Aqra (Mount Casius), ancient Mount Zaphon, seen from the north near the Mediterranean
+  coast.
+description: View of Jebel Aqra mountain from Yoğunoluk village in southern Turkey
+creator: Poshotenk
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Poshotenk, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:View_of_Jebel_Aqra_mountain_from_Yo%C4%9Funoluk_village_in_southern_Turkey.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/0/07/View_of_Jebel_Aqra_mountain_from_Yo%C4%9Funoluk_village_in_southern_Turkey.jpg
+  sha1: 060f32c09501168dd61c38a992c75a8cf1759ac0
+  original_size: [6000, 4000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [cosmic-mountain]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

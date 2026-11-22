@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: footstool
+file: footstool.jpg
+title: Right Section of the Treasury Reliefs (4735541667).jpg
+caption: >-
+  Treasury relief from Persepolis showing the enthroned Achaemenid king with his feet on a
+  footstool (National Museum of Iran, Tehran).
+description: >-
+  Originally at Persepolis, the Treasury Reliefs are now in the National Archaeological Museum,
+  Tehran. From left to right: Darius (who never reigned); the Persian King, Xerxes, on his
+  throne; a pair of incense burners; the commander of the royal bodyguard; and a pair of Persian
+  guards.
+creator: A.Davey from Portland, Oregon, EE UU
+credit_line: Right Section of the Treasury Reliefs Uploaded by Marcus Cyron
+license:
+  id: CC-BY-2.0
+  name: CC BY 2.0
+  url: https://creativecommons.org/licenses/by/2.0
+attribution: A.Davey from Portland, Oregon, EE UU, CC BY 2.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Right_Section_of_the_Treasury_Reliefs_(4735541667).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/e/e1/Right_Section_of_the_Treasury_Reliefs_%284735541667%29.jpg
+  sha1: ebd759261ed6678077d3d1507fe7c27b83dba0f7
+  original_size: [4288, 2848]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1063 px
+size: [1600, 1063]
+depicts: [footstool]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

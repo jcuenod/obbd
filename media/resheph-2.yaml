@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: resheph-2
+file: resheph-2.jpg
+title: Stele of Qadesh upper-frame.jpg
+caption: >-
+  Egyptian limestone stele showing Qedeshet on a lion flanked by Min (left) and Resheph (right),
+  New Kingdom.
+description: >-
+  Egyptian limestone stele depicting Qetesh standing on a lion and wearing the headdress of
+  Hathor, flanked by Min (left) and Resheph (right)
+creator: Rama
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0 fr
+  url: https://creativecommons.org/licenses/by-sa/3.0/fr/deed.en
+attribution: Rama, CC BY-SA 3.0 fr, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Stele_of_Qadesh_upper-frame.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/9/9e/Stele_of_Qadesh_upper-frame.jpg
+  sha1: c9ebac24c26cd7ee59b42f70f41cdb40487f5681
+  original_size: [2630, 2626]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1598 px
+size: [1600, 1598]
+depicts: [resheph]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,89 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tahpanhes
+title: Tahpanhes (Daphnae)
+aliases: [Daphnae, Tell Defenneh, Tell Dafana, Tehaphnehes]
+type: site
+cultures: [egyptian, judahite, greek]
+scope: >-
+  A Saite-period fortress town on the eastern edge of the Nile Delta (Tell Defenneh), the
+  Greek Daphnae where Psammetichus I stationed a frontier garrison. Jeremiah places Judean
+  refugees there after the murder of Gedaliah, and it stands for Egypt in several prophetic
+  oracles.
+passages:
+- ref: Jer 2:16
+  rel: setting
+  note: People of Memphis and Tahpanhes have broken the crown of your head
+- ref: Jer 43:7-9
+  rel: setting
+  note: >-
+    Judean refugees with Jeremiah reach Tahpanhes; stones hidden at the entrance of Pharaoh's
+    palace
+- ref: Jer 43:10-13
+  rel: event
+  disputed: true
+  note: Nebuchadnezzar to set his throne there; cf. his campaign against Egypt in 568/567
+- ref: Jer 44:1
+  rel: setting
+  note: Judeans living at Migdol, Tahpanhes, Memphis and Pathros
+- ref: Jer 46:14
+  rel: setting
+  note: Proclaim in Migdol, Memphis and Tahpanhes
+- ref: Ezek 30:18
+  rel: setting
+  note: At Tehaphnehes the day shall be dark when Egypt's yokes are broken
+related: [apries, memphis, elephantine, fall-of-jerusalem-587, nebuchadnezzar-ii, babylonian-exile,
+  queen-of-heaven]
+media:
+- id: tahpanhes
+  role: primary
+- id: tahpanhes-2
+  role: gallery
+external:
+  wikipedia: Tahpanhes
+  wikidata: Q1810451
+  pleiades: '727103'
+editorial:
+  author_notes:
+  - >-
+    Petrie excavated the site in 1886 and called the main fortress building 'Qasr Bint el-Yehudi'
+    ('palace of the Jew's daughter'), linking it to Jer 43. The local name and Petrie's identification
+    of the brick pavement of Jer 43:9 are not evidence. Recent British Museum work (Leclère
+    and Spencer) has reinterpreted the site.
+  - >-
+    Herodotus (2.30, 2.154) mentions the garrison at Daphnae and Greek mercenaries in the
+    eastern Delta. Abundant East Greek pottery shows a mixed population. This context of foreign
+    soldiers and refugees suits Jer 43-44.
+  - >-
+    Do not confuse the place with Queen Tahpenes (1 Kgs 11:19-20), wife of a pharaoh in Solomon's
+    time. The names are only similar.
+  - >-
+    The fragmentary Babylonian text on Nebuchadnezzar's 37th year (BM 33041) attests a campaign
+    against Amasis but gives little detail; Jer 43:10-13 cannot be matched to it closely.
+  sources_to_check:
+  - 'W. M. F. Petrie, Tanis II: Nebesheh (Am) and Defenneh (Tahpanhes) (1888)'
+  - >-
+    F. Leclère and J. Spencer, Tell Dafana Reconsidered: The Archaeology of an Egyptian Frontier
+    Town (BMRP 199, 2014)
+  image_query: Tell Defenneh
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q1810451 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 30.86056
+  lon: 32.17139
+  source: wikidata:Q1810451

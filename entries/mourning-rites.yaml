@@ -1,0 +1,92 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: mourning-rites
+title: Mourning Rites
+aliases: [Mourning customs, Lament]
+type: practice
+cultures: [ane, ugaritic]
+scope: >-
+  Mourning practices in the Hebrew Bible: tearing garments, sackcloth, dust and ashes, shaving,
+  gashing, fasting, lament and professional keening women. These are compared with Ugaritic
+  and other ancient Near Eastern evidence. The entry includes the Pentateuchal prohibitions
+  of some rites.
+passages:
+- ref: Gen 37:34
+  rel: practice
+  note: Jacob tears his garments, wears sackcloth, mourns many days
+- ref: Gen 50:10
+  rel: practice
+  note: Seven days of mourning for Jacob
+- ref: 2Sam 1:11-12
+  rel: practice
+  note: Tearing clothes, weeping and fasting until evening
+- ref: 2Sam 3:31-35
+  rel: practice
+  note: Sackcloth, following the bier, lament and fasting for Abner
+- ref: Lev 19:27-28
+  rel: practice
+  note: Prohibition of trimming the beard and gashing for the dead
+- ref: Deut 14:1
+  rel: practice
+  note: No gashing or shaving the forehead for the dead
+- ref: Jer 16:6-7
+  rel: practice
+  note: Gashing, shaving, bread of mourning and cup of consolation assumed as normal
+- ref: Jer 41:5
+  rel: practice
+  note: Pilgrims with shaved beards, torn clothes and gashed bodies
+- ref: Jer 9:17-20
+  rel: practice
+  note: Professional keening women (MT 9:16-19)
+- ref: Isa 15:2-3
+  rel: practice
+  note: 'Moab''s mourning: baldness, shaved beards, sackcloth'
+- ref: Ezek 24:15-24
+  rel: practice
+  note: Ezekiel forbidden the customary mourning rites
+- ref: Job 2:12-13
+  rel: practice
+  note: Torn robes, dust on heads, sitting seven days in silence
+- ref: Amos 8:10
+  rel: practice
+  note: Sackcloth, baldness, mourning as for an only son
+related: [care-for-the-dead, baal-cycle, ahiram-sarcophagus, marzeah, sheol-and-the-netherworld,
+  bench-tombs, city-laments]
+media:
+- id: mourning-rites
+  role: primary
+- id: mourning-rites-2
+  role: gallery
+external:
+  wikipedia: Mourning
+  wikidata: Q750652
+editorial:
+  author_notes:
+  - >-
+    El's mourning for Baal (KTU 1.5 vi 11-25) is a close parallel: he descends from the throne,
+    sits in the dust, puts on sackcloth, and gashes cheeks, chin and arms. Anat mourns in
+    the same way.
+  - >-
+    The prohibitions in Lev 19:27-28 and Deut 14:1 contrast with Jeremiah's assumption that
+    these rites are normal (Jer 16:6; 41:5). They are best explained as later boundary-drawing,
+    not as bans on originally foreign customs.
+  - >-
+    Use S. M. Olyan, Biblical Mourning: Ritual and Social Dimensions (2004), for the social
+    functions of mourning, including non-death mourning such as petition and penitence.
+  - >-
+    Iconography: the mourning women on the Ahiram sarcophagus (hands on heads, bared breasts).
+  sources_to_check: [KTU 1.5 vi 11-25, COS 1.86 (Baal Myth)]
+  image_query: Ahiram sarcophagus mourning women
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

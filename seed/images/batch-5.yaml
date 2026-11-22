@@ -1,0 +1,415 @@
+jezreel:
+  - file: "File:Tel-Yizrael-528.jpg"
+    caption: "Excavated remains on the summit of Tel Jezreel (Tel Yizre'el), Israel."
+    role: primary
+
+joseph-story-egyptian-background:
+  - file: "File:Model granary with workers and a scribe, wood - Museo Egizio Turin S 8651 p01.jpg"
+    caption: "Egyptian wooden model of a granary with workers and a scribe (Museo Egizio, Turin, S 8651)."
+    role: primary
+
+josephus:
+  - file: "File:Antiquités judaiques et la guerre des juifs de Flavius Josephus - Soane Museum Ms1 f11 (Meurtre d'Aristobule).jpg"
+    caption: "The murder of Aristobulus, an illuminated page from a medieval French manuscript of Josephus's Jewish Antiquities and Jewish War (Sir John Soane's Museum, London, MS 1, f. 11)."
+    role: primary
+
+jubilees: []   # reason: no free image of a Jubilees manuscript (Ethiopic or Qumran); candidates are a 19th-century study's title page and unrelated "Jubilee" books
+
+judaea-capta-coins:
+  - file: "File:Sestertius - Vespasiano - Iudaea Capta-RIC 0424.jpg"
+    caption: "Bronze sestertius of Vespasian, struck in 71 CE, with the IVDAEA CAPTA reverse showing a mourning Judaea seated beneath a palm and a bound captive."
+    role: primary
+  - file: "File:Vespasien aureus Gallica 22125 revers.jpg"
+    caption: "Gold aureus of Vespasian with the reverse legend IVDAEA DEVICTA, Judaea standing beside a palm tree, Rome, c. 80 CE (Bibliothèque nationale de France)."
+    role: gallery
+
+judean-pillar-figurines:
+  - file: "File:Nude female figure (Judean pillar figurine) MET DP-42289-001.jpg"
+    caption: "Judean pillar figurine, ceramic (Metropolitan Museum of Art, New York)."
+    role: primary
+  - file: "File:Judaean female figurines - Israel Museum, Jerusalem.jpg"
+    caption: "Judean pillar figurines from Jerusalem, Beersheba and Tel Erani, 8th–6th century BCE (Israel Museum, Jerusalem)."
+    role: gallery
+
+kadesh-barnea:
+  - file: "File:Sinai. Ain Gedeirat, Kadesh Barnea. Num. 20-1 LOC matpc.23028.jpg"
+    caption: "The oasis of ʿAin el-Qudeirat (Ain Gedeirat), usually identified with Kadesh-barnea, in a Matson Collection photograph (Library of Congress)."
+    role: primary
+
+kadesh-battle-reliefs:
+  - file: "File:Templo de Ramsés II, Abu Simbel, Egipto, 2022-04-02, DD 74-76 HDR.jpg"
+    caption: "Ramesses II in his chariot at the battle of Kadesh, relief on the south wall of the hypostyle hall of the Great Temple at Abu Simbel."
+    role: primary
+  - file: "File:Battle scene from the Great Kadesh reliefs of Ramses II on the Walls of the Ramesseum.jpg"
+    caption: "Engraved drawing of a battle scene from the Kadesh reliefs on the walls of the Ramesseum, western Thebes."
+    role: gallery
+
+karatepe-inscription:
+  - file: "File:KaratepeNord7.jpg"
+    caption: "Part of the Phoenician text of the Azatiwada bilingual at the north gate of Karatepe-Aslantaş, 8th century BCE."
+    role: primary
+  - file: "File:Karatepe Azatiwada inscription Luwian text 5253.jpg"
+    caption: "Hieroglyphic Luwian text of the Azatiwada bilingual, Karatepe-Aslantaş."
+    role: gallery
+
+katumuwa-stele:
+  - file: "File:Gaziantep Archaeology museum Kuttamuwa stele 4270.jpg"
+    caption: "The Katumuwa (Kuttamuwa) stele, basalt, Iron Age, from Zincirli (Gaziantep Archaeology Museum)."
+    role: primary
+
+ketef-hinnom-amulets:
+  - file: "File:Kettef Hinnom scrolls1.jpg"
+    caption: "The two silver amulets from Ketef Hinnom, Jerusalem, as displayed in the Israel Museum, Jerusalem."
+    role: primary
+  - file: "File:Ketef Hinnom KH2 Scroll.jpg"
+    caption: "Scan of the unrolled amulet KH2 from Ketef Hinnom."
+    role: gallery
+
+khirbet-ataruz: []   # reason: no free photographs of Khirbat Ataruz; candidates are a 19th-century map and an unrelated modern Ataroth in Israel
+
+khirbet-el-qom-inscription:
+  - file: "File:כתובת אריהו מפורשת.jpg"
+    caption: "The Uriyahu tomb inscription from Khirbet el-Qom with its incised hand, photographed in the Israel Museum, Jerusalem; the uploader has added a modern Hebrew transcription beneath each letter."
+    role: primary
+
+khirbet-qeiyafa:
+  - file: "File:View of Khirbet Qeiyafa.jpg"
+    caption: "General view of the excavated ruins of Khirbet Qeiyafa above the Elah Valley."
+    role: primary
+  - file: "File:West Gate, Khirbet Qeiyafa, Ha'Ella Valey, Judea, Israel השער המערבי, חרבת קייאפה, עמק האלה - panoramio.jpg"
+    caption: "The western gate of Khirbet Qeiyafa."
+    role: gallery
+
+khirbet-qeiyafa-ostracon:
+  - file: "File:Bible-Lands-Museum-Khirbet-Qeiyafa-30244.jpg"
+    caption: "The Khirbet Qeiyafa ostracon, ink on pottery, late 11th or early 10th century BCE, in the Khirbet Qeiyafa exhibition at the Bible Lands Museum, Jerusalem."
+    role: primary
+  - file: "File:Khirbet Qeiyafa Ostracon.jpg"
+    caption: "Illustrative rendition of the ostracon's ink text by Michael Netzer, based on the excavators' photographs."
+    role: gallery
+
+khnum:
+  - file: "File:26949- Khnum makes man on the potters wheel.jpg"
+    caption: "Ram-headed Khnum shaping a child on the potter's wheel, relief at the temple complex of Dendera."
+    role: primary
+  - file: "File:Egyptian sculpture IMG 0573.JPG"
+    caption: "Statue of the ram god Khnum, quartzite (Musée du Louvre, Paris)."
+    role: gallery
+
+kilamuwa-stele:
+  - file: "File:Pergamon Museum Kilamuwa Stela from Sam'al Zincirli 1583.jpg"
+    caption: "The Kilamuwa stele, basalt, c. 825 BCE, from Samʾal (Zincirli), showing the king before divine symbols above his Phoenician inscription (Pergamon Museum, Berlin)."
+    role: primary
+  - file: "File:Kilamuwa Stele sketch.jpg"
+    caption: "Drawing of the Kilamuwa stele and inscription from Ausgrabungen in Sendschirli, vol. 4."
+    role: gallery
+
+king-as-son-of-god:
+  - file: "File:La regina Muthemwa (Mutemwia) partorisce Amenôf III (Memnone), che, come il divino Horus, è allattato dalle sacre vacche (NYPL b14291206-425699).jpg"
+    caption: "Scenes from the divine birth cycle of Amenhotep III in the birth room of Luxor Temple, including Queen Mutemwia's delivery and the infant king nursed by divine cows, in a 19th-century drawing by Ippolito Rosellini (New York Public Library)."
+    role: primary
+
+kirta-epic: []   # reason: no free photograph of the Kirta tablets (KTU 1.14–1.16); candidates are unrelated Ugarit objects and an icon
+
+kudurru:
+  - file: "File:Kudurru Melishipak Louvre Sb23.jpg"
+    caption: "Kudurru of the Kassite king Melishipak (1186–1172 BCE): the king presents his daughter to the goddess Nanaya beneath divine symbols (Musée du Louvre, Sb 23)."
+    role: primary
+  - file: "File:Kudurru Melishipak Louvre Sb23 n02.jpg"
+    caption: "Detail of the Melishipak kudurru showing the star of Ishtar, crescent of Sin and sun disc of Shamash above the presentation scene (Musée du Louvre, Sb 23)."
+    role: gallery
+
+kuntillet-ajrud: []   # reason: no free photographs of the site itself; the Pithos A drawing is assigned to kuntillet-ajrud-inscriptions with depicts: kuntillet-ajrud
+
+kuntillet-ajrud-inscriptions:
+  - file: "File:Ajrud.jpg"
+    caption: "Drawing of the figures and inscription painted on Pithos A from Kuntillet ʿAjrud, including the blessing 'by YHWH of Samaria and his asherah'."
+    role: primary
+    depicts: [kuntillet-ajrud]
+
+kurkh-monoliths:
+  - file: "File:Kurkh stele of Shalmaneser III. From Diyarbakır, southern Turkey. British Museum.jpg"
+    caption: "The Kurkh Monolith of Shalmaneser III, showing the king before divine symbols, with the account of the battle of Qarqar (853 BCE) (British Museum)."
+    role: primary
+    depicts: [battle-of-qarqar]
+  - file: "File:Kurkh stele of Ashurnasirpal II. From Diyarbakır, southern Turkey. British Museum.jpg"
+    caption: "The Kurkh stele of Ashurnasirpal II, showing the king worshipping before divine symbols (British Museum)."
+    role: gallery
+
+lachish:
+  - file: "File:Tel Lachish, aerial 01.JPG"
+    caption: "Aerial view of Tel Lachish (Tell ed-Duweir) in the Shephelah."
+    role: primary
+  - file: "File:Tel Lachish siege ramp.jpg"
+    caption: "The Assyrian siege ramp at Tel Lachish."
+    role: gallery
+    depicts: [sennacherib-campaign-701]
+
+lachish-letters:
+  - file: "File:Lachish,Tell ed Duweir, Letter 4 Wellcome L0005980.jpg"
+    caption: "Lachish Letter 4, a Hebrew ink ostracon from Tell ed-Duweir, early 6th century BCE, both faces (photograph, Wellcome Collection)."
+    role: primary
+  - file: "File:Lachish letter No. 3 LOC matpc.00257.jpg"
+    caption: "Lachish Letter 3 in a Matson Collection photograph (Library of Congress)."
+    role: gallery
+
+lachish-reliefs:
+  - file: "File:Lachish inscription.jpeg"
+    caption: "Sennacherib enthroned receiving the spoil of Lachish, with the cuneiform epigraph naming him and the city; gypsum relief from the South-West Palace, Nineveh (British Museum)."
+    role: primary
+    depicts: [sennacherib-campaign-701]
+  - file: "File:Siege of Lachish (701 BCE).jpg"
+    caption: "The full sequence of the Lachish reliefs as displayed in the British Museum."
+    role: gallery
+
+lamashtu-pazuzu-amulets:
+  - file: "File:Plaque against Lamashtu-AO 22205-IMG 9971-gradient.jpg"
+    caption: "Bronze plaque against Lamashtu, with Pazuzu's head and body framing the scene, Neo-Assyrian period (Musée du Louvre, AO 22205)."
+    role: primary
+  - file: "File:Bronze plate, several Mesopotamian deities or creatures ward off evil spirits. From Iraq. 9th-7th century BCE. Ancient Orient Museum, Istanbul.jpg"
+    caption: "Bronze apotropaic plaque with Lamashtu, Pazuzu and other protective figures, 9th–7th century BCE (Istanbul Archaeology Museums, Museum of the Ancient Orient)."
+    role: gallery
+
+lamassu:
+  - file: "File:Human-headed Winged Bulls Gate - Louvre.jpg"
+    caption: "Human-headed winged bulls (lamassu) guarding a gateway from Dur-Sharrukin (Khorsabad), late 8th century BCE (Musée du Louvre, Paris)."
+    role: primary
+    depicts: [cherubim]
+  - file: "File:A pair of lamassus from the Throne Room, Room B, of the North-West Palace at Nimrud, Iraq, 9th century BC. The British Museum.jpg"
+    caption: "Pair of lamassu from the throne room of the North-West Palace at Nimrud, 9th century BCE (British Museum)."
+    role: gallery
+
+laodicea:
+  - file: "File:TR Pamukkale Laodicea asv2020-02 img11.jpg"
+    caption: "The colonnaded Syria Street at Laodicea on the Lycus, near Denizli, Turkey."
+    role: primary
+
+laws-of-eshnunna: []   # reason: no securely identified free photograph of the Tell Harmal law tablets; the one candidate tablet is unlabelled and its identification unverified
+
+laws-of-lipit-ishtar:
+  - file: "File:Prologue code Lipit-Ishtar AO 5473.jpg"
+    caption: "Clay tablet with the prologue of the laws of Lipit-Ishtar of Isin, in Sumerian (Musée du Louvre, AO 5473)."
+    role: primary
+
+laws-of-ur-nammu:
+  - file: "File:Ur Nammu code Istanbul.jpg"
+    caption: "Tablet fragments of the Laws of Ur-Nammu from Nippur (Istanbul Archaeology Museums)."
+    role: primary
+
+legend-of-sargon:
+  - file: "File:Birth of Sargon BM ME K.3401.jpg"
+    caption: "Tablet K.3401 from Nineveh with the Birth Legend of Sargon of Akkad (British Museum)."
+    role: primary
+
+letter-of-aristeas:
+  - file: "File:Letter of Aristeas (Vat. gr. 747 f. 1r).jpg"
+    caption: "Opening of the Greek text of the Letter of Aristeas in Vat. gr. 747, f. 1r (Biblioteca Apostolica Vaticana)."
+    role: primary
+  - file: "File:Aristeas, Epistula ad Philocratem (BSB Clm 627).jpg"
+    caption: "Opening page of Mattia Palmieri's Latin translation of the Letter of Aristeas, illuminated manuscript (Bayerische Staatsbibliothek, Munich, Clm 627)."
+    role: gallery
+
+letter-writing-conventions:
+  - file: "File:Amarna letter. A letter from Shipti Ba'al (ruler of Lachish), who reassures the Egyptian pharaoh (Amenhotep III or his son Akhenaten) of his loyalty. Akkadian cuneiform text. 14th century BCE. From Tell el-Amarna, Egypt. British Museum.jpg"
+    caption: "Amarna letter from Shipti-Baal of Lachish to the pharaoh, Akkadian cuneiform on clay, 14th century BCE (British Museum)."
+    role: primary
+    depicts: [amarna-letters]
+
+leviathan:
+  - file: "File:A god fighting a seven-headed monster - flash.jpg"
+    caption: "Mesopotamian shell inlay showing a god fighting a seven-headed monster (Bible Lands Museum, Jerusalem)."
+    role: primary
+
+lex-talionis:
+  - file: "File:P1050763 Louvre code Hammurabi face rwk.JPG"
+    caption: "The stele of Hammurabi's laws, basalt, c. 1750 BCE, which include talionic penalties for injury (§§196–200) (Musée du Louvre, Sb 8)."
+    role: primary
+
+library-of-ashurbanipal:
+  - file: "File:Library of Ashurbanipal.jpg"
+    caption: "Tablets from the Library of Ashurbanipal displayed in the Mesopotamia gallery of the British Museum."
+    role: primary
+
+light-of-the-face:
+  - file: "File:Ketef hinom scrolls.JPG"
+    caption: "The Ketef Hinnom silver amulets, inscribed with a form of the Priestly Blessing ('may YHWH make his face shine upon you') (Israel Museum, Jerusalem)."
+    role: primary
+
+lilith:
+  - file: "File:Burney Relief Babylon -1800-1750.JPG"
+    caption: "The 'Burney Relief', fired clay, c. 1800–1750 BCE (British Museum); the winged, owl-footed figure has been identified as Ishtar, Ereshkigal or a lilītu demon."
+    role: primary
+
+lion-hunt-of-ashurbanipal:
+  - file: "File:Assyrian king Ashurbanipal on his horse thrusting a spear onto a lion’s head. Alabaster bas-relief from Nineveh, dating back to 645-635 BCE and is currently housed in the British Museum, London.jpg"
+    caption: "Ashurbanipal on horseback spearing a lion, gypsum relief from the North Palace at Nineveh, c. 645–635 BCE (British Museum)."
+    role: primary
+
+lion-imagery:
+  - file: "File:Walking Lion from Ishtar Gate of Nebuchadnezzar II of Babylon, reconstructed with original bricks at the Pergamon Museum in Berlin, 575 BC (28626240041).jpg"
+    caption: "Striding lion in glazed brick from the Ishtar Gate complex of Nebuchadnezzar II at Babylon, c. 575 BCE (Pergamon Museum, Berlin)."
+    role: primary
+
+liver-models:
+  - file: "File:Inscribed model of a sheep liver - BM.jpg"
+    caption: "Inscribed clay model of a sheep's liver used for teaching extispicy (British Museum)."
+    role: primary
+    depicts: [extispicy]
+  - file: "File:Divinatory livers Louvre AO19837.jpg"
+    caption: "Clay liver models for the training of diviners (Musée du Louvre, AO 19837)."
+    role: gallery
+
+lmlk-seal-impressions:
+  - file: "File:LMLK seal (Hebron). Israel Museum, Jerusalem.JPG"
+    caption: "LMLK stamp impression on a storage-jar handle reading 'belonging to the king, Hebron', from Lachish, late 8th century BCE (Israel Museum, Jerusalem)."
+    role: primary
+
+lots-and-cleromancy: []   # reason: no free image of the Assyrian lot (pūru) of Yahali or another ancient lot; candidates are medieval and modern Christian art
+
+low-chronology-debate:
+  - file: "File:Outer opening of the chambered gate at Megiddo (B) (20693218186).jpg"
+    caption: "Remains of the chambered city gate at Megiddo, one of the gates that Yadin attributed to Solomon and whose date is central to the debate."
+    role: primary
+
+ludlul-bel-nemeqi:
+  - file: "File:Ludlul bel nemeqi Ninive.jpg"
+    caption: "Clay tablet of Ludlul bēl nēmeqi ('I will praise the lord of wisdom') from Nineveh."
+    role: primary
+
+maat:
+  - file: "File:Maat-E 4436-IMG 7942-white.jpg"
+    caption: "Statuette of the goddess Maat wearing her ostrich feather (Musée du Louvre, E 4436)."
+    role: primary
+  - file: "File:RamessesIX-OstraconPresentingMaat MetropolitanMuseum.png"
+    caption: "Ostracon showing Ramesses IX presenting a figure of Maat (Metropolitan Museum of Art, New York)."
+    role: gallery
+
+magdala-stone:
+  - file: "File:Magdala Stone (4).jpg"
+    caption: "The Magdala Stone with its carved seven-branched menorah, as displayed at the first-century synagogue at Magdala; the stone shown at the site is a replica."
+    role: primary
+
+magic-and-sorcery:
+  - file: "File:Magic wand MET DP112633.jpg"
+    caption: "Egyptian apotropaic ('magic') wand incised with protective figures (Metropolitan Museum of Art, New York)."
+    role: primary
+
+manasseh: []   # reason: no free photograph of the Esarhaddon or Ashurbanipal prisms that name Manasseh; candidates are later artistic imaginings or unrelated prisms
+
+maqlu: []   # reason: no free image of a Maqlû tablet; the only candidate is a 1908 book scan
+
+marduk:
+  - file: "File:Sceau culte Marduk Nabu AO 7217.jpg"
+    caption: "Chalcedony cylinder seal and modern impression showing the worship of Marduk and Nabû, Neo-Assyrian period (Musée du Louvre, AO 7217)."
+    role: primary
+  - file: "File:Sirrush.jpg"
+    caption: "The mušḫuššu dragon, beast of Marduk, in glazed brick on the Ishtar Gate of Babylon (Pergamon Museum, Berlin)."
+    role: gallery
+
+marduka-tablet: []   # reason: no free image of the Marduka tablet found on Commons
+
+mari:
+  - file: "File:MariZimri-LimPalace.jpg"
+    caption: "Mudbrick walls of the palace of Zimri-Lim at Mari (Tell Hariri), Syria."
+    role: primary
+  - file: "File:Palais royal de Mari plan ZL.png"
+    caption: "Plan of the royal palace of Mari in the reign of Zimri-Lim (c. 1775–1760 BCE)."
+    role: gallery
+
+mari-letters:
+  - file: "File:Tablette de Zimrî-Lîm, roi de Mari - Louvre - AO20161.JPG"
+    caption: "Tablet of Zimri-Lim, king of Mari, concerning the founding of an ice-house at Terqa, baked clay, c. 1780 BCE (Musée du Louvre, AO 20161)."
+    role: primary
+
+marriage-and-bride-price:
+  - file: "File:Papyrus Berlin 13614.jpg"
+    caption: "Papyrus Berlin 13614, an Egyptian marriage contract of 535 BCE (Ägyptisches Museum und Papyrussammlung, Berlin)."
+    role: primary
+
+marseilles-tariff:
+  - file: "File:Musée d'archéologie méditerranéenne, Marseille 89 (cropped).jpg"
+    caption: "The Marseilles Tariff, Punic sacrificial tariff inscription (Musée d'archéologie méditerranéenne, Marseille)."
+    role: primary
+  - file: "File:Corpus Inscriptionum Semiticarum CIS I 165 (Marseille Tariff) (cropped).jpg"
+    caption: "The Marseilles Tariff as published in the Corpus Inscriptionum Semiticarum (CIS I 165)."
+    role: gallery
+
+masada:
+  - file: "File:Israel-2013-Aerial 21-Masada.jpg"
+    caption: "Aerial view of Masada in the Judean Desert, with the Dead Sea in the distance."
+    role: primary
+  - file: "File:Masada 051013 Camp F 01.jpg"
+    caption: "Roman siege camp F and part of the Roman circumvallation wall below Masada."
+    role: gallery
+
+massebot:
+  - file: "File:Standing Stones at Gezer (5758789507).jpg"
+    caption: "The Middle Bronze Age standing stones (massebot) at Gezer."
+    role: primary
+
+medes:
+  - file: "File:Mad-5223.jpg"
+    caption: "Median herald leading a delegation, relief on the eastern stairway of the Apadana at Persepolis."
+    role: primary
+
+medicine-and-healing:
+  - file: "File:Edwin Smith Papyrus v2.jpg"
+    caption: "The Edwin Smith surgical papyrus, hieratic, c. 1600 BCE (New York Academy of Medicine)."
+    role: primary
+
+medinet-habu-sea-peoples:
+  - file: "File:Medinet Habu Ramses III. Tempel Nordostwand 47.jpg"
+    caption: "Part of the battle against the Sea Peoples on the north-east exterior wall of Ramesses III's mortuary temple at Medinet Habu."
+    role: primary
+    depicts: [sea-peoples]
+  - file: "File:Medinet Habu Ramses III. Tempel Nordostwand Abzeichnung 01.jpg"
+    caption: "Line drawing of the naval battle against the Sea Peoples from the north-east wall of the temple at Medinet Habu."
+    role: gallery
+
+megiddo:
+  - file: "File:TEL MEGIDO AERIAL C.JPG"
+    caption: "Aerial view of the excavated mound of Tel Megiddo."
+    role: primary
+
+melqart:
+  - file: "File:Stela with Melqart on his lion.JPG"
+    caption: "Stele from Amrit showing Melqart standing on a lion (shown in a temporary exhibition at the Rijksmuseum van Oudheden, Leiden)."
+    role: primary
+  - file: "File:TyrianHalfShekel102-101-BNF-Gallica.jpg"
+    caption: "Silver half-shekel of Tyre with the head of Melqart-Heracles, 102–101 BCE (Bibliothèque nationale de France)."
+    role: gallery
+
+melqart-stele:
+  - file: "File:Melqart or Bir Hadad stele.jpg"
+    caption: "The Melqart stele of Bar-Hadad, basalt, found at Breij north of Aleppo."
+    role: primary
+
+memphis:
+  - file: "File:Memphis200401.JPG"
+    caption: "Ruins of the hypostyle hall and pylon of Ramesses II at Memphis (Mit Rahina)."
+    role: primary
+
+menahem:
+  - file: "File:Dolomite Stele of Tiglath-Pileser III, Western Iran, 745-727 BC (41409503610).jpg"
+    caption: "The Iran Stele of Tiglath-pileser III, dolomite, 745–727 BCE, which lists 'Menahem of Samaria' among tributaries (Israel Museum, Jerusalem)."
+    role: primary
+    depicts: [iran-stele]
+
+menorah:
+  - file: "File:Carrying off the Menorah from the Temple in Jerusalem depicted on a frieze on the Arch of Titus in the Forum Romanum.JPG"
+    caption: "Roman soldiers carrying the menorah and other spoils of the Jerusalem Temple, relief on the Arch of Titus, Rome, after 81 CE."
+    role: primary
+    depicts: [arch-of-titus]
+
+merneptah:
+  - file: "File:King Merenptah-E 25474-IMG 0416-gradient.jpg"
+    caption: "Bust from a statue of King Merneptah (Musée du Louvre, E 25474)."
+    role: primary
+
+merneptah-stele:
+  - file: "File:Merneptah Steli (cropped).jpg"
+    caption: "The Merneptah (Israel) Stele, granite, year 5 of Merneptah (c. 1208 BCE) (Egyptian Museum, Cairo)."
+    role: primary
+  - file: "File:Closeup of the Merenptah Stele, mentioning ysrỉꜣr (\"Israel\").jpg"
+    caption: "Close-up of line 27 of the Merneptah Stele with the name Israel (ysrỉꜣr) (Egyptian Museum, Cairo)."
+    role: gallery

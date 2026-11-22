@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: cult-stands
+file: cult-stands.jpg
+title: >-
+  Cypriot bronze wheeled stand with an animal frieze on the ring and figures in the side panels.jpg
+caption: >-
+  Cypriot bronze wheeled stand with figured side panels, a close analogue of the wheeled stands
+  of Solomon's temple.
+description: >-
+  Bronze wheeled stand with an animal frieze on the ring and figures in the side panels. The
+  panels principally show a seated harp-player approached by a musician and a serving boy,
+  a winged sphinx, a lion gripping a water bird by its neck, and a chariot. Made in Cyprus.
+  13th or 12th century BC.
+creator: George Groutas
+credit_line: originally posted to Flickr as Idalion Antiquities at the British Museum_002
+license:
+  id: CC-BY-2.0
+  name: CC BY 2.0
+  url: https://creativecommons.org/licenses/by/2.0
+attribution: George Groutas, CC BY 2.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Cypriot_bronze_wheeled_stand_with_an_animal_frieze_on_the_ring_and_figures_in_the_side_panels.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/37/Cypriot_bronze_wheeled_stand_with_an_animal_frieze_on_the_ring_and_figures_in_the_side_panels.jpg
+  sha1: f4391fab41228966aa20480768fb6d0ada27d631
+  original_size: [2000, 3008]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1064×1600 px
+size: [1064, 1600]
+depicts: [cult-stands]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

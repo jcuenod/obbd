@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: child-sacrifice
+file: child-sacrifice.jpg
+title: Tunisise Carthage Tophet Salambo 03.JPG
+caption: Stele with the sign of Tanit in the tophet of Salammbô at Carthage.
+description: Tophet Salambo Carthage Tunisie
+creator: GIRAUD Patrick
+credit_line: Own work
+license:
+  id: CC-BY-SA-2.5
+  name: CC BY-SA 2.5
+  url: https://creativecommons.org/licenses/by-sa/2.5
+attribution: GIRAUD Patrick, CC BY-SA 2.5, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tunisise_Carthage_Tophet_Salambo_03.JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/7e/Tunisise_Carthage_Tophet_Salambo_03.JPG
+  sha1: 6698323faa04f215194f5f88ac008fd9d7601fe5
+  original_size: [1748, 2622]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1067×1600 px
+size: [1067, 1600]
+depicts: [child-sacrifice]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

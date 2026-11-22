@@ -1,0 +1,69 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: herod-the-great
+title: Herod the Great
+type: person
+cultures: [jewish, roman]
+date:
+  from: -37
+  to: -4
+  display: 37–4 BCE
+scope: >-
+  Herod I, Idumean-born client king of Judea appointed by Rome (40 BCE; ruling from 37 until
+  his death in 4 BCE). He was a great builder (temple, Caesarea, Masada, Herodium) and the
+  king in whose reign Matthew and Luke set Jesus' birth.
+passages:
+- ref: Matt 2:1-12
+  rel: attests
+  note: Jesus born 'in the time of King Herod'; the magi at Herod's court
+- ref: Matt 2:16-18
+  rel: attests
+  note: Massacre of the infants, not independently attested
+- ref: Matt 2:19-22
+  rel: attests
+  note: Herod's death and Archelaus's succession in Judea
+- ref: Luke 1:5
+  rel: attests
+  note: '''In the days of King Herod of Judea'''
+- ref: John 2:20
+  rel: attests
+  note: Temple under construction for forty-six years
+- ref: Acts 23:35
+  rel: realia
+  note: Paul held in 'Herod's headquarters' (praetorium) at Caesarea
+related: [herods-temple, caesarea-maritima, masada, josephus, nabataeans, edomites, bethlehem]
+media:
+- id: herod-the-great
+  role: primary
+- id: herod-the-great-2
+  role: gallery
+external:
+  wikipedia: Herod the Great
+  wikidata: Q51672
+editorial:
+  author_notes:
+  - >-
+    Death in 4 BCE (Josephus; the eclipse at Ant. 17.167) is the consensus. Alternative proposals
+    of 1 BCE are a minority, so Jesus' birth is placed before 4 BCE.
+  - >-
+    The massacre of the infants is absent from Josephus. Its historicity is debated; it fits
+    Herod's late cruelty but also Matthew's Moses typology.
+  - >-
+    Netzer identified his tomb at Herodium (2007); note that some dispute the identification.
+  sources_to_check:
+  - 'P. Richardson, Herod: King of the Jews and Friend of the Romans (1996)'
+  - E. Netzer, The Architecture of Herod, the Great Builder (2006)
+  image_query: Herod the Great coin
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

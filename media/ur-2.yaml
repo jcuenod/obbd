@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ur-2
+file: ur-2.jpg
+title: The Queen's Jewelry. Royal Cemetery at Ur.jpg
+caption: Gold jewellery from the Royal Cemetery at Ur (British Museum).
+description: >-
+  The Queen's Jewelry. Royal Cemetery at Ur. Mesopotamia 6000-1500 BC Gallery, British Museum,
+  London, England, UK. Complete indexed photo collection at WorldHistoryPics.com.
+creator: Gary Todd
+credit_line: https://www.flickr.com/photos/101561334@N08/35750166883/
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Gary Todd. CC0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:The_Queen%27s_Jewelry._Royal_Cemetery_at_Ur.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/22/The_Queen%27s_Jewelry._Royal_Cemetery_at_Ur.jpg
+  sha1: d501f08907936217022a60dd62fd1b798a1bc526
+  original_size: [3456, 5184]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1067×1600 px
+size: [1067, 1600]
+depicts: [ur]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

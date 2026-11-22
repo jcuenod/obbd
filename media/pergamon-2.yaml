@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: pergamon-2
+file: pergamon-2.jpg
+title: PergamonAltar2000.jpg
+caption: Foundations of the Great Altar on the acropolis of Pergamon.
+description: Pergamon, Westtürkei, Sockel des Zeusaltars
+creator: Klaus-Peter Simon
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Klaus-Peter Simon, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:PergamonAltar2000.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/9/99/PergamonAltar2000.jpg
+  sha1: 44e94fc055a60695315c1d88f95c706db16f20d8
+  original_size: [1989, 1305]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1050 px
+size: [1600, 1050]
+depicts: [pergamon]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

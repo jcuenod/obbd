@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: soleb-shasu-inscription-2
+file: soleb-shasu-inscription-2.jpg
+title: Soleb1.jpg
+caption: The temple of Amenhotep III at Soleb, Sudan.
+description: 'Soleb (Sudan): View of the Soleb temple'
+creator: Clemens Schmillen
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Clemens Schmillen, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Soleb1.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/2/28/Soleb1.jpg
+  sha1: 8331bc98cb3c7f2a4f3250812cb4cbf31e64f40e
+  original_size: [1024, 700]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1024, 700]
+depicts: [soleb-shasu-inscription]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: sennacherib-annals-2
+file: sennacherib-annals-2.jpg
+title: Sennacherib's Prism in the Israel Museum (2).JPG
+caption: The Jerusalem Prism of Sennacherib (Israel Museum, Jerusalem).
+description: >-
+  מנסרת סנחריב היא כינוי לאנלים (כרוניקות אשוריות) שנכתבו על גבי מנסרות על ידי סופרי האימפריה
+  האשורית החדשה המנסרה שנמצאת בידי מוזיאון ישראל
+creator: Hanay
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Hanay, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Sennacherib%27s_Prism_in_the_Israel_Museum_(2).JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/72/Sennacherib%27s_Prism_in_the_Israel_Museum_%282%29.JPG
+  sha1: c9c7b14651f27d899b0ac96ad6974e1c84cace35
+  original_size: [2487, 4449]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 894×1600 px
+size: [894, 1600]
+depicts: [sennacherib-annals]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

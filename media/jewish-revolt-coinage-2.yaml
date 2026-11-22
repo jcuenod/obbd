@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: jewish-revolt-coinage-2
+file: jewish-revolt-coinage-2.jpg
+title: Barkokhba-silver-tetradrachm.jpg
+caption: >-
+  Silver sela (tetradrachm) of the Bar Kokhba revolt, 134/135 CE, showing the Temple façade.
+description: >-
+  JUDAEA, Bar Kochba Revolt. 132-135 CE. AR Sela – Tetradrachm (28mm, 14.07 g, 11h). Undated
+  issue (year 3 - 134/5 CE). Temple facade, the Ark of the Covenant within; star above / Lulav
+  with etrog. Mildenberg 85.12 (O127/R44´); Meshorer 233; Hendin 711. Near EF, toned, light
+  deposits.
+creator: CNG
+credit_line: CNG coins
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: http://creativecommons.org/licenses/by-sa/3.0/
+attribution: CNG, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Barkokhba-silver-tetradrachm.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/d/db/Barkokhba-silver-tetradrachm.jpg
+  sha1: e0ab164ddca6c5cd8bb938068b760eb43aec0b83
+  original_size: [800, 424]
+  retrieved: '2026-11-20'
+derivative: null
+size: [800, 424]
+depicts: [jewish-revolt-coinage]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,70 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: goring-ox
+title: The Goring Ox
+type: practice
+cultures: [hebrew, akkadian]
+scope: >-
+  The law of the goring ox in the Covenant Code (Exod 21:28-36) and its close cuneiform counterparts
+  in the Laws of Eshnunna and the Laws of Hammurabi. It is the classic test case for how biblical
+  law relates to the wider ancient Near Eastern legal tradition.
+passages:
+- ref: Exod 21:28-32
+  rel: parallel
+  note: Ox kills a person; owner liable if forewarned; cf. LE §§54-55, LH §§250-252
+- ref: Exod 21:32
+  rel: practice
+  note: Thirty shekels for a slave gored; cf. LH §252 (twenty shekels)
+- ref: Exod 21:30
+  rel: practice
+  note: Ransom (kōper) allowed in place of the negligent owner's death
+- ref: Exod 21:35-36
+  rel: parallel
+  note: 'Ox gores ox: live ox sold and price divided, nearly verbatim with LE §53'
+- ref: Exod 21:33-34
+  rel: practice
+  note: Liability for an uncovered pit, same casuistic unit
+- ref: Gen 9:5
+  rel: concept
+  note: God requires a reckoning for human blood even from animals
+related: [ane-law-collections, laws-of-eshnunna, code-of-hammurabi, lex-talionis, slavery]
+media:
+- id: ane-law-collections
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The verbal closeness of Exod 21:35 to LE §53 is among the strongest cases of shared legal
+    tradition. Lay out the competing explanations, written dependence (D. P. Wright argues
+    for use of Hammurabi) versus a common scribal or oral legal tradition (Westbrook, Malul),
+    without deciding.
+  - >-
+    Distinctive biblical features are the stoning of the ox and the ban on eating its flesh
+    (Exod 21:28). J. J. Finkelstein (The Ox That Gored, 1981) explained these by the animal's
+    violation of the created hierarchy. Compare Gen 9:5.
+  - >-
+    The cuneiform versions deal only in monetary liability. The biblical version makes the
+    negligent owner liable to death, though a ransom may be accepted (21:30). The ransom provision
+    fits uneasily with Num 35:31.
+  - >-
+    The goring ox works as a scholastic 'problem case' in the law collections, so do not assume
+    it reflects frequent litigation.
+  sources_to_check:
+  - Roth, Law Collections from Mesopotamia and Asia Minor (SBLWAW 6, 2nd ed. 1997)
+  - Yaron, The Laws of Eshnunna (2nd ed. 1988)
+  - ANET 161-163
+  image_query: Laws of Eshnunna tablet
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

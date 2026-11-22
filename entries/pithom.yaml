@@ -1,0 +1,71 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: pithom
+title: Pithom
+aliases: [Per-Atum, Pr-Itm]
+type: site
+cultures: [egyptian]
+scope: >-
+  The store city of Exod 1:11, from Egyptian Pr-Itm, "House of Atum", located in the Wadi
+  Tumilat in the eastern Delta. The entry covers the competing identifications, Tell el-Maskhuta
+  and Tell er-Retabeh, and what each implies for dating the exodus tradition.
+passages:
+- ref: Exod 1:11
+  rel: attests
+  note: Pithom, a store city built by Hebrew labour
+- ref: Exod 12:37
+  rel: setting
+  disputed: true
+  note: Succoth (perhaps Egyptian Tjeku) in the Wadi Tumilat, near Pithom
+- ref: Gen 46:28-29
+  rel: setting
+  disputed: true
+  note: LXX places the meeting of Joseph and Jacob at Heroönpolis, in the Pithom area
+related: [pi-ramesses, papyrus-anastasi, exodus-historical-questions, necho-ii, egyptian-loanwords,
+  avaris]
+media:
+- id: pithom
+  role: primary
+external:
+  wikipedia: Pithom
+  wikidata: Q1630019
+  pleiades: '727124'
+editorial:
+  author_notes:
+  - >-
+    Naville (1883) identified Tell el-Maskhuta as Pithom from inscriptions naming Pr-Itm.
+    Holladay's excavations found that the site was founded in the Saite period (c. 610, linked
+    to Necho II's canal) after a Middle Bronze occupation, with no New Kingdom phase.
+  - >-
+    Tell er-Retabeh has a Ramesside fortress. Some (Kitchen, Hoffmeier) identify it with New
+    Kingdom Pithom, with the name later transferred to Maskhuta. Recent excavations at Retabeh
+    are relevant.
+  - >-
+    Redford argued that Exod 1:11 reflects first-millennium (Saite) geography. Present the
+    dating implications even-handedly.
+  - Pr-Itm of Tjeku appears in P. Anastasi VI (late 13th century).
+  sources_to_check:
+  - Holladay, Cities of the Delta III. Tell el-Maskhuta (1982)
+  - Redford, 'Exodus I 11', VT 13 (1963)
+  image_query: Tell el-Maskhuta
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q1630019 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 30.55194
+  lon: 32.09861
+  source: wikidata:Q1630019

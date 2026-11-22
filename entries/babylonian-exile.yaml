@@ -1,0 +1,96 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: babylonian-exile
+title: The Babylonian Exile
+aliases: [Babylonian captivity, Exile]
+type: event
+cultures: [judahite, babylonian]
+date:
+  from: -597
+  to: -538
+  display: 597–538 BCE
+scope: >-
+  The deportations of Judahites to Babylonia in 597, 587/586, and 582 BCE, the life of Judean
+  communities in Babylonia, the situation in Judah after 586, and the end of the exile under
+  Persian rule. Covers biblical accounts and cuneiform evidence for the exiles.
+passages:
+- ref: 2Kgs 24:10-16
+  rel: event
+  note: Jehoiachin and the elite deported in 597
+- ref: 2Kgs 25:8-21
+  rel: event
+  note: Destruction and deportation in Nebuchadnezzar's 19th year
+- ref: Jer 52:28-30
+  rel: event
+  note: Deportee numbers for 597, 586, and 582
+- ref: 2Kgs 25:22-26
+  rel: event
+  note: Gedaliah at Mizpah; flight to Egypt
+- ref: 2Kgs 25:27-30
+  rel: event
+  note: Jehoiachin released and given royal rations; cf. ration tablets
+- ref: Jer 29:4-7
+  rel: setting
+  note: Exiles told to build houses and seek the city's welfare
+- ref: Ezek 1:1-3
+  rel: setting
+  note: Exiles by the river Chebar
+- ref: Ezek 3:15
+  rel: setting
+  note: Tel-abib; cf. Judean settlements such as Āl-Yāhūdu
+- ref: Ps 137
+  rel: setting
+  note: '''By the rivers of Babylon'''
+- ref: Jer 25:11-12
+  rel: concept
+  note: Seventy years of servitude
+- ref: Ezra 1:1-4
+  rel: event
+  note: Edict of Cyrus permitting return
+related: [fall-of-jerusalem-587, nebuchadnezzar-ii, jehoiachin-ration-tablets, al-yahudu-tablets,
+  murashu-archive, deportation, cyrus-cylinder, yehud-province]
+media:
+- id: babylonian-exile
+  role: primary
+- id: al-yahudu-tablets
+  role: gallery
+external:
+  wikipedia: Babylonian captivity
+  wikidata: Q175447
+editorial:
+  author_notes:
+  - >-
+    The Āl-Yāhūdu and related tablets (from 572 BCE into the 5th century) show Judeans as
+    dependent landholders in rural Babylonia, not prisoners. The Jehoiachin ration tablets
+    from Babylon and the Murašû archive (late 5th century) add evidence. Avoid a 'slavery'
+    framing.
+  - >-
+    Present the 'myth of the empty land' debate (Barstad) against evidence of severe destruction
+    in Jerusalem and the Shephelah and relative continuity in Benjamin (Lipschits).
+  - >-
+    Deportation figures differ between 2 Kgs 24:14-16 and Jer 52:28-30. The seventy years
+    is a symbolic or schematic figure.
+  - >-
+    Many Judeans remained in Babylonia after 539. The 'return' was gradual and partial, and
+    the 538 date for Cyrus's edict depends on Ezra 1.
+  sources_to_check:
+  - >-
+    Pearce and Wunsch, Documents of Judean Exiles and West Semites in Babylonia in the Collection
+    of David Sofer (CUSAS 28, 2014)
+  - Grayson, Assyrian and Babylonian Chronicles (1975)
+  - Lipschits, The Fall and Rise of Jerusalem (2005)
+  - Barstad, The Myth of the Empty Land (1996)
+  image_query: Al-Yahudu tablets
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

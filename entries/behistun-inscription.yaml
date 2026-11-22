@@ -1,0 +1,93 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: behistun-inscription
+title: Behistun Inscription
+aliases: [Bisitun Inscription, Bisotun Inscription]
+type: artifact
+cultures: [persian, elamite, babylonian]
+date:
+  from: -520
+  to: -518
+  circa: true
+  display: c. 520–518 BCE
+scope: >-
+  Monumental rock relief and trilingual inscription (Old Persian, Elamite, Babylonian) of
+  Darius I at Bisotun in western Iran, recounting his accession and his suppression of the
+  revolts of 522-521 BCE. An Aramaic version on papyrus from Elephantine shows its circulation
+  through the empire; the monument was also the key to deciphering cuneiform.
+passages:
+- ref: Ezra 4:24
+  rel: setting
+  note: Temple work resumes in Darius's second year, just after the revolts were crushed
+- ref: Hag 1:1
+  rel: setting
+  note: Haggai's oracles dated to Darius's second year (520 BCE)
+- ref: Hag 2:6-7, 21-22
+  rel: setting
+  disputed: true
+  note: Shaking of nations and overthrow of kingdoms, perhaps echoing the upheavals of 522-521
+- ref: Zech 1:11
+  rel: setting
+  disputed: true
+  note: '''The whole earth remains at peace'' after the empire''s pacification'
+- ref: Esth 1:22; 3:12; 8:9
+  rel: practice
+  note: Royal edicts sent to every province in its own script and language
+- ref: Ezra 6:11
+  rel: practice
+  note: Impalement threatened for violators; Darius records impaling rebel leaders
+- ref: Esth 2:23; 7:9-10
+  rel: practice
+  note: Execution on a stake, a Persian punishment
+related: [darius-i, persia, elephantine-papyri, aramaic-language, medes, zoroastrianism, winged-sun-disk]
+location:
+  institution: In situ, Bisotun, Kermanshah Province, Iran
+  accession: null
+media:
+- id: behistun-inscription
+  role: primary
+- id: behistun-inscription-2
+  role: gallery
+- id: darius-i
+  role: gallery
+external:
+  wikipedia: Behistun inscription
+  wikidata: Q180012
+editorial:
+  author_notes:
+  - >-
+    Explain Darius's account of the 'false Bardiya' (Gaumata) and the widely held view that
+    Darius was himself a usurper; compare Herodotus 3.61-88.
+  - >-
+    Highlight the Aramaic version from Elephantine (late 5th century copy) as evidence of
+    deliberate imperial dissemination of royal texts.
+  - >-
+    The links to Haggai and Zechariah are contextual (dating and atmosphere). Do not claim
+    the prophets allude to the inscription.
+  - >-
+    Note the role of Ahuramazda ('by the favour of Ahuramazda') for discussions of Achaemenid
+    religion, and Rawlinson's decipherment work of the 1830s-40s.
+  sources_to_check:
+  - >-
+    R. Schmitt, The Bisitun Inscriptions of Darius the Great: Old Persian Text (Corpus Inscriptionum
+    Iranicarum, 1991)
+  - >-
+    J. C. Greenfield and B. Porten, The Bisitun Inscription of Darius the Great: Aramaic Version
+    (Corpus Inscriptionum Iranicarum, 1982)
+  - TAD C2.1
+  - 'R. G. Kent, Old Persian: Grammar, Texts, Lexicon (2nd ed., 1953)'
+  - 'A. Kuhrt, The Persian Empire: A Corpus of Sources from the Achaemenid Period (2007)'
+  image_query: Behistun Inscription relief Darius
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

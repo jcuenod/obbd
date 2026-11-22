@@ -1,0 +1,81 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: bubastite-portal
+title: Bubastite Portal of Shoshenq I
+aliases: [Shoshenq I topographical list, Shishak relief]
+type: artifact
+cultures: [egyptian]
+date:
+  from: -925
+  to: -925
+  circa: true
+  display: c. 925 BCE
+scope: >-
+  The gateway and adjoining relief of Shoshenq I in the first court of the Amun temple at
+  Karnak. The relief shows the king smiting Asiatics and Amun leading rows of name-rings of
+  captured towns in Palestine. It is the Egyptian record of the campaign remembered in Kings
+  and Chronicles as Shishak's invasion.
+passages:
+- ref: 1Kgs 14:25-26
+  rel: event
+  note: Shishak's campaign in Rehoboam's fifth year; temple and palace treasures taken
+- ref: 2Chr 12:2-9
+  rel: event
+  note: Chronicler's expanded account of Shishak's invasion
+- ref: 2Chr 12:4
+  rel: event
+  note: '''Fortified cities of Judah'' taken; the preserved list names few Judahite highland
+    towns'
+- ref: 1Kgs 11:40
+  rel: attests
+  note: Jeroboam's refuge with Shishak
+- ref: Josh 17:11
+  rel: attests
+  note: Beth-shean, Taanach, and Megiddo, all named in the list
+- ref: 1Kgs 12:25
+  rel: attests
+  note: Penuel, fortified by Jeroboam, appears in the list; the campaign also struck Israel
+related: [shoshenq-i, megiddo, gibeon, arad, low-chronology-debate, chronology-of-kings, jerusalem]
+location:
+  institution: In situ, Karnak temple, Luxor
+  accession: null
+media:
+- id: bubastite-portal
+  role: primary
+external:
+  wikipedia: Bubastite Portal
+  wikidata: Q4982146
+editorial:
+  author_notes:
+  - >-
+    Jerusalem does not appear in the preserved list, although parts of the list are lost.
+    Present the usual explanations (payment of tribute, as in 1 Kgs 14:26; damage to the list;
+    Jerusalem not targeted) without choosing one dogmatically.
+  - >-
+    Scholars debate whether the order of name-rings can be read as an itinerary (Mazar, Kitchen,
+    Na'aman) or reflects separate columns and scribal conventions (K. A. Wilson). Present
+    the route reconstruction as hypothetical.
+  - >-
+    The campaign is a key synchronism for Israelite chronology (c. 925), but its absolute
+    date depends on Third Intermediate Period chronology. Destruction layers attributed to
+    Shoshenq figure in the low-chronology debate.
+  - A fragment of a Shoshenq stele found at Megiddo confirms an Egyptian presence there.
+  - Breasted's reading of one name as "the Field of Abram" is uncertain. Do not build on it.
+  sources_to_check:
+  - Ritner, The Libyan Anarchy (SBL Writings from the Ancient World, 2009)
+  - Kitchen, The Third Intermediate Period in Egypt (1100-650 BC)
+  - Wilson, The Campaign of Pharaoh Shoshenq I into Palestine (2005)
+  image_query: Bubastite Portal Karnak Shoshenq relief
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

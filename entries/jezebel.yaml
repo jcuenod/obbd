@@ -1,0 +1,68 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: jezebel
+title: Jezebel
+type: person
+cultures: [phoenician, israelite]
+date:
+  from: -873
+  to: -841
+  circa: true
+  display: c. 873–841 BCE
+scope: >-
+  Jezebel, daughter of Ethbaal king of the Sidonians, wife of Ahab and queen mother of Israel,
+  considered in the light of Phoenician history and the iconography of royal women. The entry
+  includes an unprovenanced seal inscribed yzbl.
+passages:
+- ref: 1Kgs 16:31
+  rel: attests
+  note: Daughter of Ethbaal, king of the Sidonians (Ittobaal of Tyre)
+- ref: 1Kgs 18:19
+  rel: setting
+  note: Prophets of Baal and Asherah eating at Jezebel's table
+- ref: 1Kgs 21:8
+  rel: practice
+  note: Letters written in Ahab's name and sealed with his seal
+- ref: 2Kgs 9:30-37
+  rel: imagery
+  note: Painted eyes and the 'woman at the window'
+- ref: 2Kgs 10:13
+  rel: language
+  note: gĕbîrâ 'queen mother' as a court title
+- ref: Rev 2:20
+  rel: imagery
+  note: Jezebel as a type of false prophecy
+related: [ahab, phoenicians, tyre, baal, melqart, samaria-ivories, seals-and-bullae, sidon]
+media: []
+external:
+  wikipedia: Jezebel
+  wikidata: Q721295
+editorial:
+  author_notes:
+  - >-
+    Ethbaal is usually identified with Ittobaal I of Tyre, known from Menander via Josephus
+    (Ag. Ap. 1.123). 'King of the Sidonians' was a general term for Phoenician rulers.
+  - >-
+    The seal inscribed yzbl is unprovenanced (first published by Avigad, IEJ 14, 1964). Korpel
+    (2006) argued it belonged to the queen. The reading, its royal symbols and the identification
+    are all debated. Mark the link as uncertain.
+  - >-
+    Her portrait is a polemical Deuteronomistic construct. Discuss gender, foreignness and
+    the role of queen mothers.
+  - Which Baal Jezebel promoted (Melqart, Baal Shamem, or a generic Baal) is unresolved.
+  sources_to_check:
+  - Avigad and Sass, Corpus of West Semitic Stamp Seals (1997)
+  image_query: Jezebel seal yzbl Israel Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

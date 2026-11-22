@@ -1,0 +1,94 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: gibeon
+title: Gibeon (el-Jib)
+aliases: [el-Jib]
+type: site
+cultures: [judahite]
+scope: >-
+  The Benjaminite town at el-Jib north of Jerusalem, known from the Gibeonite treaty traditions,
+  Solomon's high place and its great rock-cut pool. Covers the identification by inscribed
+  jar handles, the water installations and the wine industry.
+passages:
+- ref: Josh 9
+  rel: setting
+  note: Gibeonites' ruse and treaty with Israel
+- ref: Josh 10:1-14
+  rel: setting
+  note: Battle at Gibeon; 'sun, stand still at Gibeon'
+- ref: 2Sam 2:12-17
+  rel: attests
+  disputed: true
+  note: Contest 'by the pool of Gibeon'; the great rock-cut pool
+- ref: 2Sam 21:1-14
+  rel: setting
+  note: Saul's descendants handed over to the Gibeonites
+- ref: 1Kgs 3:4-15
+  rel: setting
+  note: Solomon sacrifices at the great high place and dreams
+- ref: 1Chr 16:39
+  rel: setting
+  note: Tabernacle at the high place in Gibeon
+- ref: Jer 28:1
+  rel: setting
+  note: Hananiah son of Azzur, prophet from Gibeon
+- ref: Jer 41:12
+  rel: attests
+  disputed: true
+  note: '''The great waters that are in Gibeon'', possibly the rock-cut pool'
+- ref: Neh 3:7
+  rel: setting
+  note: Men of Gibeon repair the wall
+related: [champion-combat, cisterns-and-water-systems, high-places, covenant-and-treaty-form,
+  winepresses, mizpah]
+media:
+- id: gibeon
+  role: primary
+- id: gibeon-2
+  role: gallery
+external:
+  wikipedia: Gibeon (ancient city)
+  wikidata: Q889398
+editorial:
+  author_notes:
+  - >-
+    Pritchard's excavations (1956-62) found jar handles inscribed gbʿn with personal names,
+    which secured the identification with el-Jib.
+  - >-
+    The rock-cut pool (about 11 m across, with a spiral staircase) and the stepped tunnel
+    to the spring are Iron Age. The exact dates are debated. Many rock-cut cellars point to
+    a wine industry.
+  - >-
+    Late Bronze remains are meagre, which bears on the historicity of Josh 9-10. Gibeon is
+    also named in Shoshenq I's list.
+  sources_to_check:
+  - NEAEHL
+  - Pritchard, Gibeon - Where the Sun Stood Still (1962)
+  image_query: Gibeon pool el-Jib
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Jer 41:12 note corrected to quote 'great waters',
+    not 'great pool'
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates from Wikidata Q889398 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 31.8475
+  lon: 35.18639
+  source: wikidata:Q889398

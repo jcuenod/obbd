@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: antiochus-iv
+title: Antiochus IV Epiphanes
+aliases: [Antiochus Epiphanes]
+type: person
+cultures: [greek]
+date:
+  from: -175
+  to: -164
+  display: 175–164 BCE
+scope: >-
+  Antiochus IV Epiphanes, Seleucid king whose plundering of the Jerusalem temple, proscription
+  of Jewish practice, and installation of a pagan cult (167 BCE) provoked the Maccabean revolt.
+  He is the figure behind the 'little horn' and the ex eventu history of Daniel 7-12.
+passages:
+- ref: Dan 7:8, 24-25
+  rel: attests
+  note: Little horn speaking arrogantly, changing times and law
+- ref: Dan 8:9-14, 23-25
+  rel: attests
+  note: Little horn removes the daily offering and profanes the sanctuary
+- ref: Dan 9:26-27
+  rel: attests
+  note: Offering ceases and 'an abomination that desolates' is set up
+- ref: Dan 11:21-45
+  rel: event
+  note: Ex eventu account of his reign; 11:40-45 predicts a death that did not happen thus
+- ref: Dan 11:29-30
+  rel: event
+  note: Roman ultimatum in Egypt (168 BCE), the 'ships of Kittim'
+- ref: 1Macc 1:10-64
+  rel: event
+  note: Plunder of the temple, royal edict, persecution, and the desolating sacrilege
+- ref: 2Macc 6:1-11
+  rel: event
+  note: Temple renamed for Zeus Olympios; persecution
+- ref: 2Macc 9:1-29
+  rel: event
+  note: His death narrated as divine punishment
+- ref: Mark 13:14
+  rel: concept
+  note: '''Desolating sacrilege'' reapplied from Daniel'
+related: [maccabean-revolt, four-kingdoms-schema, heliodorus-stele, composite-beasts-daniel,
+  afterlife-and-resurrection, jerusalem]
+media:
+- id: antiochus-iv
+  role: primary
+external:
+  wikipedia: Antiochus IV Epiphanes
+  wikidata: Q3356
+editorial:
+  author_notes:
+  - >-
+    Daniel 7-12 is dated to 167-164 BCE by its accurate ex eventu detail down to 167 and its
+    inaccurate prediction of his death (he died in Persia in 164).
+  - >-
+    Causes of the persecution are debated: royal Hellenizing zeal, Jewish Hellenizers' initiative
+    (Bickerman), or response to revolt (Tcherikover). Present the debate neutrally.
+  - >-
+    šiqqûṣ šōmēm 'abomination of desolation' is generally understood as a pun on Baʿal Šamêm.
+  sources_to_check:
+  - E. Bickerman, The God of the Maccabees (1979)
+  - V. Tcherikover, Hellenistic Civilization and the Jews (1959)
+  - O. Mørkholm, Antiochus IV of Syria (1966)
+  image_query: Antiochus IV Epiphanes tetradrachm
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

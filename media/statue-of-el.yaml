@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: statue-of-el
+file: statue-of-el.jpg
+title: Seated God El Ugarit Damascus.jpg
+caption: >-
+  Bronze statuette of a seated god covered with gold foil, from Ugarit, 14th–13th century
+  BCE, conventionally identified as El (National Museum, Damascus).
+description: >-
+  A Late Bronze Age bronze statuette of the seated Canaanite god El covered with gold foil,
+  discovered in Ugarit (Ras Shamra), Syria. Circa 14th–13th century BC. Currently housed in
+  the National Museum of Damascus (Museum No: Damascus S 3573).
+creator: ywpark2003
+credit_line: Own work
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: ywpark2003. CC0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Seated_God_El_Ugarit_Damascus.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/e/e8/Seated_God_El_Ugarit_Damascus.jpg
+  sha1: 0c6102df9a60493d7f8144bdc1fa8cafdb9e4c4b
+  original_size: [314, 546]
+  retrieved: '2026-11-20'
+derivative: null
+size: [314, 546]
+depicts: [statue-of-el]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

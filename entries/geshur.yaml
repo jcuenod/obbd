@@ -1,0 +1,81 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: geshur
+title: Geshur, Maacah, and the Aramean Golan
+aliases: [Geshurites, Maacah, Maacathites, Aram-maacah]
+type: people
+cultures: [aramean]
+scope: >-
+  The small Aramean kingdom of Geshur on the Golan east and northeast of the Sea of Galilee,
+  together with neighbouring Maacah. Talmai of Geshur's daughter Maacah was David's wife and
+  the mother of Absalom. The entry covers the biblical references, the Iron Age remains at
+  et-Tell (later identified with Bethsaida) and other Golan sites, and Geshur's absorption
+  by Aram-Damascus.
+passages:
+- ref: Deut 3:14
+  rel: setting
+  note: Jair takes Argob as far as the border of the Geshurites and Maacathites
+- ref: Josh 12:5
+  rel: setting
+  note: Og's realm reaches the boundary of the Geshurites and Maacathites
+- ref: Josh 13:11-13
+  rel: setting
+  note: Geshur and Maacah not driven out; they live within Israel 'to this day'
+- ref: 2Sam 3:3
+  rel: attests
+  note: Absalom's mother Maacah, daughter of King Talmai of Geshur
+- ref: 2Sam 13:37-38
+  rel: setting
+  note: Absalom flees to Talmai of Geshur for three years
+- ref: 2Sam 15:8
+  rel: setting
+  note: Absalom's vow 'while I lived at Geshur in Aram'
+- ref: 1Chr 2:23
+  rel: setting
+  note: Geshur and Aram take the towns of Jair
+- ref: 2Sam 10:6-8
+  rel: setting
+  note: The king of Maacah among the Aramean allies of Ammon
+related: [arameans, david, diplomatic-marriage, damascus, hazael, city-gates, massebot, bull-iconography]
+media:
+- id: geshur
+  role: primary
+external:
+  wikipedia: Geshur
+  wikidata: Q2669839
+editorial:
+  author_notes:
+  - >-
+    David's marriage to Talmai's daughter is a diplomatic marriage with a neighbouring Aramean
+    court, and Absalom's flight to his maternal grandfather follows from it. Link to diplomatic-marriage.
+  - >-
+    Et-Tell (Bethsaida Excavations Project, directed by R. Arav) has a large Iron IIA-B city
+    with a monumental gate and a gate shrine with a stele of a horned, bull-headed figure,
+    variously interpreted (often as a moon god). Its identification as Geshur's capital is
+    a proposal, not certain. Other Golan and Sea of Galilee sites (e.g. Tel Hadar, ʿEn Gev)
+    are also relevant.
+  - >-
+    Geshur probably ceased as an independent kingdom when Aram-Damascus expanded in the ninth
+    century. The region was then devastated by Tiglath-pileser III in 733-732.
+  - >-
+    Distinguish the southern Geshurites near Philistia (Josh 13:2; 1 Sam 27:8), a different
+    group.
+  sources_to_check:
+  - B. Mazar, 'Geshur and Maacah,' JBL 80 (1961)
+  - >-
+    R. Arav and R. A. Freund (eds.), Bethsaida: A City by the North Shore of the Sea of Galilee,
+    4 vols. (1995-2009)
+  image_query: Bethsaida et-Tell city gate
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

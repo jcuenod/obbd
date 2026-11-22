@@ -1,0 +1,66 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: boundary-markers
+title: Boundary Markers and Land Theft
+aliases: [Landmarks, Moving the boundary stone]
+type: practice
+cultures: [hebrew, egyptian, babylonian]
+scope: >-
+  The prohibition of moving a neighbour's boundary marker in biblical law and wisdom, and
+  its counterparts in Egyptian instruction literature, Mesopotamian kudurru curses, and cuneiform
+  law.
+passages:
+- ref: Deut 19:14
+  rel: practice
+  note: Do not move the boundary set by former generations
+- ref: Deut 27:17
+  rel: practice
+  note: Curse on one who moves a neighbour's boundary marker
+- ref: Prov 22:28
+  rel: parallel
+  note: Do not remove the ancient landmark; cf. Amenemope ch. 6
+- ref: Prov 23:10-11
+  rel: parallel
+  note: Landmark and orphans' fields; the strong Redeemer defends them
+- ref: Job 24:2
+  rel: practice
+  note: The wicked remove landmarks and seize flocks
+- ref: Hos 5:10
+  rel: imagery
+  note: Judah's princes 'like those who remove the landmark'
+related: [kudurru, instruction-of-amenemope, land-redemption, widow-orphan-sojourner, blessings-and-curses]
+media:
+- id: boundary-markers
+  role: primary
+external:
+  wikipedia: Boundary marker
+  wikidata: Q921099
+editorial:
+  author_notes:
+  - >-
+    Instruction of Amenemope chapter 6 ('Do not move the markers on the borders of fields...
+    nor encroach on the boundaries of a widow') is widely accepted as a source for Prov 22:28
+    and 23:10 within Prov 22:17-24:22.
+  - >-
+    Kassite and later Babylonian kudurrus record land grants under divine symbols and curse
+    anyone who removes or alters the stone. They are a good illustration of the sanctity of
+    boundaries, though they are royal grants, not peasant field markers.
+  - >-
+    Cuneiform law addresses encroachment (Middle Assyrian Laws Tablet B; Hittite Laws). Verify
+    section numbers. Greek horoi and the Roman god Terminus are later comparanda.
+  sources_to_check:
+  - Lichtheim, Ancient Egyptian Literature, vol. 2 (1976)
+  image_query: kudurru Louvre
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

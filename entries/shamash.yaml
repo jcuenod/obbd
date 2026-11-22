@@ -1,0 +1,75 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: shamash
+title: Shamash and the Sun God
+aliases: [Utu, Shemesh, Shapash, sun god]
+type: deity
+cultures: [ane, mesopotamian, ugaritic]
+scope: >-
+  The sun god of Mesopotamia (Utu/Shamash, god of justice and divination), the Ugaritic sun
+  goddess Shapash, and solar worship and imagery in Israel and Judah. The entry covers sun
+  cult and solar language for YHWH; the winged sun disk has its own entry.
+passages:
+- ref: 2Kgs 23:5, 11
+  rel: practice
+  note: Josiah removes priests of the sun and burns the 'chariots of the sun'
+- ref: Ezek 8:16
+  rel: practice
+  note: Men in the temple court bow eastward to the sun
+- ref: Deut 4:19; 17:3
+  rel: polemic
+  note: Sun, moon and host of heaven forbidden as objects of worship
+- ref: Job 31:26-28
+  rel: practice
+  note: Kissing the hand to the shining sun or moon
+- ref: Ps 19:4-6
+  rel: imagery
+  note: Sun as bridegroom and runner; cf. Shamash hymns joining sun and law (MT 19:5-7)
+- ref: Mal 4:2
+  rel: imagery
+  note: Sun of righteousness with healing in its wings (MT 3:20)
+- ref: Ps 84:11
+  rel: imagery
+  note: '''YHWH God is a sun and shield'' (MT 84:12)'
+- ref: Josh 15:10
+  rel: language
+  note: Beth-shemesh, 'house of the sun'
+related: [tablet-of-shamash, code-of-hammurabi, winged-sun-disk, host-of-heaven, beth-shemesh,
+  light-of-the-face, divine-wings]
+media:
+- id: great-hymn-to-shamash
+  role: primary
+external:
+  wikipedia: Shamash
+  wikidata: Q332188
+editorial:
+  author_notes:
+  - >-
+    The "solar Yahwism" thesis (J. G. Taylor) is debated; separate solar imagery for YHWH,
+    which is common, from a solar YHWH cult, which is contested.
+  - >-
+    Shamash as judge, who sees all and is invoked in divination (with Adad), is the main background
+    for sun-justice imagery (Ps 19; Mal 4:2).
+  - >-
+    Ugaritic Shapash is female, the "torch of the gods" who travels to the netherworld; note
+    the gender difference from Mesopotamia.
+  - >-
+    Josh 10:12-13 has been read against omen literature (Holladay); mention only as a proposal.
+  sources_to_check:
+  - J. G. Taylor, Yahweh and the Sun (JSOTSup 111, 1993)
+  - W. G. Lambert, Babylonian Wisdom Literature (1960) (Shamash Hymn)
+  - DDD, s.v. "Shemesh"
+  image_query: Tablet of Shamash British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

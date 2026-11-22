@@ -1,0 +1,72 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: nora-stone
+title: Nora Stone
+type: artifact
+cultures: [phoenician]
+date:
+  from: -825
+  to: -780
+  circa: true
+  display: c. 825–780 BCE
+scope: >-
+  A Phoenician inscription on a stone found in 1773 at Nora in southern Sardinia. It is one
+  of the earliest Phoenician texts from the western Mediterranean and contains the earliest
+  attestation of the name Sardinia (šrdn). Its first line is often read as mentioning Tarshish
+  (trš).
+passages:
+- ref: Gen 10:4
+  rel: attests
+  disputed: true
+  note: Tarshish among the sons of Javan
+- ref: Ps 72:10
+  rel: attests
+  disputed: true
+  note: Kings of Tarshish and the isles bring tribute
+- ref: Isa 23:1
+  rel: attests
+  disputed: true
+  note: Ships of Tarshish in the oracle against Tyre
+- ref: Ezek 27:12
+  rel: attests
+  disputed: true
+  note: Tarshish trades silver, iron, tin and lead with Tyre
+- ref: Jonah 1:3
+  rel: attests
+  disputed: true
+  note: Tarshish as the far western destination
+related: [tarshish, phoenician-seafaring, phoenicians, tyre, hiram-of-tyre]
+location:
+  institution: Museo Archeologico Nazionale di Cagliari
+  accession: null
+media:
+- id: nora-stone
+  role: primary
+external:
+  wikipedia: Nora Stone
+  wikidata: Q643314
+editorial:
+  author_notes:
+  - >-
+    The text is short and difficult. Whether btršš means 'in Tarshish', and whether Tarshish
+    then lies in Sardinia or elsewhere (Tartessos, Spain), is debated. Give the main interpretations
+    (e.g. Cross 1972).
+  - >-
+    The stone is important evidence for Phoenician presence in the west by c. 800, which is
+    relevant to the biblical 'ships of Tarshish' and to Tyrian trade in Ezek 27.
+  - Do not use the stone alone to locate Tarshish.
+  sources_to_check: [KAI 46, 'Cross, BASOR 208 (1972)']
+  image_query: Nora Stone Cagliari
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

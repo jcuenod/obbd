@@ -1,0 +1,83 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: arameans
+title: Arameans
+aliases: [Aram, Arameans, Ahlamu]
+type: people
+cultures: [aramean]
+scope: >-
+  The Aramaic-speaking peoples and states of Iron Age Syria and upper Mesopotamia (Aram-Damascus,
+  Zobah, Arpad, Samʾal, Guzana and others). Covers their emergence, their relations with Israel,
+  Assyrian conquest, and the biblical memory of Aramean ancestry.
+passages:
+- ref: Gen 22:20-24
+  rel: setting
+  note: Aram as a grandson of Nahor
+- ref: Gen 25:20
+  rel: setting
+  note: Rebekah daughter of Bethuel the Aramean of Paddan-aram
+- ref: Gen 31:47
+  rel: language
+  note: Laban names the cairn in Aramaic (Jegar-sahadutha), Jacob in Hebrew (Galeed)
+- ref: Deut 26:5
+  rel: concept
+  note: '''A wandering Aramean was my father'''
+- ref: 2Sam 8:3-12
+  rel: setting
+  note: David defeats Hadadezer of Zobah and the Arameans of Damascus
+- ref: 1Kgs 20
+  rel: setting
+  note: Ben-hadad's wars with Ahab
+- ref: 2Kgs 5
+  rel: setting
+  note: Naaman the Aramean commander
+- ref: 2Kgs 13:3-7, 22-25
+  rel: setting
+  note: Hazael and Ben-hadad oppress Israel
+- ref: 2Kgs 18:26
+  rel: language
+  note: Aramaic as the language of diplomacy
+- ref: Amos 9:7
+  rel: setting
+  note: Arameans brought from Kir
+related: [aramaic-language, hazael, ben-hadad, damascus, tel-dan-stele, zakkur-stele, sefire-treaties,
+  tell-fekheriye-statue]
+media:
+- id: arameans
+  role: primary
+- id: arameans-2
+  role: gallery
+external:
+  wikipedia: Arameans
+  wikidata: Q175064
+editorial:
+  author_notes:
+  - >-
+    The first secure mention is in Tiglath-pileser I (c. 1100, Aḫlamû-Aramaya). Earlier references
+    are debated.
+  - >-
+    Aramean states (Bit-Adini, Bit-Agusi/Arpad, Samʾal, Guzana, Zobah, Damascus) often had
+    mixed Luwian-Aramean cultures. Their inscriptions (Tell Fekheriye, Zakkur, Sefire, Tel
+    Dan) are key sources.
+  - >-
+    The patriarchal 'Aramean' kinship traditions (Gen 24-31; Deut 26:5) raise questions of
+    date and anachronism. The meaning of ʾōbēd in Deut 26:5 ('wandering' or 'perishing') is
+    debated.
+  - >-
+    Aramaic spread as the lingua franca of the Assyrian and Persian empires. Cross-refer aramaic-language.
+  sources_to_check:
+  - Younger, A Political History of the Arameans (2016)
+  image_query: Tell Halaf orthostat relief
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

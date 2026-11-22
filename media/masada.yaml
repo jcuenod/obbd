@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: masada
+file: masada.jpg
+title: Israel-2013-Aerial 21-Masada.jpg
+caption: Aerial view of Masada in the Judean Desert, with the Dead Sea in the distance.
+description: >-
+  Aerial view of Masada (Hebrew מצדה), in the Judaean Desert (Hebrew: מִדְבַּר יְהוּדָה‎,
+  Arabic: صحراء يهودا), with the Dead Sea in the distance.
+creator: Godot13
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Godot13, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Israel-2013-Aerial_21-Masada.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/1/14/Israel-2013-Aerial_21-Masada.jpg
+  sha1: 1bc7947ad7903c8bad86e04bf3672f6b2d7e41a8
+  original_size: [3755, 5000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1201×1600 px
+size: [1201, 1600]
+depicts: [masada]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: arad-ostraca
+file: arad-ostraca.jpg
+title: >-
+  Letter, Arad, 6th Century BC, Ink on Pottery, Earliest Reference to Solomon's Temple (42499943804).jpg
+caption: >-
+  Arad ostracon 18, an ink letter to Eliashib that mentions 'the house of YHWH', early 6th
+  century BCE (Israel Museum, Jerusalem).
+description: >-
+  Israel Museum, Jerusalem, Israel. Complete indexed photo collection at WorldHistoryPics.com
+creator: Gary Todd from Xinzheng, China
+credit_line: Letter, Arad, 6th Century BC, Ink on Pottery, Earliest Reference to Solomon's
+  Temple
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Gary Todd from Xinzheng, China. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Letter,_Arad,_6th_Century_BC,_Ink_on_Pottery,_Earliest_Reference_to_Solomon%27s_Temple_(42499943804).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/28/Letter%2C_Arad%2C_6th_Century_BC%2C_Ink_on_Pottery%2C_Earliest_Reference_to_Solomon%27s_Temple_%2842499943804%29.jpg
+  sha1: 73f3796f74ad181cefc5e4964be3dc90859273bb
+  original_size: [4000, 6000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1067×1600 px
+size: [1067, 1600]
+depicts: [arad-ostraca]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

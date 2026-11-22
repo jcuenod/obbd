@@ -1,0 +1,81 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: synagogues
+title: Synagogues in the Late Second Temple Period
+type: realia
+cultures: [jewish]
+scope: >-
+  Jewish assembly buildings and institutions (synagōgē, proseuchē) before 135 CE. The entry
+  covers their debated origins, the excavated pre-70 buildings in the land of Israel and the
+  diaspora, and their functions of scripture reading, teaching, and community life as reflected
+  in the New Testament.
+passages:
+- ref: Luke 4:16-30
+  rel: practice
+  note: Sabbath reading from the prophets and teaching at Nazareth
+- ref: Mark 1:21
+  rel: setting
+  note: Jesus teaches in the Capernaum synagogue
+- ref: Luke 7:5
+  rel: practice
+  note: 'A centurion''s benefaction: ''he built our synagogue'''
+- ref: Acts 13:14-15
+  rel: practice
+  note: Reading of the law and prophets; officials invite a word of exhortation
+- ref: Acts 15:21
+  rel: practice
+  note: Moses read every Sabbath in every city
+- ref: Acts 16:13
+  rel: language
+  note: proseuchē 'place of prayer' at Philippi
+- ref: Mark 5:22
+  rel: language
+  note: archisynagōgos 'leader of the synagogue'
+- ref: Matt 23:2, 6
+  rel: realia
+  note: '''Moses'' seat'' and seats of honour'
+- ref: Ps 74:8
+  rel: language
+  disputed: true
+  note: '''Meeting places of God'' in the land, sometimes read as synagogues'
+related: [theodotos-inscription, magdala-stone, capernaum, masada, stone-vessels-and-mikvaot,
+  septuagint]
+media:
+- id: synagogues
+  role: primary
+- id: synagogues-2
+  role: gallery
+external:
+  wikipedia: Synagogue
+  wikidata: Q34627
+editorial:
+  author_notes:
+  - >-
+    Origins debated (exilic, Hellenistic Egypt, Judean town gate). The earliest firm evidence
+    is 3rd-century BCE proseuchē dedications from Ptolemaic Egypt.
+  - >-
+    Pre-70 buildings: Gamla, Masada, Herodium, Magdala, Qiryat Sefer, Modiʿin, among others.
+    The white-limestone Capernaum synagogue is late antique, built over an earlier basalt
+    structure.
+  - >-
+    Avoid retrojecting later rabbinic liturgy. Reading and teaching Torah are the best-attested
+    functions; the prominence of prayer is debated.
+  sources_to_check:
+  - 'L. I. Levine, The Ancient Synagogue: The First Thousand Years (2nd ed., 2005)'
+  - >-
+    A. Runesson, D. D. Binder, and B. Olsson, The Ancient Synagogue from Its Origins to 200
+    C.E.: A Source Book (2008)
+  image_query: Gamla synagogue
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

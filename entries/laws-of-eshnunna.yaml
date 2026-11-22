@@ -1,0 +1,72 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: laws-of-eshnunna
+title: Laws of Eshnunna
+aliases: [LE, Code of Eshnunna]
+type: text
+cultures: [akkadian]
+date:
+  from: -1800
+  to: -1760
+  circa: true
+  display: c. 1800–1760 BCE
+scope: >-
+  An Old Babylonian Akkadian law collection from the kingdom of Eshnunna, known chiefly from
+  two tablets found at Tell Harmal. It contains the closest verbal parallel to any biblical
+  law, the ruling on an ox that gores another ox.
+passages:
+- ref: Exod 21:35
+  rel: parallel
+  note: 'Ox gores ox: owners divide the live ox and the carcass (LE §53), nearly verbatim'
+- ref: Exod 21:28-32
+  rel: parallel
+  note: Owner warned of a goring ox pays when it kills a person (LE §§54-55)
+- ref: Exod 22:2-3
+  rel: parallel
+  note: Thief in a house at night may be killed; by day penalty differs (LE §§12-13) (MT 22:1-2)
+- ref: Exod 22:7-8
+  rel: practice
+  note: 'Lost deposit: depositary clears himself by oath before the god (LE §§36-37) (MT 22:6-7)'
+- ref: Deut 22:25-27
+  rel: parallel
+  note: 'Rape of a betrothed girl: death for the man (LE §26)'
+- ref: Deut 22:8
+  rel: practice
+  note: 'Owner liable for deaths from a known structural hazard (LE §58: tottering wall)'
+related: [goring-ox, code-of-hammurabi, ane-law-collections, oaths-and-oath-formulas, laws-of-lipit-ishtar]
+media: []
+external:
+  wikipedia: Laws of Eshnunna
+  wikidata: Q953024
+editorial:
+  author_notes:
+  - >-
+    Two tablets from Tell Harmal (Shaduppum) excavated in 1945-49 (Goetze's edition 1956)
+    plus a fragment from Tell Haddad; usually dated a generation or two before Hammurabi,
+    possibly to Dadusha's reign.
+  - >-
+    LE §53 and Exod 21:35 are the most celebrated verbal parallel in ANE law (Yaron; Jackson;
+    Westbrook). Most explain it by shared legal-scribal tradition rather than Israelite access
+    to Eshnunna; Wright posits mediation through LH.
+  - >-
+    The day/night burglar distinction (§§12-13) is another strong parallel and illustrates
+    shared casuistic reasoning.
+  sources_to_check:
+  - M. T. Roth, Law Collections from Mesopotamia and Asia Minor (2nd ed., 1997)
+  - COS 2.130
+  - ANET 161-163
+  - R. Yaron, The Laws of Eshnunna (2nd ed., 1988)
+  image_query: Laws of Eshnunna tablet
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-1-sol

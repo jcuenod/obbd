@@ -1,0 +1,84 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: pim-weights
+title: Inscribed Weights (Shekel, Pim, Beqa, Nesef)
+aliases: [Judahite inscribed weights]
+type: realia
+cultures: [judahite]
+date:
+  from: -750
+  to: -586
+  circa: true
+  display: c. 750–586 BCE
+scope: >-
+  Small dome-shaped stone weights of the late Judahite monarchy, inscribed with the shekel
+  sign and hieratic numerals or with the names of fractional units: nṣp (nesef), pym (pim)
+  and bqʿ (beqaʿ). Their standardisation reveals a Judahite weight system based on a shekel
+  of about 11.3 g.
+passages:
+- ref: 1Sam 13:21
+  rel: language
+  note: pîm, the charge for sharpening tools, explained by inscribed pim weights
+- ref: Exod 38:26
+  rel: language
+  note: beqaʿ as half a shekel
+- ref: Gen 24:22
+  rel: language
+  note: A gold nose-ring weighing a beqaʿ
+- ref: Ezek 45:12
+  rel: practice
+  note: The shekel defined as twenty gerahs; cf. hieratic gerah numerals
+- ref: Gen 23:16
+  rel: practice
+  note: Silver weighed out at the merchants' standard
+- ref: Lev 19:35-36
+  rel: practice
+  note: Just balances and just weights ('stones')
+- ref: Deut 25:13-16
+  rel: practice
+  note: Prohibition of two different weights, large and small
+- ref: Prov 11:1
+  rel: practice
+  note: False balances an abomination to YHWH
+- ref: Amos 8:5
+  rel: practice
+  note: Merchants making the shekel great to cheat
+- ref: Mic 6:11
+  rel: practice
+  note: A bag of deceitful weights
+related: [weights-and-silver-money, coinage, iron-technology, lmlk-seal-impressions, scribes-and-scribal-education]
+media:
+- id: pim-weights
+  role: primary
+external:
+  wikipedia: Pim weight
+  wikidata: Q2601873
+editorial:
+  author_notes:
+  - >-
+    Before the pim weights were identified (early 20th century), 1 Sam 13:21 was unintelligible.
+    It is a classic case of epigraphy solving a biblical crux.
+  - >-
+    The use of Egyptian hieratic numerals on Judahite weights is a notable sign of Egyptian
+    scribal influence.
+  - >-
+    Note the variation in actual weight among specimens. Biblical concern for just weights
+    is borne out by real variability (Kletter).
+  - Some inscribed weights on the market are forgeries. Prefer excavated examples.
+  sources_to_check:
+  - >-
+    Kletter, Economic Keystones: The Weight System of the Kingdom of Judah (JSOTSup 276, 1998)
+  image_query: Pim weight stone Judah
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ben-hadad
+file: ben-hadad.jpg
+title: Melqart or Bir Hadad stele.jpg
+caption: >-
+  The Melqart stele, dedicated to Melqart by Bar-Hadad, king of Aram, basalt, 9th–8th century
+  BCE.
+description: Melqart or Bir Hadad stele
+creator: Unknown authorUnknown author
+credit_line: Aleppo Museum
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Unknown authorUnknown author. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Melqart_or_Bir_Hadad_stele.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/a/a7/Melqart_or_Bir_Hadad_stele.jpg
+  sha1: 48851743de95d7de483c9ce9e525552cce057071
+  original_size: [1210, 3010]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 643×1600 px
+size: [643, 1600]
+depicts: [ben-hadad, melqart-stele]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

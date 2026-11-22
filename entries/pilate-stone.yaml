@@ -1,0 +1,73 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: pilate-stone
+title: Pilate Stone
+type: artifact
+cultures: [roman]
+date:
+  from: 26
+  to: 36
+  display: 26–36 CE
+scope: >-
+  Limestone block found at Caesarea Maritima in 1961, reused in the theatre, bearing a Latin
+  dedication of a Tiberieum by Pontius Pilatus, prefect of Judea. It is the only contemporary
+  inscription naming Pilate and gives his official title.
+passages:
+- ref: Luke 3:1
+  rel: attests
+  note: Pontius Pilate governor of Judea in Tiberius's fifteenth year
+- ref: Matt 27:2, 11
+  rel: language
+  note: '''Governor'' (hēgemōn); the inscription gives the formal title praefectus'
+- ref: Mark 15:1-15
+  rel: attests
+  note: Jesus' trial before Pilate
+- ref: John 18:28-19:16
+  rel: attests
+  note: Pilate's praetorium and the trial
+- ref: Acts 4:27
+  rel: attests
+  note: Pilate with Herod and the nations against Jesus
+- ref: 1Tim 6:13
+  rel: attests
+  note: Christ's testimony before Pontius Pilate
+- ref: Acts 23:33-35
+  rel: setting
+  note: Caesarea as the Roman governor's seat
+related: [caesarea-maritima, imperial-cult, caiaphas-ossuary, crucifixion, josephus, herod-the-great]
+location:
+  institution: Israel Museum, Jerusalem
+  accession: null
+media:
+- id: pilate-stone
+  role: primary
+external:
+  wikipedia: Pilate stone
+  wikidata: Q1073819
+editorial:
+  author_notes:
+  - >-
+    Present the reading and restoration, and the debate over what the Tiberieum was (a cultic
+    building or a maritime structure such as a lighthouse, per Alföldy).
+  - >-
+    Prefect (not procurator, as in Tacitus, Ann. 15.44) was the correct title for equestrian
+    governors of Judea before 44 CE.
+  - >-
+    Other evidence for Pilate: his coins (29-31 CE), Philo (Legat. 299-305), Josephus. The
+    2018 Herodium ring inscribed 'Pilatus' is of uncertain relevance.
+  sources_to_check:
+  - 'Corpus Inscriptionum Iudaeae/Palaestinae, vol. 2: Caesarea and the Middle Coast (2011)'
+  image_query: Pilate stone Israel Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: firstfruits-and-firstborn
+title: Firstfruits and Firstborn
+aliases: [Bikkurim, Redemption of the firstborn]
+type: practice
+cultures: [hebrew, ane]
+scope: >-
+  The dedication to the deity of the first produce of the harvest and the firstborn of humans
+  and animals, with provisions for redemption and substitution. The entry covers the biblical
+  laws and rituals, their ancient Near Eastern analogues, and the debate over child sacrifice.
+passages:
+- ref: Exod 13:1-2, 11-16
+  rel: practice
+  note: Consecration of the firstborn; redemption of sons and donkeys; Passover rationale
+- ref: Exod 22:29-30
+  rel: practice
+  note: '''The firstborn of your sons you shall give to me'' (MT 22:28-29)'
+- ref: Exod 23:19
+  rel: practice
+  note: Best of the firstfruits brought to the house of YHWH
+- ref: Exod 34:19-20, 26
+  rel: practice
+  note: Firstborn redeemed; firstfruits brought
+- ref: Lev 23:9-14
+  rel: practice
+  note: First sheaf (ʿōmer) waved before YHWH
+- ref: Num 3:11-13, 40-51
+  rel: practice
+  note: Levites substituted for Israel's firstborn; redemption money
+- ref: Num 18:12-18
+  rel: practice
+  note: Firstfruits and firstborn belong to the priests
+- ref: Deut 26:1-11
+  rel: practice
+  note: Basket of firstfruits and the 'wandering Aramean' recital
+- ref: Ezek 20:25-26
+  rel: concept
+  disputed: true
+  note: '''Statutes that were not good'': offering the firstborn; tie to child sacrifice debated'
+- ref: Luke 2:22-24
+  rel: practice
+  note: Jesus presented as firstborn at the temple
+related: [child-sacrifice, tithes, festivals-agricultural, passover-origins, inheritance-and-birthright,
+  sacrifice]
+media: []
+external:
+  wikipedia: First Fruits
+  wikidata: Q1362381
+editorial:
+  author_notes:
+  - >-
+    Offering first produce and firstlings to the gods is widespread in the ancient Near East
+    and the Mediterranean, so the practice itself is unremarkable.
+  - >-
+    Whether Exod 22:29 once required the sacrifice of firstborn sons is debated (J. D. Levenson,
+    The Death and Resurrection of the Beloved Son, 1993; versus readings that assume redemption
+    was always intended). Present this neutrally and connect it to Ezek 20:25-26.
+  - >-
+    Deut 26:5-9 was von Rad's 'small historical credo'. Note that its early dating has been
+    widely abandoned.
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

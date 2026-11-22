@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: midianites-and-kenites
+file: midianites-and-kenites.jpg
+title: Timna Timna-Tal Hathor-Tempel 1.JPG
+caption: >-
+  Remains of the Egyptian Hathor shrine in the Timna Valley, whose final phase has been attributed
+  to Midianite use.
+description: Temple of Hathor, Timna Valley, Negev Desert, Israel
+creator: Zairon
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Zairon, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Timna_Timna-Tal_Hathor-Tempel_1.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/c/cd/Timna_Timna-Tal_Hathor-Tempel_1.JPG
+  sha1: 613357629fd91202c5455824867fcfda65809d01
+  original_size: [4592, 3448]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1202 px
+size: [1600, 1202]
+depicts: [midianites-and-kenites]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

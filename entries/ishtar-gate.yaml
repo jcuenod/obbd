@@ -1,0 +1,84 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ishtar-gate
+title: Ishtar Gate and Processional Way
+type: artifact
+cultures: [babylonian]
+date:
+  from: -575
+  to: -575
+  circa: true
+  display: c. 575 BCE
+scope: >-
+  The monumental glazed-brick gate on the north side of Babylon's inner city, built by Nebuchadnezzar
+  II and dedicated to Ishtar, with the Processional Way leading to Marduk's temple. Its reliefs
+  show bulls of Adad and mušḫuššu dragons of Marduk; lions line the Processional Way. A reconstruction
+  stands in Berlin.
+passages:
+- ref: Dan 4:30
+  rel: setting
+  note: '''Is this not magnificent Babylon, which I have built?'' (MT 4:27)'
+- ref: Jer 51:58
+  rel: setting
+  note: Babylon's broad wall levelled and high gates burned
+- ref: Isa 46:1-2
+  rel: practice
+  note: Bel and Nebo carried in procession, now carried off
+- ref: Jer 50:2
+  rel: attests
+  note: Bel and Merodach (Marduk) put to shame
+- ref: Bel 23-27
+  rel: imagery
+  note: The dragon venerated in Babylon; cf. Marduk's mušḫuššu
+- ref: Isa 13:19
+  rel: setting
+  note: Babylon, the glory of kingdoms
+- ref: Dan 1:1-4
+  rel: setting
+  note: Judean youths taken to Nebuchadnezzar's Babylon
+related: [babylon, nebuchadnezzar-ii, marduk, ishtar, akitu-festival, east-india-house-inscription,
+  etemenanki, babylonian-exile]
+location:
+  institution: >-
+    Vorderasiatisches Museum (Pergamonmuseum), Berlin; glazed-brick panels in many other museums
+  accession: null
+media:
+- id: ishtar-gate
+  role: primary
+- id: ishtar-gate-2
+  role: gallery
+- id: nebuchadnezzar-ii-2
+  role: gallery
+external:
+  wikipedia: Ishtar Gate
+  wikidata: Q26082
+editorial:
+  author_notes:
+  - >-
+    Excavated by Robert Koldewey's German expedition (1899-1917); the Berlin reconstruction
+    is of the smaller outer gate, using excavated bricks supplemented with modern ones.
+  - >-
+    The Processional Way was used during the akitu (New Year) festival when Marduk's statue
+    was carried in procession; useful for Isa 46:1-2.
+  - >-
+    The gate dates to Nebuchadnezzar's later reign (c. 575), so it was standing during the
+    exile.
+  - >-
+    The Pergamonmuseum has been closed for long-term renovation; check current display status
+    before stating it.
+  sources_to_check:
+  - Koldewey, Das wieder erstehende Babylon (1913)
+  image_query: Ishtar Gate Pergamon Museum Berlin
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

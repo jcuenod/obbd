@@ -1,0 +1,72 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: prophecy-of-neferti
+title: Prophecy of Neferti
+aliases: [Prophecy of Neferti, Prophecy of Nefer-rohu]
+type: text
+cultures: [egyptian]
+date:
+  from: -1940
+  to: -1900
+  circa: true
+  display: c. 1940–1900 BCE
+scope: >-
+  A Twelfth Dynasty literary text set at the court of the Fourth Dynasty king Sneferu. The
+  sage Neferti foretells chaos in Egypt (the Nile dried up, Asiatics in the Delta, social
+  and family breakdown) and then the coming of a saviour king, "Ameny", who will restore order.
+  It is political literature legitimating Amenemhat I.
+passages:
+- ref: Dan 11:2-45
+  rel: form
+  note: History presented as prediction from a fictive earlier vantage point (ex eventu)
+- ref: 1Kgs 13:2
+  rel: form
+  note: Prophecy naming a future king generations in advance
+- ref: Isa 11:1-9
+  rel: parallel
+  note: Expected just king who restores order after calamity (typological)
+- ref: Isa 19:5-8
+  rel: imagery
+  note: Nile dried up, fishermen and the economy ruined
+- ref: Mic 7:6
+  rel: parallel
+  note: Family turned against itself as a sign of social collapse
+related: [admonitions-of-ipuwer, prophecy-in-the-ane, egyptian-kingship, messianic-expectations,
+  nile, royal-ideology]
+media:
+- id: prophecy-of-neferti
+  role: primary
+external:
+  wikipedia: Prophecy of Neferti
+  wikidata: Q2061152
+editorial:
+  author_notes:
+  - >-
+    Neferti is not prophecy in the Israelite sense. It is royal propaganda using vaticinium
+    ex eventu, which is useful for discussing ex eventu prediction in Daniel and in the Akkadian
+    "prophecies" (Uruk, Marduk, Shulgi texts).
+  - >-
+    The chaos description shares topoi with Ipuwer (the land overturned) and is not historical
+    evidence for First Intermediate Period disorder.
+  - >-
+    The text mentions the "Walls of the Ruler", a fortification line against Asiatics on the
+    eastern Delta frontier. Some link Hebrew Shur ("wall"; Gen 16:7; Exod 15:22) to such frontier
+    works. Treat this as a hypothesis.
+  - >-
+    The main manuscript is P. Hermitage 1116B (Eighteenth Dynasty), with many ostraca and
+    tablets.
+  sources_to_check: ['AEL 1:139-145', ANET 444-446]
+  image_query: Papyrus Hermitage 1116B Neferti
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: oil-lamps
+file: oil-lamps.jpg
+title: Eretz-Israel-Museum-ceramics-pavilion-lamps-35829.jpg
+caption: >-
+  Clay oil lamps from the southern Levant, from open saucer lamps to later mould-made types,
+  in the ceramics pavilion of the Eretz Israel Museum, Tel Aviv.
+description: Ceramics pavilion in Eretz Israel Museum, Tel Aviv, Israel.
+creator: Bukvoed
+credit_line: Own work
+license:
+  id: CC-BY-4.0
+  name: CC BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0
+attribution: Bukvoed, CC BY 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Eretz-Israel-Museum-ceramics-pavilion-lamps-35829.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/4c/Eretz-Israel-Museum-ceramics-pavilion-lamps-35829.jpg
+  sha1: e54b4e22c556062e5be68032a1a83411ce961c39
+  original_size: [4160, 2336]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×898 px
+size: [1600, 898]
+depicts: [oil-lamps]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: shabaka-stone
+file: shabaka-stone.jpg
+title: Shabaka Stone at the British Museum.jpg
+caption: >-
+  The Shabaka Stone, basalt slab inscribed under Shabaka with the Memphite Theology, later
+  reused as a millstone (British Museum, London, EA 498).
+description: >-
+  The Shabaka Stone, sometimes Shabaqo, is a relic incised with an ancient Egyptian religious
+  text, which dates from the twenty-fifth dynasty of Egypt. Picture taken at the British Museum,
+  London, England.
+creator: Sanjay ach
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Sanjay ach, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Shabaka_Stone_at_the_British_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/19/Shabaka_Stone_at_the_British_Museum.jpg
+  sha1: 179e73f28dffa1531e26267c00bd4097f1baa6cc
+  original_size: [11448, 7452]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1042 px
+size: [1600, 1042]
+depicts: [shabaka-stone]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

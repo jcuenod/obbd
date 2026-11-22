@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ararat-urartu
+file: ararat-urartu.jpg
+title: Van Fortress From Northwest.JPG
+caption: The citadel rock of Van (Urartian Tušpa), the capital of Urartu, from the northwest.
+description: >-
+  The ancient fortress a few kilometres west of present-day Van in the eastern-most part of
+  Turkey, originally the seat of the Urartian kingdom.
+creator: Bjørn Christian Tørrissen
+credit_line: Own work by uploader, http://bjornfree.com/galleries.html
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Bjørn Christian Tørrissen, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Van_Fortress_From_Northwest.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/8/84/Van_Fortress_From_Northwest.JPG
+  sha1: 4cc930f27b4adfbb7143ec654b693a745de76557
+  original_size: [3393, 1416]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×668 px
+size: [1600, 668]
+depicts: [ararat-urartu]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

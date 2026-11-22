@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ain-dara-temple-2
+file: ain-dara-temple-2.jpg
+title: Huge footprints Ain Dara.jpg
+caption: The giant footprints carved into the thresholds of the ʿAin Dara temple.
+description: Huge footprints
+creator: Verity Cridland
+credit_line: Huge footprints
+license:
+  id: CC-BY-2.0
+  name: CC BY 2.0
+  url: https://creativecommons.org/licenses/by/2.0
+attribution: Verity Cridland, CC BY 2.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Huge_footprints_Ain_Dara.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/0/00/Huge_footprints_Ain_Dara.jpg
+  sha1: dff2979ef8710ff988a1ead1cc20670bf5a666e3
+  original_size: [2288, 1712]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1198 px
+size: [1600, 1198]
+depicts: [ain-dara-temple]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

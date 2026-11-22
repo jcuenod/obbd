@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: shasu
+title: Shasu
+aliases: [Šꜣsw, Shosu]
+type: people
+cultures: [egyptian]
+date:
+  from: -1500
+  to: -1100
+  circa: true
+  display: c. 1500–1100 BCE
+scope: >-
+  The Shasu of New Kingdom Egyptian texts: semi-nomadic pastoralist groups of the southern
+  Levant, Sinai and Transjordan. Covers the sources, the 'Shasu land of YHW' and 'Shasu of
+  Seir/Edom' references, and their bearing on Israel's origins and on the southern origin
+  of YHWH.
+passages:
+- ref: Deut 33:2
+  rel: concept
+  disputed: true
+  note: YHWH comes from Sinai, Seir and Paran; cf. 'Shasu land of YHW'
+- ref: Judg 5:4-5
+  rel: concept
+  disputed: true
+  note: YHWH marches from Seir and Edom
+- ref: Hab 3:3
+  rel: concept
+  disputed: true
+  note: God comes from Teman, the Holy One from Mount Paran
+- ref: Gen 47:4-6
+  rel: practice
+  note: >-
+    Pastoralists admitted to the eastern Delta; cf. Shasu of Edom admitted at Tjeku (Papyrus
+    Anastasi VI)
+related: [soleb-shasu-inscription, yhwh-origins, papyrus-anastasi, edomites, midianites-and-kenites,
+  merneptah-stele, habiru]
+media:
+- id: shasu
+  role: primary
+- id: shasu-2
+  role: gallery
+external:
+  wikipedia: Shasu
+  wikidata: Q559386
+editorial:
+  author_notes:
+  - >-
+    Egyptian š3sw denotes Semitic-speaking pastoralists. The topographical lists at Soleb
+    (Amenhotep III) and Amarah West (Ramesses II) include 'Shasu land of YHW' and 'Shasu land
+    of Seir'.
+  - >-
+    The YHW toponym is important for the southern-origin hypothesis of YHWH. Note that it
+    names a place or group, not explicitly a deity, and its location is debated.
+  - >-
+    Papyrus Anastasi VI (late thirteenth century) reports Shasu tribes of Edom allowed past
+    the fortress at Tjeku to the pools of Pithom.
+  - >-
+    Rainey identified Merneptah's 'Israel' with Shasu figures in the Karnak reliefs, while
+    Yurco and Stager identified them with Canaanites. Both views remain debated. Avoid equating
+    Shasu with early Israel without qualification.
+  sources_to_check:
+  - Giveon, Les bédouins Shosou des documents égyptiens (1971)
+  image_query: Shasu captive relief Egypt
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

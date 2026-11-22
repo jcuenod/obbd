@@ -1,0 +1,90 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: passover-origins
+title: 'Passover and Unleavened Bread: Origins'
+aliases: [Pesach, Feast of Unleavened Bread, maṣṣôt]
+type: practice
+cultures: [hebrew, jewish]
+scope: >-
+  The origins and development of Passover (pesaḥ) and the Feast of Unleavened Bread (maṣṣôt):
+  apotropaic blood rite, family slaughter, centralization, and Second Temple practice, with
+  comparative and epigraphic evidence such as the Elephantine Passover letter.
+passages:
+- ref: Exod 12:1-14
+  rel: practice
+  note: Lamb slaughtered at twilight on the 14th; blood on doorposts and lintel
+- ref: Exod 12:21-23
+  rel: practice
+  note: Blood applied with hyssop; YHWH will not let the destroyer (mašḥît) enter
+- ref: Exod 12:43-49
+  rel: practice
+  note: Who may eat the Passover; circumcision requirement
+- ref: Exod 12:15-20
+  rel: practice
+  note: Seven days of unleavened bread
+- ref: Exod 34:25
+  rel: practice
+  note: Sacrifice of the Passover not to remain until morning
+- ref: Deut 16:1-8
+  rel: practice
+  note: Passover centralized at the chosen place; meat 'cooked' (bšl)
+- ref: 2Chr 35:13
+  rel: practice
+  note: Passover 'cooked (bšl) in fire', harmonizing Exod 12:9 and Deut 16:7
+- ref: 2Kgs 23:21-23
+  rel: practice
+  note: Josiah's Passover, unprecedented since the judges
+- ref: 2Chr 30:1-27
+  rel: practice
+  note: Hezekiah's Passover in the second month
+- ref: Num 9:1-14
+  rel: practice
+  note: Second Passover for the impure or travelling
+- ref: Josh 5:10-12
+  rel: practice
+  note: Passover at Gilgal and the end of manna
+- ref: Ezra 6:19-22
+  rel: practice
+  note: Passover of the returned exiles
+related: [elephantine-passover-letter, apotropaic-doorposts-and-thresholds, festivals-agricultural,
+  josiah, demons, firstfruits-and-firstborn, calendars-and-month-names]
+media:
+- id: passover-origins
+  role: primary
+external:
+  wikipedia: Passover sacrifice
+  wikidata: Q2720330
+editorial:
+  author_notes:
+  - >-
+    Most critical scholars hold that pesaḥ (a family or clan apotropaic slaughter, often linked
+    to pastoral life) and maṣṣôt (an agricultural barley festival) were originally separate
+    and later combined. The "pastoral nomad" origin (Rost) is widely repeated but rests on
+    analogy and should be presented cautiously.
+  - The etymology of psḥ ("pass over", "protect", "limp") is uncertain. Present the options.
+  - >-
+    Deuteronomy turns a household rite into a sanctuary sacrifice. 2 Chr 35:13 harmonizes
+    the conflicting cooking instructions of Exod 12:9 (roast, not boiled) and Deut 16:7 (bšl).
+    This is a standard example of inner-biblical exegesis.
+  - >-
+    The Elephantine "Passover letter" (TAD A4.1, 419 BCE) gives instructions for Unleavened
+    Bread on Nisan 15-21. The word "Passover" itself is restored in a lacuna. Some ostraca
+    mention psḥ (verify references).
+  - >-
+    Mesopotamian rites that protected doorways with smeared substances and figurines are comparative
+    background for the blood rite. Do not overstate them as a direct source.
+  sources_to_check: [TAD A4.1]
+  image_query: Elephantine Passover letter papyrus
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

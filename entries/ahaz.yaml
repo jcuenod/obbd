@@ -1,0 +1,73 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ahaz
+title: Ahaz
+type: person
+cultures: [judahite]
+date:
+  from: -743
+  to: -727
+  circa: true
+  display: c. 743–727 BCE
+scope: >-
+  Ahaz (Jehoahaz) son of Jotham, king of Judah, who submitted to Tiglath-pileser III during
+  the Syro-Ephraimite war. He appears in Assyrian tribute lists as Jehoahaz (Iauḫazi) of Judah
+  and on seal impressions, including his son Hezekiah's bulla.
+passages:
+- ref: 2Kgs 16:5-9
+  rel: event
+  note: >-
+    Syro-Ephraimite siege; Ahaz declares himself Assyria's 'servant and son' and sends tribute
+- ref: 2Kgs 16:10-18
+  rel: practice
+  note: Altar copied from Damascus and temple changes 'because of the king of Assyria'
+- ref: 2Kgs 16:3
+  rel: practice
+  disputed: true
+  note: Ahaz 'made his son pass through fire'
+- ref: Isa 7:1-17
+  rel: event
+  note: Isaiah confronts Ahaz; the Immanuel sign
+- ref: 2Chr 28:16-21
+  rel: event
+  note: Appeal to Assyria; Edomite and Philistine raids
+- ref: Isa 14:28
+  rel: setting
+  note: Oracle dated to the year Ahaz died
+related: [tiglath-pileser-iii-inscriptions, tiglath-pileser-iii, rezin, pekah, hezekiah-bulla,
+  tribute-and-vassalage, child-sacrifice, damascus]
+media:
+- id: ahaz
+  role: primary
+external:
+  wikipedia: Ahaz
+  wikidata: Q30914
+editorial:
+  author_notes:
+  - >-
+    The Assyrian form Iauḫazi shows that his full name was Jehoahaz. The theophoric element
+    may have been dropped in the biblical tradition.
+  - >-
+    His chronology is notoriously difficult: 16 years (2 Kgs 16:2) and the synchronisms with
+    Hezekiah conflict. Tadmor/Cogan has c. 743-727 including a co-regency; others have 735-715.
+  - >-
+    The altar episode is no longer read as forced Assyrian religion. Most now see it as voluntary
+    cultural emulation.
+  - >-
+    Unprovenanced bullae of 'Ahaz son of Jotham, king of Judah' exist. Present the Ophel Hezekiah
+    bulla (which names Ahaz) as the excavated witness.
+  sources_to_check: ['Tadmor and Yamada, RINAP 1 (2011)']
+  image_query: Hezekiah bulla Ophel
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

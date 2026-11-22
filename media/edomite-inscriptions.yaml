@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: edomite-inscriptions
+file: edomite-inscriptions.jpg
+title: Edomite ostracon from Ḥorvat 'Uzza.jpg
+caption: The Edomite ostracon from Ḥorvat ʿUza, 6th century BCE (Israel Museum, Jerusalem).
+description: >-
+  The Edomite ostracon from Ḥorvat 'Uzza is an inscription from Arad valley, dating to 6th
+  century BCE. This picture was taken in Israel Museum.
+creator: פעמי-עליון
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: פעמי-עליון, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Edomite_ostracon_from_%E1%B8%A4orvat_%27Uzza.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/9d/Edomite_ostracon_from_%E1%B8%A4orvat_%27Uzza.jpg
+  sha1: 6040d56880b92c266a155b794a2f3f5005e394a7
+  original_size: [2382, 1975]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1327 px
+size: [1600, 1327]
+depicts: [edomite-inscriptions]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

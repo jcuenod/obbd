@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: circumcision
+file: circumcision.jpg
+title: Egyptian wall carving showing a circumcision scene, Sakkara Wellcome M0003450.jpg
+caption: >-
+  Old Kingdom relief of a circumcision scene in the tomb of Ankhmahor at Saqqara, in an early
+  photograph (Wellcome Collection).
+description: >-
+  Wall carving showing a circumcision scene, Sakkara, Egypt. Wellcome Images Keywords: sakkara;
+  egypcian medicine; archaeology: egypt
+creator: null
+credit_line: >-
+  https://wellcomeimages.org/indexplus/obf_images/c2/3d/faf777e016baabc166a252a0bfc5.jpg Gallery:
+  https://wellcomeimages.org/indexplus/image/M0003450.html Wellcome Collection gallery (2018-03-29):
+  https://wellcomecollection.org/works/krhpfft2 CC-BY-4.0
+license:
+  id: CC-BY-4.0
+  name: CC BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0
+attribution: Unknown author, CC BY 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Egyptian_wall_carving_showing_a_circumcision_scene,_Sakkara_Wellcome_M0003450.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/af/Egyptian_wall_carving_showing_a_circumcision_scene%2C_Sakkara_Wellcome_M0003450.jpg
+  sha1: 89e8c7b7ad7b5a2a8ad70d52e8056622564fc9f6
+  original_size: [2823, 3951]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1143×1600 px
+size: [1143, 1600]
+depicts: [circumcision]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

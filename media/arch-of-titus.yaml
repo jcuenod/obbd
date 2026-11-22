@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: arch-of-titus
+file: arch-of-titus.jpg
+title: Arch Titus, Forum Romanum, Rome, Italy.jpg
+caption: The Arch of Titus on the Via Sacra, Rome, dedicated after 81 CE.
+description: Arch of Titus, Forum Romanum, Rome, Italy.
+creator: Jebulon
+credit_line: Own work
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Jebulon. CC0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Arch_Titus,_Forum_Romanum,_Rome,_Italy.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/b9/Arch_Titus%2C_Forum_Romanum%2C_Rome%2C_Italy.jpg
+  sha1: 7a51ea7baa7b9c4e7716e3f6325242f549fbd112
+  original_size: [3315, 3076]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1485 px
+size: [1600, 1485]
+depicts: [arch-of-titus]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

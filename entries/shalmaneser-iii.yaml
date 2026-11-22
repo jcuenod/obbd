@@ -1,0 +1,70 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: shalmaneser-iii
+title: Shalmaneser III
+type: person
+cultures: [assyrian]
+date:
+  from: -858
+  to: -824
+  display: 858–824 BCE
+scope: >-
+  King of Assyria whose repeated western campaigns brought the Assyrian army into conflict
+  with a Levantine coalition including Ahab at Qarqar (853) and later received tribute from
+  Jehu (841). He is not named in the Bible.
+passages:
+- ref: 1Kgs 16:29-34
+  rel: attests
+  note: Ahab, named in Shalmaneser's account of Qarqar
+- ref: 1Kgs 22:1
+  rel: setting
+  note: Peace between Aram and Israel during the anti-Assyrian coalition
+- ref: 2Kgs 8:7-15
+  rel: attests
+  note: Hazael's usurpation; Assyrian text calls him 'son of a nobody'
+- ref: 2Kgs 9:1-10:36
+  rel: attests
+  note: Jehu, who paid tribute to Shalmaneser in 841
+- ref: 2Kgs 10:32-33
+  rel: setting
+  note: Hazael's expansion after Assyrian pressure on Damascus eased
+related: [black-obelisk, kurkh-monoliths, battle-of-qarqar, ahab, jehu, hazael, nimrud, assyria]
+media:
+- id: black-obelisk-2
+  role: gallery
+- id: shalmaneser-iii
+  role: primary
+- id: shalmaneser-iii-2
+  role: gallery
+external:
+  wikipedia: Shalmaneser III
+  wikidata: Q211928
+editorial:
+  author_notes:
+  - >-
+    Shalmaneser's inscriptions give the first firm absolute dates for Israelite history (853
+    and 841).
+  - >-
+    The Assur statue's notice that Hazael, 'son of a nobody', seized the throne after Hadadezer's
+    death fits 2 Kgs 8:7-15 in outline.
+  - >-
+    His later years were overshadowed by a major revolt led by his son, after which Assyrian
+    pressure on the west lapsed for decades.
+  sources_to_check:
+  - RIMA 3 (Grayson 1996)
+  - Yamada, The Construction of the Assyrian Empire (2000)
+  - COS 2.113
+  image_query: Shalmaneser III statue Nimrud
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

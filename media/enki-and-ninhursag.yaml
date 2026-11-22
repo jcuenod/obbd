@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: enki-and-ninhursag
+file: enki-and-ninhursag.jpg
+title: CBS4561 Enki and Ninhursag Penn Museum.jpg
+caption: >-
+  Clay tablet of the Sumerian myth of Enki and Ninhursag, Nippur, 1900–1600 BCE (Penn Museum,
+  CBS 4561).
+description: >-
+  Clay tablet, Sumerian Myth of Enki and Ninhursag. Nippur, 1900-1600 BC. Penn Museum CBS4561
+  https://www.penn.museum/collections/object/347491
+creator: Onceinawhile (talk · contribs)
+credit_line: File:University of Pennsylvania Museum of Archeology and Anthropology 2022 07.jpg
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Onceinawhile (talk · contribs), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:CBS4561_Enki_and_Ninhursag_Penn_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/43/CBS4561_Enki_and_Ninhursag_Penn_Museum.jpg
+  sha1: c1cbd0a74882114f1fc86a857f95e5207d7bc4bd
+  original_size: [1746, 2416]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1156×1600 px
+size: [1156, 1600]
+depicts: [enki-and-ninhursag]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

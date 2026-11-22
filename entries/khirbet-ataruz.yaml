@@ -1,0 +1,83 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: khirbet-ataruz
+title: Ataroth (Khirbat Ataruz)
+aliases: [Ataroth, Khirbat Ataruz, Khirbat ʿAṭārūz]
+type: site
+cultures: [moabite, israelite]
+scope: >-
+  Khirbat ʿAṭārūz in central Jordan, identified with Ataroth, which according to the Mesha
+  stele had been held by the 'men of Gad' and fortified by the king of Israel before Mesha
+  captured it. The entry covers the Iron Age temple complex and its cult objects, the inscribed
+  altar published in 2018, and the site's bearing on Israelite and Moabite history. Ataroth
+  in Ephraim (Josh 16) is a different place.
+passages:
+- ref: Num 32:3
+  rel: setting
+  note: Ataroth among the lands requested by Gad and Reuben
+- ref: Num 32:34
+  rel: attests
+  note: 'The Gadites build Ataroth; cf. Mesha: ''the men of Gad had lived in the land of Ataroth'''
+- ref: 2Kgs 3:4-5
+  rel: event
+  note: Mesha's rebellion, during which he captured Ataroth from Israel
+- ref: 2Sam 23:20
+  rel: language
+  disputed: true
+  note: '''Ariel of Moab'' (ʾărîʾēl), possibly related to the ʾrʾl taken from Ataroth'
+- ref: Ezek 43:15-16
+  rel: language
+  disputed: true
+  note: ʾărîʾēl 'altar hearth', a proposed sense of ʾrʾl in Mesha's Ataroth account
+related: [mesha-stele, moabites, chemosh, dibon, omri, altars, cult-stands, high-places]
+media: []
+external:
+  wikipedia: Khirbat Ataruz
+  wikidata: Q100233378
+editorial:
+  author_notes:
+  - >-
+    Mesha stele lines 10-13: the men of Gad had lived in Ataroth 'from of old', the king of
+    Israel built it, and Mesha took it, killed its people as 'satiation' (ryt) for Chemosh
+    and Moab, dragged the ʾrʾl dwdh before Chemosh at Kerioth, and resettled it with men of
+    Sharon and Maharith. The meaning of ʾrʾl dwdh (altar hearth of its DWD, a cultic object,
+    or a person) is disputed.
+  - >-
+    Excavations led by Chang-Ho Ji (from 2000) uncovered a large Iron IIA temple complex with
+    altars, cult stands and figurines. The correlation of building phases with Omride construction
+    and Mesha's conquest is debated. Present the excavators' view and note the alternatives.
+  - >-
+    The inscribed altar or pedestal published in 2018 carries two short texts in an early
+    alphabetic script, possibly Moabite, with Egyptian hieratic numerals. The readings are
+    provisional, so cite the editio princeps and do not build on details.
+  - >-
+    Distinguish Moabite Ataroth (Num 32) from Ataroth and Ataroth-addar in Ephraim and Benjamin
+    (Josh 16:2, 5, 7; 18:13).
+  sources_to_check:
+  - KAI 181
+  - COS 2.23
+  - >-
+    A. Bean, C. A. Rollston, P. K. McCarter and S. J. Wimmer, 'An Inscribed Altar from the
+    Khirbat Ataruz Moabite Sanctuary,' Levant 50 (2018)
+  image_query: Khirbat Ataruz temple
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates from Wikidata Q100233378 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 31.57442
+  lon: 35.66475
+  source: wikidata:Q100233378

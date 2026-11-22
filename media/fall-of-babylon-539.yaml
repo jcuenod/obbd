@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: fall-of-babylon-539
+file: fall-of-babylon-539.jpg
+title: >-
+  Nabonidus's faults and absences were recorded alongside events of his reign. By the autumn
+  of 539 BCE, Babylon had surrendered to the army of king Cyrus to become part of the growing
+  Achaemenid Empire. From Babylon, Iraq, 530-400 BCE.jpg
+caption: >-
+  The Nabonidus Chronicle, which records the surrender of Babylon to Cyrus in 539 BCE, clay
+  tablet from Babylon (British Museum).
+description: >-
+  The so-called "Nabonidus Chronicle". Nabonidus's faults and absence were recorded on this
+  clay tablet alongside events of his reign. By the autumn of 539 BCE, Babylon had surrendered
+  to the army of king Cyrus to become part of the growing Achaemenid Empire. From Babylon,
+  Iraq, 530-400 BCE. British Museum, London.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Nabonidus%27s_faults_and_absences_were_recorded_alongside_events_of_his_reign._By_the_autumn_of_539_BCE,_Babylon_had_surrendered_to_the_army_of_king_Cyrus_to_become_part_of_the_growing_Achaemenid_Empire._From_Babylon,_Iraq,_530-400_BCE.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/c/cd/Nabonidus%27s_faults_and_absences_were_recorded_alongside_events_of_his_reign._By_the_autumn_of_539_BCE%2C_Babylon_had_surrendered_to_the_army_of_king_Cyrus_to_become_part_of_the_growing_Achaemenid_Empire._From_Babylon%2C_Iraq%2C_530-400_BCE.jpg
+  sha1: 928258bf64b452e353bcf630d8de00d775b12cfb
+  original_size: [3898, 4016]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1553×1600 px
+size: [1553, 1600]
+depicts: [fall-of-babylon-539, nabonidus-chronicle]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

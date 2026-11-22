@@ -1,0 +1,91 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tyre
+title: Tyre
+aliases: [Ṣur, Ṣor, Tyros]
+type: site
+cultures: [phoenician]
+scope: >-
+  The leading Phoenician city of the Iron Age, an island city off the Lebanese coast. Covers
+  its history from Hiram I to Alexander's siege, its commercial empire and colonies, the limited
+  archaeology of its Iron Age levels, and its New Testament setting.
+passages:
+- ref: 2Sam 5:11
+  rel: setting
+  note: Hiram of Tyre sends cedar and craftsmen to David
+- ref: 1Kgs 5:1-12
+  rel: setting
+  note: Hiram and Solomon's timber agreement (MT 5:15-26)
+- ref: 1Kgs 9:11-14
+  rel: setting
+  note: Solomon cedes the land of Cabul to Hiram
+- ref: Isa 23
+  rel: setting
+  note: Oracle against Tyre and Sidon
+- ref: Amos 1:9-10
+  rel: setting
+  note: Tyre's breach of the 'covenant of kinship'
+- ref: Ezek 26-28
+  rel: setting
+  note: 'Oracles against Tyre: siege, lament over the ship, the king of Tyre'
+- ref: Ezek 29:17-20
+  rel: setting
+  note: Nebuchadnezzar's long siege of Tyre without reward
+- ref: Joel 3:4-8
+  rel: setting
+  note: Tyre and Sidon sell Judeans to the Greeks (MT 4:4-8)
+- ref: Mark 7:24-31
+  rel: setting
+  note: Jesus in the region of Tyre
+- ref: Acts 21:3-7
+  rel: setting
+  note: Paul's ship unloads at Tyre
+related: [phoenicians, hiram-of-tyre, melqart, phoenician-seafaring, purple-dye, nebuchadnezzar-ii,
+  sidon, tarshish]
+media:
+- id: tyre
+  role: primary
+- id: tyre-2
+  role: gallery
+external:
+  wikipedia: Tyre, Lebanon
+  wikidata: Q82070
+  pleiades: '678437'
+editorial:
+  author_notes:
+  - >-
+    Tyre was an island until Alexander's mole (332 BCE) joined it to the mainland. Its Iron
+    Age levels are known mainly from Bikai's small sounding (1973-74) and from the cemetery
+    at al-Bass on the mainland.
+  - >-
+    Its history comes largely from Assyrian sources (tribute to Shalmaneser III; Esarhaddon's
+    treaty with Baal of Tyre), Josephus' Tyrian king list (via Menander), and the thirteen-year
+    Babylonian siege.
+  - >-
+    The 'king of Tyre' oracle (Ezek 28) uses Eden and divine-mountain mythology. Do not read
+    it as background for a fall of Satan.
+  - The Tyrian shekel was the standard silver coin for the temple tax in the Roman period.
+  sources_to_check:
+  - Aubet, The Phoenicians and the West (2nd ed., 2001)
+  image_query: Tyre Al-Mina archaeological site
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q82070 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 33.26667
+  lon: 35.2
+  source: wikidata:Q82070

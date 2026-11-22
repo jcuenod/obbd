@@ -1,0 +1,65 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: sargon-of-akkad
+title: Sargon of Akkad
+type: person
+cultures: [akkadian]
+date:
+  from: -2334
+  to: -2279
+  circa: true
+  display: c. 2334–2279 BCE
+scope: >-
+  Founder of the dynasty of Akkad and of the first territorial empire in Mesopotamia. He became
+  the archetypal great king of later tradition, including a first-millennium birth legend
+  of his exposure in a basket on the river.
+passages:
+- ref: Exod 2:1-10
+  rel: parallel
+  note: Infant placed in a pitch-sealed basket on the river and raised to greatness
+- ref: Gen 10:10
+  rel: attests
+  note: Accad among the cities of Nimrod's kingdom in Shinar
+- ref: Gen 10:8-12
+  rel: parallel
+  disputed: true
+  note: Nimrod as first mighty empire builder; Sargon proposed among the models
+related: [legend-of-sargon, nimrod, victory-stele-of-naram-sin, royal-ideology, babylonia]
+media:
+- id: sargon-of-akkad
+  role: primary
+external:
+  wikipedia: Sargon of Akkad
+  wikidata: Q199461
+editorial:
+  author_notes:
+  - >-
+    Dates follow the middle chronology and are approximate; his capital Akkad has not been
+    located.
+  - >-
+    The birth legend survives in Neo-Assyrian copies and may reflect Sargon II's era; present
+    the Exodus comparison as a shared exposure-legend motif rather than direct borrowing.
+  - >-
+    The bronze head from Nineveh is often called 'Sargon' but may represent Naram-Sin; say
+    so in captions.
+  - >-
+    Nimrod has also been linked to Tukulti-Ninurta I or the god Ninurta; no identification
+    is secure.
+  sources_to_check:
+  - Westenholz, Legends of the Kings of Akkade (1997)
+  - Lewis, The Sargon Legend (1980)
+  - RIME 2 (Frayne 1993)
+  image_query: Akkadian bronze head Nineveh Sargon
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

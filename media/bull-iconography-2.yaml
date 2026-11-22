@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: bull-iconography-2
+file: bull-iconography-2.jpg
+title: >-
+  Neo-Hittite basalt stele depicting Teshub, the neo-Hittite storm god standing on a bull,
+  9-8th century BC, Hatay Archaeology Museum, Antakya, Turkey (35895656920).jpg
+caption: >-
+  Neo-Hittite basalt stele of the storm god standing on a bull, 9th–8th century BCE (Hatay
+  Archaeology Museum, Antakya).
+description: >-
+  Neo-Hittite basalt stele depicting Teshub, the neo-Hittite storm god standing on a bull,
+  9-8th century BC, Hatay Archaeology Museum, Antakya, Turkey
+creator: Carole Raddato from FRANKFURT, Germany
+credit_line: >-
+  Neo-Hittite basalt stele depicting Teshub, the neo-Hittite storm god standing on a bull,
+  9-8th century BC, Hatay Archaeology Museum, Antakya, Turkey
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: Carole Raddato from FRANKFURT, Germany, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Neo-Hittite_basalt_stele_depicting_Teshub,_the_neo-Hittite_storm_god_standing_on_a_bull,_9-8th_century_BC,_Hatay_Archaeology_Museum,_Antakya,_Turkey_(35895656920).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/d6/Neo-Hittite_basalt_stele_depicting_Teshub%2C_the_neo-Hittite_storm_god_standing_on_a_bull%2C_9-8th_century_BC%2C_Hatay_Archaeology_Museum%2C_Antakya%2C_Turkey_%2835895656920%29.jpg
+  sha1: a876a74623fb841fc7ec33dafa46ec9f4709b1a1
+  original_size: [3221, 4601]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1120×1600 px
+size: [1120, 1600]
+depicts: [bull-iconography]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

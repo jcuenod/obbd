@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: arameans-2
+file: arameans-2.jpg
+title: Aramaean Orthostats from Palace of Tell Halaf, c. 9th Cent. BC.jpg
+caption: >-
+  Basalt orthostats from the Aramean palace at Tell Halaf (Guzana), c. 9th century BCE (Pergamon
+  Museum, Berlin).
+description: >-
+  Pergamon Museum, Berlin, Germany. Complete indexed photo collection at WorldHistoryPics.com.
+creator: Gary Todd
+credit_line: https://www.flickr.com/photos/101561334@N08/28419866730/
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Gary Todd. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Aramaean_Orthostats_from_Palace_of_Tell_Halaf,_c._9th_Cent._BC.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/f/f9/Aramaean_Orthostats_from_Palace_of_Tell_Halaf%2C_c._9th_Cent._BC.jpg
+  sha1: a007c00da8e92b3f4af3f17c9556558b1349179b
+  original_size: [5184, 3456]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [arameans]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

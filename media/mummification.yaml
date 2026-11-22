@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: mummification
+file: mummification.jpg
+title: Deir el-Medina-18-Grab 1-Sennedjem-Anubis-Mumie-1982-gje.jpg
+caption: >-
+  Anubis tending the mummy of Sennedjem on a lion-shaped bier, wall painting in the tomb of
+  Sennedjem (TT 1), Deir el-Medina.
+description: Deir el-Medina, Tomb of Sennedjem
+creator: Gerd Eichmann
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Gerd Eichmann, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Deir_el-Medina-18-Grab_1-Sennedjem-Anubis-Mumie-1982-gje.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/b1/Deir_el-Medina-18-Grab_1-Sennedjem-Anubis-Mumie-1982-gje.jpg
+  sha1: 7563e4bf69e67b0123adfa9452110c5b4016d776
+  original_size: [3334, 2337]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1122 px
+size: [1600, 1122]
+depicts: [mummification]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

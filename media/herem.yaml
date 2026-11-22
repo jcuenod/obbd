@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: herem
+file: herem.jpg
+title: Mesha stele (Louvre, AO 5066).jpg
+caption: >-
+  The Mesha Stele, basalt, c. 840 BCE, which uses the verb ḥrm for Mesha's slaughter of Nebo's
+  population (Musée du Louvre, Paris).
+description: >-
+  Stele of Mesha, king of Moab, describing and commemorating his victory against kings of
+  Israël from Omri dynasty. Basalt. Circa 850 BC. Dhiban (Jordan). Louvre museum (Paris, France).
+creator: Tangopaso
+credit_line: Self-photographed
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Tangopaso. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Mesha_stele_(Louvre,_AO_5066).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/15/Mesha_stele_%28Louvre%2C_AO_5066%29.jpg
+  sha1: 852e0557275bae00180b183dfbeff67bc3f3b734
+  original_size: [2112, 2816]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1200×1600 px
+size: [1200, 1600]
+depicts: [chemosh, herem, mesha-stele]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

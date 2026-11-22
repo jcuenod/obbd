@@ -1,0 +1,86 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: creation-accounts
+title: Creation Accounts in the Ancient Near East
+type: concept
+cultures: [ane]
+scope: >-
+  A hub entry surveying Mesopotamian, Egyptian, and Levantine accounts of the origin of the
+  world and their relation to the biblical creation texts, both Gen 1-2 and poetic and wisdom
+  passages. Detailed treatments are in the entries on individual texts and motifs.
+passages:
+- ref: Gen 1:1-2:3
+  rel: parallel
+  note: Priestly creation in six days; separation, naming, and rest
+- ref: Gen 2:4-25
+  rel: parallel
+  note: 'Non-Priestly account: human from soil, garden, rivers, animals, woman'
+- ref: Gen 1:3
+  rel: concept
+  disputed: true
+  note: Creation by divine word; cf. Memphite Theology (Shabaka Stone)
+- ref: Ps 104:20-30
+  rel: parallel
+  note: Night, beasts, sea, and life-giving breath; close themes to the Great Hymn to the
+    Aten
+- ref: Ps 74:12-17
+  rel: parallel
+  note: Creation linked to victory over the sea and dragons
+- ref: Prov 8:22-31
+  rel: parallel
+  note: Wisdom present before and during creation
+- ref: Job 38:4-11
+  rel: parallel
+  note: Creation as building and as confining the sea
+- ref: Isa 45:7, 18
+  rel: concept
+  note: YHWH forms light and darkness; creates the earth to be inhabited
+- ref: John 1:1-3
+  rel: concept
+  note: Creation through the Word
+related: [enuma-elish, atrahasis, shabaka-stone, great-hymn-to-the-aten, egyptian-cosmology,
+  creation-of-humanity, chaoskampf, eridu-genesis]
+media:
+- id: enuma-elish
+  role: primary
+external:
+  wikipedia: Genesis creation narrative
+  wikidata: Q137651
+editorial:
+  author_notes:
+  - >-
+    There is no single Mesopotamian "creation epic". Enuma Elish is mainly a work exalting
+    Marduk, and cosmogonic material also appears in incantations, disputation poems, myth
+    prologues (e.g. Atrahasis), and god lists. Egypt has several cosmogonies (Heliopolitan,
+    Hermopolitan, Memphite) that are not mutually exclusive.
+  - >-
+    Treat Gen 1:1-2:3 and 2:4b-25 as distinct accounts (Priestly and non-Priestly in most
+    critical reconstructions). Note that each has different comparative profiles.
+  - >-
+    Correct the "Babel-Bibel" overstatement (Delitzsch) that Genesis is derived from Enuma
+    Elish. Most specialists see shared conceptual idiom rather than direct literary dependence.
+    Lambert's caution is a standard reference point.
+  - >-
+    Ps 104 and the Hymn to the Aten share themes (cf. Ps 104:20-30). How the dependence came
+    about is debated.
+  sources_to_check:
+  - W. G. Lambert, Babylonian Creation Myths (2013)
+  - >-
+    Richard J. Clifford, Creation Accounts in the Ancient Near East and in the Bible (CBQMS
+    26, 1994)
+  - COS 1.111
+  - COS 1.130
+  image_query: Enuma Elish tablet British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

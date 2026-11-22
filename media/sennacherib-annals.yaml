@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: sennacherib-annals
+file: sennacherib-annals.jpg
+title: Taylor Prism-1.jpg
+caption: >-
+  The Taylor Prism, hexagonal clay prism with the annals of Sennacherib including the third
+  campaign against Judah (British Museum, London).
+description: >-
+  The Taylor Prism from the Neo-Assyrian empire tells the story of king Sennacherib's third
+  campaign and includes descriptions of his conquests in Judah, some of which are described
+  from another point of view in the old testament of the Bible.
+creator: >-
+  This image was produced by me, David Castor (user:dcastor). The pictures I submit to the
+  Wikipedia Project are released to the public domain. This gives you the right to use them
+  in any way you like, without any kind of notification. This said, I would still appreciate
+  to be mentioned as the originator whenever you think it complies well with your use of the
+  picture. A message to me about how it has been used would also be welcome. You are obviously
+  not required to respond to these wishes of mine, just in a friendly manner encouraged to.
+  (All my photos are placed in Category:Images by David Castor or a subcategory thereof.)
+credit_line: Own work
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: >-
+  This image was produced by me, David Castor (user:dcastor). The pictures I submit to the
+  Wikipedia Project are released to the public domain. This gives you the right to use them
+  in any way you like, without any kind of notification. This said, I would still appreciate
+  to be mentioned as the originator whenever you think it complies well with your use of the
+  picture. A message to me about how it has been used would also be welcome. You are obviously
+  not required to respond to these wishes of mine, just in a friendly manner encouraged to.
+  (All my photos are placed in Category:Images by David Castor or a subcategory thereof.).
+  Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Taylor_Prism-1.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/d/de/Taylor_Prism-1.jpg
+  sha1: cea332b791749fe306dbd2659a8ff6153126e538
+  original_size: [1060, 2208]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 768×1600 px
+size: [768, 1600]
+depicts: [sennacherib-annals]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

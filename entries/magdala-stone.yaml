@@ -1,0 +1,71 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: magdala-stone
+title: Magdala Stone and Synagogue
+type: artifact
+cultures: [jewish]
+date:
+  from: 1
+  to: 67
+  circa: true
+  display: c. 1–67 CE
+scope: >-
+  Carved stone block found in 2009 in a first-century synagogue at Magdala (Migdal) on the
+  Sea of Galilee. Its decoration includes a seven-branched menorah, and it is widely interpreted
+  as a symbolic representation of the Jerusalem temple. The entry also covers the synagogue
+  itself.
+passages:
+- ref: Mark 1:39
+  rel: setting
+  note: Jesus preaching in synagogues throughout Galilee
+- ref: Luke 4:15
+  rel: setting
+  note: Teaching in the synagogues of Galilee
+- ref: Luke 8:2
+  rel: attests
+  note: Mary 'called Magdalene', i.e. from Magdala
+- ref: Matt 15:39
+  rel: attests
+  disputed: true
+  note: '''Region of Magadan'', with the variant Magdala'
+- ref: Exod 25:31-40
+  rel: realia
+  note: Menorah depicted, evoking the temple lampstand
+related: [synagogues, menorah, galilee-boat, capernaum, herods-temple, stone-vessels-and-mikvaot]
+media:
+- id: magdala-stone
+  role: primary
+external:
+  wikipedia: Magdala stone
+  wikidata: Q22936482
+editorial:
+  author_notes:
+  - >-
+    Interpretation as a model of the temple (Aviam, Bauckham and others) is common but debated
+    in its details. Its function (a table for Torah reading?) is uncertain.
+  - >-
+    It is one of the earliest menorah depictions outside Jerusalem (compare the coins of Mattathias
+    Antigonus).
+  - >-
+    Magdala's identification with Josephus's Taricheae is widely accepted. Avoid sensational
+    claims that Jesus taught in this building.
+  sources_to_check:
+  - >-
+    R. Bauckham (ed.), Magdala of Galilee: A Jewish City in the Hellenistic and Roman Period
+    (2018)
+  - >-
+    M. Aviam, 'The Decorated Stone from the Synagogue at Migdal', Novum Testamentum 55 (2013)
+  image_query: Magdala Stone menorah
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-1-sol

@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: apkallu-reliefs
+file: apkallu-reliefs.jpg
+title: >-
+  A human-headed and winged apkallu holding a pine cone and bucket for religious rituals.
+  From the North-West of Ashurnasipal II at Nimrud, Iraq, 883-859 BCE. Alabaster-bas relief.
+  Museum of the Ancient Orient, Istanbul, Turkey.jpg
+caption: >-
+  Winged human-headed apkallu with cone and bucket, alabaster relief from the Northwest Palace
+  of Ashurnasirpal II at Nimrud, 883–859 BCE (Ancient Orient Museum, Istanbul).
+description: >-
+  A human-headed and winged apkallu (sage or genie) holding a pine cone and bucket for religious
+  rituals. The Standard (cuneiform) Inscription of Ashurnasipal II runs horizontally across
+  the relief. From the North-West of Ashurnasipal II at Nimrud, Iraq. 883-859 BCE. Alabaster-bas
+  relief. Museum of the Ancient Orient, Istanbul, Turkey.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:A_human-headed_and_winged_apkallu_holding_a_pine_cone_and_bucket_for_religious_rituals._From_the_North-West_of_Ashurnasipal_II_at_Nimrud,_Iraq,_883-859_BCE._Alabaster-bas_relief._Museum_of_the_Ancient_Orient,_Istanbul,_Turkey.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/35/A_human-headed_and_winged_apkallu_holding_a_pine_cone_and_bucket_for_religious_rituals._From_the_North-West_of_Ashurnasipal_II_at_Nimrud%2C_Iraq%2C_883-859_BCE._Alabaster-bas_relief._Museum_of_the_Ancient_Orient%2C_Istanbul%2C_Turkey.jpg
+  sha1: 3fbb830ead1dcc964a30db6c0dc1b5830f69f378
+  original_size: [4016, 6016]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1068×1600 px
+size: [1068, 1600]
+depicts: [apkallu-reliefs]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

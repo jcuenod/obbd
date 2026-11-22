@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: extispicy
+file: extispicy.jpg
+title: Inscribed model of a sheep liver - BM.jpg
+caption: Inscribed clay model of a sheep's liver used to teach hepatoscopy (British Museum).
+description: >-
+  Divinatory livers, clay models for the training of deviners practicing divination by reading
+  sheeps livers (hepatoscopy). Each box describes the implications of a blemish appearing
+  in that position. Probably from Sippar. Old Babylonian Period (2000-1595 BC). ME 92668.
+creator: Zunkir
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Zunkir, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Inscribed_model_of_a_sheep_liver_-_BM.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/0/08/Inscribed_model_of_a_sheep_liver_-_BM.jpg
+  sha1: 058ff4bf24ed339581ae5320961443dc75a41cfa
+  original_size: [3734, 3764]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1588×1600 px
+size: [1588, 1600]
+depicts: [extispicy, liver-models]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

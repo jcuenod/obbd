@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: bull-iconography
+title: Bull Iconography and the Golden Calves
+aliases: [Golden calf, Calves of Jeroboam]
+type: concept
+cultures: [canaanite, israelite]
+scope: >-
+  Bull and calf imagery associated with El, Baal/Hadad and YHWH, and the biblical golden calves
+  at Sinai, Bethel and Dan. The entry covers the iconographic background, the archaeological
+  finds, and the debate over whether the calves were images of the deity or pedestals for
+  an invisible god.
+passages:
+- ref: Exod 32:1-6
+  rel: polemic
+  note: 'Golden calf at Sinai: ''These are your gods, O Israel'''
+- ref: 1Kgs 12:26-33
+  rel: practice
+  note: Jeroboam's calves at Bethel and Dan
+- ref: 2Kgs 10:29
+  rel: practice
+  note: Calves at Bethel and Dan remain under Jehu
+- ref: Hos 8:5-6
+  rel: polemic
+  note: '''Your calf is rejected, O Samaria''; made by a craftsman'
+- ref: Hos 10:5
+  rel: polemic
+  note: Inhabitants of Samaria tremble for the calf of Beth-aven
+- ref: Hos 13:2
+  rel: polemic
+  note: '''People are kissing calves'''
+- ref: Ps 106:19-20
+  rel: polemic
+  note: Exchanged their glory for the image of an ox
+- ref: Num 23:22; 24:8
+  rel: imagery
+  note: God like the horns of a wild ox (rĕʾēm)
+- ref: Gen 49:24
+  rel: language
+  disputed: true
+  note: ʾăbîr yaʿăqōb 'Mighty One of Jacob'; ʾabbîr 'bull' wordplay debated
+- ref: 1Kgs 7:25
+  rel: realia
+  note: Twelve oxen supporting the bronze sea
+related: [bull-site-figurine, el, baal, bethel, dan, aniconism, cult-images, statue-of-el]
+media:
+- id: bull-iconography
+  role: primary
+- id: bull-iconography-2
+  role: gallery
+external:
+  wikipedia: Golden calf
+  wikidata: Q221323
+editorial:
+  author_notes:
+  - >-
+    El bears the Ugaritic epithet ṯr ʾil 'Bull El', and storm gods (Hadad/Baal) are shown
+    standing on bulls. Present both possibilities: the calves as YHWH images, or as pedestals
+    for an invisible deity (Albright and others).
+  - >-
+    Most critical scholars read Exod 32 as Deuteronomistic polemic shaped by Jeroboam's cult
+    (compare 'These are your gods' with 1 Kgs 12:28).
+  - >-
+    Material comparanda include the Middle Bronze Age silver-plated calf from Ashkelon and
+    the Iron I 'Bull Site' bronze from the Samaria hills.
+  - >-
+    Avoid the claim that Israel worshipped an Egyptian Apis bull here. That is a minority
+    older view.
+  image_query: Ashkelon silver calf
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

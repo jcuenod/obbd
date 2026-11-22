@@ -1,0 +1,73 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: jezreel
+title: Jezreel
+aliases: [Tel Jezreel, Zerʿin]
+type: site
+cultures: [israelite]
+scope: >-
+  The Omride royal enclosure at Tel Jezreel overlooking the Jezreel Valley, and the town associated
+  with Ahab, Jezebel and Jehu's coup. Covers the ninth-century compound, its role in chronology
+  debates, and the agricultural installations around the tell.
+passages:
+- ref: 1Sam 29:1
+  rel: setting
+  note: Israel camps by the fountain in Jezreel
+- ref: 1Kgs 18:45-46
+  rel: setting
+  note: Ahab rides to Jezreel with Elijah running ahead
+- ref: 1Kgs 21
+  rel: setting
+  note: Naboth's vineyard beside Ahab's palace
+- ref: 2Kgs 9:14-37
+  rel: setting
+  note: Jehu kills Joram and Jezebel at Jezreel
+- ref: 2Kgs 10:1-11
+  rel: setting
+  note: Heads of Ahab's sons piled at the gate of Jezreel
+- ref: Hos 1:4-5
+  rel: setting
+  note: '''The blood of Jezreel'' punished on the house of Jehu'
+related: [ahab, jezebel, jehu, omri, tel-dan-stele, samaria, winepresses, low-chronology-debate]
+media:
+- id: jezreel
+  role: primary
+external:
+  wikipedia: Tel Jezreel
+  wikidata: Q2914898
+editorial:
+  author_notes:
+  - >-
+    Ussishkin and Woodhead (1990-96) excavated a large rectangular enclosure with casemate
+    walls, corner towers and a rock-cut moat. It was short-lived and of the ninth century.
+    Its pottery is a fixed point for the low chronology debate, since it matches strata elsewhere
+    once dated to Solomon.
+  - >-
+    The destruction of the enclosure has been linked to Hazael or to Jehu's coup. Both are
+    inferences.
+  - >-
+    The renewed Jezreel Expedition (from 2013) documented rock-cut wine presses and agricultural
+    installations near the tell. Any link to Naboth's vineyard is evocative, not evidential.
+  - Its function as a military or chariot base for the Omrides is a hypothesis.
+  image_query: Tel Jezreel
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates from Wikidata Q2914898 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 32.55785
+  lon: 35.32795
+  source: wikidata:Q2914898

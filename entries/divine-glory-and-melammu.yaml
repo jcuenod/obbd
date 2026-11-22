@@ -1,0 +1,87 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: divine-glory-and-melammu
+title: Divine Glory (kābôd) and Radiance (melammu)
+aliases: [kābôd, melammu, puluḫtu, divine radiance, glory of YHWH]
+type: concept
+cultures: [hebrew, assyrian, babylonian]
+scope: >-
+  Divine and royal radiance in Mesopotamia (Akkadian melammu, paired with puluḫtu "awe") and
+  the Hebrew Bible's kābôd ("glory") and hôd wĕhādār ("splendour and majesty"), including
+  the glory-cloud of the Priestly texts and Ezekiel and the shining face of Moses. The departure
+  and return of the glory are treated under divine-abandonment, and divine favour as a shining
+  face under light-of-the-face.
+passages:
+- ref: Exod 24:15-18
+  rel: concept
+  note: The glory settles on Sinai as cloud and devouring fire
+- ref: Exod 33:18-23
+  rel: concept
+  note: Moses asks to see the glory and sees only God's back
+- ref: Exod 34:29-35
+  rel: imagery
+  note: The skin of Moses' face 'shone' (qāran); cf. the Vulgate's 'horned'
+- ref: Exod 40:34-35
+  rel: concept
+  note: Cloud covers the tent and the glory fills the tabernacle
+- ref: 1Kgs 8:10-11
+  rel: concept
+  note: Priests cannot minister because the glory fills the temple
+- ref: Ezek 1:26-28
+  rel: concept
+  note: 'Radiance around the enthroned figure: ''the likeness of the glory of YHWH'''
+- ref: Isa 2:10, 19, 21
+  rel: imagery
+  note: Hiding from the terror of YHWH and the splendour of his majesty; cf. puluḫtu and melammu
+- ref: Ps 104:1-2
+  rel: imagery
+  note: Clothed in honour and majesty, wrapped in light as a garment
+- ref: Hab 3:3-4
+  rel: imagery
+  note: His splendour covers the heavens; rays flash from his hand
+- ref: Ps 21:5
+  rel: imagery
+  note: Splendour and majesty bestowed on the king (MT 21:6)
+- ref: Dan 4:36
+  rel: imagery
+  note: Nebuchadnezzar's majesty and splendour restored with his kingdom (MT 4:33)
+related: [light-of-the-face, ezekiel-throne-chariot, name-theology, tabernacle, divine-abandonment,
+  royal-ideology, sennacherib-annals, cloud-rider]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Explain melammu as a visible, fearsome aura of gods, temples, monsters and kings, sometimes
+    described as a garment or crown that can be removed (Humbaba's auras in Gilgamesh). Assyrian
+    annals say the king's or Aššur's melammu 'overwhelmed' enemies (e.g. Sennacherib on Luli
+    of Sidon). Oppenheim (1943) and Cassin (1968) are the classic studies.
+  - >-
+    Hebrew kābôd develops from 'weight, honour' to the visible manifestation of the deity.
+    The Priestly and Ezekielian kābôd theology is often contrasted with Deuteronomistic name
+    theology (von Rad; Mettinger). That contrast is itself debated, so present it with care.
+  - >-
+    Aster (2012) argues that Isaiah (e.g. Isa 2:10-21) adapts Assyrian melammu language polemically.
+    Treat it as a strong but discussed proposal.
+  - >-
+    Correct the 'horned Moses' misconception. The Vulgate's cornuta (Exod 34:29) renders qāran,
+    which most take as 'shone' (from qeren 'ray'). A minority (e.g. Propp) argue for a real
+    horn-like disfigurement.
+  sources_to_check:
+  - A. L. Oppenheim, 'Akkadian pul(u)ḫ(t)u and melammu,' JAOS 63 (1943)
+  - E. Cassin, La splendeur divine (1968)
+  - T. N. D. Mettinger, The Dethronement of Sabaoth (ConBOT 18, 1982)
+  - 'S. Z. Aster, The Unbeatable Light: Melammu and Its Biblical Parallels (AOAT 384, 2012)'
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

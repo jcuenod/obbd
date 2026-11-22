@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: sargon-ii-inscriptions
+file: sargon-ii-inscriptions.jpg
+title: >-
+  9-sided prism commemorating King Sargon II's founding of Dur-Sharrukin - Oriental Institute
+  Museum, University of Chicago - DSC07164.JPG
+caption: >-
+  Nine-sided clay prism commemorating Sargon II's founding of Dur-Sharrukin (Oriental Institute
+  Museum, University of Chicago).
+description: >-
+  Exhibit in the Oriental Institute Museum, University of Chicago, Chicago, Illinois, USA.
+  This work is old enough so that it is in the public domain. Photography was permitted in
+  the museum without restriction. Translation: "In the month of Abu, the month of the descent
+  of the fire-god, destroyer of growing vegetatin, when one lays the foundation platform for
+  city and house, I laid its foundation walls, I built its brickwork. Substantial shrines,
+  built firm as the foundation of eternity, I constructed therein.... Palaces of ivory, mulberry,
+  cedar, cypress, juniper, and pistachio-wood I built at
+creator: Daderot
+credit_line: Own work
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Daderot. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:9-sided_prism_commemorating_King_Sargon_II%27s_founding_of_Dur-Sharrukin_-_Oriental_Institute_Museum,_University_of_Chicago_-_DSC07164.JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/36/9-sided_prism_commemorating_King_Sargon_II%27s_founding_of_Dur-Sharrukin_-_Oriental_Institute_Museum%2C_University_of_Chicago_-_DSC07164.JPG
+  sha1: b310d6cf79790a46f25a71db9af729341947fbf7
+  original_size: [4658, 2826]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×971 px
+size: [1600, 971]
+depicts: [sargon-ii-inscriptions]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

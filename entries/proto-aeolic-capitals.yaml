@@ -1,0 +1,81 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: proto-aeolic-capitals
+title: Proto-Aeolic Capitals
+aliases: [Volute capitals, Palmette capitals, Proto-Ionic capitals]
+type: realia
+cultures: [israelite, judahite, moabite]
+date:
+  from: -900
+  to: -600
+  circa: true
+  display: c. 900–600 BCE
+scope: >-
+  Stone pilaster capitals with paired volutes flanking a central triangle, found in Iron Age
+  II royal and administrative architecture in Israel, Judah and Moab (Hazor, Megiddo, Samaria,
+  Jerusalem, Ramat Rahel, Medeibiyeh). The entry covers their distribution, dating, architectural
+  use and palmette or sacred-tree symbolism.
+passages:
+- ref: 1Kgs 7:9-12
+  rel: setting
+  note: Royal ashlar architecture of the kind in which volute capitals are found
+- ref: 1Kgs 7:19, 22
+  rel: realia
+  disputed: true
+  note: '''Lily-work'' capitals; a link to volute capitals has been proposed'
+- ref: 1Kgs 6:29, 32, 35
+  rel: imagery
+  note: Carved palm trees (timōrôt) in temple decoration; palmette motif
+- ref: Ezek 40:16, 22, 26, 31, 34, 37
+  rel: imagery
+  note: Palm-tree decoration on gate jambs of the visionary temple
+- ref: Amos 5:11
+  rel: setting
+  note: Elite 'houses of hewn stone' (ashlar) in the northern kingdom
+- ref: Jer 22:13-15
+  rel: setting
+  disputed: true
+  note: Jehoiakim's palace; Ramat Rahel, with its capitals, is often proposed
+related: [samaria, megiddo, hazor, ramat-rahel, jachin-and-boaz, assyrian-sacred-tree, samaria-ivories,
+  tree-of-life]
+media:
+- id: proto-aeolic-capitals
+  role: primary
+- id: proto-aeolic-capitals-2
+  role: gallery
+- id: ramat-rahel-2
+  role: gallery
+external:
+  wikipedia: Proto-Aeolic capital
+editorial:
+  author_notes:
+  - >-
+    The name is a misnomer. There is no proven link to the later Greek Aeolic order, and 'volute'
+    or 'palmette capital' is often preferred.
+  - >-
+    The capitals topped engaged pilasters at gateways and palace entrances, not freestanding
+    columns. Most were found out of their original context.
+  - >-
+    Dating of the Hazor, Megiddo and Samaria examples depends on the Iron Age chronology debate
+    (9th vs 10th century). Present this neutrally.
+  - >-
+    The motif is usually read as a stylized palm or sacred tree tied to royal display. Do
+    not over-read it as cultic.
+  sources_to_check:
+  - >-
+    Y. Shiloh, The Proto-Aeolic Capital and Israelite Ashlar Masonry (Qedem 11; Jerusalem,
+    1979)
+  image_query: Proto-Aeolic capital Ramat Rahel
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

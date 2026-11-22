@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: city-laments
+file: city-laments.jpg
+title: P1170102 Louvre chute d'Ur AO6446 rwk.jpg
+caption: >-
+  Clay tablet with a Sumerian lament over the destruction of Ur (Musée du Louvre, Paris, AO
+  6446).
+description: Laments over the ruin of Ur
+creator: Unknown artistUnknown artist
+credit_line: MbztOwn work
+license:
+  id: CC-BY-3.0
+  name: CC BY 3.0
+  url: https://creativecommons.org/licenses/by/3.0
+attribution: Unknown artistUnknown artist, CC BY 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:P1170102_Louvre_chute_d%27Ur_AO6446_rwk.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/f/fe/P1170102_Louvre_chute_d%27Ur_AO6446_rwk.jpg
+  sha1: 016e64bc48670e426714674b523e163c6a5ce7bd
+  original_size: [1969, 3000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1050×1600 px
+size: [1050, 1600]
+depicts: [city-laments]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

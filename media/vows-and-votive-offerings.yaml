@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: vows-and-votive-offerings
+file: vows-and-votive-offerings.jpg
+title: Sumerian Status from Tell Asmar, part of the Tell Asmar Hoard.jpg
+caption: >-
+  Votive statuettes of worshippers from the Square Temple of Abu at Tell Asmar (Eshnunna),
+  Early Dynastic period.
+description: >-
+  Statuettes of Sumerian female and male worshipers from the Square Temple of Abu at Tell
+  Asmar (ancient Eshnunna), Iraq. Early Dynastic period, c. 2800-2400 BCE. Excavated by the
+  Oriental Institute of the University of Chicago in the 1930s. Part of the so-called "Tell
+  Asmar Hoard". The Iraq Museum in Baghdad.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Sumerian_Status_from_Tell_Asmar,_part_of_the_Tell_Asmar_Hoard.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/97/Sumerian_Status_from_Tell_Asmar%2C_part_of_the_Tell_Asmar_Hoard.jpg
+  sha1: 1ab936a0cf81a91f66da899d1b4fda48676aa435
+  original_size: [2843, 4515]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1008×1600 px
+size: [1008, 1600]
+depicts: [vows-and-votive-offerings]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,93 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: shurpu
+title: Šurpu Incantation Series
+aliases: [Šurpu, Burning]
+type: text
+cultures: [babylonian, assyrian]
+date:
+  from: -1400
+  to: -1000
+  circa: true
+  display: c. 1400–1000 BCE
+scope: >-
+  The Akkadian incantation series Šurpu ("Burning"), a ritual of the exorcist (āšipu) that
+  frees a sufferer from a curse or ban (māmītu) incurred through offences he may not know
+  he committed. Its long catalogues of possible sins, ritual and ethical, are the main Mesopotamian
+  parallel to biblical concern with unwitting and hidden sin. The anti-witchcraft ceremony
+  Maqlû has its own entry.
+passages:
+- ref: Lev 4:2, 13-14
+  rel: concept
+  note: Sin committed unwittingly (bišgāgâ) that later becomes known
+- ref: Lev 5:1-6
+  rel: concept
+  note: >-
+    Guilt incurred through unnoticed impurity, an ignored adjuration, or a rash oath; confession
+    required
+- ref: Lev 5:17-19
+  rel: concept
+  note: Guilt offering for an offence committed without knowing
+- ref: Ps 19:12
+  rel: concept
+  note: '''Who can detect their errors? Clear me from hidden faults'' (MT 19:13)'
+- ref: Deut 27:15-26
+  rel: parallel
+  note: >-
+    Curses on secret offences: parents dishonoured, boundaries moved, a neighbour struck in
+    secret
+- ref: Job 31:5-34
+  rel: form
+  disputed: true
+  note: Oath of clearance listing possible offences; cf. Šurpu II's catalogue
+- ref: Ezek 18:5-9
+  rel: form
+  disputed: true
+  note: Catalogue of ethical and cultic acts defining the righteous man
+related: [maqlu, mesopotamian-lament-prayers, book-of-the-dead, magic-and-sorcery, oaths-and-oath-formulas,
+  purity-and-impurity, boundary-markers]
+media: []
+external:
+  wikipedia: Šurpu
+  wikidata: Q8082914
+editorial:
+  author_notes:
+  - >-
+    Tablet II lists offences that may have caused the sufferer's affliction, mixing ethical
+    wrongs (false scales, moving a boundary, entering a neighbour's house and approaching
+    his wife, saying 'yes' for 'no', despising parents) with ritual faults. Quote from Reiner's
+    edition and check line numbers.
+  - >-
+    The ritual (peeling an onion, unravelling wool, stripping dates and burning them) enacts
+    the dissolving of the curse. Distinguish this ritual logic from the biblical sacrificial
+    remedy for unwitting sin in Lev 4-5.
+  - >-
+    Composition is usually placed in the Middle Babylonian period; most copies are Neo-Assyrian
+    and later. Say this in the article.
+  - >-
+    Compare and contrast with the Egyptian 'negative confession' (Book of the Dead 125) and
+    Job 31. These are distinct genres with overlapping catalogues, not one form.
+  sources_to_check:
+  - >-
+    E. Reiner, Šurpu: A Collection of Sumerian and Akkadian Incantations (AfO Beiheft 11,
+    1958)
+  - K. van der Toorn, Sin and Sanction in Israel and Mesopotamia (SSN 22, 1985)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: corrected Deut 27:15-26 note (no neighbour's-wife
+    curse in the passage)
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

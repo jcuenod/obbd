@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: flood-traditions-2
+file: flood-traditions-2.jpg
+title: >-
+  Fragment of the Babylonian flood story Epic of Atrahasis, Akkadian, Mesopotamia, First Dynasty
+  of Babylon, reign of King Ammi-saduqa, c. 1646-1626 BC, clay- Morgan Library & Museum -
+  New York City - DSC06597.jpg
+caption: >-
+  Fragment of the Atrahasis flood story, Old Babylonian period, reign of Ammi-ṣaduqa (Morgan
+  Library & Museum, New York).
+description: Exhibit in the Morgan Library & Museum - New York City, New York, USA. MLC 1889
+creator: Daderot
+credit_line: Own work
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Daderot. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Fragment_of_the_Babylonian_flood_story_Epic_of_Atrahasis,_Akkadian,_Mesopotamia,_First_Dynasty_of_Babylon,_reign_of_King_Ammi-saduqa,_c._1646-1626_BC,_clay-_Morgan_Library_%26_Museum_-_New_York_City_-_DSC06597.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/a3/Fragment_of_the_Babylonian_flood_story_Epic_of_Atrahasis%2C_Akkadian%2C_Mesopotamia%2C_First_Dynasty_of_Babylon%2C_reign_of_King_Ammi-saduqa%2C_c._1646-1626_BC%2C_clay-_Morgan_Library_%26_Museum_-_New_York_City_-_DSC06597.jpg
+  sha1: 2837a3e05a893ff2f82e49c0e82149ff82cfc940
+  original_size: [3322, 3966]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1340×1600 px
+size: [1340, 1600]
+depicts: [flood-traditions]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

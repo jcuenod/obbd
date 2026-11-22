@@ -1,0 +1,63 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: gudea
+title: Gudea of Lagash
+type: person
+cultures: [sumerian]
+date:
+  from: -2140
+  to: -2120
+  circa: true
+  display: c. 2140–2120 BCE
+scope: >-
+  Ruler (ensi) of the city-state of Lagash in the Neo-Sumerian period, known from his statues,
+  cylinders and many building inscriptions. He presents himself as the humble shepherd chosen
+  by Ningirsu and as the builder of the Eninnu temple.
+passages:
+- ref: 1Kgs 5:1-5
+  rel: concept
+  note: Ruler commissioned to build the deity's house (MT 5:15-19)
+- ref: 2Sam 7:12-13
+  rel: concept
+  note: Divinely chosen ruler to build a house for the deity
+- ref: 1Kgs 3:4-15
+  rel: practice
+  note: Royal revelatory dream at a sanctuary
+- ref: Ezek 34:23-24
+  rel: imagery
+  note: Ruler as shepherd appointed by the deity
+- ref: 1Sam 13:14
+  rel: concept
+  note: Ruler chosen as one 'after his own heart'
+related: [statue-of-gudea, gudea-cylinders, shepherd-kingship, temple-building-accounts, royal-ideology,
+  dream-incubation]
+media:
+- id: gudea
+  role: primary
+external:
+  wikipedia: Gudea
+  wikidata: Q310336
+editorial:
+  author_notes:
+  - >-
+    Chronology varies widely (often c. 2140-2120 under the middle chronology; some place him
+    slightly later, overlapping Ur-Nammu). State the uncertainty.
+  - Gudea never claimed kingship (lugal); he was ensi under Ningirsu, the city's true king.
+  - >-
+    His image as a pious, humble builder is shaped by his own inscriptions; distinguish self-presentation
+    from history.
+  sources_to_check: [RIME 3/1 (Edzard 1997)]
+  image_query: Gudea statue Louvre
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

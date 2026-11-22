@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: jezreel
+file: jezreel.jpg
+title: Tel-Yizrael-528.jpg
+caption: Excavated remains on the summit of Tel Jezreel (Tel Yizre'el), Israel.
+description: Tel Jezreel (Tel Yizrael), Israel.
+creator: Bukvoed
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Bukvoed, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tel-Yizrael-528.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/1/15/Tel-Yizrael-528.jpg
+  sha1: 8346e275ae4b5cbb9075da2c0b7a961dc7364f1d
+  original_size: [5472, 2968]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×868 px
+size: [1600, 868]
+depicts: [jezreel]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

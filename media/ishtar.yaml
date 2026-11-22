@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ishtar
+file: ishtar.jpg
+title: Ishtar on an Akkadian seal.jpg
+caption: >-
+  Ishtar, winged and armed, with her foot on a lion, impression of an Akkadian cylinder seal,
+  late 3rd millennium BCE.
+description: Ishtar on an Akkadian seal
+creator: Sailko
+credit_line: This image has been extracted from another file
+license:
+  id: CC-BY-3.0
+  name: CC BY 3.0
+  url: https://creativecommons.org/licenses/by/3.0
+attribution: Sailko, CC BY 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ishtar_on_an_Akkadian_seal.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/5/5c/Ishtar_on_an_Akkadian_seal.jpg
+  sha1: 71620fab45c94aa36eba247af419c85ef9dc5525
+  original_size: [1500, 1670]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1437×1600 px
+size: [1437, 1600]
+depicts: [ishtar]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

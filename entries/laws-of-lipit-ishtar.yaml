@@ -1,0 +1,69 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: laws-of-lipit-ishtar
+title: Laws of Lipit-Ishtar
+aliases: [Code of Lipit-Ishtar, LL]
+type: text
+cultures: [sumerian]
+date:
+  from: -1934
+  to: -1924
+  circa: true
+  display: c. 1934–1924 BCE
+scope: >-
+  The Sumerian law collection of Lipit-Ishtar, king of Isin, reconstructed from Old Babylonian
+  school copies. It is the earliest well-preserved example of the prologue-laws-epilogue frame
+  later used by Hammurabi, with an epilogue of blessings and curses.
+passages:
+- ref: Lev 26:3-39
+  rel: form
+  note: Law collection concluding with blessings and curses
+- ref: Deut 28
+  rel: form
+  note: Blessings and curses following a law corpus
+- ref: Exod 21:22
+  rel: parallel
+  note: Fine for causing a woman's miscarriage
+- ref: Exod 22:14-15
+  rel: parallel
+  note: Liability for injury to a hired or borrowed ox (MT 22:13-14)
+- ref: Judg 11:1-2
+  rel: practice
+  note: Status of a prostitute's son; LL §27 makes him heir, Jephthah is expelled
+related: [ane-law-collections, laws-of-ur-nammu, code-of-hammurabi, blessings-and-curses,
+  inheritance-and-birthright]
+media:
+- id: laws-of-lipit-ishtar
+  role: primary
+external:
+  wikipedia: Code of Lipit-Ishtar
+  wikidata: Q502513
+editorial:
+  author_notes:
+  - >-
+    The frame (gods call the king; laws; curses on anyone who defaces the stele) predates
+    Hammurabi and is often compared with the hortatory endings of the Covenant Code (Exod
+    23:20-33) and Holiness Code (Lev 26), which however are divine speech rather than royal
+    self-praise.
+  - >-
+    The text is reconstructed from many fragmentary copies, and the assignment of some provisions
+    (e.g. on miscarriage) to LL rather than to Sumerian school exercises should be checked
+    against Roth.
+  sources_to_check:
+  - M. T. Roth, Law Collections from Mesopotamia and Asia Minor (2nd ed., 1997)
+  - COS 2.154
+  - ANET 159-161
+  image_query: Lipit-Ishtar law code tablet
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-1-sol

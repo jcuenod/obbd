@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: josephus
+file: josephus.jpg
+title: >-
+  Antiquités judaiques et la guerre des juifs de Flavius Josephus - Soane Museum Ms1 f11 (Meurtre
+  d'Aristobule).jpg
+caption: >-
+  The murder of Aristobulus, an illuminated page from a medieval French manuscript of Josephus's
+  Jewish Antiquities and Jewish War (Sir John Soane's Museum, London, MS 1, f. 11).
+description: null
+creator: Master of the Soane Josephus
+credit_line: Illuminating the Renaissance
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Master of the Soane Josephus. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Antiquit%C3%A9s_judaiques_et_la_guerre_des_juifs_de_Flavius_Josephus_-_Soane_Museum_Ms1_f11_(Meurtre_d%27Aristobule).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/ad/Antiquit%C3%A9s_judaiques_et_la_guerre_des_juifs_de_Flavius_Josephus_-_Soane_Museum_Ms1_f11_%28Meurtre_d%27Aristobule%29.jpg
+  sha1: 9935232cc504028e42f44e0ae6b6b27990c3904a
+  original_size: [1015, 1390]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1015, 1390]
+depicts: [josephus]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: victory-stele-of-naram-sin
+file: victory-stele-of-naram-sin.jpg
+title: Stèle de Naram-Sin - Musée du Louvre Antiquités orientales SB 4 ; AS 6065.jpg
+caption: >-
+  The Victory Stele of Naram-Sin, pink limestone, c. 2250 BCE, brought from Sippar to Susa
+  (Musée du Louvre, Paris).
+description: null
+creator: Shonagon
+credit_line: Own work
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Shonagon. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:St%C3%A8le_de_Naram-Sin_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_orientales_SB_4_;_AS_6065.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/73/St%C3%A8le_de_Naram-Sin_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_orientales_SB_4_%3B_AS_6065.jpg
+  sha1: 6c9156cc45982ca125bb6aad8329d157d2b7cd1c
+  original_size: [2340, 4032]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 929×1600 px
+size: [929, 1600]
+depicts: [victory-stele-of-naram-sin]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

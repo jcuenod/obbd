@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: tophet
+file: tophet.jpg
+title: Stèles tophet Carthage.jpg
+caption: Sandstone stelae in the tophet of Salammbô at Carthage.
+description: Sandstone stelae of the tophet of Salammbô
+creator: Pradigue
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Pradigue, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:St%C3%A8les_tophet_Carthage.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/c/cb/St%C3%A8les_tophet_Carthage.jpg
+  sha1: c8b83cf62ce2a9edbcd279c2594f0983db5defdb
+  original_size: [1280, 960]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1280, 960]
+depicts: [tophet]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

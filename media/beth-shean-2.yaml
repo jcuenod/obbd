@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: beth-shean-2
+file: beth-shean-2.jpg
+title: BetShe'an - an ancient house of Egyptian governor.jpg
+caption: Remains of the Egyptian governor's residence on Tel Beth-shean.
+description: >-
+  Bet Shean (archaeological site - Scythopolis) in Israel. In the foreground, the remains
+  of the ancient Egyptian governor's house.
+creator: A.Sobkowski – Abraham
+credit_line: polish Wikipedia
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: A.Sobkowski – Abraham. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:BetShe%27an_-_an_ancient_house_of_Egyptian_governor.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/6d/BetShe%27an_-_an_ancient_house_of_Egyptian_governor.jpg
+  sha1: 30e3e1f09580f397f632c1f827584e69c38b7865
+  original_size: [2288, 1712]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1198 px
+size: [1600, 1198]
+depicts: [beth-shean]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,1493 @@
+# Seed entries: Mesopotamian artefacts, royal inscriptions, kings, and events.
+# See docs/seed-guide.md for the field spec.
+
+- id: statue-of-gudea
+  cultures: [sumerian]
+  date: [-2140, -2120]
+  circa: true
+  scope: >-
+    The diorite statues of Gudea, ruler of Lagash in the Neo-Sumerian period, many
+    inscribed with building and dedicatory texts addressed to Ningirsu and other gods.
+    Statue B, seated with a temple ground-plan and measuring rule on his lap, presents
+    the ruler as the god-chosen shepherd and temple builder. The cylinders and Gudea's
+    career are treated in separate entries.
+  passages:
+    - "Exod 25:9, 40 | concept | Divinely revealed sanctuary plan (tabnît); cf. the plan on Statue B's lap"
+    - "1Chr 28:11-19 | concept | David hands Solomon the temple plan received 'in writing from the hand of the LORD'"
+    - "Ezek 40:1-4 | concept | Visionary temple measured by a figure holding a measuring reed"
+    - "Ezek 34:1-24 | imagery | Ruler as shepherd chosen by the deity to care for the people"
+    - "Ps 78:70-72 | imagery | Divine choice of a shepherd-ruler"
+  related: [gudea, gudea-cylinders, shepherd-kingship, temple-building-accounts, prayer-postures, royal-ideology]
+  wikipedia: Statues of Gudea
+  image: Gudea statue B Louvre
+  location: Musée du Louvre, Paris (Statue B and most excavated statues); others in various collections
+  author_notes:
+    - Distinguish the statues excavated at Tello (ancient Girsu) by de Sarzec from 1877 onward from the unprovenanced statues that later reached the market, some of doubtful authenticity.
+    - Gudea's absolute dates vary by chronology (often c. 2140-2120 or slightly later); his reign probably overlapped the early Ur III dynasty. Give a range, not a single year.
+    - The clasped-hands posture is a standard Mesopotamian gesture of prayer and attentiveness, useful for discussing prayer postures.
+    - Stress that the comparison with biblical temple plans is typological; no direct influence on Exodus or Ezekiel is claimed.
+  sources_to_check:
+    - RIME 3/1 (Edzard, Gudea and His Dynasty, 1997)
+
+- id: gudea-cylinders
+  cultures: [sumerian]
+  date: [-2140, -2120]
+  circa: true
+  scope: >-
+    Two large inscribed clay cylinders (A and B) from Girsu recording Gudea's
+    rebuilding of the Eninnu temple of Ningirsu, from the god's dream command through
+    gathering of materials and construction to the dedication festival. They are the
+    longest known Sumerian literary composition and the classic example of the ancient
+    Near Eastern temple-building account.
+  passages:
+    - "1Kgs 5:1-8:66 | form | Temple-building account: divine sanction, materials, construction, dedication (MT 5:15-8:66)"
+    - "1Kgs 5:6-10 | parallel | Cedar and other materials brought from distant mountains (MT 5:20-24)"
+    - "Exod 25:8-9 | concept | Deity commands a sanctuary and reveals its pattern"
+    - "Exod 35:4-40:38 | form | Tabernacle construction narrated as a building account"
+    - "1Chr 28:11-19 | concept | Temple plan delivered to the builder as divinely given"
+    - "1Kgs 3:5-15 | practice | Royal dream revelation at a sanctuary; cf. Gudea's incubation dreams"
+    - "1Kgs 8:62-66 | parallel | Dedication festival of seven (plus seven) days"
+    - "Ezek 40-48 | concept | Visionary temple with detailed measurements"
+    - "Exod 20:24 | concept | Deity promises to come and bless at the sanctuary he designates; cf. Ningirsu's promised abundance once the Eninnu is built"
+  related: [statue-of-gudea, gudea, temple-building-accounts, dream-incubation, dreams-and-dream-interpretation, temple-as-cosmos, divine-rest]
+  wikipedia: Gudea cylinders
+  image: Gudea cylinders Louvre
+  location: Musée du Louvre, Paris
+  author_notes:
+    - Use Hurowitz's analysis of the building-account pattern (decision, divine approval, preparations, construction, dedication, blessing) as the frame for comparison with 1 Kgs 5-8.
+    - Cylinder A narrates the dreams, their interpretation by the goddess Nanshe, and the construction; Cylinder B the god's entry and the dedication festival, including a temporary suspension of social hierarchy.
+    - A third cylinder may once have preceded A; mention this as a scholarly proposal only.
+    - The pattern is widespread across two millennia; argue for a shared genre, not direct dependence of Kings on a Sumerian text.
+  sources_to_check:
+    - COS 2.155
+    - RIME 3/1 (Edzard 1997)
+    - Hurowitz, I Have Built You an Exalted House (JSOTSup 115, 1992)
+
+- id: stele-of-the-vultures
+  cultures: [sumerian]
+  date: [-2450]
+  circa: true
+  scope: >-
+    The fragmentary limestone victory stele of Eannatum of Lagash commemorating his
+    defeat of Umma in a long-running border dispute. One face shows the god Ningirsu
+    holding the enemy in a great battle-net; the other shows Eannatum's phalanx and
+    vultures carrying off the dead. The inscription includes oaths sworn by Umma's ruler.
+  passages:
+    - "Ezek 17:19-20 | imagery | Broken oath answered by God spreading his net over the oath-breaker"
+    - "Ezek 12:13 | imagery | YHWH spreads his net over the king of Judah"
+    - "Ezek 32:3 | imagery | Divine net thrown over Pharaoh"
+    - "Hos 7:12 | imagery | God casts a net over Ephraim like birds"
+    - "Lam 1:13 | imagery | God spreads a net for the speaker's feet"
+    - "Hab 1:15-17 | imagery | The Chaldean conqueror gathers nations in his net"
+    - "1Sam 17:44, 46 | imagery | Enemies' corpses given to the birds of the air"
+    - "Deut 19:14 | practice | Respect for boundaries; the stele concerns a disputed border"
+  related: [divine-warrior, oaths-and-oath-formulas, boundary-markers, conquest-accounts-and-war-rhetoric, treatment-of-captives, kudurru]
+  wikipedia: Stele of the Vultures
+  image: Stele of the Vultures Louvre
+  location: Musée du Louvre, Paris
+  author_notes:
+    - Fragments were recovered at Tello (Girsu) from 1881; the reconstruction and the order of the registers involve some uncertainty.
+    - The net is a weapon of the gods by which oath-breakers are caught; this is the closest ANE analogue to Ezek 17:19-20, where net and broken oath appear together.
+    - The Lagash-Umma border conflict is one of the earliest documented interstate disputes, with treaty-like oaths sworn by several gods.
+    - Keep the comparison at the level of shared imagery; there is no route of literary transmission from a third-millennium Sumerian stele to Ezekiel.
+  sources_to_check:
+    - RIME 1 (Frayne, Presargonic Period, 2008), Eannatum inscriptions
+
+- id: victory-stele-of-naram-sin
+  cultures: [akkadian]
+  date: [-2250]
+  circa: true
+  scope: >-
+    The pink limestone stele of Naram-Sin of Akkad celebrating his victory over the
+    Lullubi of the Zagros. The king, wearing a horned crown that marks divine status,
+    ascends a mountain over fallen enemies beneath celestial symbols. The stele was
+    carried off to Susa as booty by the Elamite king Shutruk-Nahhunte in the 12th century.
+  passages:
+    - "Isa 14:13-14 | imagery | Royal ascent to the heights and claim to be like the Most High"
+    - "Ezek 28:2 | imagery | Ruler who claims 'I am a god'"
+    - "Ezek 28:14-16 | imagery | Royal figure on the holy mountain of God, cast down"
+    - "Josh 10:24 | practice | Victor's feet on the necks of defeated kings"
+    - "Ps 110:1 | imagery | Enemies made a footstool for the king's feet"
+    - "Ps 18:37-42 | imagery | King tramples and crushes pursued enemies (MT 18:38-43)"
+  related: [sargon-of-akkad, royal-ideology, king-as-son-of-god, cosmic-mountain, smiting-the-enemy-motif, susa, footstool]
+  wikipedia: Victory Stele of Naram-Sin
+  image: Victory Stele of Naram-Sin Louvre
+  location: Musée du Louvre, Paris
+  author_notes:
+    - Found at Susa by the French mission in 1898; explain the Elamite capture and Shutruk-Nahhunte's added inscription as an instance of seizing monuments as booty.
+    - Naram-Sin was the first Mesopotamian king to take the divine determinative before his name; the horned crown visualises this claim. Avoid saying the Bible 'refers to' Naram-Sin.
+    - The Isaiah and Ezekiel passages belong to a widespread ANE theme of royal hubris and divine kingship; present the stele as illustration, not source.
+    - Naram-Sin's later reputation (the Curse of Agade) as a king who offended the gods is relevant to the hubris theme.
+  sources_to_check:
+    - RIME 2 (Frayne, Sargonic and Gutian Periods, 1993)
+
+- id: kudurru
+  aliases: [Babylonian boundary stones, entitlement narus]
+  cultures: [babylonian]
+  date: [-1400, -630]
+  circa: true
+  scope: >-
+    Inscribed stone monuments from Kassite and post-Kassite Babylonia recording royal
+    land grants, tax exemptions, and property settlements, carved with divine symbols
+    and protected by elaborate curses. The entry covers the object type, its imagery,
+    and its curse formulae.
+  passages:
+    - "Deut 19:14 | practice | Prohibition on moving a neighbour's boundary marker"
+    - "Deut 27:17 | practice | Curse on whoever moves a neighbour's boundary marker"
+    - "Prov 22:28 | practice | Do not remove the ancient landmark"
+    - "Prov 23:10-11 | practice | Landmark of orphans protected by a divine redeemer"
+    - "Hos 5:10 | imagery | Judah's princes like those who move a landmark"
+    - "1Sam 8:14 | practice | King grants fields and vineyards to his servants"
+    - "Deut 28:15-68 | form | Extended curse sequence invoking divine sanctions"
+  related: [boundary-markers, blessings-and-curses, land-redemption, shamash, constellations, babylonia, merodach-baladan]
+  wikipedia: Kudurru
+  image: Kudurru Melishipak Louvre
+  location: Major collections in the Musée du Louvre, Paris (many found at Susa) and the British Museum, London
+  author_notes:
+    - Correct the common label 'boundary stone'. Most kudurrus were set up in temples, with copies on clay, and were not field markers; Slanski calls them 'entitlement narûs'.
+    - The divine symbols (sun disk, crescent, star, spade of Marduk, etc.) place the grant under the gods' protection; avoid treating them as an early zodiac.
+    - The curses (no heir, disease, loss of name) are close in form to biblical and treaty curses; useful for Deut 27-28.
+    - The biblical landmark laws concern ordinary field markers; the connection with kudurrus is the shared protection of land tenure by divine sanction.
+  sources_to_check:
+    - Slanski, The Babylonian Entitlement narûs (kudurrus) (2003)
+    - Paulus, Die babylonischen Kudurru-Inschriften (AOAT 51, 2014)
+
+- id: tablet-of-shamash
+  aliases: [Sun-God Tablet, Sippar Sun-God Tablet]
+  cultures: [babylonian]
+  date: [-870]
+  circa: true
+  scope: >-
+    A grey schist tablet from Sippar recording how Nabu-apla-iddina of Babylon (9th
+    century BCE) restored the cult image of the sun-god Shamash. The relief shows the
+    king led before the enthroned Shamash, with a large sun disk on an altar and the
+    shrine resting above the heavenly waters.
+  passages:
+    - "2Kgs 23:11 | practice | Horses and chariots dedicated to the sun removed by Josiah"
+    - "Ezek 8:16 | practice | Worship of the sun toward the east in the temple court"
+    - "Ps 84:11 | imagery | 'The LORD God is a sun and shield' (MT 84:12)"
+    - "Ps 29:10 | concept | Deity enthroned over the flood; cf. shrine above the cosmic waters"
+    - "Isa 44:9-20 | polemic | Manufacture of a cult image ridiculed"
+    - "Ps 19:4-6 | imagery | The sun's course across the heavens (MT 19:5-7)"
+  related: [shamash, cult-images, mouth-washing-and-opening, winged-sun-disk, prayer-postures, waters-above-and-below, babylonia]
+  wikipedia: Tablet of Shamash
+  image: Tablet of Shamash British Museum
+  location: British Museum, London
+  author_notes:
+    - Found by Hormuzd Rassam at Sippar (Abu Habbah) in 1881, stored in a clay box with clay impressions of the relief; Woods argues the relief deliberately imitates an older model.
+    - The text tells how the original image was lost in the Sutean disturbances and a new one was made after a model was found; key evidence for the making and consecration of cult images (mouth-washing).
+    - The presentation scene (king led by an interceding deity) is a classic iconographic type.
+    - The sun disk here is not winged; do not use the tablet as direct background for Mal 4:2's 'wings'. Shamash as god of justice is the stronger link to solar imagery for YHWH.
+  sources_to_check:
+    - Woods, "The Sun-God Tablet of Nabû-apla-iddina Revisited," JCS 56 (2004)
+
+- id: black-obelisk
+  cultures: [assyrian]
+  date: [-827]
+  circa: true
+  scope: >-
+    A black limestone obelisk of Shalmaneser III from Nimrud summarising his campaigns
+    to his 31st year. Its five registers of reliefs show tribute from five lands; the
+    second shows a figure prostrate before the king, labelled as the tribute of
+    'Jehu of Bit-Humri', the only known depiction of an Israelite king or his envoy.
+  passages:
+    - "2Kgs 9:1-10:36 | attests | Jehu, king of Israel, shown or represented paying tribute"
+    - "2Kgs 9:2 | language | Jehu son of Jehoshaphat son of Nimshi, yet 'son of Omri' (Bit-Humri) in Assyrian usage"
+    - "2Kgs 10:32-33 | setting | Hazael's pressure on Israel, after Assyria withdrew from the west"
+    - "1Kgs 19:15-17 | attests | Hazael and Jehu, both named in Shalmaneser's inscriptions"
+    - "2Kgs 8:7-15 | attests | Hazael of Damascus, Shalmaneser's opponent in 841 and 838"
+  related: [jehu, shalmaneser-iii, hazael, omri, nimrud, tribute-and-vassalage, prostration-and-obeisance, kurkh-monoliths]
+  wikipedia: Black Obelisk of Shalmaneser III
+  image: Black Obelisk Shalmaneser III British Museum
+  location: British Museum, London
+  author_notes:
+    - Discovered by Layard at Nimrud in 1846. The main text runs to Shalmaneser's 31st year (c. 828/827); the Jehu tribute itself dates to 841 BCE (18th year), recorded also on other inscriptions.
+    - '"Son of Omri" (mār Ḫumrî) reflects the Assyrian practice of naming a state after a dynastic founder (Bit-Humri); it is not a genealogical claim and does not contradict 2 Kgs 9:2.'
+    - Whether the prostrate figure is Jehu himself or an envoy is debated; the epigraph names Jehu's tribute. McCarter's proposal to read Joram is a minority view.
+    - The Bible does not mention Jehu's submission; Kings is silent about Assyria in this period. Note the value of the obelisk for absolute chronology (841 BCE).
+  sources_to_check:
+    - RIMA 3 (Grayson 1996), Shalmaneser III texts
+    - COS 2.113F
+    - ANET 280-281
+
+- id: kurkh-monoliths
+  cultures: [assyrian]
+  date: [-879, -852]
+  circa: true
+  scope: >-
+    Two Assyrian stelae found at Kurkh (Üçtepe) in southeastern Turkey, of Ashurnasirpal
+    II and Shalmaneser III. The Shalmaneser Monolith gives the earliest account of the
+    battle of Qarqar (853 BCE), naming 'Ahab the Israelite' with 2,000 chariots and
+    10,000 soldiers in a coalition of western states.
+  passages:
+    - "1Kgs 16:29-33 | attests | Ahab son of Omri, king of Israel"
+    - "1Kgs 22:1 | setting | Three years without war between Aram and Israel, the period of the anti-Assyrian alliance"
+    - "1Kgs 20:31-34 | setting | Ahab's treaty with Ben-hadad of Aram, background to the coalition"
+  related: [battle-of-qarqar, shalmaneser-iii, ahab, ben-hadad, black-obelisk, chariots-and-horses, qedarites-and-arabs, hamath]
+  wikipedia: Kurkh Monoliths
+  image: Kurkh Monolith Shalmaneser III British Museum
+  location: British Museum, London
+  author_notes:
+    - Discovered in 1861 by J. E. Taylor, British consul at Diyarbakır. The Shalmaneser text dates to c. 852 BCE, shortly after the battle.
+    - The coalition was led by Adad-idri (Hadadezer) of Damascus and Irhuleni of Hamath; the relationship of Hadadezer to the biblical Ben-hadad of 1 Kgs 20 is debated.
+    - The 2,000 chariots credited to Ahab exceed every other contingent; some propose a scribal error (e.g. 200), others accept the figure. Present both views.
+    - The text also contains the first datable mention of Arabs (Gindibu with 1,000 camels). The engraving is careless and the text has many errors.
+  sources_to_check:
+    - RIMA 3 (Grayson 1996), A.0.102.2
+    - COS 2.113A
+    - ANET 278-279
+
+- id: tell-al-rimah-stele
+  aliases: [Tell al-Rimah stela, Rimah Stele]
+  cultures: [assyrian]
+  date: [-797, -783]
+  circa: true
+  scope: >-
+    A stele of the Assyrian king Adad-nirari III and his governor Nergal-ereš found at
+    Tell al-Rimah in northern Iraq in 1967. It records a western campaign in which
+    'Joash (Iuʾasu) the Samarian' paid tribute, the first mention of Samaria by name in
+    Assyrian royal inscriptions.
+  passages:
+    - "2Kgs 13:10-13 | attests | Jehoash (Joash) son of Jehoahaz, king of Israel"
+    - "2Kgs 13:5 | event? | YHWH gives Israel a 'saviour' from Aram, often identified with Adad-nirari III"
+    - "2Kgs 13:22-25 | setting | Joash recovers towns from Ben-hadad son of Hazael after Damascus is weakened"
+    - "1Kgs 16:24 | attests | Samaria as Israel's capital, here named in an Assyrian text"
+  related: [samaria, ben-hadad, hazael, tribute-and-vassalage, damascus, assyria]
+  wikipedia: Tell al-Rimah stela
+  image: Tell al-Rimah stele Adad-nirari III
+  location: Iraq Museum, Baghdad
+  author_notes:
+    - Excavated by David Oates and published by Stephanie Page (1968). The campaign is usually dated c. 796 BCE; the inscription's 'in one year' compression of events is debated.
+    - Damascus's king is called Mariʾ ('lord'), probably a title for Ben-hadad son of Hazael.
+    - The identification of the 'saviour' of 2 Kgs 13:5 with Adad-nirari III is common but not certain; alternatives include Jeroboam II or Elisha. Mark it as a proposal.
+    - The governor Nergal-ereš's name was deliberately erased at some point, an example of damnatio memoriae.
+  sources_to_check:
+    - Page, "A Stela of Adad-nirari III and Nergal-ereš from Tell al Rimah," Iraq 30 (1968)
+    - RIMA 3 (Grayson 1996), Adad-nirari III texts
+
+- id: tiglath-pileser-iii-inscriptions
+  cultures: [assyrian]
+  date: [-745, -727]
+  scope: >-
+    The royal inscriptions of Tiglath-pileser III: annals carved on palace slabs at
+    Nimrud (later dismantled and reused), summary inscriptions, and stelae such as the
+    Iran Stele. They name Menahem of Samaria, Rezin of Damascus, Pekah and Hoshea, and
+    Ahaz ('Jehoahaz') of Judah, and document the annexation of much of the Levant.
+  passages:
+    - "2Kgs 15:19-20 | event | Menahem's tribute to Pul (Tiglath-pileser) to secure his throne"
+    - "2Kgs 15:29 | event | Annexation of Galilee and Gilead and deportation of their population"
+    - "2Kgs 15:30 | event | Hoshea replaces Pekah; Assyrian text claims Tiglath-pileser installed him"
+    - "2Kgs 16:5-9 | event | Ahaz's appeal and tribute; capture of Damascus and death of Rezin"
+    - "2Kgs 16:10-16 | setting | Ahaz meets Tiglath-pileser at Damascus; new altar in Jerusalem"
+    - "Isa 7:1-9 | setting | Syro-Ephraimite crisis of 734-732"
+    - "Isa 9:1 | setting? | 'Way of the sea, beyond the Jordan, Galilee' often read as Assyrian provinces (MT 8:23)"
+    - "1Chr 5:6, 26 | event | Deportation of the Transjordanian tribes by Tilgath-pilneser"
+  related: [tiglath-pileser-iii, menahem, pekah, hoshea, ahaz, rezin, nimrud, deportation]
+  wikipedia: null
+  image: Tiglath-Pileser III relief Nimrud British Museum
+  author_notes:
+    - The Nimrud slabs were removed and reused by Esarhaddon, so the annals survive in fragments known partly from Layard's drawings; the line numbering and order were reconstructed by Tadmor.
+    - Summary Inscription 7 lists 'Jehoahaz of Judah' among tributaries, the full form of the name Ahaz. Tiglath-pileser claims to have placed Hoshea on the throne after Pekah was overthrown.
+    - The Iran Stele confirms Menahem's tribute in a dated context (c. 738), helping to fix Israelite chronology.
+    - Alt's reading of Isa 9:1 as the three provinces of Dor, Megiddo and Gilead is influential but debated.
+  sources_to_check:
+    - RINAP 1 (Tadmor and Yamada 2011)
+    - Tadmor, The Inscriptions of Tiglath-pileser III, King of Assyria (1994)
+    - COS 2.117
+    - ANET 282-284
+
+- id: sargon-ii-inscriptions
+  cultures: [assyrian]
+  date: [-721, -705]
+  scope: >-
+    The inscriptions of Sargon II from Khorsabad (Dur-Sharrukin), Nimrud, Assur and
+    provincial stelae, including the Khorsabad Annals, the Great Display Inscription,
+    the Nimrud Prism, and the Ashdod stele fragments. They claim the conquest of
+    Samaria, the deportation and resettlement of its population, and the crushing of
+    the Ashdod revolt of 712/711.
+  passages:
+    - "2Kgs 17:6 | event | Capture of Samaria and deportation to Halah, Habor and the cities of the Medes"
+    - "2Kgs 17:24 | event | Foreign peoples settled in Samaria; Sargon records settling Arab groups there"
+    - "2Kgs 18:9-11 | event | Siege and capture of Samaria; Sargon claims the conquest"
+    - "Isa 20:1-6 | event | Sargon's commander takes Ashdod; Isaiah's sign against reliance on Egypt"
+    - "Isa 10:9-11 | event | Calno, Carchemish, Hamath, Arpad, Samaria as Assyrian conquests"
+    - "2Kgs 18:34 | event | Hamath and Arpad among Assyria's conquests"
+  related: [sargon-ii, fall-of-samaria, ashdod, samaria, hamath, deportation, samaritan-origins, royal-annals-and-historiography]
+  wikipedia: Annals of Sargon II
+  image: Sargon II Khorsabad relief Louvre
+  author_notes:
+    - Sargon claims Samaria in several texts, with 27,280 or 27,290 deportees and 50 (or 200) chariots, but the earliest texts place it in his accession year while the Annals put it in year 2; this bears on the Shalmaneser V vs Sargon debate.
+    - The Nimrud Inscription calls Sargon 'subduer of Judah, which lies far away', evidence for Judahite involvement in the 720 or 712/711 events.
+    - Fragments of a Sargon stele found at Ashdod provide local confirmation of the 712/711 campaign that Isa 20:1 mentions.
+    - The 2 Kgs 17:24 list of settlers reflects several waves of deportation; Sargon's texts mention Arabs settled in Samaria (c. 716/715).
+  sources_to_check:
+    - RINAP 2 (Frame 2021)
+    - Fuchs, Die Inschriften Sargons II. aus Khorsabad (1994)
+    - COS 2.118
+    - ANET 284-287
+
+- id: sennacherib-annals
+  aliases: [Taylor Prism, Oriental Institute Prism, Jerusalem Prism, Chicago Prism]
+  cultures: [assyrian]
+  date: [-700, -689]
+  circa: true
+  scope: >-
+    The annalistic inscriptions of Sennacherib on clay cylinders and hexagonal prisms
+    (Rassam Cylinder, 700 BCE; Taylor and Jerusalem Prisms, 691; Oriental Institute
+    Prism, 689), whose third-campaign account narrates the 701 campaign to the Levant,
+    the siege of Judahite cities, and Hezekiah shut up in Jerusalem 'like a bird in a cage'.
+  passages:
+    - "2Kgs 18:13-16 | event | Sennacherib takes Judah's fortified cities; Hezekiah's tribute including 30 talents of gold"
+    - "2Kgs 18:17-19:37 | event | Assyrian envoys at Jerusalem and the city's deliverance"
+    - "Isa 36-37 | event | Parallel account of the 701 crisis"
+    - "2Chr 32:1-23 | event | Chronicler's account of the invasion"
+    - "2Kgs 19:9 | attests | Kushite intervention under Tirhakah; the annals report Egyptian and Kushite forces at Eltekeh"
+    - "2Kgs 18:8 | setting | Hezekiah's action in Philistia; the annals report Ekron's king Padi held in Jerusalem"
+    - "Isa 1:7-9 | setting | Desolate land with Zion left 'like a booth in a vineyard'"
+    - "Mic 1:10-16 | setting | Lament over Shephelah towns including Lachish"
+  related: [sennacherib, sennacherib-campaign-701, hezekiah, lachish-reliefs, lachish, taharqa, ekron, tribute-and-vassalage]
+  wikipedia: Sennacherib's Annals
+  image: Taylor Prism Sennacherib British Museum
+  location: Taylor Prism, British Museum, London; Oriental Institute Prism, ISAC Museum (Oriental Institute), University of Chicago; Jerusalem Prism, Israel Museum, Jerusalem
+  author_notes:
+    - The 701 account first appears on the Rassam Cylinder (700), the copy closest to the events; later prisms abridge it. Do not confuse the Sennacherib Rassam Cylinder with Ashurbanipal's Rassam Cylinder.
+    - The gold tribute (30 talents) matches 2 Kgs 18:14; the silver differs (800 vs 300 talents). The annals place the tribute after Sennacherib's return to Nineveh.
+    - The annals do not claim the capture of Jerusalem; their silence on its fall, against the reported capture of 46 walled cities and 200,150 people, is central to the historical debate.
+    - The two-campaign theory (a second invasion c. 688) is now largely abandoned; present the mainstream view that the biblical accounts combine sources about one campaign (Stade's B1/B2 analysis).
+  sources_to_check:
+    - RINAP 3/1 (Grayson and Novotny 2012)
+    - COS 2.119B
+    - ANET 287-288
+
+- id: lachish-reliefs
+  cultures: [assyrian]
+  date: [-700, -690]
+  circa: true
+  scope: >-
+    The sequence of carved gypsum wall slabs from a room of Sennacherib's Southwest
+    Palace at Nineveh depicting the siege and capture of the Judahite city of Lachish in
+    701 BCE, from the assault on the walls to the deportation of families and the king
+    receiving the spoil.
+  passages:
+    - "2Kgs 18:14, 17 | event | Sennacherib at Lachish receives Hezekiah's messengers and dispatches his envoys"
+    - "2Kgs 19:8 | event | The king has left Lachish for Libnah"
+    - "2Chr 32:9 | event | Sennacherib besieging Lachish with all his forces"
+    - "Mic 1:13 | setting | Lachish addressed in the prophetic lament"
+    - "Ezek 4:2 | realia | Siege works, ramp, and battering rams"
+    - "Ezek 21:22 | realia | Battering rams and siege ramp against a city (MT 21:27)"
+    - "2Kgs 18:31-32 | practice | Rabshakeh threatens deportation to 'a land like your own land'"
+  related: [lachish, sennacherib, sennacherib-campaign-701, sennacherib-annals, assyrian-siege-warfare, deportation, treatment-of-captives, nineveh]
+  wikipedia: Lachish reliefs
+  image: Lachish relief British Museum
+  location: British Museum, London
+  author_notes:
+    - Excavated by Layard in 1847-1850; the epigraph identifies the city as Lachish and the king seated on his throne receiving spoil.
+    - Correlate with the excavations at Lachish (Level III), where the Assyrian siege ramp, the counter-ramp and masses of arrowheads and sling stones were found (Ussishkin).
+    - Note the prominence given to Lachish rather than Jerusalem, perhaps because Lachish was the greatest city actually taken.
+    - The reliefs show impalement and flaying of some captives alongside families going into exile; discuss as royal propaganda, not neutral reportage.
+  sources_to_check:
+    - Ussishkin, The Conquest of Lachish by Sennacherib (1982)
+    - Barnett, Bleibtreu and Turner, Sculptures from the Southwest Palace of Sennacherib at Nineveh (1998)
+
+- id: esarhaddon-prisms
+  cultures: [assyrian]
+  date: [-676, -672]
+  circa: true
+  scope: >-
+    The clay prism inscriptions of Esarhaddon, especially the Nineveh A and B prisms.
+    They narrate his contested accession after his father Sennacherib's death and list
+    22 western vassal kings, including 'Manasseh king of Judah', who supplied building
+    materials for Esarhaddon's arsenal palace at Nineveh.
+  passages:
+    - "2Kgs 21:1-18 | attests | Manasseh, king of Judah, as Assyrian vassal"
+    - "2Kgs 19:37 | event | Sennacherib murdered by his sons, who flee; Esarhaddon succeeds"
+    - "Isa 37:38 | event | Parallel account of Sennacherib's death and Esarhaddon's succession"
+    - "2Chr 33:11 | setting? | Manasseh taken to Babylon in fetters; historicity debated"
+    - "Ezra 4:2 | attests | Esarhaddon named as the king who settled foreigners in Samaria"
+  related: [esarhaddon, manasseh, sennacherib, tribute-and-vassalage, esarhaddon-succession-treaty, nineveh, ararat-urartu]
+  wikipedia: null
+  image: Esarhaddon prism Nineveh British Museum
+  location: Multiple exemplars; well-known examples in the British Museum, London
+  author_notes:
+    - Esarhaddon's account of his accession describes his brothers' rebellion and his own march on Nineveh but avoids explicitly describing his father's murder; the Babylonian Chronicle reports the killing by 'his son'.
+    - Parpola's identification of Adrammelech with Urad-Mullissu (Arda-Mulišši), a son of Sennacherib, is widely accepted; Sharezer is harder to identify.
+    - Manasseh's appearance in the list supports the picture of Judah as a loyal vassal in the 7th century; the Chronicler's captivity story (2 Chr 33:11) has no Assyrian confirmation.
+    - Prisms exist in many duplicates; cite by RINAP number rather than museum object.
+  sources_to_check:
+    - RINAP 4 (Leichty 2011), Esarhaddon 1
+    - Borger, Die Inschriften Asarhaddons, Königs von Assyrien (AfO Beiheft 9, 1956)
+
+- id: rassam-cylinder
+  aliases: [Ashurbanipal Prism A]
+  cultures: [assyrian]
+  date: [-643]
+  circa: true
+  scope: >-
+    The ten-sided clay prism of Ashurbanipal found by Hormuzd Rassam at Nineveh in
+    1878, the fullest edition of his annals, together with the related prism editions of
+    his reign. It narrates the Egyptian campaigns including the sack of Thebes (664/663),
+    the revolt of Shamash-shum-ukin, the destruction of Susa, and the wars against the Arabs.
+  passages:
+    - "Nah 3:8-10 | event | The fall of Thebes (No-amon) as a warning to Nineveh"
+    - "Ezra 4:9-10 | event | Men of Susa and Elam deported by 'the great and noble Osnappar'"
+    - "2Kgs 21:1 | attests | Manasseh among the western kings aiding the first Egyptian campaign (Prism C)"
+    - "2Chr 33:11 | setting? | Manasseh brought to Babylon; sometimes linked to the Shamash-shum-ukin revolt"
+    - "Jer 49:28-33 | setting | Kedar and the Arabs as targets of Mesopotamian campaigns"
+  related: [ashurbanipal, nineveh, thebes, susa, manasseh, qedarites-and-arabs, library-of-ashurbanipal, royal-annals-and-historiography]
+  wikipedia: Rassam cylinder
+  image: Rassam Cylinder Ashurbanipal British Museum
+  location: British Museum, London
+  author_notes:
+    - Distinguish this object from Sennacherib's Rassam Cylinder (700 BCE), also named after Rassam, which contains the earliest account of the 701 campaign.
+    - The list of 22 kings with Manasseh appears in Prism C (and related editions), not in the Rassam Cylinder itself; the entry should explain the edition history of Ashurbanipal's annals.
+    - The identification of Osnappar (Ezra 4:10) with Ashurbanipal is the consensus view, supported by the deportations from Susa and Elam after 647/646.
+    - Ashurbanipal's annals revise earlier events to suit later circumstances; use the editions comparatively.
+  sources_to_check:
+    - RINAP 5/1 (Novotny and Jeffers 2018)
+    - Borger, Beiträge zum Inschriftenwerk Assurbanipals (1996)
+
+- id: library-of-ashurbanipal
+  cultures: [assyrian]
+  date: [-668, -612]
+  circa: true
+  scope: >-
+    The collections of cuneiform tablets assembled at Nineveh chiefly under Ashurbanipal
+    and found by Layard and Rassam in the 1850s at Kuyunjik. They preserve the standard
+    versions of Gilgamesh, Enuma Elish and many omen, incantation, lexical and scholarly
+    series, making them the main source for first-millennium Mesopotamian literature.
+  passages:
+    - "Gen 6:5-9:17 | parallel | Gilgamesh Tablet XI and Atrahasis copies preserved here"
+    - "Gen 1:1-2:3 | parallel | Enuma Elish known chiefly from Nineveh copies"
+    - "Prov 25:1 | practice | Royal patronage of copying and collecting literature ('men of Hezekiah')"
+    - "Isa 47:13 | practice | Astrologers and stargazers; celestial omen series collected at Nineveh"
+    - "Ezra 4:10 | attests | Osnappar (Ashurbanipal), the king whose collections these were"
+    - "Nah 2:1-3:19 | setting | Oracles on Nineveh, whose destruction in 612 buried the tablets (MT 2:2-3:19)"
+  related: [ashurbanipal, nineveh, gilgamesh-epic, gilgamesh-flood-tablet, enuma-elish, scribes-and-scribal-education, enuma-anu-enlil, writing-and-literacy]
+  wikipedia: Library of Ashurbanipal
+  image: Library of Ashurbanipal tablets British Museum
+  location: British Museum, London (bulk of the tablets)
+  author_notes:
+    - The 'library' is a modern label for several collections in the palaces and the Nabu temple; tablets were also seized or copied from Babylonian scholars, especially after 648.
+    - George Smith's 1872 identification of the flood story in this material sparked the Babel-Bibel debate; mention this history.
+    - The tablets are mostly scholarly and divinatory, not literary; literary texts are a minority.
+    - The excavated tablets were mixed with other Kuyunjik finds, so 'library' attributions need care.
+  sources_to_check:
+    - Parpola, "Assyrian Library Records," JNES 42 (1983)
+
+- id: lion-hunt-of-ashurbanipal
+  cultures: [assyrian]
+  date: [-645, -635]
+  circa: true
+  scope: >-
+    The series of gypsum wall reliefs from Ashurbanipal's North Palace at Nineveh
+    showing the king hunting lions released from cages into an arena, a royal ritual
+    expressing the king's role as protector of order against wild chaos.
+  passages:
+    - "1Sam 17:34-37 | imagery | David as shepherd-protector who kills lions and bears"
+    - "Ezek 19:1-9 | imagery | Lion cub caught in a pit and net, put in a cage with hooks and taken to the king"
+    - "Nah 2:11-13 | imagery | Nineveh as a lions' den destroyed (MT 2:12-14)"
+    - "Amos 3:12 | imagery | Shepherd rescuing remnants from the lion's mouth"
+    - "Dan 6:16-24 | realia | Captive lions kept in a pit by a Mesopotamian king (MT 6:17-25)"
+    - "Judg 14:5-6 | imagery | Samson kills a lion barehanded"
+  related: [ashurbanipal, lion-imagery, nineveh, royal-ideology, shepherd-kingship, rassam-cylinder]
+  wikipedia: Lion Hunt of Ashurbanipal
+  image: Lion Hunt of Ashurbanipal British Museum
+  location: British Museum, London
+  author_notes:
+    - The hunt was staged with captive lions; the reliefs and inscriptions present it as a royal ritual tied to the king's duty to protect land and people.
+    - Ezek 19 reflects actual practices of capturing lions with nets and pits and transporting them in cages, as shown in Assyrian art.
+    - Nah 2:11-13 turns the Assyrian royal lion image against Nineveh itself; this is a strong and widely accepted link.
+    - Avoid sentimental readings of the 'dying lioness' slab; focus on royal ideology.
+  sources_to_check:
+    - Barnett, Sculptures from the North Palace of Ashurbanipal at Nineveh (1976)
+
+- id: lamassu
+  aliases: [aladlammû, shedu, human-headed winged bulls]
+  cultures: [assyrian]
+  scope: >-
+    The colossal human-headed winged bulls and lions that guarded the gateways of
+    Neo-Assyrian palaces at Nimrud, Khorsabad and Nineveh, later adopted at Persepolis.
+    The entry covers their form, protective function, and use as comparative material for
+    the biblical cherubim and Ezekiel's living creatures.
+  passages:
+    - "Ezek 1:5-10 | imagery | Composite living creatures with human, lion, ox and eagle faces"
+    - "Ezek 10:14 | imagery | Cherub's face identified as an ox face elsewhere"
+    - "Gen 3:24 | concept | Cherubim stationed as guardians at the entrance to Eden"
+    - "1Kgs 6:23-28 | realia | Colossal winged cherubim in the inner sanctuary"
+    - "Ezek 28:14, 16 | concept | Guardian cherub"
+    - "Dan 7:4 | imagery | Lion with eagle's wings"
+    - "Rev 4:6-8 | imagery | Four living creatures with faces of lion, ox, human, eagle"
+  related: [cherubim, cherub-throne, ezekiel-throne-chariot, composite-beasts-daniel, apkallu-reliefs, nimrud, persepolis]
+  wikipedia: Lamassu
+  image: Lamassu Khorsabad Louvre
+  location: Major examples in the British Museum, Musée du Louvre, ISAC Museum (Oriental Institute) Chicago, Metropolitan Museum of Art, and Iraq Museum
+  author_notes:
+    - Biblical cherubim are now usually reconstructed from Levantine iconography as winged sphinxes (lion body, human head), as on the Megiddo ivories and the Ahiram sarcophagus, not as Assyrian bulls.
+    - The proposed etymology of kerub from Akkadian karibu ('one who blesses/prays') is possible but uncertain; flag it as debated.
+    - Ezekiel, writing in Babylonia, could have seen such composite guardians; the comparison is iconographic background, not identity.
+    - Many lamassu have five legs, designed to be seen from front and side; ISIS destruction at Nimrud and Nineveh (2015) is relevant for current state.
+  sources_to_check:
+    - Keel, The Symbolism of the Biblical World (1978)
+
+- id: assyrian-sacred-tree
+  cultures: [assyrian]
+  scope: >-
+    The stylised tree motif of Middle and Neo-Assyrian art, often flanked by the king,
+    genies or griffins beneath a winged disk, as on the throne-room relief of
+    Ashurnasirpal II at Nimrud. The entry covers its iconography, debated meaning, and
+    comparison with biblical trees and palmette decoration.
+  passages:
+    - "Gen 2:9 | concept | Tree of life in the middle of the garden"
+    - "Gen 3:22-24 | concept | Tree of life guarded by cherubim"
+    - "Ezek 31:2-9 | imagery | Assyria as a great cedar in the garden of God (MT 31:3 'Assyria')"
+    - "Dan 4:10-12 | imagery | Nebuchadnezzar's world tree (MT 4:7-9)"
+    - "1Kgs 6:29, 32, 35 | realia | Cherubim, palm trees and flowers carved on temple walls"
+    - "Ezek 41:18-20 | realia | Cherubim flanking palm trees in the visionary temple"
+    - "Prov 3:18 | imagery | Wisdom as a tree of life"
+    - "Rev 22:2 | imagery | Tree of life in the new Jerusalem"
+  related: [tree-of-life, garden-of-god, cherubim, apkallu-reliefs, winged-sun-disk, asherah, nimrud]
+  wikipedia: null
+  image: Ashurnasirpal II sacred tree relief Nimrud British Museum
+  author_notes:
+    - The meaning of the motif is debated (fertility, cosmic order, the king as embodiment of order). Parpola's reading of it as a Kabbalah-like 'tree of life' diagram is a minority view and should be presented critically.
+    - The Assyrian term for the motif is uncertain; 'sacred tree' is a modern label. Avoid calling it 'the tree of life' as if this were its ancient name.
+    - In Ezek 31:3 the MT reads 'Assyria'; some emend to te'ashshur ('cypress'). Note the textual issue.
+    - The palmette-and-cherub decoration of 1 Kgs 6 and Ezek 41 reflects a shared Levantine-Mesopotamian iconographic repertoire.
+  sources_to_check:
+    - Parpola, "The Assyrian Tree of Life," JNES 52 (1993)
+    - Keel and Uehlinger, Gods, Goddesses, and Images of God in Ancient Israel (1998)
+
+- id: apkallu-reliefs
+  cultures: [assyrian]
+  scope: >-
+    Neo-Assyrian reliefs and buried figurines of protective apkallu sages and related
+    genies: fish-cloaked figures, bird-headed (griffin) figures, and winged human figures
+    with bucket and cone. The entry covers this iconography and its link to the
+    antediluvian sages; the textual sage tradition is treated under its own entry.
+  passages:
+    - "Gen 6:1-4 | concept? | Primeval semi-divine figures; apkallu traditions compared with the sons of God"
+    - "1En 6-8 | concept? | Watchers teach forbidden arts; inverted apkallu tradition"
+    - "Gen 5:21-24 | concept | Enoch, seventh antediluvian, paired with the sage tradition of Enmeduranki"
+    - "Ezek 28:12-17 | concept? | Wise primeval figure in Eden compared with an apkallu"
+    - "1Sam 5:2-5 | language | Dagon; the fish-cloaked apkallu is often wrongly cited as a 'fish-god Dagon'"
+  related: [enmeduranki-and-the-apkallu, lamassu, assyrian-sacred-tree, demons, first-enoch, dagon, nimrud]
+  wikipedia: Apkallu
+  image: Apkallu relief Northwest Palace Nimrud
+  author_notes:
+    - Wiggermann's work on protective figurines established the identification of these figures as apkallu; present the different types and their ritual use.
+    - The 'Dagon as fish-god' idea (from Hebrew dag 'fish') is a popular misconception; Dagan was a grain/storm deity. Use this entry to correct it.
+    - The link to Gen 6:1-4 and the Enochic Watchers is real but indirect, mediated by the textual sage tradition (Uruk List of Kings and Sages; Berossus' Oannes); see Kvanvig and others.
+    - The bucket and cone figures purify and protect; do not overinterpret the 'cone' as pollination of the tree.
+  sources_to_check:
+    - Wiggermann, Mesopotamian Protective Spirits (Cuneiform Monographs 1, 1992)
+
+- id: ishtar-gate
+  cultures: [babylonian]
+  date: [-575]
+  circa: true
+  scope: >-
+    The monumental glazed-brick gate on the north side of Babylon's inner city, built
+    by Nebuchadnezzar II and dedicated to Ishtar, with the Processional Way leading to
+    Marduk's temple. Its reliefs show bulls of Adad and mušḫuššu dragons of Marduk;
+    lions line the Processional Way. A reconstruction stands in Berlin.
+  passages:
+    - "Dan 4:30 | setting | 'Is this not magnificent Babylon, which I have built?' (MT 4:27)"
+    - "Jer 51:58 | setting | Babylon's broad wall levelled and high gates burned"
+    - "Isa 46:1-2 | practice | Bel and Nebo carried in procession, now carried off"
+    - "Jer 50:2 | attests | Bel and Merodach (Marduk) put to shame"
+    - "Bel 23-27 | imagery | The dragon venerated in Babylon; cf. Marduk's mušḫuššu"
+    - "Isa 13:19 | setting | Babylon, the glory of kingdoms"
+    - "Dan 1:1-4 | setting | Judean youths taken to Nebuchadnezzar's Babylon"
+  related: [babylon, nebuchadnezzar-ii, marduk, ishtar, akitu-festival, east-india-house-inscription, etemenanki, babylonian-exile]
+  wikipedia: Ishtar Gate
+  image: Ishtar Gate Pergamon Museum Berlin
+  location: Vorderasiatisches Museum (Pergamonmuseum), Berlin; glazed-brick panels in many other museums
+  author_notes:
+    - Excavated by Robert Koldewey's German expedition (1899-1917); the Berlin reconstruction is of the smaller outer gate, using excavated bricks supplemented with modern ones.
+    - The Processional Way was used during the akitu (New Year) festival when Marduk's statue was carried in procession; useful for Isa 46:1-2.
+    - The gate dates to Nebuchadnezzar's later reign (c. 575), so it was standing during the exile.
+    - The Pergamonmuseum has been closed for long-term renovation; check current display status before stating it.
+  sources_to_check:
+    - Koldewey, Das wieder erstehende Babylon (1913)
+
+- id: etemenanki
+  cultures: [babylonian]
+  scope: >-
+    The ziggurat of Marduk at Babylon, 'House, foundation platform of heaven and
+    earth', adjacent to the Esagil temple. Restored by Esarhaddon and completed by
+    Nabopolassar and Nebuchadnezzar II, it is the most likely historical model for the
+    tower of Babel. Only its foundations survive.
+  passages:
+    - "Gen 11:4 | setting | 'A tower with its top in the heavens' in the land of Shinar"
+    - "Gen 11:3 | realia | Baked brick and bitumen, Mesopotamian building materials"
+    - "Gen 11:9 | language | Babel explained by wordplay on balal 'confuse'; Akkadian Bab-ili 'gate of god'"
+    - "Gen 11:1-9 | polemic | Tower story read as a critique of Babylonian imperial pride"
+    - "Jer 51:53 | imagery | 'Though Babylon should mount up to heaven'"
+  related: [ziggurat, ziggurat-and-babel, babylon, nebuchadnezzar-ii, marduk, cosmic-mountain, ishtar-gate]
+  wikipedia: Etemenanki
+  image: Tower of Babel stele Nebuchadnezzar Etemenanki
+  author_notes:
+    - The Esagil Tablet gives the dimensions (base c. 91 m square, seven stages); Herodotus 1.181-182 describes the tower, perhaps from hearsay.
+    - Nebuchadnezzar's building inscriptions speak of raising its top 'to rival the heavens', a phrase close to Gen 11:4.
+    - The Schøyen 'Tower of Babel stele' shows Nebuchadnezzar beside the ziggurat; mention it and its unprovenanced status.
+    - Gen 11 need not depend on the Neo-Babylonian rebuilding; earlier phases existed, and the story's date is debated.
+  sources_to_check:
+    - George, "The Tower of Babel," AfO 51 (2005/2006)
+    - George, Cuneiform Royal Inscriptions and Related Texts in the Schøyen Collection (CUSAS 17, 2011)
+
+- id: ziggurat
+  cultures: [mesopotamian]
+  scope: >-
+    The stepped temple towers of Mesopotamian cities, built from the late third
+    millennium (as at Ur under Ur-Nammu) to the Neo-Babylonian period. The entry covers
+    their form, function and names, and their role as background for the tower of Babel
+    and for the motif of a stairway linking heaven and earth.
+  passages:
+    - "Gen 11:1-9 | setting | Tower 'with its top in the heavens' built of brick in Shinar"
+    - "Gen 28:12 | imagery? | Jacob's stairway (sullam), compared with the ziggurat ramp (simmiltu)"
+    - "Gen 28:17 | language | 'Gate of heaven'; cf. Babylon's name Bab-ili, 'gate of the god'"
+    - "Ezek 43:13-17 | realia? | Stepped altar with 'bosom of the earth' and 'mountain of God', compared to ziggurat terms"
+    - "Isa 14:13 | imagery | Ascent to the mount of assembly in the far north"
+  related: [ziggurat-and-babel, etemenanki, cosmic-mountain, temple-as-cosmos, ur, babylon]
+  wikipedia: Ziggurat
+  image: Ziggurat of Ur
+  author_notes:
+    - Ziggurats supported a high temple and functioned as visible links between heaven and earth; they were not tombs or observatories. Correct popular misconceptions.
+    - The Jacob's ladder comparison rests on sullam as a ramp or stair; it is widely cited but not certain.
+    - Albright's reading of Ezek 43:13-17 in light of ziggurat terminology (e.g. ḥêq hāʾāreṣ, harʾēl) is influential but debated.
+    - Distinguish the general institution (this entry) from Babylon's Etemenanki and from the interpretive concept ziggurat-and-babel.
+  sources_to_check:
+    - Walton, "The Mesopotamian Background of the Tower of Babel Account and Its Implications," BBR 5 (1995)
+
+- id: babylonian-map-of-the-world
+  aliases: [Imago Mundi]
+  cultures: [babylonian]
+  date: [-700, -500]
+  circa: true
+  scope: >-
+    A small clay tablet, probably from Sippar, bearing a schematic map of the world with
+    Babylon at the centre and the land encircled by a 'bitter river' (marratu), beyond
+    which lie triangular distant regions (nagû). Accompanying text refers to mythical
+    beasts and legendary figures of the remote regions.
+  passages:
+    - "Isa 40:22 | concept | God enthroned above the circle (ḥûg) of the earth"
+    - "Job 26:10 | concept | A circle inscribed on the face of the waters"
+    - "Prov 8:27 | concept | Circle drawn on the face of the deep"
+    - "Ps 24:2 | concept | Earth founded upon the seas"
+    - "Ezek 5:5 | concept | Jerusalem set at the centre of the nations"
+    - "Ezek 38:12 | concept | People dwelling at the navel (ṭabbûr) of the earth"
+  related: [cosmology, waters-above-and-below, pillars-and-foundations-of-the-earth, tehom, table-of-nations, babylon]
+  wikipedia: Babylonian Map of the World
+  image: Babylonian Map of the World British Museum
+  location: British Museum, London
+  author_notes:
+    - The tablet is a Late or Neo-Babylonian copy; its original composition may be somewhat earlier. Give the date as approximate.
+    - It is a cosmographic diagram, not a practical map; the encircling ocean and outer regions are mythical geography (Horowitz).
+    - The biblical 'circle of the earth' is likewise a disk-shaped earth or horizon, not a sphere; avoid apologetic readings.
+    - Placing one's own capital at the centre is a common ANE perspective; compare Ezekiel's Jerusalem.
+  sources_to_check:
+    - Horowitz, Mesopotamian Cosmic Geography (1998)
+
+- id: assyrian-eponym-list
+  aliases: [limmu lists, Eponym Chronicle]
+  cultures: [assyrian]
+  date: [-910, -649]
+  circa: true
+  scope: >-
+    Assyrian lists of the officials (limmu) after whom each year was named, unbroken
+    from 910 to 649 BCE, and the Eponym Chronicle, which adds a note on each year's main
+    event. A solar eclipse recorded in the eponymy of Bur-Saggile (763 BCE) anchors
+    Assyrian and hence Israelite and Judahite absolute chronology.
+  passages:
+    - "2Kgs 16:9 | event | Capture of Damascus; the chronicle notes campaigns 'to Damascus' for 733 and 732"
+    - "2Kgs 15:29 | event | Tiglath-pileser's western campaigns dated by eponym entries (734-732)"
+    - "2Kgs 18:13 | setting | Sennacherib's campaign (701) fixed absolutely by the eponym chronology"
+    - "Amos 8:9 | concept? | Sun going down at noon, sometimes linked to the 763 eclipse"
+    - "Amos 1:1 | setting | Prophet dated by kings and an earthquake, a different dating system"
+  related: [chronology-of-kings, royal-annals-and-historiography, babylonian-chronicles, battle-of-qarqar, tiglath-pileser-iii, assyria]
+  wikipedia: Limmu
+  image: Assyrian eponym list tablet British Museum
+  author_notes:
+    - Explain how the 763 eclipse fixes the list absolutely, and how Qarqar (853) and Jehu's tribute (841) then fix the earliest firm dates in Israelite history.
+    - The eponym lists exist for earlier periods too; the continuous canon covers 910-649, with post-canonical eponyms to 612 less securely ordered.
+    - The Amos 8:9 link to the 763 eclipse is suggestive but unprovable; present it as a proposal.
+    - Biblical regnal synchronisms are internally inconsistent in places; the Assyrian data are the external control.
+  sources_to_check:
+    - Millard, The Eponyms of the Assyrian Empire 910-612 BC (SAAS 2, 1994)
+    - Glassner, Mesopotamian Chronicles (SBLWAW 19, 2004)
+
+- id: weld-blundell-prism
+  aliases: [WB 444]
+  cultures: [sumerian]
+  date: [-1800]
+  circa: true
+  scope: >-
+    An inscribed clay prism of the Old Babylonian period (Isin dynasty) bearing the
+    most complete copy of the Sumerian King List, from the antediluvian kings who
+    reigned for tens of thousands of years through the flood to the dynasty of Isin.
+  passages:
+    - "Gen 5:1-32 | parallel | Antediluvian line of long-lived figures"
+    - "Gen 6:5-9:17 | concept | The flood as the epoch dividing primeval history"
+    - "Gen 11:10-26 | parallel | Post-flood line with sharply shortened lifespans"
+    - "Gen 4:17 | concept | Founding of the first city; cf. kingship descending to Eridu"
+  related: [sumerian-king-list, genealogies, flood-traditions, eridu-genesis, enmeduranki-and-the-apkallu, atrahasis]
+  wikipedia: Weld-Blundell Prism
+  image: Weld-Blundell Prism Ashmolean
+  location: Ashmolean Museum, Oxford
+  author_notes:
+    - Acquired by Herbert Weld Blundell in 1922; unprovenanced, sometimes said to come from Larsa. Usually dated to c. 1800 BCE.
+    - WB 444 lists eight antediluvian kings; another tablet (WB 62) lists ten, closer to Gen 5's ten generations. Do not overstate the numerical parallel.
+    - The antediluvian section may be a secondary addition to the King List; the List itself is a political composition legitimating single kingship.
+    - The comparison concerns structure (long-lived pre-flood figures, flood as divider), not names.
+  sources_to_check:
+    - Jacobsen, The Sumerian King List (AS 11, 1939)
+    - Langdon, The Weld-Blundell Collection II (OECT 2, 1923)
+
+- id: liver-models
+  cultures: [mesopotamian]
+  scope: >-
+    Clay models of sheep livers used to teach and record extispicy, the reading of
+    omens from the entrails of sacrificed animals. Examples come from Old Babylonian
+    Mari and Babylon and from the Levant and Anatolia, including Hazor, Megiddo and Ugarit.
+  passages:
+    - "Ezek 21:21 | practice | The king of Babylon 'inspects the liver' at the fork in the road (MT 21:26)"
+    - "Deut 18:10-14 | polemic | Prohibition of divination and soothsaying"
+    - "Lev 3:4, 10, 15 | practice? | The 'appendage of the liver' burned; sometimes read as anti-divinatory"
+    - "2Kgs 16:15 | practice? | Ahaz's altar 'for me to inquire by', possibly extispicy"
+    - "Num 24:1 | practice | Balaam no longer seeks omens"
+  related: [extispicy, divination, mari, hazor, megiddo, mari-letters, teraphim]
+  wikipedia: Hepatoscopy
+  image: Babylonian clay liver model British Museum
+  author_notes:
+    - The Late Bronze Age models from Hazor and Megiddo show that Mesopotamian extispicy was practised in Canaan; the Hazor examples bear Akkadian inscriptions.
+    - Ezek 21:21 is the only explicit biblical reference to hepatoscopy and attributes it to a Babylonian.
+    - The reading of the Levitical removal of the liver's 'appendage' as anti-divinatory is a proposal, not consensus.
+    - The Etruscan bronze liver of Piacenza is a much later parallel; mention only briefly.
+  sources_to_check:
+    - Meyer, Untersuchungen zu den Tonlebermodellen aus dem Alten Orient (AOAT 39, 1987)
+
+- id: cylinder-seals
+  cultures: [mesopotamian]
+  scope: >-
+    Small engraved stone cylinders rolled onto clay to mark ownership and
+    authentication, used in Mesopotamia from the late fourth millennium to the
+    Achaemenid period and widely elsewhere. The entry covers their function and their
+    value as iconographic evidence; Levantine stamp seals and bullae are treated elsewhere.
+  passages:
+    - "Job 38:14 | imagery | The earth 'changed like clay under the seal', probably a rolled seal impression"
+    - "Gen 38:18, 25 | realia | Judah's seal and cord, worn on the person"
+    - "Song 8:6 | imagery | 'Set me as a seal upon your heart, as a seal upon your arm'"
+    - "Jer 32:10-14 | practice | Sealed and open copies of a land deed"
+    - "Exod 28:11, 21, 36 | realia | Engraving 'like the engravings of a signet'"
+    - "Esth 8:8, 10 | practice | Royal decrees sealed with the king's ring"
+  related: [seals-and-bullae, sealed-deeds, writing-materials, scribes-and-scribal-education, persepolis-fortification-tablets]
+  wikipedia: Cylinder seal
+  image: Cylinder seal and impression Louvre
+  author_notes:
+    - In Iron Age Israel and Judah stamp seals were the norm; cylinder seals occur in the Levant mainly in the Bronze Age and as imports. Do not assume biblical seals were cylinders.
+    - The seal 'with cord' (Gen 38:18) could be either type worn on a string; the term ḥōtām is generic.
+    - Seal iconography is a key source for the history of religion (Keel and Uehlinger); give examples such as presentation scenes and contest scenes.
+  sources_to_check:
+    - "Collon, First Impressions: Cylinder Seals in the Ancient Near East (1987)"
+    - Keel and Uehlinger, Gods, Goddesses, and Images of God in Ancient Israel (1998)
+
+- id: lamashtu-pazuzu-amulets
+  cultures: [mesopotamian]
+  scope: >-
+    Apotropaic bronze and stone plaques and pendants of the first millennium BCE
+    showing the demoness Lamashtu, who attacked pregnant women and infants, often
+    driven off by the wind demon Pazuzu, whose head served as a protective amulet.
+  passages:
+    - "Ps 91:5-6 | concept | Terror by night, arrow by day, pestilence in darkness, destruction at noon"
+    - "Isa 34:14 | concept | Lilith (lîlît) among desert creatures; cf. Mesopotamian lilitu demons"
+    - "Ps 121:6 | concept | Protection from being struck by sun or moon"
+    - "Isa 3:20 | realia | Amulets (laḥăšîm) among the finery of Jerusalem's women"
+  related: [demons, lilith, amulets, apotropaic-doorposts-and-thresholds, ketef-hinnom-amulets, resheph, burney-relief]
+  wikipedia: Lamashtu
+  image: Lamashtu amulet plaque Louvre
+  author_notes:
+    - Lamashtu is distinct from Lilith; the later Jewish Lilith absorbed child-killing traits similar to Lamashtu's, but they should not be equated for the biblical period.
+    - Pazuzu was itself a dangerous demon whose image protected against Lamashtu, an example of fighting demon with demon.
+    - The closest Iron Age Levantine parallel is the Arslan Tash plaques (7th century), whose authenticity has been debated.
+    - Ps 91 is often compared with apotropaic texts; the demonic reading of deber and qeṭeb is mainstream but the psalm is not an incantation.
+  sources_to_check:
+    - Farber, Lamaštu (2014)
+    - Heeßel, Pazuzu (2002)
+
+- id: burney-relief
+  aliases: [Queen of the Night relief]
+  cultures: [babylonian]
+  date: [-1800, -1750]
+  circa: true
+  scope: >-
+    A fired clay plaque of the Old Babylonian period showing a nude winged goddess with
+    bird's talons, standing on two lions flanked by owls and holding rod-and-ring
+    symbols. Its identification (Ishtar, Ereshkigal, or a lilitu demon) is debated.
+  passages:
+    - "Isa 34:14 | concept? | Lîlît; Frankfort's identification of the figure with Lilith is now rarely accepted"
+    - "Jer 44:17-19 | concept? | Queen of Heaven, if the figure is Ishtar"
+  related: [ishtar, lilith, queen-of-heaven, lamashtu-pazuzu-amulets, sheol-and-the-netherworld, forgeries-in-biblical-archaeology]
+  wikipedia: Burney Relief
+  image: Burney Relief Queen of the Night British Museum
+  location: British Museum, London
+  author_notes:
+    - Unprovenanced; it appeared on the market in the 1920s, and its authenticity was questioned before it was accepted. The British Museum acquired it in 2003.
+    - The Lilith identification derives from Frankfort (1937) reading of Isa 34:14 and later Jewish lore; most scholars now favour Ishtar/Inanna or Ereshkigal.
+    - The biblical connections are weak; this entry is mainly useful for correcting popular claims that it depicts 'Lilith'.
+  sources_to_check:
+    - Collon, The Queen of the Night (2005)
+
+- id: gudea
+  cultures: [sumerian]
+  date: [-2140, -2120]
+  circa: true
+  scope: >-
+    Ruler (ensi) of the city-state of Lagash in the Neo-Sumerian period, known from his
+    statues, cylinders and many building inscriptions. He presents himself as the
+    humble shepherd chosen by Ningirsu and as the builder of the Eninnu temple.
+  passages:
+    - "1Kgs 5:1-5 | concept | Ruler commissioned to build the deity's house (MT 5:15-19)"
+    - "2Sam 7:12-13 | concept | Divinely chosen ruler to build a house for the deity"
+    - "1Kgs 3:4-15 | practice | Royal revelatory dream at a sanctuary"
+    - "Ezek 34:23-24 | imagery | Ruler as shepherd appointed by the deity"
+    - "1Sam 13:14 | concept | Ruler chosen as one 'after his own heart'"
+  related: [statue-of-gudea, gudea-cylinders, shepherd-kingship, temple-building-accounts, royal-ideology, dream-incubation]
+  wikipedia: Gudea
+  image: Gudea statue Louvre
+  author_notes:
+    - Chronology varies widely (often c. 2140-2120 under the middle chronology; some place him slightly later, overlapping Ur-Nammu). State the uncertainty.
+    - Gudea never claimed kingship (lugal); he was ensi under Ningirsu, the city's true king.
+    - His image as a pious, humble builder is shaped by his own inscriptions; distinguish self-presentation from history.
+  sources_to_check:
+    - RIME 3/1 (Edzard 1997)
+
+- id: hammurabi
+  cultures: [akkadian]
+  date: [-1792, -1750]
+  scope: >-
+    The sixth king of the First Dynasty of Babylon (middle chronology), who unified
+    southern Mesopotamia and issued the best-known ancient Near Eastern law collection.
+    He presented himself as shepherd and just king appointed to protect the weak.
+  passages:
+    - "Ps 72:1-4, 12-14 | concept | King as guarantor of justice for the poor and oppressed"
+    - "Exod 21:1-23:19 | parallel | Covenant Code casuistic laws parallel to Hammurabi's laws"
+    - "1Kgs 3:9, 28 | concept | Royal wisdom to execute justice"
+    - "Deut 4:5-8 | polemic | 'What other great nation has statutes as just as this?'"
+    - "Exod 24:12 | concept | Law given by God, in contrast to laws authored by the king under Shamash"
+  related: [code-of-hammurabi, babylon, mari-letters, shepherd-kingship, ane-law-collections, widow-orphan-sojourner, shamash]
+  wikipedia: Hammurabi
+  image: Code of Hammurabi stele Louvre top relief
+  author_notes:
+    - The old identification of Hammurabi with Amraphel of Gen 14:1 is philologically and chronologically untenable and has been abandoned; mention it only as a historical misconception.
+    - Dates follow the middle chronology (1792-1750); note that low or ultra-low chronologies would lower them.
+    - The Mari archives illuminate his diplomacy and wars; use them alongside his own inscriptions and letters.
+    - In the stele's relief Hammurabi stands before Shamash; the god commissions justice but the king is the lawgiver, a contrast with the Torah's divine authorship.
+  sources_to_check:
+    - Van De Mieroop, King Hammurabi of Babylon (2005)
+    - Roth, Law Collections from Mesopotamia and Asia Minor (SBLWAW 6, 1995)
+    - COS 2.131
+
+- id: sargon-of-akkad
+  cultures: [akkadian]
+  date: [-2334, -2279]
+  circa: true
+  scope: >-
+    Founder of the dynasty of Akkad and of the first territorial empire in Mesopotamia.
+    He became the archetypal great king of later tradition, including a first-millennium
+    birth legend of his exposure in a basket on the river.
+  passages:
+    - "Exod 2:1-10 | parallel | Infant placed in a pitch-sealed basket on the river and raised to greatness"
+    - "Gen 10:10 | attests | Accad among the cities of Nimrod's kingdom in Shinar"
+    - "Gen 10:8-12 | parallel? | Nimrod as first mighty empire builder; Sargon proposed among the models"
+  related: [legend-of-sargon, nimrod, victory-stele-of-naram-sin, royal-ideology, babylonia]
+  wikipedia: Sargon of Akkad
+  image: Akkadian bronze head Nineveh Sargon
+  author_notes:
+    - Dates follow the middle chronology and are approximate; his capital Akkad has not been located.
+    - The birth legend survives in Neo-Assyrian copies and may reflect Sargon II's era; present the Exodus comparison as a shared exposure-legend motif rather than direct borrowing.
+    - The bronze head from Nineveh is often called 'Sargon' but may represent Naram-Sin; say so in captions.
+    - Nimrod has also been linked to Tukulti-Ninurta I or the god Ninurta; no identification is secure.
+  sources_to_check:
+    - Westenholz, Legends of the Kings of Akkade (1997)
+    - Lewis, The Sargon Legend (1980)
+    - RIME 2 (Frayne 1993)
+
+- id: shalmaneser-iii
+  cultures: [assyrian]
+  date: [-858, -824]
+  scope: >-
+    King of Assyria whose repeated western campaigns brought the Assyrian army into
+    conflict with a Levantine coalition including Ahab at Qarqar (853) and later
+    received tribute from Jehu (841). He is not named in the Bible.
+  passages:
+    - "1Kgs 16:29-34 | attests | Ahab, named in Shalmaneser's account of Qarqar"
+    - "1Kgs 22:1 | setting | Peace between Aram and Israel during the anti-Assyrian coalition"
+    - "2Kgs 8:7-15 | attests | Hazael's usurpation; Assyrian text calls him 'son of a nobody'"
+    - "2Kgs 9:1-10:36 | attests | Jehu, who paid tribute to Shalmaneser in 841"
+    - "2Kgs 10:32-33 | setting | Hazael's expansion after Assyrian pressure on Damascus eased"
+  related: [black-obelisk, kurkh-monoliths, battle-of-qarqar, ahab, jehu, hazael, nimrud, assyria]
+  wikipedia: Shalmaneser III
+  image: Shalmaneser III statue Nimrud
+  author_notes:
+    - Shalmaneser's inscriptions give the first firm absolute dates for Israelite history (853 and 841).
+    - The Assur statue's notice that Hazael, 'son of a nobody', seized the throne after Hadadezer's death fits 2 Kgs 8:7-15 in outline.
+    - His later years were overshadowed by a major revolt led by his son, after which Assyrian pressure on the west lapsed for decades.
+  sources_to_check:
+    - RIMA 3 (Grayson 1996)
+    - Yamada, The Construction of the Assyrian Empire (2000)
+    - COS 2.113
+
+- id: tiglath-pileser-iii
+  aliases: [Pul, Pulu, Tilgath-pilneser]
+  cultures: [assyrian]
+  date: [-745, -727]
+  scope: >-
+    King of Assyria who reorganised the empire, made the Levant into provinces and
+    vassal states, and intervened in the Syro-Ephraimite war. He appears in the Bible
+    both as Tiglath-pileser (Tilgath-pilneser) and by his Babylonian throne name Pul.
+  passages:
+    - "2Kgs 15:19-20 | attests | Pul receives Menahem's tribute"
+    - "2Kgs 15:29 | event | Captures northern Israelite territory and deports its people"
+    - "2Kgs 16:7-10 | event | Ahaz's appeal; capture of Damascus; Ahaz meets him at Damascus"
+    - "1Chr 5:6, 26 | event | Deportation of Reubenites and Transjordanian tribes"
+    - "2Chr 28:16-21 | event | Chronicler's version of Ahaz's appeal to Tilgath-pilneser"
+    - "Isa 7:17-20 | setting | Assyria as the 'razor hired beyond the River'"
+  related: [tiglath-pileser-iii-inscriptions, menahem, pekah, hoshea, ahaz, rezin, deportation, assyria]
+  wikipedia: Tiglath-Pileser III
+  image: Tiglath-Pileser III relief British Museum
+  author_notes:
+    - 'The identity of Pul and Tiglath-pileser is established by Babylonian King List A and the Ptolemaic Canon (Poros); 1 Chr 5:26 appears to treat them as two kings.'
+    - His reforms (provincial system, standing army, mass two-way deportation) shaped Assyrian rule for a century; explain why this matters for Israel's fate.
+    - Hoshea's accession is claimed by Tiglath-pileser; the Bible attributes it to conspiracy (2 Kgs 15:30). Both can be true.
+  sources_to_check:
+    - RINAP 1 (Tadmor and Yamada 2011)
+    - ABC 1
+
+- id: shalmaneser-v
+  cultures: [assyrian]
+  date: [-727, -722]
+  scope: >-
+    Son and successor of Tiglath-pileser III, king of Assyria for five years. The Bible
+    credits him with imprisoning Hoshea and besieging Samaria for three years; few of
+    his own inscriptions survive.
+  passages:
+    - "2Kgs 17:3-6 | event | Hoshea's tribute, rebellion and imprisonment; siege of Samaria"
+    - "2Kgs 18:9-11 | event | Siege begun in Hezekiah's fourth year, Samaria taken after three years"
+    - "Hos 10:14 | attests? | 'As Shalman destroyed Beth-arbel'; identification with Shalmaneser V uncertain"
+  related: [fall-of-samaria, hoshea, sargon-ii, tiglath-pileser-iii, samaria, babylonian-chronicles]
+  wikipedia: Shalmaneser V
+  image: Shalmaneser V lion weight British Museum
+  author_notes:
+    - The Babylonian Chronicle says he 'ravaged Šamaraʾin'; most read this as Samaria, though a minority favour another town (cf. Sibraim).
+    - Menander (via Josephus, Ant. 9.283-287) records a siege of Tyre by Shalmaneser, probably this king.
+    - Bronze lion weights inscribed with his name are among his few surviving objects.
+    - The Shalman of Hos 10:14 may be a Moabite king (Salamanu) instead; present both options.
+  sources_to_check:
+    - RINAP 1 (Tadmor and Yamada 2011)
+    - ABC 1
+
+- id: sargon-ii
+  cultures: [assyrian]
+  date: [-722, -705]
+  scope: >-
+    King of Assyria, probably a usurper, who claimed the conquest of Samaria, crushed
+    western revolts at Qarqar (720) and Ashdod (712/711), built Dur-Sharrukin
+    (Khorsabad), and died in battle in Anatolia. He is named in the Bible only at Isa 20:1.
+  passages:
+    - "Isa 20:1 | attests | Sargon sends his commander (tartan) against Ashdod"
+    - "2Kgs 17:6, 24 | event | Capture and resettlement of Samaria, claimed by Sargon"
+    - "2Kgs 18:10-11 | event | Fall of Samaria and deportation"
+    - "Isa 10:9-11 | event | Hamath, Arpad and Samaria among Assyria's conquests"
+    - "Isa 14:18-20 | event? | The king denied burial, often linked to Sargon's death in battle in 705"
+  related: [sargon-ii-inscriptions, fall-of-samaria, ashdod, samaria, shalmaneser-v, sennacherib, merodach-baladan]
+  wikipedia: Sargon II
+  image: Sargon II relief Khorsabad Louvre
+  author_notes:
+    - Sargon II was virtually unknown outside Isa 20:1 until Botta excavated Khorsabad in 1843-1844; this is a classic case study in the history of biblical archaeology.
+    - Present the debate over who took Samaria (Shalmaneser V in 722 vs Sargon in 720) neutrally.
+    - Sargon's death in battle, with his body lost and unburied, caused theological anxiety in Assyria (the 'Sin of Sargon' text); the Isa 14 link (Ginsberg) is debated.
+  sources_to_check:
+    - RINAP 2 (Frame 2021)
+    - Fuchs, Die Inschriften Sargons II. aus Khorsabad (1994)
+
+- id: sennacherib
+  cultures: [assyrian]
+  date: [-705, -681]
+  scope: >-
+    King of Assyria, son of Sargon II, who campaigned against Judah in 701, destroyed
+    Babylon in 689, rebuilt Nineveh as his capital, and was murdered by one or more of
+    his sons in 681.
+  passages:
+    - "2Kgs 18:13-19:37 | event | Invasion of Judah, siege of Jerusalem, withdrawal"
+    - "Isa 36-37 | event | Parallel account of the 701 crisis"
+    - "2Chr 32:1-23 | event | Chronicler's account of the invasion"
+    - "2Kgs 19:23-24 | imagery | Boast of crossing mountains, felling cedars and drying up rivers"
+    - "2Kgs 18:33-35 | parallel | Rabshakeh's rhetoric echoes Assyrian royal ideology"
+    - "2Kgs 19:37 | event | Murder by his sons Adrammelech and Sharezer"
+  related: [sennacherib-annals, sennacherib-campaign-701, lachish-reliefs, hezekiah, nineveh, esarhaddon, babylonian-chronicles]
+  wikipedia: Sennacherib
+  image: Sennacherib relief Lachish British Museum
+  author_notes:
+    - Machinist's study of Assyrian royal language in First Isaiah is the standard starting point for the boasts in 2 Kgs 19:23-24 and Isa 10.
+    - The Babylonian Chronicle dates the murder to 681 and attributes it to 'his son'; the biblical account compresses the interval between 701 and 681.
+    - Herodotus 2.141 (mice gnawing bowstrings) is a separate Egyptian tradition sometimes linked to 2 Kgs 19:35; note it without harmonising.
+  sources_to_check:
+    - RINAP 3/1-2 (Grayson and Novotny 2012-2014)
+    - Machinist, "Assyria and Its Image in the First Isaiah," JAOS 103 (1983)
+    - ABC 1
+
+- id: esarhaddon
+  cultures: [assyrian]
+  date: [-681, -669]
+  scope: >-
+    King of Assyria, younger son and chosen successor of Sennacherib, who won the throne
+    after his father's murder, rebuilt Babylon, conquered Egypt (671), and imposed a
+    succession oath on his vassals. Manasseh of Judah was among his vassals.
+  passages:
+    - "2Kgs 19:37 | attests | Esarhaddon succeeds Sennacherib"
+    - "Ezra 4:2 | attests | Settlers in Samaria brought by Esarhaddon"
+    - "2Kgs 21:1-18 | setting | Manasseh's long reign as an Assyrian vassal"
+    - "Deut 28:23 | parallel | Sky of bronze and earth of iron; close parallel in his succession treaty"
+    - "2Kgs 19:28 | imagery | Hook in the nose; cf. captives led by cords on his Zincirli stele"
+    - "Isa 19:4 | event? | Egypt given to 'a hard master', sometimes linked to his conquest"
+  related: [esarhaddon-prisms, esarhaddon-succession-treaty, neo-assyrian-prophecies, manasseh, sennacherib, taharqa, ashurbanipal]
+  wikipedia: Esarhaddon
+  image: Esarhaddon victory stele Zincirli Berlin
+  author_notes:
+    - His reign is unusually well documented by letters, oracle queries, and prophecies (SAA 4, 9, 10), useful for comparison with biblical prophecy and divination.
+    - The succession treaty of 672 (found also at Tell Tayinat) is central to the debate on Deuteronomy's dependence on Assyrian treaty forms.
+    - The settlement of foreigners in Samaria under Esarhaddon (Ezra 4:2) is otherwise unattested but plausible.
+  sources_to_check:
+    - RINAP 4 (Leichty 2011)
+    - SAA 2 (Parpola and Watanabe 1988)
+    - ABC 1
+
+- id: ashurbanipal
+  aliases: [Osnappar, Asnappar]
+  cultures: [assyrian]
+  date: [-669, -631]
+  circa: true
+  scope: >-
+    The last great king of Assyria, son of Esarhaddon, who sacked Thebes, defeated his
+    brother Shamash-shum-ukin of Babylon and destroyed Susa. He is usually identified
+    with Osnappar of Ezra 4:10 and is known for his library and palace reliefs at Nineveh.
+  passages:
+    - "Ezra 4:9-10 | attests | 'The great and noble Osnappar' deported peoples including Susians and Elamites"
+    - "Nah 3:8-10 | event | Sack of Thebes (663) as a warning to Nineveh"
+    - "2Kgs 21:1 | setting | Manasseh among his western vassals"
+    - "2Chr 33:10-13 | setting? | Manasseh taken to Babylon; possibly linked to the Babylonian revolt (652-648)"
+  related: [rassam-cylinder, library-of-ashurbanipal, lion-hunt-of-ashurbanipal, nineveh, thebes, susa, manasseh, esarhaddon]
+  wikipedia: Ashurbanipal
+  image: Ashurbanipal relief British Museum
+  author_notes:
+    - The end of his reign is uncertain (631 or 627); explain why the last years are poorly documented.
+    - The Osnappar identification is the consensus view but rests on the name's corruption and the deportation context.
+    - Ashurbanipal claimed scribal learning; do not overstate his personal literacy, but his inscriptions are unusual in claiming it.
+    - Manasseh's captivity in Chronicles has no Assyrian confirmation and is often seen as theologically motivated; present it as debated.
+  sources_to_check:
+    - RINAP 5/1 (Novotny and Jeffers 2018)
+    - Frame, Babylonia 689-627 B.C. (1992)
+
+- id: merodach-baladan
+  aliases: [Marduk-apla-iddina II, Berodach-baladan]
+  cultures: [babylonian]
+  date: [-722, -703]
+  scope: >-
+    Chaldean chieftain of Bit-Yakin who ruled Babylon in defiance of Assyria from 722 to
+    710 and again briefly in 703. His embassy to Hezekiah is narrated in Kings and Isaiah.
+  passages:
+    - "2Kgs 20:12-19 | event | Babylonian envoys visit Hezekiah, who shows them his treasures"
+    - "Isa 39:1-8 | event | Parallel account; Isaiah predicts exile to Babylon"
+    - "2Chr 32:31 | event | Envoys of Babylon's officials inquire about the sign"
+  related: [hezekiah, sargon-ii, sennacherib, babylonia, kudurru, sennacherib-campaign-701]
+  wikipedia: Marduk-apla-iddina II
+  image: Kudurru of Marduk-apla-iddina II Berlin
+  author_notes:
+    - Reigned 722-710, expelled by Sargon II, and returned for about nine months in 703 before Sennacherib drove him out; the embassy likely aimed to build an anti-Assyrian coalition before 701 (or c. 714-711).
+    - 2 Kgs 20:12 reads Berodach-baladan; Isa 39:1 has Merodach-baladan, closer to the Akkadian.
+    - Isaiah's prophecy of Babylonian exile is widely regarded as shaped by later events.
+  sources_to_check:
+    - Brinkman, "Merodach-Baladan II," in Studies Presented to A. Leo Oppenheim (1964)
+    - ABC 1
+
+- id: nebuchadnezzar-ii
+  aliases: [Nebuchadrezzar, Nabû-kudurri-uṣur II]
+  cultures: [babylonian]
+  date: [-605, -562]
+  scope: >-
+    The second and greatest king of the Neo-Babylonian dynasty, victor at Carchemish,
+    conqueror of Jerusalem in 597 and 587/586, and rebuilder of Babylon. He is the
+    dominant foreign king in Kings, Jeremiah, Ezekiel and Daniel.
+  passages:
+    - "2Kgs 24:1-17 | event | Jehoiakim's submission and revolt; capture of Jerusalem in 597"
+    - "2Kgs 25:1-21 | event | Siege and destruction of Jerusalem in 587/586"
+    - "Jer 46:2 | event | Victory over Necho at Carchemish in Jehoiakim's fourth year"
+    - "Jer 27:6 | concept | 'Nebuchadnezzar my servant' as YHWH's instrument"
+    - "Ezek 26:7-14 | event | Prophesied siege of Tyre"
+    - "Ezek 29:17-20 | event | Egypt given as wages for the fruitless siege of Tyre"
+    - "Dan 4:28-33 | parallel? | Boast and madness; widely thought to be transferred from Nabonidus (MT 4:25-30)"
+    - "Dan 1:1-2 | setting | Exile of Judean youths; date problem of Jehoiakim's third year"
+  related: [nebuchadnezzar-chronicle, east-india-house-inscription, battle-of-carchemish, fall-of-jerusalem-587, ishtar-gate, babylon, jehoiachin, babylonian-exile]
+  wikipedia: Nebuchadnezzar II
+  image: Nebuchadnezzar II Tower of Babel stele
+  author_notes:
+    - The form Nebuchadrezzar (Jeremiah, Ezekiel) is closer to Akkadian Nabû-kudurri-uṣur; Nebuchadnezzar is a dissimilated form.
+    - His inscriptions are almost all building texts; military history comes mainly from the Babylonian Chronicles, which break off after 594.
+    - Daniel's portrayal draws on Nabonidus traditions (4Q242) and is historically problematic; distinguish the literary figure from the historical king.
+    - The 13-year siege of Tyre is reported by Josephus (citing Phoenician records); Ezekiel acknowledges its limited success.
+  sources_to_check:
+    - ABC 5
+    - Wiseman, Nebuchadrezzar and Babylon (1985)
+    - Langdon, Die neubabylonischen Königsinschriften (VAB 4, 1912)
+
+- id: amel-marduk
+  aliases: [Evil-merodach]
+  cultures: [babylonian]
+  date: [-562, -560]
+  scope: >-
+    Son and successor of Nebuchadnezzar II who reigned two years before being murdered
+    by Neriglissar. In his accession year he released the exiled Judahite king
+    Jehoiachin from prison.
+  passages:
+    - "2Kgs 25:27-30 | event | Release of Jehoiachin and his place at the king's table"
+    - "Jer 52:31-34 | event | Parallel account of Jehoiachin's release"
+    - "Jer 39:3, 13 | attests? | Nergal-sharezer, often identified with Neriglissar, his murderer and successor"
+  related: [jehoiachin, jehoiachin-ration-tablets, nebuchadnezzar-ii, babylonian-exile, babylonia]
+  wikipedia: Amel-Marduk
+  image: null
+  author_notes:
+    - The Hebrew Evil-merodach is a deformation of Amel-Marduk ('man of Marduk'), possibly a deliberate pun ('fool').
+    - Berossus (via Josephus) describes him as lawless; the Babylonian sources are sparse.
+    - The Jehoiachin ration tablets from Nebuchadnezzar's reign show the king already receiving rations before his formal release.
+    - Identification of the biblical Nergal-sharezer with the later king Neriglissar is plausible but not certain.
+  sources_to_check:
+    - Sack, Amel-Marduk 562-560 B.C. (AOAT 4, 1972)
+
+- id: nabonidus
+  cultures: [babylonian]
+  date: [-556, -539]
+  scope: >-
+    The last king of the Neo-Babylonian empire, devotee of the moon god Sin, who spent
+    about ten years at Tayma in Arabia while his son Belshazzar governed Babylon.
+    Traditions about him underlie parts of Daniel.
+  passages:
+    - "Dan 4:28-37 | parallel? | Royal madness and seven 'times' away from society; cf. Nabonidus at Tayma (MT 4:25-34)"
+    - "Dan 5:2, 11, 18 | attests? | Belshazzar called son of Nebuchadnezzar, though historically son of Nabonidus"
+    - "Dan 5:7, 16, 29 | setting | 'Third ruler in the kingdom', perhaps reflecting Belshazzar's secondary rank"
+    - "Bar 1:11-12 | attests | Belshazzar named as son of Nebuchadnezzar"
+    - "Isa 46:1-2 | setting | Babylonian gods carried off at the fall of Babylon"
+  related: [belshazzar, prayer-of-nabonidus, nabonidus-chronicle, verse-account-of-nabonidus, nabonidus-cylinders, cyrus-cylinder, sin-moon-god, harran]
+  wikipedia: Nabonidus
+  image: Nabonidus stele British Museum
+  author_notes:
+    - The Prayer of Nabonidus (4Q242) describes a king afflicted for seven years at Tayma and healed by a Jewish diviner; it is the main evidence that Dan 4 draws on Nabonidus traditions.
+    - Cyrus's propaganda (Cyrus Cylinder, Verse Account) portrays him as impious; treat it as hostile.
+    - His mother Adad-guppi's autobiography from Harran illuminates his devotion to Sin.
+  sources_to_check:
+    - Beaulieu, The Reign of Nabonidus, King of Babylon 556-539 B.C. (YNER 10, 1989)
+    - Schaudig, Die Inschriften Nabonids von Babylon und Kyros' des Großen (AOAT 256, 2001)
+    - ABC 7
+
+- id: belshazzar
+  cultures: [babylonian]
+  date: [-553, -543]
+  circa: true
+  scope: >-
+    Crown prince of Babylon, son of Nabonidus, entrusted with royal authority in
+    Babylon during his father's stay at Tayma. In Daniel he is the king whose feast is
+    interrupted by the writing on the wall on the night Babylon falls.
+  passages:
+    - "Dan 5:1-30 | attests | Belshazzar's feast and the writing on the wall"
+    - "Dan 7:1 | attests | Vision dated to Belshazzar's first year"
+    - "Dan 8:1 | attests | Vision dated to Belshazzar's third year"
+    - "Dan 5:7, 16, 29 | setting | 'Third ruler in the kingdom', perhaps reflecting the co-regency"
+    - "Bar 1:11-12 | attests | Prayer for Nebuchadnezzar and Belshazzar his son"
+  related: [nabonidus, nabonidus-chronicle, verse-account-of-nabonidus, nabonidus-cylinders, fall-of-babylon-539, darius-the-mede]
+  wikipedia: Belshazzar
+  image: Nabonidus cylinder Belshazzar British Museum
+  author_notes:
+    - Cuneiform sources call him 'son of the king' (crown prince), never king; the Verse Account says Nabonidus 'entrusted the kingship' to him. Daniel's 'king' is an approximation.
+    - Before cuneiform evidence was published, critics doubted his existence; the discovery is often overstated in apologetic literature as proving Daniel's accuracy.
+    - Nebuchadnezzar as his 'father' (Dan 5) is historically inaccurate; it may be literary or a loose use of 'father'.
+    - Nothing in Babylonian sources records his death on the night of Babylon's fall.
+  sources_to_check:
+    - Beaulieu, The Reign of Nabonidus (YNER 10, 1989)
+    - ABC 7
+
+- id: battle-of-qarqar
+  cultures: [assyrian, israelite, aramean]
+  date: [-853]
+  scope: >-
+    The battle fought in 853 BCE at Qarqar on the Orontes between Shalmaneser III and a
+    coalition of twelve western states led by Damascus and Hamath, in which Ahab of
+    Israel fielded the largest chariot force. The Bible does not mention it.
+  passages:
+    - "1Kgs 22:1 | setting | Three years without war between Aram and Israel"
+    - "1Kgs 20:31-34 | setting | Treaty between Ahab and Ben-hadad"
+    - "1Kgs 16:29 | attests | Ahab, king of Israel, dated by the battle"
+    - "1Kgs 22:39 | setting | Kings refers readers elsewhere for Ahab's deeds; silence about Qarqar"
+  related: [kurkh-monoliths, shalmaneser-iii, ahab, ben-hadad, hamath, chariots-and-horses, chronology-of-kings]
+  wikipedia: Battle of Qarqar
+  image: Kurkh Monolith Shalmaneser III British Museum
+  author_notes:
+    - Shalmaneser claims a great victory, but the coalition held together and he fought it again in 849, 848 and 845; most historians judge the outcome indecisive.
+    - The Kurkh numbers for Ahab's forces are disputed; present the scribal-error proposal and its critics.
+    - The battle provides the first absolute date in Israelite history and anchors the chronology of the Omride kings.
+    - The relationship of Ahab's coalition partner Hadadezer to the Ben-hadad of 1 Kgs 20 and 22 is a key debate.
+  sources_to_check:
+    - COS 2.113A
+    - Yamada, The Construction of the Assyrian Empire (2000)
+
+- id: fall-of-samaria
+  cultures: [assyrian, israelite]
+  date: [-722, -720]
+  scope: >-
+    The Assyrian conquest of Samaria, capital of the northern kingdom, after a siege
+    begun under Shalmaneser V, followed by deportation of its population and
+    resettlement by Sargon II. The end of the kingdom of Israel.
+  passages:
+    - "2Kgs 17:1-6 | event | Hoshea's revolt, siege of Samaria and deportation"
+    - "2Kgs 18:9-12 | event | Siege and capture in Hezekiah's fourth to sixth years"
+    - "2Kgs 17:24-41 | event | Resettlement of Samaria with foreign deportees"
+    - "2Kgs 17:7-23 | concept | Deuteronomistic theological explanation of the fall"
+    - "Isa 28:1-4 | setting | Oracle against the 'proud garland' of Ephraim's drunkards"
+    - "Mic 1:6-7 | setting | Samaria to become a heap of ruins"
+    - "Hos 13:16 | setting | Samaria shall bear her guilt (MT 14:1)"
+    - "Isa 10:9-11 | event | Samaria among Assyria's conquests"
+  related: [shalmaneser-v, sargon-ii, sargon-ii-inscriptions, hoshea, samaria, deportation, samaritan-origins, babylonian-chronicles]
+  wikipedia: null
+  image: Sargon II Khorsabad relief
+  author_notes:
+    - Present the two main reconstructions; Tadmor's two-stage model (capture by Shalmaneser in 722, then Sargon's reconquest and deportations in 720) is widely followed.
+    - Sargon's claim of 27,280/27,290 deportees and his statement that he 'repopulated' Samaria underlie 2 Kgs 17:24.
+    - Archaeology suggests continuity at Samaria and in the countryside alongside deportation; the 'ten lost tribes' image overstates depopulation.
+    - Assyrian sources document Samarians in Assyria (chariot units, Gozan, Halah), consistent with 2 Kgs 17:6.
+  sources_to_check:
+    - Becking, The Fall of Samaria (1992)
+    - Tadmor, "The Campaigns of Sargon II of Assur," JCS 12 (1958)
+    - ABC 1
+
+- id: sennacherib-campaign-701
+  cultures: [assyrian, judahite]
+  date: [-701]
+  scope: >-
+    Sennacherib's third campaign to the west in 701 BCE against a rebel coalition
+    including Hezekiah of Judah, Sidon, Ashkelon, Ekron, and Egyptian and Kushite
+    forces. It devastated Judah and took Lachish, but Jerusalem was not captured and
+    Hezekiah paid a heavy tribute.
+  passages:
+    - "2Kgs 18:13-16 | event | Fortified cities taken; Hezekiah's tribute"
+    - "2Kgs 18:17-19:37 | event | Rabshakeh at Jerusalem and the city's deliverance"
+    - "Isa 36-37 | event | Parallel account"
+    - "2Chr 32:1-23 | event | Hezekiah's preparations and the Chronicler's account"
+    - "Isa 22:8-11 | setting | Defensive works and water supply of Jerusalem"
+    - "2Chr 32:2-5, 30 | setting | Stopping springs, building walls; Hezekiah's water tunnel"
+    - "Mic 1:10-16 | setting | Lament over the towns of the Shephelah"
+    - "Isa 1:7-9 | setting | Desolate land; Zion left like a booth"
+  related: [sennacherib, sennacherib-annals, lachish-reliefs, hezekiah, lachish, hezekiahs-tunnel, lmlk-seal-impressions, taharqa]
+  wikipedia: Sennacherib's campaign in the Levant
+  image: Lachish reliefs British Museum
+  author_notes:
+    - The convergence of the Assyrian annals, the Lachish reliefs, the Lachish Level III destruction and 2 Kgs 18:13-16 is one of the best-documented events of the biblical period.
+    - The deliverance narrative (2 Kgs 18:17-19:37) is usually analysed as two parallel accounts (B1, B2); the plague of 2 Kgs 19:35 has no Assyrian equivalent, and Herodotus 2.141 has a separate Egyptian tale.
+    - Tirhakah (Taharqa) was not yet king in 701 (2 Kgs 19:9); he may have commanded as a prince, or the title is anachronistic.
+    - The lmlk jars are widely tied to Hezekiah's preparations; note this as consensus but with debates over dating.
+  sources_to_check:
+    - RINAP 3/1 (Grayson and Novotny 2012)
+    - Grabbe (ed.), 'Like a Bird in a Cage' (JSOTSup 363, 2003)
+    - Kalimi and Richardson (eds.), Sennacherib at the Gates of Jerusalem (2014)
+
+- id: fall-of-jerusalem-587
+  cultures: [babylonian, judahite]
+  date: [-597, -586]
+  scope: >-
+    The two Babylonian captures of Jerusalem: the surrender of Jehoiachin in 597 BCE,
+    dated precisely by the Babylonian Chronicle, and the destruction of the city and
+    temple after the siege of 589/588 to 587 or 586 under Zedekiah, followed by deportations.
+  passages:
+    - "2Kgs 24:10-17 | event | Siege of 597, surrender and deportation of Jehoiachin; Zedekiah installed"
+    - "2Kgs 25:1-21 | event | Siege, breach, flight of Zedekiah, burning of temple and city"
+    - "Jer 39:1-10 | event | Fall of the city and Zedekiah's fate"
+    - "Jer 52:4-30 | event | Parallel account with deportee numbers (52:28-30)"
+    - "2Chr 36:9-21 | event | Chronicler's account and the seventy years"
+    - "Ezek 24:1-2 | event | Siege begins, dated the same day as 2 Kgs 25:1"
+    - "Ezek 33:21 | event | A fugitive reports to Ezekiel that the city has fallen"
+    - "Jer 34:7 | setting | Lachish and Azekah the last fortified cities; cf. Lachish Letter 4"
+    - "Lam 2:1-9 | event | Lament over the destruction of Zion"
+    - "Ps 137:7 | setting | Edom's role on the day of Jerusalem"
+  related: [nebuchadnezzar-ii, nebuchadnezzar-chronicle, lachish-letters, jehoiachin, babylonian-exile, jerusalem, city-of-david, jehoiachin-ration-tablets]
+  wikipedia: Siege of Jerusalem (587 BC)
+  image: Nebuchadnezzar Chronicle British Museum
+  author_notes:
+    - The 597 capture is fixed by the Babylonian Chronicle (2 Adar, year 7 = 15/16 March 597). The date of the second fall (587 vs 586) depends on how Judah's regnal years were reckoned; present both.
+    - Archaeological evidence includes the destruction layers in the City of David (Area G, burnt rooms with bullae), Babylonian-type arrowheads, and the Lachish Level II destruction.
+    - The deportation figures in Jer 52:28-30 (4,600 total) differ from 2 Kgs 24:14-16; discuss sources and possible meanings.
+    - Avoid portraying the land as empty after 586 (the 'myth of the empty land' debate); Mizpah became the administrative centre.
+  sources_to_check:
+    - ABC 5
+    - Lipschits, The Fall and Rise of Jerusalem (2005)
+
+- id: battle-of-carchemish
+  cultures: [babylonian, egyptian]
+  date: [-605]
+  scope: >-
+    The decisive battle of 605 BCE at Carchemish on the Euphrates, in which the
+    Babylonian crown prince Nebuchadnezzar defeated the Egyptian army of Necho II,
+    ending Egyptian control of Syria-Palestine and opening the Levant to Babylon.
+  passages:
+    - "Jer 46:2-12 | event | Oracle on Pharaoh Necho's army defeated at Carchemish in Jehoiakim's fourth year"
+    - "2Kgs 24:7 | event | Egypt no longer comes out of its land; Babylon controls to the Euphrates"
+    - "2Chr 35:20 | setting | Necho on his way to Carchemish in 609, when Josiah intervened"
+    - "2Kgs 23:29 | setting | Necho's campaign of 609 to aid Assyria on the Euphrates"
+    - "Jer 25:1 | setting | Jehoiakim's fourth year equated with Nebuchadnezzar's first"
+    - "Dan 1:1 | setting | 'Third year of Jehoiakim'; chronological discrepancy with Jer 25:1 and 46:2"
+  related: [nebuchadnezzar-ii, necho-ii, carchemish, nebuchadnezzar-chronicle, babylonian-chronicles, josiah]
+  wikipedia: Battle of Carchemish
+  image: Nebuchadnezzar Chronicle British Museum
+  author_notes:
+    - The Babylonian Chronicle (ABC 5) describes the battle and the pursuit to Hamath; Nebuchadnezzar then returned to Babylon on his father's death.
+    - Distinguish the 609 campaign (Josiah's death at Megiddo; 2 Kgs 23:29; 2 Chr 35:20) from the 605 battle.
+    - Excavations at Carchemish (Woolley; renewed Turkish-Italian work) found evidence of the destruction, including Egyptian objects.
+    - Dan 1:1's dating is a known chronological problem; present proposed explanations (accession-year reckoning, error) neutrally.
+  sources_to_check:
+    - ABC 5
+
+- id: fall-of-babylon-539
+  cultures: [babylonian, persian]
+  date: [-539]
+  scope: >-
+    The capture of Babylon by the army of Cyrus II of Persia in October 539 BCE after
+    the defeat of Nabonidus' forces at Opis, ending the Neo-Babylonian empire. The
+    Babylonian sources report that the city was taken without battle.
+  passages:
+    - "Dan 5:30-31 | event | Belshazzar killed; 'Darius the Mede' receives the kingdom (MT 5:30-6:1)"
+    - "Isa 45:1-3 | event | Cyrus, YHWH's anointed, before whom gates are opened"
+    - "Isa 21:1-10 | event | 'Fallen, fallen is Babylon'; Elam and Media attack"
+    - "Isa 13:17-19 | event | The Medes stirred up against Babylon"
+    - "Jer 51:11, 28 | event | The kings of the Medes against Babylon"
+    - "Isa 47:1-15 | setting | Taunt over Babylon's humiliation"
+    - "Ezra 1:1-4 | event | Cyrus's decree in his first year"
+  related: [cyrus-the-great, cyrus-cylinder, nabonidus, belshazzar, nabonidus-chronicle, darius-the-mede, babylon, medes]
+  wikipedia: Fall of Babylon
+  image: Cyrus Cylinder British Museum
+  author_notes:
+    - The Nabonidus Chronicle reports the battle of Opis, the surrender of Sippar, Ugbaru's entry into Babylon without battle (16 Tashritu), and Cyrus's entry (3 Arahsamnu).
+    - The Cyrus Cylinder presents the conquest as Marduk's choice of Cyrus, closely matching Second Isaiah's theology; both are propaganda for Cyrus.
+    - Herodotus (1.191) and Xenophon tell of diverting the Euphrates and a festival night; these later traditions conflict with the peaceful entry in cuneiform sources.
+    - Biblical prophecies of Babylon's violent destruction (Isa 13; Jer 50-51) were not fulfilled in 539; discuss rather than harmonise. Darius the Mede has no extrabiblical attestation.
+  sources_to_check:
+    - ABC 7
+    - COS 2.124
+    - Finkel (ed.), The Cyrus Cylinder (2013)
+
+- id: adad-nirari-iii
+  cultures: [assyrian]
+  date: [-811, -783]
+  scope: >-
+    King of Assyria (811-783 BCE), son of Šamši-Adad V and Sammu-ramat. His western campaigns
+    around 805-796 broke the power of Aram-Damascus and received tribute from Joash of Samaria,
+    Tyre, Sidon, Edom and Philistia, which helps explain Israel's recovery under Joash and
+    Jeroboam II. The Tell al-Rimah stele has its own entry.
+  passages:
+    - "2Kgs 13:5 | event? | YHWH gives Israel a 'saviour' from Aram's oppression; often identified with Adad-nirari III"
+    - "2Kgs 13:10-13 | attests | Jehoash (Joash) of Israel, 'Iuʾasu the Samarian' on the Tell al-Rimah stele"
+    - "2Kgs 13:22-25 | setting | Joash recovers towns from Ben-hadad son of Hazael after Damascus is weakened"
+    - "2Kgs 14:25-28 | setting | Jeroboam II restores Israel's border from Lebo-hamath, after Aram's decline"
+  related: [tell-al-rimah-stele, ben-hadad, hazael, damascus, samaria, tribute-and-vassalage, assyria]
+  wikipedia: Adad-nirari III
+  image: Adad-nirari III stele
+  author_notes:
+    - "The main western sources are the Calah (Nimrud) slab, which lists Tyre, Sidon, 'the land of Omri', Edom and Philistia; the Saba'a stele, which records tribute from Mariʾ of Damascus; and the Tell al-Rimah stele, which names Joash. They compress several campaigns, so the date of Joash's tribute (often 796) is debated."
+    - Identifying the 'saviour' of 2 Kgs 13:5 with Adad-nirari III is common but not certain. Alternatives include Jeroboam II (2 Kgs 14:27) and Elisha.
+    - Sammu-ramat, his mother, held unusual prominence in his early reign (e.g. the Pazarcık stele). The Greek Semiramis legend draws loosely on her. Keep the historical queen and the legend apart.
+    - "A dedication on Nabu statues from Nimrud ('Trust in Nabu, do not trust in another god') has been read as a monotheistic reform. That reading is not accepted. It is a devotional formula in a polytheistic setting."
+  sources_to_check:
+    - "A. K. Grayson, Assyrian Rulers of the Early First Millennium BC II (858-745 BC) (RIMA 3, 1996)"
+    - ANET 281-282
+
+- id: nabopolassar
+  aliases: [Nabû-apla-uṣur]
+  cultures: [babylonian]
+  date: [-626, -605]
+  scope: >-
+    Founder of the Neo-Babylonian (Chaldean) dynasty, who seized Babylon in 626 BCE, threw off
+    Assyrian rule and, allied with the Medes, destroyed Assyria (Assur 614, Nineveh 612, Harran
+    610). The Bible never names him, but his reign is the setting for Nahum, Zephaniah 2,
+    Habakkuk 1 and the death of Josiah.
+  passages:
+    - "Nah 2:1-3:19 | event | Oracles on the fall of Nineveh, taken by Nabopolassar and the Medes in 612 (MT 2:2-3:19)"
+    - "Zeph 2:13-15 | event | Nineveh to become a desolation"
+    - "Hab 1:5-11 | setting | YHWH rouses the Chaldeans, a new power sweeping the region"
+    - "2Kgs 23:29 | event | Necho marches to aid Assyria against Babylon (609); Josiah killed at Megiddo"
+    - "Jer 46:2 | event | Necho defeated at Carchemish (605) by Nabopolassar's crown prince Nebuchadnezzar"
+  related: [fall-of-nineveh-612, fall-of-nineveh-chronicle, nebuchadnezzar-ii, babylonia, medes, battle-of-carchemish, babylonian-chronicles, etemenanki]
+  wikipedia: Nabopolassar
+  image: Nabopolassar cylinder
+  author_notes:
+    - His origins are debated. His own inscriptions call him 'son of a nobody' (mār lā mammāna); some link his family to Uruk. 'Chaldean' as a dynastic label comes from later Greek and biblical usage.
+    - "The Babylonian chronicles (ABC 2-4) give a year-by-year account of his reign, including the Median alliance and the campaigns of 616-609. Use them for the chronology rather than Greek writers."
+    - "His building inscriptions (e.g. the restoration of Etemenanki) present him as a humble, god-chosen restorer. This is useful for royal ideology and temple-building comparisons."
+    - He died in August 605, just after Carchemish, and Nebuchadnezzar hurried back to Babylon to take the throne.
+  sources_to_check:
+    - A. K. Grayson, Assyrian and Babylonian Chronicles (1975), Chronicles 2-4
+    - "R. Da Riva, The Inscriptions of Nabopolassar, Amēl-Marduk and Neriglissar (SANER 3, 2013)"
+
+- id: fall-of-nineveh-612
+  aliases: [Battle of Nineveh, Sack of Nineveh]
+  cultures: [assyrian, babylonian]
+  date: [-612]
+  scope: >-
+    The capture and destruction of the Assyrian capital in the summer of 612 BCE by Babylonian
+    and Median forces under Nabopolassar and Cyaxares (Umakištar), which ended Assyria as an
+    imperial power. The entry covers the event, its archaeology and its biblical echoes; the
+    Babylonian chronicle that reports it has its own entry.
+  passages:
+    - "Nah 2:1-13 | event | Assault on Nineveh: chariots in the streets, river gates opened, plunder (MT 2:2-14)"
+    - "Nah 3:1-19 | event | Woe to the bloody city; Thebes' fall in 663 cited as precedent (vv. 8-10)"
+    - "Zeph 2:13-15 | event | Nineveh made a desolation, a lair for wild animals"
+    - "Ezek 31:3-18 | imagery | Assyria as a felled cosmic cedar, a warning to Pharaoh"
+    - "Jonah 3:1-10 | setting | Nineveh's reprieve, told for readers who knew of its fall in 612"
+    - "2Kgs 23:29 | event | Necho goes to aid the Assyrian remnant (609); Josiah killed"
+    - "Tob 14:15 | event | Tobias hears of Nineveh's destruction by Cyaxares of Media (GI reads Nebuchadnezzar and Ahasuerus)"
+  related: [nineveh, fall-of-nineveh-chronicle, nabopolassar, medes, assyria, harran, josiah, necho-ii]
+  wikipedia: Fall of Nineveh
+  image: Halzi Gate Nineveh
+  author_notes:
+    - "Sequence: Assur fell to the Medes in 614; Nineveh fell in the month Abu 612 after a siege of about three months; Sin-šar-iškun died; Aššur-uballiṭ II held out at Harran until 610, and an Egyptian-backed attempt to retake it failed in 609. The fall of Nineveh was therefore not quite the end of Assyria."
+    - Excavations at the Halzi Gate (Stronach) found skeletons of defenders and gateways narrowed for a last defence, which vividly confirm a violent end.
+    - The story that a flood breached the walls comes from Ctesias via Diodorus, not from Babylonian sources. Do not use it to make Nah 2:6 eyewitness detail. Whether Nahum was composed before or after 612 is debated; the terminus post quem is the fall of Thebes (663).
+    - Note the reception of Nineveh's fall in Jonah, Tobit and Greek historiography (Herodotus' 'Assyrian logoi', Xenophon's ruined 'Mespila').
+  sources_to_check:
+    - A. K. Grayson, Assyrian and Babylonian Chronicles (1975), Chronicle 3
+    - C. J. Gadd, The Fall of Nineveh (1923)
+
+- id: iran-stele
+  aliases: [Iran Stela of Tiglath-pileser III]
+  cultures: [assyrian]
+  date: [-737]
+  circa: true
+  scope: >-
+    A stele of Tiglath-pileser III, reportedly from western Iran, that commemorates his
+    campaign to Media and includes a list of western rulers who paid tribute in 738 BCE,
+    among them Menahem of Samaria and Rezin of Damascus. It is the best-preserved list of
+    these tributaries and anchors Menahem's chronology.
+  passages:
+    - "2Kgs 15:19-20 | event | Menahem's tribute of a thousand talents to Pul (Tiglath-pileser III)"
+    - "2Kgs 15:17 | attests | Menahem son of Gadi, king of Israel in Samaria"
+    - "2Kgs 15:37; 16:5-9 | attests | Rezin of Damascus, later Ahaz's enemy, listed among the tributaries"
+    - "Isa 7:1-9 | attests | Rezin of Aram allied with Pekah against Judah"
+  related: [tiglath-pileser-iii-inscriptions, tiglath-pileser-iii, menahem, rezin, tribute-and-vassalage, chronology-of-kings, qedarites-and-arabs]
+  wikipedia: Iran Stele
+  image: Iran Stele Tiglath-pileser III Israel Museum
+  location: Israel Museum, Jerusalem
+  author_notes:
+    - The stele is unprovenanced (acquired, reportedly from western Iran) and was published by L. D. Levine (1972). Note the provenance problem but also that its text agrees with the excavated Nimrud annals.
+    - "Check the king of Tyre named in the list. RINAP 1 no. 35 appears to read Tubaʾil (Ethbaal) of Tyre, whereas the annals' tribute list has Hiram. Tadmor discussed the discrepancy as evidence of a change of ruler. Do not assert 'Hiram' for the stele without checking."
+    - The list also names Zabibe, queen of the Arabs, and rulers of Byblos, Carchemish, Hamath and Samʾal (Panamuwa). It gives a full picture of the western vassal system on the eve of the Syro-Ephraimite crisis.
+    - The date of Menahem's tribute (738, or 740 in some reconstructions) conflicts with some biblical chronologies; refer to chronology-of-kings rather than resolving it here.
+  sources_to_check:
+    - "H. Tadmor and S. Yamada, The Royal Inscriptions of Tiglath-pileser III and Shalmaneser V (RINAP 1, 2011), no. 35"
+    - L. D. Levine, Two Neo-Assyrian Stelae from Iran (1972)
+    - H. Tadmor, The Inscriptions of Tiglath-pileser III, King of Assyria (1994)
+
+# ---------------------------------------------------------------- egypt

@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: faynan
+file: faynan.jpg
+title: Khirbat en-Nahas.jpg
+caption: >-
+  Satellite image of the Khirbat en-Nahas copper-smelting site in Faynan, where black slag
+  heaps mark the ancient works.
+description: >-
+  Black piles of slag define Khirbat en-Nahas, a copper mining and smelting site, which is
+  annotated at top left in this image. It is not so unusual that a copper mine should show
+  up in a satellite image, but Khirbat en-Nahas is remarkable because it was built some 3,000
+  years ago. The faint square on the northern edge of the site is an Iron Age fortress.
+creator: Robert Simmon
+credit_line: >-
+  NASA Earth Observatory Image captured by the Advanced Land Imager (ALI) on NASA’s Earth
+  Observing-1 (EO-1) satellite. Data provided courtesy of the NASA EO-1 team.
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Robert Simmon. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Khirbat_en-Nahas.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/b/b0/Khirbat_en-Nahas.jpg
+  sha1: 8eec158b1b01537585b9aeaac0580089a6d48639
+  original_size: [3728, 3528]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1514 px
+size: [1600, 1514]
+depicts: [faynan]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

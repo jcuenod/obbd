@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: laws-of-lipit-ishtar
+file: laws-of-lipit-ishtar.jpg
+title: Prologue code Lipit-Ishtar AO 5473.jpg
+caption: >-
+  Clay tablet with the prologue of the laws of Lipit-Ishtar of Isin, in Sumerian (Musée du
+  Louvre, AO 5473).
+description: >-
+  Prologue to the "code of laws" of King Lipit-Ishtar of Isin (late twentieth century BC),
+  legal collection written in sumerian. AO 5473.
+creator: Zunkir
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Zunkir, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Prologue_code_Lipit-Ishtar_AO_5473.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/0/06/Prologue_code_Lipit-Ishtar_AO_5473.jpg
+  sha1: 7db06b3e60aff16cd5f0ef0328993c7853bda9ec
+  original_size: [2071, 3106]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1067×1600 px
+size: [1067, 1600]
+depicts: [laws-of-lipit-ishtar]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=schema/contributors.schema.json
+# Everyone (and every tool) that appears in an entry's credits or history.
+#
+# can_approve: may approve entries and request revisions. Grant only to people
+#   with relevant doctoral-level (or equivalent) expertise. `areas` documents
+#   what they are qualified to review; reviewers are expected to stay in it.
+# kind: person | ai | bot. AI contributors can draft and tag but never approve.
+contributors:
+  - id: jcuenod
+    kind: person
+    name: James Cuénod
+    credentials: PhD, biblical theology (Old Testament)
+    orcid: null
+    areas: [hebrew-bible, pentateuch, law, sabbath, ane-background]
+    can_approve: true
+    roles: [editor, reviewer]
+
+  - id: claude-opus-5-5
+    kind: ai
+    name: Claude Opus 5.5 (Anthropic)
+    credentials: null
+    areas: []
+    can_approve: false
+    roles: [scaffolding, tagging, image-sourcing]
+    note: >-
+      Generated the initial entry list, passage tags, scope statements, author notes, and
+      image selections (November 2026). All of it needs expert review before approval.
+
+  - id: gpt-6-1-sol
+    kind: ai
+    name: GPT 6.1 Sol
+    credentials: null
+    areas: []
+    can_approve: false
+    roles: [drafting]
+
+  - id: gpt-6-codex
+    kind: ai
+    name: GPT-6 Codex
+    credentials: null
+    areas: []
+    can_approve: false
+    roles: [drafting]

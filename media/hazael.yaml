@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: hazael
+file: hazael.jpg
+title: >-
+  Plaque avec fragment d'inscription au nom d'Hazaël - Musée du Louvre Antiquités orientales
+  AO 11489 - photo 2.jpg
+caption: >-
+  Ivory plaque fragment inscribed with the name of Hazael, 9th century BCE (Musée du Louvre,
+  AO 11489).
+description: >-
+  Plaque avec fragment d'inscription au nom d'Hazaël - Musée du Louvre Antiquités orientales
+  AO 11489
+creator: Shonagon
+credit_line: Own work
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Shonagon. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Plaque_avec_fragment_d%27inscription_au_nom_d%27Haza%C3%ABl_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_orientales_AO_11489_-_photo_2.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/2a/Plaque_avec_fragment_d%27inscription_au_nom_d%27Haza%C3%ABl_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_orientales_AO_11489_-_photo_2.jpg
+  sha1: 5beece288ec1a7592fb5454466c09d34558fd1a9
+  original_size: [3388, 1410]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×666 px
+size: [1600, 666]
+depicts: [hazael]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

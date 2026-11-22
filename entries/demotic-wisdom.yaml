@@ -1,0 +1,83 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: demotic-wisdom
+title: Demotic Instructions (Ankhsheshonqy, Papyrus Insinger)
+aliases: [Instruction of Ankhsheshonqy, Onchsheshonqy, Papyrus Insinger, Great Demotic Wisdom
+    Book]
+type: text
+cultures: [egyptian]
+date:
+  from: -400
+  to: 100
+  circa: true
+  display: c. 400 BCE–100 CE
+scope: >-
+  Late Egyptian wisdom in the Demotic script, chiefly the Instruction of Ankhsheshonqy (with
+  its frame story of a priest writing maxims for his son from prison) and the "Great Demotic
+  Wisdom Book" of Papyrus Insinger. Their one-line sayings and reflections on fate and divine
+  retribution make them contemporaries and comparanda of Ecclesiastes, Ben Sira and late Proverbs.
+passages:
+- ref: Prov 10:1-22:16
+  rel: form
+  note: Collections of self-contained one-line sayings, the format of Ankhsheshonqy
+- ref: Eccl 11:1
+  rel: parallel
+  note: >-
+    'Send out your bread upon the waters'; cf. Ankhsheshonqy 'Do a good deed and throw it
+    in the river'
+- ref: Eccl 9:11
+  rel: concept
+  disputed: true
+  note: Time and chance happen to all; cf. Demotic fate (šꜣy) and fortune
+- ref: Sir 11:14
+  rel: concept
+  note: Good and bad, poverty and wealth come from the Lord; cf. Papyrus Insinger's refrains
+- ref: Tob 4:3-19
+  rel: form
+  note: A father's instructions to his son in a moment of crisis; cf. Ankhsheshonqy's frame
+related: [ane-wisdom-literature, ahiqar, ben-sira, instruction-of-amenemope, instruction-of-ptahhotep,
+  scribes-and-scribal-education]
+media: []
+external:
+  wikipedia: Instruction of Ankhsheshonq
+  wikidata: Q770200
+editorial:
+  author_notes:
+  - >-
+    Manuscripts: Ankhsheshonqy is P. British Museum EA 10508 (Ptolemaic, probably 1st c. BCE);
+    Papyrus Insinger is in Leiden (1st c. CE), with parallel copies elsewhere. Composition
+    dates are uncertain (Late Period to Ptolemaic). Give manuscript and composition dates
+    separately.
+  - >-
+    Lichtheim (1983) stressed that the Demotic texts share an 'international' wisdom culture
+    with Greek gnomic literature, Ahiqar and Ben Sira. Sanders (1983) argued that Ben Sira
+    knew a version of Papyrus Insinger's teaching. Present this as a proposal.
+  - >-
+    The Eccl 11:1 and Ankhsheshonqy parallel is the most often quoted. Check the column and
+    line reference in Lichtheim's translation before citing it.
+  - >-
+    Note differences from earlier Egyptian instructions: monostich sayings, a peasant and
+    village setting in Ankhsheshonqy, and Insinger's paradoxes on fate and fortune, which
+    echo Qohelet's questions.
+  sources_to_check:
+  - AEL 3:159-217
+  - >-
+    M. Lichtheim, Late Egyptian Wisdom Literature in the International Context (OBO 52, 1983)
+  - J. T. Sanders, Ben Sira and Demotic Wisdom (SBLMS 28, 1983)
+  - >-
+    S. R. K. Glanville, The Instructions of ʿOnchsheshonqy (Catalogue of Demotic Papyri in
+    the British Museum 2, 1955)
+  image_query: Papyrus Insinger Leiden
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

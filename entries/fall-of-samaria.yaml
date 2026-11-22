@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: fall-of-samaria
+title: Fall of Samaria (722/720 BCE)
+type: event
+cultures: [assyrian, israelite]
+date:
+  from: -722
+  to: -720
+  display: 722–720 BCE
+scope: >-
+  The Assyrian conquest of Samaria, capital of the northern kingdom, after a siege begun under
+  Shalmaneser V, followed by deportation of its population and resettlement by Sargon II.
+  The end of the kingdom of Israel.
+passages:
+- ref: 2Kgs 17:1-6
+  rel: event
+  note: Hoshea's revolt, siege of Samaria and deportation
+- ref: 2Kgs 18:9-12
+  rel: event
+  note: Siege and capture in Hezekiah's fourth to sixth years
+- ref: 2Kgs 17:24-41
+  rel: event
+  note: Resettlement of Samaria with foreign deportees
+- ref: 2Kgs 17:7-23
+  rel: concept
+  note: Deuteronomistic theological explanation of the fall
+- ref: Isa 28:1-4
+  rel: setting
+  note: Oracle against the 'proud garland' of Ephraim's drunkards
+- ref: Mic 1:6-7
+  rel: setting
+  note: Samaria to become a heap of ruins
+- ref: Hos 13:16
+  rel: setting
+  note: Samaria shall bear her guilt (MT 14:1)
+- ref: Isa 10:9-11
+  rel: event
+  note: Samaria among Assyria's conquests
+related: [shalmaneser-v, sargon-ii, sargon-ii-inscriptions, hoshea, samaria, deportation,
+  samaritan-origins, babylonian-chronicles]
+media:
+- id: fall-of-samaria
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Present the two main reconstructions; Tadmor's two-stage model (capture by Shalmaneser
+    in 722, then Sargon's reconquest and deportations in 720) is widely followed.
+  - >-
+    Sargon's claim of 27,280/27,290 deportees and his statement that he 'repopulated' Samaria
+    underlie 2 Kgs 17:24.
+  - >-
+    Archaeology suggests continuity at Samaria and in the countryside alongside deportation;
+    the 'ten lost tribes' image overstates depopulation.
+  - >-
+    Assyrian sources document Samarians in Assyria (chariot units, Gozan, Halah), consistent
+    with 2 Kgs 17:6.
+  sources_to_check:
+  - Becking, The Fall of Samaria (1992)
+  - Tadmor, "The Campaigns of Sargon II of Assur," JCS 12 (1958)
+  - ABC 1
+  image_query: Sargon II Khorsabad relief
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,83 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: damascus
+title: Damascus
+aliases: [Aram-Damascus, Dimashq, Ša-imērīšu]
+type: site
+cultures: [aramean]
+scope: >-
+  Damascus as the capital of the leading Aramean kingdom of the Iron Age and as a New Testament
+  city. Covers the textual evidence for its history from David to its capture by Tiglath-pileser
+  III, the scant archaeology, and Paul's Damascus.
+passages:
+- ref: Gen 14:15
+  rel: setting
+  note: Abram pursues the kings to Hobah, north of Damascus
+- ref: 2Sam 8:5-6
+  rel: setting
+  note: David's garrisons in Aram of Damascus
+- ref: 1Kgs 15:18-20
+  rel: setting
+  note: Asa bribes Ben-hadad of Damascus to attack Israel
+- ref: 1Kgs 20:34
+  rel: practice
+  note: Trading quarters (ḥûṣôt) granted in Damascus and Samaria
+- ref: 2Kgs 16:9-12
+  rel: setting
+  note: Tiglath-pileser III takes Damascus; Ahaz copies its altar
+- ref: Isa 17:1-3
+  rel: setting
+  note: 'Oracle: Damascus to become a heap of ruins'
+- ref: Amos 1:3-5
+  rel: setting
+  note: Damascus threshed Gilead; the 'house of Hazael'
+- ref: Acts 9:1-25
+  rel: setting
+  note: Paul's conversion and escape from Damascus
+- ref: 2Cor 11:32-33
+  rel: setting
+  note: The ethnarch of King Aretas guards Damascus
+related: [arameans, hazael, ben-hadad, rezin, hadad-rimmon, tiglath-pileser-iii, tel-dan-stele,
+  nabataeans]
+media:
+- id: damascus
+  role: primary
+external:
+  wikipedia: Damascus
+  wikidata: Q3766
+  pleiades: '678106'
+editorial:
+  author_notes:
+  - >-
+    Iron Age Damascus lies beneath the Old City and is almost unexcavated. The temple of Hadad
+    is presumed to underlie the Roman temple of Jupiter and the Umayyad Mosque, where a basalt
+    orthostat with a sphinx was found.
+  - >-
+    Assyrian sources call the kingdom KUR ša-imērīšu. Its kings include Hadadezer (Adad-idri
+    at Qarqar), Hazael, Bar-Hadad, and Rezin (Raḫiānu). The biblical Ben-hadads are hard to
+    number and correlate.
+  - How and when the Nabataean ethnarch controlled the city (2 Cor 11:32) is debated.
+  sources_to_check:
+  - Younger, A Political History of the Arameans (2016)
+  image_query: Temple of Jupiter Damascus
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q3766 (verify).
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 33.51306
+  lon: 36.29194
+  source: wikidata:Q3766

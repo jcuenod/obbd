@@ -1,0 +1,94 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tyrian-shekel
+title: Tyrian Shekel and the Temple Tax
+aliases: [Tyrian tetradrachm, Shekel of Tyre, Didrachm (half-shekel)]
+type: realia
+cultures: [phoenician, jewish]
+date:
+  from: -126
+  to: 66
+  display: 126 BCE–66 CE
+scope: >-
+  The silver shekels (tetradrachms) and half-shekels minted at Tyre from 126/125 BCE to the
+  mid-60s CE, with the head of Melqart-Herakles and an eagle. Because of their reliable weight
+  and purity they were required for the temple tax in late Second Temple Jerusalem. The entry
+  covers the coin, the half-shekel tax and the money changers; coinage in general is treated
+  under coinage.
+passages:
+- ref: Exod 30:11-16
+  rel: practice
+  note: >-
+    Half-shekel 'by the shekel of the sanctuary' as ransom at the census, the basis of the
+    later annual tax
+- ref: 2Chr 24:6-9
+  rel: practice
+  note: The tax of Moses collected for the house of God
+- ref: Neh 10:32
+  rel: practice
+  note: A third of a shekel yearly for the service of the temple (MT 10:33)
+- ref: Matt 17:24-27
+  rel: practice
+  note: Collectors of the didrachma; a stater (one shekel) pays for Jesus and Peter
+- ref: Matt 21:12
+  rel: practice
+  note: Money changers' tables overturned in the temple
+- ref: Mark 11:15-17
+  rel: practice
+  note: Money changers and dove sellers driven out
+- ref: John 2:13-16
+  rel: practice
+  note: Money changers in the temple at Passover
+- ref: Matt 26:15; 27:3-10
+  rel: realia
+  disputed: true
+  note: Thirty pieces of silver, perhaps Tyrian shekels, returned to the temple treasury
+related: [coinage, melqart, tyre, jewish-revolt-coinage, herods-temple, weights-and-silver-money]
+media:
+- id: tyrian-shekel
+  role: primary
+- id: melqart-2
+  role: gallery
+external:
+  wikipedia: Tyrian shekel
+  wikidata: Q5761018
+editorial:
+  author_notes:
+  - >-
+    Describe the coin: obverse laureate head of Melqart (Herakles), reverse eagle with the
+    legend 'of Tyre the holy and inviolable'; dated by the Tyrian era from 126/125 BCE. Meshorer
+    argued that from c. 18 BCE cruder 'KP/KAP' shekels were struck in Jerusalem under Herod's
+    authority. That is a hypothesis and is debated.
+  - >-
+    Temple tax: rabbinic texts specify Tyrian currency for sanctuary payments (e.g. m. Bekhorot
+    8:7), probably for its weight and purity despite the pagan image. Money changers set up
+    tables in the provinces on 15 Adar and in the temple on 25 Adar (m. Sheqalim 1:3) and
+    charged an agio (qolbon).
+  - >-
+    The annual half-shekel tax is a Second Temple development out of the one-time ransom of
+    Exod 30 and the third-shekel of Neh 10:32. 4Q159 (Ordinances) appears to limit the half-shekel
+    to once in a lifetime, which shows that the practice was disputed.
+  - >-
+    Matt 17:24-27: the didrachma (half-shekel) paid by each man, and the stater (tetradrachm)
+    paying for two. After 70 the tax was diverted to the fiscus Iudaicus, which may affect
+    how Matthew's readers heard the story.
+  - >-
+    The identification of the 'thirty pieces of silver' with Tyrian shekels is plausible but
+    cannot be proved.
+  sources_to_check:
+  - Y. Meshorer, A Treasury of Jewish Coins (2001)
+  - D. Hendin, Guide to Biblical Coins (5th ed., 2010)
+  image_query: Tyrian shekel Melqart eagle
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

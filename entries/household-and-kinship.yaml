@@ -1,0 +1,95 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: household-and-kinship
+title: Household, Clan, and Tribe
+aliases: [Bêt ʾāb, Father's House, Mišpāḥâ, Clan, Tribe]
+type: concept
+cultures: [hebrew]
+scope: >-
+  The nested kinship structure of ancient Israelite society: the household or 'father's house'
+  (bêt ʾāb), the clan or kin group (mišpāḥâ), and the tribe (šēbeṭ, maṭṭeh), with their economic,
+  legal and religious functions and the 'patrimonial household' model of Israelite society
+  and kingship. House architecture, inheritance, levirate and marriage are treated in their
+  own entries.
+passages:
+- ref: Josh 7:14-18
+  rel: practice
+  note: Lot narrows from tribe to clan to household to individual
+- ref: 1Sam 10:20-21
+  rel: practice
+  note: Saul chosen by lot through tribe, clan and individual
+- ref: Num 1:2
+  rel: practice
+  note: Census 'by their clans, by their ancestral houses'
+- ref: Exod 12:3
+  rel: practice
+  note: A Passover lamb for each father's house, a lamb for each household
+- ref: 1Sam 20:6, 29
+  rel: practice
+  note: Yearly sacrifice of David's clan at Bethlehem
+- ref: Judg 17:1-13
+  rel: practice
+  note: Micah's household shrine, ephod and teraphim, with a hired Levite
+- ref: Judg 18:19
+  rel: practice
+  note: The Levite offered a post as priest to a tribe and clan rather than one household
+- ref: Ruth 1:8
+  rel: language
+  note: '''Return to your mother''s house'' (bêt ʾēm)'
+- ref: Ruth 2:1, 20
+  rel: practice
+  note: Boaz, a kinsman of Elimelech's clan and one of the family's redeemers
+- ref: Num 27:1-11
+  rel: practice
+  note: Zelophehad's daughters keep their father's name and land within the clan
+- ref: Mic 7:6
+  rel: concept
+  note: 'Household members as enemies: the breakdown of kin solidarity'
+- ref: Matt 10:34-37
+  rel: concept
+  note: Jesus' saying about divided households, quoting Mic 7:6
+related: [four-room-house, inheritance-and-birthright, land-redemption, levirate-marriage,
+  genealogies, marriage-and-bride-price, teraphim, care-for-the-dead]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The terms are fluid. Bêt ʾāb can mean a residential extended family or a wider lineage.
+    Mišpāḥâ is often translated 'clan' but sometimes means a larger kin group. Šēbeṭ and maṭṭeh
+    both mean 'tribe'. The three-tier hierarchy of Josh 7:14-18 is partly schematic.
+  - >-
+    Archaeology: Stager's study of clusters of pillared houses as compounds for extended families
+    (BASOR 260, 1985). Schloen extends the household model to the state, with the king as
+    head of a patrimonial household. Engage both.
+  - >-
+    Women and the household: C. Meyers on the household economy and on the 'mother's house'
+    (Gen 24:28; Ruth 1:8; Song 3:4; 8:2). Use this work rather than a simple model of 'patriarchy'.
+  - >-
+    Household religion (teraphim, ancestor rites, household shrines) is a distinct layer of
+    practice. See Albertz and Schmitt.
+  - >-
+    Avoid assuming that tribes were purely genealogical. Many scholars see them as territorial
+    or political groups expressed in kinship language (cf. segmentary lineage models).
+  sources_to_check:
+  - L. E. Stager, 'The Archaeology of the Family in Ancient Israel,' BASOR 260 (1985)
+  - >-
+    J. D. Schloen, The House of the Father as Fact and Symbol: Patrimonialism in Ugarit and
+    the Ancient Near East (2001)
+  - >-
+    R. Albertz and R. Schmitt, Family and Household Religion in Ancient Israel and the Levant
+    (2012)
+  - 'C. Meyers, Rediscovering Eve: Ancient Israelite Women in Context (2013)'
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

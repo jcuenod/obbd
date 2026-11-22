@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: seals-and-bullae
+file: seals-and-bullae.jpg
+title: Hebrew seals. Israel Museum, Jerusalem.JPG
+caption: Hebrew stamp seals and signet rings of the Iron Age (Israel Museum, Jerusalem).
+description: Hebrew seals. Israel Museum, Jerusalem
+creator: Chamberi
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Chamberi, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Hebrew_seals._Israel_Museum,_Jerusalem.JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/e/e1/Hebrew_seals._Israel_Museum%2C_Jerusalem.JPG
+  sha1: fc0ff2fa65a0164269a67736487e81abe9d0d2b1
+  original_size: [4000, 3000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [seals-and-bullae]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

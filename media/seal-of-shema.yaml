@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: seal-of-shema
+file: seal-of-shema.jpg
+title: Shema Seal (Replica).jpg
+caption: >-
+  Bronze cast replica of the Seal of Shema, servant of Jeroboam, made in the early 20th century;
+  the original jasper seal from Megiddo is lost.
+description: >-
+  A bronze cast replica of the Shema Seal, c. early 20th century. The original was made in
+  the 8th century BCE for Shema, a servant of King Jeroboam II, found by archaeologist Gottlieb
+  Schumacher and his team in Megiddo in 1904 and sent to Constantinople, where it was lost.
+  Size: 85.2 x 61.2 mm; weight: 158.43 grams. In the Cherrygarden collection, ex Schulman
+  b.v. (Veiling E-04, Lot 2205).
+creator: Fred Cherrygarden
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Fred Cherrygarden, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Shema_Seal_(Replica).jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/3/39/Shema_Seal_%28Replica%29.jpg
+  sha1: e0c7a3e518883cde41e1668f7798f3fe5261ff58
+  original_size: [6000, 4000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [seal-of-shema]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

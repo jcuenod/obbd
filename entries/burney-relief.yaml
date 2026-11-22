@@ -1,0 +1,66 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: burney-relief
+title: Burney Relief ("Queen of the Night")
+aliases: [Queen of the Night relief]
+type: artifact
+cultures: [babylonian]
+date:
+  from: -1800
+  to: -1750
+  circa: true
+  display: c. 1800–1750 BCE
+scope: >-
+  A fired clay plaque of the Old Babylonian period showing a nude winged goddess with bird's
+  talons, standing on two lions flanked by owls and holding rod-and-ring symbols. Its identification
+  (Ishtar, Ereshkigal, or a lilitu demon) is debated.
+passages:
+- ref: Isa 34:14
+  rel: concept
+  disputed: true
+  note: Lîlît; Frankfort's identification of the figure with Lilith is now rarely accepted
+- ref: Jer 44:17-19
+  rel: concept
+  disputed: true
+  note: Queen of Heaven, if the figure is Ishtar
+related: [ishtar, lilith, queen-of-heaven, lamashtu-pazuzu-amulets, sheol-and-the-netherworld,
+  forgeries-in-biblical-archaeology]
+location:
+  institution: British Museum, London
+  accession: 2003,0718.1 (British Museum)
+media:
+- id: burney-relief
+  role: primary
+external:
+  wikipedia: Burney Relief
+  wikidata: Q1016771
+editorial:
+  author_notes:
+  - >-
+    Unprovenanced; it appeared on the market in the 1920s, and its authenticity was questioned
+    before it was accepted. The British Museum acquired it in 2003.
+  - >-
+    The Lilith identification derives from Frankfort (1937) reading of Isa 34:14 and later
+    Jewish lore; most scholars now favour Ishtar/Inanna or Ereshkigal.
+  - >-
+    The biblical connections are weak; this entry is mainly useful for correcting popular
+    claims that it depicts 'Lilith'.
+  sources_to_check: ['Collon, The Queen of the Night (2005)']
+  image_query: Burney Relief Queen of the Night British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added accession from Wikidata Q1016771 (verify).
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

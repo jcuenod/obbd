@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: sidon
+file: sidon.jpg
+title: Echnoum Libanon 026.jpg
+caption: Remains of the sanctuary of Eshmun at Bustan esh-Sheikh near Sidon.
+description: Echnoum 3
+creator: Odilia
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: http://creativecommons.org/licenses/by-sa/3.0/
+attribution: Odilia, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Echnoum_Libanon_026.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/7/7e/Echnoum_Libanon_026.jpg
+  sha1: a16aabec303e0c2391bc4fdecf3aa77bd96ba522
+  original_size: [1280, 960]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1280, 960]
+depicts: [sidon]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,92 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: rabbah
+title: Rabbah of the Ammonites (Amman)
+aliases: [Rabbath-ammon, Rabbat Bene ʿAmmon, Philadelphia, Amman Citadel]
+type: site
+cultures: [ammonite]
+scope: >-
+  The capital of the Ammonites on the citadel hill of modern Amman, later Hellenistic and
+  Roman Philadelphia. Covers the Iron Age remains and inscriptions from the citadel and Rabbah's
+  role in biblical narrative and prophecy.
+passages:
+- ref: Deut 3:11
+  rel: setting
+  note: Og's iron bed 'still in Rabbah of the Ammonites'
+- ref: 2Sam 11:1
+  rel: setting
+  note: Joab besieges Rabbah; Uriah's death
+- ref: 2Sam 12:26-31
+  rel: setting
+  note: >-
+    David captures Rabbah, the 'city of waters', and the crown of malkām ('their king' or
+    Milcom)
+- ref: 2Sam 17:27
+  rel: setting
+  note: Shobi son of Nahash of Rabbah supplies David
+- ref: Jer 49:2-3
+  rel: setting
+  note: 'Oracle: Rabbah to become a desolate mound'
+- ref: Ezek 21:20
+  rel: setting
+  note: 'Babylonian king''s divination at the fork: Rabbah or Jerusalem (MT 21:25)'
+- ref: Ezek 25:5
+  rel: setting
+  note: Rabbah to become a pasture for camels
+- ref: Amos 1:14
+  rel: setting
+  note: Fire on the wall of Rabbah
+related:
+- ammonites
+- milkom
+- tell-siran-bottle-and-ammonite-inscriptions
+- david
+- divination
+media:
+- id: rabbah
+  role: primary
+external:
+  wikipedia: Amman Citadel
+  wikidata: Q3157009
+editorial:
+  author_notes:
+  - >-
+    The Iron Age city lies under the Roman, Byzantine and Umayyad remains of the Amman Citadel
+    (Jebel al-Qalʿa), so Iron Age levels are fragmentary. The Amman Citadel inscription (ninth
+    century) comes from the site.
+  - >-
+    Ammonite stone statuary (some with atef crowns) from the Amman area illustrates royal
+    and elite iconography.
+  - >-
+    Ptolemy II Philadelphus refounded the city as Philadelphia, later a city of the Decapolis.
+  - >-
+    Speculative explanations of Og's 'bed' (dolmen, basalt sarcophagus) should be marked as
+    such.
+  sources_to_check:
+  - MacDonald and Younker (eds.), Ancient Ammon (1999)
+  image_query: Amman Citadel
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: 'Passage tags checked against WEB text: 2Sam 12:26-31 note now reflects malkam ambiguity'
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates from Wikidata Q3157009 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 31.9547
+  lon: 35.9343
+  source: wikidata:Q3157009

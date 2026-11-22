@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: tyre-2
+file: tyre-2.jpg
+title: ISS006-E-31938 TyreSurLebanon01032003.jpg
+caption: >-
+  Tyre from the International Space Station, showing the former island joined to the mainland.
+description: >-
+  The city of Tyre/Sour in Southern Lebanon photographed from the International Space Station
+  (ISS). Image courtesy of the Earth Science and Remote Sensing Unit, NASA Johnson Space Center:
+  https://eol.jsc.nasa.gov/
+creator: Image courtesy of the Earth Science and Remote Sensing Unit, NASA Johnson Space Center
+credit_line: https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=ISS006&roll=E&frame=31938
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: >-
+  Image courtesy of the Earth Science and Remote Sensing Unit, NASA Johnson Space Center.
+  Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:ISS006-E-31938_TyreSurLebanon01032003.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/8/82/ISS006-E-31938_TyreSurLebanon01032003.jpg
+  sha1: 6ecec224e53091c00e036a70dc2586422f2e5e32
+  original_size: [1165, 888]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1165, 888]
+depicts: [tyre]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

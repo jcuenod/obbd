@@ -1,0 +1,75 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tanis
+title: Tanis (Zoan)
+aliases: [Zoan, San el-Hagar, Djanet]
+type: site
+cultures: [egyptian]
+scope: >-
+  Tanis (Egyptian Djanet; Hebrew Zōʿan, modern San el-Hagar) in the north-eastern Delta, capital
+  of the Twenty-first and Twenty-second Dynasties. It was built largely with monuments brought
+  from Pi-Ramesses, and Montet found intact royal tombs there. In the Bible Zoan is the seat
+  of pharaoh's counsellors and the scene of the exodus wonders.
+passages:
+- ref: Num 13:22
+  rel: attests
+  note: Hebron built seven years before Zoan in Egypt
+- ref: Ps 78:12, 43
+  rel: setting
+  note: '''The fields of Zoan'' as the scene of the exodus wonders'
+- ref: Isa 19:11, 13
+  rel: attests
+  note: The princes of Zoan as pharaoh's foolish counsellors
+- ref: Isa 30:4
+  rel: attests
+  note: Judah's envoys at Zoan and Hanes
+- ref: Ezek 30:14
+  rel: attests
+  note: Zoan to be set on fire
+related: [pi-ramesses, report-of-wenamun, shoshenq-i, memphis, thebes, hebron, exodus-historical-questions]
+media:
+- id: tanis
+  role: primary
+external:
+  wikipedia: Tanis
+  wikidata: Q210598
+  pleiades: '727236'
+editorial:
+  author_notes:
+  - >-
+    Tanis rose to prominence only from the late 11th century, under Smendes (see Wenamun).
+    Ps 78's placing of the exodus wonders "in the fields of Zoan" therefore reflects first-millennium
+    geography.
+  - >-
+    The Ramesside monuments at Tanis were moved from Pi-Ramesses. Explain how they misled
+    earlier identifications.
+  - >-
+    Montet's discovery (1939-1940) of the royal tombs (Psusennes I, Shoshenq II) is important
+    for Third Intermediate Period chronology.
+  - >-
+    The film image of Tanis as the Ark's resting place is fiction. Mention it only if useful
+    for readers.
+  sources_to_check:
+  - Kitchen, The Third Intermediate Period in Egypt (1100-650 BC)
+  image_query: Tanis San el-Hagar ruins
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q210598 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 30.97694
+  lon: 31.88
+  source: wikidata:Q210598

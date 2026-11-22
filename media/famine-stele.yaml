@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: famine-stele
+file: famine-stele.jpg
+title: Sehel-steleFamine.jpg
+caption: >-
+  The Famine Stele carved on a granite boulder on Sehel Island near Aswan, Ptolemaic period.
+description: The Famine Stele, in the island of Sehel, near Aswan, Egypt
+creator: Morburre
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Morburre, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sehel-steleFamine.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/e/eb/Sehel-steleFamine.jpg
+  sha1: e5a10504c940be73884a8982955bd1990e3ff37a
+  original_size: [3000, 2000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [famine-stele]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

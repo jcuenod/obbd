@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: report-of-wenamun
+file: report-of-wenamun.jpg
+title: Путешествие Унамона в Библ.jpg
+caption: >-
+  The papyrus of the Report of Wenamun, Papyrus Moscow 120 (Pushkin State Museum of Fine Arts,
+  Moscow).
+description: >-
+  Папирус «Путешествие Унамона в Библ». Египет. XI-VIII века до н.э. Папирус, краска. ГМИИ
+  им. А.С. Пушкина, Москва
+creator: Ермолаев
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Ермолаев, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:%D0%9F%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5_%D0%A3%D0%BD%D0%B0%D0%BC%D0%BE%D0%BD%D0%B0_%D0%B2_%D0%91%D0%B8%D0%B1%D0%BB.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/a0/%D0%9F%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5_%D0%A3%D0%BD%D0%B0%D0%BC%D0%BE%D0%BD%D0%B0_%D0%B2_%D0%91%D0%B8%D0%B1%D0%BB.jpg
+  sha1: e1d2ed46473097d09e74e43110c83c4757af2009
+  original_size: [2172, 3440]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1010×1600 px
+size: [1010, 1600]
+depicts: [report-of-wenamun]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

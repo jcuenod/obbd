@@ -1,0 +1,59 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tammuz
+title: Tammuz (Dumuzi)
+aliases: [Dumuzi, Dumuzid]
+type: deity
+cultures: [mesopotamian, sumerian]
+scope: >-
+  Tammuz (Sumerian Dumuzi), the shepherd god and consort of Inanna/Ishtar whose death and
+  descent to the netherworld were annually lamented in Mesopotamia. The entry covers the Mesopotamian
+  evidence, the women's lament in Ezek 8:14, and the later Adonis cult.
+passages:
+- ref: Ezek 8:14
+  rel: practice
+  note: Women weeping for Tammuz at the north gate of the temple
+- ref: Isa 17:10-11
+  rel: practice
+  disputed: true
+  note: '''Pleasant plants'' possibly Adonis gardens'
+- ref: Dan 11:37
+  rel: concept
+  disputed: true
+  note: '''The one beloved by women'', perhaps Tammuz-Adonis'
+- ref: Zech 12:11
+  rel: practice
+  disputed: true
+  note: Mourning for Hadad-rimmon, sometimes compared with Tammuz laments
+related: [descent-of-inanna-ishtar, ishtar, sumerian-love-songs, mourning-rites, calendars-and-month-names,
+  sacred-marriage, hadad-rimmon]
+media: []
+external:
+  wikipedia: Dumuzid
+  wikidata: Q549619
+editorial:
+  author_notes:
+  - >-
+    Correct the Frazerian "dying and rising god" model; Dumuzi's alternation with his sister
+    in the netherworld (Inanna's Descent) is not resurrection in the later sense (J. Z. Smith;
+    M. S. Smith; but see Mettinger for a contrary view).
+  - The fourth month of the Babylonian and later Jewish calendar bears his name.
+  - >-
+    Identification of Adonis with Tammuz is ancient (e.g. Jerome on Ezek 8:14) but involves
+    a distinct, later Phoenician-Greek cult.
+  sources_to_check:
+  - DDD, s.v. "Tammuz"
+  - T. N. D. Mettinger, The Riddle of Resurrection (ConBOT 50, 2001)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: darius-i
+file: darius-i.jpg
+title: Behistun relief Darius.jpg
+caption: Darius I on his relief at Behistun (Bisotun), Iran, late 6th century BCE.
+description: Behistun relief Darius
+creator: Patrick C, known as dynamomosquito on Flickr, and Pentocelo on this project
+credit_line: This image has been extracted from another file
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: >-
+  Patrick C, known as dynamomosquito on Flickr, and Pentocelo on this project, CC BY-SA 2.0,
+  via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Behistun_relief_Darius.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/e/ed/Behistun_relief_Darius.jpg
+  sha1: b6835597a32a50dab2a7a53c2c0b1daf99738eed
+  original_size: [1970, 3434]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 918×1600 px
+size: [918, 1600]
+depicts: [behistun-inscription, darius-i]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

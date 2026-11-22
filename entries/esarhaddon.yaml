@@ -1,0 +1,68 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: esarhaddon
+title: Esarhaddon
+type: person
+cultures: [assyrian]
+date:
+  from: -681
+  to: -669
+  display: 681–669 BCE
+scope: >-
+  King of Assyria, younger son and chosen successor of Sennacherib, who won the throne after
+  his father's murder, rebuilt Babylon, conquered Egypt (671), and imposed a succession oath
+  on his vassals. Manasseh of Judah was among his vassals.
+passages:
+- ref: 2Kgs 19:37
+  rel: attests
+  note: Esarhaddon succeeds Sennacherib
+- ref: Ezra 4:2
+  rel: attests
+  note: Settlers in Samaria brought by Esarhaddon
+- ref: 2Kgs 21:1-18
+  rel: setting
+  note: Manasseh's long reign as an Assyrian vassal
+- ref: Deut 28:23
+  rel: parallel
+  note: Sky of bronze and earth of iron; close parallel in his succession treaty
+- ref: 2Kgs 19:28
+  rel: imagery
+  note: Hook in the nose; cf. captives led by cords on his Zincirli stele
+- ref: Isa 19:4
+  rel: event
+  disputed: true
+  note: Egypt given to 'a hard master', sometimes linked to his conquest
+related: [esarhaddon-prisms, esarhaddon-succession-treaty, neo-assyrian-prophecies, manasseh,
+  sennacherib, taharqa, ashurbanipal]
+media:
+- id: esarhaddon
+  role: primary
+external:
+  wikipedia: Esarhaddon
+  wikidata: Q193912
+editorial:
+  author_notes:
+  - >-
+    His reign is unusually well documented by letters, oracle queries, and prophecies (SAA
+    4, 9, 10), useful for comparison with biblical prophecy and divination.
+  - >-
+    The succession treaty of 672 (found also at Tell Tayinat) is central to the debate on
+    Deuteronomy's dependence on Assyrian treaty forms.
+  - >-
+    The settlement of foreigners in Samaria under Esarhaddon (Ezra 4:2) is otherwise unattested
+    but plausible.
+  sources_to_check: [RINAP 4 (Leichty 2011), SAA 2 (Parpola and Watanabe 1988), ABC 1]
+  image_query: Esarhaddon victory stele Zincirli Berlin
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

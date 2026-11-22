@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: mount-ebal-altar
+title: Mount Ebal (el-Burnat) Structure
+aliases: [el-Burnat, Joshua's Altar (popular)]
+type: site
+cultures: [hebrew]
+scope: >-
+  The Iron I structure on the northeastern slope of Mount Ebal excavated by Adam Zertal and
+  interpreted by him as an altar, perhaps Joshua's. Covers the structure, its faunal remains,
+  rival interpretations, and recent claims about an inscribed 'curse tablet'.
+passages:
+- ref: Deut 11:29
+  rel: setting
+  note: Blessing on Gerizim, curse on Ebal
+- ref: Deut 27:1-8
+  rel: setting
+  disputed: true
+  note: 'Altar of unhewn stones on Mount Ebal (SamP 27:4: Gerizim); Zertal''s identification'
+- ref: Deut 27:11-13
+  rel: setting
+  note: Tribes stand on Gerizim and Ebal
+- ref: Josh 8:30-35
+  rel: setting
+  disputed: true
+  note: Joshua builds the altar on Mount Ebal
+- ref: Exod 20:25
+  rel: realia
+  disputed: true
+  note: Altar of unhewn stones
+related: [mount-gerizim, altars, emergence-of-israel, shechem, blessings-and-curses, forgeries-in-biblical-archaeology]
+media:
+- id: mount-ebal-altar
+  role: primary
+- id: mount-ebal-altar-2
+  role: gallery
+external:
+  wikipedia: Mount Ebal
+  wikidata: Q1975866
+editorial:
+  author_notes:
+  - >-
+    Zertal excavated the site in 1982-89. The main structure has a ramp and fill of ash and
+    animal bones (largely sheep, goat and cattle, plus fallow deer). He read it as a sacrificial
+    altar. Alternatives include a farmhouse or watchtower (Kempinski) or a cultic installation
+    unrelated to Joshua.
+  - >-
+    Text-critically, the Samaritan Pentateuch (and some other witnesses) reads 'Gerizim' at
+    Deut 27:4. In 4QJosh(a) the altar episode seems to follow the Jordan crossing. Both points
+    matter for the history of the tradition.
+  - >-
+    The 2022-23 claims of a proto-alphabetic 'curse tablet' naming YHW, from wet-sifted spoil,
+    have been widely rejected by epigraphers, and no inscription is visible in published images.
+    Present it as a disputed claim and a caution.
+  sources_to_check: [NEAEHL]
+  image_query: Mount Ebal structure el-Burnat
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates from Wikidata Q1975866 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 32.234
+  lon: 35.2733
+  source: wikidata:Q1975866

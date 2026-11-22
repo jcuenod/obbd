@@ -1,0 +1,85 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: temple-scroll
+title: Temple Scroll (11QTᵃ)
+aliases: [11QTᵃ, 11Q19]
+type: artifact
+cultures: [jewish]
+date:
+  from: -30
+  to: 30
+  circa: true
+  display: c. 30 BCE–30 CE
+scope: >-
+  The longest Qumran scroll (11Q19, with 11Q20 and possibly 4Q524). It presents in divine
+  first-person speech a reworked law for an ideal temple, its courts, festivals, purity, and
+  the king, drawing chiefly on Exodus, Leviticus, and Deuteronomy. The date given is the copy;
+  composition is earlier, probably 2nd century BCE.
+passages:
+- ref: Exod 25-30
+  rel: parallel
+  note: Sanctuary building instructions rewritten for a permanent temple
+- ref: Deut 12-26
+  rel: parallel
+  note: Deuteronomic laws reworked as direct divine speech
+- ref: Deut 17:14-20
+  rel: parallel
+  note: Law of the King greatly expanded (11QT 56:12-59:21)
+- ref: Deut 17:17
+  rel: practice
+  note: King may take no other wife while the first lives (11QT 57:17-19)
+- ref: Deut 21:22-23
+  rel: practice
+  note: Hanging on a tree for treason (11QT 64:6-13)
+- ref: Gal 3:13
+  rel: concept
+  note: '''Cursed is everyone who hangs on a tree'' applied to crucifixion'
+- ref: Lev 23:15-21
+  rel: practice
+  note: Fifty-day counts extended to festivals of new wine and new oil
+- ref: Ezek 40-48
+  rel: concept
+  note: Visionary temple with concentric courts
+related: [dead-sea-scrolls, herods-temple, temple-as-cosmos, crucifixion, jubilees, tabernacle,
+  qumran]
+location:
+  institution: Israel Museum, Jerusalem (Shrine of the Book)
+  accession: null
+media:
+- id: temple-scroll
+  role: primary
+external:
+  wikipedia: Temple Scroll
+  wikidata: Q2210843
+editorial:
+  author_notes:
+  - Describe Yadin's acquisition of the scroll in 1967 and its condition.
+  - >-
+    Debate on whether it is a sectarian or pre-sectarian work, and on its claim to authority
+    (a 'new Torah'? Wacholder; replacement or supplement).
+  - Note the shared 364-day calendar and festival system with Jubilees.
+  - >-
+    The hanging law (cols. 64) and 4QpNahum are key evidence for Jewish discussions of crucifixion;
+    present the debate over whether 'hanging' means crucifixion.
+  sources_to_check:
+  - Y. Yadin, The Temple Scroll, 3 vols. (1983)
+  - >-
+    F. García Martínez, E. J. C. Tigchelaar, and A. S. van der Woude, Qumran Cave 11.II (DJD
+    XXIII, 1998)
+  - >-
+    L. H. Schiffman, The Courtyards of the House of the Lord: Studies on the Temple Scroll
+    (2008)
+  image_query: Temple Scroll 11Q19 Israel Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

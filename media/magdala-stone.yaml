@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: magdala-stone
+file: magdala-stone.jpg
+title: Magdala Stone (4).jpg
+caption: >-
+  The Magdala Stone with its carved seven-branched menorah, as displayed at the first-century
+  synagogue at Magdala; the stone shown at the site is a replica.
+description: Magdala is the name of ancient town located on the shore of the Sea of Galilee
+creator: Hanay
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Hanay, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Magdala_Stone_(4).jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/c/cc/Magdala_Stone_%284%29.jpg
+  sha1: 333ed313ed7c0d383b2fa79ef6afcd599c5a95a8
+  original_size: [2560, 1920]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [magdala-stone]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

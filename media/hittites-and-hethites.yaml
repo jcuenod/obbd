@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: hittites-and-hethites
+file: hittites-and-hethites.jpg
+title: Lion Gate, Hattusa 16.jpg
+caption: The Lion Gate of Hattusa, capital of the Hittite empire, 13th century BCE.
+description: >-
+  The Lion Gate flanked by two towers, located at the southwest of the city, the lions were
+  put at the entrance of the city to ward off evil, Hattusa, capital of the Hittite Empire
+creator: Carole Raddato from FRANKFURT, Germany
+credit_line: >-
+  The Lion Gate flanked by two towers, located at the southwest of the city, the lions were
+  put at the entrance of the city to ward off evil, Hattusa, capital of the Hittite Empire
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: Carole Raddato from FRANKFURT, Germany, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Lion_Gate,_Hattusa_16.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/2/22/Lion_Gate%2C_Hattusa_16.jpg
+  sha1: cdde2886277d793dea810ad154df39d18db18a80
+  original_size: [3264, 4928]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1060×1600 px
+size: [1060, 1600]
+depicts: [hittites-and-hethites]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,86 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: phoenicians
+title: Phoenicians
+aliases: [Phoenicia, Sidonians, Kinaḫḫu]
+type: people
+cultures: [phoenician]
+date:
+  from: -1200
+  to: -332
+  circa: true
+  display: c. 1200–332 BCE
+scope: >-
+  The Iron Age city-states of the Lebanese coast (Tyre, Sidon, Byblos, Arwad) and their Mediterranean
+  networks and colonies. Covers Phoenician history, language and script, religion, crafts
+  and seafaring, and their close ties with Israel and Judah.
+passages:
+- ref: 1Kgs 5:1-12
+  rel: setting
+  note: Hiram supplies cedar and craftsmen for the temple (MT 5:15-26)
+- ref: 1Kgs 7:13-14
+  rel: setting
+  note: Hiram the bronzesmith from Tyre
+- ref: 1Kgs 9:26-28
+  rel: setting
+  note: Phoenician sailors in Solomon's Red Sea fleet
+- ref: 1Kgs 16:31-33
+  rel: setting
+  note: Jezebel, daughter of Ethbaal of the Sidonians; Baal cult in Samaria
+- ref: Isa 23
+  rel: setting
+  note: Oracle on the maritime wealth of Tyre and Sidon
+- ref: Ezek 27
+  rel: setting
+  note: Lament over Tyre as a merchant ship; trade inventory
+- ref: Ezek 28:1-19
+  rel: setting
+  note: Oracle against the prince and king of Tyre
+- ref: Joel 3:4-6
+  rel: setting
+  note: Tyre and Sidon sell Judeans to the Greeks (MT 4:4-6)
+- ref: Mark 7:26
+  rel: setting
+  note: The Syrophoenician woman
+- ref: Acts 11:19
+  rel: setting
+  note: Believers scattered as far as Phoenicia
+related: [tyre, sidon, byblos, phoenician-seafaring, purple-dye, melqart, hiram-of-tyre, ahiram-sarcophagus]
+media:
+- id: ahiram-sarcophagus
+  role: primary
+external:
+  wikipedia: Phoenicia
+  wikidata: Q41642
+editorial:
+  author_notes:
+  - >-
+    The name 'Phoenician' is a Greek exonym. The inhabitants identified themselves by city
+    (Sidonians, Tyrians) or as Canaanites; Augustine reports that North African Punic speakers
+    called themselves 'Chanani'.
+  - >-
+    The Phoenician alphabet was transmitted to the Greeks. Phoenician inscriptions (Byblos,
+    Karatepe, Kilamuwa) are basic to Hebrew and Aramaic epigraphy.
+  - >-
+    The dates of westward expansion (Kition, Carthage, Sardinia, Iberia) are debated (late
+    tenth to eighth centuries). Radiocarbon has pushed some earlier.
+  - >-
+    Their religion (Baal, Melqart, Astarte, Eshmun) and the tophet debate should be cross-referenced.
+    Phoenician craftsmanship (ivories, metalwork, architecture) is background to the Solomonic
+    building accounts.
+  sources_to_check:
+  - Aubet, The Phoenicians and the West (2nd ed., 2001)
+  image_query: Nimrud ivory woman at the window
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

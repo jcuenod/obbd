@@ -1,0 +1,66 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: trial-by-ordeal
+title: Trial by Ordeal
+aliases: [River ordeal, Sotah, Ordeal of bitter water]
+type: practice
+cultures: [hebrew, akkadian, assyrian, amorite]
+scope: >-
+  Judicial procedures that referred an unprovable case to divine decision through a physical
+  test, especially the Mesopotamian river ordeal, and the ritual for a wife suspected of adultery
+  in Num 5:11-31. Covers whether the biblical rite should be classed as ordeal or as conditional
+  curse.
+passages:
+- ref: Num 5:11-31
+  rel: practice
+  note: Suspected wife drinks 'water of bitterness' under a conditional curse
+- ref: Num 5:21-22, 27
+  rel: practice
+  note: Physical effects on womb and 'thigh' as the sign of guilt
+- ref: Exod 22:7-11
+  rel: practice
+  note: Unprovable deposit cases settled 'before God' and by oath (MT 22:6-10)
+- ref: 1Kgs 8:31-32
+  rel: practice
+  note: Oath at the altar, with God judging between the parties
+- ref: Exod 32:20
+  rel: parallel
+  disputed: true
+  note: Israel made to drink water with the ground-up calf, often compared to Num 5
+related: [code-of-hammurabi, middle-assyrian-laws, mari-letters, oaths-and-oath-formulas,
+  blessings-and-curses, divination]
+media: []
+external:
+  wikipedia: Trial by ordeal
+  wikidata: Q40745
+editorial:
+  author_notes:
+  - >-
+    Mesopotamian river ordeal (Akk. ḫuršān; the divine River) occurs in LH §2 (sorcery) and
+    §132 (a wife accused by others), in several Middle Assyrian provisions (e.g., MAL A §§17,
+    22, 24; verify), and in Mari letters describing ordeals at Hīt. Under LH §131 a wife accused
+    by her husband takes an oath instead.
+  - >-
+    Frymer-Kensky classifies Num 5 as an ordeal. Milgrom reads it as a ritual protecting the
+    woman from mob or husbandly violence. Present both readings; most also note the text's
+    composite character.
+  - >-
+    The physical outcome is ambiguous (miscarriage, prolapse, sterility). Avoid medicalised
+    certainty.
+  - Mishnah Soṭah records the rite's elaboration and its discontinuation (m. Soṭah 9:9).
+  sources_to_check:
+  - Roth, Law Collections from Mesopotamia and Asia Minor (SBLWAW 6, 2nd ed. 1997)
+  - ANET 163-180
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

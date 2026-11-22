@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: etemenanki-3
+file: etemenanki-3.jpg
+title: Esagil tablet fragment BM 40813.jpg
+caption: >-
+  Fragment of the "Esagil tablet" giving the dimensions of Etemenanki (British Museum, BM
+  40813).
+description: >-
+  "Esagil tablet", fragment BM 40813. This tablet gives the dimensions of Etemenanki, the
+  ziggurat of Babylon. Another fragment is at the Louvre Museum.
+creator: Zunkir
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Zunkir, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Esagil_tablet_fragment_BM_40813.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/f/f6/Esagil_tablet_fragment_BM_40813.jpg
+  sha1: c2c18bf2e7b1d23d3c1d41c59855dfe9d5df439d
+  original_size: [2768, 3044]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1455×1600 px
+size: [1455, 1600]
+depicts: [etemenanki]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

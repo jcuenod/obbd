@@ -1,0 +1,72 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: waters-above-and-below
+title: Waters Above and Below
+type: concept
+cultures: [ane]
+scope: >-
+  The widespread ancient Near Eastern idea that the inhabited world is enclosed by waters,
+  held back above by the sky and lying beneath the earth as a subterranean ocean that feeds
+  springs. Covers biblical references to the upper waters, the 'water under the earth', and
+  the opening of both in the flood.
+passages:
+- ref: Gen 1:6-7
+  rel: concept
+  note: Waters divided into those above and those below the rāqîaʿ
+- ref: Gen 7:11
+  rel: concept
+  note: Fountains of the great deep burst and windows of heaven opened
+- ref: Gen 8:2
+  rel: concept
+  note: Fountains of the deep and windows of heaven closed
+- ref: Ps 148:4
+  rel: concept
+  note: '''You waters above the heavens'' summoned to praise'
+- ref: Ps 104:3
+  rel: concept
+  note: Beams of God's chambers laid on the waters
+- ref: Exod 20:4
+  rel: concept
+  note: No image of anything 'in the water under the earth'
+- ref: Deut 4:18
+  rel: concept
+  note: Fish 'in the water under the earth'
+- ref: Ps 24:2
+  rel: concept
+  note: Earth founded on the seas and established on the rivers
+- ref: Ps 136:6
+  rel: concept
+  note: Earth spread out on the waters
+- ref: Gen 49:25
+  rel: concept
+  note: '''Blessings of the deep that lies beneath''; cf. Deut 33:13'
+related: [cosmology, firmament, tehom, enuma-elish, egyptian-cosmology, flood-traditions,
+  bronze-sea]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Mesopotamian cosmology locates the apsû, the freshwater ocean of Enki/Ea, beneath the
+    earth as the source of springs and rivers. Egyptian cosmology places the primeval waters
+    of Nun around and beneath the ordered world. In both, creation is the setting of bounds
+    within surrounding waters.
+  - >-
+    The flood narrative is best read cosmologically, as the reopening of the barriers set
+    in Gen 1. This is a widely held reading, not a fringe one.
+  - >-
+    Note the beneficent role of the lower waters (springs, fertility) alongside their threatening
+    role, and avoid reducing all biblical water imagery to "chaos".
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

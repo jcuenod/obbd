@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ain-dara-temple
+file: ain-dara-temple.jpg
+title: Ain Dara Alp1.jpg
+caption: The Iron Age Syro-Hittite temple at ʿAin Dara, northwest of Aleppo.
+description: Ain Dara, located northwest of Aleppo, Syria, an Iron Age Syro-Hittite temple.
+creator: Institute for the Study of the Ancient World Contact
+credit_line: https://www.flickr.com/photos/isawnyu/5446033390/
+license:
+  id: CC-BY-2.0
+  name: CC BY 2.0
+  url: https://creativecommons.org/licenses/by/2.0
+attribution: Institute for the Study of the Ancient World Contact, CC BY 2.0, via Wikimedia
+  Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ain_Dara_Alp1.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/4/46/Ain_Dara_Alp1.jpg
+  sha1: d58244974c9690d37c71da3f076b4216e2d76409
+  original_size: [2560, 1920]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [ain-dara-temple]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

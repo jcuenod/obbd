@@ -1,0 +1,68 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: sargon-ii
+title: Sargon II
+type: person
+cultures: [assyrian]
+date:
+  from: -722
+  to: -705
+  display: 722–705 BCE
+scope: >-
+  King of Assyria, probably a usurper, who claimed the conquest of Samaria, crushed western
+  revolts at Qarqar (720) and Ashdod (712/711), built Dur-Sharrukin (Khorsabad), and died
+  in battle in Anatolia. He is named in the Bible only at Isa 20:1.
+passages:
+- ref: Isa 20:1
+  rel: attests
+  note: Sargon sends his commander (tartan) against Ashdod
+- ref: 2Kgs 17:6, 24
+  rel: event
+  note: Capture and resettlement of Samaria, claimed by Sargon
+- ref: 2Kgs 18:10-11
+  rel: event
+  note: Fall of Samaria and deportation
+- ref: Isa 10:9-11
+  rel: event
+  note: Hamath, Arpad and Samaria among Assyria's conquests
+- ref: Isa 14:18-20
+  rel: event
+  disputed: true
+  note: The king denied burial, often linked to Sargon's death in battle in 705
+related: [sargon-ii-inscriptions, fall-of-samaria, ashdod, samaria, shalmaneser-v, sennacherib,
+  merodach-baladan]
+media:
+- id: fall-of-samaria
+  role: primary
+- id: sargon-ii
+  role: gallery
+external:
+  wikipedia: Sargon II
+  wikidata: Q208336
+editorial:
+  author_notes:
+  - >-
+    Sargon II was virtually unknown outside Isa 20:1 until Botta excavated Khorsabad in 1843-1844;
+    this is a classic case study in the history of biblical archaeology.
+  - >-
+    Present the debate over who took Samaria (Shalmaneser V in 722 vs Sargon in 720) neutrally.
+  - >-
+    Sargon's death in battle, with his body lost and unburied, caused theological anxiety
+    in Assyria (the 'Sin of Sargon' text); the Isa 14 link (Ginsberg) is debated.
+  sources_to_check:
+  - RINAP 2 (Frame 2021)
+  - Fuchs, Die Inschriften Sargons II. aus Khorsabad (1994)
+  image_query: Sargon II relief Khorsabad Louvre
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

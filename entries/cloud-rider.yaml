@@ -1,0 +1,75 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: cloud-rider
+title: Rider on the Clouds
+aliases: [rider on the clouds]
+type: concept
+cultures: [ugaritic, canaanite]
+scope: >-
+  The portrayal of YHWH as riding on clouds, winds, or cherubim, and its background in the
+  Ugaritic epithet of Baal, rkb ʿrpt ("Rider of the Clouds"), and in Near Eastern storm-god
+  imagery. Includes the Danielic "one like a son of man" coming with the clouds.
+passages:
+- ref: Ps 68:4
+  rel: language
+  disputed: true
+  note: >-
+    rōkēb bāʿărābôt, 'rider on the clouds' or 'in the steppes'; cf. Ugaritic rkb ʿrpt; MT
+    68:5
+- ref: Ps 68:33
+  rel: imagery
+  note: '''Rider in the heavens, the ancient heavens''; MT 68:34'
+- ref: Deut 33:26
+  rel: imagery
+  note: God rides through the heavens and the skies
+- ref: Ps 18:10-11
+  rel: imagery
+  note: Rode on a cherub, flew on the wings of the wind; MT 18:11-12
+- ref: Ps 104:3
+  rel: imagery
+  note: Clouds as chariot, riding on the wings of the wind
+- ref: Isa 19:1
+  rel: imagery
+  note: YHWH rides on a swift cloud to Egypt
+- ref: Nah 1:3
+  rel: imagery
+  note: Clouds are the dust of his feet
+- ref: Dan 7:13
+  rel: imagery
+  disputed: true
+  note: One like a human being comes with the clouds; Baal-El background proposed
+- ref: Mark 14:62
+  rel: imagery
+  note: Son of Man coming with the clouds of heaven
+related: [baal, baal-cycle, divine-warrior, cherub-throne, ezekiel-throne-chariot, composite-beasts-daniel,
+  hadad-rimmon]
+media:
+- id: cloud-rider
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    rkb ʿrpt is a standing epithet of Baal in the Ugaritic texts (e.g. KTU 1.2 IV 8, 29).
+    Most scholars see YHWH's assumption of this role as part of Israel's absorption of storm-god
+    imagery and as implicitly polemical.
+  - >-
+    The reading in Ps 68:4 is debated. MT ʿărābôt usually means "steppes", and many emend
+    or explain it as a variant of ʿrpt. Mark it as contested.
+  - >-
+    The proposal (Emerton; Collins) that Dan 7:9-14 draws on the Canaanite pairing of El (Ancient
+    of Days) and Baal (cloud rider) is widely discussed but not universally accepted.
+  image_query: Baal with thunderbolt stele Louvre
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

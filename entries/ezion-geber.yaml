@@ -1,0 +1,102 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ezion-geber
+title: Ezion-geber (Tell el-Kheleifeh)
+aliases: [Ezion-geber, Tell el-Kheleifeh, Elath]
+type: site
+cultures: [judahite, edomite]
+scope: >-
+  The port at the head of the Gulf of Aqaba from which Solomon's and Jehoshaphat's Red Sea
+  ventures set out, and a station on the wilderness itinerary. The entry covers the unresolved
+  identification (Tell el-Kheleifeh, Jeziret Faraʿun), the relation to Elath, and the dismantling
+  of Glueck's 'Solomonic smelter'.
+passages:
+- ref: Num 33:35-36
+  rel: setting
+  note: A station on the wilderness itinerary before Kadesh
+- ref: Deut 2:8
+  rel: setting
+  note: Israel passes Elath and Ezion-geber on the Arabah road
+- ref: 1Kgs 9:26-28
+  rel: setting
+  note: Solomon builds ships at Ezion-geber near Eloth; Hiram's sailors fetch gold from Ophir
+- ref: 2Chr 8:17-18
+  rel: setting
+  note: Solomon at Ezion-geber and Eloth on the shore in Edom
+- ref: 1Kgs 22:48
+  rel: setting
+  note: Jehoshaphat's ships wrecked at Ezion-geber (MT 22:49)
+- ref: 2Chr 20:35-37
+  rel: setting
+  note: Jehoshaphat's joint fleet with Ahaziah wrecked
+- ref: 2Kgs 14:22
+  rel: setting
+  note: Azariah rebuilds Elath and restores it to Judah
+- ref: 2Kgs 16:6
+  rel: setting
+  note: >-
+    Elath lost to Edom (Kethiv 'Arameans', Qere 'Edomites'; 'Aram' in v. 6a often emended
+    to 'Edom')
+related: [ophir, phoenician-seafaring, edomites, edomite-inscriptions, solomon, hiram-of-tyre,
+  copper-production, timna]
+media:
+- id: ezion-geber
+  role: primary
+external:
+  wikipedia: Ezion-Geber
+  wikidata: Q1386052
+editorial:
+  author_notes:
+  - >-
+    Glueck excavated Tell el-Kheleifeh (1938-40), identified it as Ezion-geber, and interpreted
+    its main building as a Solomonic copper smelter. He later withdrew the smelter interpretation
+    himself. The building is now seen as a fort or storehouse, and its 'flues' as beam holes.
+    Treat the 'Solomon's copper refinery' claim as a discredited misconception.
+  - >-
+    Pratico's reappraisal of Glueck's records dates the occupation from the eighth to the
+    fourth century BCE, with nothing clearly of the tenth century. Tell el-Kheleifeh may therefore
+    be Elath, or an Edomite or Judahite fort, rather than Solomon's port. Jeziret Faraʿun
+    (Coral Island), with its natural anchorage, is another proposal. Leave the identification
+    open.
+  - >-
+    Edomite material at Tell el-Kheleifeh includes the 'Qosʿanal, servant of the king' jar
+    impressions and handmade 'Negebite' pottery. Link to edomite-inscriptions.
+  - >-
+    The Red Sea trade in the Solomon and Jehoshaphat stories is plausible geographically,
+    but its scale and date are debated. Connect to ophir and phoenician-seafaring rather than
+    repeating that material.
+  - >-
+    2 Kgs 16:6: MT reads 'Rezin king of Aram recovered Elath for Aram' with Qere 'Edomites'
+    later in the verse; NRSV emends to Edom throughout. Explain this briefly.
+  sources_to_check:
+  - >-
+    G. D. Pratico, Nelson Glueck's 1938-1940 Excavations at Tell el-Kheleifeh: A Reappraisal
+    (1993)
+  image_query: Tell el-Kheleifeh
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: 2Kgs 16:6 note corrected: Kethiv 'Arameans' / Qere
+    'Edomites', emendation of v. 6a noted
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates from Wikidata Q1386052 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 29.54722
+  lon: 34.98028
+  source: wikidata:Q1386052

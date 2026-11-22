@@ -1,0 +1,65 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: nabonidus-chronicle
+title: Nabonidus Chronicle
+aliases: [ABC 7]
+type: artifact
+cultures: [babylonian]
+scope: >-
+  The Babylonian chronicle of Nabonidus's reign (556-539 BCE), recording his long residence
+  at Tayma, the crown prince's presence in Babylonia, the neglect of the New Year festival,
+  and Cyrus's conquest of Babylon in 539.
+passages:
+- ref: Dan 5:30-31
+  rel: event
+  note: Babylon taken by Cyrus's army under Ugbaru without battle, October 539 (MT 5:30-6:1)
+- ref: Dan 5:1
+  rel: attests
+  note: Crown prince (Belshazzar, unnamed) in Babylonia while Nabonidus stayed at Tayma
+- ref: Isa 45:1-2
+  rel: event
+  note: Cyrus's conquests; gates opened before him
+- ref: Isa 46:1-2
+  rel: practice
+  note: Gods of Babylonian cities brought into Babylon before the Persian advance
+related: [nabonidus, belshazzar, cyrus-the-great, fall-of-babylon-539, cyrus-cylinder, darius-the-mede,
+  verse-account-of-nabonidus, akitu-festival]
+location:
+  institution: British Museum, London
+  accession: null
+media:
+- id: fall-of-babylon-539
+  role: primary
+external:
+  wikipedia: Nabonidus Chronicle
+  wikidata: Q623986
+editorial:
+  author_notes:
+  - >-
+    Key entries: battle at Opis; Sippar taken without battle; Babylon entered by Ugbaru (Gubaru),
+    governor of Gutium, on 16 Tashritu; Cyrus enters on 3 Arahsamnu (late October 539).
+  - >-
+    The prince is called mār šarri ('son of the king'), not king, which bears on Daniel's
+    portrayal of Belshazzar as king and son of Nebuchadnezzar.
+  - >-
+    Relevant to the 'Darius the Mede' problem: no such figure appears, though Gubaru appoints
+    governors. Present the identifications proposed in the literature neutrally.
+  - >-
+    The supposed reference to Lydia in 547 rests on a damaged sign; avoid citing it as certain.
+  sources_to_check:
+  - A. K. Grayson, Assyrian and Babylonian Chronicles (1975), Chronicle 7
+  - ANET 305-307
+  image_query: Nabonidus Chronicle British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

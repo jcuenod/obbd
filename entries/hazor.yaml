@@ -1,0 +1,83 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: hazor
+title: Hazor
+aliases: [Tel Hazor, Tell el-Qedah]
+type: site
+cultures: [canaanite, israelite]
+scope: >-
+  The largest Bronze Age city of the southern Levant, in the Huleh basin of upper Galilee,
+  with an upper city and a vast lower city, and later an Israelite fortified town. Covers
+  its Bronze Age prominence, the Late Bronze destruction, and the Iron Age strata down to
+  the Assyrian conquest.
+passages:
+- ref: Josh 11:1-13
+  rel: setting
+  disputed: true
+  note: Jabin of Hazor's coalition; Hazor 'head of all those kingdoms' burned by Joshua
+- ref: Josh 19:36
+  rel: setting
+  note: Hazor in the allotment of Naphtali
+- ref: Judg 4:2, 17
+  rel: setting
+  note: Jabin king of Canaan, who reigned in Hazor
+- ref: 1Kgs 9:15
+  rel: attests
+  disputed: true
+  note: Solomon builds Hazor; six-chambered gate and casemate wall
+- ref: 2Kgs 15:29
+  rel: attests
+  note: Tiglath-pileser III takes Hazor (732 BCE); destruction of Stratum V
+related: [low-chronology-debate, emergence-of-israel, mari-letters, amarna-letters, tiglath-pileser-iii,
+  megiddo, gezer]
+media:
+- id: hazor
+  role: primary
+- id: hazor-2
+  role: gallery
+external:
+  wikipedia: Tel Hazor
+  wikidata: Q740138
+  pleiades: '779967430'
+editorial:
+  author_notes:
+  - >-
+    Hazor appears in the Mari archives (eighteenth century) as a major trading city and in
+    the Amarna letters (e.g. EA 227-228; verify). Both are unusual for a southern Levantine
+    city.
+  - >-
+    The violent destruction of the Late Bronze city (thirteenth century) is undisputed, but
+    who caused it is not. Ben-Tor and Yadin attribute it to Israelites, Zuckerman argues for
+    an internal revolt, and others propose Egyptian or other agents. The date is also debated.
+  - >-
+    Yadin assigned the Stratum X gate and casemate wall to Solomon. Finkelstein and others
+    place them in the ninth century. Present this as part of the chronology debate.
+  - >-
+    Jabin appears both in Josh 11 and in Judg 4, which raises literary-historical questions.
+    The 'Hazor' of Jer 49:28-33 is an Arabian location and should not be confused with this
+    site.
+  sources_to_check:
+  - NEAEHL
+  - Ben-Tor, Hazor - Canaanite Metropolis, Israelite City (2016)
+  image_query: Tel Hazor
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q740138 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 33.01833
+  lon: 35.56917
+  source: wikidata:Q740138

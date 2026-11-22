@@ -1,0 +1,109 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: baptism
+title: Baptism
+aliases: [Immersion, John's baptism, Proselyte baptism]
+type: practice
+cultures: [jewish, christian]
+scope: >-
+  Ritual immersion in water as practised by John the Baptist and the early Christian movement,
+  set against its background in biblical purification law and Second Temple Jewish washing
+  rites (miqvaʾot, Qumran, proselyte immersion). The entry covers the New Testament period;
+  later liturgical development and the infant-baptism debate are mentioned only briefly.
+passages:
+- ref: Mark 1:4-11
+  rel: practice
+  note: John's 'baptism of repentance' in the Jordan; Jesus baptized by John
+- ref: Luke 3:7-16
+  rel: practice
+  note: >-
+    John's ethical demands on those coming for baptism; water contrasted with Spirit and fire
+- ref: John 3:22-4:2
+  rel: practice
+  note: John and Jesus' disciples baptizing side by side; dispute 'about purification'
+- ref: Lev 15:5-13
+  rel: practice
+  note: Bathing in water to end impurity, the basis of later Jewish immersion
+- ref: 2Kgs 5:10-14
+  rel: language
+  note: Naaman dips seven times in the Jordan; LXX renders the verb ebaptisato
+- ref: Ezek 36:25-27
+  rel: imagery
+  note: Eschatological cleansing with water joined to the gift of a new spirit
+- ref: Mark 7:3-4
+  rel: language
+  note: baptizō/baptismos used for Jewish washings of persons and vessels
+- ref: Acts 2:38-41
+  rel: practice
+  note: Baptism 'in the name of Jesus Christ' for forgiveness, with the gift of the Spirit
+- ref: Acts 19:1-7
+  rel: practice
+  note: Disciples who knew only 'John's baptism' are baptized in the name of Jesus
+- ref: Rom 6:3-4
+  rel: concept
+  note: Baptism as burial with Christ into death and rising to new life
+related: [stone-vessels-and-mikvaot, purity-and-impurity, qumran, community-rule, jewish-sects,
+  josephus, herod-antipas, circumcision]
+media:
+- id: baptism
+  role: primary
+- id: baptism-2
+  role: gallery
+external:
+  wikipedia: Baptism
+editorial:
+  author_notes:
+  - >-
+    Greek baptō/baptizō means 'dip, immerse'. Note its LXX and Jewish uses (2 Kgs 5:14; Jdt
+    12:7; Sir 34:25 [31:30], numbering to verify) and the NT washings in Mark 7:4 and Luke
+    11:38. Whether early Christian baptism was always full immersion is debated: Didache 7
+    allows pouring when running or cold water is lacking.
+  - >-
+    Contrast John's rite with Jewish purification. Jewish immersions were repeated and self-administered.
+    John's was apparently once only, administered by him ('baptized by him'), and tied to
+    repentance and coming judgment. Josephus (Ant. 18.116-119) says John's baptism did not
+    remit sins but consecrated the body once the soul was purified by righteousness. Present
+    this tension with Mark 1:4 neutrally.
+  - >-
+    Qumran: 1QS 3:4-9 and 5:13-14 link washing to repentance and the holy spirit, and ritual
+    baths are found at the site. The view that John had Essene connections is possible but
+    unproven. Do not present it as established.
+  - >-
+    Proselyte immersion is clearly attested only in rabbinic sources (e.g. m. Pesaḥ. 8:8;
+    b. Yebam. 46a-47b), with a possible earlier allusion in Epictetus (Arrian, Diss. 2.9.20).
+    Whether it existed before 70 CE is debated, so it should not be presented as the source
+    of John's baptism.
+  - >-
+    The older history-of-religions derivation of Pauline baptism (Rom 6) from mystery-cult
+    initiation (e.g. Isis in Apuleius, Met. 11) is now widely rejected or heavily qualified.
+    Mention Matt 28:19's triadic formula beside the 'name of Jesus' formula in Acts, and give
+    the household baptisms (Acts 16:15, 33) only as the point where the infant-baptism debate
+    begins.
+  sources_to_check:
+  - Josephus, Antiquities 18.116-119
+  - 1QS (Community Rule) 3:4-9; 5:13-14
+  - Didache 7
+  - 'J. E. Taylor, The Immerser: John the Baptist within Second Temple Judaism (1997)'
+  - 'R. L. Webb, John the Baptizer and Prophet: A Socio-Historical Study (JSNTSup 62, 1991)'
+  - >-
+    J. D. Lawrence, Washing in Water: Trajectories of Ritual Bathing in the Hebrew Bible and
+    Second Temple Literature (2006)
+  - >-
+    A. J. M. Wedderburn, Baptism and Resurrection: Studies in Pauline Theology against Its
+    Graeco-Roman Background (WUNT 44, 1987)
+  - >-
+    E. Ferguson, Baptism in the Early Church: History, Theology, and Liturgy in the First
+    Five Centuries (2009)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-21'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

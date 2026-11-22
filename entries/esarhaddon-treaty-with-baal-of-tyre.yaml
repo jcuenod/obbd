@@ -1,0 +1,98 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: esarhaddon-treaty-with-baal-of-tyre
+title: Esarhaddon's Treaty with Baal of Tyre
+aliases: [Treaty of Esarhaddon with Baal of Tyre, SAA 2 5]
+type: text
+cultures: [assyrian, phoenician]
+date:
+  from: -681
+  to: -669
+  circa: true
+  display: c. 681–669 BCE
+scope: >-
+  A fragmentary Neo-Assyrian treaty imposed by Esarhaddon on Baal (Baʿalu), king of Tyre.
+  It regulates Tyre's trade, ports and shipwrecks under Assyrian supervision and ends with
+  curses invoking Assyrian gods together with Bethel, Anat-Bethel, Baal-shamayin, Baal-malage,
+  Baal-saphon, Melqart, Eshmun and Astarte. It is the only surviving Assyrian treaty with
+  a Phoenician city.
+passages:
+- ref: Ezek 27:25-36
+  rel: imagery
+  note: >-
+    Tyre as a laden ship wrecked by the east wind; cf. the treaty's storm-god curse on Tyre's
+    ships
+- ref: Ps 48:7
+  rel: imagery
+  note: The east wind shatters the ships of Tarshish (MT 48:8)
+- ref: Ezek 27:12-25
+  rel: setting
+  note: Tyre's trading partners and goods, the commerce the treaty regulates
+- ref: Amos 1:9
+  rel: practice
+  note: Tyre condemned for forgetting the 'covenant of brothers'
+- ref: 1Kgs 5:12
+  rel: practice
+  note: Treaty (bĕrît) between Hiram of Tyre and Solomon (MT 5:26)
+- ref: 2Kgs 21:1
+  rel: setting
+  note: Manasseh, listed with Baal of Tyre among Esarhaddon's western vassals
+- ref: Jer 48:13
+  rel: language
+  disputed: true
+  note: Bethel as a divine name; the treaty invokes Bethel and Anat-Bethel
+- ref: Dan 9:27; 11:31; 12:11
+  rel: language
+  note: >-
+    'Abomination that desolates', widely read as a pun on Baal-shamem, a god invoked in the
+    curses
+related: [esarhaddon, tyre, melqart, esarhaddon-succession-treaty, covenant-and-treaty-form,
+  blessings-and-curses, phoenician-seafaring, esarhaddon-prisms]
+location:
+  institution: British Museum, London
+  accession: null
+media:
+- id: esarhaddon-treaty-with-baal-of-tyre
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The date within Esarhaddon's reign is uncertain; a date soon after the destruction of
+    Sidon (677/676) is often proposed. Ashurbanipal later besieged Baal (Rassam Cylinder),
+    so the treaty did not secure lasting loyalty.
+  - >-
+    The trade clauses are the most informative part: they name ports and routes (Akko, Dor,
+    the Philistine coast, Byblos, the Lebanon) and specify that the cargo of a Tyrian ship
+    wrecked on Assyrian-controlled coast belongs to the king while the crew is spared. Explain
+    what this shows about Assyrian economic interest in Phoenician trade.
+  - >-
+    The curse list is valuable evidence for the Phoenician pantheon in the 7th century, including
+    the first-millennium god Bethel. Do not overstate links to Jer 48:13, where the reading
+    of Bethel as a god is debated.
+  - >-
+    The tablet is badly broken, so translations differ in restorations. Quote from SAA 2 and
+    mark restorations.
+  sources_to_check:
+  - S. Parpola and K. Watanabe, Neo-Assyrian Treaties and Loyalty Oaths (SAA 2, 1988), no.
+    5
+  - ANET 533-534
+  image_query: Esarhaddon treaty Baal of Tyre tablet
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: 'Passage tags checked against WEB text: Ezek 27:25-36 note shortened to 20 words or
+    fewer'
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

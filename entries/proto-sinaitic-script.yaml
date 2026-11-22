@@ -1,0 +1,67 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: proto-sinaitic-script
+title: Origins of the Alphabet (Proto-Sinaitic)
+aliases: [Proto-Canaanite script, Early alphabet]
+type: concept
+cultures: [canaanite, egyptian]
+scope: >-
+  The invention of the alphabet by Semitic speakers in contact with Egyptian writing in the
+  Middle Bronze Age, seen in the inscriptions of Serabit el-Khadim (Sinai) and Wadi el-Ḥol
+  (Egypt). The entry also covers its development through Proto-Canaanite to the linear Phoenician
+  alphabet c. 1050. Later national scripts are treated under paleo-hebrew-script and aramaic-language.
+passages:
+- ref: Ps 119
+  rel: form
+  note: Alphabetic acrostic built on the inherited letter sequence
+- ref: Lam 1
+  rel: form
+  note: Alphabetic acrostic
+related: [writing-and-literacy, paleo-hebrew-script, izbet-sartah-abecedary, ahiram-sarcophagus,
+  scribes-and-scribal-education, ugaritic-texts, egyptian-loanwords]
+media:
+- id: proto-sinaitic-script
+  role: primary
+- id: proto-sinaitic-script-2
+  role: gallery
+external:
+  wikipedia: Proto-Sinaitic script
+  wikidata: Q1065250
+editorial:
+  author_notes:
+  - >-
+    Explain the acrophonic principle (Egyptian signs given Semitic sound values: ʾalp, bayt,
+    etc.) and Gardiner's 1916 decipherment of lbʿlt 'for Baalat'.
+  - >-
+    Dating is debated: Middle Kingdom (c. 1850-1800, Wadi el-Ḥol; Goldwasser's miners' theory)
+    versus later Bronze Age dates for some Serabit texts.
+  - >-
+    Reject fringe claims that the Proto-Sinaitic texts are in Hebrew or mention Moses or the
+    exodus.
+  - >-
+    The Bronze Age alphabet does not establish that Mosaic-era writing as narrated in Exodus
+    is historical. Keep the Sinai passages as narrative setting only.
+  sources_to_check:
+  - Hamilton, The Origins of the West Semitic Alphabet in Egyptian Scripts (2006)
+  - Darnell et al., AASOR 59 (2005)
+  - >-
+    Sass, The Genesis of the Alphabet and Its Development in the Second Millennium B.C. (1988)
+  - Goldwasser, BAR 36:2 (2010)
+  image_query: Proto-Sinaitic inscription sphinx Serabit el-Khadim British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: 'Passage tags checked against WEB text: Removed weak Exod 17:14; 24:4; 34:27-28 tag'
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

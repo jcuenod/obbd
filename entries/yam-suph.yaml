@@ -1,0 +1,84 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: yam-suph
+title: Yam Suph ("Red Sea"/"Reed Sea")
+aliases: [Red Sea, Reed Sea, Sea of Reeds]
+type: site
+cultures: [egyptian, hebrew]
+scope: >-
+  The Hebrew yam sûp, traditionally the "Red Sea" (following the Septuagint's erythra thalassa)
+  and often rendered "Reed Sea". It names the sea of the exodus crossing as well as the Gulfs
+  of Suez and Aqaba. The entry covers the term's meaning, its biblical uses, and the debate
+  over the crossing's location.
+passages:
+- ref: Exod 13:18
+  rel: setting
+  note: Israel led by the wilderness road toward the Yam Suph
+- ref: Exod 14:2
+  rel: setting
+  note: Camp near Pi-hahiroth, Migdol, and Baal-zephon by the sea
+- ref: Exod 15:4
+  rel: setting
+  note: Pharaoh's officers sunk in the Yam Suph
+- ref: Exod 15:22
+  rel: setting
+  note: From the Yam Suph into the wilderness of Shur
+- ref: Num 33:8-11
+  rel: setting
+  note: 'Itinerary: sea crossing (v. 8), later a camp by the Yam Suph (vv. 10-11)'
+- ref: Exod 10:19
+  rel: setting
+  note: West wind drives the locusts into the Yam Suph
+- ref: 1Kgs 9:26
+  rel: setting
+  note: Ezion-geber on the shore of the Yam Suph (Gulf of Aqaba)
+- ref: Exod 2:3
+  rel: language
+  note: sûp 'reeds' (Egyptian ṯwf), the basis of the 'Reed Sea' rendering
+- ref: Jonah 2:5
+  rel: language
+  note: sûp as seaweed in the deep; MT 2:6
+- ref: Isa 51:10
+  rel: imagery
+  note: 'Drying up the sea and the great deep: crossing as victory over chaos'
+related: [exodus-historical-questions, egyptian-loanwords, chaoskampf, pi-ramesses, pithom,
+  kadesh-barnea]
+media:
+- id: yam-suph
+  role: primary
+external:
+  wikipedia: Yam Suph
+  wikidata: Q116702
+editorial:
+  author_notes:
+  - >-
+    The "Reed Sea" rendering rests on sûp = Egyptian ṯwf (papyrus or reeds). But several passages
+    clearly mean the Gulf of Suez or the Gulf of Aqaba (1 Kgs 9:26), so "Red Sea" is not simply
+    a mistranslation. Batto argued for a mythic "Sea of End/Extinction" reading.
+  - >-
+    Candidate crossing sites include the Lake Menzaleh/Ballah area, Lake Timsah, the Bitter
+    Lakes, and the Gulf of Suez. Hoffmeier's palaeo-environmental work on the northern Sinai
+    lagoons is relevant. No location can be confirmed.
+  - >-
+    The P strand of Exod 14 speaks only of "the sea". The term Yam Suph appears in the Song
+    of the Sea and in itinerary and Deuteronomistic texts.
+  - >-
+    Popular claims of a Gulf of Aqaba crossing at Nuweiba with "chariot wheels" on the seabed
+    (Ron Wyatt and successors) are pseudo-archaeology. Mention them only as misconceptions.
+  sources_to_check:
+  - Batto, 'The Reed Sea. Requiescat in Pace', JBL 102 (1983)
+  - Hoffmeier, Ancient Israel in Sinai (2005)
+  image_query: Great Bitter Lake Egypt
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

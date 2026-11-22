@@ -1,0 +1,80 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: inheritance-and-birthright
+title: Inheritance and Birthright
+aliases: [Primogeniture, Firstborn's double portion, Daughters of Zelophehad]
+type: practice
+cultures: [hebrew, akkadian, assyrian, hurrian]
+scope: >-
+  Inheritance law and practice in ancient Israel: the firstborn's preferential share, the
+  narrative motif of the displaced firstborn, inheritance by daughters, and comparative evidence
+  from Mesopotamia, Nuzi, Emar, and Elephantine.
+passages:
+- ref: Deut 21:15-17
+  rel: practice
+  note: Firstborn's double portion (pî šĕnayim) despite the father's preference
+- ref: Gen 25:29-34
+  rel: practice
+  note: Esau sells his birthright to Jacob
+- ref: Gen 27:1-40
+  rel: practice
+  note: Deathbed blessing obtained by Jacob
+- ref: Gen 48:13-20
+  rel: practice
+  note: Jacob crosses his hands, preferring Ephraim
+- ref: Gen 49:3-4
+  rel: practice
+  note: Reuben loses pre-eminence (cf. Gen 35:22)
+- ref: 1Chr 5:1-2
+  rel: practice
+  note: Reuben's birthright transferred to Joseph's sons
+- ref: Num 27:1-11
+  rel: practice
+  note: Daughters of Zelophehad inherit where there is no son
+- ref: Num 36:1-12
+  rel: practice
+  note: Heiresses must marry within their tribe
+- ref: Job 42:15
+  rel: practice
+  note: Job's daughters receive inheritance with their brothers
+- ref: 2Kgs 2:9
+  rel: imagery
+  note: Elisha asks for a 'double share' of Elijah's spirit
+related: [land-redemption, adoption, levirate-marriage, nuzi-texts, emar-texts, code-of-hammurabi,
+  middle-assyrian-laws, elephantine-papyri]
+media: []
+external:
+  wikipedia: Primogeniture
+  wikidata: Q250843
+editorial:
+  author_notes:
+  - >-
+    Practice varied in the ancient Near East. LH generally divides equally among sons (§§165-167),
+    while other Mesopotamian and Nuzi sources (and MAL B §1) give the eldest a preferential
+    or double share. Verify section numbers.
+  - >-
+    Emar and Nuzi wills sometimes designate daughters as heirs (e.g., by declaring them 'male
+    and female'). These are useful comparanda for Num 27 and 36, with Elephantine (Mibtahiah's
+    property) as a later case.
+  - >-
+    The Nuzi text in which a brother sells an inheritance share for sheep was once a famous
+    parallel to Gen 25:29-34. It is now considered weak and should be presented with caution.
+  - >-
+    The repeated preference for younger sons (Isaac, Jacob, Joseph, Ephraim, David, Solomon)
+    is a literary-theological motif. Do not take it as evidence against a legal norm of primogeniture.
+  sources_to_check:
+  - Roth, Law Collections from Mesopotamia and Asia Minor (SBLWAW 6, 2nd ed. 1997)
+  - Westbrook, Property and the Family in Biblical Law (JSOTSup 113, 1991)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

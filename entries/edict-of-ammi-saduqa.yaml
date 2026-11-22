@@ -1,0 +1,76 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: edict-of-ammi-saduqa
+title: Old Babylonian Mīšarum Edicts (Edict of Ammi-ṣaduqa)
+aliases: [Ammi-ṣaduqa's Edict, mīšarum edict]
+type: text
+cultures: [akkadian, babylonian]
+date:
+  from: -1646
+  to: -1646
+  circa: true
+  display: c. 1646 BCE
+scope: >-
+  The best-preserved Old Babylonian mīšarum ("equity") decree, issued by Ammi-ṣaduqa of Babylon,
+  probably at his accession. It cancelled consumer debts and arrears and released persons
+  in debt bondage, while excluding commercial loans and house-born slaves, and is the main
+  ANE analogue to biblical debt-release and jubilee laws.
+passages:
+- ref: Lev 25:8-17
+  rel: practice
+  note: Proclamation of release (dĕrôr, cognate with Akk. andurārum) in the jubilee year
+- ref: Lev 25:39-46
+  rel: practice
+  note: >-
+    Release of indebted kin but not chattel slaves; the edict also excludes house-born slaves
+- ref: Deut 15:1-11
+  rel: practice
+  note: Periodic remission of debts; foreigners excepted, as the edict excepts commercial
+    loans
+- ref: Jer 34:8-22
+  rel: practice
+  note: King's ad hoc proclamation of release, then revoked
+- ref: Neh 5:1-13
+  rel: practice
+  note: Governor's cancellation of debts and pledges in a crisis
+- ref: Isa 61:1-2
+  rel: language
+  note: '''Proclaim liberty (dĕrôr) to the captives'''
+- ref: Ezek 46:17
+  rel: language
+  note: '''Year of liberty'' (šĕnat dĕrôr) when gifted land reverts'
+related: [debt-release, sabbatical-year, slavery, hammurabi, widow-orphan-sojourner, land-redemption]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Mīšarum acts were proclaimed by several Old Babylonian kings (Hammurabi included), usually
+    at accession; Ammi-ṣaduqa's (mid-17th c.) is best preserved. Finkelstein (1961) and Kraus
+    (1984) are foundational.
+  - >-
+    Biblical law turns an ad hoc royal act into a fixed cycle (seventh and fiftieth years)
+    under divine authority (Weinfeld). Whether the jubilee was ever practised is debated.
+  - >-
+    The andurārum/dĕrôr equation is secure; Neo-Assyrian andurāru decrees show the institution's
+    persistence into the first millennium.
+  sources_to_check:
+  - F. R. Kraus, Königliche Verfügungen in altbabylonischer Zeit (1984)
+  - >-
+    J. J. Finkelstein, 'Ammiṣaduqa's Edict and the Babylonian Law Codes,' JCS 15 (1961): 91-104
+  - M. Weinfeld, Social Justice in Ancient Israel and in the Ancient Near East (1995)
+  - ANET 526-528
+  image_query: Ammi-saduqa edict tablet
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

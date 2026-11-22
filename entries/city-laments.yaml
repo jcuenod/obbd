@@ -1,0 +1,86 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: city-laments
+title: Sumerian City Laments
+aliases:
+- Lament for Ur
+- Lamentation over the Destruction of Sumer and Ur
+- Lament for Nippur
+- Lament for Eridu
+- Lament for Uruk
+type: text
+cultures: [sumerian]
+date:
+  from: -2000
+  to: -1900
+  circa: true
+  display: c. 2000–1900 BCE
+scope: >-
+  The five Sumerian city laments composed after the collapse of the Ur III state (c. 2004
+  BCE), mourning the destruction of cities and temples by divine decree, the gods' abandonment
+  of their shrines, and the hope of restoration. The entry also notes the later balag and
+  eršemma liturgical laments.
+passages:
+- ref: Lam 1-5
+  rel: form
+  note: Communal lament over a destroyed city and sanctuary
+- ref: Lam 1:1-2, 16
+  rel: imagery
+  note: City personified as a weeping woman; cf. the goddess weeping for her city
+- ref: Lam 2:1-8
+  rel: concept
+  note: The deity as enemy who destroys his own city and temple
+- ref: Ezek 10:18-19; 11:22-23
+  rel: concept
+  note: Divine abandonment of the temple before its destruction
+- ref: Ps 74:1-11
+  rel: form
+  note: Communal lament over a desecrated, burned sanctuary
+- ref: Ps 79:1-4
+  rel: form
+  note: Lament over a defiled temple and unburied dead
+- ref: Jer 48
+  rel: form
+  disputed: true
+  note: Oracle against Moab drawing on city-lament motifs (Dobbs-Allsopp)
+related: [fall-of-jerusalem-587, mesopotamian-lament-prayers, ur, mourning-rites, cult-images,
+  babylonian-exile]
+media:
+- id: city-laments
+  role: primary
+external:
+  wikipedia: Lament for Ur
+  wikidata: Q209919
+editorial:
+  author_notes:
+  - >-
+    The classic laments (Ur; Sumer and Ur; Nippur; Eridu; Uruk) are Isin-period compositions
+    tied to temple rebuilding; the first-millennium balag and eršemma laments provide a possibly
+    more direct chronological bridge to Lamentations.
+  - >-
+    McDaniel (1968) doubted direct influence on Lamentations; Dobbs-Allsopp (1993) argued
+    for a native Israelite city-lament genre with comparable motifs. Present the comparison
+    as generic and typological.
+  - >-
+    Divine abandonment of a city is a widespread Mesopotamian theme (also in Esarhaddon's
+    Babylon inscriptions and the Marduk Prophecy) relevant to Ezekiel's departing glory (Block;
+    Bodi).
+  sources_to_check:
+  - COS 1.166
+  - ANET 455-463, 611-619
+  - P. Michalowski, The Lamentation over the Destruction of Sumer and Ur (1989)
+  - F. W. Dobbs-Allsopp, Weep, O Daughter of Zion (BibOr 44, 1993)
+  image_query: Lament for Ur tablet
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

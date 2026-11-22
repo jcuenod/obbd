@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: execration-texts
+file: execration-texts.jpg
+title: Execration Figurine - E.7465.jpg
+caption: >-
+  Egyptian execration figurine inscribed with curses (Royal Museums of Art and History, Brussels,
+  E.7465).
+description: >-
+  Egyptian Execration Figurine from the Royal Museums of Art and History in Brussels (E.7465)
+creator: U0045269
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: U0045269, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Execration_Figurine_-_E.7465.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/d/dd/Execration_Figurine_-_E.7465.jpg
+  sha1: e1a5ccad24b19e09ddb0fd87038c52d60ab7094d
+  original_size: [3012, 3664]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1315×1600 px
+size: [1315, 1600]
+depicts: [execration-texts]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

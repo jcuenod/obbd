@@ -1,0 +1,86 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: clothing-and-dress
+title: Clothing and Dress
+aliases: [Garments, Tassels, Dress]
+type: realia
+cultures: [hebrew, assyrian, egyptian]
+scope: >-
+  Garments, dress codes, and the social and symbolic functions of clothing in ancient Israel,
+  using biblical texts, iconography (Egyptian paintings, Assyrian reliefs), and textile finds.
+  Priestly vestments are covered only in outline.
+passages:
+- ref: Gen 37:3, 23
+  rel: realia
+  note: Joseph's kĕtōnet passîm (long-sleeved or ornamented tunic)
+- ref: 2Sam 13:18
+  rel: realia
+  note: Tamar's kĕtōnet passîm, robe of virgin princesses
+- ref: Gen 38:14, 19
+  rel: practice
+  note: Widow's garments and veil
+- ref: Exod 28
+  rel: realia
+  note: Priestly vestments
+- ref: Deut 22:5
+  rel: practice
+  note: Prohibition on cross-gender dress
+- ref: Num 15:38-40
+  rel: practice
+  note: Tassels (ṣîṣit) with a blue cord as reminders
+- ref: Deut 22:12
+  rel: practice
+  note: Tassels on the four corners of the cloak
+- ref: Exod 22:26-27
+  rel: practice
+  note: Pledged cloak returned by sunset (MT 22:25-26)
+- ref: 1Sam 24:4
+  rel: practice
+  note: David cuts the corner (kānāp) of Saul's robe (MT 24:5)
+- ref: Ruth 3:9
+  rel: practice
+  note: '''Spread your cloak (kānāp) over your servant'' as marriage request'
+- ref: Isa 3:16-24
+  rel: realia
+  note: Catalogue of Jerusalem women's finery
+- ref: Matt 23:5
+  rel: practice
+  note: Broad phylacteries and long fringes
+related: [textiles-and-weaving, purple-dye, black-obelisk, lachish-reliefs, beni-hasan-asiatics,
+  mesad-hashavyahu-ostracon, ephod]
+media:
+- id: donkeys-and-royal-mounts-2
+  role: gallery
+- id: clothing-and-dress
+  role: primary
+external:
+  wikipedia: Biblical clothing
+  wikidata: Q4903277
+editorial:
+  author_notes:
+  - >-
+    Iconographic evidence includes the Black Obelisk (Israelite tribute bearers in long fringed
+    garments and caps), the Lachish reliefs (Judahite men in short tunics with headbands,
+    women in long mantles), and the Beni Hasan painting (multicoloured garments of Asiatics).
+    The last is often adduced for Gen 37:3 but is centuries earlier.
+  - >-
+    The meaning of kĕtōnet passîm (LXX 'many-coloured'; others 'long-sleeved' or 'reaching
+    to palms and soles') is debated.
+  - >-
+    The hem or corner carried legal and personal identity. At Mari, a prophet's hair and hem
+    (sissiktum) were sent with reports. This is background for 1 Sam 24 and Ruth 3:9.
+  - The Meṣad Ḥashavyahu ostracon illustrates the garment-pledge law in practice.
+  image_query: Black Obelisk Jehu tribute bearers
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

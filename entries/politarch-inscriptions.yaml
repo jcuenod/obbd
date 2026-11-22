@@ -1,0 +1,64 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: politarch-inscriptions
+title: Politarch Inscriptions (Thessalonica)
+type: text
+cultures: [greek, roman]
+date:
+  from: -150
+  to: 250
+  circa: true
+  display: c. 150 BCE–250 CE
+scope: >-
+  The group of Greek inscriptions, most from Thessalonica and other Macedonian cities, that
+  name politarchs as civic magistrates. They include the inscription from the Vardar Gate.
+  Together they confirm the title Acts uses for Thessalonica's officials.
+passages:
+- ref: Acts 17:6, 8
+  rel: language
+  note: Jason dragged before the city authorities (politarchai)
+- ref: Acts 16:20-22, 35-38
+  rel: language
+  note: 'Different titles at Philippi, a Roman colony: stratēgoi and rhabdouchoi'
+- ref: 1Thess 2:14
+  rel: setting
+  note: Persecution by fellow citizens in Thessalonica
+related: [gallio-inscription, erastus-inscription, imperial-cult, corinth]
+location:
+  institution: British Museum, London (Vardar Gate inscription); others in Macedonian collections
+  accession: null
+media:
+- id: politarch-inscriptions
+  role: primary
+external:
+  wikipedia: Politarch
+  wikidata: Q7210123
+editorial:
+  author_notes:
+  - >-
+    The title is rare in literary sources but well attested epigraphically, mostly in Macedonia
+    (G. H. R. Horsley's survey).
+  - >-
+    Accuracy on local titles shows Luke's familiarity with civic terminology. It does not
+    by itself prove the historicity of the episode; avoid apologetic overstatement.
+  - >-
+    Verify the date of the Vardar Gate inscription, which is often cited as 1st century CE
+    but is debated.
+  sources_to_check:
+  - >-
+    G. H. R. Horsley, 'The Politarchs', in D. W. J. Gill and C. Gempf (eds.), The Book of
+    Acts in Its Graeco-Roman Setting (1994)
+  image_query: Vardar Gate inscription politarchs British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

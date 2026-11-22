@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: iran-stele
+title: Iran Stele of Tiglath-pileser III
+aliases: [Iran Stela of Tiglath-pileser III]
+type: artifact
+cultures: [assyrian]
+date:
+  from: -737
+  to: -737
+  circa: true
+  display: c. 737 BCE
+scope: >-
+  A stele of Tiglath-pileser III, reportedly from western Iran, that commemorates his campaign
+  to Media and includes a list of western rulers who paid tribute in 738 BCE, among them Menahem
+  of Samaria and Rezin of Damascus. It is the best-preserved list of these tributaries and
+  anchors Menahem's chronology.
+passages:
+- ref: 2Kgs 15:19-20
+  rel: event
+  note: Menahem's tribute of a thousand talents to Pul (Tiglath-pileser III)
+- ref: 2Kgs 15:17
+  rel: attests
+  note: Menahem son of Gadi, king of Israel in Samaria
+- ref: 2Kgs 15:37; 16:5-9
+  rel: attests
+  note: Rezin of Damascus, later Ahaz's enemy, listed among the tributaries
+- ref: Isa 7:1-9
+  rel: attests
+  note: Rezin of Aram allied with Pekah against Judah
+related: [tiglath-pileser-iii-inscriptions, tiglath-pileser-iii, menahem, rezin, tribute-and-vassalage,
+  chronology-of-kings, qedarites-and-arabs]
+location:
+  institution: Israel Museum, Jerusalem
+  accession: 74.49.96 (Israel Museum)
+media:
+- id: iran-stele
+  role: primary
+external:
+  wikipedia: Iran Stele
+  wikidata: Q125186345
+editorial:
+  author_notes:
+  - >-
+    The stele is unprovenanced (acquired, reportedly from western Iran) and was published
+    by L. D. Levine (1972). Note the provenance problem but also that its text agrees with
+    the excavated Nimrud annals.
+  - >-
+    Check the king of Tyre named in the list. RINAP 1 no. 35 appears to read Tubaʾil (Ethbaal)
+    of Tyre, whereas the annals' tribute list has Hiram. Tadmor discussed the discrepancy
+    as evidence of a change of ruler. Do not assert 'Hiram' for the stele without checking.
+  - >-
+    The list also names Zabibe, queen of the Arabs, and rulers of Byblos, Carchemish, Hamath
+    and Samʾal (Panamuwa). It gives a full picture of the western vassal system on the eve
+    of the Syro-Ephraimite crisis.
+  - >-
+    The date of Menahem's tribute (738, or 740 in some reconstructions) conflicts with some
+    biblical chronologies; refer to chronology-of-kings rather than resolving it here.
+  sources_to_check:
+  - >-
+    H. Tadmor and S. Yamada, The Royal Inscriptions of Tiglath-pileser III and Shalmaneser
+    V (RINAP 1, 2011), no. 35
+  - L. D. Levine, Two Neo-Assyrian Stelae from Iran (1972)
+  - H. Tadmor, The Inscriptions of Tiglath-pileser III, King of Assyria (1994)
+  image_query: Iran Stele Tiglath-pileser III Israel Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added accession from Wikidata Q125186345 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

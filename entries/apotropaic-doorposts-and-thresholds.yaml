@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: apotropaic-doorposts-and-thresholds
+title: Doorposts, Thresholds, and Apotropaic Protection
+aliases: [Threshold rites, Mezuzah background]
+type: practice
+cultures: [ane, assyrian, babylonian]
+scope: >-
+  Doorways and thresholds as places of danger and protection: blood rites on doorposts, inscribed
+  doorposts, threshold taboos, and Mesopotamian protective figures and demons at entrances.
+  The entry covers the background of the Passover blood rite and the mezuzah.
+passages:
+- ref: Exod 12:7, 22-23
+  rel: practice
+  note: Blood on lintel and doorposts keeps the destroyer from entering
+- ref: Deut 6:9
+  rel: practice
+  note: Words written on the doorposts (mĕzûzôt) of house and gates
+- ref: Deut 11:20
+  rel: practice
+  note: The same command repeated
+- ref: Exod 21:6
+  rel: practice
+  disputed: true
+  note: Slave's ear pierced at the door or doorpost 'before God'
+- ref: 1Sam 5:4-5
+  rel: practice
+  note: Dagon's priests do not tread on the threshold at Ashdod
+- ref: Zeph 1:9
+  rel: practice
+  note: Punishing 'all who leap over the threshold'
+- ref: Isa 57:8
+  rel: practice
+  disputed: true
+  note: A 'memorial' (zikkārôn) set behind door and doorpost
+- ref: Ezek 45:19
+  rel: practice
+  note: Blood on temple doorposts and gate posts at the new year
+- ref: Gen 4:7
+  rel: language
+  disputed: true
+  note: Sin 'lurking' (rōbēṣ) at the door; cf. Akkadian rābiṣu demon
+related: [passover-origins, amulets, lamassu, demons, lamashtu-pazuzu-amulets, apkallu-reliefs,
+  city-gates]
+media:
+- id: apotropaic-doorposts-and-thresholds
+  role: primary
+external:
+  wikipedia: Mezuzah
+  wikidata: Q247034
+editorial:
+  author_notes:
+  - >-
+    In Mesopotamia, protective figurines (apkallu, fish-men and others) were buried beneath
+    thresholds, and lamassu guarded gates. F. A. M. Wiggermann, Mesopotamian Protective Spirits:
+    The Ritual Texts (1992), is the standard study.
+  - >-
+    The rābiṣu 'lurker' demon is an attractive background for Gen 4:7 but is not certain.
+    Mark it as a proposal.
+  - >-
+    The theory that pesaḥ grew from an apotropaic nomadic blood rite (Rost and others) is
+    widespread but unprovable. Link to the passover-origins entry.
+  - Treat the inscribed mezuzah (Qumran examples) as a later literalizing development.
+  image_query: Lamassu gateway Khorsabad
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

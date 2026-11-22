@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: crucifixion
+title: Crucifixion
+type: practice
+cultures: [roman, jewish]
+scope: >-
+  Execution by suspension on a stake or cross, used by Persians, Carthaginians, and Hellenistic
+  rulers and institutionalized by Rome for slaves, rebels, and provincials. The entry covers
+  literary and archaeological evidence, Jewish attitudes (Deut 21:22-23), and its bearing
+  on the Passion narratives.
+passages:
+- ref: Deut 21:22-23
+  rel: concept
+  note: One hanged on a tree is cursed; the body not left overnight
+- ref: Gal 3:13
+  rel: concept
+  note: Christ became a curse, citing Deut 21:23
+- ref: Acts 5:30
+  rel: language
+  note: '''Hanging on a tree'' for crucifixion (cf. 11QTemple 64; 4QpNah)'
+- ref: Mark 15:21-37
+  rel: practice
+  note: Crossbeam carried, titulus, crucifixion between bandits
+- ref: John 19:31-33
+  rel: practice
+  note: Breaking the legs; bodies removed before the Sabbath
+- ref: John 20:25
+  rel: practice
+  note: Nail marks in the hands
+- ref: 1Cor 1:23
+  rel: concept
+  note: A crucified messiah as stumbling block and folly
+- ref: Phil 2:8
+  rel: concept
+  note: '''Death on a cross'' as the extreme of humiliation'
+related: [temple-scroll, ossuaries, pilate-stone, josephus, treatment-of-captives, messianic-expectations]
+media:
+- id: crucifixion
+  role: primary
+external:
+  wikipedia: Crucifixion
+  wikidata: Q3235597
+editorial:
+  author_notes:
+  - >-
+    Jewish evidence: Alexander Jannaeus crucified 800 (Ant. 13.380; cf. 4QpNahum); Varus crucified
+    2,000 (Ant. 17.295); Titus at Jerusalem (War 5.449-451).
+  - >-
+    Archaeology: the Giv'at ha-Mivtar heel bone (Yehohanan) with a nail, plus later finds
+    from Italy and England. Note Zias and Sekeles's correction of the original reconstruction.
+  - >-
+    Avoid speculative medical reconstructions of the cause of death. Methods varied widely
+    (Seneca, Dial. 6.20.3).
+  sources_to_check:
+  - >-
+    M. Hengel, Crucifixion in the Ancient World and the Folly of the Message of the Cross
+    (1977)
+  - J. G. Cook, Crucifixion in the Mediterranean World (2014; 2nd ed. 2019)
+  - V. Tzaferis, 'Jewish Tombs at and near Giv'at ha-Mivtar, Jerusalem', IEJ 20 (1970)
+  - >-
+    J. Zias and E. Sekeles, 'The Crucified Man from Giv'at ha-Mivtar: A Reappraisal', IEJ
+    35 (1985)
+  image_query: Yehohanan heel bone nail crucifixion
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

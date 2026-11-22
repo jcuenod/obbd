@@ -1,0 +1,90 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: royal-ideology
+title: Royal Ideology and Sacral Kingship
+aliases: [Sacral kingship, Royal theology]
+type: concept
+cultures: [ane]
+scope: >-
+  The ancient Near Eastern ideology of kingship as divinely chosen, guarantor of justice,
+  fertility and order, and victor over chaos and enemies, and its Israelite and Judahite form
+  in the royal psalms, the Davidic promise and prophetic texts. The entry also covers internal
+  biblical critiques of kingship.
+passages:
+- ref: 2Sam 7:8-16
+  rel: concept
+  note: 'Dynastic promise to David: house, throne and sonship'
+- ref: Ps 2
+  rel: concept
+  note: 'Coronation psalm: divine installation on Zion and world rule'
+- ref: Ps 72
+  rel: concept
+  note: King as guarantor of justice for the poor, fertility and universal rule
+- ref: Ps 89:19-37
+  rel: concept
+  note: Covenant with David (MT 89:20-38)
+- ref: Ps 110
+  rel: concept
+  note: Enthronement at YHWH's right hand; priest 'after the order of Melchizedek'
+- ref: Ps 45:6-7
+  rel: concept
+  disputed: true
+  note: Royal wedding psalm; the king addressed as ʾĕlōhîm (MT 45:7-8)
+- ref: Ps 20-21
+  rel: form
+  note: 'Royal psalms: intercession and thanksgiving for the king in battle'
+- ref: 2Sam 8:15
+  rel: language
+  note: David does 'justice and righteousness'; cf. Akkadian kittum u mīšarum
+- ref: Isa 9:6-7
+  rel: concept
+  note: Throne names and an endless reign of justice (MT 9:5-6)
+- ref: Isa 11:1-9
+  rel: concept
+  note: Ideal Davidic ruler endowed with the spirit, judging the poor
+- ref: Deut 17:14-20
+  rel: polemic
+  note: The law of the king restricts royal power
+- ref: 1Sam 8:11-18
+  rel: polemic
+  note: '''The ways of the king'': critique of royal exactions'
+related: [king-as-son-of-god, shepherd-kingship, egyptian-kingship, code-of-hammurabi, messianic-expectations,
+  david, akitu-festival, smiting-the-enemy-motif]
+media:
+- id: hammurabi
+  role: primary
+external:
+  wikipedia: Sacred king
+  wikidata: Q1539747
+editorial:
+  author_notes:
+  - >-
+    Explain the Myth and Ritual and Scandinavian 'divine kingship' school (Mowinckel, Engnell)
+    and its decline. The consensus now: the Judahite king was sacral and adopted as YHWH's
+    son, but not divine in the Egyptian sense. Ps 45:6 remains debated.
+  - >-
+    Key ancient Near Eastern comparanda: the Hammurabi prologue and epilogue; Ashurbanipal's
+    coronation hymn (SAA 3 11), close to Ps 72 in its wishes for abundance and justice; Egyptian
+    royal titulary.
+  - >-
+    Weinfeld on mišpāṭ ûṣĕdāqâ as social-justice measures parallel to the Mesopotamian kittum
+    u mīšarum and debt-release edicts.
+  - >-
+    The dating of the royal psalms is contested. Many hold that a pre-exilic core was later
+    reinterpreted messianically.
+  sources_to_check:
+  - SAA 3 11 (Assurbanipal's coronation hymn)
+  image_query: Code of Hammurabi stele relief Shamash
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

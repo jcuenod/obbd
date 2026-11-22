@@ -1,0 +1,97 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ben-sira
+title: Wisdom of Ben Sira
+aliases: [Sirach, Ecclesiasticus, Ben Sirach]
+type: text
+cultures: [jewish, greek]
+date:
+  from: -190
+  to: -175
+  circa: true
+  display: c. 190–175 BCE
+scope: >-
+  The wisdom book of Jesus (Yeshua) son of Eleazar son of Sira, written in Hebrew in Jerusalem
+  in the early second century BCE and translated into Greek in Egypt by his grandson after
+  132 BCE. The entry covers its Hebrew manuscripts (Cairo Genizah, Masada, Qumran), its place
+  among Proverbs and other ancient Near Eastern wisdom, its theology of Wisdom and Torah,
+  and its canonical status. The date is that of composition.
+passages:
+- ref: Sir 24:1-23
+  rel: concept
+  note: Wisdom dwells in Israel and is identified with 'the book of the covenant' (24:23)
+- ref: Prov 8:22-31
+  rel: parallel
+  note: Personified Wisdom created before the world, the model for Sir 24
+- ref: Sir 38:24-39:11
+  rel: parallel
+  note: The scribe's leisure compared with the trades, like the Egyptian Satire of the Trades
+- ref: Sir 44:1-50:24
+  rel: form
+  note: Praise of the ancestors, ending with the high priest Simon
+- ref: Sir 50:1-21
+  rel: attests
+  note: Simon son of Onias (Simon II, c. 200 BCE) officiating in the temple
+- ref: Mal 4:5-6
+  rel: concept
+  note: Sir 48:10 cites Elijah's return to turn the hearts of parents (MT 3:23-24)
+- ref: Sir 51:23
+  rel: language
+  note: '''Lodge in my house of instruction'' (Hebrew bêt midrāš)'
+- ref: Matt 11:28-30
+  rel: parallel
+  note: '''Come to me ... take my yoke'', echoing Sir 51:23-27 and 6:24-30'
+- ref: Luke 12:16-21
+  rel: parallel
+  note: The rich fool who plans to enjoy his goods; cf. Sir 11:18-19
+- ref: Jas 1:19
+  rel: parallel
+  note: '''Quick to listen, slow to speak''; cf. Sir 5:11'
+related: [ane-wisdom-literature, satire-of-the-trades, scribes-and-scribal-education, masada,
+  septuagint, dead-sea-scrolls, medicine-and-healing]
+media:
+- id: ben-sira
+  role: primary
+external:
+  wikipedia: Book of Sirach
+  wikidata: Q155980
+editorial:
+  author_notes:
+  - >-
+    Hebrew text: six Genizah manuscripts (A-F, identified from 1896 onward), the Masada scroll
+    (Sir 39:27-44:17, first century BCE), and Qumran fragments (2Q18 from Sir 6; 11QPs-a with
+    Sir 51:13-20, 30b). About two thirds of the book survives in Hebrew. There are two Greek
+    forms (GI and the expanded GII) and a Syriac version. Greek manuscripts transpose 30:25-33:13a
+    and 33:13b-36:16a; English versions follow the Hebrew order, so check the numbering.
+  - >-
+    Date: the grandson's prologue puts his arrival in Egypt in the 38th year of Euergetes
+    (Ptolemy VIII), 132 BCE. The eulogy of Simon II and the absence of any reference to Antiochus
+    IV's persecution place composition c. 190-175 BCE.
+  - >-
+    Theology: Wisdom identified with Torah (24:23); retribution in this life without a blessed
+    afterlife (17:27-28; 41:4); the scribe as ideal (38:34-39:11); devotion to temple and
+    priesthood (Aaron, Phinehas, Simon). Sir 25:24 ('from a woman sin had its beginning')
+    is usually read of Eve, though some argue otherwise. Present it, and Ben Sira's views
+    on women, in context.
+  - >-
+    Canon: cited in rabbinic literature though not canonized; deuterocanonical in Catholic
+    and Orthodox Bibles and among the Apocrypha for Protestants. The Latin title Ecclesiasticus
+    means 'church book'.
+  sources_to_check:
+  - P. W. Skehan and A. A. Di Lella, The Wisdom of Ben Sira (AB 39, 1987)
+  - P. C. Beentjes, The Book of Ben Sira in Hebrew (VTSup 68, 1997)
+  - Y. Yadin, The Ben Sira Scroll from Masada (1965)
+  image_query: Ben Sira scroll Masada
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

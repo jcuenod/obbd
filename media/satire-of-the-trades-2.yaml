@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: satire-of-the-trades-2
+file: satire-of-the-trades-2.jpg
+title: The Satire of Trades, 19th-20th Dynasty, Ashmolean Museum, Oxford.jpg
+caption: >-
+  Limestone ostracon with part of the Satire of the Trades in hieratic, 19th–20th Dynasty
+  (Ashmolean Museum, Oxford).
+description: >-
+  Limestone ostracon inscribed in hieratic with part of a text known as The Satire of the
+  Trades. A father taking his son to scribal school praises the scribe's profession by comparison
+  with more menial types of work. Deir el-Medina, 19th-20th Dynasty.
+creator: SpeakingArch
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: SpeakingArch, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:The_Satire_of_Trades,_19th-20th_Dynasty,_Ashmolean_Museum,_Oxford.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/24/The_Satire_of_Trades%2C_19th-20th_Dynasty%2C_Ashmolean_Museum%2C_Oxford.jpg
+  sha1: 0de2eeed1a733e266a05a7a79b153d82fa2e8f46
+  original_size: [736, 1308]
+  retrieved: '2026-11-20'
+derivative: null
+size: [736, 1308]
+depicts: [satire-of-the-trades]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

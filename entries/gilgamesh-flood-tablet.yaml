@@ -1,0 +1,68 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: gilgamesh-flood-tablet
+title: Gilgamesh Flood Tablet (Tablet XI)
+aliases: [Flood Tablet, Tablet XI of the Epic of Gilgamesh, K.3375]
+type: artifact
+cultures: [assyrian, babylonian]
+date:
+  from: -700
+  to: -600
+  circa: true
+  display: c. 700–600 BCE
+scope: >-
+  The Neo-Assyrian clay tablet from Ashurbanipal's libraries at Nineveh that preserves Tablet
+  XI of the Standard Babylonian Gilgamesh epic, including Utnapishtim's flood story. Its identification
+  by George Smith in 1872 made the Babylonian flood narrative famous and launched the modern
+  comparison of Genesis with cuneiform literature.
+passages:
+- ref: Gen 6:5-9:17
+  rel: parallel
+  note: Flood narrative whose 1872 discovery first exposed the Genesis-Babylon parallel
+- ref: Gen 8:4
+  rel: parallel
+  note: Boat grounds on Mount Nimush; ark rests on the mountains of Ararat
+- ref: Gen 8:6-12
+  rel: parallel
+  note: Dove, swallow, and raven released to find dry land
+- ref: Gen 8:20-21
+  rel: parallel
+  note: Offering after the flood; gods smell the sweet savour
+related: [gilgamesh-epic, atrahasis, library-of-ashurbanipal, flood-traditions, nineveh, ashurbanipal]
+location:
+  institution: British Museum, London
+  accession: null
+media:
+- id: flood-traditions
+  role: primary
+external:
+  wikipedia: Gilgamesh flood myth
+  wikidata: Q955641
+editorial:
+  author_notes:
+  - >-
+    George Smith announced the identification to the Society of Biblical Archaeology in December
+    1872; the Daily Telegraph then funded his 1873 Nineveh expedition, which recovered further
+    flood fragments. Verify details against museum and George's accounts.
+  - >-
+    Present it as one 7th-c. manuscript among several witnesses to Tablet XI, not as 'the
+    original' flood story; the tradition goes back to Old Babylonian Atrahasis.
+  - >-
+    Its reception history (Smith, Delitzsch's 'Babel und Bibel' lectures of 1902) is part
+    of the story and shows how such finds were used both to defend and to relativise Genesis.
+  sources_to_check:
+  - A. R. George, The Babylonian Gilgamesh Epic (2003)
+  image_query: Flood Tablet Gilgamesh British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

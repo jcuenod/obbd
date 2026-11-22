@@ -1,0 +1,87 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: marseilles-tariff
+title: Marseilles Tariff
+aliases: [Marseille Tariff, Marseilles Sacrificial Tariff]
+type: artifact
+cultures: [phoenician]
+date:
+  from: -400
+  to: -200
+  circa: true
+  display: c. 400–200 BCE
+scope: >-
+  A Punic inscription found at Marseille in 1845, probably brought from Carthage. It sets
+  out the fees and the priests' and offerers' portions for different sacrifices by animal
+  type, using offering terms (kll, ṣwʿt, šlm kll) comparable to biblical sacrificial vocabulary.
+passages:
+- ref: Lev 1-7
+  rel: practice
+  note: Offerings classified by type and by animal, with priestly portions
+- ref: Lev 7:28-36
+  rel: practice
+  note: 'Priestly portions of the well-being offering: breast and right thigh'
+- ref: Lev 7:8
+  rel: practice
+  note: Priest's right to the hide of the burnt offering; Punic tariffs also allocate hides
+- ref: Deut 18:3
+  rel: practice
+  note: 'Priest''s due from sacrifices: shoulder, cheeks, and stomach'
+- ref: 1Sam 2:13-16
+  rel: practice
+  note: '''Custom of the priests'' regarding their share'
+- ref: Lev 5:7, 11
+  rel: practice
+  note: 'Substitutions for poorer offerers: birds and flour; tariff also prices birds'
+- ref: 1Sam 7:9
+  rel: language
+  note: ʿôlâ kālîl 'whole burnt offering'; cf. Punic kll
+- ref: Ps 51:19
+  rel: language
+  note: ʿôlâ and kālîl paired; MT 51:21
+- ref: Deut 33:10
+  rel: language
+  note: kālîl on the altar
+related: [sacrifice, phoenicians, baal, tophet, ugaritic-texts, tithes]
+location:
+  institution: Musée d'Archéologie Méditerranéenne, Marseille
+  accession: null
+media:
+- id: marseilles-tariff
+  role: primary
+- id: marseilles-tariff-2
+  role: gallery
+external:
+  wikipedia: Marseille Tariff
+  wikidata: Q92722862
+editorial:
+  author_notes:
+  - >-
+    The stone is generally thought to have come from Carthage. The text heads itself as a
+    tariff of a temple of Baal (commonly restored Baal-Ṣaphon). Verify the reading of line
+    1. A fragmentary companion tariff from Carthage (KAI 74) should be discussed with it.
+  - >-
+    The exact meanings of kll, ṣwʿt, and šlm kll are debated. Avoid simply equating them with
+    biblical ʿôlâ, ḥaṭṭāʾt, and šĕlāmîm. The parallel lies in the classification and in the
+    regulation of priestly portions.
+  - >-
+    The tariff is a valuable non-biblical example of written regulation protecting offerers
+    from priestly overreach (cf. 1 Sam 2:12-17).
+  - >-
+    Date ranges given in the literature vary (roughly 4th-3rd c. BCE). Verify before stating
+    a precise date.
+  sources_to_check: [KAI 69, CIS I 165]
+  image_query: Marseille Tariff Punic inscription
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

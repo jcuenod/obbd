@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: composite-beasts-daniel-2
+file: composite-beasts-daniel-2.jpg
+title: >-
+  Frieze of Griffins, circa 510 BC, Apadana, west courtyard of the palace, Susa, Iran Susa,
+  Iran, Louvre Museum (12251831946).jpg
+caption: >-
+  Glazed-brick frieze of winged griffins from the Achaemenid palace at Susa, c. 510 BCE (Musée
+  du Louvre, Paris).
+description: "The artists of the Achaemenian period inherited a pictorial vocabulary rich\
+  \ in mythological creatures. The griffin-lion, often represented at Susa, is here pictured\
+  \ on an element of architectural decoration from the palace of King Darius I the Great (522-486\
+  \ BC). It featured here alongside the lion and the winged bull passant on reliefs made with\
+  \ bricks, with or without colors. A decorative motif The Frieze of Griffins is a reconstruction\
+  \ made with molded siliceous bricks coated in colored glazes, which had been reused in later\
+  \ constructions. During the excavations led by Jacques de Morgan at "
+creator: Following Hadrian
+credit_line: Flickr
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: Following Hadrian, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Frieze_of_Griffins,_circa_510_BC,_Apadana,_west_courtyard_of_the_palace,_Susa,_Iran_Susa,_Iran,_Louvre_Museum_(12251831946).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/96/Frieze_of_Griffins%2C_circa_510_BC%2C_Apadana%2C_west_courtyard_of_the_palace%2C_Susa%2C_Iran_Susa%2C_Iran%2C_Louvre_Museum_%2812251831946%29.jpg
+  sha1: 9253c4183786e03f1934eb5ac2c34dd001208c26
+  original_size: [4263, 3199]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1201 px
+size: [1600, 1201]
+depicts: [composite-beasts-daniel]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

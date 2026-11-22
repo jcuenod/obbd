@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: katumuwa-stele
+file: katumuwa-stele.jpg
+title: Gaziantep Archaeology museum Kuttamuwa stele 4270.jpg
+caption: >-
+  The Katumuwa (Kuttamuwa) stele, basalt, Iron Age, from Zincirli (Gaziantep Archaeology Museum).
+description: Kuttamuwa stele. Basalt, Iron Age, Zincirli Mound
+creator: Dosseman
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Dosseman, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Gaziantep_Archaeology_museum_Kuttamuwa_stele_4270.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/e/ea/Gaziantep_Archaeology_museum_Kuttamuwa_stele_4270.jpg
+  sha1: 4a08500275cdf220ff0fec4ce79a0551affd21bb
+  original_size: [8256, 5504]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [katumuwa-stele]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,71 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: galilee-boat
+title: Galilee Boat ("Jesus Boat")
+aliases: [Jesus Boat, Sea of Galilee Boat, Ginosar Boat]
+type: artifact
+cultures: [jewish, roman]
+date:
+  from: -100
+  to: 70
+  circa: true
+  display: c. 100 BCE–70 CE
+scope: >-
+  The hull of a wooden fishing boat (about 8.2 m long) recovered from the mud of the Sea of
+  Galilee near Ginosar in 1986, dated to the 1st century BCE to 1st century CE. It is the
+  type of vessel presupposed in the Gospel fishing and lake-crossing stories.
+passages:
+- ref: Mark 1:16-20
+  rel: realia
+  note: Fishermen, nets, boat, and hired men on the lake
+- ref: Mark 4:35-41
+  rel: realia
+  note: Boat crossing in a storm; Jesus asleep on the cushion in the stern
+- ref: Luke 5:1-11
+  rel: realia
+  note: Two boats working together; nets strained by the catch
+- ref: John 21:1-11
+  rel: realia
+  note: Night fishing from a boat with a net
+- ref: Matt 13:47-48
+  rel: realia
+  note: Dragnet (sagēnē) hauled ashore
+related: [capernaum, magdala-stone, josephus, phoenician-seafaring]
+location:
+  institution: Yigal Allon Centre, Kibbutz Ginosar
+  accession: null
+media:
+- id: galilee-boat
+  role: primary
+external:
+  wikipedia: Sea of Galilee Boat
+  wikidata: Q7440096
+editorial:
+  author_notes:
+  - There is no connection to Jesus or the disciples. 'Jesus Boat' is a popular nickname.
+  - >-
+    Its construction (mortise-and-tenon, many repairs, mixed timbers) indicates long use and
+    limited resources. Its capacity (about 15 people) can be compared with Josephus's lake
+    boats (War 2.635-641; 3.522-531).
+  - Dating by radiocarbon, pottery, and construction technique.
+  sources_to_check:
+  - >-
+    S. Wachsmann, The Sea of Galilee Boat: A 2000-Year-Old Discovery from the Sea of Legends
+    (1995)
+  - >-
+    S. Wachsmann (ed.), 'The Excavations of an Ancient Boat in the Sea of Galilee (Lake Kinneret)',
+    ʿAtiqot 19 (1990)
+  image_query: Ancient Galilee Boat Ginosar
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

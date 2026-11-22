@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: samaria-papyri
+file: samaria-papyri.jpg
+title: Wadi-Daliya-KWD-909.jpg
+caption: The Abu Shinjeh cave in Wadi ed-Daliyeh, where the Samaria papyri were found in 1962.
+description: Abu Shinjah cave, Wadi Daliyeh, West Bank.
+creator: Bukvoed
+credit_line: Own work
+license:
+  id: CC-BY-4.0
+  name: CC BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0
+attribution: Bukvoed, CC BY 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Wadi-Daliya-KWD-909.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/d/d5/Wadi-Daliya-KWD-909.jpg
+  sha1: ca6d8915cd81413469007406bfd08033d39e66c8
+  original_size: [3648, 5472]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1067×1600 px
+size: [1067, 1600]
+depicts: [samaria-papyri]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

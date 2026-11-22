@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: kurkh-monoliths
+file: kurkh-monoliths.jpg
+title: Kurkh stele of Shalmaneser III. From Diyarbakır, southern Turkey. British Museum.jpg
+caption: >-
+  The Kurkh Monolith of Shalmaneser III, showing the king before divine symbols, with the
+  account of the battle of Qarqar (853 BCE) (British Museum).
+description: >-
+  Shalmaneser III praying in front of divine symbols (Ashur, Ishtar, Anu, and Sin). The cuneiform
+  inscription is a text of a version of the King's annals and narrates his campaign in chronological
+  order, concluding with a description of the battle of Qarqar in 853 BCE against a large
+  coalition led by the kings of Damascus and Hamath. Neo-Assyrian Period, reign of Shalmaneser
+  III, circa 852 BCE. From Kurkh, Diyarbakir, modern-day Turkey. British Museum.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Kurkh_stele_of_Shalmaneser_III._From_Diyarbak%C4%B1r,_southern_Turkey._British_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/12/Kurkh_stele_of_Shalmaneser_III._From_Diyarbak%C4%B1r%2C_southern_Turkey._British_Museum.jpg
+  sha1: f54ffc91f162c3d8ea22106d63091994e65b93cb
+  original_size: [3530, 5758]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 981×1600 px
+size: [981, 1600]
+depicts: [battle-of-qarqar, kurkh-monoliths]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

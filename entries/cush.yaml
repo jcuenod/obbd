@@ -1,0 +1,88 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: cush
+title: Cush and the Kushite (25th) Dynasty
+aliases: [Kush, Nubia, Ethiopia (biblical), Twenty-fifth Dynasty]
+type: people
+cultures: [nubian]
+date:
+  from: -744
+  to: -656
+  circa: true
+  display: c. 744–656 BCE
+scope: >-
+  Kush, the Nile valley south of Egypt (Nubia, in modern Sudan), and especially its Napatan
+  kings who ruled Egypt as the Twenty-fifth Dynasty and confronted Assyria in the Levant.
+  The entry covers biblical Cush in prophecy and narrative. It does not cover the Midianite
+  "Cushan" (Hab 3:7) except as a source of confusion.
+passages:
+- ref: Isa 18:1-7
+  rel: setting
+  note: Oracle on the land of whirring wings, its tall envoys in papyrus vessels
+- ref: Isa 20:1-6
+  rel: event
+  note: Isaiah's sign against Egypt and Cush during the Ashdod revolt (c. 712-711)
+- ref: 2Kgs 19:9
+  rel: event
+  note: Tirhakah king of Cush marches against Sennacherib
+- ref: Nah 3:9
+  rel: setting
+  note: Cush and Egypt as the strength of Thebes
+- ref: Zeph 2:12
+  rel: setting
+  note: Oracle against the Cushites
+- ref: Jer 13:23
+  rel: imagery
+  note: '''Can Cushites change their skin?'''
+- ref: Amos 9:7
+  rel: concept
+  note: Israel no different to YHWH than the Cushites
+- ref: Num 12:1
+  rel: attests
+  disputed: true
+  note: 'Moses'' Cushite wife: Nubian or Midianite (cf. Cushan, Hab 3:7) debated'
+- ref: Acts 8:27
+  rel: attests
+  note: Official of the Candace (kandake), queen of Meroitic Kush
+related: [taharqa, shabaka-stone, sennacherib-campaign-701, thebes, table-of-nations, sargon-ii-inscriptions,
+  ashdod, eunuchs]
+media:
+- id: cush
+  role: primary
+external:
+  wikipedia: Kingdom of Kush
+  wikidata: Q241790
+editorial:
+  author_notes:
+  - >-
+    Biblical Cush is usually Nubia. The Greek and English "Ethiopia" does not refer to modern
+    Ethiopia, though Gen 10:7-8 and some passages may reflect other "Cushes" (Arabian; Kassite
+    Kush, linked to Nimrod).
+  - >-
+    Kushite chronology has been revised. The Tang-i Var inscription of Sargon II and recent
+    studies (e.g., Payraudeau) favour placing Shebitku before Shabaka. This affects the 701
+    campaign and the role of Taharqa.
+  - >-
+    Sargon II's inscriptions report that Yamani of Ashdod fled to Kush and was extradited.
+    This provides the setting for Isa 20.
+  - >-
+    Isa 18 probably reflects Kushite diplomacy in Hezekiah's reign. Treat any precise dating
+    as hypothetical.
+  sources_to_check:
+  - Török, The Kingdom of Kush (1997)
+  - Morkot, The Black Pharaohs (2000)
+  - Eide, Hägg, Pierce, and Török (eds.), Fontes Historiae Nubiorum, vol. 1 (1994)
+  image_query: Dukki Gel Kushite kings statues Kerma
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

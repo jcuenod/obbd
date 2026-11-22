@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: behistun-inscription-2
+file: behistun-inscription-2.jpg
+title: Behistun relief Darius and Gaumata.jpg
+caption: 'Detail of the Behistun relief: Darius I with his foot on the prostrate Gaumata.'
+description: Behistun relief Darius and Gaumata
+creator: Patrick C, known as dynamomosquito on Flickr, and Pentocelo on this project
+credit_line: This image has been extracted from another file
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: >-
+  Patrick C, known as dynamomosquito on Flickr, and Pentocelo on this project, CC BY-SA 2.0,
+  via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Behistun_relief_Darius_and_Gaumata.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/75/Behistun_relief_Darius_and_Gaumata.jpg
+  sha1: 856a7b0d0990a66edb3a0a78d15b93c475599613
+  original_size: [2658, 3434]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1238×1600 px
+size: [1238, 1600]
+depicts: [behistun-inscription]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

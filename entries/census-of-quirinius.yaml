@@ -1,0 +1,66 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: census-of-quirinius
+title: Census of Quirinius
+type: event
+cultures: [roman, jewish]
+date:
+  from: 6
+  to: 6
+  display: 6 CE
+scope: >-
+  The Roman provincial census of Judea carried out under P. Sulpicius Quirinius, legate of
+  Syria, in 6 CE after Archelaus was deposed. The entry covers Luke's association of it with
+  Jesus' birth and the chronological problem this creates.
+passages:
+- ref: Luke 2:1-5
+  rel: event
+  note: Registration 'while Quirinius was governor of Syria' linked to Jesus' birth
+- ref: Acts 5:37
+  rel: event
+  note: Judas the Galilean revolted 'at the time of the census'
+- ref: Luke 1:5
+  rel: setting
+  note: Birth narrative set 'in the days of King Herod' (d. 4 BCE)
+- ref: Mark 12:14-17
+  rel: practice
+  note: Paying the tax (kēnsos) to Caesar
+related: [josephus, herod-the-great, res-gestae, imperial-cult, priene-calendar-inscription,
+  bethlehem, jewish-sects]
+media: []
+external:
+  wikipedia: Census of Quirinius
+  wikidata: Q1217517
+editorial:
+  author_notes:
+  - >-
+    Josephus (Ant. 17.355; 18.1-10, 26) dates the census to 6 CE. Herod died in 4 BCE (cf.
+    Matt 2; Luke 1:5).
+  - >-
+    Harmonizations (an earlier governorship based on the anonymous Lapis Tiburtinus; prōtē
+    as 'before'; Tertullian's Saturninus) have not won wide acceptance. The mainstream view
+    is that Luke's chronology is confused or theologically motivated.
+  - >-
+    No empire-wide census under Augustus is attested, and registration at an ancestral home
+    is not attested Roman practice. The Egyptian edict of 104 CE ordering return home is a
+    different situation.
+  - The Apamea inscription of Q. Aemilius Secundus records a census under Quirinius.
+  sources_to_check:
+  - CIL III 6687
+  - >-
+    E. Schürer, G. Vermes, and F. Millar, The History of the Jewish People in the Age of Jesus
+    Christ, vol. 1 (1973)
+  - R. E. Brown, The Birth of the Messiah (2nd ed., 1993)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,75 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: dibon
+title: Dibon (Dhiban)
+aliases: [Dhiban, Dibon-gad]
+type: site
+cultures: [moabite]
+scope: >-
+  The Moabite town at Dhiban north of the Arnon, Mesha's home and the findspot of the Mesha
+  Stele. Covers the site's excavations and Iron Age remains and its place in biblical lists
+  and oracles against Moab. A separate Dibon in Judah (Neh 11:25) is excluded.
+passages:
+- ref: Num 21:30
+  rel: setting
+  note: Dibon in the Song of Heshbon
+- ref: Num 32:3, 34
+  rel: setting
+  note: Dibon requested and built by Gad
+- ref: Num 33:45-46
+  rel: setting
+  note: Dibon-gad as a wilderness station
+- ref: Josh 13:9, 17
+  rel: setting
+  note: Dibon in Reuben's allotment
+- ref: 2Kgs 3:4-5
+  rel: attests
+  note: Mesha's revolt; Mesha calls himself 'the Dibonite'
+- ref: Isa 15:2
+  rel: setting
+  note: Dibon goes up to the high places to weep
+- ref: Jer 48:18, 22
+  rel: setting
+  note: '''Enthroned daughter Dibon'' in the oracle against Moab'
+related: [mesha-stele, moabites, chemosh, high-places, omri]
+media:
+- id: dibon
+  role: primary
+- id: dibon-2
+  role: gallery
+external:
+  wikipedia: Dhiban, Jordan
+  wikidata: Q1019166
+editorial:
+  author_notes:
+  - >-
+    The Mesha Stele was found here in 1868. Its building section (Qarḥoh) probably describes
+    Dibon's royal acropolis.
+  - >-
+    American excavations (1950-56; Winnett, Reed, Tushingham, Morton) and the Dhiban Excavation
+    and Development Project (Porter, Routledge and others) found only limited Iron Age remains.
+    Routledge's work on Moabite state formation uses the site.
+  - Distinguish this Dibon from the Judahite Dibon (Neh 11:25).
+  sources_to_check: ['Routledge, Moab in the Iron Age (2004)']
+  image_query: Dhiban Jordan tell
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates from Wikidata Q1019166 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 31.5
+  lon: 35.78333
+  source: wikidata:Q1019166

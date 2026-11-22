@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ur
+title: Ur
+aliases: [Tell el-Muqayyar, Urim, Ur of the Chaldeans]
+type: site
+cultures: [sumerian, babylonian]
+scope: >-
+  The Sumerian and Babylonian city in southern Iraq, famous for its Royal Cemetery and the
+  ziggurat of Ur-Nammu, and named in Genesis as Abraham's place of origin. Covers the site,
+  its main periods and the problems of the biblical 'Ur of the Chaldeans'.
+passages:
+- ref: Gen 11:28
+  rel: setting
+  note: Haran dies in Ur of the Chaldeans
+- ref: Gen 11:31
+  rel: setting
+  note: 'Terah''s family leaves Ur of the Chaldeans (LXX: ''land of the Chaldeans'')'
+- ref: Gen 15:7
+  rel: setting
+  note: '''I brought you from Ur of the Chaldeans'''
+- ref: Neh 9:7
+  rel: setting
+  note: God chose Abram and brought him out of Ur
+- ref: Acts 7:2-4
+  rel: setting
+  note: 'Stephen: Abraham in Mesopotamia before Haran'
+related: [harran, sin-moon-god, ziggurat, babylonia, laws-of-ur-nammu, city-laments, nabonidus]
+media:
+- id: ur
+  role: primary
+- id: ur-2
+  role: gallery
+external:
+  wikipedia: Ur
+  wikidata: Q5699
+  pleiades: '912985'
+editorial:
+  author_notes:
+  - >-
+    Woolley excavated Ur from 1922 to 1934. Key finds are the Royal Cemetery (c. 2600 BCE),
+    the Ur III ziggurat of Ur-Nammu, and Nabonidus' restorations, including the residence
+    of his daughter, the en-priestess Ennigaldi-Nanna.
+  - >-
+    The phrase 'of the Chaldeans' is anachronistic for any second-millennium setting. The
+    Chaldeans (Kaldu) are attested only from the ninth century BCE, which points to a first-millennium
+    perspective in the text.
+  - >-
+    A northern location (Urfa or a northern 'Ura'; Gordon and others) is a minority view.
+    Most scholars accept southern Ur, but the problem should be stated. The Ur-Harran link
+    through the moon-god Sin is often noted.
+  - >-
+    Woolley's 'flood deposit' is a local flood layer and should not be presented as evidence
+    for Gen 6-9.
+  sources_to_check:
+  - Woolley and Moorey, Ur 'of the Chaldees' (1982)
+  image_query: Ziggurat of Ur
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q5699 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 30.96222
+  lon: 46.10444
+  source: wikidata:Q5699

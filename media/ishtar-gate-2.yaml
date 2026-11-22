@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ishtar-gate-2
+file: ishtar-gate-2.jpg
+title: Babylon processional way.jpg
+caption: Glazed-brick striding lions from Babylon's Processional Way (Pergamon Museum, Berlin).
+description: Babylon processional way with striding lions in the Pergamon Museum, Berlin
+creator: Jononmac46
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Jononmac46, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Babylon_processional_way.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/a/a5/Babylon_processional_way.jpg
+  sha1: 2999a7ad560452fb878c7a5e6e2940a2d0250fa9
+  original_size: [3264, 2448]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [ishtar-gate]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

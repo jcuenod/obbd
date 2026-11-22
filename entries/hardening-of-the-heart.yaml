@@ -1,0 +1,72 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: hardening-of-the-heart
+title: Hardening of Pharaoh's Heart
+aliases: [Hardening of Pharaoh's heart]
+type: concept
+cultures: [egyptian, hebrew]
+scope: >-
+  The motif in Exod 4-14 of pharaoh's heart being made "strong" (ḥzq), "heavy" (kbd), or "hard"
+  (qšh), whether by YHWH or by pharaoh himself. The entry covers the proposal that the "heavy
+  heart" plays on the Egyptian judgment scene, where the deceased's heart is weighed against
+  maat.
+passages:
+- ref: Exod 4:21
+  rel: concept
+  note: YHWH announces he will make pharaoh's heart strong (ḥzq)
+- ref: Exod 7:14
+  rel: polemic
+  disputed: true
+  note: Pharaoh's heart is 'heavy' (kābēd); proposed play on the Egyptian weighing of the
+    heart
+- ref: Exod 8:15
+  rel: language
+  note: Pharaoh makes his own heart heavy (hikbîd); MT 8:11
+- ref: Exod 9:34
+  rel: language
+  note: Pharaoh again makes his heart heavy after the hail
+- ref: Exod 10:1
+  rel: language
+  note: YHWH has made pharaoh's heart heavy
+- ref: Exod 14:4, 17
+  rel: language
+  note: YHWH 'gains glory' (ʾikkābĕdâ, root kbd) over pharaoh
+- ref: Prov 21:2
+  rel: concept
+  note: YHWH weighs the heart
+related: [book-of-the-dead, ten-plagues-and-egyptian-gods, egyptian-kingship, maat, exodus-historical-questions,
+  mighty-hand-outstretched-arm]
+media:
+- id: afterlife-and-resurrection
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The three verbs are unevenly distributed. Source critics usually assign ḥzq to P and kbd
+    to J, with qšh rare (Exod 7:3). Mention the source-critical patterns briefly.
+  - >-
+    The Egyptian background (a heart heavy with wrongdoing fails the weighing; Currid, Hoffmeier)
+    is a proposal, not a consensus. Present it as an attractive but debated reading.
+  - >-
+    The wordplay on kbd ("heavy" heart; YHWH "gains glory") is secure in the Hebrew and does
+    not depend on the Egyptian proposal.
+  - >-
+    Theological debates (divine determinism versus pharaoh's agency) lie outside the background
+    scope. Note them only briefly.
+  sources_to_check:
+  - Currid, Ancient Egypt and the Old Testament (1997)
+  image_query: Papyrus of Ani weighing of the heart
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

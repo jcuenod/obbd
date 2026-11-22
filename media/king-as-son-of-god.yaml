@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: king-as-son-of-god
+file: king-as-son-of-god.jpg
+title: >-
+  La regina Muthemwa (Mutemwia) partorisce Amenôf III (Memnone), che, come il divino Horus,
+  è allattato dalle sacre vacche (NYPL b14291206-425699).jpg
+caption: >-
+  Scenes from the divine birth cycle of Amenhotep III in the birth room of Luxor Temple, including
+  Queen Mutemwia's delivery and the infant king nursed by divine cows, in a 19th-century drawing
+  by Ippolito Rosellini (New York Public Library).
+description: >-
+  * Keywords: "Birth room"; Divine birth of Amenhotep III; Mutemwia, mother of Amenhotep III,
+  King of Egypt; Harpocrates
+creator: Scan by NYPL
+credit_line: https://digitalcollections.nypl.org/items/510d47d9-484b-a3d9-e040-e00a18064a99
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Scan by NYPL. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:La_regina_Muthemwa_(Mutemwia)_partorisce_Amen%C3%B4f_III_(Memnone),_che,_come_il_divino_Horus,_%C3%A8_allattato_dalle_sacre_vacche_(NYPL_b14291206-425699).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/8/8f/La_regina_Muthemwa_%28Mutemwia%29_partorisce_Amen%C3%B4f_III_%28Memnone%29%2C_che%2C_come_il_divino_Horus%2C_%C3%A8_allattato_dalle_sacre_vacche_%28NYPL_b14291206-425699%29.jpg
+  sha1: d16be1368cbeedd8478213002b683b73b8f499c9
+  original_size: [6574, 4509]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1098 px
+size: [1600, 1098]
+depicts: [king-as-son-of-god]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

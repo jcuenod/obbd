@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: fall-of-babylon-539-2
+file: fall-of-babylon-539-2.jpg
+title: >-
+  Cyrus Cylinder, Babylon, Iraq, mid 500s BC, cuneiform on clay - British Museum - DSC01316.jpg
+caption: The Cyrus Cylinder, clay, from Babylon, after 539 BCE (British Museum).
+description: >-
+  Cyrus Cylinder, Babylon, Iraq, mid 500s BC, cuneiform on clay - British Museum - DSC01316.
+creator: Daderot
+credit_line: Own work
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Daderot. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Cyrus_Cylinder,_Babylon,_Iraq,_mid_500s_BC,_cuneiform_on_clay_-_British_Museum_-_DSC01316.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/76/Cyrus_Cylinder%2C_Babylon%2C_Iraq%2C_mid_500s_BC%2C_cuneiform_on_clay_-_British_Museum_-_DSC01316.jpg
+  sha1: f7b71ccd1804318f1e1677e39bc3c6bcc815242c
+  original_size: [4321, 2195]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×813 px
+size: [1600, 813]
+depicts: [fall-of-babylon-539]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

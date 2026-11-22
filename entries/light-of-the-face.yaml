@@ -1,0 +1,73 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: light-of-the-face
+title: Shining Face and Divine Favor
+aliases: [shining face, lifting up the face]
+type: concept
+cultures: [ane, egyptian, canaanite]
+scope: >-
+  The idiom of a god's or king's shining face as an expression of favour and presence, together
+  with "hiding" or "lifting up" the face, in ancient Near Eastern royal and religious language
+  and in the Priestly Blessing and the Psalms.
+passages:
+- ref: Num 6:24-26
+  rel: language
+  note: '''YHWH make his face to shine upon you... lift up his countenance'''
+- ref: Ps 4:6
+  rel: language
+  note: '''Let the light of your face shine on us''; MT 4:7'
+- ref: Ps 31:16
+  rel: language
+  note: '''Let your face shine upon your servant''; MT 31:17'
+- ref: Ps 67:1
+  rel: language
+  note: Priestly Blessing echoed in prayer; MT 67:2
+- ref: Ps 80:3, 7, 19
+  rel: language
+  note: Refrain 'let your face shine, that we may be saved'; MT 80:4, 8, 20
+- ref: Ps 89:15
+  rel: language
+  note: Walking in the light of your face; MT 89:16
+- ref: Prov 16:15
+  rel: imagery
+  note: '''In the light of a king''s face there is life'''
+- ref: Dan 9:17
+  rel: language
+  note: '''Let your face shine upon your desolated sanctuary'''
+- ref: Ps 13:1
+  rel: language
+  note: '''How long will you hide your face from me?''; MT 13:2'
+related: [ketef-hinnom-amulets, amarna-letters, winged-sun-disk, shamash, prayer-postures,
+  egyptian-kingship]
+media:
+- id: amulets
+  role: primary
+external:
+  wikipedia: Priestly Blessing
+  wikidata: Q302997
+editorial:
+  author_notes:
+  - >-
+    In the Amarna letters, Levantine vassals address Pharaoh as the sun whose face brings
+    life (e.g. Abimilki of Tyre, EA 147). Akkadian idioms of a "bright face" (pānū namrūtu)
+    express a god's or king's favour. Present these as the closest analogues to Prov 16:15
+    and the Psalms.
+  - >-
+    The Ketef Hinnom silver amulets (late Iron Age, dating debated) attest a form of the Priestly
+    Blessing outside the Bible.
+  - >-
+    Note the solar overtones of the idiom without assuming a solar cult behind every occurrence.
+  image_query: Ketef Hinnom amulet
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

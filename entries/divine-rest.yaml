@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: divine-rest
+title: Divine Rest in Temple and Creation
+type: concept
+cultures: [ane, babylonian, hebrew]
+scope: >-
+  The motif of a deity's rest after victory or creation, typically in a newly built temple,
+  and its biblical expressions in God's seventh-day cessation, the ark's "resting place",
+  and the temple as YHWH's dwelling. Also covers the contrasting motif of disturbed or sleeping
+  gods.
+passages:
+- ref: Gen 2:2-3
+  rel: concept
+  note: God ceases (šābat) from work on the seventh day and hallows it
+- ref: Exod 20:11
+  rel: concept
+  note: YHWH 'rested' (wayyānaḥ) on the seventh day
+- ref: Exod 31:17
+  rel: concept
+  note: God 'ceased and was refreshed' (šābat wayyinnāpaš)
+- ref: Ps 132:8, 13-14
+  rel: concept
+  note: Ark brought to its resting place (mĕnûḥâ); Zion as YHWH's rest forever
+- ref: 1Chr 28:2
+  rel: concept
+  note: Temple as 'a house of rest for the ark' and God's footstool
+- ref: Isa 66:1
+  rel: concept
+  note: '''What is the house... and what is my resting place?'''
+- ref: 1Kgs 5:4
+  rel: concept
+  note: Rest from enemies as precondition for temple building; MT 5:18
+- ref: 2Sam 7:1-2, 11
+  rel: concept
+  note: Rest from enemies and the proposal to build a temple
+- ref: Ps 44:23
+  rel: imagery
+  note: '''Rouse yourself! Why do you sleep, O Lord?''; MT 44:24'
+- ref: Ps 121:4
+  rel: polemic
+  disputed: true
+  note: Israel's keeper 'neither slumbers nor sleeps'
+- ref: Heb 4:1-11
+  rel: concept
+  note: Sabbath rest and God's rest reinterpreted
+related: [enuma-elish, atrahasis, sabbath, temple-as-cosmos, temple-building-accounts, footstool,
+  ark-of-the-covenant, seven-day-patterns]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    In Enuma Elish the younger gods' noise prevents Apsu's rest (Tablet I), and after Marduk's
+    victory the gods build Esagil as a resting place (Tablet VI). In Atrahasis human noise
+    disturbs Enlil's sleep. These show a pattern of combat, temple building, and divine rest.
+  - >-
+    Distinguish the vocabulary. šbt means "cease, stop", nwḥ means "rest, settle", and npš
+    (niphal) means "be refreshed". Gen 2:2-3 uses the verb šābat, not the noun šabbāt.
+  - >-
+    Walton's reading of Gen 1 as cosmic temple inauguration is influential but contested.
+    Present it as one proposal.
+  - >-
+    The sleeping-god motif (Batto, "The Sleeping God", Biblica 1987, to verify) appears positively
+    (rest as sovereignty) and in lament and polemic (1 Kgs 18:27; Ps 121:4).
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

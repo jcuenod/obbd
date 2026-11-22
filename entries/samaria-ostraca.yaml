@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: samaria-ostraca
+title: Samaria Ostraca
+type: artifact
+cultures: [israelite]
+date:
+  from: -800
+  to: -750
+  circa: true
+  display: c. 800–750 BCE
+scope: >-
+  About a hundred ink-inscribed potsherds found in 1910 in the royal compound of Samaria,
+  dated to years 9, 10 and 15 of an unnamed king. They record shipments of wine and oil from
+  clan districts of Manasseh to named individuals, and are the main epigraphic source for
+  the administration of the northern kingdom.
+passages:
+- ref: Num 26:30-33
+  rel: attests
+  note: Clans of Manasseh (Abiezer, Helek, Asriel, Shechem, Shemida) and Noah, Hoglah
+- ref: Josh 17:2-3
+  rel: attests
+  note: The same Manassite clan and district names
+- ref: Hos 2:16-17
+  rel: language
+  note: >-
+    Baal-names among the recipients; Hosea's polemic against calling YHWH 'my Baal' (MT 2:18-19)
+- ref: 1Sam 8:14-15
+  rel: practice
+  disputed: true
+  note: Royal grants and produce from estates for courtiers
+- ref: Amos 6:4-6
+  rel: setting
+  note: Samarian elite consumption of wine and fine oil
+- ref: 2Kgs 14:23-29
+  rel: setting
+  note: Probably the reign of Jeroboam II
+related: [samaria, ostraca, olive-oil-production, winepresses, genealogies, writing-and-literacy,
+  baal, chronology-of-kings]
+media:
+- id: samaria-ostraca
+  role: primary
+external:
+  wikipedia: Samaria Ostraca
+  wikidata: Q2898874
+editorial:
+  author_notes:
+  - >-
+    The regnal years are usually assigned to Jeroboam II (some to Joash, Jehoahaz or Menahem).
+    Year 15 may belong to a different king from years 9-10.
+  - >-
+    The function is debated: tax receipts, deliveries from crown estates to officials, or
+    records of produce owed to absentee landowners at court. Present the options.
+  - >-
+    The clan names match the genealogies of Manasseh, which shows that these lists preserve
+    real territorial units in the Samaria hills.
+  - >-
+    Personal names show northern -yw (-yaw) Yahwistic forms alongside a notable number of
+    Baal names. Use cautiously as evidence for religious practice.
+  sources_to_check:
+  - KAI 183-188
+  - COS 3.44
+  - Reisner, Fisher and Lyon, Harvard Excavations at Samaria 1908-1910 (1924)
+  - Dobbs-Allsopp et al., Hebrew Inscriptions (2005)
+  image_query: Samaria ostraca
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

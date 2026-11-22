@@ -1,0 +1,66 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: judaea-capta-coins
+title: Judaea Capta Coins
+type: realia
+cultures: [roman]
+date:
+  from: 70
+  to: 96
+  circa: true
+  display: c. 70–96 CE
+scope: >-
+  Roman coins issued by Vespasian, Titus, and Domitian to commemorate the suppression of the
+  Jewish revolt. Typical types show a mourning woman (Judaea) seated beneath a palm tree,
+  often with a bound captive, and the legend IVDAEA CAPTA.
+passages:
+- ref: Isa 3:26
+  rel: imagery
+  note: Zion as a ravaged woman sitting on the ground at her gates
+- ref: Lam 1:1
+  rel: imagery
+  note: Jerusalem as a widow sitting alone
+- ref: Luke 21:24
+  rel: event
+  note: Jerusalem trampled by the Gentiles; people taken captive
+- ref: Rev 18:7
+  rel: imagery
+  disputed: true
+  note: Babylon boasts 'I am no widow', perhaps inverting Flavian imagery
+related: [arch-of-titus, coinage, imperial-cult, josephus, herods-temple, masada]
+media:
+- id: judaea-capta-coins
+  role: primary
+- id: judaea-capta-coins-2
+  role: gallery
+external:
+  wikipedia: Judaea Capta coinage
+  wikidata: Q3854059
+editorial:
+  author_notes:
+  - >-
+    Place them in the Roman convention of conquered-province iconography (e.g. Germania capta)
+    and in Flavian legitimation.
+  - >-
+    The parallel with the biblical image of Zion as a mourning woman is iconographic and conceptual.
+    Do not claim the mints drew on Isaiah.
+  - >-
+    Contrast with the Jewish revolt coinage ('Jerusalem the Holy', 'Freedom of Zion') and
+    mention the fiscus Iudaicus imposed after 70.
+  sources_to_check:
+  - Roman Imperial Coinage, vol. II.1 (2nd ed., 2007)
+  - D. Hendin, Guide to Biblical Coins (5th ed., 2010)
+  image_query: Judaea Capta sestertius
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

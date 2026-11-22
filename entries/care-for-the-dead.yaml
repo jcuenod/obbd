@@ -1,0 +1,94 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: care-for-the-dead
+title: Care for the Dead and Ancestor Veneration
+aliases: [Cult of the dead, Ancestor veneration, Kispu]
+type: practice
+cultures: [ane, ugaritic, babylonian, aramean]
+scope: >-
+  Practices of feeding, commemorating, invoking and consulting dead kin and ancestors in Israel
+  and its neighbours: Mesopotamian kispu, Ugaritic royal ancestor rites, and the Katumuwa
+  stele. The entry covers the debate over how widespread such practices were in Israel and
+  Judah.
+passages:
+- ref: Deut 26:14
+  rel: practice
+  note: 'Tithe declaration: ''I have not offered any of it to the dead'''
+- ref: Ps 106:28
+  rel: practice
+  note: Eating 'sacrifices of the dead' at Baal Peor
+- ref: Gen 35:20
+  rel: practice
+  note: Jacob sets up a pillar on Rachel's grave
+- ref: 2Sam 18:18
+  rel: practice
+  note: 'Absalom''s pillar: no son ''to keep my name in remembrance'''
+- ref: 1Sam 28:13-15
+  rel: concept
+  note: The dead Samuel as an ʾĕlōhîm rising from the earth
+- ref: Isa 8:19-20
+  rel: practice
+  note: Consulting the dead on behalf of the living
+- ref: Isa 57:6-8
+  rel: practice
+  disputed: true
+  note: Offerings among the 'smooth stones of the wadi'; mortuary reading debated
+- ref: Isa 65:4
+  rel: practice
+  note: Sitting in tombs and spending nights in secret places
+- ref: Jer 16:5
+  rel: practice
+  note: The 'house of mourning' (bêt marzēaḥ)
+- ref: Tob 4:17
+  rel: practice
+  note: '''Place your bread on the grave of the righteous'''
+- ref: Sir 30:18-19
+  rel: polemic
+  note: Food laid on a grave likened to offerings to an idol that cannot eat
+related: [necromancy, rephaim, marzeah, katumuwa-stele, aqhat-epic, teraphim, bench-tombs,
+  sheol-and-the-netherworld]
+media:
+- id: care-for-the-dead
+  role: primary
+external:
+  wikipedia: Veneration of the dead
+  wikidata: Q134270916
+editorial:
+  author_notes:
+  - >-
+    Mesopotamian kispu (regular food and water offerings and invocation of the name, with
+    a pāqidu caretaker) and the Ugaritic duties of the ideal son (KTU 1.17 i 26-34, including
+    setting up a stele for the ancestral god) are central comparanda.
+  - >-
+    The Katumuwa stele (Zincirli, c. 735 BCE) speaks of the dead man's 'soul' (nbš) in the
+    stele and of annual offerings.
+  - >-
+    Present the range of views: maximalists such as E. Bloch-Smith and T. J. Lewis see an
+    established cult of the dead in Judah; B. B. Schmidt (Israel's Beneficent Dead, 1994)
+    argues for a late, limited one. Distinguish feeding and commemoration from worship.
+  - >-
+    The identification of the teraphim as ancestor figurines (K. van der Toorn) is one hypothesis
+    among several.
+  sources_to_check:
+  - KTU 1.17 i 26-34 (duties of the son)
+  - KTU 1.161 (Ugaritic royal funerary ritual)
+  image_query: Katumuwa stele
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Sir 30:18 extended to 30:18-19 so the idol comparison
+    is included; note reworded
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

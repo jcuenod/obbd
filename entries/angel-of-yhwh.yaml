@@ -1,0 +1,73 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: angel-of-yhwh
+title: Divine Messengers and the Angel of YHWH
+aliases: [Angel of the Lord, malʾak YHWH, divine messengers]
+type: concept
+cultures: [hebrew, ugaritic, ane]
+scope: >-
+  Divine messengers in the ancient Near East and the Hebrew Bible, and in particular the "angel
+  (messenger) of YHWH", whose identity often merges with YHWH in the narratives. The entry
+  covers ANE messenger conventions and the main interpretive models.
+passages:
+- ref: Gen 16:7-13
+  rel: concept
+  note: The angel speaks to Hagar, who names 'the God who sees'
+- ref: Gen 22:11-18
+  rel: concept
+  note: The angel calls from heaven, speaking as YHWH
+- ref: Gen 31:11-13
+  rel: concept
+  note: The angel of God says 'I am the God of Bethel'
+- ref: Exod 3:2-6
+  rel: concept
+  note: The angel appears in the bush; God speaks from it
+- ref: Exod 23:20-23
+  rel: concept
+  note: Angel sent before Israel; 'my name is in him'
+- ref: Judg 6:11-24
+  rel: concept
+  note: The angel commissions Gideon; fear of having seen God
+- ref: Judg 13:3-23
+  rel: concept
+  note: Annunciation to Manoah's wife; the angel's wondrous name
+- ref: Gen 19:1
+  rel: form
+  note: Two messengers; cf. paired divine messengers at Ugarit
+- ref: Hag 1:13
+  rel: language
+  note: Prophet called 'the messenger of YHWH'
+related: [divine-council, name-theology, letter-writing-conventions, prophecy-in-the-ane,
+  cherubim, sons-of-god]
+media: []
+external:
+  wikipedia: Angel of the Lord
+  wikidata: Q2619342
+editorial:
+  author_notes:
+  - >-
+    Present the main models for the angel-YHWH fluidity: representation or agency (the messenger
+    speaks in the sender's voice), interpolation (angel added to earlier theophanies), and
+    hypostasis; avoid later christological identifications as historical exegesis.
+  - >-
+    Ugaritic and Mesopotamian messengers (often paired, e.g. Gapn and Ugar) deliver messages
+    verbatim in the first person of the sender, a key analogy.
+  - >-
+    Distinguish malʾāk "messenger" (human or divine) from later angelology with names and
+    ranks (Daniel, Tobit, 1 Enoch).
+  sources_to_check:
+  - S. A. Meier, The Messenger in the Ancient Semitic World (HSM 45, 1988)
+  - DDD, s.v. "Angel of Yahweh"
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

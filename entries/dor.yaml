@@ -1,0 +1,91 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: dor
+title: Dor (Tel Dor)
+aliases: [Tel Dor, Naphath-dor, Dora, Khirbet el-Burj]
+type: site
+cultures: [phoenician, canaanite, israelite]
+scope: >-
+  The harbour town on the Carmel coast (Tel Dor), occupied from the Bronze Age to the Roman
+  period. It appears as a Sikil (Tjeker) town in the Report of Wenamun, in the Israelite territorial
+  lists, as the Assyrian province of Duʾru, as a Phoenician and Hellenistic city, and as a
+  stronghold besieged in 1 Maccabees. The entry covers the biblical references and the results
+  of the Stern and Gilboa-Sharon excavations.
+passages:
+- ref: Josh 11:2
+  rel: setting
+  note: Naphoth-dor among the regions of Jabin's northern coalition
+- ref: Josh 12:23
+  rel: setting
+  note: The king of Dor in Naphath-dor among the defeated kings
+- ref: Josh 17:11-12
+  rel: setting
+  note: Dor assigned to Manasseh, which could not take it
+- ref: Judg 1:27
+  rel: setting
+  note: Manasseh fails to drive out the inhabitants of Dor
+- ref: 1Kgs 4:11
+  rel: setting
+  note: Ben-abinadab over Naphath-dor, married to Solomon's daughter Taphath
+- ref: 1Chr 7:29
+  rel: setting
+  note: Dor among the towns of the Manassites
+- ref: 1Macc 15:11-14, 25
+  rel: event
+  note: Antiochus VII besieges the usurper Tryphon in Dor
+related: [report-of-wenamun, sea-peoples, phoenicians, phoenician-seafaring, purple-dye, eshmunazar-sarcophagus,
+  tiglath-pileser-iii, caesarea-maritima]
+media:
+- id: dor
+  role: primary
+- id: dor-2
+  role: gallery
+external:
+  wikipedia: Tel Dor
+  wikidata: Q1243563
+  pleiades: '678121'
+editorial:
+  author_notes:
+  - >-
+    Wenamun (c. 1070s BCE) calls Dor a town of the Tjeker (Sikil) ruled by a prince Beder.
+    Stern stressed a Sea Peoples phase, but Gilboa and Sharon find the Iron I town culturally
+    Canaanite/Phoenician with limited Aegean features. Present the debate.
+  - >-
+    When Israel took control of Dor is debated: the tenth century (1 Kgs 4:11 taken at face
+    value) or the ninth, under the Omrides. After 732 Dor became the centre of the Assyrian
+    province of Duʾru.
+  - >-
+    The Eshmunazar II sarcophagus records that the Persian king gave 'Dor and Joppa' to Sidon.
+    In the Hellenistic and Roman periods Dora was a fortified harbour city; 1 Macc 15 and
+    Josephus refer to it.
+  - >-
+    'Naphath-dor' (Josh 11:2; 12:23; 1 Kgs 4:11) may mean 'the heights of Dor' (the Carmel
+    ridge) or simply 'the region of Dor'. Note the uncertainty.
+  - >-
+    The finds include purple-dye installations, harbour structures and shipwrecks in the lagoon.
+    Link to purple-dye and phoenician-seafaring.
+  sources_to_check:
+  - E. Stern, Dor, Ruler of the Seas (rev. ed. 2000)
+  - E. Stern et al., Excavations at Dor, Final Report, vols. IA-IB (Qedem Reports 1-2, 1995)
+  image_query: Tel Dor
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q1243563 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 32.61743
+  lon: 34.91636
+  source: wikidata:Q1243563

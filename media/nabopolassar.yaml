@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: nabopolassar
+file: nabopolassar.jpg
+title: Cylinder of Nabopolassar from Babylon, Mesopotamia..JPG
+caption: >-
+  Terracotta cylinder of Nabopolassar recording work on the walls of Babylon, 625-605 BCE
+  (British Museum, BM 26263).
+description: >-
+  This small terracotta cylinder records the work on the walls of the city of Babylon by the
+  king Nabopolassar. From Babylon, Mesopotamia, Iraq. Neo-Babylonian period, 625-605 BCE.
+  The British Museum, London. BM 26263 https://www.britishmuseum.org/collection/object/W_1898-0514-81
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Cylinder_of_Nabopolassar_from_Babylon,_Mesopotamia..JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/a5/Cylinder_of_Nabopolassar_from_Babylon%2C_Mesopotamia..JPG
+  sha1: 96c0a94a988f0790d466732f2fd08f81faa51e90
+  original_size: [4288, 2848]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1063 px
+size: [1600, 1063]
+depicts: [nabopolassar]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

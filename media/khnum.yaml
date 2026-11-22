@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: khnum
+file: khnum.jpg
+title: Ram-headed figure of the god Khnum MET LC-30 8 256 EGDP026635.jpg
+caption: >-
+  Seated ram-headed figure of the god Khnum, faience with a copper-alloy headdress, Dynasty
+  26, 664–525 BCE (Metropolitan Museum of Art, New York, 30.8.256).
+description: Ram-headed figure of the god Khnum
+creator: Metropolitan Museum of Art
+credit_line: >-
+  This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum
+  of Art. See the Image and Data Resources Open Access Policy
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Metropolitan Museum of Art. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Ram-headed_figure_of_the_god_Khnum_MET_LC-30_8_256_EGDP026635.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/9a/Ram-headed_figure_of_the_god_Khnum_MET_LC-30_8_256_EGDP026635.jpg
+  sha1: b73e34cef761a18148183e1036fce675705b425a
+  original_size: [2667, 4000]
+  retrieved: '2026-11-21'
+derivative: Downscaled to 1067×1600 px
+size: [1067, 1600]
+depicts: [khnum]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

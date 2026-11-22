@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: laodicea
+title: Laodicea
+type: site
+cultures: [greek, roman]
+scope: >-
+  Laodicea on the Lycus in Phrygia, a prosperous city near Hierapolis and Colossae, known
+  for banking, black wool, and a medical school. It appears in Colossians and is addressed
+  in the last of the seven messages of Revelation.
+passages:
+- ref: Rev 3:14-22
+  rel: setting
+  note: Message to the church in Laodicea
+- ref: Rev 3:15-16
+  rel: imagery
+  disputed: true
+  note: >-
+    'Neither cold nor hot'; cf. Hierapolis's hot springs, Colossae's cold water, and Laodicea's
+    piped supply
+- ref: Rev 3:17-18
+  rel: imagery
+  note: Wealth, clothing, and eye-salve, matching the city's banking, textiles, and medicine
+- ref: Col 2:1
+  rel: setting
+  note: Paul's struggle for those in Laodicea
+- ref: Col 4:13-16
+  rel: setting
+  note: Epaphras; Nympha's house church; the letter from Laodicea
+related: [pergamon, temple-of-artemis-ephesus, imperial-cult, cisterns-and-water-systems]
+media:
+- id: laodicea
+  role: primary
+external:
+  wikipedia: Laodicea on the Lycus
+  wikidata: Q849709
+  pleiades: '638955'
+editorial:
+  author_notes:
+  - >-
+    The city rebuilt itself without imperial aid after the earthquake of 60 CE (Tacitus, Ann.
+    14.27), which is relevant to Rev 3:17.
+  - >-
+    The hot/cold/lukewarm water interpretation (Rudwick and Green) is popular but has been
+    critiqued (e.g. C. Koester). Present it as one reading.
+  - Note the recent Turkish excavations under C. Şimşek.
+  sources_to_check:
+  - C. J. Hemer, The Letters to the Seven Churches of Asia in Their Local Setting (1986)
+  - >-
+    C. R. Koester, 'The Message to Laodicea and the Problem of Its Local Context', NTS 49
+    (2003)
+  image_query: Laodicea on the Lycus ruins
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: 'Passage tags checked against WEB text: Rev 3:15-16 water-supply reading marked disputed'
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q849709 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-1-sol
+coordinates:
+  lat: 37.83583
+  lon: 29.1075
+  source: wikidata:Q849709

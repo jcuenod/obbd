@@ -1,0 +1,60 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: satire-of-the-trades
+title: Satire of the Trades
+aliases: [Instruction of Dua-Khety, Instruction of Khety]
+type: text
+cultures: [egyptian]
+date:
+  from: -1950
+  to: -1850
+  circa: true
+  display: c. 1950–1850 BCE
+scope: >-
+  A Middle Kingdom instruction in which Khety, son of Duauf, takes his son to the scribal
+  school and lampoons the hardships of other occupations to show the superiority of the scribe's
+  profession. It was widely copied as a New Kingdom school text.
+passages:
+- ref: Sir 38:24-34
+  rel: parallel
+  note: Farmer, artisan, smith, and potter absorbed in toil, without leisure for wisdom
+- ref: Sir 39:1-11
+  rel: parallel
+  note: The scribe who studies the law and serves among rulers
+related: [scribes-and-scribal-education, ane-wisdom-literature, writing-and-literacy, instruction-of-amenemope]
+media:
+- id: satire-of-the-trades
+  role: primary
+- id: satire-of-the-trades-2
+  role: gallery
+external:
+  wikipedia: The Satire of the Trades
+  wikidata: Q616182
+editorial:
+  author_notes:
+  - >-
+    The Ben Sira parallel is widely acknowledged. Whether it reflects direct knowledge of
+    the Egyptian text (plausible in Ptolemaic Egypt-Judea contacts) or a shared scribal topos
+    is debated.
+  - >-
+    Note the difference in tone. The Egyptian text is satirical and exaggerated, while Ben
+    Sira acknowledges that artisans sustain the city (Sir 38:32-34).
+  - >-
+    The text is a key source for Egyptian scribal self-understanding and education. It is
+    preserved mainly in New Kingdom copies (e.g., P. Sallier II and P. Anastasi VII) and many
+    ostraca, and its text is often corrupt.
+  sources_to_check: ['AEL 1:184-192', ANET 432-434]
+  image_query: Satire of the Trades papyrus Sallier British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

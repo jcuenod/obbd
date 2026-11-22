@@ -1,0 +1,90 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: oil-lamps
+title: Oil Lamps
+aliases: [Lamps, Seven-spouted lamp]
+type: realia
+cultures: [hebrew, greek, roman]
+scope: >-
+  Clay oil lamps of the Bronze Age to Roman period in the Levant, their typology and cultic
+  uses, and the lamp as a biblical image of life, dynasty, and divine guidance. The temple
+  lampstand is treated under menorah.
+passages:
+- ref: Exod 25:37
+  rel: realia
+  note: Seven lamps of the tabernacle lampstand
+- ref: Exod 27:20-21
+  rel: practice
+  note: Lamp kept burning from evening to morning with beaten olive oil
+- ref: 1Sam 3:3
+  rel: realia
+  note: '''The lamp of God had not yet gone out'' at Shiloh'
+- ref: 2Sam 21:17
+  rel: imagery
+  note: David as 'the lamp of Israel'
+- ref: 1Kgs 11:36
+  rel: imagery
+  disputed: true
+  note: A 'lamp' (nîr) for David in Jerusalem; sense debated
+- ref: Prov 20:27
+  rel: imagery
+  note: The human spirit as the lamp of YHWH
+- ref: Prov 31:18
+  rel: realia
+  note: Her lamp does not go out at night
+- ref: Job 18:5-6
+  rel: imagery
+  note: The lamp of the wicked put out
+- ref: Zech 4:2
+  rel: realia
+  note: Seven lamps with 'seven and seven' spouts (mûṣāqôt); cf. multi-spouted lamps
+- ref: Ps 119:105
+  rel: imagery
+  note: '''Your word is a lamp to my feet'''
+- ref: Matt 25:1-13
+  rel: realia
+  note: Ten young women with lamps and oil
+related: [olive-oil-production, menorah, tabernacle, four-room-house, millstones-and-grinding,
+  david]
+media:
+- id: oil-lamps
+  role: primary
+- id: oil-lamps-2
+  role: gallery
+external:
+  wikipedia: Oil lamp
+  wikidata: Q821952
+editorial:
+  author_notes:
+  - >-
+    Give the typology. Bronze and Iron Age lamps are open saucers with a pinched spout, and
+    Iron II lamps often have a thick disc base. Hellenistic lamps are closed and mould-made.
+    Late Second Temple Judea has wheel-made 'Herodian' (knife-pared) lamps. Mention lamp-and-bowl
+    foundation deposits.
+  - Multi-spouted (seven-spouted) lamps occur in cultic contexts and illuminate Zech 4:2.
+  - >-
+    The 'lamp' (nîr) for David (1 Kgs 11:36; 15:4; 2 Kgs 8:19) has been reinterpreted as 'dominion'
+    or 'yoke' (P. D. Hanson, 1968). Present both readings.
+  - >-
+    The lampades of Matt 25 may be torches rather than clay lamps. Note this as a debated
+    point.
+  image_query: Iron Age oil lamp
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Zech 4:2 note corrected (musaqot 'spouts', not
+    literally 'lips')
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

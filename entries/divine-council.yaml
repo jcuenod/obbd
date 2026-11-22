@@ -1,0 +1,80 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: divine-council
+title: Divine Council
+aliases: [heavenly council, assembly of the gods, sôd YHWH]
+type: concept
+cultures: [ane, ugaritic, mesopotamian, hebrew]
+scope: >-
+  The assembly of the gods presided over by the high god, attested in Mesopotamian, Ugaritic,
+  Phoenician and Aramaic sources, and in the Hebrew Bible as YHWH's heavenly court of "sons
+  of God", "holy ones" and the host of heaven, to which prophets claim access.
+passages:
+- ref: Ps 82
+  rel: concept
+  note: God judges and condemns the gods in 'the council of El'
+- ref: 1Kgs 22:19-23
+  rel: concept
+  note: Micaiah sees YHWH enthroned with the host; a spirit volunteers
+- ref: Job 1:6-12
+  rel: concept
+  note: The sons of God present themselves; the satan among them
+- ref: Isa 6:1-8
+  rel: concept
+  note: Throne vision; 'Who will go for us?'
+- ref: Isa 40:1-8
+  rel: concept
+  note: Plural commands to the heavenly court (Cross)
+- ref: Jer 23:18, 22
+  rel: concept
+  note: True prophets have stood in YHWH's council (sôd)
+- ref: Ps 89:5-7
+  rel: concept
+  note: '''Assembly of the holy ones'', incomparability among heavenly beings (MT 89:6-8)'
+- ref: Gen 1:26; 3:22; 11:7
+  rel: concept
+  disputed: true
+  note: 'Divine plurals: ''let us make'', ''like one of us'', ''let us go down'''
+- ref: Zech 3:1-7
+  rel: concept
+  note: Heavenly court scene with the accuser
+- ref: Deut 32:8-9
+  rel: concept
+  note: Nations allotted to the sons of God (4QDeutj, LXX)
+related: [sons-of-god, el, elyon, 4qdeut-j, satan-the-adversary, prophecy-in-the-ane, deir-alla-inscription,
+  enuma-elish]
+media: []
+external:
+  wikipedia: Divine Council
+  wikidata: Q5284081
+editorial:
+  author_notes:
+  - >-
+    Ugaritic terms include phr ilm, ʿdt ilm (KTU 1.15 II) and dr bn il; Mesopotamian puḫrum
+    appears in Enuma Elish and Atrahasis; the Deir ʿAlla text has the šdyn assembling.
+  - >-
+    The Gen 1:26 plural is variously explained (council, plural of majesty, deliberation);
+    council is a common critical view but not unanimous.
+  - >-
+    On Ps 82, note the older reading of the "gods" as human judges (and John 10:34-36) versus
+    the now-dominant mythological reading.
+  - >-
+    Avoid popular maximalist "divine council worldview" readings that systematize all supernatural
+    references into one framework; stay with mainstream scholarship (Mullen, Smith, Handy).
+  sources_to_check:
+  - E. T. Mullen, The Assembly of the Gods (HSM 24, 1980)
+  - F. M. Cross, "The Council of Yahweh in Second Isaiah," JNES 12 (1953)
+  - L. K. Handy, Among the Host of Heaven (1994)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

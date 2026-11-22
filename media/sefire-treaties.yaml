@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: sefire-treaties
+file: sefire-treaties.jpg
+title: Ronzevalle's publication of the Sefire steles - Plate XXXIX.jpg
+caption: Plate from Ronzevalle's 1930 publication of the Sefire steles.
+description: Ronzevalle's publication of the Sefire steles (1930)
+creator: fr:Sébastien Ronzevalle
+credit_line: >-
+  Ronzevalle, S., "Fragments d'inscriptions araméennes des environs d'Alep." Mélanges de l'Université
+  Saint-Joseph, 15 (1930-31): 237–60
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: fr:Sébastien Ronzevalle. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Ronzevalle%27s_publication_of_the_Sefire_steles_-_Plate_XXXIX.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/a3/Ronzevalle%27s_publication_of_the_Sefire_steles_-_Plate_XXXIX.jpg
+  sha1: b16bb9bb614899400ffd48fc08831e8859eda46b
+  original_size: [1712, 2646]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1035×1600 px
+size: [1035, 1600]
+depicts: [sefire-treaties]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

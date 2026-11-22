@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: marseilles-tariff
+file: marseilles-tariff.jpg
+title: Musée d'archéologie méditerranéenne, Marseille 89 (cropped).jpg
+caption: >-
+  The Marseilles Tariff, Punic sacrificial tariff inscription (Musée d'archéologie méditerranéenne,
+  Marseille).
+description: Musée d'archéologie méditerranéenne, Marseille
+creator: Onceinawhile
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Onceinawhile, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_d%27arch%C3%A9ologie_m%C3%A9diterran%C3%A9enne,_Marseille_89_(cropped).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/43/Mus%C3%A9e_d%27arch%C3%A9ologie_m%C3%A9diterran%C3%A9enne%2C_Marseille_89_%28cropped%29.jpg
+  sha1: 40d4ff4146045e8a69a13c64ed193b6d927d0001
+  original_size: [3049, 2286]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [marseilles-tariff]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

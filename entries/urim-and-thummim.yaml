@@ -1,0 +1,69 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: urim-and-thummim
+title: Urim and Thummim
+type: practice
+cultures: [hebrew, assyrian]
+scope: >-
+  The Urim and Thummim, a priestly oracular device kept in the high priest's breastpiece for
+  obtaining binary divine answers. The entry covers its biblical attestations, its disappearance
+  after the early monarchy, and proposed ancient Near Eastern analogues.
+passages:
+- ref: Exod 28:30
+  rel: practice
+  note: Urim and Thummim placed in the breastpiece of judgment
+- ref: Lev 8:8
+  rel: practice
+  note: Moses puts the Urim and Thummim in Aaron's breastpiece
+- ref: Num 27:21
+  rel: practice
+  note: Eleazar to inquire by the judgment of the Urim for Joshua
+- ref: Deut 33:8
+  rel: practice
+  note: Thummim and Urim given to Levi
+- ref: 1Sam 14:41
+  rel: practice
+  note: 'Fuller LXX text: ''give Urim... give Thummim'' (followed by NRSV)'
+- ref: 1Sam 14:37
+  rel: practice
+  note: God does not answer Saul's inquiry
+- ref: 1Sam 28:6
+  rel: practice
+  note: No answer by dreams, Urim, or prophets
+- ref: 1Sam 23:9-12
+  rel: practice
+  note: David's yes/no inquiries by the ephod
+- ref: Ezra 2:63
+  rel: practice
+  note: Decision deferred until a priest with Urim and Thummim arises; cf. Neh 7:65
+related: [ephod, lots-and-cleromancy, divination, teraphim, prophecy-in-the-ane]
+media: []
+external:
+  wikipedia: Urim and Thummim
+  wikidata: Q1130380
+editorial:
+  author_notes:
+  - >-
+    How the device worked is unknown. The texts suggest binary answers, with the possibility
+    of no answer (1 Sam 14:37; 28:6). The etymologies ("lights and perfections"; or linked
+    to ʾrr "curse" and tmm "be innocent") are uncertain.
+  - >-
+    Horowitz and Hurowitz (JANES 21, 1992) compared an Assyrian psephomancy ritual using two
+    stones (LKA 137). This is the best-documented analogue but not proof of identical practice.
+    Van Dam, The Urim and Thummim (1997), surveys proposals.
+  - >-
+    Note the device's absence from narratives after David, and the postexilic expectation
+    of its restoration (Ezra 2:63).
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

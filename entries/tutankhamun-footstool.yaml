@@ -1,0 +1,67 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tutankhamun-footstool
+title: Footstools and Sandals with Bound Enemies (Tutankhamun)
+aliases: [Footstools of Tutankhamun]
+type: artifact
+cultures: [egyptian]
+date:
+  from: -1323
+  to: -1323
+  circa: true
+  display: c. 1323 BCE
+scope: >-
+  Footstools from Tutankhamun's tomb (KV62) decorated with bound foreign captives, Asiatic
+  and Nubian, and the "Nine Bows" (Egypt's traditional enemies), so that the king symbolically
+  trod on his enemies whenever he was seated. They illustrate the biblical image of enemies
+  as a footstool.
+passages:
+- ref: Ps 110:1
+  rel: imagery
+  note: '''Until I make your enemies your footstool'''
+- ref: Josh 10:24
+  rel: practice
+  note: Feet on the necks of defeated kings
+- ref: 1Kgs 5:3
+  rel: imagery
+  note: Enemies put under the soles of the king's feet; MT 5:17
+- ref: Isa 66:1
+  rel: imagery
+  note: Earth as YHWH's footstool
+- ref: 1Chr 28:2
+  rel: realia
+  note: Ark as the 'footstool of our God'
+related: [footstool, narmer-palette, smiting-the-enemy-motif, egyptian-kingship, cherub-throne,
+  royal-ideology]
+media:
+- id: tutankhamun-footstool
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The same motif appears on Tutankhamun's sandals, walking sticks, and throne. Present the
+    footstools as part of a coherent iconography of royal domination.
+  - >-
+    Ps 110 is often read against Egyptian royal ideology (the king enthroned at the god's
+    right hand, enemies underfoot). Note that Neo-Assyrian parallels are also invoked.
+  - >-
+    Many Tutankhamun objects have recently moved to the Grand Egyptian Museum in Giza. Verify
+    locations before stating them.
+  sources_to_check:
+  - Keel, The Symbolism of the Biblical World (1978)
+  - Reeves, The Complete Tutankhamun (1990)
+  image_query: Tutankhamun footstool bound captives
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: capernaum
+file: capernaum.jpg
+title: >-
+  Sites of Christianity in the Galillee - Ruins of the ancient Great Synagogue at Capernaum
+  (or Kfar Nahum) on the shore of the Lake of Galilee, Northern Israel.jpg
+caption: The white limestone synagogue at Capernaum, Late Roman–Byzantine period.
+description: >-
+  Sites of Christianity in the Galillee - Ruins of the ancient Great Synagogue at Capernaum
+  (or Kfar Nahum) on the shore of the Lake of Galilee, Northern Israel
+creator: Eddie Gerald
+credit_line: This file has been provided by UNESCO (unesco.org) as part of a GLAM-Wiki partnership.
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0 igo
+  url: https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en
+attribution: Eddie Gerald, CC BY-SA 3.0 igo, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Sites_of_Christianity_in_the_Galillee_-_Ruins_of_the_ancient_Great_Synagogue_at_Capernaum_(or_Kfar_Nahum)_on_the_shore_of_the_Lake_of_Galilee,_Northern_Israel.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/f/fb/Sites_of_Christianity_in_the_Galillee_-_Ruins_of_the_ancient_Great_Synagogue_at_Capernaum_%28or_Kfar_Nahum%29_on_the_shore_of_the_Lake_of_Galilee%2C_Northern_Israel.jpg
+  sha1: 4e575688cf4be9fccbe420119778d7c22bb7300d
+  original_size: [4288, 2848]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1063 px
+size: [1600, 1063]
+depicts: [capernaum]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

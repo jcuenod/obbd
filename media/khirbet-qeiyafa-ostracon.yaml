@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: khirbet-qeiyafa-ostracon
+file: khirbet-qeiyafa-ostracon.jpg
+title: Bible-Lands-Museum-Khirbet-Qeiyafa-30244.jpg
+caption: >-
+  The Khirbet Qeiyafa ostracon, ink on pottery, late 11th or early 10th century BCE, in the
+  Khirbet Qeiyafa exhibition at the Bible Lands Museum, Jerusalem.
+description: Khirbet Qeiyafa Exhibition in Bible Lands Museum, Jerusalem, Israel.
+creator: Bukvoed
+credit_line: Own work
+license:
+  id: CC-BY-4.0
+  name: CC BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0
+attribution: Bukvoed, CC BY 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Bible-Lands-Museum-Khirbet-Qeiyafa-30244.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/1c/Bible-Lands-Museum-Khirbet-Qeiyafa-30244.jpg
+  sha1: 8a150b1ed987cc89df6c70d253a97c725a054038
+  original_size: [2737, 2336]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1366 px
+size: [1600, 1366]
+depicts: [khirbet-qeiyafa-ostracon]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: nineveh
+file: nineveh.jpg
+title: Nineveh - Mashki Gate.jpg
+caption: >-
+  The Mashki Gate of Nineveh, one of the city's gateways, as partly reconstructed in modern
+  times.
+description: Nineveh - Mashki Gate
+creator: Omar Siddeeq Yousif
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Omar Siddeeq Yousif, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Nineveh_-_Mashki_Gate.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/2/27/Nineveh_-_Mashki_Gate.jpg
+  sha1: 0394fc0c9c9ef83bda8f7d6a04ea7784a95d80e0
+  original_size: [5405, 3696]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1094 px
+size: [1600, 1094]
+depicts: [nineveh]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

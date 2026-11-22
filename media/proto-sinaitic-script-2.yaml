@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: proto-sinaitic-script-2
+file: proto-sinaitic-script-2.jpg
+title: Ba`alat.jpg
+caption: >-
+  Drawing of the Proto-Sinaitic word b‘lt ('Lady'), the only certainly deciphered word in
+  the script.
+description: Specimen of the only certainly deciphered word in the Proto-Sinaitic script,
+  b‘lt.
+creator: unknown Uploaded by Kwamikagami at en.wikipedia
+credit_line: >-
+  William Foxwell Albright, The Proto-Sinaitic Inscriptions and Their Decipherment Transferred
+  from en.wikipedia to Commons by SreeBot.
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: unknown Uploaded by Kwamikagami at en.wikipedia. Public domain, via Wikimedia
+  Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ba%60alat.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/a/a9/Ba%60alat.jpg
+  sha1: dbd7cc3131f82104dcb50e1f90eac84f2ca6a64e
+  original_size: [600, 398]
+  retrieved: '2026-11-20'
+derivative: null
+size: [600, 398]
+depicts: [proto-sinaitic-script]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

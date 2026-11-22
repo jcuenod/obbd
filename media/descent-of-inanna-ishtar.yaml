@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: descent-of-inanna-ishtar
+file: descent-of-inanna-ishtar.jpg
+title: Ishtar descent to the Underworld BM ME K.162.jpg
+caption: >-
+  Tablet with the Akkadian version of Ishtar's Descent to the Netherworld, from the Library
+  of Ashurbanipal at Nineveh (British Museum, K.162).
+description: >-
+  Copy of the Akkadian version of Ishtar's Descent into the Underworld from the Library of
+  Assurbanipal, currently held in the British Museum in London, England
+creator: Marie-Lan Nguyen
+credit_line: Own work
+license:
+  id: CC-BY-2.5
+  name: CC BY 2.5
+  url: https://creativecommons.org/licenses/by/2.5
+attribution: Marie-Lan Nguyen, CC BY 2.5, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ishtar_descent_to_the_Underworld_BM_ME_K.162.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/37/Ishtar_descent_to_the_Underworld_BM_ME_K.162.jpg
+  sha1: da906122333f6b8a84839089d7f06b650064d14d
+  original_size: [2005, 4009]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 800×1600 px
+size: [800, 1600]
+depicts: [descent-of-inanna-ishtar]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

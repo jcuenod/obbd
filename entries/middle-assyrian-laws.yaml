@@ -1,0 +1,86 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: middle-assyrian-laws
+title: Middle Assyrian Laws
+aliases: [MAL, Assyrian Laws]
+type: text
+cultures: [assyrian]
+date:
+  from: -1400
+  to: -1076
+  circa: true
+  display: c. 1400–1076 BCE
+scope: >-
+  The Middle Assyrian law tablets from Assur, above all Tablet A on offences by and against
+  women, marriage, widowhood, and veiling, together with tablets on property and other matters.
+  They offer the closest ANE parallels to several laws in Deuteronomy 22 and 25.
+passages:
+- ref: Deut 25:11-12
+  rel: parallel
+  note: Woman who injures a man's testicles in a fight is mutilated (MAL A §8)
+- ref: Deut 25:5-10
+  rel: practice
+  note: Widow given to her late husband's brother or father-in-law
+- ref: Deut 22:22
+  rel: parallel
+  note: Adulterers caught in the act both liable to death (MAL A §§13-15)
+- ref: Deut 22:23-27
+  rel: parallel
+  note: Consent and location in judging sexual assault (MAL A §12)
+- ref: Deut 22:28-29
+  rel: parallel
+  note: Violator of an unbetrothed virgin pays her father and must marry her (MAL A §55)
+- ref: Exod 22:16-17
+  rel: parallel
+  note: Seducer pays and may marry the girl at the father's discretion (MAL A §56) (MT 22:15-16)
+- ref: Gen 38:14-15
+  rel: practice
+  note: Veiling regulated by status; prostitutes forbidden to veil (MAL A §40)
+- ref: Exod 21:22-25
+  rel: parallel
+  note: Penalties for causing a miscarriage (MAL A §§21, 50-52)
+- ref: Deut 25:1-3
+  rel: practice
+  note: Flogging with a fixed number of blows; Deut caps it at forty
+related: [levirate-marriage, ane-law-collections, marriage-and-bride-price, code-of-hammurabi,
+  hittite-laws, assyria]
+media:
+- id: middle-assyrian-laws
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Excavated at Assur in the German campaigns (1903-14); the copies date to about the reign
+    of Tiglath-pileser I (late 12th-11th c.), the composition probably earlier (14th c.).
+    Penalties are notably harsh and corporal.
+  - >-
+    Levirate provisions are spread over several sections of Tablet A (c. §§30, 33, 43; verify
+    against Roth). They differ from Deut 25:5-10, where the aim is to preserve the deceased's
+    name and the brother may refuse.
+  - >-
+    MAL A §40 requires wives and daughters to veil and forbids prostitutes and slave women
+    to do so; Gen 38:15 (Tamar veiled, taken for a prostitute) shows the Israelite custom
+    cannot simply be equated. Gen 24:65 can be added.
+  - >-
+    No dedicated English Wikipedia article exists; the broader article 'Assyrian law' covers
+    it.
+  sources_to_check:
+  - M. T. Roth, Law Collections from Mesopotamia and Asia Minor (2nd ed., 1997)
+  - COS 2.132
+  - ANET 180-188
+  - G. R. Driver and J. C. Miles, The Assyrian Laws (1935)
+  image_query: Middle Assyrian laws tablet Assur
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: apkallu-reliefs
+title: Apkallu Reliefs
+type: realia
+cultures: [assyrian]
+scope: >-
+  Neo-Assyrian reliefs and buried figurines of protective apkallu sages and related genies:
+  fish-cloaked figures, bird-headed (griffin) figures, and winged human figures with bucket
+  and cone. The entry covers this iconography and its link to the antediluvian sages; the
+  textual sage tradition is treated under its own entry.
+passages:
+- ref: Gen 6:1-4
+  rel: concept
+  disputed: true
+  note: Primeval semi-divine figures; apkallu traditions compared with the sons of God
+- ref: 1En 6-8
+  rel: concept
+  disputed: true
+  note: Watchers teach forbidden arts; inverted apkallu tradition
+- ref: Gen 5:21-24
+  rel: concept
+  note: >-
+    Enoch, seventh antediluvian, compared with seventh king Enmeduranki and seventh sage Utuabzu,
+    who ascended
+- ref: Ezek 28:12-17
+  rel: concept
+  disputed: true
+  note: Wise primeval figure in Eden compared with an apkallu
+- ref: 1Sam 5:2-5
+  rel: language
+  note: Dagon; the fish-cloaked apkallu is often wrongly cited as a 'fish-god Dagon'
+related: [enmeduranki-and-the-apkallu, lamassu, assyrian-sacred-tree, demons, first-enoch,
+  dagon, nimrud]
+media:
+- id: apkallu-reliefs
+  role: primary
+- id: apkallu-reliefs-2
+  role: gallery
+- id: apkallu-reliefs-3
+  role: gallery
+- id: assyrian-sacred-tree
+  role: gallery
+external:
+  wikipedia: Apkallu
+  wikidata: Q6813564
+editorial:
+  author_notes:
+  - >-
+    Wiggermann's work on protective figurines established the identification of these figures
+    as apkallu; present the different types and their ritual use.
+  - >-
+    The 'Dagon as fish-god' idea (from Hebrew dag 'fish') is a popular misconception; Dagan
+    was a grain/storm deity. Use this entry to correct it.
+  - >-
+    The link to Gen 6:1-4 and the Enochic Watchers is real but indirect, mediated by the textual
+    sage tradition (Uruk List of Kings and Sages; Berossus' Oannes); see Kvanvig and others.
+  - >-
+    The bucket and cone figures purify and protect; do not overinterpret the 'cone' as pollination
+    of the tree.
+  sources_to_check:
+  - Wiggermann, Mesopotamian Protective Spirits (Cuneiform Monographs 1, 1992)
+  image_query: Apkallu relief Northwest Palace Nimrud
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Gen 5:21-24 note corrected (Enmeduranki is a king;
+    added seventh sage Utuabzu)
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

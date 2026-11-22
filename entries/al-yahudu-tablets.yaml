@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: al-yahudu-tablets
+title: Āl-Yāhūdu Tablets
+aliases: [Āl-Yāhūdu tablets, Judean exile tablets, By the Rivers of Babylon tablets]
+type: text
+cultures: [babylonian, judahite]
+date:
+  from: -572
+  to: -477
+  circa: true
+  display: c. 572–477 BCE
+scope: >-
+  Some two hundred cuneiform legal and administrative tablets from the settlements of Āl-Yāhūdu
+  ("Judahtown"), Našar, and Bīt-Abī-râm in the Nippur region. They document Judean deportees
+  and their descendants as land-holding tenants over several generations, bearing many Yahwistic
+  names.
+passages:
+- ref: Jer 29:4-7
+  rel: setting
+  note: Exiles told to build houses, plant gardens, marry, and seek the city's welfare
+- ref: Ezek 3:15
+  rel: setting
+  note: 'Judean community at Tel-abib by the river Chebar: exiles settled in rural communities'
+- ref: Ezek 1:1-3
+  rel: setting
+  note: Judean exiles by the Chebar canal in Babylonia
+- ref: Ps 137:1
+  rel: setting
+  note: '''By the rivers of Babylon'': Judeans in the canal landscape of central Babylonia'
+- ref: Ezra 2:59
+  rel: setting
+  note: >-
+    Exile settlements with Babylonian place names (Tel-melah, Tel-harsha, Cherub, Addan, Immer)
+- ref: Ezra 2:1-2
+  rel: language
+  note: Yahwistic names among deportees and returnees
+related: [babylonian-exile, murashu-archive, deportation, jehoiachin-ration-tablets, yehud-province,
+  forgeries-in-biblical-archaeology]
+media:
+- id: al-yahudu-tablets
+  role: primary
+external:
+  wikipedia: Al-Yahudu Tablets
+  wikidata: Q23978546
+editorial:
+  author_notes:
+  - >-
+    Unprovenanced: the tablets surfaced on the antiquities market (mostly in the David Sofer
+    collection; exhibited at the Bible Lands Museum, Jerusalem, 2015). Flag the ethical and
+    provenance issues explicitly.
+  - >-
+    The earliest tablet is dated 572 (Nebuchadnezzar's 33rd year); the town name shows deportees
+    settled as a group. Judeans appear in the land-for-service (ḫaṭru) system; Yahwistic names
+    are written with -yāma/-yāḫu and Yāhû-.
+  - >-
+    They show integration without loss of identity and continuity long after 539, which complicates
+    a simple 'return' narrative (Alstola 2020).
+  sources_to_check:
+  - >-
+    L. E. Pearce and C. Wunsch, Documents of Judean Exiles and West Semites in Babylonia in
+    the Collection of David Sofer (CUSAS 28, 2014)
+  - >-
+    T. Alstola, Judeans in Babylonia: A Study of Deportees in the Sixth and Fifth Centuries
+    BCE (CHANE 109, 2020)
+  image_query: Al-Yahudu tablet
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

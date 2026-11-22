@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: asherah-2
+file: asherah-2.jpg
+title: Cultic incense stand from Ta'anach.jpg
+caption: Terracotta cult stand from Taanach decorated with religious symbols, 10th century
+  BCE.
+description: Cultic incense stand from Ta'anach with religious symbols
+creator: פעמי-עליון
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: פעמי-עליון, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cultic_incense_stand_from_Ta%27anach.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/3d/Cultic_incense_stand_from_Ta%27anach.jpg
+  sha1: ee0267b560413f3c836497b08a9f100f0a333196
+  original_size: [1809, 3122]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 927×1600 px
+size: [927, 1600]
+depicts: [asherah, taanach-cult-stand]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

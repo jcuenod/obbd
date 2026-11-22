@@ -1,0 +1,93 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ain-dara-temple
+title: ʿAin Dara Temple
+aliases: [ʿAin Dara, Ain Dara temple]
+type: site
+cultures: [luwian, aramean]
+date:
+  from: -1300
+  to: -740
+  circa: true
+  display: c. 1300–740 BCE
+scope: >-
+  A Syro-Hittite temple in the ʿAfrin valley of northwestern Syria, built and rebuilt from
+  about the 13th to the 8th century BCE. Its tripartite plan with a two-columned portico,
+  its surrounding gallery, its lion and sphinx orthostats and its giant carved footprints
+  make it the closest known parallel to the plan and decoration of Solomon's temple.
+passages:
+- ref: 1Kgs 6:2-3
+  rel: realia
+  note: Tripartite long-room plan with an entrance porch
+- ref: 1Kgs 6:5-10
+  rel: realia
+  note: Side chambers around the house; cf. the gallery added around ʿAin Dara's temple
+- ref: 1Kgs 7:21
+  rel: realia
+  note: Two pillars at the porch; ʿAin Dara's portico had two columns
+- ref: 1Kgs 6:29, 32
+  rel: realia
+  note: Carved cherubim, palms and flowers; cf. the sphinx and lion orthostats
+- ref: Ezek 43:7
+  rel: concept
+  note: The temple as 'the place of the soles of my feet'; cf. the carved divine footprints
+- ref: Isa 60:13
+  rel: concept
+  note: '''I will glorify where my feet rest'': the sanctuary as the place of the divine feet'
+- ref: Ezek 41:5-11
+  rel: realia
+  note: Side chambers around Ezekiel's visionary temple
+related: [solomons-temple, tell-tayinat, jachin-and-boaz, cherubim, lion-imagery, footstool,
+  temple-as-cosmos]
+media:
+- id: ain-dara-temple
+  role: primary
+- id: ain-dara-temple-2
+  role: gallery
+external:
+  wikipedia: Ain Dara (archaeological site)
+  wikidata: Q1807968
+  pleiades: '658369'
+editorial:
+  author_notes:
+  - >-
+    Excavated by Ali Abou Assaf (1980s). He proposed three phases (about 1300-1000, 1000-900
+    and 900-740 BCE); later work has questioned parts of this chronology. Give the dating
+    as approximate.
+  - The patron deity is unknown; Ishtar (Šaušga) and a storm god have both been proposed.
+  - >-
+    The footprints, each about a metre long, are carved in the thresholds: a pair at the entrance,
+    then a single left and a single right foot further in, as if the deity strode into the
+    cella. Monson and others connect them with biblical language of the divine feet in the
+    temple (Ezek 43:7). Present this as illustrative, not as evidence for Israelite practice.
+  - >-
+    The surrounding gallery is not the same as the storeyed side chambers of 1 Kgs 6:5-10.
+    Note similarities and differences honestly.
+  - >-
+    The temple was badly damaged by Turkish air strikes in January 2018 and sculptures were
+    later looted. Describe its current condition.
+  sources_to_check:
+  - A. Abou Assaf, Der Tempel von ʿAin Dārā (Damaszener Forschungen 3, 1990)
+  - 'J. Monson, ''The New ʿAin Dara Temple: Closest Solomonic Parallel,'' BAR 26/3 (2000)'
+  image_query: Ain Dara temple footprints
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q1807968 (verify).
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 36.45936
+  lon: 36.85208
+  source: wikidata:Q1807968

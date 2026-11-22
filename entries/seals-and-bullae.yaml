@@ -1,0 +1,91 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: seals-and-bullae
+title: Seals and Bullae
+aliases: [Seals, Bullae, Signet rings, Stamp seals]
+type: realia
+cultures: [judahite, israelite, ane]
+scope: >-
+  Stamp seals, signet rings and their clay impressions (bullae) in ancient Israel and Judah,
+  with ancient Near Eastern comparanda. The entry covers their administrative and legal functions,
+  iconography and inscriptions, the provenance problem, and biblical references and metaphors.
+passages:
+- ref: Gen 38:18, 25
+  rel: realia
+  note: Judah's signet and cord left as pledge
+- ref: Gen 41:42
+  rel: practice
+  note: 'Pharaoh gives Joseph his signet ring: delegated authority'
+- ref: Exod 28:9-11, 21, 36
+  rel: realia
+  note: Gems and gold plate engraved 'like the engravings of a signet'
+- ref: 1Kgs 21:8
+  rel: practice
+  note: Jezebel seals letters with Ahab's seal
+- ref: Jer 22:24
+  rel: imagery
+  note: Jehoiachin as a signet ring on YHWH's hand, torn off
+- ref: Hag 2:23
+  rel: imagery
+  note: 'Zerubbabel made like a signet ring: reversal of Jer 22:24'
+- ref: Jer 32:10-14
+  rel: practice
+  note: Sealing the deed of purchase
+- ref: Esth 3:10-12; 8:8-10
+  rel: practice
+  note: The king's signet makes decrees irrevocable
+- ref: Neh 9:38
+  rel: practice
+  note: Leaders' names on the sealed covenant document (MT 10:1)
+- ref: Dan 6:17
+  rel: practice
+  note: Den sealed with king's and nobles' signets (MT 6:18)
+- ref: Job 38:14
+  rel: imagery
+  note: Earth changed like clay under the seal
+- ref: Song 8:6
+  rel: imagery
+  note: '''Set me as a seal upon your heart'''
+related: [cylinder-seals, hezekiah-bulla, bullae-of-jeremiah-era-officials, seal-of-shema,
+  lmlk-seal-impressions, sealed-deeds, forgeries-in-biblical-archaeology, yehud-seals-and-coins]
+media:
+- id: seals-and-bullae
+  role: primary
+- id: ahaz
+  role: gallery
+external:
+  wikipedia: Bulla (seal)
+  wikidata: Q7762436
+editorial:
+  author_notes:
+  - >-
+    N. Avigad and B. Sass, Corpus of West Semitic Stamp Seals (1997), is the reference corpus.
+    Seals bear the formula lX bn Y, with titles such as ʿbd hmlk ('servant of the king') and
+    ʾšr ʿl hbyt ('over the house').
+  - >-
+    Judahite seals shift from iconic to aniconic, name-only designs in the 8th–7th centuries
+    (Sass and Uehlinger, eds., OBO 125, 1993). The reasons, religious or administrative, are
+    debated.
+  - >-
+    Provenance is a serious problem. Many seals and bullae are unprovenanced and some are
+    forgeries, so prioritize excavated corpora such as the City of David bullae and the Ophel
+    bullae.
+  - >-
+    Papyrus-fibre impressions on the backs of bullae show that they sealed papyrus documents
+    (see sealed-deeds).
+  sources_to_check:
+  - N. Avigad and B. Sass, Corpus of West Semitic Stamp Seals (Jerusalem, 1997)
+  image_query: Iron Age Hebrew bullae City of David
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

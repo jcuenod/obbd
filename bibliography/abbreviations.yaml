@@ -1,0 +1,26 @@
+# Abbreviations for series and journals, following The SBL Handbook of Style (2nd ed.).
+# references.yaml keeps the full `collection-title` / `container-title` (so the data stays
+# usable in Zotero and Pandoc); the site shows these abbreviations, with the full title on
+# hover. Series are set in roman, journals in italics.
+#
+# Add an entry whenever a new series or journal appears in references.yaml
+# (`./obbd validate` warns about missing ones). Use the SBL Handbook abbreviation if there
+# is one.
+series:
+  ABRL: Anchor Bible Reference Library
+  AOAT: Alter Orient und Altes Testament
+  ConBOT: Coniectanea Biblica, Old Testament Series
+  CUSAS: Cornell University Studies in Assyriology and Sumerology
+  JSOTSup: Journal for the Study of the Old Testament Supplement Series
+  LAI: Library of Ancient Israel
+  MC: Mesopotamian Civilizations
+  RIMA: The Royal Inscriptions of Mesopotamia, Assyrian Periods
+  RIME: The Royal Inscriptions of Mesopotamia, Early Periods
+  RINAP: The Royal Inscriptions of the Neo-Assyrian Period
+  SAA: State Archives of Assyria
+  SAALT: State Archives of Assyria Literary Texts
+  TCS: Texts from Cuneiform Sources
+  VTSup: Supplements to Vetus Testamentum
+  WAW: Writings from the Ancient World
+journals:
+  HUCA: Hebrew Union College Annual

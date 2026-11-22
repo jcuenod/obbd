@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: tanis
+file: tanis.jpg
+title: Ruins of Tanis.jpg
+caption: >-
+  Fallen columns and inscribed blocks among the ruins of Tanis (San el-Hagar) in the north-eastern
+  Delta.
+description: The ruins of Tanis
+creator: Original uploader was Markh at en.wikipedia
+credit_line: Transferred from en.wikipedia to Commons.
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Original uploader was Markh at en.wikipedia. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ruins_of_Tanis.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/c/c7/Ruins_of_Tanis.jpg
+  sha1: b35ae08b16d5f81b8c550850b5529e323d34cba5
+  original_size: [1280, 960]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1280, 960]
+depicts: [tanis]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

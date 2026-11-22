@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: jerusalem-2
+file: jerusalem-2.jpg
+title: 10th century Stepped-Stone Structure and 7th century Houses (3783275736).jpg
+caption: >-
+  The Stepped Stone Structure on the eastern slope of the City of David, with later Iron Age
+  houses.
+description: >-
+  The so-called "stepped stone structure" uncovered on the North-East slope of the City of
+  David. The structure dates to the early 10th century BCE and seems to be part of the foundation
+  for a monumental building at the top. The building has plausibly been identified as a palace
+  of King David, the first Israelite ruler of Jerusalem whose conquest of the city is described
+  in the biblical book 2 Samuel. In the lower half of the photo are visible 7th century BCE
+  houses that were build in part on top of the 10th century structure. Jerusalem
+creator: Ian Scott
+credit_line: 10th century Stepped-Stone Structure and 7th century Houses
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: Ian Scott, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:10th_century_Stepped-Stone_Structure_and_7th_century_Houses_(3783275736).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/b2/10th_century_Stepped-Stone_Structure_and_7th_century_Houses_%283783275736%29.jpg
+  sha1: 0dc1cf023d62b87da9eae19e116a6be98812f93f
+  original_size: [4000, 3000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [city-of-david, jerusalem]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

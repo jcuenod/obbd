@@ -1,0 +1,81 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: arch-of-titus
+title: Arch of Titus
+type: artifact
+cultures: [roman]
+date:
+  from: 81
+  to: 82
+  circa: true
+  display: c. 81–82 CE
+scope: >-
+  Single-bay honorific arch on the Via Sacra in Rome, dedicated after Titus's death (81 CE)
+  to the deified emperor. Its relief panels show the triumph of 71 CE over Judea, including
+  the temple menorah, the table of showbread, and trumpets carried as spoils.
+passages:
+- ref: Mark 13:1-2
+  rel: event
+  note: Destruction of the temple foretold
+- ref: Luke 19:41-44
+  rel: event
+  note: Jerusalem besieged and razed
+- ref: Luke 21:20-24
+  rel: event
+  note: Jerusalem surrounded by armies; inhabitants led captive among the nations
+- ref: Exod 25:31-40
+  rel: realia
+  note: The lampstand among the spoils
+- ref: Exod 25:23-30
+  rel: realia
+  note: The table of the bread of the presence among the spoils
+- ref: Num 10:1-10
+  rel: realia
+  note: Silver trumpets carried in the procession
+- ref: 2Cor 2:14
+  rel: practice
+  note: Roman triumphal procession as metaphor
+related: [judaea-capta-coins, herods-temple, menorah, josephus, imperial-cult, masada]
+location:
+  institution: In situ, Roman Forum, Rome
+  accession: null
+media:
+- id: arch-of-titus
+  role: primary
+- id: arch-of-titus-2
+  role: gallery
+- id: menorah
+  role: gallery
+external:
+  wikipedia: Arch of Titus
+  wikidata: Q723887
+editorial:
+  author_notes:
+  - >-
+    Compare Josephus's description of the triumph and spoils (War 7.123-162) and their later
+    display in the Temple of Peace.
+  - >-
+    Debate on how accurately the menorah is depicted (e.g. the decorated octagonal base).
+    Note the polychromy research of 2012.
+  - >-
+    A second, lost arch at the Circus Maximus had an inscription (CIL VI 944) claiming that
+    Titus subdued the Jews and destroyed Jerusalem.
+  sources_to_check:
+  - CIL VI 945
+  - CIL VI 944
+  - 'S. Fine, The Menorah: From the Bible to Modern Israel (2016)'
+  - M. Pfanner, Der Titusbogen (1983)
+  image_query: Arch of Titus spoils relief menorah
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

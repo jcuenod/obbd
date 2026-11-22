@@ -1,0 +1,81 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: war-scroll
+title: War Scroll (1QM)
+aliases:
+- 1QM
+- War of the Sons of Light against the Sons of Darkness
+type: artifact
+cultures: [jewish]
+date:
+  from: -30
+  to: 50
+  circa: true
+  display: c. 30 BCE–50 CE
+scope: >-
+  The War Rule from Qumran Cave 1 (1QM), with related Cave 4 manuscripts (4Q491-496). It describes
+  an eschatological forty-year war of the 'sons of light' against the 'sons of darkness' (Belial,
+  the Kittim), including battle formations, trumpets, standards, and priestly liturgies.
+passages:
+- ref: Num 2:1-34
+  rel: concept
+  note: Tribal camp order and standards modelled in the war array
+- ref: Num 10:1-10
+  rel: practice
+  note: Silver trumpets for assembly and battle, with inscriptions prescribed (1QM 2:16-3:11)
+- ref: Deut 20:1-9
+  rel: practice
+  note: Priestly address before battle quoted and expanded (1QM 10:2-8)
+- ref: Num 24:17-19
+  rel: concept
+  note: Star out of Jacob quoted in the war hymn (1QM 11:6-7)
+- ref: Dan 11:40-12:3
+  rel: concept
+  note: Final war, Michael, and the time of distress reworked in 1QM 1
+- ref: Ezek 38-39
+  rel: concept
+  note: Eschatological defeat of Gog (cf. 1QM 11:16)
+- ref: Rev 19:11-21
+  rel: parallel
+  note: Heavenly army in the final battle
+- ref: 2Cor 6:14-15
+  rel: language
+  note: Light vs. darkness and Beliar
+related: [dead-sea-scrolls, community-rule, divine-warrior, messianic-expectations, zoroastrianism,
+  qumran]
+location:
+  institution: Israel Museum, Jerusalem (Shrine of the Book)
+  accession: null
+media:
+- id: war-scroll
+  role: primary
+external:
+  wikipedia: War of the Sons of Light Against the Sons of Darkness
+  wikidata: Q2189577
+editorial:
+  author_notes:
+  - >-
+    Composite work. The date of composition (late Hasmonean or early Roman) is tied to whether
+    the Kittim of Assyria and Egypt are Seleucids/Ptolemies or Romans.
+  - Yadin's argument from Roman military equipment and tactics is influential but debated.
+  - >-
+    Highlight the joint human-angelic warfare and the predetermined dualism (compare the Treatise
+    on the Two Spirits).
+  sources_to_check:
+  - Y. Yadin, The Scroll of the War of the Sons of Light against the Sons of Darkness (1962)
+  - 'J. Duhaime, The War Texts: 1QM and Related Manuscripts (2004)'
+  - M. Baillet, Qumrân grotte 4.III (4Q482-4Q520) (DJD VII, 1982)
+  image_query: War Scroll 1QM Israel Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

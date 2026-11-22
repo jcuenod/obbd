@@ -1,0 +1,70 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tiglath-pileser-iii
+title: Tiglath-pileser III (Pul)
+aliases: [Pul, Pulu, Tilgath-pilneser]
+type: person
+cultures: [assyrian]
+date:
+  from: -745
+  to: -727
+  display: 745–727 BCE
+scope: >-
+  King of Assyria who reorganised the empire, made the Levant into provinces and vassal states,
+  and intervened in the Syro-Ephraimite war. He appears in the Bible both as Tiglath-pileser
+  (Tilgath-pilneser) and by his Babylonian throne name Pul.
+passages:
+- ref: 2Kgs 15:19-20
+  rel: attests
+  note: Pul receives Menahem's tribute
+- ref: 2Kgs 15:29
+  rel: event
+  note: Captures northern Israelite territory and deports its people
+- ref: 2Kgs 16:7-10
+  rel: event
+  note: Ahaz's appeal; capture of Damascus; Ahaz meets him at Damascus
+- ref: 1Chr 5:6, 26
+  rel: event
+  note: Deportation of Reubenites and Transjordanian tribes
+- ref: 2Chr 28:16-21
+  rel: event
+  note: Chronicler's version of Ahaz's appeal to Tilgath-pilneser
+- ref: Isa 7:17-20
+  rel: setting
+  note: Assyria as the 'razor hired beyond the River'
+related: [tiglath-pileser-iii-inscriptions, menahem, pekah, hoshea, ahaz, rezin, deportation,
+  assyria]
+media:
+- id: pekah
+  role: gallery
+- id: tiglath-pileser-iii
+  role: primary
+external:
+  wikipedia: Tiglath-Pileser III
+  wikidata: Q210074
+editorial:
+  author_notes:
+  - >-
+    The identity of Pul and Tiglath-pileser is established by Babylonian King List A and the
+    Ptolemaic Canon (Poros); 1 Chr 5:26 appears to treat them as two kings.
+  - >-
+    His reforms (provincial system, standing army, mass two-way deportation) shaped Assyrian
+    rule for a century; explain why this matters for Israel's fate.
+  - >-
+    Hoshea's accession is claimed by Tiglath-pileser; the Bible attributes it to conspiracy
+    (2 Kgs 15:30). Both can be true.
+  sources_to_check: [RINAP 1 (Tadmor and Yamada 2011), ABC 1]
+  image_query: Tiglath-Pileser III relief British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

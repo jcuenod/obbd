@@ -1,0 +1,93 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: instruction-of-amenemope
+title: Instruction of Amenemope
+aliases: [Teaching of Amenemope, Wisdom of Amenemope]
+type: text
+cultures: [egyptian]
+date:
+  from: -1250
+  to: -1100
+  circa: true
+  display: c. 1250–1100 BCE
+scope: >-
+  A New Kingdom Egyptian instruction in thirty numbered chapters, from a father to his son,
+  that praises the "silent" self-controlled man over the "heated" man. Its close correspondences
+  with Prov 22:17-24:22 are the clearest case of literary dependence of a biblical text on
+  an Egyptian one.
+passages:
+- ref: Prov 22:17-24:22
+  rel: parallel
+  note: '''Words of the wise'' section; dependence on Amenemope is the consensus'
+- ref: Prov 22:20
+  rel: language
+  note: '''Thirty (sayings)'', usually emended from šlšwm; cf. Amenemope''s thirty chapters'
+- ref: Prov 22:22
+  rel: parallel
+  note: Do not rob the poor (Amenemope ch. 2)
+- ref: Prov 22:24-25
+  rel: parallel
+  note: Avoid the hot-tempered man (Amenemope chs. 9-10)
+- ref: Prov 22:28
+  rel: parallel
+  note: Do not remove the ancient boundary (Amenemope ch. 6); cf. 23:10-11
+- ref: Prov 22:29
+  rel: parallel
+  note: The skilled scribe/official will serve before kings (Amenemope ch. 30)
+- ref: Prov 23:1-3
+  rel: parallel
+  note: Conduct when eating before a ruler (Amenemope ch. 23)
+- ref: Prov 23:4-5
+  rel: parallel
+  note: Riches sprout wings and fly away (Amenemope ch. 7)
+- ref: Prov 15:16-17
+  rel: parallel
+  note: '''Better'' sayings: little with contentment over wealth with strife (Amenemope ch.
+    6)'
+- ref: Jer 17:5-8
+  rel: parallel
+  note: Two trees contrasting the ungodly and the trusting (Amenemope ch. 4); cf. Ps 1:3
+related: [ane-wisdom-literature, instruction-of-ptahhotep, boundary-markers, scribes-and-scribal-education,
+  maat, satire-of-the-trades]
+media:
+- id: ane-wisdom-literature
+  role: gallery
+- id: instruction-of-amenemope
+  role: gallery
+external:
+  wikipedia: Instruction of Amenemope
+  wikidata: Q2914986
+editorial:
+  author_notes:
+  - >-
+    Erman (1924) first drew the comparison. The once-argued reverse dependence (Amenemope
+    on Proverbs) is now abandoned. Mediation through scribal training, or through an Aramaic
+    or Phoenician intermediary, remains debated.
+  - >-
+    The parallels cluster in Prov 22:17-23:11 and thin out afterwards. Proverbs adapts rather
+    than translates, adding YHWH-centred motivations (22:19, 23). Whether the section really
+    divides into thirty sayings is disputed.
+  - >-
+    The main manuscript is P. British Museum EA 10474, with further witnesses on tablets and
+    ostraca. A Ramesside composition date is usual; the very late (Saite) date once proposed
+    has been abandoned.
+  - Use the case to explain how Israelite scribes engaged international wisdom.
+  sources_to_check:
+  - COS 1.47
+  - AEL 2:146-163
+  - ANET 421-425
+  - Laisney, L'Enseignement d'Aménémopé (2007)
+  image_query: Instruction of Amenemope papyrus British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

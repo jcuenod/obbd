@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: temple-of-artemis-ephesus
+file: temple-of-artemis-ephesus.jpg
+title: Ephesus Celsus Library Façade.jpg
+caption: Façade of the Library of Celsus, Roman Ephesus, near Selçuk, Turkey.
+description: Façade of the Celsus library, in Ephesus, near Selçuk, west Turkey.
+creator: Benh LIEU SONG
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Benh LIEU SONG, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ephesus_Celsus_Library_Fa%C3%A7ade.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/8/84/Ephesus_Celsus_Library_Fa%C3%A7ade.jpg
+  sha1: e0c4d3b1a8b862be0241c6da72fcb4bbba23837b
+  original_size: [9163, 7100]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1240 px
+size: [1600, 1240]
+depicts: [temple-of-artemis-ephesus]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

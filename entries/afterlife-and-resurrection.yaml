@@ -1,0 +1,92 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: afterlife-and-resurrection
+title: Afterlife and Resurrection Beliefs
+aliases: [Resurrection of the dead, Immortality]
+type: concept
+cultures: [ane, persian, egyptian, jewish]
+scope: >-
+  The development from the Hebrew Bible's dominant Sheol view toward hopes of rescue from
+  death, bodily resurrection and judgment of the dead in late biblical and Second Temple texts.
+  The entry covers Egyptian, Persian, Canaanite and Greek comparanda and the debates about
+  influence.
+passages:
+- ref: Dan 12:2-3
+  rel: concept
+  note: Many who sleep in the dust will awake, some to everlasting life, some to contempt
+- ref: Isa 26:19
+  rel: concept
+  note: '''Your dead shall live''; earth gives birth to the shades'
+- ref: Ezek 37:1-14
+  rel: imagery
+  note: 'Valley of dry bones: national restoration as resurrection'
+- ref: Hos 6:1-2
+  rel: imagery
+  disputed: true
+  note: Revived after two days, raised on the third; dying-god background debated
+- ref: Gen 5:24
+  rel: concept
+  note: Enoch 'taken' by God
+- ref: 2Kgs 2:11
+  rel: concept
+  note: Elijah taken up to heaven
+- ref: Ps 49:15
+  rel: concept
+  note: God will ransom my life from Sheol (MT 49:16)
+- ref: Ps 73:24
+  rel: concept
+  disputed: true
+  note: '''Afterward you will receive me with honour'''
+- ref: Job 19:25-27
+  rel: concept
+  disputed: true
+  note: '''My redeemer lives'': whether a post-mortem vindication is meant is debated'
+- ref: 2Macc 7:9, 14, 23
+  rel: concept
+  note: Martyrs' hope of bodily resurrection
+- ref: 1En 22
+  rel: concept
+  note: Hollow places where the spirits of the dead await judgment
+- ref: Wis 3:1-4
+  rel: concept
+  note: Souls of the righteous in God's hand; hope of immortality
+- ref: 1Cor 15:12-57
+  rel: concept
+  note: Paul on resurrection of the body
+related: [sheol-and-the-netherworld, zoroastrianism, book-of-the-dead, first-enoch, maccabean-revolt,
+  baal-cycle, care-for-the-dead]
+media:
+- id: afterlife-and-resurrection
+  role: primary
+external:
+  wikipedia: Universal resurrection
+  wikidata: Q7894158
+editorial:
+  author_notes:
+  - >-
+    Consensus: Dan 12:2-3 (c. 165 BCE) is the clearest Hebrew Bible text on individual resurrection.
+    The date and meaning of Isa 26:19 (Isaiah 24–27) are debated.
+  - >-
+    Zoroastrian influence is often proposed, but the late date of most Zoroastrian sources
+    makes direction and timing contested. Present it as possible, not proven.
+  - >-
+    The 'dying and rising god' category (Frazer) has been heavily criticized (J. Z. Smith),
+    though Mettinger (The Riddle of Resurrection, 2001) defends a revised version. Apply this
+    to Hos 6:1-2 with care.
+  - >-
+    Egyptian judgment of the dead and the Greek immortal soul are distinct models. Note how
+    Second Temple texts combine them in different ways (Wisdom of Solomon vs 2 Maccabees).
+  image_query: Book of the Dead weighing of the heart
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-1-sol

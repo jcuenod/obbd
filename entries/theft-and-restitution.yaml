@@ -1,0 +1,99 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: theft-and-restitution
+title: Theft, Deposits, and Multiple Restitution
+aliases: [Theft, Burglary, Deposits, Multiple Restitution, Kidnapping]
+type: practice
+cultures: [hebrew, babylonian, hittite]
+scope: >-
+  Biblical laws on theft, burglary, kidnapping, and the loss or misappropriation of deposited
+  goods, with their scales of double, fourfold and fivefold restitution and the priestly rule
+  of restoring the principal plus a fifth with a reparation offering. They are compared with
+  Mesopotamian and Hittite law. Homicide, bodily injury and the goring ox are treated elsewhere.
+passages:
+- ref: Exod 20:15
+  rel: concept
+  note: '''You shall not steal'' in the Decalogue (cf. Deut 5:19)'
+- ref: Exod 21:16
+  rel: practice
+  note: Kidnapping a person punished by death
+- ref: Deut 24:7
+  rel: practice
+  note: Kidnapping and selling a fellow Israelite punished by death
+- ref: Exod 22:1-4
+  rel: practice
+  note: >-
+    Fivefold and fourfold restitution for animals; killing a night burglar; double restitution
+    (MT 21:37-22:3)
+- ref: Exod 22:7-15
+  rel: practice
+  note: >-
+    Deposits, oaths 'before God', double restitution, and liability for loans of animals (MT
+    22:6-14)
+- ref: Lev 6:1-7
+  rel: practice
+  note: >-
+    False denial of a deposit or theft: restore plus a fifth and bring a reparation offering
+    (MT 5:20-26)
+- ref: Num 5:5-8
+  rel: practice
+  note: Confession and restitution plus a fifth, paid to kin or to the priest
+- ref: Gen 31:32; 44:9-10
+  rel: practice
+  note: Death proposed for theft of household gods and a divining cup
+- ref: 2Sam 12:6
+  rel: practice
+  note: David sentences the rich man to fourfold restitution for the lamb
+- ref: Prov 6:30-31
+  rel: practice
+  note: A thief caught repays sevenfold, giving all the goods of his house
+- ref: Luke 19:8
+  rel: practice
+  note: Zacchaeus offers fourfold restitution for what he has extorted
+related: [code-of-hammurabi, laws-of-eshnunna, hittite-laws, ane-law-collections, courts-and-legal-procedure,
+  oaths-and-oath-formulas, slavery, lex-talionis]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Comparative law: Hammurabi §§6-25 (theft from temple or palace is capital; §8 sets thirtyfold
+    or tenfold restitution or death; §§21-22 breaking in and robbery) and §§120-126 (deposits,
+    with double restitution for denial). Hittite Laws §§57-70 set multiple compensation for
+    stolen animals and record that penalties had been reduced. Biblical law has no death penalty
+    for theft of ordinary property. Greenberg's argument that this reflects a different hierarchy
+    of values is influential but debated.
+  - >-
+    The day/night distinction for a burglar (Exod 22:2-3) has a close parallel in Laws of
+    Eshnunna §§12-13. Explain that in Exod 22:1-4 (MT 21:37-22:3) the verses about the burglar
+    appear to interrupt the restitution rule.
+  - >-
+    In Exod 22:8-9 'before God' (ʾĕlōhîm) has been read as God (oath or oracle at a sanctuary),
+    as judges, or as household gods. Present the options.
+  - >-
+    Lev 6:1-7 (MT 5:20-26) and Num 5:5-8: a voluntary confession reduces the penalty to the
+    principal plus a fifth, combined with an ʾāšām. Milgrom reads this as repentance reducing
+    a deliberate offence to an expiable one.
+  - >-
+    Alt's hypothesis that the Decalogue's 'you shall not steal' originally referred to kidnapping
+    (cf. Exod 21:16) is older and debated; do not present it as consensus. The 'sevenfold'
+    of Prov 6:31 is rhetorical rather than a legal rate.
+  sources_to_check:
+  - M. T. Roth, Law Collections from Mesopotamia and Asia Minor (SBLWAW 6, 2nd ed. 1997)
+  - 'H. A. Hoffner, The Laws of the Hittites: A Critical Edition (1997)'
+  - B. S. Jackson, Theft in Early Jewish Law (1972)
+  - J. Milgrom, Leviticus 1-16 (AB 3, 1991)
+  - R. Westbrook, Studies in Biblical and Cuneiform Law (1988)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

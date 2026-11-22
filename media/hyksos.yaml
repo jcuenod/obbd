@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: hyksos
+file: hyksos.jpg
+title: Scarab with the Name of the Hyksos King Khayan MET D 457 bottom.jpg
+caption: >-
+  Scarab inscribed with the name of the Hyksos king Khayan, set in a gold ring (Metropolitan
+  Museum of Art, New York).
+description: Scarab, Khayan
+creator: null
+credit_line: >-
+  This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum
+  of Art. See the Image and Data Resources Open Access Policy
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Unknown author. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Scarab_with_the_Name_of_the_Hyksos_King_Khayan_MET_D_457_bottom.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/6e/Scarab_with_the_Name_of_the_Hyksos_King_Khayan_MET_D_457_bottom.jpg
+  sha1: 6fc57f7dc18324b09926ad8a14441de79d17ec68
+  original_size: [1276, 2000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1021×1600 px
+size: [1021, 1600]
+depicts: [hyksos]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

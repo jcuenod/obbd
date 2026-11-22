@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: gaza
+file: gaza.jpg
+title: Francis Frith, Gaza (The Old Town).jpg
+caption: >-
+  The old town of Gaza in a 19th-century albumen print by Francis Frith; the ancient city
+  lies largely beneath the modern one.
+description: >-
+  Francis Frith, Gaza (The Old Town). Desert scene with city in the distance. Dirt field and
+  bushes of cacti in the foreground. Medium:Albumen silver print Dimensions:Image: 16.4 ×
+  22.6 cm (6 7/16 × 8 7/8 in.) Mount: 43.4 × 29.5 cm (17 1/16 × 11 5/8 in.) Signature(s):
+  (Recto, print) lower right, signed in the negative: "Frith 190"; Object Number: 84.XO.1302.16
+  Inscription(s): (Recto, mount) lower right, letterpress caption: Frith.Photo.1857; (Recto,
+  mount) lower center, letterpress caption: Gaza (The Old Town.)
+creator: Francis Frith
+credit_line: Getty Museum Collection
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Francis Frith. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Francis_Frith,_Gaza_(The_Old_Town).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/22/Francis_Frith%2C_Gaza_%28The_Old_Town%29.jpg
+  sha1: eb36b308adae8c8cd768b558af31edfcbeac0a00
+  original_size: [4744, 3562]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1202 px
+size: [1600, 1202]
+depicts: [gaza]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

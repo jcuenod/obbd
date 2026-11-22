@@ -1,0 +1,43 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: bronze-sea
+file: bronze-sea.jpg
+title: >-
+  God Ea (Sumerian Enki) with fish-cloaked apkallus. Basalt water basin for religious purification
+  from Assur, Iraq. Reign of Sennacherib, 7th century BCE. Pergamon Museum.jpg
+caption: >-
+  Basalt water basin from the temple of Assur, decorated with Ea and fish-cloaked apkallus,
+  reign of Sennacherib, 7th century BCE (Pergamonmuseum, Berlin), a Near Eastern analogue
+  of the bronze sea.
+description: >-
+  When discovered, this water basin was completely shattered. It was cut originally from a
+  single basalt block and was located in the courtyard of the temple of Assur. At each corner
+  and side of the basin's walls, there are water gods holding water-flowing water jugs. Water
+  flows from the sky above, into the jugs, and downward to the earth below. Two priests appear
+  to wear fish skins or cloaks and hold small buckets filled with a fluid to purify the water
+  god at the center. There are several repeated cuneiform inscriptions that mention the name
+  of the Assyrian king Sennacherib. The interior of t
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:God_Ea_(Sumerian_Enki)_with_fish-cloaked_apkallus._Basalt_water_basin_for_religious_purification_from_Assur,_Iraq._Reign_of_Sennacherib,_7th_century_BCE._Pergamon_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/41/God_Ea_%28Sumerian_Enki%29_with_fish-cloaked_apkallus._Basalt_water_basin_for_religious_purification_from_Assur%2C_Iraq._Reign_of_Sennacherib%2C_7th_century_BCE._Pergamon_Museum.jpg
+  sha1: cc3b1ffb15475c9a12b54decd4755f375ffc7a07
+  original_size: [6016, 4016]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1068 px
+size: [1600, 1068]
+depicts: [bronze-sea]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

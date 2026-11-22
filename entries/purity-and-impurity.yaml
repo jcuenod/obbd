@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: purity-and-impurity
+title: Purity and Impurity
+aliases: [Ritual purity, Tumah and taharah]
+type: practice
+cultures: [ane, hittite, babylonian, egyptian]
+scope: >-
+  Concepts and rites of ritual purity and impurity in the Hebrew Bible (bodily, corpse, animal
+  and sanctuary impurity, and moral impurity), compared with Hittite, Mesopotamian and Egyptian
+  purity rules for temples and personnel. Food laws, the Day of Atonement and Second Temple
+  purity installations have their own entries.
+passages:
+- ref: Lev 10:10
+  rel: concept
+  note: Priests distinguish holy from common, unclean from clean
+- ref: Lev 11-15
+  rel: practice
+  note: Impurity from animals, childbirth, skin disease and genital discharges
+- ref: Num 19
+  rel: practice
+  note: Corpse impurity and the red heifer's ash-water
+- ref: Num 5:1-4
+  rel: practice
+  note: Removing the impure from the camp
+- ref: Lev 16:16, 19
+  rel: concept
+  note: The sanctuary cleansed of Israel's impurities
+- ref: Lev 18:24-28
+  rel: concept
+  note: Moral impurity defiles the land, which vomits out its inhabitants
+- ref: Hag 2:10-14
+  rel: practice
+  note: Priestly ruling on the transmission of holiness and impurity
+- ref: Ezek 44:23
+  rel: practice
+  note: Priests teach the difference between clean and unclean
+- ref: Isa 6:5-7
+  rel: imagery
+  note: Unclean lips purified with a coal from the altar
+- ref: Ps 51:7
+  rel: imagery
+  note: '''Purge me with hyssop'' (MT 51:9)'
+- ref: Mark 7:1-23
+  rel: practice
+  note: Dispute over hand-washing and purity
+related: [day-of-atonement-elimination, hittite-instructions-temple-officials, pig-avoidance,
+  stone-vessels-and-mikvaot, nazirite-vow, mourning-rites, sacrifice, maqlu]
+media: []
+external:
+  wikipedia: Tumah and taharah
+  wikidata: Q358404
+editorial:
+  author_notes:
+  - >-
+    Present the main models: Mary Douglas (Purity and Danger, 1966) on classification; J.
+    Milgrom on impurity polluting the sanctuary and on death and life symbolism; J. Klawans
+    (Impurity and Sin in Ancient Judaism, 2000) on ritual versus moral impurity.
+  - >-
+    Comparanda include the Hittite Instructions for Priests and Temple Officials (CTH 264),
+    Mesopotamian priestly purity and ikkibu taboos, and Egyptian wab-priest purity.
+  - >-
+    Correct the common misconception that the impurity laws are hygienic or medical. Impurity
+    is not sin and is often unavoidable.
+  sources_to_check:
+  - CTH 264 (Instructions for Priests and Temple Officials)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

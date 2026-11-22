@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: bullae-of-jeremiah-era-officials
+file: bullae-of-jeremiah-era-officials.jpg
+title: Paleo-Hebrew seal.jpg
+caption: >-
+  Clay bulla reading 'Natan-Melech, servant of the king', a name known from 2 Kgs 23:11, found
+  in the Givati Parking Lot excavations in the City of David, late Iron Age.
+description: >-
+  The Natan-Melech/Eved Hamelech bulla (seal impression) dated to the First Temple period,
+  features Hebrew writing: "Natan-Melech the King’s Servant" that appears in the second book
+  of Kings 23:11. The seal was used to sign documents 2600 years ago and was uncovered in
+  archaeological excavations of the Givati Parking Lot in the City of David National Park
+  in Jerusalem conducted by Prof. Yuval Gadot of Tel Aviv University and Dr. Yiftah Shalev
+  of the Israel Antiquities Authority.
+creator: Unknown artistUnknown artist
+credit_line: >-
+  photo by Eliyahu Yannai, 31 March 2019; 2 March 2020 (upload date) by Davidbena from cityofdavid.org.il
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Unknown artistUnknown artist. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Paleo-Hebrew_seal.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/8/8b/Paleo-Hebrew_seal.jpg
+  sha1: 3c367a0c166574a97a8bf33d8bb63a6255becd9f
+  original_size: [480, 640]
+  retrieved: '2026-11-20'
+derivative: null
+size: [480, 640]
+depicts: [bullae-of-jeremiah-era-officials]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

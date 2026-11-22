@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: mighty-hand-outstretched-arm
+file: mighty-hand-outstretched-arm.webp
+title: The theme of the Egyptian kings smiting their enemies is an ancient one.webp
+caption: >-
+  Ramesses II grasping a Nubian, a Libyan and a Syrian prisoner by the hair, painted relief
+  from Memphis, 19th Dynasty (Egyptian Museum, Cairo).
+description: >-
+  Ramesses II grasps the tufts of hair of three prisoners, a Nubian, a Libyan and a Syrian.
+  Egypt. Ancient Egyptian. 19th dynasty c 1295 1186 BC. Memphis. Cairo Museum
+creator: AdamSoubhi
+credit_line: Own work
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: AdamSoubhi. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:The_theme_of_the_Egyptian_kings_smiting_their_enemies_is_an_ancient_one.webp
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/60/The_theme_of_the_Egyptian_kings_smiting_their_enemies_is_an_ancient_one.webp
+  sha1: 691c2d035b6e6188b040bfc7428c45f71c11b148
+  original_size: [1743, 2048]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1362×1600 px
+size: [1362, 1600]
+depicts: [mighty-hand-outstretched-arm]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

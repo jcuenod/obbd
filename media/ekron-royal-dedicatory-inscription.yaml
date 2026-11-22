@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ekron-royal-dedicatory-inscription
+file: ekron-royal-dedicatory-inscription.jpg
+title: Dedicatory Stone Inscription, Ekron, 7th Century BC (43167220572).jpg
+caption: >-
+  The Ekron royal dedicatory inscription, limestone, 7th century BCE (Israel Museum, Jerusalem).
+description: >-
+  Israel Museum, Jerusalem, Israel. Complete indexed photo collection at WorldHistoryPics.com
+creator: Gary Todd from Xinzheng, China
+credit_line: Dedicatory Stone Inscription, Ekron, 7th Century BC
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Gary Todd from Xinzheng, China. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Dedicatory_Stone_Inscription,_Ekron,_7th_Century_BC_(43167220572).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/5/5b/Dedicatory_Stone_Inscription%2C_Ekron%2C_7th_Century_BC_%2843167220572%29.jpg
+  sha1: 856bbbda81c70a42904e074974106bdbbf3aebe2
+  original_size: [6000, 4000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [ekron-royal-dedicatory-inscription]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

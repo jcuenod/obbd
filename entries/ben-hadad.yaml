@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ben-hadad
+title: Ben-Hadad (Kings of Aram-Damascus)
+type: person
+cultures: [aramean]
+date:
+  from: -900
+  to: -775
+  circa: true
+  display: c. 900–775 BCE
+scope: >-
+  Ben-hadad ('son of Hadad', Aramaic Bar-Hadad), the name given in Kings to several kings
+  of Aram-Damascus between c. 900 and c. 775. The entry sorts the biblical references against
+  the Zakkur and Melqart stelae and the Assyrian evidence for Hadadezer and 'Mariʾ'.
+passages:
+- ref: 1Kgs 15:18-20
+  rel: attests
+  note: Ben-hadad son of Tabrimmon son of Hezion, hired by Asa against Baasha
+- ref: 1Kgs 20:1-34
+  rel: attests
+  disputed: true
+  note: Ben-hadad's wars with Ahab; the identity of this king is debated
+- ref: 2Kgs 6:24
+  rel: attests
+  disputed: true
+  note: Ben-hadad's siege of Samaria
+- ref: 2Kgs 8:7-15
+  rel: attests
+  disputed: true
+  note: Ben-hadad killed by Hazael; Assyrian sources name Hazael's predecessor Hadadezer
+- ref: 2Kgs 13:3, 24-25
+  rel: attests
+  note: Ben-hadad son of Hazael, Bar-Hadad of the Zakkur Stele
+- ref: Amos 1:4
+  rel: attests
+  note: '''Strongholds of Ben-hadad'''
+- ref: Jer 49:27
+  rel: attests
+  note: '''Strongholds of Ben-hadad'' in the oracle against Damascus'
+related: [hazael, zakkur-stele, melqart-stele, damascus, tell-al-rimah-stele, ahab, battle-of-qarqar,
+  arameans]
+media:
+- id: ben-hadad
+  role: primary
+- id: ben-hadad-2
+  role: gallery
+external:
+  wikipedia: Ben-Hadad I
+  wikidata: Q816397
+editorial:
+  author_notes:
+  - >-
+    Explain why the number of Ben-hadads (two or three) is disputed. Shalmaneser III names
+    Hadadezer (Adad-idri) as king of Damascus in 853-845, not a Ben-hadad.
+  - >-
+    Only Ben-hadad son of Hazael is securely attested (Zakkur Stele). 'Mariʾ' in Adad-nirari
+    III's inscriptions (e.g. Tell al-Rimah) is probably the same king under an Aramaic title
+    meaning 'my lord'.
+  - >-
+    The Ahab war narratives (1 Kgs 20; 22) may originally have concerned Ben-hadad son of
+    Hazael and Jehoahaz or Joash. This hypothesis is widely held but not consensus.
+  - >-
+    The Melqart Stele's Bar-Hadad is of uncertain identity. Do not use it to settle the sequence.
+  sources_to_check: [KAI 202, 'Pitard, Ancient Damascus (1987)']
+  image_query: Zakkur stele Louvre
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

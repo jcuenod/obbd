@@ -1,0 +1,64 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: prayer-of-nabonidus
+title: Prayer of Nabonidus (4Q242)
+aliases: [4Q242, 4QPrNab]
+type: artifact
+cultures: [jewish, babylonian]
+date:
+  from: -75
+  to: -50
+  circa: true
+  display: c. 75–50 BCE
+scope: >-
+  Fragmentary Aramaic text from Qumran Cave 4 in which Nabonidus tells how he was struck with
+  an evil disease for seven years at Teima and healed after a Jewish diviner (gāzar) forgave
+  his sin and told him to honour God. It is widely seen as related to the tradition behind
+  Daniel 4.
+passages:
+- ref: Dan 4:1-37
+  rel: parallel
+  note: >-
+    King afflicted for seven years, restored after acknowledging the Most High (MT 3:31-4:34)
+- ref: Dan 5:4, 23
+  rel: parallel
+  note: Praising gods of silver, gold, bronze, iron, wood, and stone
+- ref: Dan 2:27; 4:7
+  rel: language
+  note: gzr 'diviner', the term used of the Jewish healer (4:7 = MT 4:4)
+- ref: Mark 2:5-12
+  rel: concept
+  disputed: true
+  note: Forgiveness of sins linked with healing
+related: [nabonidus, nebuchadnezzar-ii, verse-account-of-nabonidus, nabonidus-chronicle, dead-sea-scrolls,
+  aramaic-language]
+media: []
+external:
+  wikipedia: Prayer of Nabonidus
+  wikidata: Q1496855
+editorial:
+  author_notes:
+  - >-
+    Consensus: Daniel 4 transferred a tradition about Nabonidus's ten-year absence in Tayma
+    to Nebuchadnezzar. 4Q242 reflects a parallel or earlier form, not Daniel's direct source.
+  - Compare Nabonidus's own Harran inscriptions and the Tayma evidence.
+  - >-
+    Note the grammatical ambiguity over who forgave the sin (the diviner or God), and that
+    reconstructions vary (Milik, Cross, Collins).
+  sources_to_check:
+  - 'G. Brooke et al., Qumran Cave 4.XVII: Parabiblical Texts, Part 3 (DJD XXII, 1996)'
+  - J. T. Milik, 'Prière de Nabonide et autres écrits d'un cycle de Daniel', RB 63 (1956)
+  image_query: 4Q242 Prayer of Nabonidus
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: lachish-letters
+file: lachish-letters.jpg
+title: Lachish,Tell ed Duweir, Letter 4 Wellcome L0005980.jpg
+caption: >-
+  Lachish Letter 4, a Hebrew ink ostracon from Tell ed-Duweir, early 6th century BCE, both
+  faces (photograph, Wellcome Collection).
+description: >-
+  Lachish,Tell ed Duweir, Letter 4 General Collections Keywords: jews-history; paleography-hebrew;
+  Palestine; Archaeology; Harry Torczyner
+creator: null
+credit_line: >-
+  https://wellcomeimages.org/indexplus/obf_images/9b/6a/08ad150cafb3e2bc599d28781764.jpg Gallery:
+  https://wellcomeimages.org/indexplus/image/L0005980.html Wellcome Collection gallery (2018-03-30):
+  https://wellcomecollection.org/works/vrzcg77b CC-BY-4.0
+license:
+  id: CC-BY-4.0
+  name: CC BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0
+attribution: Unknown author, CC BY 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Lachish,Tell_ed_Duweir,_Letter_4_Wellcome_L0005980.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/72/Lachish%2CTell_ed_Duweir%2C_Letter_4_Wellcome_L0005980.jpg
+  sha1: 8ed290c74b236839c93282251fe4e6363151f458
+  original_size: [1176, 1582]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1176, 1582]
+depicts: [lachish-letters]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

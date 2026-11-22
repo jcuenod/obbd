@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ossuaries
+file: ossuaries.jpg
+title: Ossuaries at Dominus Flavit (3789267280).jpg
+caption: >-
+  First-century CE Jewish limestone ossuaries in a tomb at Dominus Flevit on the Mount of
+  Olives.
+description: >-
+  First-century CE Jewish ossuaries at the Dominus Flevit church on the Mount of Olives. These
+  ossuaries are displayed in what remains of a first-century CE tomb, but its layout has been
+  obscured by several centuries of later re-use. An ossuary is a stone box that would hold
+  the bones of a deceased person after they had been in a tomb long enough that the flesh
+  had decayed. In earlier Israelite and Judean burials (i.e., prior to the Hasmonean period)
+  these bones would be collected in a common repository pit, usually under one of the burial
+  benches in the tomb. During the Hellenistic and Roman pe
+creator: Ian Scott
+credit_line: Ossuaries at Dominus Flavit
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: Ian Scott, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ossuaries_at_Dominus_Flavit_(3789267280).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/0/00/Ossuaries_at_Dominus_Flavit_%283789267280%29.jpg
+  sha1: 231fc23207e1ad927ca870f7e30e26aa1975c5bf
+  original_size: [4000, 3000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [ossuaries]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

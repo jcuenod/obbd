@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: siloam-inscription
+file: siloam-inscription.jpg
+title: Siloam Inscription from Hezekiahs Tunnel Istanbul Archaeology Museums.jpg
+caption: >-
+  The Siloam Inscription from Hezekiah's Tunnel, late 8th century BCE (Istanbul Archaeology
+  Museums).
+description: >-
+  It records the completion of the Siloam tunnel (Hezekiah's Tunnel, late 8th century BC)
+  constructed to bring water from the Gihon Spring to the Pool of Siloam in Jerusalem. Discovered
+  in 1880.
+creator: ywpark2003 (Prof. Yong Woo Park)
+credit_line: Own work
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: ywpark2003 (Prof. Yong Woo Park). CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Siloam_Inscription_from_Hezekiahs_Tunnel_Istanbul_Archaeology_Museums.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/df/Siloam_Inscription_from_Hezekiahs_Tunnel_Istanbul_Archaeology_Museums.jpg
+  sha1: 0419b802b71df6b77d76c82dc670befb82ba6834
+  original_size: [3264, 2448]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [paleo-hebrew-script, siloam-inscription]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

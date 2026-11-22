@@ -1,0 +1,84 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: lamassu
+title: Lamassu (Assyrian Winged Guardian Figures)
+aliases: [aladlammû, shedu, human-headed winged bulls]
+type: realia
+cultures: [assyrian]
+scope: >-
+  The colossal human-headed winged bulls and lions that guarded the gateways of Neo-Assyrian
+  palaces at Nimrud, Khorsabad and Nineveh, later adopted at Persepolis. The entry covers
+  their form, protective function, and use as comparative material for the biblical cherubim
+  and Ezekiel's living creatures.
+passages:
+- ref: Ezek 1:5-10
+  rel: imagery
+  note: Composite living creatures with human, lion, ox and eagle faces
+- ref: Ezek 10:14
+  rel: imagery
+  note: Cherub's face identified as an ox face elsewhere
+- ref: Gen 3:24
+  rel: concept
+  note: Cherubim stationed as guardians at the entrance to Eden
+- ref: 1Kgs 6:23-28
+  rel: realia
+  note: Colossal winged cherubim in the inner sanctuary
+- ref: Ezek 28:14, 16
+  rel: concept
+  note: Guardian cherub
+- ref: Dan 7:4
+  rel: imagery
+  note: Lion with eagle's wings
+- ref: Rev 4:6-8
+  rel: imagery
+  note: Four living creatures with faces of lion, ox, human, eagle
+related: [cherubim, cherub-throne, ezekiel-throne-chariot, composite-beasts-daniel, apkallu-reliefs,
+  nimrud, persepolis]
+location:
+  institution: >-
+    Major examples in the British Museum, Musée du Louvre, ISAC Museum (Oriental Institute)
+    Chicago, Metropolitan Museum of Art, and Iraq Museum
+  accession: null
+media:
+- id: apotropaic-doorposts-and-thresholds
+  role: gallery
+- id: lamassu
+  role: primary
+- id: lamassu-2
+  role: gallery
+- id: nimrud
+  role: gallery
+external:
+  wikipedia: Lamassu
+  wikidata: Q616332
+editorial:
+  author_notes:
+  - >-
+    Biblical cherubim are now usually reconstructed from Levantine iconography as winged sphinxes
+    (lion body, human head), as on the Megiddo ivories and the Ahiram sarcophagus, not as
+    Assyrian bulls.
+  - >-
+    The proposed etymology of kerub from Akkadian karibu ('one who blesses/prays') is possible
+    but uncertain; flag it as debated.
+  - >-
+    Ezekiel, writing in Babylonia, could have seen such composite guardians; the comparison
+    is iconographic background, not identity.
+  - >-
+    Many lamassu have five legs, designed to be seen from front and side; ISIS destruction
+    at Nimrud and Nineveh (2015) is relevant for current state.
+  sources_to_check:
+  - Keel, The Symbolism of the Biblical World (1978)
+  image_query: Lamassu Khorsabad Louvre
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-1-sol

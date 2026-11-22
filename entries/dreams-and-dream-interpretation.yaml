@@ -1,0 +1,98 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: dreams-and-dream-interpretation
+title: Dreams and Dream Interpretation
+type: practice
+cultures: [egyptian, babylonian, assyrian, amorite]
+scope: >-
+  Dreams as a medium of divine communication in the ancient Near East: message dreams to kings,
+  symbolic dreams needing expert interpretation, dream books, and dream reports at Mari. The
+  entry also covers the biblical evaluation of dreams from Genesis to Daniel and Matthew.
+passages:
+- ref: Gen 20:3-7
+  rel: practice
+  note: God warns Abimelech in a dream of the night
+- ref: Gen 28:12-15
+  rel: practice
+  note: 'Jacob''s dream at Bethel: message dream with vision'
+- ref: Gen 37:5-11
+  rel: practice
+  note: Joseph's symbolic dreams
+- ref: Gen 40:1-41:36
+  rel: practice
+  note: Egyptian officials and Pharaoh dream; Joseph interprets where magicians fail
+- ref: Gen 41:8
+  rel: language
+  note: ḥarṭummîm 'magicians', from Egyptian ḥry-tp, lector-priest
+- ref: Num 12:6-8
+  rel: concept
+  note: Prophets receive dreams and visions, Moses face to face
+- ref: Deut 13:1-5
+  rel: concept
+  note: Dreamer who leads to other gods is to be put to death; MT 13:2-6
+- ref: Judg 7:13-15
+  rel: practice
+  note: Midianite's dream overheard and interpreted
+- ref: 1Kgs 3:5-15
+  rel: practice
+  note: Solomon's dream at Gibeon
+- ref: Jer 23:25-32
+  rel: polemic
+  note: Lying dreams versus YHWH's word
+- ref: Dan 2:1-45
+  rel: practice
+  note: Nebuchadnezzar's dream and the failure of court experts
+- ref: Dan 4:4-27
+  rel: practice
+  note: Dream of the great tree; MT 4:1-24
+- ref: Matt 2:12-13
+  rel: practice
+  note: Warnings given in dreams
+related: [dream-incubation, dream-stele, gudea-cylinders, mari-letters, divination, egyptian-loanwords,
+  prophecy-in-the-ane]
+media:
+- id: dream-stele
+  role: gallery
+external:
+  wikipedia: Dream interpretation
+  wikidata: Q867634
+editorial:
+  author_notes:
+  - >-
+    Oppenheim's typology (message dreams versus symbolic dreams, and the dream-report form)
+    remains standard (Oppenheim, The Interpretation of Dreams in the Ancient Near East, TAPS
+    46/3, 1956).
+  - >-
+    The Egyptian dream book (P. Chester Beatty III, New Kingdom) and the Assyrian dream book
+    (Ziqīqu) list dream omens. Joseph's interpretations rely on divine revelation, not manuals
+    (Gen 40:8; 41:16). This contrast is often noted.
+  - >-
+    Royal dream reports include Gudea, Thutmose IV's Dream Stele, Hattusili III, Ashurbanipal,
+    and Nabonidus. Mari letters report dreams by non-specialists.
+  - >-
+    Gen 41:8 ḥarṭōm is a secure Egyptian loanword. Many (e.g. Redford) place several Egyptian
+    names and terms in the Joseph story in the first millennium, which is relevant to dating.
+    This is debated.
+  sources_to_check:
+  - Kasia Szpakowska, Behind Closed Eyes (2003)
+  - Frances Flannery-Dailey, Dreamers, Scribes, and Priests (2004)
+  image_query: Egyptian dream book Chester Beatty papyrus
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Num 12:6 widened to 12:6-8 so the 'face to face'
+    contrast in the note is included
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

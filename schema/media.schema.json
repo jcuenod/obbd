@@ -1,0 +1,149 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://obbd.org/schema/media.schema.json",
+  "title": "OBBD media record (media/<id>.yaml)",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "file",
+    "license",
+    "attribution",
+    "source",
+    "depicts",
+    "review"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "file": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "caption": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "description": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "creator": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "credit_line": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "license": {
+      "type": "object",
+      "required": [
+        "id"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "url": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "attribution": {
+      "type": "string",
+      "description": "Ready-to-print TASL attribution line."
+    },
+    "source": {
+      "type": "object",
+      "properties": {
+        "page": {
+          "type": "string"
+        },
+        "original_url": {
+          "type": "string"
+        },
+        "sha1": {
+          "type": "string"
+        },
+        "original_size": {
+          "type": "array"
+        },
+        "retrieved": {
+          "type": "string"
+        }
+      }
+    },
+    "derivative": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "size": {
+      "type": "array"
+    },
+    "depicts": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "restrictions": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "review": {
+      "type": "object",
+      "properties": {
+        "status": {
+          "enum": [
+            "unreviewed",
+            "approved",
+            "rejected"
+          ]
+        },
+        "checked_by": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "date": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "note": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    }
+  }
+}

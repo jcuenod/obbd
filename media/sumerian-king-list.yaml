@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: sumerian-king-list
+file: sumerian-king-list.jpg
+title: The Sumerian King List, Ashmolean Museum, Oxford.jpg
+caption: >-
+  The Weld-Blundell Prism, clay, inscribed with the Sumerian King List, early 2nd millennium
+  BCE (Ashmolean Museum, Oxford).
+description: >-
+  This is the Sumerian King List, an ancient stone tablet listing cities in Sumer and its
+  neighbouring regions, their rulers and the length of their reigns. It contains a reference
+  to the flood myth and mythological origins of Kingship, with the details of the later kings
+  listed on the tablet having more realistic reigns than the excessively long ones of the
+  earlier entries. The artefact is a prism, with its cuneiform writing in the Sumerian language.
+  Its production is dated to approximately 1800 BC and it is believed to originate from Larsa,
+  an ancient city in Sumer whose ruins now lay within t
+creator: M.atkinsonross
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: M.atkinsonross, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:The_Sumerian_King_List,_Ashmolean_Museum,_Oxford.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/b2/The_Sumerian_King_List%2C_Ashmolean_Museum%2C_Oxford.jpg
+  sha1: 90876ee9ce30ad5cccb0670f4590efae04f11a7c
+  original_size: [1814, 2617]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1109×1600 px
+size: [1109, 1600]
+depicts: [sumerian-king-list, weld-blundell-prism]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

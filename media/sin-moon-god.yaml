@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: sin-moon-god
+file: sin-moon-god.jpg
+title: Neo-Babylonian Basalt Stele of Nabonidus, Babylon, 554-539 BC.jpg
+caption: >-
+  Basalt stele of Nabonidus showing the king before the symbols of the moon god Sin, Shamash
+  and Ishtar, 554–539 BCE (British Museum, London).
+description: >-
+  Neo-Babylonian Basalt Stele of Nabonidus, Babylon, 554-539 BC Mesopotamia 1500-539 BC Gallery,
+  British Museum, London, England, UK. Complete indexed photo collection at WorldHistoryPics.com.
+creator: Gary Todd
+credit_line: https://www.flickr.com/photos/101561334@N08/36394188782/
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Gary Todd. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Neo-Babylonian_Basalt_Stele_of_Nabonidus,_Babylon,_554-539_BC.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/45/Neo-Babylonian_Basalt_Stele_of_Nabonidus%2C_Babylon%2C_554-539_BC.jpg
+  sha1: da0ca23ecf18e990096d9cef6198d65d4118c161
+  original_size: [3456, 5184]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1067×1600 px
+size: [1067, 1600]
+depicts: [nabonidus, sin-moon-god]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

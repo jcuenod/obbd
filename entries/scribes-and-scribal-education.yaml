@@ -1,0 +1,84 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: scribes-and-scribal-education
+title: Scribes and Scribal Education
+aliases: [Scribal culture, Scribes]
+type: practice
+cultures: [ane, judahite, babylonian, egyptian]
+scope: >-
+  The scribe (sōpēr) as royal official, temple functionary and tradent of texts in Israel
+  and Judah, and the education of scribes as known from Mesopotamian, Egyptian and Levantine
+  evidence. The entry covers the role of scribal culture in the formation of the Hebrew Bible.
+passages:
+- ref: 2Sam 8:17; 20:25
+  rel: language
+  note: Seraiah and Sheva, David's secretaries
+- ref: 1Kgs 4:3
+  rel: language
+  note: Elihoreph and Ahijah, Solomon's secretaries
+- ref: 2Kgs 22:3-13
+  rel: practice
+  note: Shaphan the secretary reads the book found in the temple
+- ref: Jer 36:4, 10-12, 26, 32
+  rel: practice
+  note: Baruch writes from dictation; the secretary's chamber
+- ref: Jer 8:8
+  rel: concept
+  note: '''The false pen of the scribes'' and the law of YHWH'
+- ref: Prov 25:1
+  rel: practice
+  note: Hezekiah's men transcribe proverbs
+- ref: Ezek 9:2-3
+  rel: realia
+  note: Man with a writing case (qeset, an Egyptian loanword)
+- ref: Isa 28:9-13
+  rel: practice
+  disputed: true
+  note: '''ṣaw lāṣāw qaw lāqāw'': possibly an alphabet-drill parody'
+- ref: Ezra 7:6, 11
+  rel: concept
+  note: Ezra, a scribe skilled in the law of Moses
+- ref: Sir 38:24-39:11
+  rel: concept
+  note: Scribe's leisure and learning contrasted with the trades
+related: [satire-of-the-trades, writing-and-literacy, kuntillet-ajrud-inscriptions, izbet-sartah-abecedary,
+  court-officials, library-of-ashurbanipal, bullae-of-jeremiah-era-officials, seals-and-bullae]
+media:
+- id: scribes-and-scribal-education
+  role: primary
+- id: scribes-and-scribal-education-2
+  role: gallery
+- id: scribes-and-scribal-education-3
+  role: gallery
+external:
+  wikipedia: Scribe
+  wikidata: Q916292
+editorial:
+  author_notes:
+  - >-
+    Standard works: D. M. Carr, Writing on the Tablet of the Heart (2005); K. van der Toorn,
+    Scribal Culture and the Making of the Hebrew Bible (2007); C. A. Rollston, Writing and
+    Literacy in the World of Ancient Israel (2010).
+  - >-
+    Epigraphic evidence for formal training includes a standardized Old Hebrew script, hieratic
+    numerals, and abecedaries and practice texts (Kuntillet ʿAjrud, Tel Zayit, ʿIzbet Ṣarṭah).
+  - >-
+    Whether Israel had formal 'schools' is debated (A. Lemaire versus J. Crenshaw and M. Haran).
+    Avoid assuming Mesopotamian-style institutions.
+  - >-
+    Sirach's praise of the scribe echoes the Egyptian Satire of the Trades, though the degree
+    of dependence is debated.
+  image_query: Seated Scribe Louvre
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

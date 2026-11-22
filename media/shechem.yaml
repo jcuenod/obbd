@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: shechem
+file: shechem.jpg
+title: Tell Balata.jpg
+caption: City wall and gate at Tell Balata, ancient Shechem.
+description: The city wall and gate of Tell Balata
+creator: TrickyH
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: TrickyH, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tell_Balata.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/7/71/Tell_Balata.jpg
+  sha1: 3b0645b192a1f5791708132739c30df9c34c651b
+  original_size: [5184, 3456]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [shechem]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

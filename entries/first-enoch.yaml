@@ -1,0 +1,87 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: first-enoch
+title: 1 Enoch
+aliases: [1 Enoch, Ethiopic Enoch]
+type: text
+cultures: [jewish]
+date:
+  from: -300
+  to: 50
+  circa: true
+  display: c. 300 BCE–50 CE
+scope: >-
+  A composite apocalyptic collection attributed to Enoch: Book of Watchers (1-36), Similitudes
+  (37-71), Astronomical Book (72-82), Dream Visions (83-90), and Epistle (91-108). Its parts
+  range from the 3rd century BCE to the turn of the era. It survives complete in Ge'ez, with
+  Aramaic fragments from Qumran and Greek portions.
+passages:
+- ref: Gen 5:21-24
+  rel: parallel
+  note: Enoch walked with God and was taken, the basis of his revelatory role
+- ref: Gen 6:1-4
+  rel: parallel
+  note: Watchers' descent, giants, and forbidden teachings (1 En 6-11)
+- ref: Jude 14-15
+  rel: attests
+  note: Quotes 1 En 1:9 as prophecy of 'Enoch, the seventh from Adam'
+- ref: Jude 6
+  rel: concept
+  note: Angels who left their dwelling kept in chains (cf. 1 En 10:4-6, 12)
+- ref: 2Pet 2:4
+  rel: concept
+  note: Sinning angels held in chains of deepest darkness until judgment
+- ref: 1Pet 3:19-20
+  rel: concept
+  disputed: true
+  note: Proclamation to imprisoned spirits; cf. Enoch's mission to the Watchers (1 En 12-16)
+- ref: Dan 7:9-14
+  rel: parallel
+  note: Throne vision and 'son of man'; cf. 1 En 14:18-23; 46-48
+- ref: Matt 25:31
+  rel: concept
+  note: Son of Man on his throne of glory (cf. 1 En 62:5; 69:27-29)
+related: [enmeduranki-and-the-apkallu, nephilim, sons-of-god, jubilees, dead-sea-scrolls,
+  messianic-expectations, genesis-apocryphon, demons]
+media:
+- id: first-enoch
+  role: primary
+- id: first-enoch-2
+  role: gallery
+external:
+  wikipedia: Book of Enoch
+  wikidata: Q220890
+editorial:
+  author_notes:
+  - >-
+    Treat the five booklets separately in date and outlook. The Similitudes are absent at
+    Qumran; Enoch Seminar consensus places them before 70 CE, probably late 1st century BCE
+    to early 1st century CE.
+  - >-
+    The Mesopotamian background of the Enoch figure (Enmeduranki, apkallu) is well established
+    (VanderKam).
+  - >-
+    The book is canonical in the Ethiopian Orthodox Tewahedo Church. Jude's citation shows
+    its authority in some early Christian circles, not 'canon' in a later sense.
+  - >-
+    Present the Similitudes' Son of Man in relation to the Gospels carefully: shared tradition,
+    with the direction and nature of influence debated.
+  sources_to_check:
+  - G. W. E. Nickelsburg, 1 Enoch 1 (Hermeneia, 2001)
+  - G. W. E. Nickelsburg and J. C. VanderKam, 1 Enoch 2 (Hermeneia, 2012)
+  - 'J. T. Milik, The Books of Enoch: Aramaic Fragments of Qumrân Cave 4 (1976)'
+  - M. A. Knibb, The Ethiopic Book of Enoch, 2 vols. (1978)
+  image_query: Book of Enoch Ethiopic manuscript
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

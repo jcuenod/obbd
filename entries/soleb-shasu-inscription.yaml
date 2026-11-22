@@ -1,0 +1,88 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: soleb-shasu-inscription
+title: '"Shasu of YHW" Toponym Lists (Soleb, Amarah West)'
+aliases: [Shasu of YHW, Land of the Shasu of Yhw]
+type: artifact
+cultures: [egyptian]
+date:
+  from: -1390
+  to: -1352
+  circa: true
+  display: c. 1390–1352 BCE
+scope: >-
+  Topographical lists of Amenhotep III at his Nubian temple of Soleb, and a later Ramesside
+  copy at Amarah West. Among several "lands of the Shasu" they name tꜣ šꜣsw yhwꜣ, "the land
+  of the Shasu of Yhw". Many scholars take this as the earliest occurrence of the divine name
+  YHWH, used as a toponym or tribal name in the southern Transjordan/Edom region.
+passages:
+- ref: Exod 3:13-15
+  rel: language
+  disputed: true
+  note: Divine name YHWH; Yhw(ꜣ) as possibly its earliest attestation
+- ref: Deut 33:2
+  rel: setting
+  disputed: true
+  note: YHWH comes from Sinai and Seir; the Shasu of Yhw are often located in this region
+- ref: Judg 5:4-5
+  rel: setting
+  disputed: true
+  note: YHWH marches out from Seir and the region of Edom
+- ref: Hab 3:3
+  rel: setting
+  disputed: true
+  note: God comes from Teman, the Holy One from Mount Paran
+related: [yhwh-origins, shasu, midianites-and-kenites, edomites, kuntillet-ajrud-inscriptions,
+  papyrus-anastasi]
+location:
+  institution: In situ, Soleb, Sudan (Amarah West copy also in Sudan)
+  accession: null
+media:
+- id: soleb-shasu-inscription
+  role: primary
+- id: soleb-shasu-inscription-2
+  role: gallery
+external:
+  wikipedia: Soleb
+  wikidata: Q1457914
+editorial:
+  author_notes:
+  - >-
+    The setting tags are geographical. The Shasu lists include Seir and point to the southern
+    region named in the "YHWH from the south" texts. That holds whether or not Yhw is the
+    divine name.
+  - >-
+    Whether yhwꜣ is a place, a tribe, or a deity's name, and whether it is related to YHWH
+    at all, is debated. The identification is widely regarded as plausible, but do not present
+    it as proven.
+  - >-
+    The evidence supports, but does not prove, southern-origin hypotheses (the Kenite-Midianite
+    hypothesis). Mention Kuntillet ʿAjrud's "YHWH of Teman".
+  - >-
+    The Amarah West list (Ramesses II) probably copies the Soleb list. Earlier claims that
+    the Soleb list attests "Yahweh" as a deity worshipped in Egypt are unfounded.
+  sources_to_check:
+  - Giveon, Les bédouins Shosou des documents égyptiens (1971)
+  - >-
+    Adrom and Müller, 'The Tetragrammaton in Egyptian Sources - Facts and Fiction', in The
+    Origins of Yahwism (BZAW 484, 2017)
+  image_query: Soleb temple Amenhotep III columns
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: marked southern-origin tags (Deut 33:2, Judg 5:4-5,
+    Hab 3:3) disputed; softened Deut 33:2 note
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

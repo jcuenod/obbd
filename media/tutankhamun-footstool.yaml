@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: tutankhamun-footstool
+file: tutankhamun-footstool.jpg
+title: By ovedc - Egyptian Museum (Cairo) - 275.jpg
+caption: >-
+  Tutankhamun's marquetry sandals with bound foreign captives on the insoles, from KV62 (Egyptian
+  Museum, Cairo).
+description: Egyptian Museum (Cairo)
+creator: Ovedc
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Ovedc, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:By_ovedc_-_Egyptian_Museum_(Cairo)_-_275.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/b9/By_ovedc_-_Egyptian_Museum_%28Cairo%29_-_275.jpg
+  sha1: 3495a067be7403951fcea4220cde23588ab68f41
+  original_size: [5312, 2988]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×900 px
+size: [1600, 900]
+depicts: [tutankhamun-footstool]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

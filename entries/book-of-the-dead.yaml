@@ -1,0 +1,85 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: book-of-the-dead
+title: Book of the Dead
+aliases: [Spells for Going Forth by Day]
+type: text
+cultures: [egyptian]
+date:
+  from: -1550
+  to: -50
+  circa: true
+  display: c. 1550–50 BCE
+scope: >-
+  The modern name for a corpus of nearly two hundred Egyptian funerary spells, written on
+  papyri and other burial equipment from the New Kingdom to the Roman period, to guide and
+  protect the deceased. Spell 125, with the judgment and weighing of the heart and the "negative
+  confession", matters most for biblical studies.
+passages:
+- ref: Job 31:5-40
+  rel: form
+  note: >-
+    Oath of clearance listing wrongs not committed; cf. Spell 125's declarations of innocence
+- ref: Job 31:6
+  rel: imagery
+  note: '''Let me be weighed in a just balance'''
+- ref: Prov 16:2; 21:2; 24:12
+  rel: imagery
+  note: YHWH 'weighs' spirits/hearts; cf. weighing of the heart
+- ref: Ps 24:3-6
+  rel: parallel
+  note: 'Qualifications for entering the holy place: clean hands, pure heart'
+- ref: Ps 15:1-5
+  rel: parallel
+  note: Entrance requirements stated as moral conduct
+- ref: Deut 26:13-14
+  rel: form
+  disputed: true
+  note: >-
+    Declaration of ritual innocence regarding the tithe, compared with the negative confession
+- ref: Dan 5:27
+  rel: imagery
+  disputed: true
+  note: '''Weighed on the scales and found wanting'''
+related: [maat, afterlife-and-resurrection, mummification, care-for-the-dead, amulets, sheol-and-the-netherworld,
+  hardening-of-the-heart]
+media:
+- id: afterlife-and-resurrection
+  role: gallery
+- id: book-of-the-dead
+  role: primary
+external:
+  wikipedia: Book of the Dead
+  wikidata: Q174361
+editorial:
+  author_notes:
+  - >-
+    The comparisons are typological. Israelite texts lack a post-mortem judgment of the dead
+    comparable to Spell 125, and the entrance liturgies (Pss 15; 24) concern access to the
+    temple, not the afterlife.
+  - >-
+    The image of YHWH weighing hearts (Proverbs) is widely linked to Egyptian iconography,
+    which circulated in the Levant on scarabs and other objects. Note this mediation.
+  - >-
+    Explain that "Book of the Dead" is a modern label. Each papyrus was a selection of spells,
+    and there was no canonical sequence before the Saite recension.
+  - Popular descriptions of it as an "Egyptian Bible" are misleading.
+  sources_to_check:
+  - ANET 34-36
+  - AEL 2:119-132
+  - Allen, The Book of the Dead or Going Forth by Day (1974)
+  - Faulkner, The Ancient Egyptian Book of the Dead (ed. Andrews, 1985)
+  image_query: Papyrus of Ani weighing of the heart
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

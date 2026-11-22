@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: astrology
+file: astrology.jpg
+title: Venus Tablet of Ammisaduqa.jpg
+caption: >-
+  The Venus Tablet of Ammisaduqa (Enuma Anu Enlil tablet 63), Neo-Assyrian copy of observations
+  of Venus (British Museum, London).
+description: Venus Tablet of Ammisaduqa. Neo-Assyrian period.
+creator: null
+credit_line: Fæ (Own work)
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Unknown author, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Venus_Tablet_of_Ammisaduqa.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/b/bb/Venus_Tablet_of_Ammisaduqa.jpg
+  sha1: ccebfe96de5bca08927945e0b34cfd8fa3439835
+  original_size: [1627, 2743]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 949×1600 px
+size: [949, 1600]
+depicts: [astrology, enuma-anu-enlil]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

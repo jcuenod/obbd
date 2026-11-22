@@ -1,0 +1,90 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: septuagint
+title: Septuagint
+aliases: [LXX, Old Greek]
+type: text
+cultures: [jewish, greek]
+date:
+  from: -280
+  to: -100
+  circa: true
+  display: c. 280–100 BCE
+scope: >-
+  The Jewish Greek translations of the Hebrew scriptures, beginning with the Pentateuch in
+  3rd-century BCE Alexandria and extending to other books over the following two centuries.
+  The entry covers their origin, character, value as witnesses to the Hebrew text, and use
+  in the New Testament.
+passages:
+- ref: Isa 7:14
+  rel: language
+  note: ʿalmâ rendered parthenos
+- ref: Matt 1:23
+  rel: language
+  note: Quotes Greek Isa 7:14 'the virgin'
+- ref: Deut 32:8
+  rel: language
+  note: '''Angels/sons of God'' against MT ''sons of Israel'''
+- ref: Amos 9:11-12
+  rel: language
+  note: Greek 'that the rest of humanity may seek the Lord' for MT 'possess Edom'
+- ref: Acts 15:16-18
+  rel: language
+  note: James quotes the Greek form of Amos 9:11-12
+- ref: Ps 40:6
+  rel: language
+  note: Greek 'a body you have prepared for me' (MT 40:7 'ears you have dug')
+- ref: Heb 10:5-7
+  rel: language
+  note: Quotes Greek Ps 40:6-8
+- ref: Jer 1-52
+  rel: language
+  note: Greek Jeremiah about one-seventh shorter, with oracles against the nations after 25:13
+- ref: 1Sam 17:12-31
+  rel: language
+  note: Absent from LXX (Vaticanus), evidence of variant literary editions
+related: [letter-of-aristeas, dead-sea-scrolls, 4qdeut-j, great-isaiah-scroll, nash-papyrus,
+  messianic-expectations]
+media:
+- id: septuagint
+  role: primary
+- id: septuagint-2
+  role: gallery
+external:
+  wikipedia: Septuagint
+  wikidata: Q29334
+editorial:
+  author_notes:
+  - >-
+    Distinguish the Old Greek from later revisions (kaige, Aquila, Symmachus, Theodotion,
+    Hexapla, Lucianic). In Daniel, 'Theodotion' displaced the Old Greek in church use.
+  - >-
+    Value for textual criticism: Jeremiah, Samuel, Job, Esther, and Exodus 35-40 differ significantly.
+    Qumran confirms that some differences reflect Hebrew Vorlagen.
+  - >-
+    On Isa 7:14: ʿalmâ means 'young woman', and parthenos is not always strictly 'virgin'
+    (cf. LXX Gen 34:3).
+  - >-
+    Earliest witnesses include Rylands 458 (Deut), 4QLXXLev-a, and the Greek Minor Prophets
+    scroll from Naḥal Ḥever. NT quotations do not always match later LXX manuscripts.
+  sources_to_check:
+  - >-
+    A. Pietersma and B. G. Wright (eds.), A New English Translation of the Septuagint (NETS,
+    2007)
+  - K. H. Jobes and M. Silva, Invitation to the Septuagint (2nd ed., 2015)
+  - A. Rahlfs and R. Hanhart, Septuaginta (rev. ed., 2006)
+  - 'Septuaginta: Vetus Testamentum Graecum (Göttingen edition)'
+  image_query: Codex Vaticanus Septuagint page
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

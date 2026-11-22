@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: cherub-throne
+title: Cherub Throne
+aliases: [Enthroned on the cherubim, Sphinx throne]
+type: realia
+cultures: [phoenician, canaanite, judahite]
+scope: >-
+  The image of YHWH 'enthroned on the cherubim' and the Levantine sphinx-flanked throne behind
+  it, as known from Late Bronze and Iron Age ivories and the Ahiram sarcophagus. The entry
+  covers the epithet, the cherubim of the temple's inner sanctuary, and the debate over an
+  'empty throne'.
+passages:
+- ref: 1Sam 4:4
+  rel: language
+  note: '''YHWH of hosts, who is enthroned on the cherubim'''
+- ref: 2Sam 6:2
+  rel: language
+  note: Same epithet attached to the ark
+- ref: 2Kgs 19:15
+  rel: language
+  note: Hezekiah addresses the one enthroned above the cherubim (= Isa 37:16)
+- ref: Ps 80:1
+  rel: language
+  note: Shepherd of Israel enthroned on the cherubim (MT 80:2)
+- ref: Ps 99:1
+  rel: language
+  note: YHWH is king, enthroned on the cherubim
+- ref: 1Kgs 6:23-28
+  rel: realia
+  note: Two olivewood cherubim, ten cubits high, with outspread wings in the inner sanctuary
+- ref: 1Kgs 8:6-7
+  rel: realia
+  note: Cherubim's wings overshadow the ark
+- ref: Exod 25:18-22
+  rel: realia
+  note: Cherubim on the kappōret; YHWH speaks from between them
+- ref: Ps 18:10
+  rel: imagery
+  note: YHWH rides on a cherub (MT 18:11)
+- ref: Ezek 10:1
+  rel: imagery
+  note: Throne-like sapphire above the cherubim
+related: [cherubim, ark-of-the-covenant, footstool, ahiram-sarcophagus, samaria-ivories, aniconism,
+  ezekiel-throne-chariot, lamassu]
+media:
+- id: cherub-throne
+  role: primary
+- id: cherub-throne-2
+  role: gallery
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The key comparanda are the Megiddo ivory plaque and the Ahiram sarcophagus, both showing
+    a king on a throne with winged-sphinx sides. Cherubim are winged sphinxes, not Renaissance
+    putti.
+  - >-
+    Explain the reconstruction (Haran, Keel, Mettinger): the inner-sanctuary cherubim formed
+    a throne and the ark served as its footstool. Mettinger's 'empty throne' model of aniconism
+    is influential but debated.
+  - >-
+    The epithet yōšēb hakkĕrûbîm is attached to the ark in Samuel. Whether it originated at
+    Shiloh or in Jerusalem temple theology is debated.
+  image_query: Megiddo ivory cherub throne
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

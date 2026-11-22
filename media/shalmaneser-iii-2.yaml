@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: shalmaneser-iii-2
+file: shalmaneser-iii-2.jpg
+title: >-
+  Shalmaneser III greets Marduk-zakir-shumi, detail, front panel, Throne Dais of Shalmaneser
+  III at the Iraq Museum.jpg
+caption: >-
+  Shalmaneser III clasping hands with the Babylonian king Marduk-zakir-shumi, front panel
+  of his throne dais from Nimrud (Iraq Museum, Baghdad).
+description: >-
+  The front panel of this dais depicts Shalmaneser III (r. 858-824 BCE), (on the right) handshaking
+  Marduk-zakir-shumi (r. 855 - 819 BCE) (left), king of Babylon. Both are surrounded by guards
+  and stand below a fringed canopy supported by poles. The scene commemorates Shalmaneser's
+  support of Marduk-zakir-sumi against his rebellious brother, Marduk-bel-usati and the ascent
+  of Marduk-zaki-shumi to the throne. Its place on the dais reflects its importance as one
+  of the great achievements of Shalmaneser III. This dais was found in the eastern end of
+  the throne room (T1) at Fort Shalmaneser in the c
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Shalmaneser_III_greets_Marduk-zakir-shumi,_detail,_front_panel,_Throne_Dais_of_Shalmaneser_III_at_the_Iraq_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/31/Shalmaneser_III_greets_Marduk-zakir-shumi%2C_detail%2C_front_panel%2C_Throne_Dais_of_Shalmaneser_III_at_the_Iraq_Museum.jpg
+  sha1: 8c3ed96702d5c6080d594ab498424e143879e571
+  original_size: [6016, 4016]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1068 px
+size: [1600, 1068]
+depicts: [shalmaneser-iii]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

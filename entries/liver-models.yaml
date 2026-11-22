@@ -1,0 +1,65 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: liver-models
+title: Clay Liver Models (Hepatoscopy)
+type: realia
+cultures: [mesopotamian]
+scope: >-
+  Clay models of sheep livers used to teach and record extispicy, the reading of omens from
+  the entrails of sacrificed animals. Examples come from Old Babylonian Mari and Babylon and
+  from the Levant and Anatolia, including Hazor, Megiddo and Ugarit.
+passages:
+- ref: Ezek 21:21
+  rel: practice
+  note: The king of Babylon 'inspects the liver' at the fork in the road (MT 21:26)
+- ref: Deut 18:10-14
+  rel: polemic
+  note: Prohibition of divination and soothsaying
+- ref: Lev 3:4, 10, 15
+  rel: practice
+  disputed: true
+  note: The 'appendage of the liver' burned; sometimes read as anti-divinatory
+- ref: 2Kgs 16:15
+  rel: practice
+  disputed: true
+  note: Ahaz's altar 'for me to inquire by', possibly extispicy
+- ref: Num 24:1
+  rel: practice
+  note: Balaam no longer seeks omens
+related: [extispicy, divination, mari, hazor, megiddo, mari-letters, teraphim]
+media:
+- id: extispicy
+  role: primary
+- id: divination
+  role: gallery
+external:
+  wikipedia: Haruspex
+  wikidata: Q623455
+editorial:
+  author_notes:
+  - >-
+    The Late Bronze Age models from Hazor and Megiddo show that Mesopotamian extispicy was
+    practised in Canaan; the Hazor examples bear Akkadian inscriptions.
+  - >-
+    Ezek 21:21 is the only explicit biblical reference to hepatoscopy and attributes it to
+    a Babylonian.
+  - >-
+    The reading of the Levitical removal of the liver's 'appendage' as anti-divinatory is
+    a proposal, not consensus.
+  - The Etruscan bronze liver of Piacenza is a much later parallel; mention only briefly.
+  sources_to_check:
+  - Meyer, Untersuchungen zu den Tonlebermodellen aus dem Alten Orient (AOAT 39, 1987)
+  image_query: Babylonian clay liver model British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

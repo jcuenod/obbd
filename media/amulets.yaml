@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: amulets
+file: amulets.jpg
+title: Ketef hinom scrolls.JPG
+caption: >-
+  The silver amulet scrolls from Ketef Hinnom, Jerusalem, inscribed with a form of the priestly
+  blessing, late Iron Age (Israel Museum, Jerusalem).
+description: The scrolls found in Ketef Hinom, as displayed in the Israel Museum
+creator: Bachrach44
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Bachrach44, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ketef_hinom_scrolls.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/a/a4/Ketef_hinom_scrolls.JPG
+  sha1: 4b6fa51854110e527d384ea3abaa252dfc9a85a3
+  original_size: [3538, 2475]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1119 px
+size: [1600, 1119]
+depicts: [amulets, ketef-hinnom-amulets, light-of-the-face]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

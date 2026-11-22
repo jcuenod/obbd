@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: xerxes-i-2
+file: xerxes-i-2.jpg
+title: Trilingual inscription of Xerxes, Van, 1973.JPG
+caption: >-
+  Trilingual inscription of Xerxes in Old Persian, Babylonian and Elamite cut into the rock
+  at Van, Turkey.
+description: >-
+  Inscription of Xerxes, Van, Turkey It is a trilingual inscription, written in Old Persian,
+  Babylonian and Elamite (from left to right). See [1].
+creator: John Hill
+credit_line: I took this photo myself using a 300 mm lens with 2X extender on a Pentax camera
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: http://creativecommons.org/licenses/by-sa/3.0/
+attribution: John Hill, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Trilingual_inscription_of_Xerxes,_Van,_1973.JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/bb/Trilingual_inscription_of_Xerxes%2C_Van%2C_1973.JPG
+  sha1: ec9839eec65a0d60ed406f6808e8c8bcb14e1018
+  original_size: [1568, 972]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1568, 972]
+depicts: [xerxes-i]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

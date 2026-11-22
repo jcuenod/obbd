@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: diplomatic-marriage
+title: Diplomatic Marriage
+aliases: [Royal intermarriage, Dynastic marriage]
+type: practice
+cultures: [ane, egyptian, hittite, phoenician]
+scope: >-
+  Marriages between royal houses used to seal alliances and vassal relationships in the ancient
+  Near East. The entry covers the biblical cases (Solomon, Ahab–Jezebel, the Omride–Davidide
+  link) and the Deuteronomistic judgment on foreign royal wives.
+passages:
+- ref: 2Sam 3:3
+  rel: practice
+  note: David marries Maacah, daughter of Talmai king of Geshur
+- ref: 1Kgs 3:1
+  rel: practice
+  note: Solomon allies with Pharaoh by marrying his daughter
+- ref: 1Kgs 7:8; 9:24
+  rel: practice
+  note: Separate house built for Pharaoh's daughter
+- ref: 1Kgs 9:16
+  rel: practice
+  note: Gezer given as dowry (šillûḥîm)
+- ref: 1Kgs 11:1-3
+  rel: practice
+  note: Solomon's many foreign princesses
+- ref: 1Kgs 11:19-20
+  rel: practice
+  note: Hadad the Edomite marries the sister of Pharaoh's queen Tahpenes
+- ref: 1Kgs 16:31
+  rel: practice
+  note: Ahab marries Jezebel, daughter of Ethbaal of Sidon
+- ref: 2Kgs 8:18, 26
+  rel: practice
+  note: Jehoram of Judah marries Athaliah of the house of Omri
+- ref: Ps 45:10-15
+  rel: practice
+  note: Foreign princess brought to the king; 'daughter of Tyre' (MT 45:11-16)
+- ref: Dan 11:6, 17
+  rel: practice
+  note: Ptolemaic–Seleucid marriage alliances
+related: [amarna-letters, egyptian-hittite-peace-treaty, solomon, jezebel, ahab, gezer, diplomatic-gift-exchange]
+media:
+- id: diplomatic-gift-exchange
+  role: gallery
+- id: diplomatic-marriage
+  role: primary
+external:
+  wikipedia: Royal intermarriage
+  wikidata: Q4161873
+editorial:
+  author_notes:
+  - >-
+    In EA 4, Kadashman-Enlil quotes Amenhotep III: 'From time immemorial no daughter of the
+    king of Egypt has been given to anyone'. Weigh this against 1 Kgs 3:1. Some (e.g. K. A.
+    Kitchen) find such a marriage plausible in the weaker 21st Dynasty; others see it as Solomonic
+    legend.
+  - >-
+    Ramesses II's marriage to a Hittite princess after the treaty (Marriage Stela) is the
+    classic case of a marriage sealing a treaty.
+  - >-
+    The Deuteronomistic critique (Deut 17:17; 1 Kgs 11:1-8) turns diplomatic practice into
+    religious apostasy. Explain both sides.
+  image_query: Ramesses II marriage stela Abu Simbel
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

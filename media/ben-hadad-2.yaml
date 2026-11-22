@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ben-hadad-2
+file: ben-hadad-2.jpg
+title: Stèle de Zakkur - Musée du Louvre Antiquités orientales AO 8185.jpg
+caption: >-
+  The Zakkur stele, which names Bar-Hadad son of Hazael as leader of the coalition against
+  Hamath, c. 800 BCE (Musée du Louvre, Paris).
+description: Stèle de Zakkur - Musée du Louvre Antiquités orientales AO 8185
+creator: Shonagon
+credit_line: Shonagon
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Shonagon. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:St%C3%A8le_de_Zakkur_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_orientales_AO_8185.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/be/St%C3%A8le_de_Zakkur_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_orientales_AO_8185.jpg
+  sha1: c9c240c23ecf1e25b4966216df9dcfb6f78251c8
+  original_size: [6959, 10734]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1037×1600 px
+size: [1037, 1600]
+depicts: [ben-hadad, zakkur-stele]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

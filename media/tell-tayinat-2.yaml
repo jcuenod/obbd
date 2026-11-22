@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: tell-tayinat-2
+file: tell-tayinat-2.jpg
+title: Iron Age Temple (photo credit Stephen Batiuk).jpg
+caption: The excavated Iron Age temple at Tell Tayinat.
+description: Iron Age Temple from Tell Tayinat
+creator: Tayinat Archaeological Project - credit Stephen Batiuk
+credit_line: Tayinat Archaeological Project
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: >-
+  Tayinat Archaeological Project - credit Stephen Batiuk, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Iron_Age_Temple_(photo_credit_Stephen_Batiuk).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/e/e7/Iron_Age_Temple_%28photo_credit_Stephen_Batiuk%29.jpg
+  sha1: 6e24523187d7638c2e6599f4a197d7f4a678d7d7
+  original_size: [1916, 2152]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1425×1600 px
+size: [1425, 1600]
+depicts: [tell-tayinat]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

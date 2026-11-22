@@ -1,0 +1,85 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ketef-hinnom-amulets
+title: Ketef Hinnom Silver Amulets
+aliases: [Ketef Hinnom scrolls, Silver Scrolls]
+type: artifact
+cultures: [judahite]
+date:
+  from: -625
+  to: -575
+  circa: true
+  display: c. 625–575 BCE
+scope: >-
+  Two tiny rolled silver amulets found in 1979 in a repository of a bench tomb at Ketef Hinnom,
+  Jerusalem, inscribed with forms of the Priestly Blessing and other protective formulas.
+  They are the earliest known artefacts with text that parallels a biblical passage.
+passages:
+- ref: Num 6:24-26
+  rel: parallel
+  note: Shortened forms of the Priestly Blessing
+- ref: Deut 7:9
+  rel: parallel
+  note: God who keeps covenant and steadfast love with those who love him
+- ref: Neh 1:5
+  rel: parallel
+  note: The same covenant-keeping formula in prayer
+- ref: Dan 9:4
+  rel: parallel
+  note: The same covenant-keeping formula in prayer
+- ref: Ps 67:1
+  rel: parallel
+  note: 'Liturgical echo of the blessing: face shining upon us (MT 67:2)'
+- ref: Prov 6:21
+  rel: practice
+  note: Binding protective words around the neck
+- ref: Deut 6:8
+  rel: practice
+  note: Words bound on the body as a sign
+related: [amulets, bench-tombs, apotropaic-doorposts-and-thresholds, kuntillet-ajrud-inscriptions,
+  light-of-the-face, jerusalem]
+location:
+  institution: Israel Museum, Jerusalem
+  accession: null
+media:
+- id: amulets
+  role: gallery
+- id: ketef-hinnom-amulets
+  role: primary
+- id: ketef-hinnom-amulets-2
+  role: gallery
+external:
+  wikipedia: Ketef Hinnom scrolls
+  wikidata: Q107479468
+editorial:
+  author_notes:
+  - >-
+    The 2004 re-edition (Barkay, Vaughn, Lundberg and Zuckerman) with new imaging supports
+    a late 7th to early 6th century date on palaeographic and archaeological grounds. A minority
+    has argued for a later (Persian or Hellenistic) date. Report this fairly.
+  - >-
+    Do not present the amulets as 'the oldest biblical text' or as evidence that Numbers was
+    already written. They show that a blessing formula also found in Numbers circulated in
+    apotropaic use.
+  - >-
+    Discuss the apotropaic phrases (e.g. 'the rebuker of evil') and how the blessing worked
+    as protection for the dead or the living.
+  sources_to_check:
+  - Barkay, Vaughn, Lundberg and Zuckerman, BASOR 334 (2004)
+  - COS 2.83
+  - Dobbs-Allsopp et al., Hebrew Inscriptions (2005)
+  - Smoak, The Priestly Blessing in Inscription and Scripture (2016)
+  image_query: Ketef Hinnom silver scroll Israel Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

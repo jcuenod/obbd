@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: temple-of-artemis-ephesus-2
+file: temple-of-artemis-ephesus-2.jpg
+title: Ephesus, ruins of the Temple of Artemis.jpg
+caption: The site of the Artemision at Ephesus, with a single re-erected column.
+description: Ephesus, ruins of the Temple of Artemis
+creator: Dguendel
+credit_line: Own work
+license:
+  id: CC-BY-3.0
+  name: CC BY 3.0
+  url: https://creativecommons.org/licenses/by/3.0
+attribution: Dguendel, CC BY 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ephesus,_ruins_of_the_Temple_of_Artemis.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/f/f1/Ephesus%2C_ruins_of_the_Temple_of_Artemis.jpg
+  sha1: 436ac693de737d5eb8ed05f71d031b8cf5c294d7
+  original_size: [2657, 1772]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [temple-of-artemis-ephesus]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

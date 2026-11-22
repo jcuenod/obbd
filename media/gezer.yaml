@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: gezer
+file: gezer.jpg
+title: Standing Stones at Gezer (5758789507).jpg
+caption: The Middle Bronze Age row of standing stones at Tel Gezer.
+description: >-
+  These standing stones were excavated at the middle bronze age level of ancient Gezer. Their
+  function and meaning is debated. The two most popular suggestions are that they represent
+  Canaanite deities or that the represent other cities that owed tribute to Gezer. Gezer
+creator: Ian Scott
+credit_line: Standing Stones at Gezer
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: Ian Scott, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Standing_Stones_at_Gezer_(5758789507).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/7e/Standing_Stones_at_Gezer_%285758789507%29.jpg
+  sha1: 81817cc8617cd2bc5797938609bf917547f28208
+  original_size: [2500, 1875]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [gezer, massebot]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: bethel
+file: bethel.jpg
+title: Bethel, 72.Holy land photographed. Daniel B. Shepp. 1894-1.jpg
+caption: >-
+  Ruins at Beitin, the usual identification of Bethel, in a photograph published by Daniel
+  B. Shepp in 1894.
+description: Bethel. From the book Holy land photographed by Daniel B. Shepp. 1894, P.72
+creator: Daniel B. Shepp
+credit_line: This image has been extracted from another file
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Daniel B. Shepp. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Bethel,_72.Holy_land_photographed._Daniel_B._Shepp._1894-1.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/24/Bethel%2C_72.Holy_land_photographed._Daniel_B._Shepp._1894-1.jpg
+  sha1: d0d8f145689e9d7e29518ffc62060c0682922ed4
+  original_size: [5096, 3595]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1128 px
+size: [1600, 1128]
+depicts: [bethel]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

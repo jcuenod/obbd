@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: dialogue-of-a-man-with-his-ba
+file: dialogue-of-a-man-with-his-ba.jpg
+title: Papyrus Berlin 3024 (recto).jpg
+caption: >-
+  Papyrus Berlin 3024, the Middle Kingdom hieratic manuscript of the Dialogue of a Man with
+  His Ba (Ägyptisches Museum und Papyrussammlung, Berlin).
+description: null
+creator: Unknown authorUnknown author
+credit_line: 'Deutsche Digitale Bibliothek : Bild (Lizenzangabe: EDM, EDM, EDM, EDM)'
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Unknown authorUnknown author, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Papyrus_Berlin_3024_(recto).jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/7/79/Papyrus_Berlin_3024_%28recto%29.jpg
+  sha1: f656513b92d1d257585afc700569cef522025069
+  original_size: [2500, 963]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×617 px
+size: [1600, 617]
+depicts: [dialogue-of-a-man-with-his-ba]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

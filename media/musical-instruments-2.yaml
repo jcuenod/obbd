@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: musical-instruments-2
+file: musical-instruments-2.jpg
+title: Musicians tame lion in a garden 118916.jpg
+caption: >-
+  Harp and lyre players in a garden, gypsum relief from the North Palace at Nineveh, reign
+  of Ashurbanipal, c. 645-640 BCE (British Museum).
+description: >-
+  Gypsum wall panel relief: depicting a harpist and lyre player, one a woman wearing a fillet
+  of great beads, the other a youth(?), wearing a feather headdress, with tame lion beneath
+  palms and cypresses. From Nineveh, North Palace, reign of Ashurbanipal, c. 645-640 BC. BM
+  118916.
+creator: Zunkir
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Zunkir, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Musicians_tame_lion_in_a_garden_118916.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/e/ee/Musicians_tame_lion_in_a_garden_118916.jpg
+  sha1: bc9620e441d843aaf6be0f42fe9e79c38aae7a30
+  original_size: [3363, 4583]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1174×1600 px
+size: [1174, 1600]
+depicts: [musical-instruments]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

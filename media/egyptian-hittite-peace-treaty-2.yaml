@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: egyptian-hittite-peace-treaty-2
+file: egyptian-hittite-peace-treaty-2.jpg
+title: Karnak Ägyptisch-Hethitischer Friedensvertrag 06.jpg
+caption: The hieroglyphic version of the treaty on a wall of the temple of Karnak, Luxor.
+description: >-
+  Egyptian-Hethite peace treaty on the western outer wall of the Cachette farm in the temple
+  of Karnak, Luxor, Egypt
+creator: Olaf Tausch
+credit_line: Own work
+license:
+  id: CC-BY-3.0
+  name: CC BY 3.0
+  url: https://creativecommons.org/licenses/by/3.0
+attribution: Olaf Tausch, CC BY 3.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Karnak_%C3%84gyptisch-Hethitischer_Friedensvertrag_06.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/7d/Karnak_%C3%84gyptisch-Hethitischer_Friedensvertrag_06.jpg
+  sha1: 41b74cff36d53d7e5c8405e826774d2d5d7f78f5
+  original_size: [3507, 4676]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1200×1600 px
+size: [1200, 1600]
+depicts: [egyptian-hittite-peace-treaty]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

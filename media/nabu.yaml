@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: nabu
+file: nabu.jpg
+title: Colossal statue of the god Nabu, 8th century BCE, from Nimrud, Iraq Museum.jpg
+caption: >-
+  Colossal statue of the god Nabu from his temple at Nimrud, 8th century BCE (Iraq Museum,
+  Baghdad).
+description: >-
+  Colossal statue of the god Nabu, 8th century BCE. From Nimrud, Mesopotamia, Iraq. It is
+  in the Iraq Museum.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Colossal_statue_of_the_god_Nabu,_8th_century_BCE,_from_Nimrud,_Iraq_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/62/Colossal_statue_of_the_god_Nabu%2C_8th_century_BCE%2C_from_Nimrud%2C_Iraq_Museum.jpg
+  sha1: 1fee4b9c6a0cca1b14101ec6f1d4778c268e009f
+  original_size: [6016, 4016]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1068 px
+size: [1600, 1068]
+depicts: [nabu]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

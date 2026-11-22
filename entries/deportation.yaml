@@ -1,0 +1,81 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: deportation
+title: Assyrian and Babylonian Deportation Policy
+aliases: [Mass deportation, Exile]
+type: practice
+cultures: [assyrian, babylonian]
+scope: >-
+  The Neo-Assyrian and Neo-Babylonian policy of deporting conquered populations: its aims,
+  scale and methods, and the different Assyrian and Babylonian patterns. The entry covers
+  the deportations from Israel and Judah described in Kings, Jeremiah and Ezra, and the evidence
+  for deportee communities.
+passages:
+- ref: 2Kgs 15:29
+  rel: event
+  note: Tiglath-pileser III deports Galilee and Gilead (733–732 BCE)
+- ref: 2Kgs 17:6
+  rel: event
+  note: Israelites settled in Halah, on the Habor, and in the cities of the Medes
+- ref: 2Kgs 17:24
+  rel: practice
+  note: 'Foreign deportees settled in Samaria: two-way Assyrian policy'
+- ref: 2Kgs 18:31-32
+  rel: practice
+  note: 'Rabshakeh promises ''a land like your own'': deportation propaganda'
+- ref: 2Kgs 24:14-16
+  rel: event
+  note: 597 deportation of Jehoiachin, elites and craftsmen
+- ref: 2Kgs 25:11
+  rel: event
+  note: 587/586 deportation after the fall of Jerusalem
+- ref: Jer 52:28-30
+  rel: event
+  note: Numbers of deportees in three deportations
+- ref: Ezra 4:2, 10
+  rel: practice
+  note: Settlers brought by Esarhaddon and Osnappar (Ashurbanipal)
+- ref: Amos 1:5
+  rel: practice
+  note: People of Aram to go into exile to Kir
+- ref: Jer 29:4-7
+  rel: practice
+  note: Exiles to build houses and settle; cf. Al-Yahudu communities
+- ref: Ezek 1:1-3
+  rel: setting
+  note: Among the exiles by the river Chebar
+related: [babylonian-exile, al-yahudu-tablets, fall-of-samaria, sargon-ii-inscriptions, tiglath-pileser-iii-inscriptions,
+  murashu-archive, samaritan-origins, jehoiachin-ration-tablets]
+media:
+- id: deportation
+  role: primary
+external:
+  wikipedia: Resettlement policy of the Neo-Assyrian Empire
+  wikidata: Q55631462
+editorial:
+  author_notes:
+  - >-
+    B. Oded, Mass Deportations and Deportees in the Neo-Assyrian Empire (1979), is the standard
+    study. His overall estimate of deportees should be quoted with appropriate caveats.
+  - >-
+    Contrast the Assyrian two-way exchange of populations with the Babylonian one-way pattern.
+    Cover the debate about the 'empty land' of Judah after 586 (H. Barstad).
+  - >-
+    Sargon II's figures for Samaria (27,280 or 27,290 in different inscriptions) are far lower
+    than the 'ten lost tribes' legend implies. Archaeology indicates continuity of population
+    and southward migration to Judah.
+  - The Al-Yahudu and Murashu texts document rural Judean deportee communities in Babylonia.
+  image_query: Lachish relief deportees
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

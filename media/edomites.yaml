@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: edomites
+file: edomites.jpg
+title: -0650 Edomite Goddess from Horvat Qitmit. Israel Museum, Jerusalem anagoria.jpg
+caption: >-
+  Clay head of a goddess crowned with three horns from the Edomite shrine at Ḥorvat Qitmit,
+  7th–6th century BCE (Israel Museum, Jerusalem).
+description: >-
+  Edomite goddess crowned with three horns. Horvat Qitmit (7th-6th BCE). Israel Museum, Jerusalem.
+  The head was unearthed at an Edomite shrine in the Negev desert. The three horns indicate
+  that it represents a goddess.
+creator: Anagoria
+credit_line: Own work
+license:
+  id: CC-BY-3.0
+  name: CC BY 3.0
+  url: https://creativecommons.org/licenses/by/3.0
+attribution: Anagoria, CC BY 3.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:-0650_Edomite_Goddess_from_Horvat_Qitmit._Israel_Museum,_Jerusalem_anagoria.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/0/08/-0650_Edomite_Goddess_from_Horvat_Qitmit._Israel_Museum%2C_Jerusalem_anagoria.jpg
+  sha1: 2334d7f426b12727498c4ade941a4844c0fae3be
+  original_size: [4234, 5604]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1209×1600 px
+size: [1209, 1600]
+depicts: [edomites, qos]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,92 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: seven-day-patterns
+title: Seven-Day Patterns and the Week
+aliases: [the week, seven-day unit]
+type: concept
+cultures: [ane, ugaritic, mesopotamian]
+scope: >-
+  The literary and ritual use of seven-day units (six days followed by a climactic seventh)
+  in Ugaritic and Mesopotamian literature and in biblical narrative and cult, and the emergence
+  of the continuous seven-day week.
+passages:
+- ref: Gen 1:1-2:3
+  rel: form
+  note: Six days of work and a climactic seventh day
+- ref: Gen 7:4, 10
+  rel: form
+  note: Seven days before the flood
+- ref: Gen 8:10-12
+  rel: parallel
+  note: >-
+    Dove sent out at seven-day intervals; cf. Gilgamesh XI, birds released on the seventh
+    day
+- ref: Exod 24:16
+  rel: form
+  note: Cloud covers Sinai six days; YHWH calls on the seventh
+- ref: Josh 6:3-4, 15
+  rel: form
+  note: Six days' circuit of Jericho, sevenfold on the seventh
+- ref: Exod 29:35-37
+  rel: practice
+  note: Seven-day ordination and altar consecration
+- ref: 1Kgs 8:65-66
+  rel: practice
+  note: Dedication feast of seven days and seven days
+- ref: Lev 23:6, 34-36
+  rel: practice
+  note: Seven-day festivals of Unleavened Bread and Booths
+- ref: Gen 29:27-28
+  rel: practice
+  note: Bride's 'week' (šābûaʿ) of wedding festivities
+- ref: Judg 14:12, 17
+  rel: practice
+  note: Seven-day wedding feast
+- ref: Gen 50:10
+  rel: practice
+  note: Seven days of mourning
+- ref: Job 2:13
+  rel: practice
+  note: Friends sit silent seven days and nights
+- ref: Ezek 3:15-16
+  rel: form
+  note: Prophet sits stunned seven days before the word comes
+related: [sabbath, baal-cycle, gilgamesh-epic, gudea-cylinders, aqhat-epic, kirta-epic, temple-building-accounts,
+  festivals-agricultural]
+media: []
+external:
+  wikipedia: Week
+  wikidata: Q23387
+editorial:
+  author_notes:
+  - >-
+    Ugaritic epic regularly uses a six-plus-one day scheme. Fire burns in Baal's palace six
+    days and is done on the seventh (KTU 1.4 VI 22-33). Danel's incubation and Kirta's march
+    use the same scheme (Loewenstamm, IEJ 15, 1965). In Gilgamesh XI the storm lasts six days
+    and seven nights, and the dove is sent out on the seventh day after grounding.
+  - >-
+    Gudea's dedication of the Eninnu includes seven days of festivity in which "the slave
+    woman was equal to her mistress" (verify passage in Statue B and Cylinder B). This is
+    a frequently cited analogue to the social dimension of Exod 20:10 and Deut 5:14.
+  - >-
+    Distinguish the literary or ritual seven-day unit from the continuous week detached from
+    the lunar month. The latter appears first in Israel. The planetary week is Hellenistic-Roman.
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: clarified Gilgamesh XI comparison in Gen 8:10-12
+    note
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

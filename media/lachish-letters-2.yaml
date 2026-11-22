@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: lachish-letters-2
+file: lachish-letters-2.jpg
+title: Lachish letter No. 3 LOC matpc.00257.jpg
+caption: Lachish Letter 3 in a Matson Collection photograph (Library of Congress).
+description: >-
+  Title: Lachish letter No. 3 Abstract/medium: G. Eric and Edith Matson Photograph Collection
+  Physical description: 1 negative :
+creator: Matson Collection
+credit_line: >-
+  Library of Congress Catalog: https://www.loc.gov/pictures/collection/matpc/item/mpc2004000102/PP
+  Original url: http://hdl.loc.gov/loc.pnp/matpc.00257
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Matson Collection. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Lachish_letter_No._3_LOC_matpc.00257.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/bc/Lachish_letter_No._3_LOC_matpc.00257.jpg
+  sha1: 74c43020d5831015f4c05b36afc40c6bfc3311c6
+  original_size: [3649, 5598]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1043×1600 px
+size: [1043, 1600]
+depicts: [lachish-letters]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,86 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: sacrifice
+title: Sacrifice in the Ancient Near East
+type: practice
+cultures: [ane]
+scope: >-
+  Animal, grain, and liquid offerings across the ancient Near East: types, terminology, procedures,
+  distribution of portions, and theories of meaning. The entry places Israel's sacrificial
+  system (Lev 1-7 and elsewhere) and its prophetic critique within the West Semitic and wider
+  ancient Near Eastern context.
+passages:
+- ref: Lev 1-7
+  rel: practice
+  note: Burnt, grain, well-being, purification, and reparation offerings
+- ref: Gen 8:20-21
+  rel: parallel
+  note: Burnt offerings after the flood; pleasing odour; cf. Gilgamesh XI
+- ref: Exod 20:24
+  rel: practice
+  note: Burnt and well-being offerings on an earthen altar
+- ref: Exod 24:5-8
+  rel: practice
+  note: Covenant sacrifices and blood rite at Sinai
+- ref: 1Sam 2:12-17
+  rel: practice
+  note: Priests' share taken before the fat is burned
+- ref: Lev 17:10-14
+  rel: concept
+  note: Blood prohibition; blood as life given for atonement
+- ref: Ps 50:8-15
+  rel: polemic
+  note: God needs no sacrifices; thanksgiving demanded
+- ref: 1Sam 15:22
+  rel: concept
+  note: Obedience better than sacrifice
+- ref: Hos 6:6
+  rel: concept
+  note: Steadfast love, not sacrifice
+- ref: Amos 5:21-24
+  rel: concept
+  note: Festivals and offerings rejected without justice
+- ref: Ps 51:16-17
+  rel: concept
+  note: Broken spirit as acceptable sacrifice; MT 51:18-19
+related: [marseilles-tariff, care-and-feeding-of-the-gods, altars, ugaritic-texts, child-sacrifice,
+  extispicy, tithes, purity-and-impurity]
+media:
+- id: sacrifice
+  role: primary
+- id: sacrifice-2
+  role: gallery
+external:
+  wikipedia: Animal sacrifice
+  wikidata: Q2142916
+editorial:
+  author_notes:
+  - >-
+    Israel's sacrificial terminology and types (whole burnt offering, well-being/communion
+    offering) correspond more closely to West Semitic practice (Ugaritic šrp and šlmm; Punic
+    kll, šlm kll) than to Mesopotamia. There, sacrifice was mainly a divine meal, and burnt
+    offerings were rare.
+  - >-
+    Present theories of sacrifice (gift, communion, substitution, purification; Robertson
+    Smith, Hubert and Mauss, Girard) as interpretive models. The biblical texts do not offer
+    a single theory.
+  - >-
+    The prophetic critique (Amos 5; Hos 6; Isa 1; Mic 6; Jer 7) is mostly read today as rhetoric
+    of priority, not as rejection of sacrifice as such. Note the debate.
+  - >-
+    Use the terminology carefully. ḥaṭṭāʾt is now often rendered "purification offering",
+    ʾāšām "reparation offering", and šĕlāmîm "well-being" or "communion" offering.
+  image_query: Ashurbanipal libation over dead lions relief
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

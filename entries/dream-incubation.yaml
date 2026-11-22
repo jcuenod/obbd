@@ -1,0 +1,62 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: dream-incubation
+title: Dream Incubation
+aliases: [incubation]
+type: practice
+cultures: [ugaritic, sumerian, hittite, egyptian, greek]
+scope: >-
+  The deliberate seeking of a divine dream, often by sleeping at a sanctuary after ritual
+  preparation. It is attested in Sumerian, Hittite, and Ugaritic texts and later Egyptian
+  and Greek healing sanctuaries, and proposed for several biblical narratives.
+passages:
+- ref: 1Kgs 3:4-15
+  rel: practice
+  note: Solomon sacrifices at Gibeon, then receives a dream revelation
+- ref: 1Sam 3:1-15
+  rel: practice
+  disputed: true
+  note: Samuel sleeping in the temple near the ark receives a revelation
+- ref: Gen 28:10-22
+  rel: practice
+  disputed: true
+  note: Jacob's dream at a sacred place followed by a vow; unsought
+- ref: Gen 46:1-4
+  rel: practice
+  disputed: true
+  note: Sacrifice at Beersheba followed by night visions
+- ref: Isa 65:4
+  rel: practice
+  note: Those who 'sit in tombs and spend the night in secret places'
+related: [dreams-and-dream-interpretation, aqhat-epic, kirta-epic, gudea-cylinders, gibeon,
+  bethel, plague-prayers-of-mursili]
+media: []
+external:
+  wikipedia: Incubation (ritual)
+  wikidata: Q1343260
+editorial:
+  author_notes:
+  - >-
+    The Ugaritic Aqhat epic (Danel's seven-day ritual before El's blessing) and Kirta (weeping
+    and sleeping, then El's appearance) are the closest West Semitic parallels. Gudea's dreams
+    (Cylinder A) and Hittite prayers asking for a dream are also relevant.
+  - >-
+    The term is often applied too loosely. Distinguish deliberate solicitation from unsought
+    dreams at holy places, and mark biblical cases accordingly (only 1 Kgs 3 has a strong
+    claim).
+  - >-
+    Greek Asclepieia and Late Period Egyptian sanatoria (e.g. Saqqara) are later and should
+    not be read back into Iron Age practice.
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

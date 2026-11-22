@@ -1,0 +1,66 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: hittite-elimination-rituals
+title: Hittite and Luwian Elimination Rituals
+type: text
+cultures: [hittite, luwian, hurrian]
+date:
+  from: -1400
+  to: -1200
+  circa: true
+  display: c. 1400–1200 BCE
+scope: >-
+  Hittite-archive rituals, many of Luwian or Hurro-Kizzuwatnean origin, that remove plague,
+  impurity, or evil by transferring it to a carrier (a ram, a ewe, a donkey, a bird, a mouse,
+  or a human substitute) that is driven away to enemy territory or the wild. They are the
+  principal comparanda for the biblical scapegoat and bird rites.
+passages:
+- ref: Lev 16:8-10, 20-22
+  rel: parallel
+  note: Live animal carries evil away to a remote place (Ashella, Uhhamuwa ram rites)
+- ref: Lev 14:4-7, 49-53
+  rel: practice
+  note: Live bird released into the open field to remove impurity
+- ref: Zech 5:5-11
+  rel: concept
+  note: Personified wickedness carried off to a foreign land (Shinar)
+- ref: 1Sam 6:1-12
+  rel: practice
+  disputed: true
+  note: Philistines send plague-related objects away on a driverless cart
+related: [day-of-atonement-elimination, purity-and-impurity, demons, maqlu, sacrifice, hittites-and-hethites]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Key texts: Ashella (CTH 394) and Uhhamuwa (CTH 410), both Arzawan, against army plague;
+    Pulisa (CTH 407) with a human substitute; Kizzuwatna rites with birds. Earlier, a third-millennium
+    Ebla ritual sends a goat to the steppe (Zatelli).
+  - >-
+    Wright (1987) and Janowski and Wilhelm (1993) trace the carrier rite to a north Syrian/south
+    Anatolian milieu. Differences: the Hittite carrier goes to the enemy, the biblical goat
+    to Azazel in the wilderness, and the laying on of hands is not part of the Hittite rites.
+  - >-
+    Avoid presenting Lev 16 as borrowed from a specific Hittite text; the consensus is a shared
+    regional ritual type.
+  sources_to_check:
+  - >-
+    D. P. Wright, The Disposal of Impurity: Elimination Rites in the Bible and in Hittite
+    and Mesopotamian Literature (SBLDS 101, 1987)
+  - >-
+    B. Janowski and G. Wilhelm, 'Der Bock, der die Sünden hinausträgt,' in Religionsgeschichtliche
+    Beziehungen zwischen Kleinasien, Nordsyrien und dem Alten Testament (OBO 129, 1993)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

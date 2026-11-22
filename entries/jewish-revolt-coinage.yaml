@@ -1,0 +1,95 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: jewish-revolt-coinage
+title: Coins of the Jewish Revolts
+aliases: [Shekel of Israel, First Revolt shekel, Bar Kokhba coins]
+type: realia
+cultures: [jewish]
+date:
+  from: 66
+  to: 135
+  display: 66–135 CE
+scope: >-
+  The coins struck by Jewish authorities during the First Revolt (66-70 CE), chiefly silver
+  shekels and half-shekels dated years 1-5 and bronze prutot, and during the Bar Kokhba revolt
+  (132-135 CE), struck over Roman coins. Both series use paleo-Hebrew legends and temple-related
+  imagery as statements of independence. Roman victory coinage is treated under judaea-capta-coins
+  and the Tyrian shekel separately.
+passages:
+- ref: Exod 30:13
+  rel: language
+  note: >-
+    'Half a shekel by the sanctuary shekel'; cf. the legends 'shekel of Israel' and 'half
+    shekel'
+- ref: Exod 30:13-16
+  rel: practice
+  disputed: true
+  note: Revolt shekels perhaps minted for temple dues in place of Tyrian coins
+- ref: Isa 52:1
+  rel: language
+  note: '''Jerusalem, the holy city''; cf. the shekel legend ''Jerusalem the holy'''
+- ref: Lev 23:40
+  rel: realia
+  note: Lulav and etrog of Sukkot on year-four bronzes and Bar Kokhba coins
+- ref: Num 10:2
+  rel: realia
+  note: Silver trumpets, depicted on Bar Kokhba coins
+- ref: Num 24:17
+  rel: concept
+  note: >-
+    'A star out of Jacob' applied to Bar Kosiba; a star above the temple facade on some tetradrachms
+- ref: 1Macc 15:6
+  rel: practice
+  note: The right to mint coins as a mark of sovereignty
+related: [first-jewish-revolt, coinage, tyrian-shekel, judaea-capta-coins, paleo-hebrew-script,
+  herods-temple, masada, messianic-expectations]
+media:
+- id: jewish-revolt-coinage
+  role: primary
+- id: jewish-revolt-coinage-2
+  role: gallery
+external:
+  wikipedia: First Jewish Revolt coinage
+  wikidata: Q5453122
+editorial:
+  author_notes:
+  - >-
+    First Revolt silver: shekels and half-shekels (rare quarters) of high-quality silver,
+    dated year 1 to year 5 (the year-5 issue is very rare). They have a chalice with 'shekel
+    of Israel' and a stem with three pomegranates with 'Jerusalem the holy'. They were probably
+    minted in Jerusalem under temple authority. Whether the chalice and pomegranates refer
+    to temple vessels or Aaron's rod is speculative.
+  - >-
+    First Revolt bronzes: year 2-3 prutot with amphora and vine leaf and the legend 'freedom
+    of Zion' (ḥērût ṣîyôn). The larger year-4 bronzes have lulav and etrog and the legend
+    'for the redemption of Zion'.
+  - >-
+    Bar Kokhba coins were struck over Roman denarii and tetradrachms. Legends include 'Simon',
+    'Simon prince of Israel', 'Eleazar the priest', 'year one of the redemption of Israel'
+    and 'for the freedom of Jerusalem'. Types include a temple facade (with an object inside
+    variously read as the ark or the showbread table), lulav, trumpets, lyres and jugs. See
+    Mildenberg.
+  - >-
+    The paleo-Hebrew script was by then an archaizing national symbol, already used on Hasmonean
+    coins. Mention that forgeries of revolt coins are common on the market.
+  - >-
+    Link to judaea-capta-coins for the Roman answer to these claims of freedom, and to tyrian-shekel
+    for the temple-tax standard they replaced.
+  sources_to_check:
+  - Y. Meshorer, A Treasury of Jewish Coins (2001)
+  - D. Hendin, Guide to Biblical Coins (5th ed., 2010)
+  - L. Mildenberg, The Coinage of the Bar Kokhba War (1984)
+  image_query: First Jewish Revolt shekel year 2
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

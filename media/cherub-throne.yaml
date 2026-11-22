@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: cherub-throne
+file: cherub-throne.jpg
+title: Ruler's victory and banquet scenes on a Canaanite ivory from Megiddo.jpg
+caption: >-
+  Canaanite ivory plaque from Megiddo showing a ruler's victory and a banquet, the ruler seated
+  on a sphinx-flanked throne, 1350–1150 BCE.
+description: >-
+  A Canaanite ivory inlay plaque, discovered at Megiddo and dates to 1350–1150 BCE (Late Bronze
+  Age). Both the scenes and the design are influenced by Egyptian art. The plaque is a fragment
+  of a larger work that didn't completely survive. The surviving fragment depicts parts of
+  two scenes. On the right, a victorious ruler returns from battle, riding in his chariot.
+  Above him is a winged sun disk—a symbol of divine blessing. Two naked prisoners of war,
+  bound in chains, walk ahead of the chariot, preceded by a warrior leading the procession.
+  The second scene, on the left, depicts a banquet—probabl
+creator: Unknown authorUnknown author
+credit_line: https://www.imj.org.il/node/756
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Unknown authorUnknown author. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Ruler%27s_victory_and_banquet_scenes_on_a_Canaanite_ivory_from_Megiddo.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/f/f8/Ruler%27s_victory_and_banquet_scenes_on_a_Canaanite_ivory_from_Megiddo.jpg
+  sha1: 53498cfa8d819015552912873fa5284ac151f8cc
+  original_size: [1920, 1080]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×900 px
+size: [1600, 900]
+depicts: [cherub-throne]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

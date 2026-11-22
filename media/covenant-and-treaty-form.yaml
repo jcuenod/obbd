@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: covenant-and-treaty-form
+file: covenant-and-treaty-form.jpg
+title: Aleppo treaty - Hittites.jpg
+caption: >-
+  Akkadian treaty between Muwattalli II of Hatti and Talmi-Sharruma of Aleppo, clay tablet
+  from Hattusa (Boğazköy), c. 1300 BCE.
+description: >-
+  Tablet : treaty between Muwattalli II king of Hatti and Talmi-sharruma king of Aleppo, written
+  in akkadian. Found in Bogazkoi, ancient Hattusa, dated c. 1300 BC. CTH 75. Ref museum :
+  ME 140856.
+creator: Zunkir
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Zunkir, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Aleppo_treaty_-_Hittites.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/9/90/Aleppo_treaty_-_Hittites.jpg
+  sha1: 980b3ceb6e5a401d3536f41edcc30c82e8eb18be
+  original_size: [2176, 2816]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1236×1600 px
+size: [1236, 1600]
+depicts: [covenant-and-treaty-form, hittite-vassal-treaties]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

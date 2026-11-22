@@ -1,0 +1,75 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: name-theology
+title: Name Theology ("to Place His Name There")
+aliases: [Shem theology, to place his name there]
+type: concept
+cultures: [hebrew, canaanite, mesopotamian]
+scope: >-
+  The Deuteronomic and Deuteronomistic formulas by which YHWH chooses a place "to put his
+  name there" or "to make his name dwell there", their relation to Akkadian šuma šakānu, and
+  the debate over whether they express an abstract theology of divine presence or a claim
+  of ownership.
+passages:
+- ref: Deut 12:5
+  rel: language
+  note: The place YHWH will choose 'to put his name there' (lāśûm šĕmô šām)
+- ref: Deut 12:11
+  rel: language
+  note: '''To make his name dwell there'' (lĕšakkēn šĕmô šām)'
+- ref: Deut 14:23-24
+  rel: language
+  note: Tithes eaten at the place chosen 'to make his name dwell'
+- ref: Deut 16:2, 6, 11
+  rel: language
+  note: Passover and Weeks at the place of the name
+- ref: Exod 20:24
+  rel: concept
+  note: '''In every place where I cause my name to be remembered'''
+- ref: 2Sam 7:13
+  rel: concept
+  note: A house 'for my name'
+- ref: 1Kgs 8:16, 29
+  rel: concept
+  note: Temple as the place where 'my name shall be', God hearing from heaven
+- ref: 1Kgs 9:3
+  rel: concept
+  note: '''Putting my name there forever'''
+- ref: 2Kgs 21:4, 7
+  rel: concept
+  note: Manasseh's altars and Asherah image in the house of the name
+- ref: Jer 7:12
+  rel: concept
+  note: Shiloh, 'where I made my name dwell at first'
+related: [amarna-letters, cult-reforms-archaeology, josiah, temple-building-accounts, aniconism,
+  shiloh, jerusalem]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Abdi-Heba of Jerusalem writes that the king "has placed his name in the land of Jerusalem
+    forever" (EA 287:60-63; cf. EA 288). This is the classic Akkadian parallel to šuma šakānu,
+    a phrase also used of inscribed monuments claiming territory or a building.
+  - >-
+    The older view (von Rad; Weinfeld; Mettinger) reads Name theology as a deliberate "demythologizing"
+    correction of the idea that YHWH dwells physically in the temple. Richter, The Deuteronomistic
+    History and the Name Theology (BZAW 318, 2002), argues that the idiom is a formula of
+    ownership and conquest. Present both. Wilson, Out of the Midst of the Fire (1995), also
+    challenges the abstraction thesis.
+  - >-
+    Connect the formula to centralization (Deut 12) and to the question of whether "the place"
+    meant a single sanctuary from the start.
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

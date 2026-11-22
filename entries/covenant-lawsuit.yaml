@@ -1,0 +1,70 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: covenant-lawsuit
+title: Covenant Lawsuit (rîb)
+aliases: [Rib pattern, Prophetic lawsuit]
+type: concept
+cultures: [hebrew, hittite]
+scope: >-
+  The prophetic speech pattern in which YHWH brings a legal case (rîb) against Israel, often
+  summoning heaven and earth or the mountains as witnesses. The entry covers the form-critical
+  hypothesis of a 'covenant lawsuit' grounded in treaty procedure and the criticism of that
+  hypothesis.
+passages:
+- ref: Deut 32:1
+  rel: form
+  note: Heaven and earth summoned to hear
+- ref: Isa 1:2-3
+  rel: form
+  note: '''Hear, O heavens, listen, O earth'': indictment of rebellious children'
+- ref: Isa 1:18-20
+  rel: form
+  note: '''Come now, let us argue it out'''
+- ref: Isa 3:13-15
+  rel: form
+  note: YHWH rises to argue his case against elders and princes
+- ref: Jer 2:4-13
+  rel: form
+  note: '''What wrong did your ancestors find in me?''; heavens appalled'
+- ref: Hos 4:1-3
+  rel: form
+  note: YHWH has an indictment (rîb) against the inhabitants of the land
+- ref: Mic 6:1-8
+  rel: form
+  note: Mountains as witnesses; recital of saving acts; 'what does the LORD require?'
+- ref: Ps 50
+  rel: form
+  note: God summons heaven and earth to judge his people
+- ref: Isa 43:8-13
+  rel: form
+  note: Trial speech against the nations and their gods; Israel as witness
+related: [covenant-and-treaty-form, blessings-and-curses, divine-council, courts-and-legal-procedure,
+  hittite-vassal-treaties, prophecy-in-the-ane]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Classic form-critical studies: H. B. Huffmon, 'The Covenant Lawsuit in the Prophets',
+    JBL 78 (1959); J. Harvey on the 'plaidoyer prophétique'. They link the summons of heaven
+    and earth to the divine witness lists of treaties.
+  - >-
+    Critique: M. de Roche, 'Yahweh's rîb against Israel', JBL 102 (1983), argues that rîb
+    denotes a dispute, not necessarily a court lawsuit, and that a fixed 'covenant lawsuit'
+    genre is doubtful. Many now speak of a rîb pattern or metaphor.
+  - >-
+    Distinguish YHWH's disputes with Israel from Deutero-Isaiah's trial speeches against the
+    nations and their gods.
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

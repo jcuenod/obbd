@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: paleo-hebrew-script
+file: paleo-hebrew-script.jpg
+title: 11QpaleoLev - Qumran Cave 11.jpg
+caption: Detail of the Paleo-Hebrew Leviticus scroll (11QpaleoLev) from Qumran Cave 11.
+description: >-
+  Close-up of paleo-Hebrew Leviticus scroll, now at the Israel Antiquities Authority in Jerusalem
+creator: Shai Halevi on behalf of the Israel Antiquities Authority
+credit_line: >-
+  Enlargement of image at Wikimedia-Commons https://upload.wikimedia.org/wikipedia/commons/a/a4/1039-1_for_screen.jpg
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: >-
+  Shai Halevi on behalf of the Israel Antiquities Authority, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:11QpaleoLev_-_Qumran_Cave_11.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/0/08/11QpaleoLev_-_Qumran_Cave_11.jpg
+  sha1: 67fa8643a67d7f18237037432d92c0cdbe23f2f2
+  original_size: [1334, 585]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1334, 585]
+depicts: [paleo-hebrew-script]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

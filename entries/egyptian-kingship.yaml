@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: egyptian-kingship
+title: Egyptian Divine Kingship
+aliases: [Pharaonic kingship, Divine kingship in Egypt]
+type: concept
+cultures: [egyptian]
+scope: >-
+  The ideology of Egyptian kingship. The pharaoh was the incarnation of Horus, son of Re,
+  guarantor of maat, sole mediator between gods and people, and victor over chaos and foreign
+  enemies. The entry covers its expression in titulary, iconography, and ritual, and its influence
+  on and contrast with Israelite royal ideology.
+passages:
+- ref: Ps 2:7
+  rel: concept
+  note: 'Divine sonship of the king: ''You are my son; today I have begotten you'''
+- ref: Ps 110:1-4
+  rel: concept
+  note: King enthroned at the deity's right hand; priest-king
+- ref: Isa 9:6
+  rel: form
+  disputed: true
+  note: Throne names compared with the Egyptian royal titulary; MT 9:5
+- ref: 2Kgs 11:12
+  rel: practice
+  disputed: true
+  note: Coronation with crown and 'testimony' (ʿēdût), likened to an Egyptian royal protocol
+- ref: Ezek 29:3
+  rel: polemic
+  note: Pharaoh claims 'My Nile is my own; I made it for myself'
+- ref: Ezek 32:2
+  rel: imagery
+  note: Pharaoh as lion and sea-dragon
+- ref: Exod 5:2
+  rel: polemic
+  note: 'Pharaoh: ''Who is the LORD, that I should heed him?'''
+related: [king-as-son-of-god, royal-ideology, maat, narmer-palette, mighty-hand-outstretched-arm,
+  ramesses-ii, ten-plagues-and-egyptian-gods]
+media:
+- id: egyptian-kingship
+  role: primary
+external:
+  wikipedia: Pharaoh
+  wikidata: Q37110
+editorial:
+  author_notes:
+  - >-
+    Scholars debate in what sense pharaoh was "divine" (the office versus the person; Posener,
+    Frankfort, and later nuancing). Avoid simplistic "god-king" language.
+  - >-
+    Israelite royal sonship (Ps 2; 2 Sam 7:14) is usually read as adoptive, unlike Egyptian
+    physical-mythological sonship. Whether the closest background is Egyptian or Neo-Assyrian
+    is debated.
+  - >-
+    Von Rad's "royal protocol" (ʿēdût = Egyptian nḫbt) and Alt's linking of Isa 9:6 with the
+    fivefold titulary are classic proposals that remain contested. Hence they are marked as
+    disputed.
+  - >-
+    Biblical depictions of pharaoh (Exodus; Ezek 29-32) are polemical portraits, drawn in
+    part from Egyptian royal self-presentation.
+  sources_to_check:
+  - Frankfort, Kingship and the Gods (1948)
+  - O'Connor and Silverman (eds.), Ancient Egyptian Kingship (1995)
+  - von Rad, 'Das judäische Königsritual', TLZ 72 (1947)
+  image_query: Khafre enthroned statue Horus falcon Egyptian Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

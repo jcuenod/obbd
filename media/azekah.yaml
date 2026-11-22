@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: azekah
+file: azekah.jpg
+title: TEL AZEKA A.jpg
+caption: Tel ʿAzeqa (Azekah) above the Elah Valley in the Shephelah.
+description: >-
+  This is a photo of a place that is recognized as a heritage site by the Council for Conservation
+  of Heritage Sites in Israel.The site's ID in Wiki Loves Monuments photographic competition
+  is
+creator: AVRAMGR
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: AVRAMGR, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:TEL_AZEKA_A.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/b/ba/TEL_AZEKA_A.jpg
+  sha1: fe148f14aa793bac72c9996e9caf7944699ddff6
+  original_size: [4500, 3000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [azekah]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

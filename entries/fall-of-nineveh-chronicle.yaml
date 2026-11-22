@@ -1,0 +1,58 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: fall-of-nineveh-chronicle
+title: Fall of Nineveh Chronicle
+aliases: [ABC 3, Gadd Chronicle]
+type: artifact
+cultures: [babylonian]
+scope: >-
+  The Babylonian chronicle tablet covering Nabopolassar's years 10-17 (616-609 BCE). It records
+  the capture of Nineveh by the Babylonians and Medes in 612, the Assyrian rump state at Harran,
+  and the Egyptian intervention on Assyria's side in 609.
+passages:
+- ref: Nah 2:1-3:19
+  rel: event
+  note: Oracle on Nineveh's fall, which the chronicle dates to 612 (MT 2:2-3:19)
+- ref: Zeph 2:13-15
+  rel: event
+  note: Prophecy that Nineveh will become a desolation
+- ref: 2Kgs 23:29
+  rel: event
+  note: Necho marches 'to the king of Assyria' (to aid him) in 609; Josiah killed
+related: [nineveh, babylonian-chronicles, josiah, necho-ii, medes, assyria, harran]
+location:
+  institution: British Museum, London
+  accession: null
+media:
+- id: fall-of-nineveh-chronicle
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Published by C. J. Gadd (1923). Nineveh fell in the month Abu (July-August) 612 to Nabopolassar
+    and the Median king (Umakištar/Cyaxares); Assur-uballiṭ II continued at Harran until 610/609.
+  - >-
+    The chronicle clarifies 2 Kgs 23:29: Necho went to help Assyria, not to fight it (contrast
+    older translations' 'against').
+  - >-
+    The chronicle says nothing of a flood breaching Nineveh's walls (Diodorus); be cautious
+    about reading Nah 2:6 as eyewitness detail.
+  - The date of Nahum relative to 612 is debated.
+  sources_to_check:
+  - A. K. Grayson, Assyrian and Babylonian Chronicles (1975), Chronicle 3
+  - C. J. Gadd, The Fall of Nineveh (1923)
+  image_query: Fall of Nineveh Chronicle British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

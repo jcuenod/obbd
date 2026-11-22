@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: avaris
+file: avaris.jpg
+title: Tell el-Daba.jpg
+caption: >-
+  A small mound at Tell el-Dabʿa (Avaris) in the eastern Nile Delta, excavated by the Austrian
+  Archaeological Institute.
+description: >-
+  Kleiner Tell bei Tell el-Dab'a / Auaris; Ausgrabung des Österreichischen Archäologischen
+  Institut; mit modernem Friedhof; im Hintergrund links der moderne Ort 'Ezbet Rushdi
+creator: Didia
+credit_line: Own work (David Schmid)
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Didia, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tell_el-Daba.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/0/05/Tell_el-Daba.jpg
+  sha1: aa2d0c1d77e47682ce2f00b5974fc4d5deeb8a9e
+  original_size: [1000, 673]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1000, 673]
+depicts: [avaris]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

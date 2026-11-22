@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: shechem-2
+file: shechem-2.jpg
+title: >-
+  Amarna letter. Letter from Labayu (ruler of Shechem) to the Egyptian Pharaoh Amenhotep III
+  or his son Akhenaten. 14th century BCE. From Tell el-Amarna, Egypt. British Museum.jpg
+caption: >-
+  Amarna letter from Labayu, ruler of Shechem, to the pharaoh, 14th century BCE (British Museum,
+  London).
+description: >-
+  Amarna letter. Letter from Labayu (ruler of Shechem) to the Egyptian Pharaoh Amenhotep III
+  or his son Akhenaten. Labayu denies accusation of treachery and failure to comply with the
+  pharaoh's orders; he justifies his capture of a certain town by quoting a proverb "When
+  an ant is struck, does not fight back and bite the hand of the man that struck it?" It is
+  significant that Labayu, the leader of the Hapiru, is seen as the ruler of Shechem, a city
+  which lay in the heart of the hill country, and which must have served as the power base
+  for the Hapiru. Akkadian cuneiform text. 14th century BCE. F
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Amarna_letter._Letter_from_Labayu_(ruler_of_Shechem)_to_the_Egyptian_Pharaoh_Amenhotep_III_or_his_son_Akhenaten._14th_century_BCE._From_Tell_el-Amarna,_Egypt._British_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/15/Amarna_letter._Letter_from_Labayu_%28ruler_of_Shechem%29_to_the_Egyptian_Pharaoh_Amenhotep_III_or_his_son_Akhenaten._14th_century_BCE._From_Tell_el-Amarna%2C_Egypt._British_Museum.jpg
+  sha1: ccf019853ed874d67b1a0c0c45b8271c976f3353
+  original_size: [2792, 2649]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1518 px
+size: [1600, 1518]
+depicts: [amarna-letters, shechem]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

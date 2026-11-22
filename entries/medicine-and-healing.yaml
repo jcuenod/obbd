@@ -1,0 +1,100 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: medicine-and-healing
+title: Medicine, Physicians, and Healing
+aliases: [Physicians, Healing, Disease, Asû, Āšipu]
+type: practice
+cultures: [hebrew, mesopotamian, egyptian, greek, jewish]
+scope: >-
+  Illness and its treatment in the ancient Near East and the Greco-Roman world, and in biblical
+  texts: the Mesopotamian asû (physician) and āšipu (exorcist), Egyptian medical papyri, Greek
+  medicine and healing cults, and biblical attitudes to physicians, remedies and divine healing.
+  Skin disease and purity rules, demons and amulets are treated in their own entries.
+passages:
+- ref: Exod 15:26
+  rel: concept
+  note: '''I am YHWH who heals you''; obedience keeps away the diseases of Egypt'
+- ref: Exod 21:18-19
+  rel: practice
+  note: An assailant pays for the victim's lost time and his full healing
+- ref: Gen 50:2
+  rel: practice
+  note: Joseph's physicians (rōpĕʾîm) embalm Jacob
+- ref: 2Kgs 1:2
+  rel: practice
+  note: Ahaziah sends to Baal-zebub of Ekron to ask whether he will recover
+- ref: 2Kgs 20:7
+  rel: practice
+  note: A fig poultice applied to Hezekiah's boil
+- ref: 2Chr 16:12
+  rel: concept
+  note: Asa seeks physicians rather than YHWH in his illness
+- ref: Isa 1:6
+  rel: realia
+  note: Wounds not drained, bound up or softened with oil
+- ref: Jer 8:22
+  rel: imagery
+  note: '''Is there no balm in Gilead? Is there no physician there?'''
+- ref: Jer 46:11
+  rel: imagery
+  note: Egypt's many medicines are in vain
+- ref: Sir 38:1-15
+  rel: concept
+  note: Honour the physician; God created medicines from the earth
+- ref: Tob 2:10; 11:7-13
+  rel: practice
+  note: Physicians' ointments fail; Tobit's eyes healed with fish gall
+- ref: Mark 5:25-26
+  rel: practice
+  note: A woman who had suffered much under many physicians
+- ref: Luke 10:34
+  rel: practice
+  note: Oil and wine poured on wounds and bandaged
+related: [magic-and-sorcery, lamashtu-pazuzu-amulets, demons, amulets, purity-and-impurity,
+  baal-zebub, ludlul-bel-nemeqi, hezekiah]
+media:
+- id: medicine-and-healing
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Mesopotamia: the asû (who worked mainly with drugs and bandages) and the āšipu (who worked
+    mainly with incantation and diagnosis) overlapped. Avoid a 'rational versus magical' contrast.
+    Mention the Diagnostic Handbook (Sakikkû) and Hammurabi §§215-223 on surgeons' fees and
+    liabilities. Exod 21:19 has close parallels in Hammurabi §206 and Hittite Laws §10, which
+    both require payment of the physician.
+  - >-
+    Egypt: the Ebers and Edwin Smith papyri, and the reputation of Egyptian physicians abroad
+    (Herodotus 2.84; Jer 46:11). The physicians of Gen 50:2 embalm rather than treat.
+  - >-
+    There is little evidence of professional physicians in Israel before the Hellenistic period.
+    Prophets act as healers (1 Kgs 17; 2 Kgs 4-5; 2 Kgs 20). 2 Chr 16:12 criticizes reliance
+    on physicians instead of YHWH, perhaps because healing was bound up with other gods. Sir
+    38:1-15 reconciles physician and prayer. Present the development and its debates.
+  - >-
+    Avoid retrospective diagnosis. Ṣāraʿat is not Hansen's disease (leprosy), and 'fig poultice'
+    should not be turned into modern pharmacology. Ugaritic horse-medicine texts also prescribe
+    pressed figs; verify before citing.
+  - >-
+    Greco-Roman setting of the NT: Asclepius sanctuaries (Epidaurus, Pergamon, Corinth), Hippocratic
+    medicine, and the image of Luke as 'the beloved physician' (Col 4:14).
+  sources_to_check:
+  - H. Avalos, Illness and Health Care in the Ancient Near East (HSM 54, 1995)
+  - J. Scurlock and B. R. Andersen, Diagnoses in Assyrian and Babylonian Medicine (2005)
+  - J. F. Nunn, Ancient Egyptian Medicine (1996)
+  - 'M. J. Geller, Ancient Babylonian Medicine: Theory and Practice (2010)'
+  image_query: Edwin Smith Papyrus
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

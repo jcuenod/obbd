@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: lmlk-seal-impressions
+file: lmlk-seal-impressions.jpg
+title: LMLK seal (Hebron). Israel Museum, Jerusalem.JPG
+caption: >-
+  LMLK stamp impression on a storage-jar handle reading 'belonging to the king, Hebron', from
+  Lachish, late 8th century BCE (Israel Museum, Jerusalem).
+description: >-
+  LMLK seal : handle of storage jar with "belonging to the king, Hebron" (Lakish, late 8th
+  BCE). Israel Museum, Jerusalem
+creator: Chamberi
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Chamberi, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:LMLK_seal_(Hebron)._Israel_Museum,_Jerusalem.JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/7d/LMLK_seal_%28Hebron%29._Israel_Museum%2C_Jerusalem.JPG
+  sha1: b8dedb722c1b3f446785c8f54380c6a76e593667
+  original_size: [4000, 3000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [lmlk-seal-impressions]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: enmeduranki-and-the-apkallu
+title: Antediluvian Sages (Apkallu) and Enmeduranki
+aliases: [Apkallū, Seven Sages, Enmeduranna]
+type: concept
+cultures: [babylonian, mesopotamian]
+scope: >-
+  The Mesopotamian traditions of the seven antediluvian sages (apkallū) who brought the arts
+  of civilisation to humankind, and of Enmeduranki, the antediluvian king of Sippar to whom
+  the gods revealed the secrets of divination. These form the main background proposed for
+  the figure of Enoch and for the Watchers' teaching in 1 Enoch.
+passages:
+- ref: Gen 5:21-24
+  rel: parallel
+  note: >-
+    Seventh antediluvian who 'walked with God'; Enmeduranki, seventh king, admitted to divine
+    secrets
+- ref: Gen 4:17-22
+  rel: concept
+  note: >-
+    Antediluvian culture-bringers (city, herding, music, metalwork); cf. the sages' civilising
+    role
+- ref: Gen 6:1-4
+  rel: concept
+  disputed: true
+  note: Mighty men of old; post-flood apkallū of partly divine descent
+- ref: 1En 6:1-8:4
+  rel: parallel
+  note: 'Watchers teach forbidden arts: metallurgy, cosmetics, spells, astrology'
+- ref: 1En 72-82
+  rel: concept
+  note: Enoch receives celestial and calendrical knowledge, cf. Enmeduranki's divinatory lore
+- ref: Jub 4:17-19
+  rel: concept
+  note: Enoch first to learn writing and record the signs of heaven
+related: [apkallu-reliefs, adapa, sumerian-king-list, first-enoch, nephilim, divination, extispicy]
+media: []
+external:
+  wikipedia: Apkallu
+  wikidata: Q6813564
+editorial:
+  author_notes:
+  - >-
+    Key sources: Lambert's edition of the Enmeduranki text (JCS 21, 1967); the Bīt mēseri
+    incantation series listing the sages, including Utuabzu 'who ascended to heaven' (Borger
+    1974); the Seleucid 'Uruk List of Kings and Sages'; and Berossus on Oannes and the sages.
+  - >-
+    The Enoch-Enmeduranki/Utuabzu connection is widely accepted (VanderKam, Kvanvig) as reflecting
+    Judean contact with Babylonian scholarly lore in the exilic to Hellenistic periods; specifics
+    of transmission are debated.
+  - >-
+    The sages' role is positive in Mesopotamia, while 1 Enoch makes the Watchers' teaching
+    illicit; this inversion is often read as polemic (Kvanvig; Annus).
+  sources_to_check:
+  - 'W. G. Lambert, ''Enmeduranki and Related Matters,'' JCS 21 (1967): 126-138'
+  - >-
+    R. Borger, 'Die Beschwörungsserie Bīt mēseri und die Himmelfahrt Henochs,' JNES 33 (1974):
+    183-196
+  - J. C. VanderKam, Enoch and the Growth of an Apocalyptic Tradition (CBQMS 16, 1984)
+  - H. S. Kvanvig, Roots of Apocalyptic (WMANT 61, 1988)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

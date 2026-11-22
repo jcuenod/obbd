@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: temple-of-artemis-ephesus-3
+file: temple-of-artemis-ephesus-3.jpg
+title: The Artemis of Ephesus.jpg
+caption: >-
+  Statue of Artemis of Ephesus, marble, 2nd century CE (Ephesus Archaeological Museum, Selçuk).
+description: The Artemis of Ephesus, 2nd century AD (Ephesus Archaeological Museum)
+creator: Blcksprt
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Blcksprt, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:The_Artemis_of_Ephesus.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/d/de/The_Artemis_of_Ephesus.jpg
+  sha1: fe6db06a76ae914bec6810d404f81fe637740093
+  original_size: [3456, 5184]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1067×1600 px
+size: [1067, 1600]
+depicts: [temple-of-artemis-ephesus]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

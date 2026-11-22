@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ostraca
+title: Ostraca
+aliases: [Ostracon, Inscribed potsherds]
+type: realia
+cultures: [judahite, israelite, aramean, hebrew]
+scope: >-
+  Inscribed potsherds, the commonest surviving medium of everyday writing in the Iron Age
+  and Persian-period Levant: letters, receipts, lists and exercises. This general entry covers
+  the medium and the main corpora. Individual ostraca have their own entries.
+passages:
+- ref: Job 2:8
+  rel: realia
+  note: Job takes a potsherd (ḥereś) to scrape himself
+- ref: Isa 30:14
+  rel: realia
+  note: A vessel smashed so that no sherd remains to carry fire or water
+- ref: Isa 45:9
+  rel: imagery
+  note: '''A potsherd among potsherds'''
+- ref: Ps 22:15
+  rel: imagery
+  note: Strength dried up like a potsherd (MT 22:16)
+- ref: Jer 34:7
+  rel: setting
+  note: Lachish and Azekah the last fortified cities; cf. Lachish ostracon 4
+- ref: Jer 38:4
+  rel: language
+  note: '''Weakening the hands'' of soldiers: the same idiom in Lachish ostracon 6'
+- ref: Exod 22:26-27
+  rel: practice
+  note: Garment pledge returned; cf. the Meṣad Ḥashavyahu petition (MT 22:25-26)
+related: [lachish-letters, arad-ostraca, samaria-ostraca, mesad-hashavyahu-ostracon, tell-qasile-ostracon,
+  khirbet-qeiyafa, writing-materials, pottery-and-potters]
+media:
+- id: ostraca
+  role: primary
+external:
+  wikipedia: Ostracon
+  wikidata: Q834459
+editorial:
+  author_notes:
+  - >-
+    Ostraca (ink or incised texts on sherds) were a cheap medium for short texts. They survive
+    far better than papyrus, which skews the evidence toward administrative and military writing.
+  - >-
+    Major Hebrew corpora: Samaria (8th c.), Meṣad Ḥashavyahu (late 7th c.), Arad (Elyashib
+    archive, c. 600), Lachish (c. 588), Horvat ʿUza. Aramaic: Elephantine and Idumean (4th
+    c.).
+  - >-
+    Multispectral imaging has recovered previously unseen text (e.g. Arad 16 verso), so cite
+    up-to-date editions.
+  sources_to_check:
+  - >-
+    F. W. Dobbs-Allsopp et al., Hebrew Inscriptions: Texts from the Biblical Period of the
+    Monarchy (2005)
+  - >-
+    S. Aḥituv, Echoes from the Past: Hebrew and Cognate Inscriptions from the Biblical Period
+    (2008)
+  image_query: Arad ostracon Eliashib
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

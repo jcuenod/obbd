@@ -1,0 +1,90 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: community-rule
+title: Community Rule (1QS)
+aliases: [1QS, Serekh ha-Yaḥad, Manual of Discipline]
+type: artifact
+cultures: [jewish]
+date:
+  from: -100
+  to: -75
+  circa: true
+  display: c. 100–75 BCE
+scope: >-
+  The Rule of the Community (Serekh ha-Yaḥad) from Qumran Cave 1 (1QS), with further copies
+  from Cave 4 (4QS). It sets out admission, covenant renewal, the Treatise on the Two Spirits,
+  communal discipline, and penal codes. The date given is that of the 1QS copy; the work itself
+  was composed and revised earlier.
+passages:
+- ref: Isa 40:3
+  rel: concept
+  note: Separation to the wilderness to prepare the way by studying Torah (1QS 8:13-16)
+- ref: Mark 1:2-4
+  rel: parallel
+  note: John the Baptist's wilderness mission framed by Isa 40:3
+- ref: Acts 2:44-45; 4:32-35
+  rel: practice
+  note: Shared property; cf. the yaḥad's pooling of goods (1QS 1:11-13; 6:19-22)
+- ref: Matt 18:15-17
+  rel: practice
+  note: Graded reproof before witnesses and the assembly (1QS 5:24-6:1)
+- ref: Lev 19:17-18
+  rel: practice
+  note: Duty of reproof, the scriptural basis of the Qumran procedure
+- ref: Num 6:24-26
+  rel: form
+  note: Priestly blessing expanded in the covenant ceremony (1QS 2:2-4)
+- ref: Deut 27:14-26
+  rel: form
+  note: Levitical curses as a model for the covenant ceremony (1QS 1:16-2:18)
+- ref: Deut 18:15-18
+  rel: concept
+  note: Awaited prophet alongside the messiahs of Aaron and Israel (1QS 9:11)
+- ref: 1Thess 5:5
+  rel: language
+  note: '''Children of light''; cf. ''sons of light'' (1QS 1:9; 3:13)'
+related: [dead-sea-scrolls, qumran, jewish-sects, messianic-expectations, war-scroll, zoroastrianism,
+  blessings-and-curses]
+location:
+  institution: Israel Museum, Jerusalem (Shrine of the Book)
+  accession: null
+media: []
+external:
+  wikipedia: Community Rule
+  wikidata: Q1500579
+editorial:
+  author_notes:
+  - >-
+    Discuss the redactional history revealed by the shorter Cave 4 copies (e.g. 4QSᵇ,ᵈ). Present
+    the debate over whether the 1QS or 4QS forms are earlier (Metso, Alexander).
+  - >-
+    The same scroll contains the Rule of the Congregation (1QSa) and the Blessings (1QSb).
+    Compare the Damascus Document, which addresses a different, family-based form of community
+    life.
+  - >-
+    The match with Josephus's and Philo's Essenes underpins the Essene hypothesis. Note both
+    the agreements and the differences.
+  - >-
+    Treat the NT parallels as comparative, not as evidence of dependence. Links between John
+    the Baptist and Qumran are speculative.
+  sources_to_check:
+  - >-
+    P. S. Alexander and G. Vermes, Qumran Cave 4.XIX: Serekh ha-Yaḥad and Two Related Texts
+    (DJD XXVI, 1998)
+  - >-
+    J. H. Charlesworth (ed.), The Dead Sea Scrolls: Hebrew, Aramaic, and Greek Texts with
+    English Translations, vol. 1: Rule of the Community and Related Documents (1994)
+  image_query: Community Rule scroll 1QS
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

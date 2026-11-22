@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: cult-images
+file: cult-images.jpg
+title: Nimrud Central Palace - removal of enemy gods.jpg
+caption: >-
+  Assyrian soldiers carrying away the statues of gods captured from a conquered city, wall
+  panel from the Central Palace at Nimrud.
+description: >-
+  Wall panel from Central Palace, Nimrud, showing Assyrian soldiers carrying away statues
+  of gods captured from a defeated enemy. The writing above describes the resettlement of
+  prisoners after the Assyrian campaign of 745 BC.
+creator: Zunkir
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Zunkir, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Nimrud_Central_Palace_-_removal_of_enemy_gods.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/f/f6/Nimrud_Central_Palace_-_removal_of_enemy_gods.jpg
+  sha1: a9e5abc800018e7ba0f5a6a49d055739d769a959
+  original_size: [2928, 1590]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×869 px
+size: [1600, 869]
+depicts: [cult-images]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

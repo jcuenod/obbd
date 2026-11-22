@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: iran-stele
+file: iran-stele.jpg
+title: Dolomite Stele of Tiglath-Pileser III, Western Iran, 745-727 BC (41409503610).jpg
+caption: The Iran Stele of Tiglath-pileser III, dolomite, 745-727 BCE (Israel Museum, Jerusalem).
+description: >-
+  Israel Museum, Jerusalem, Israel. Complete indexed photo collection at WorldHistoryPics.com
+creator: Gary Todd from Xinzheng, China
+credit_line: Dolomite Stele of Tiglath-Pileser III, Western Iran, 745-727 BC
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Gary Todd from Xinzheng, China. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Dolomite_Stele_of_Tiglath-Pileser_III,_Western_Iran,_745-727_BC_(41409503610).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/1d/Dolomite_Stele_of_Tiglath-Pileser_III%2C_Western_Iran%2C_745-727_BC_%2841409503610%29.jpg
+  sha1: 4ffd396e80aaa1df072bd8e9cf054f098c873d41
+  original_size: [4000, 6000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1067×1600 px
+size: [1067, 1600]
+depicts: [iran-stele, menahem]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

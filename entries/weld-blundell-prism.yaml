@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: weld-blundell-prism
+title: Weld-Blundell Prism
+aliases: [WB 444]
+type: artifact
+cultures: [sumerian]
+date:
+  from: -1800
+  to: -1800
+  circa: true
+  display: c. 1800 BCE
+scope: >-
+  An inscribed clay prism of the Old Babylonian period (Isin dynasty) bearing the most complete
+  copy of the Sumerian King List, from the antediluvian kings who reigned for tens of thousands
+  of years through the flood to the dynasty of Isin.
+passages:
+- ref: Gen 5:1-32
+  rel: parallel
+  note: Antediluvian line of long-lived figures
+- ref: Gen 6:5-9:17
+  rel: concept
+  note: The flood as the epoch dividing primeval history
+- ref: Gen 11:10-26
+  rel: parallel
+  note: Post-flood line with sharply shortened lifespans
+- ref: Gen 4:17
+  rel: concept
+  note: Founding of the first city; cf. kingship descending to Eridu
+related: [sumerian-king-list, genealogies, flood-traditions, eridu-genesis, enmeduranki-and-the-apkallu,
+  atrahasis]
+location:
+  institution: Ashmolean Museum, Oxford
+  accession: AN1923.444 (Ashmolean Museum)
+media:
+- id: weld-blundell-prism
+  role: primary
+- id: sumerian-king-list
+  role: gallery
+external:
+  wikipedia: Weld-Blundell Prism
+  wikidata: Q7980851
+editorial:
+  author_notes:
+  - >-
+    Acquired by Herbert Weld Blundell in 1922; unprovenanced, sometimes said to come from
+    Larsa. Usually dated to c. 1800 BCE.
+  - >-
+    WB 444 lists eight antediluvian kings; another tablet (WB 62) lists ten, closer to Gen
+    5's ten generations. Do not overstate the numerical parallel.
+  - >-
+    The antediluvian section may be a secondary addition to the King List; the List itself
+    is a political composition legitimating single kingship.
+  - >-
+    The comparison concerns structure (long-lived pre-flood figures, flood as divider), not
+    names.
+  sources_to_check:
+  - Jacobsen, The Sumerian King List (AS 11, 1939)
+  - Langdon, The Weld-Blundell Collection II (OECT 2, 1923)
+  image_query: Weld-Blundell Prism Ashmolean
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added accession from Wikidata Q7980851 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

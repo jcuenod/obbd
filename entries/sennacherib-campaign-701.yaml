@@ -1,0 +1,86 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: sennacherib-campaign-701
+title: Sennacherib's Campaign to Judah (701 BCE)
+type: event
+cultures: [assyrian, judahite]
+date:
+  from: -701
+  to: -701
+  display: 701 BCE
+scope: >-
+  Sennacherib's third campaign to the west in 701 BCE against a rebel coalition including
+  Hezekiah of Judah, Sidon, Ashkelon, Ekron, and Egyptian and Kushite forces. It devastated
+  Judah and took Lachish, but Jerusalem was not captured and Hezekiah paid a heavy tribute.
+passages:
+- ref: 2Kgs 18:13-16
+  rel: event
+  note: Fortified cities taken; Hezekiah's tribute
+- ref: 2Kgs 18:17-19:37
+  rel: event
+  note: Rabshakeh at Jerusalem and the city's deliverance
+- ref: Isa 36-37
+  rel: event
+  note: Parallel account
+- ref: 2Chr 32:1-23
+  rel: event
+  note: Hezekiah's preparations and the Chronicler's account
+- ref: Isa 22:8-11
+  rel: setting
+  note: Defensive works and water supply of Jerusalem
+- ref: 2Chr 32:2-5, 30
+  rel: setting
+  note: Stopping springs, building walls; Hezekiah's water tunnel
+- ref: Mic 1:10-16
+  rel: setting
+  note: Lament over the towns of the Shephelah
+- ref: Isa 1:7-9
+  rel: setting
+  note: Desolate land; Zion left like a booth
+related: [sennacherib, sennacherib-annals, lachish-reliefs, hezekiah, lachish, hezekiahs-tunnel,
+  lmlk-seal-impressions, taharqa]
+media:
+- id: lachish-2
+  role: gallery
+- id: lachish-reliefs
+  role: gallery
+- id: sennacherib-campaign-701
+  role: primary
+- id: deportation
+  role: gallery
+external:
+  wikipedia: Sennacherib's campaign in the Levant
+  wikidata: Q15089393
+editorial:
+  author_notes:
+  - >-
+    The convergence of the Assyrian annals, the Lachish reliefs, the Lachish Level III destruction
+    and 2 Kgs 18:13-16 is one of the best-documented events of the biblical period.
+  - >-
+    The deliverance narrative (2 Kgs 18:17-19:37) is usually analysed as two parallel accounts
+    (B1, B2); the plague of 2 Kgs 19:35 has no Assyrian equivalent, and Herodotus 2.141 has
+    a separate Egyptian tale.
+  - >-
+    Tirhakah (Taharqa) was not yet king in 701 (2 Kgs 19:9); he may have commanded as a prince,
+    or the title is anachronistic.
+  - >-
+    The lmlk jars are widely tied to Hezekiah's preparations; note this as consensus but with
+    debates over dating.
+  sources_to_check:
+  - RINAP 3/1 (Grayson and Novotny 2012)
+  - Grabbe (ed.), 'Like a Bird in a Cage' (JSOTSup 363, 2003)
+  - Kalimi and Richardson (eds.), Sennacherib at the Gates of Jerusalem (2014)
+  image_query: Lachish reliefs British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

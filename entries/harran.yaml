@@ -1,0 +1,83 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: harran
+title: Harran
+aliases: [Haran, Ḫarrānu, Carrhae]
+type: site
+cultures: [aramean, assyrian]
+scope: >-
+  The city in the upper Balikh valley in southeastern Turkey, a major centre of the moon-god
+  Sin and the place where Abraham's family settled. Covers its role as a cult and political
+  centre from the Bronze Age to Nabonidus and its place in the patriarchal traditions.
+passages:
+- ref: Gen 11:31-32
+  rel: setting
+  note: Terah settles and dies in Haran
+- ref: Gen 12:4-5
+  rel: setting
+  note: Abram departs from Haran
+- ref: Gen 27:43
+  rel: setting
+  note: Jacob told to flee to Laban in Haran
+- ref: Gen 28:10
+  rel: setting
+  note: Jacob sets out for Haran
+- ref: Gen 29:4
+  rel: setting
+  note: '''We are from Haran'''
+- ref: 2Kgs 19:12
+  rel: setting
+  note: Gozan, Haran and Rezeph among nations conquered by Assyria
+- ref: Ezek 27:23
+  rel: setting
+  note: Haran among Tyre's trading partners
+- ref: Acts 7:2-4
+  rel: setting
+  note: Abraham in Haran before Canaan
+related: [ur, sin-moon-god, nabonidus, arameans, fall-of-nineveh-chronicle, mari-letters]
+media:
+- id: harran
+  role: primary
+- id: harran-2
+  role: gallery
+- id: nabonidus-2
+  role: gallery
+external:
+  wikipedia: Harran
+  wikidata: Q199547
+  pleiades: '658427'
+editorial:
+  author_notes:
+  - >-
+    Harran's temple of Sin (Ehulhul) was restored by Nabonidus. Stelae of Nabonidus and of
+    his mother Adad-guppi were found reused in the Great Mosque.
+  - >-
+    It was the last Assyrian stronghold under Ashur-uballit II (610-609) before the Babylonian
+    conquest, the context of Neco's march in 2 Kgs 23:29.
+  - >-
+    The names of Abraham's kin (Serug, Nahor, Terah) match place names in the Harran region
+    (Sarugi, Nahur, Til-turaḫi). Nahur appears already in the Mari texts.
+  sources_to_check:
+  - Green, The City of the Moon God - Religious Traditions of Harran (1992)
+  image_query: Harran ancient ruins
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q199547 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 36.87083
+  lon: 39.025
+  source: wikidata:Q199547

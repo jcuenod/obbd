@@ -1,0 +1,1901 @@
+# Seed entries for the levant-epigraphy domain.
+# Regnal dates for Israelite and Judahite kings follow the Tadmor/Cogan chronology
+# (Anchor Bible I-II Kings; ABD "Chronology"). Alternatives are noted where they matter.
+
+- id: mesha-stele
+  aliases: [Moabite Stone]
+  cultures: [moabite]
+  date: [-840]
+  circa: true
+  scope: >-
+    The basalt victory and building inscription of Mesha, king of Moab, found at
+    Dhiban in 1868. It records Moab's liberation from Israelite control after the
+    reign of Omri's dynasty and Mesha's building works, and is the longest Iron Age
+    inscription from the southern Levant.
+  passages:
+    - "2Kgs 3:4-27 | event | Mesha's rebellion against Israel, told from the Moabite side"
+    - "2Kgs 1:1 | event | Moab's rebellion after Ahab's death"
+    - "1Kgs 16:21-28 | attests | Omri named as oppressor of Moab"
+    - "Num 21:29 | language | Moabites as the 'people of Chemosh'"
+    - "Judg 11:24 | concept | Chemosh as the national god who grants territory"
+    - "Num 32:34-38 | setting | Dibon, Ataroth, Nebo, Baal-meon, Kiriathaim: towns named in the stele"
+    - "Josh 6:17-21 | practice | ḥērem: Mesha devotes Nebo's population to Ashtar-Chemosh"
+    - "Isa 15-16 | setting | Oracle against Moab naming many of the same towns"
+    - "Jer 48:18-24 | setting | Dibon, Aroer, Jahaz, Nebo, Kiriathaim, Beth-meon, Kerioth: stele towns in the oracle"
+    - "2Sam 23:20 | language? | 'ariel(s) of Moab'; cf. ʾrʾl in line 12, sense debated"
+    - "2Sam 8:2 | attests? | 'House of David' reading in line 31 (bt[d]wd) is debated"
+    - "Judg 3:12-30 | setting | Earlier Moabite domination under Eglon: the long Moab–Israel contest over the Transjordanian plateau"
+  related: [chemosh, omri, moabites, dibon, herem, tel-dan-stele, ahab, yhwh-origins]
+  wikipedia: Mesha Stele
+  image: Mesha Stele Louvre
+  location: Musée du Louvre, Paris
+  author_notes:
+    - "Explain the discovery in 1868, the stone's breakage, and the role of Clermont-Ganneau's squeeze in its reconstruction."
+    - "Contrast the Moabite and biblical accounts of the revolt's timing ('in his days' vs. after Ahab's death) and outcome. The stele's 'forty years' of Omride control is a round number and does not fit biblical chronology."
+    - "Lines 17-18 (Mesha takes the [vessels] of YHWH from Nebo and drags them before Chemosh) contain the earliest datable extrabiblical attestation of the divine name YHWH."
+    - "Note the theological parallel of a national god angry with his land (Chemosh/YHWH) and the language of ḥērem. The stele says nothing about the sacrifice of the king's son in 2 Kgs 3:27."
+    - "Present the 'House of David' (line 31) reading as proposed and debated, not as settled. Lemaire proposed it in 1994; Finkelstein, Na'aman and Römer (2019) proposed 'Balak'; new imaging has been claimed for both readings."
+  sources_to_check:
+    - KAI 181
+    - COS 2.23
+    - ANET 320-321
+    - Aḥituv, Echoes from the Past (2008)
+
+- id: tel-dan-stele
+  aliases: [House of David Inscription, Tel Dan Inscription]
+  cultures: [aramean]
+  date: [-842, -800]
+  circa: true
+  scope: >-
+    Fragments of an Old Aramaic royal victory stele found at Tel Dan in 1993 and 1994,
+    almost certainly erected by Hazael of Damascus. The king claims to have killed a
+    king of Israel and a king of the 'House of David' (bytdwd), the earliest secure
+    extrabiblical reference to the Davidic dynasty.
+  passages:
+    - "2Kgs 8:28-29 | event | Joram of Israel and Ahaziah of Judah at war with Hazael at Ramoth-gilead"
+    - "2Kgs 9:14-28 | event | Deaths of Joram and Ahaziah, ascribed to Jehu's coup rather than to Hazael"
+    - "2Kgs 8:7-15 | attests | Hazael's accession at Damascus; the stele claims Hadad made him king"
+    - "2Sam 7:11-16 | attests | bytdwd 'House of David' names Judah's ruling dynasty"
+    - "Isa 7:2, 13 | language | 'House of David' as a designation of the Judahite dynasty"
+    - "2Kgs 10:32-33 | event | Hazael's conquests of Israelite territory"
+    - "1Kgs 15:20 | setting | Dan taken by Aram in an earlier war"
+    - "1Kgs 12:28-30 | setting | Dan as a royal Israelite sanctuary and border city"
+  related: [hazael, jehu, david, dan, arameans, mesha-stele, hadad-rimmon, damascus]
+  wikipedia: Tel Dan stele
+  image: Tel Dan Stele Israel Museum
+  location: Israel Museum, Jerusalem
+  author_notes:
+    - "Fragment A was found in 1993 and fragments B1-B2 in 1994, all reused in later construction. Whether B joins A, and where, is debated and affects the restoration of the royal names."
+    - "The names [Jeho]ram son of [Ahab] and [Ahaz]iahu son of [Joram] are partly restored. Say so, and give the consensus restoration."
+    - "The reading bytdwd as 'House of David' is now the consensus. Early alternatives (a place name, 'house of Dod', and claims of forgery) are marginal and should be mentioned only briefly."
+    - "Discuss the conflict with 2 Kgs 9: royal hyperbole, Jehu as Hazael's agent, or the biblical account crediting Jehu with what Aram claimed. Do not harmonise."
+    - "The author's name is lost. Attribution to Hazael is the majority view; a minority suggests Bar-Hadad son of Hazael."
+  sources_to_check:
+    - KAI 310
+    - COS 2.39
+    - Biran and Naveh, IEJ 43 (1993) and IEJ 45 (1995)
+    - Athas, The Tel Dan Inscription (JSOTSup 360, 2003)
+    - Aḥituv, Echoes from the Past (2008)
+
+- id: siloam-inscription
+  aliases: [Siloam Tunnel Inscription]
+  cultures: [judahite]
+  date: [-700]
+  circa: true
+  scope: >-
+    A six-line Hebrew inscription cut into the wall of the Siloam (Hezekiah's) tunnel
+    in Jerusalem, describing the moment when two teams of tunnellers met. It is the
+    longest monumental Hebrew inscription from the monarchy. The tunnel itself is
+    treated under hezekiahs-tunnel.
+  passages:
+    - "2Kgs 20:20 | event | Hezekiah made the pool and the conduit and brought water into the city"
+    - "2Chr 32:30 | event | Hezekiah channelled the upper Gihon waters down to the west of the City of David"
+    - "2Chr 32:2-4 | setting | Stopping the springs before Sennacherib's invasion"
+    - "Isa 22:9-11 | setting | Collecting the waters of the lower pool and building a reservoir"
+    - "Sir 48:17 | event | Hezekiah tunnelled the rock with iron and built pools"
+    - "Neh 3:15 | setting | Pool of Shelah by the king's garden"
+    - "John 9:7 | setting | Pool of Siloam, still fed by the tunnel in the Roman period"
+  related: [hezekiahs-tunnel, hezekiah, city-of-david, sennacherib-campaign-701, pool-of-siloam, cisterns-and-water-systems, paleo-hebrew-script]
+  wikipedia: Siloam inscription
+  image: Siloam inscription Istanbul Archaeology Museum
+  location: Istanbul Archaeology Museums
+  author_notes:
+    - "Found in 1880 near the tunnel's southern end. It was cut out and broken in 1891 and taken to Constantinople."
+    - "The inscription names no king and was not placed for display. It celebrates the work and the workers, which is unusual for ANE building inscriptions."
+    - "The attribution to Hezekiah rests on 2 Kgs 20:20 and 2 Chr 32:30, palaeography, and radiometric dating of the tunnel plaster (c. 700). A Hasmonean dating (Rogerson and Davies 1996) has been rejected. Reich and Shukron's suggestion that the tunnel predates Hezekiah is a minority view."
+    - "The 'waters of Shiloah' in Isa 8:6 probably refer to the earlier channel (Channel II), not to this tunnel."
+  sources_to_check:
+    - KAI 189
+    - COS 2.28
+    - ANET 321
+    - Dobbs-Allsopp et al., Hebrew Inscriptions (2005)
+
+- id: gezer-calendar
+  cultures: [hebrew]
+  date: [-950]
+  circa: true
+  scope: >-
+    A small limestone tablet from Gezer (found 1908) listing the months of the
+    agricultural year by their main tasks, from ingathering and sowing to summer
+    fruit. It is one of the earliest substantial alphabetic inscriptions from the
+    southern Levant.
+  passages:
+    - "Exod 23:16 | practice | Festival of ingathering (ʾāsîp) at the year's end; the calendar opens with ʾsp"
+    - "Exod 34:22 | language | Ingathering 'at the turn of the year' (tĕqûpat haššānâ)"
+    - "Deut 16:9-15 | practice | Harvest festivals timed by the agricultural cycle"
+    - "Ruth 1:22; 2:23 | setting | Barley harvest followed by wheat harvest, as in the calendar's sequence"
+    - "Amos 7:1 | language | leqeš, the late growth; cf. the calendar's 'two months of late sowing' (lqš)"
+    - "Lev 25:3-4 | language | zāmar 'to prune' vines; cf. the calendar's month of pruning (zmr)"
+    - "Amos 8:1-2 | language | qayiṣ 'summer fruit', the calendar's final month (qṣ), used in a wordplay with 'end'"
+  related: [gezer, agriculture-and-farming, festivals-agricultural, calendars-and-month-names, writing-and-literacy, paleo-hebrew-script, scribes-and-scribal-education]
+  wikipedia: Gezer calendar
+  image: Gezer calendar Istanbul Archaeology Museum
+  location: Istanbul Archaeology Museums
+  author_notes:
+    - "Found in 1908 by R. A. S. Macalister. It came from a disturbed context, so the 10th-century date rests on palaeography."
+    - "The language and script are debated: early Hebrew, Phoenician, or a southern Canaanite dialect. The forms in -w (yrḥw) may be duals or suffixed forms."
+    - "Its purpose is uncertain: a scribal exercise (the tablet is a palimpsest), a mnemonic song, or an administrative schedule. Do not present it as an Israelite cultic calendar."
+    - "The marginal name ʾbyw (Abijah?) is sometimes read as the scribe's signature. The reading is uncertain."
+  sources_to_check:
+    - KAI 182
+    - COS 2.85
+    - ANET 320
+    - Dobbs-Allsopp et al., Hebrew Inscriptions (2005)
+    - Talmon, JAOS 83 (1963)
+
+- id: lachish-letters
+  aliases: [Lachish Ostraca]
+  cultures: [judahite]
+  date: [-589, -586]
+  circa: true
+  scope: >-
+    A group of Hebrew ostraca, mostly letters, found in 1935 and 1938 in the gate area
+    of Lachish (Tell ed-Duweir) in the destruction layer of the Babylonian conquest.
+    Most are addressed to Yaʾush, apparently the commander at Lachish, by a subordinate
+    named Hoshayahu.
+  passages:
+    - "Jer 34:6-7 | event | Lachish and Azekah the last fortified cities holding out against Babylon"
+    - "Jer 6:1 | language | maśʾēt 'fire signal'; Letter 4 watches for the signals of Lachish"
+    - "Jer 38:4 | language | 'Weakening the hands' of soldiers; the same idiom in Letter 6"
+    - "Jer 26:20-23 | attests? | Letter 3's commander Coniah son of Elnathan goes to Egypt; cf. Elnathan son of Achbor"
+    - "2Kgs 25:1-4 | event | Babylonian siege of Judah in Zedekiah's last years"
+    - "2Kgs 5:6 | form | Letter body introduced by 'and now' (wĕʿattâ), as in the ostraca"
+  related: [lachish, fall-of-jerusalem-587, nebuchadnezzar-ii, letter-writing-conventions, ostraca, writing-and-literacy, prophecy-in-the-ane]
+  wikipedia: Lachish letters
+  image: Lachish letters ostracon
+  location: British Museum, London, and Israel Museum, Jerusalem (divided)
+  author_notes:
+    - "Letter 4 ('we cannot see Azekah') is often read as evidence that Azekah had already fallen, following Jer 34:7. This is possible but not certain."
+    - "Letter 3 mentions 'the prophet' and a letter he delivered. Identifications with Jeremiah or with Uriah (Jer 26:20-23) were popular early on but are now generally regarded as unprovable."
+    - "Letter 3 is also a key text for the literacy debate, since the writer protests that he can read a letter himself."
+    - "Discuss the letter formulas (greeting, 'may YHWH cause my lord to hear good news', oath 'as YHWH lives') and the Yahwistic personal names."
+    - "Use the KAI 192-199 numbers alongside the excavation (Lachish 1-21) numbers."
+  sources_to_check:
+    - KAI 192-199
+    - COS 3.42
+    - ANET 321-322
+    - Torczyner, Lachish I. The Lachish Letters (1938)
+    - Dobbs-Allsopp et al., Hebrew Inscriptions (2005)
+
+- id: arad-ostraca
+  cultures: [judahite]
+  date: [-605, -587]
+  circa: true
+  scope: >-
+    More than a hundred Hebrew ostraca from the Judahite fortress at Arad, with smaller
+    Aramaic and other groups. The best-known group is the archive of Eliashib son of
+    Eshiyahu (early 6th century), recording rations of wine, flour and oil for the
+    Kittim and others and military orders about an Edomite threat.
+  passages:
+    - "Obad 10-14 | setting | Edom's hostility toward Judah in the last years of the kingdom"
+    - "Ps 137:7 | setting | Edom remembered for its part in Jerusalem's fall"
+    - "Ezek 25:12-14 | setting | Oracle against Edom for vengeance on Judah"
+    - "Gen 10:4 | attests | Kittim, here apparently Aegean or Cypriot mercenaries in Judahite service"
+    - "Jer 2:10 | language | 'Coasts of Kittim' as a western people"
+    - "1Chr 9:19 | attests? | 'Sons of Korah' on Arad ostracon 49, perhaps a Levitical family"
+  related: [arad, edomites, ostraca, letter-writing-conventions, fall-of-jerusalem-587, qos, writing-and-literacy, cult-reforms-archaeology]
+  wikipedia: Arad ostraca
+  image: Arad ostracon Eliashib
+  location: Israel Museum, Jerusalem (many)
+  author_notes:
+    - "Date given is for the Eliashib archive (Stratum VI). The corpus as a whole runs from the 8th (perhaps 9th) century to the Persian and later periods, and Arad's stratigraphy has been revised since Aharoni (Herzog; Singer-Avitz)."
+    - "Arad 24 orders troops to Ramat-negeb 'lest Edom should come there'. Arad 40, earlier, also refers to Edom. These letters support the biblical memory of Edomite hostility, but do not tie it to a specific biblical event."
+    - "Arad 18 mentions 'the house of YHWH', most likely the Jerusalem temple. Keep it distinct from the Arad shrine, which is treated under arad and cult-reforms-archaeology."
+    - "The ostraca are important evidence for literacy, administration, and the bureaucratic use of hieratic numerals and measures in Judah."
+  sources_to_check:
+    - COS 3.43
+    - Aharoni, Arad Inscriptions (1981)
+    - Dobbs-Allsopp et al., Hebrew Inscriptions (2005)
+
+- id: samaria-ostraca
+  cultures: [israelite]
+  date: [-800, -750]
+  circa: true
+  scope: >-
+    About a hundred ink-inscribed potsherds found in 1910 in the royal compound of
+    Samaria, dated to years 9, 10 and 15 of an unnamed king. They record shipments of
+    wine and oil from clan districts of Manasseh to named individuals, and are the main
+    epigraphic source for the administration of the northern kingdom.
+  passages:
+    - "Num 26:30-33 | attests | Clans of Manasseh (Abiezer, Helek, Asriel, Shechem, Shemida) and Noah, Hoglah"
+    - "Josh 17:2-3 | attests | The same Manassite clan and district names"
+    - "Hos 2:16-17 | language | Baal-names among the recipients; Hosea's polemic against calling YHWH 'my Baal' (MT 2:18-19)"
+    - "1Sam 8:14-15 | practice? | Royal grants and produce from estates for courtiers"
+    - "Amos 6:4-6 | setting | Samarian elite consumption of wine and fine oil"
+    - "2Kgs 14:23-29 | setting | Probably the reign of Jeroboam II"
+  related: [samaria, ostraca, olive-oil-production, winepresses, genealogies, writing-and-literacy, baal, chronology-of-kings]
+  wikipedia: Samaria Ostraca
+  image: Samaria ostraca
+  author_notes:
+    - "The regnal years are usually assigned to Jeroboam II (some to Joash, Jehoahaz or Menahem). Year 15 may belong to a different king from years 9-10."
+    - "The function is debated: tax receipts, deliveries from crown estates to officials, or records of produce owed to absentee landowners at court. Present the options."
+    - "The clan names match the genealogies of Manasseh, which shows that these lists preserve real territorial units in the Samaria hills."
+    - "Personal names show northern -yw (-yaw) Yahwistic forms alongside a notable number of Baal names. Use cautiously as evidence for religious practice."
+  sources_to_check:
+    - KAI 183-188
+    - COS 3.44
+    - Reisner, Fisher and Lyon, Harvard Excavations at Samaria 1908-1910 (1924)
+    - Dobbs-Allsopp et al., Hebrew Inscriptions (2005)
+
+- id: kuntillet-ajrud-inscriptions
+  aliases: [Horvat Teman inscriptions]
+  cultures: [israelite, judahite]
+  date: [-800]
+  circa: true
+  scope: >-
+    Inscriptions and drawings on storage jars (pithoi), plaster walls and stone vessels
+    from the way-station at Kuntillet ʿAjrud in northeastern Sinai, including blessings
+    'by YHWH of Samaria and his asherah' and 'by YHWH of Teman and his asherah' and a
+    theophany text. The site itself is treated under kuntillet-ajrud.
+  passages:
+    - "Hab 3:3 | language | God comes from Teman; cf. 'YHWH of Teman'"
+    - "Deut 33:2 | concept | YHWH dawns from Seir and shines from Paran in the south"
+    - "Judg 5:4-5 | parallel | Theophany: mountains quake as the deity marches; cf. the plaster text"
+    - "Mic 1:3-4 | parallel | Mountains melt at the divine appearance"
+    - "2Sam 15:7 | concept | YHWH identified by place ('YHWH in Hebron'); cf. 'YHWH of Samaria'"
+    - "Amos 8:14 | concept | Deities invoked by sanctuary town (Samaria, Dan, Beersheba)"
+    - "Deut 16:21 | practice | Prohibition of an asherah beside YHWH's altar"
+    - "2Kgs 21:7 | concept | Asherah image in YHWH's temple"
+    - "Num 6:24 | parallel | 'May he bless you and keep you' blessing formula on Pithos B"
+    - "Deut 6:4 | polemic? | 'YHWH is one' perhaps countering local manifestations of YHWH"
+  related: [kuntillet-ajrud, asherah, khirbet-el-qom-inscription, yhwh-origins, ketef-hinnom-amulets, divine-warrior, samaria, aniconism]
+  wikipedia: Kuntillet Ajrud
+  image: Kuntillet Ajrud pithos drawing
+  author_notes:
+    - "Whether ʾšrth is the goddess Asherah ('his Asherah') or a cult object ('his asherah') is still debated, since Hebrew does not normally put suffixes on personal names. Present both views. Avoid the headline phrase 'Yahweh's wife'."
+    - "Whether the drawings on Pithos A (two Bes-like figures and a seated lyre player) relate to the inscription above them is disputed. Most specialists now think they do not illustrate it."
+    - "The script, the phrase 'YHWH of Samaria', and the pottery point to Israelite (northern) involvement in a site on a Judahite or southern route. Radiocarbon dating places it c. 800."
+    - "Some plaster texts are in Phoenician script. Discuss the site's function (caravan station with a religious dimension, not a temple)."
+  sources_to_check:
+    - COS 2.47
+    - Meshel, Kuntillet ʿAjrud (Ḥorvat Teman) (2012)
+    - Dobbs-Allsopp et al., Hebrew Inscriptions (2005)
+    - Hadley, The Cult of Asherah in Ancient Israel and Judah (2000)
+    - Keel and Uehlinger, Gods, Goddesses, and Images of God in Ancient Israel (1998)
+
+- id: khirbet-el-qom-inscription
+  cultures: [judahite]
+  date: [-750, -700]
+  circa: true
+  scope: >-
+    A Hebrew tomb inscription from Khirbet el-Qom west of Hebron, blessing one
+    Uriyahu 'by YHWH' and stating that he was saved from his enemies 'by his asherah'.
+    An incised human hand appears below the text. The entry also covers the other
+    inscriptions from the site's tombs.
+  passages:
+    - "Deut 16:21 | practice | Prohibition of an asherah beside YHWH's altar"
+    - "2Kgs 23:6 | practice | Josiah removes the asherah from YHWH's temple"
+    - "1Sam 15:13 | language | Blessing formula bārûk ... laYHWH 'blessed by YHWH'"
+    - "Ps 18:3 | parallel | Calling on YHWH and being saved from enemies (MT 18:4)"
+  related: [asherah, kuntillet-ajrud-inscriptions, bench-tombs, hebron, ketef-hinnom-amulets, yhwh-origins]
+  wikipedia: Khirbet el-Qom
+  image: Khirbet el-Qom inscription hand
+  author_notes:
+    - "Found by W. G. Dever in 1967 after tomb robbers had been active. The text is badly incised over earlier lines, so readings vary widely. Compare Dever, Zevit, Hadley and Dobbs-Allsopp et al."
+    - "The phrase 'by his asherah' parallels Kuntillet ʿAjrud. Treat the two corpora together, but note that the el-Qom readings are less secure."
+    - "The function of the hand (apotropaic, or a memorial yād) is uncertain. Present suggestions as such."
+  sources_to_check:
+    - COS 2.52
+    - Dever, HUCA 40-41 (1969-1970)
+    - Zevit, BASOR 255 (1984)
+    - Dobbs-Allsopp et al., Hebrew Inscriptions (2005)
+
+- id: ketef-hinnom-amulets
+  aliases: [Ketef Hinnom scrolls, Silver Scrolls]
+  cultures: [judahite]
+  date: [-625, -575]
+  circa: true
+  scope: >-
+    Two tiny rolled silver amulets found in 1979 in a repository of a bench tomb at
+    Ketef Hinnom, Jerusalem, inscribed with forms of the Priestly Blessing and other
+    protective formulas. They are the earliest known artefacts with text that parallels
+    a biblical passage.
+  passages:
+    - "Num 6:24-26 | parallel | Shortened forms of the Priestly Blessing"
+    - "Deut 7:9 | parallel | God who keeps covenant and steadfast love with those who love him"
+    - "Neh 1:5 | parallel | The same covenant-keeping formula in prayer"
+    - "Dan 9:4 | parallel | The same covenant-keeping formula in prayer"
+    - "Ps 67:1 | parallel | Liturgical echo of the blessing: face shining upon us (MT 67:2)"
+    - "Prov 6:21 | practice | Binding protective words around the neck"
+    - "Deut 6:8 | practice | Words bound on the body as a sign"
+  related: [amulets, bench-tombs, apotropaic-doorposts-and-thresholds, kuntillet-ajrud-inscriptions, light-of-the-face, jerusalem]
+  wikipedia: Ketef Hinnom scrolls
+  image: Ketef Hinnom silver scroll Israel Museum
+  location: Israel Museum, Jerusalem
+  author_notes:
+    - "The 2004 re-edition (Barkay, Vaughn, Lundberg and Zuckerman) with new imaging supports a late 7th to early 6th century date on palaeographic and archaeological grounds. A minority has argued for a later (Persian or Hellenistic) date. Report this fairly."
+    - "Do not present the amulets as 'the oldest biblical text' or as evidence that Numbers was already written. They show that a blessing formula also found in Numbers circulated in apotropaic use."
+    - "Discuss the apotropaic phrases (e.g. 'the rebuker of evil') and how the blessing worked as protection for the dead or the living."
+  sources_to_check:
+    - Barkay, Vaughn, Lundberg and Zuckerman, BASOR 334 (2004)
+    - COS 2.83
+    - Dobbs-Allsopp et al., Hebrew Inscriptions (2005)
+    - Smoak, The Priestly Blessing in Inscription and Scripture (2016)
+
+- id: royal-steward-inscription
+  aliases: [Shebna Inscription, Silwan Tomb Inscription]
+  cultures: [judahite]
+  date: [-700]
+  circa: true
+  scope: >-
+    A Hebrew inscription carved over the entrance of a rock-cut tomb in the Silwan
+    necropolis opposite the City of David, belonging to '[...]yahu who is over the
+    house'. It declares that the tomb holds no silver or gold and curses anyone who
+    opens it.
+  passages:
+    - "Isa 22:15-16 | attests? | Shebna 'over the house' rebuked for hewing a tomb on the height"
+    - "2Kgs 18:18 | language | Title 'over the house' (ʾăšer ʿal-habbayit) for Eliakim"
+    - "1Kgs 4:6 | language | The royal steward among Solomon's officials"
+    - "Deut 27:15 | language | Curse formula 'Cursed be anyone who...' (ʾārûr hāʾîš ʾăšer)"
+    - "Josh 6:26 | language | Curse on whoever undoes a site"
+  related: [court-officials, bench-tombs, jerusalem, hezekiah, blessings-and-curses, ahiram-sarcophagus, eshmunazar-sarcophagus]
+  wikipedia: Royal Steward inscription
+  image: Royal Steward inscription British Museum
+  location: British Museum, London
+  author_notes:
+    - "Removed by Clermont-Ganneau in 1870 but deciphered only by N. Avigad (1953)."
+    - "The name is damaged. Restoring it as Shebanyahu (= Shebna, Isa 22:15) is attractive but unprovable. Present the identification as possible, not established."
+    - "Compare the tomb curses with Phoenician royal sarcophagi (Ahiram, Tabnit, Eshmunazar). Note the Silwan necropolis's distinctive Judahite elite tomb architecture (Ussishkin)."
+  sources_to_check:
+    - KAI 191
+    - Avigad, IEJ 3 (1953)
+    - Ussishkin, The Village of Silwan (1993)
+    - Dobbs-Allsopp et al., Hebrew Inscriptions (2005)
+
+- id: hezekiah-bulla
+  cultures: [judahite]
+  date: [-727, -698]
+  circa: true
+  scope: >-
+    A clay seal impression reading 'Belonging to Hezekiah [son of] Ahaz, king of Judah',
+    with a two-winged sun disk flanked by ankh signs. It was found in 2009 in the Ophel
+    excavations in Jerusalem and published in 2015. It is the first impression of a
+    Judahite king's seal from a controlled excavation.
+  passages:
+    - "2Kgs 18:1 | attests | Hezekiah son of Ahaz, king of Judah"
+    - "1Kgs 21:8 | practice | Royal seal used to authenticate documents"
+    - "Mal 4:2 | imagery | 'Sun of righteousness' with healing in its wings (MT 3:20)"
+    - "Ps 84:11 | imagery | YHWH as sun and shield (MT 84:12)"
+  related: [hezekiah, winged-sun-disk, seals-and-bullae, ahaz, lmlk-seal-impressions, jerusalem, forgeries-in-biblical-archaeology]
+  wikipedia: King Hezekiah bulla
+  image: King Hezekiah bulla Ophel
+  author_notes:
+    - "Emphasise provenance. Similar Hezekiah bullae with a winged scarab, and an Ahaz bulla, are known from the antiquities market. Their authenticity cannot be checked in the same way."
+    - "The change from the winged scarab (on unprovenanced bullae and lmlk handles) to the winged sun disk is relevant to debates about royal iconography and its possible Assyrianising or Egyptianising character."
+    - "A bulla found nearby (published 2018) reads Yeshaʿyahu followed by nbʾ[...]. 'Isaiah the prophet' is one possible reading. It is debated, and should be treated separately and cautiously."
+  sources_to_check:
+    - Deutsch, Messages from the Past (1999)
+
+- id: bullae-of-jeremiah-era-officials
+  cultures: [judahite]
+  date: [-620, -586]
+  circa: true
+  scope: >-
+    Late Iron Age Hebrew seal impressions (bullae) naming officials who share names and
+    patronyms with figures in Jeremiah and 2 Kings. The entry covers the excavated City
+    of David corpora ('House of the Bullae', Eilat Mazar's finds) and the large
+    unprovenanced collections, and the problem of identifying their owners.
+  passages:
+    - "Jer 36:10-12, 25 | attests | Gemariah son of Shaphan; bulla 'Gemaryahu son of Shaphan' from the City of David"
+    - "Jer 37:3; 38:1 | attests | Jehucal son of Shelemiah; bulla excavated in 2005"
+    - "Jer 38:1 | attests | Gedaliah son of Pashhur; bulla excavated in 2008"
+    - "2Kgs 23:11 | attests? | Nathan-melech the official; excavated bulla 'Nathan-melech servant of the king'"
+    - "2Kgs 25:22 | attests? | Lachish bulla 'Gedalyahu who is over the house', possibly Gedaliah son of Ahikam"
+    - "Jer 36:4, 32 | attests? | Baruch son of Neriah the scribe; unprovenanced bullae of doubtful authenticity"
+    - "Jer 36:26 | attests? | Jerahmeel 'son of the king'; unprovenanced bulla"
+    - "Jer 32:10-14 | practice | Sealed deed of purchase; bullae once sealed such papyrus documents"
+  related: [seals-and-bullae, sealed-deeds, fall-of-jerusalem-587, city-of-david, court-officials, forgeries-in-biblical-archaeology, lachish-letters]
+  wikipedia: null
+  image: Gemaryahu son of Shaphan bulla
+  author_notes:
+    - "Separate the excavated material (Shiloh's 1982 'House of the Bullae' with c. 50 bullae, E. Mazar's 2005 and 2008 finds, the 2019 Givati Parking Lot bulla) from unprovenanced material (Avigad's 1986 corpus including the Baruch and Yerahmeel bullae)."
+    - "Apply explicit identification criteria (provenance, date, name plus patronym or title; cf. Mykytiuk). Common names make single-name matches weak."
+    - "Goren and Arie (2014) argued that the Baruch bullae are probably forgeries, and many epigraphers no longer use them. Do not present them as 'Baruch's seal'."
+    - "The 'House of the Bullae' was burned in 586, which baked and preserved the bullae. Note that the papyri they sealed are lost."
+  sources_to_check:
+    - Avigad, Hebrew Bullae from the Time of Jeremiah (1986)
+    - Shoham, 'Hebrew Bullae', in City of David Excavations Final Report VI (Qedem 41, 2000)
+    - Avigad and Sass, Corpus of West Semitic Stamp Seals (1997)
+    - Mykytiuk, Identifying Biblical Persons in Northwest Semitic Inscriptions of 1200-539 B.C.E. (2004)
+
+- id: seal-of-shema
+  aliases: [Shema seal, Megiddo lion seal]
+  cultures: [israelite]
+  date: [-788, -747]
+  circa: true
+  scope: >-
+    A large jasper stamp seal found at Megiddo in 1904, showing a roaring lion and
+    inscribed 'Belonging to Shema, servant of Jeroboam'. It is a classic example of an
+    Israelite official's seal and of the title 'servant of the king'.
+  passages:
+    - "2Kgs 14:23-29 | attests? | Jeroboam II, the king usually identified as Shema's master"
+    - "1Kgs 12:20 | attests? | Jeroboam I, preferred by a minority"
+    - "2Kgs 22:12 | language | ʿebed hammelek 'servant of the king' as an official's title"
+  related: [seals-and-bullae, megiddo, lion-imagery, court-officials, samaria-ostraca]
+  wikipedia: Shema seal
+  image: Seal of Shema servant of Jeroboam
+  author_notes:
+    - "The original was sent to Istanbul and has been lost. Study now depends on casts and early photographs."
+    - "Palaeography and style favour Jeroboam II (8th century). Ussishkin (1994) reopened the stratigraphic question, and some have argued for Jeroboam I. Explain why the date matters."
+    - "Shema's own office is unknown. 'Servant' here is a court title, not a statement of servile status."
+  sources_to_check:
+    - Avigad and Sass, Corpus of West Semitic Stamp Seals (1997)
+    - Ussishkin, 'Gate 1567 at Megiddo and the Seal of Shema, Servant of Jeroboam', in Scripture and Other Artifacts (1994)
+
+- id: lmlk-seal-impressions
+  aliases: [LMLK stamps, Royal Judahite jar handles]
+  cultures: [judahite]
+  date: [-725, -650]
+  circa: true
+  scope: >-
+    Stamp impressions reading lmlk ('belonging to the king'), with one of four place
+    names (Hebron, Ziph, Socoh, mmšt) and a four-winged scarab or two-winged sun disk,
+    found on the handles of thousands of standardised Judahite storage jars. The entry
+    also covers the associated private seal impressions and the later rosette stamps.
+  passages:
+    - "2Chr 32:27-29 | practice | Hezekiah's storehouses for grain, wine and oil"
+    - "2Chr 32:2-5 | setting | Judahite preparations for Sennacherib's invasion"
+    - "2Kgs 18:13-16 | setting | Sennacherib's 701 campaign; jars in the destruction of Lachish Level III"
+    - "Josh 15:35, 48, 54-55 | attests | Socoh, Hebron and Ziph, three of the four lmlk place names"
+    - "1Chr 4:23 | practice? | Potters who lived 'with the king in his work'"
+  related: [hezekiah, sennacherib-campaign-701, lachish, hebron, seals-and-bullae, winged-sun-disk, hezekiah-bulla, yehud-seals-and-coins]
+  wikipedia: LMLK seal
+  image: LMLK seal impression jar handle
+  author_notes:
+    - "Ussishkin's stratigraphy at Lachish placed lmlk jars before 701 and tied them to Hezekiah. Lipschits, Sergi and Koch (2010) argue for a longer sequence into the 7th century, with the two-winged type later. Explain both."
+    - "The meaning of the four place names (royal estates, production or collection centres) and the reading of mmšt (an unknown town or memšelet, 'government') are unresolved."
+    - "Avoid presenting the jars as direct evidence for the details of 2 Chr 32. Treat the Chronicles link as a plausible correlation."
+  sources_to_check:
+    - Ussishkin, BASOR 223 (1976)
+    - Lipschits, Sergi and Koch, Tel Aviv 37 (2010)
+    - Vaughn, Theology, History, and Archaeology in the Chronicler's Account of Hezekiah (1999)
+
+- id: ekron-royal-dedicatory-inscription
+  aliases: [Ekron Inscription]
+  cultures: [philistine]
+  date: [-675, -650]
+  circa: true
+  scope: >-
+    A limestone block found in 1996 in the main temple complex at Tel Miqne-Ekron,
+    recording that Achish (ʾkyš) son of Padi, ruler of Ekron, built the temple for the
+    goddess PTGYH. It confirms the identification of the site and names two Ekronite
+    kings known from Assyrian records.
+  passages:
+    - "Josh 13:3 | setting | Ekron among the five Philistine cities"
+    - "2Kgs 18:8 | setting | Hezekiah's Philistine campaign; Sennacherib names Padi of Ekron, held in Jerusalem"
+    - "1Sam 21:10-15 | language | Achish, a Philistine royal name, here borne by a king of Gath (MT 21:11-16)"
+    - "1Kgs 2:39-40 | language | Achish son of Maacah, king of Gath"
+    - "1Sam 29:3-4 | language | śārê pĕlištîm; cf. the title śr ('ruler') of Ekron"
+    - "Num 6:24 | parallel | 'May she bless him and keep him': a blessing formula shared with the Priestly Blessing"
+    - "2Kgs 1:2-3 | setting | Ekron's god in Kings is Baal-zebub; the inscription names the goddess PTGYH"
+    - "Zeph 2:4 | setting | Oracle on Ekron in the 7th century"
+  related: [ekron, philistines, sennacherib-campaign-701, esarhaddon-prisms, gath, baal-zebub, sea-peoples]
+  wikipedia: Ekron Royal Dedicatory Inscription
+  image: Ekron Royal Dedicatory Inscription Israel Museum
+  location: Israel Museum, Jerusalem
+  author_notes:
+    - "ʾkyš is the Ikausu of Ekron in Esarhaddon's and Ashurbanipal's vassal lists, and Padi appears in Sennacherib's annals. This anchors the inscription in the early 7th century."
+    - "The biblical Achish of Gath (David's era) is not the same person. The link is onomastic: Achish is probably a non-Semitic (Aegean or Anatolian) name that the Philistine royal houses kept using."
+    - "The language is Phoenician-like Northwest Semitic. Proposed meanings of PTGYH include a Greek Potnia (or Pythogaia). The reading and identity remain open."
+    - "Set it in the context of 7th-century Ekron as a major olive-oil production centre under Assyrian hegemony."
+  sources_to_check:
+    - Gitin, Dothan and Naveh, IEJ 47 (1997)
+    - COS 2.42
+    - Aḥituv, Echoes from the Past (2008)
+
+- id: tell-fekheriye-statue
+  aliases: [Tell Fekherye bilingual, Statue of Hadad-yithʿi]
+  cultures: [aramean, assyrian]
+  date: [-850, -825]
+  circa: true
+  scope: >-
+    A basalt statue of Hadad-yithʿi, ruler of Guzan, found in 1979 at Tell Fekheriye
+    (ancient Sikani) in northeastern Syria. It carries a dedication to the storm god
+    in Akkadian and Old Aramaic. It is the earliest substantial Aramaic text, and it
+    calls the statue both ṣlm ('image') and dmwt ('likeness').
+  passages:
+    - "Gen 1:26-27 | language | ṣelem 'image' and dĕmût 'likeness' used together of a representation"
+    - "Gen 5:1-3 | language | Likeness and image passed from Adam to Seth"
+    - "Lev 26:26 | parallel | Futility curse: many women bake in one oven, yet people are not satisfied"
+    - "Hos 4:10 | parallel | Futility curse: they eat but are not satisfied"
+    - "Mic 6:14-15 | parallel | Eat and not be satisfied; sow and not reap"
+    - "Hag 1:6 | parallel | Futility formulas of sowing, eating and drinking"
+    - "2Kgs 17:6; 18:11 | setting | Gozan on the Habor, a destination of Israelite deportees"
+  related: [image-of-god, blessings-and-curses, cult-images, hadad-rimmon, aramaic-language, arameans, deportation]
+  wikipedia: Tell Fekherya bilingual inscription
+  image: Tell Fekheriye statue Hadad-yithi
+  location: National Museum of Damascus
+  author_notes:
+    - "The statue stood in a temple and represents the ruler before the god. This is important for discussions of 'image' as royal representation and presence in the imago Dei debate. Do not imply direct dependence of Genesis on this text."
+    - "The Aramaic calls Hadad-yithʿi 'king' where the Akkadian has 'governor'. This illustrates local versus imperial framing."
+    - "Dating is debated (palaeography vs. Assyrian prosopography). Mid-9th century is the common estimate."
+    - "The futility curses are a widely shared treaty and curse genre (cf. Sefire, Deut 28). Present them as a shared genre."
+  sources_to_check:
+    - KAI 309
+    - COS 2.34
+    - Abou-Assaf, Bordreuil and Millard, La statue de Tell Fekherye et son inscription bilingue assyro-araméenne (1982)
+
+- id: zakkur-stele
+  aliases: [Zakir Stele, Stele of Zakkur]
+  cultures: [aramean]
+  date: [-800, -775]
+  circa: true
+  scope: >-
+    An Old Aramaic stele of Zakkur, king of Hamath and Luʿash, found at Tell Afis in
+    1903. It tells how Bar-Hadad son of Hazael and a coalition of kings besieged
+    Zakkur in Hazrach, and how the god Baalshamayn answered his prayer through seers
+    and diviners with an oracle of salvation.
+  passages:
+    - "2Kgs 13:3, 24-25 | attests | Ben-hadad son of Hazael, king of Aram"
+    - "Zech 9:1 | attests | 'Land of Hadrach' (Ḥzrk), Zakkur's besieged city"
+    - "Isa 41:8-13 | form | Oracle of salvation: 'Do not fear, for I am with you'"
+    - "2Chr 20:1-17 | parallel | Besieged king prays; an inspired speaker answers 'Do not fear'"
+    - "Isa 7:1-9 | parallel | Coalition threatens a king; prophetic 'do not fear'"
+    - "Amos 7:12 | language | ḥōzeh 'seer', cognate with the stele's ḥzyn"
+  related: [ben-hadad, hazael, hamath, prophecy-in-the-ane, arameans, divination, neo-assyrian-prophecies, aramaic-language]
+  wikipedia: Stele of Zakkur
+  image: Zakkur stele Louvre
+  location: Musée du Louvre, Paris
+  author_notes:
+    - "This is one of the few West Semitic witnesses to intuitive prophecy outside the Bible. Compare it with Mari and Neo-Assyrian prophecy, and with Deir ʿAlla."
+    - "Bar-Hadad son of Hazael fixes this Ben-hadad historically. Discuss its bearing on the several Ben-hadads of Kings."
+    - "The siege is usually dated c. 800-785, linked to Assyrian intervention under Adad-nirari III. Zakkur's appeal to the gods and the coalition's withdrawal parallel the 701 narrative in a general way only."
+  sources_to_check:
+    - KAI 202
+    - COS 2.35
+
+- id: sefire-treaties
+  aliases: [Sefire Steles, Sefire Inscriptions]
+  cultures: [aramean]
+  date: [-760, -740]
+  circa: true
+  scope: >-
+    Three fragmentary basalt steles from Sefire near Aleppo, recording treaties between
+    Barga'yah, king of KTK, and Mati'el son of Attarsamak, king of Arpad. They are the
+    fullest Aramaic treaty texts, with stipulations, lists of divine witnesses, and
+    vivid curses, some performed by ritual acts.
+  passages:
+    - "Deut 28:38-42 | parallel | Curses of crop failure and locusts"
+    - "Jer 34:18-20 | practice | Calf cut in two in a covenant rite; Sefire I A: 'as this calf is cut in two'"
+    - "Gen 15:9-17 | practice | Animals cut in two in covenant-making"
+    - "Hos 2:3 | parallel | Stripping as a covenant curse; cf. the stripped prostitute in Sefire I A (MT 2:5)"
+    - "Mic 1:4 | imagery | Melting like wax before fire; cf. the wax-burning curse"
+    - "Isa 34:11-15 | parallel | City given over to wild animals and owls"
+    - "Deut 13:6-11 | practice | Duty to report and punish those who incite disloyalty (MT 13:7-12)"
+    - "Ezek 17:13-19 | concept | Breaking a sworn treaty with an overlord invokes the oath-curses"
+    - "Isa 10:9 | attests | Arpad named among conquered Syrian cities"
+    - "2Kgs 18:34 | attests | 'Where are the gods of Hamath and Arpad?'"
+  related: [covenant-and-treaty-form, blessings-and-curses, covenant-cutting-ceremony, esarhaddon-succession-treaty, hittite-vassal-treaties, oaths-and-oath-formulas, arameans, aramaic-language]
+  wikipedia: Sefire steles
+  image: Sefire stele Aramaic treaty
+  author_notes:
+    - "The identity of Barga'yah and of KTK is unresolved. Present the options without choosing."
+    - "Sefire is the key Aramaic link in the chain of Hittite, Assyrian (Esarhaddon) and biblical treaty language. Note the term ʿdy (treaty, oaths)."
+    - "The ritual curses ('as this wax is burned', 'as this calf is cut') illustrate simile curses performed with objects. Compare Jer 34:18 and the Esarhaddon Succession Treaty."
+    - "Arpad fell to Tiglath-pileser III in 740. This gives the terminus ante quem."
+  sources_to_check:
+    - KAI 222-224
+    - COS 2.82
+    - Fitzmyer, The Aramaic Inscriptions of Sefire (rev. ed. 1995)
+
+- id: deir-alla-inscription
+  aliases: [Balaam Inscription, Deir ʿAlla Plaster Texts]
+  cultures: [aramean]
+  date: [-800]
+  circa: true
+  scope: >-
+    Ink inscriptions on fallen wall plaster found in 1967 at Tell Deir ʿAlla in the
+    Jordan Valley. The texts recount the 'book of Balaam son of Beor, a seer of the
+    gods', who receives a night vision of a divine assembly decreeing darkness on the
+    earth. They are the only extrabiblical text naming a figure known from the
+    Pentateuch.
+  passages:
+    - "Num 22:5 | attests | Balaam son of Beor, a non-Israelite seer"
+    - "Num 22:8-13, 19-20 | parallel | Divine communications reach Balaam at night"
+    - "Num 24:4, 16 | language | Balaam sees the vision of Shaddai; cf. the šdyn gods of the plaster text"
+    - "Josh 13:22 | attests | Balaam son of Beor called a diviner (qôsēm)"
+    - "Num 31:8, 16 | attests | Hostile later tradition about Balaam"
+    - "Mic 6:5 | attests | Balaam son of Beor in prophetic memory"
+    - "Ps 82:1 | concept | Assembly of the gods deliberating judgment"
+    - "Amos 5:18-20 | imagery? | Decreed darkness and gloom, not light"
+  related: [prophecy-in-the-ane, divine-council, divination, el, aramaic-language, sheol-and-the-netherworld, ammonites]
+  wikipedia: Deir Alla inscription
+  image: Deir Alla inscription Balaam plaster
+  author_notes:
+    - "The language is debated: Old Aramaic, a Canaanite dialect, or a local Transjordanian (Gileadite or Ammonite) dialect. Show what is at stake in the classification."
+    - "Hoftijzer and van der Kooij's 'Combinations' I and II are reconstructions from many fragments, and the sequence of lines is uncertain. Combination II is very obscure. Proposed links to necromancy or child sacrifice are speculative."
+    - "Shows that a Balaam tradition circulated east of the Jordan c. 800, independently of Numbers. It does not prove the historicity of Num 22-24."
+    - "The site's identification (Succoth? Penuel?) is uncertain. Do not assume one."
+  sources_to_check:
+    - COS 2.27
+    - Hoftijzer and van der Kooij, Aramaic Texts from Deir ʿAlla (1976)
+    - Hoftijzer and van der Kooij (eds.), The Balaam Text from Deir ʿAlla Re-evaluated (1991)
+
+- id: melqart-stele
+  aliases: [Bar-Hadad Inscription, Breij Stele]
+  cultures: [aramean, phoenician]
+  date: [-850, -800]
+  circa: true
+  scope: >-
+    A basalt stele found in 1939 at Breij north of Aleppo, showing the god Melqart and
+    dedicated to him by 'Bar-Hadad son of [...], king of [...]'. It is important for
+    Aramean history and for the spread of the Tyrian god Melqart inland. The
+    patronymic and royal title are badly worn.
+  passages:
+    - "1Kgs 15:18-20 | attests? | Ben-hadad son of Tabrimmon son of Hezion, on Albright's reading of the patronymic"
+    - "1Kgs 20:1 | attests? | Ben-hadad king of Aram in the Ahab narratives"
+    - "2Kgs 8:7-9 | attests? | Ben-hadad, sick in Damascus before Hazael's accession"
+    - "1Kgs 16:31-32 | setting? | Tyrian Baal worship under Ahab and Jezebel; Melqart is often proposed"
+  related: [ben-hadad, melqart, hazael, damascus, arameans, phoenicians, jezebel]
+  wikipedia: Melqart stele
+  image: Melqart stele Aleppo
+  location: National Museum of Aleppo
+  author_notes:
+    - "Readings of the patronymic range from 'son of Tab-Rimmon son of Hezion' (Albright, Cross), which matches 1 Kgs 15:18, to readings that make Bar-Hadad a king of Arpad (Pitard 1988). There is no consensus."
+    - "Do not use the stele to fix the number or sequence of the biblical Ben-hadads."
+    - "Its iconography (Melqart with axe and ankh) is useful evidence for Phoenician religious influence in Syria in the 9th century."
+  sources_to_check:
+    - KAI 201
+    - COS 2.33
+    - Pitard, BASOR 272 (1988)
+
+- id: ahiram-sarcophagus
+  cultures: [phoenician]
+  date: [-1000]
+  circa: true
+  scope: >-
+    The limestone sarcophagus of Ahiram, king of Byblos, found in 1923, with relief
+    scenes of the king enthroned on a sphinx (cherub) throne and of mourners. It bears a
+    Phoenician inscription by his son Ittobaal cursing anyone who disturbs the coffin,
+    one of the earliest substantial Phoenician texts.
+  passages:
+    - "1Sam 4:4 | realia | YHWH 'enthroned on the cherubim'; Ahiram sits on a sphinx-flanked throne"
+    - "Ps 80:1 | realia | 'Enthroned upon the cherubim' (MT 80:2)"
+    - "1Kgs 10:18-20 | realia | Royal throne with animal figures and a footstool"
+    - "Ps 110:1 | realia | Footstool as part of the royal throne"
+    - "Isa 14:5 | imagery | Breaking the staff of rulers; cf. the curse 'may the staff of his rule be torn away'"
+    - "Jer 9:17-20 | practice | Professional mourning women (MT 9:16-19); cf. the mourners on the sarcophagus"
+    - "Ezek 27:9 | setting | Gebal (Byblos) and its craftsmen"
+  related: [byblos, cherub-throne, footstool, cherubim, phoenicians, mourning-rites, proto-sinaitic-script]
+  wikipedia: Ahiram sarcophagus
+  image: Ahiram sarcophagus National Museum of Beirut
+  location: National Museum of Beirut
+  author_notes:
+    - "The date is debated: the inscription is usually dated c. 1000 on palaeographic grounds. Some argue the sarcophagus and reliefs are older (13th century) and were reused. Present both views."
+    - "The throne is the best visual parallel for the biblical 'cherub throne'. Keep the iconographic argument (cherub = winged sphinx) clear."
+    - "Mention the warning graffito in the shaft and the curse formula as early examples of tomb protection, and compare the Silwan and Sidonian tomb curses."
+  sources_to_check:
+    - KAI 1
+
+- id: eshmunazar-sarcophagus
+  cultures: [phoenician, persian]
+  date: [-540, -450]
+  circa: true
+  scope: >-
+    The Egyptian-style basalt anthropoid sarcophagus of Eshmunazar II, king of Sidon,
+    found in 1855. Its long Phoenician inscription curses anyone who opens the tomb,
+    praying that they have no resting place among the Rephaim. It records temple
+    building for Astarte and Eshmun and a Persian royal grant of Dor and Joppa.
+  passages:
+    - "Isa 14:9-11 | concept | The Rephaim in Sheol greet a dead king"
+    - "Isa 26:14 | concept | The Rephaim do not rise"
+    - "Ps 88:10 | concept | Can the Rephaim praise God? (MT 88:11)"
+    - "Isa 14:18-20 | parallel | Honourable royal burial contrasted with being denied a tomb"
+    - "1Kgs 11:5 | attests | Astarte (Ashtoreth), goddess of the Sidonians"
+    - "Ezra 3:7 | setting | Sidonians and Tyrians bring cedar by sea to Joppa under a Persian grant"
+    - "Ezra 7:12 | language | Persian king as 'king of kings'; cf. 'lord of kings' (ʾdn mlkm)"
+  related: [rephaim, sidon, astarte, sheol-and-the-netherworld, care-for-the-dead, persia, phoenicians, ahiram-sarcophagus]
+  wikipedia: Sarcophagus of Eshmunazar II
+  image: Sarcophagus of Eshmunazar II Louvre
+  location: Musée du Louvre, Paris
+  author_notes:
+    - "The date is debated. Older dates put Eshmunazar II in the first half of the 5th century. Elayi's Sidonian chronology places him c. 539-525. Say which chronology is followed."
+    - "The Rephaim as shades of the dead, not giants, is the key point for Isaiah, Psalms and Job. Link to the Ugaritic rpum."
+    - "The 'lord of kings' who granted Dor and Joppa is the Persian king, a rare Phoenician witness to Achaemenid patronage of coastal cities."
+  sources_to_check:
+    - KAI 14
+
+- id: kilamuwa-stele
+  aliases: [Kulamuwa Stela]
+  cultures: [aramean, phoenician]
+  date: [-840, -810]
+  circa: true
+  scope: >-
+    A Phoenician-language royal inscription with relief of Kilamuwa, king of Samʾal
+    (Zincirli), found in 1902. Kilamuwa contrasts his predecessors' failures with his
+    own care for his people, and boasts that he 'hired' the king of Assyria against a
+    stronger neighbour.
+  passages:
+    - "2Kgs 16:7-9 | parallel | A threatened king pays the Assyrian king to act against his enemies"
+    - "Isa 49:23 | imagery | Kings as foster fathers and queens as nursing mothers; cf. 'I was a father, a mother'"
+    - "Num 11:12 | imagery | Leader as one who carries the people like a nurse"
+    - "Job 29:15-16 | imagery | 'I was a father to the needy'"
+    - "Ps 72:12-14 | concept | The king delivers the poor and needy"
+    - "Amos 2:6 | parallel | People sold for a pair of sandals; cf. 'a girl for a sheep, a man for a garment'"
+    - "Joel 3:3 | parallel | Children traded for trivial goods (MT 4:3)"
+  related: [royal-ideology, katumuwa-stele, tribute-and-vassalage, widow-orphan-sojourner, assyria, phoenicians, karatepe-inscription]
+  wikipedia: Kilamuwa Stela
+  image: Kilamuwa stele Pergamon Museum
+  location: Vorderasiatisches Museum, Berlin
+  author_notes:
+    - "A Phoenician inscription from an Aramean and Luwian kingdom. Discuss Phoenician as a prestige written language in 9th-century north Syria."
+    - "The two population groups (mškbm and bʿrrm) are debated: perhaps settled and nomadic, or native and newcomer populations."
+    - "The 'father and mother' language belongs to royal ideology of care. Present the biblical comparisons as typological."
+  sources_to_check:
+    - KAI 24
+    - COS 2.30
+
+- id: katumuwa-stele
+  aliases: [KTMW Stele, Kuttamuwa Stele]
+  cultures: [aramean, luwian]
+  date: [-735]
+  circa: true
+  scope: >-
+    A basalt funerary stele found in situ in 2008 at Zincirli (ancient Samʾal). It shows
+    the official Katumuwa, servant of King Panamuwa, seated at a funerary banquet. Its
+    inscription in the local Samʾalian dialect provides for annual sacrifices, including
+    one 'for my soul (nbš) that is in this stele'.
+  passages:
+    - "Deut 26:14 | practice | Disavowal of offerings given to the dead"
+    - "Ps 106:28 | practice | Eating sacrifices offered to the dead"
+    - "2Sam 18:18 | practice | Absalom's memorial pillar to keep his name remembered"
+    - "Isa 56:5 | language | yād wāšēm 'monument and name' as a memorial"
+    - "Gen 35:20 | practice | Jacob sets up a pillar over Rachel's grave"
+    - "Gen 35:18 | concept | The nepeš departing at death; cf. the nbš dwelling in the stele"
+  related: [care-for-the-dead, marzeah, kilamuwa-stele, afterlife-and-resurrection, massebot, hadad-rimmon, aramaic-language, arameans]
+  wikipedia: Kuttamuwa stele
+  image: Katumuwa stele Zincirli
+  author_notes:
+    - "Found by the University of Chicago Neubauer Expedition in a small mortuary chapel, which makes it rare as a funerary monument in its original setting."
+    - "The idea of a nbš residing in a stone monument, possibly alongside cremation, is a significant datum for West Semitic views of the person after death. Avoid reading it directly into Hebrew nepeš."
+    - "Later Aramaic and Nabataean use of npš for 'funerary monument' is relevant background."
+    - "The language is Samʾalian, a distinct dialect related to Aramaic. Mention the Luwian cultural milieu (the name Katumuwa is Luwian)."
+  sources_to_check:
+    - Pardee, BASOR 356 (2009)
+    - Struble and Herrmann, BASOR 356 (2009)
+    - "Herrmann and Schloen (eds.), In Remembrance of Me: Feasting with the Dead in the Ancient Middle East (2014)"
+
+- id: karatepe-inscription
+  aliases: [Azatiwada Inscription, Karatepe Bilingual]
+  cultures: [luwian, phoenician]
+  date: [-725, -675]
+  circa: true
+  scope: >-
+    The Phoenician and Hieroglyphic Luwian bilingual of Azatiwada, a vassal ruler under
+    Awariku, king of the Danunians (Adana), carved at the gates of the fortress of
+    Karatepe-Aslantaş in Cilicia (found 1946). It describes the peace, plenty and
+    security of his rule and was key to the decipherment of Hieroglyphic Luwian.
+  passages:
+    - "1Kgs 4:25 | concept | Peace and security: each under vine and fig tree (MT 5:5)"
+    - "Mic 4:4 | concept | Security under vine and fig tree, with none to make afraid"
+    - "Judg 5:6 | imagery | Roads deserted in insecurity; Azatiwada says a woman could walk alone with her spindles"
+    - "Zech 8:4-5 | imagery | Old and young safe in the streets as a sign of restored order"
+    - "1Kgs 10:28-29 | setting | Kue (Que, Cilicia), the Danunian kingdom, as a source of horses"
+  related: [royal-ideology, kilamuwa-stele, phoenicians, resheph, chariots-and-horses, hittites-and-hethites]
+  wikipedia: Karatepe bilingual
+  image: Karatepe Aslantas inscription
+  location: Karatepe-Aslantaş Open-Air Museum, Osmaniye (in situ)
+  author_notes:
+    - "Awariku is the Urikki of Que in Assyrian sources (Tiglath-pileser III, Sargon II). This anchors the date in the late 8th century, though some prefer the early 7th."
+    - "The bilingual is valuable for divine-name equivalences, e.g. Phoenician Baal and Luwian Tarhunza, and Resheph of the birds (ršp ṣprm)."
+    - "The link between the Danunians (dnnym) and the biblical tribe of Dan or the Homeric Danaoi is speculative. If mentioned, label it as such."
+  sources_to_check:
+    - KAI 26
+    - COS 2.31
+    - "Çambel, Corpus of Hieroglyphic Luwian Inscriptions II: Karatepe-Aslantaş (1999)"
+
+- id: nora-stone
+  cultures: [phoenician]
+  date: [-825, -780]
+  circa: true
+  scope: >-
+    A Phoenician inscription on a stone found in 1773 at Nora in southern Sardinia. It
+    is one of the earliest Phoenician texts from the western Mediterranean and contains
+    the earliest attestation of the name Sardinia (šrdn). Its first line is often read as
+    mentioning Tarshish (trš).
+  passages:
+    - "Gen 10:4 | attests? | Tarshish among the sons of Javan"
+    - "Ps 72:10 | attests? | Kings of Tarshish and the isles bring tribute"
+    - "Isa 23:1 | attests? | Ships of Tarshish in the oracle against Tyre"
+    - "Ezek 27:12 | attests? | Tarshish trades silver, iron, tin and lead with Tyre"
+    - "Jonah 1:3 | attests? | Tarshish as the far western destination"
+  related: [tarshish, phoenician-seafaring, phoenicians, tyre, hiram-of-tyre]
+  wikipedia: Nora Stone
+  image: Nora Stone Cagliari
+  location: Museo Archeologico Nazionale di Cagliari
+  author_notes:
+    - "The text is short and difficult. Whether btršš means 'in Tarshish', and whether Tarshish then lies in Sardinia or elsewhere (Tartessos, Spain), is debated. Give the main interpretations (e.g. Cross 1972)."
+    - "The stone is important evidence for Phoenician presence in the west by c. 800, which is relevant to the biblical 'ships of Tarshish' and to Tyrian trade in Ezek 27."
+    - "Do not use the stone alone to locate Tarshish."
+  sources_to_check:
+    - KAI 46
+    - Cross, BASOR 208 (1972)
+
+- id: izbet-sartah-abecedary
+  aliases: [ʿIzbet Ṣarṭah Ostracon]
+  cultures: [canaanite, hebrew]
+  date: [-1200, -1000]
+  circa: true
+  scope: >-
+    An Iron Age I ostracon from ʿIzbet Ṣarṭah near Rosh HaʿAyin (found 1976) with four
+    lines of practice letters and a full abecedary. It is a key witness to the early
+    alphabet and its letter order, and to writing in a small highland village.
+  passages:
+    - "Lam 2:16-17; 3:46-51; 4:16-17 | form | Acrostics with pe before ʿayin, the order of the abecedary"
+    - "Ps 119 | form | Alphabetic acrostic presupposing a fixed letter order"
+    - "Prov 31:10-31 | form | Alphabetic acrostic"
+    - "Judg 8:14 | practice | A young man writes down names, implying basic literacy"
+    - "Isa 28:9-10 | practice? | ṣaw lāṣāw qaw lāqāw, perhaps letters recited in alphabet teaching"
+    - "1Sam 4:1 | setting? | Site sometimes identified with Ebenezer"
+  related: [writing-and-literacy, scribes-and-scribal-education, proto-sinaitic-script, paleo-hebrew-script, emergence-of-israel, ostraca]
+  wikipedia: Izbet Sartah abecedary
+  image: Izbet Sartah ostracon abecedary
+  author_notes:
+    - "The pe-ʿayin order also appears in other abecedaries (e.g. Kuntillet ʿAjrud) and in Lam 2-4. This makes it an early alternative letter order, not a scribal error."
+    - "The script is transitional Proto-Canaanite. Its language and ethnic attribution are uncertain, so do not label it 'Israelite'."
+    - "The ostracon looks like a student exercise. Use it carefully in literacy debates: it shows that someone was learning, not that literacy was widespread."
+  sources_to_check:
+    - Kochavi, Tel Aviv 4 (1977)
+    - Demsky, Tel Aviv 4 (1977)
+    - Finkelstein, ʿIzbet Ṣarṭah (BAR International Series 299, 1986)
+
+- id: mesad-hashavyahu-ostracon
+  aliases: [Yavneh-Yam Ostracon, Reaper's Plea]
+  cultures: [judahite]
+  date: [-630, -609]
+  circa: true
+  scope: >-
+    A Hebrew ostracon found in 1960 at the coastal fortress of Meṣad Ḥashavyahu near
+    Yavneh-Yam. In it a harvest worker petitions an official for the return of his
+    garment, which an overseer named Hoshayahu son of Shobai had confiscated. It is the
+    earliest extrabiblical legal petition in Hebrew.
+  passages:
+    - "Exod 22:26-27 | practice | A garment taken in pledge must be returned before sunset (MT 22:25-26)"
+    - "Deut 24:12-15 | practice | Returning the poor man's pledged cloak; paying the labourer promptly"
+    - "Amos 2:8 | practice | Garments taken in pledge abused by the powerful"
+    - "Job 22:6 | practice | Taking pledges and stripping the naked of clothing"
+    - "Deut 19:15 | practice | Testimony of witnesses; the reaper says his companions will testify for him"
+    - "Amos 8:5 | practice? | 'before šbt' perhaps refers to the sabbath as a work boundary"
+  related: [widow-orphan-sojourner, courts-and-legal-procedure, agriculture-and-farming, clothing-and-dress, sabbath, ostraca, josiah]
+  wikipedia: Yavne-Yam ostracon
+  image: Mesad Hashavyahu ostracon Israel Museum
+  location: Israel Museum, Jerusalem
+  author_notes:
+    - "Whether šbt in 'before šbt' means 'sabbath' or 'stopping (work)' is disputed. Present both readings."
+    - "Who controlled the fort (Josiah's Judah or Egypt under Psammetichus I, with Greek mercenaries) is debated. The Hebrew letter and the East Greek pottery both need explaining."
+    - "The petition is not a lawsuit before a court but an appeal to an official. Compare biblical appeals to the king (2 Sam 14; 2 Kgs 8:3-6)."
+  sources_to_check:
+    - KAI 200
+    - COS 3.41
+    - Naveh, IEJ 10 (1960)
+    - Dobbs-Allsopp et al., Hebrew Inscriptions (2005)
+
+- id: tell-qasile-ostracon
+  cultures: [hebrew]
+  date: [-800, -700]
+  circa: true
+  scope: >-
+    A Hebrew ostracon found in 1946 at Tell Qasile (Tel Aviv) reading 'Gold of Ophir to
+    Beth-Horon, 30 shekels'. It is the only extrabiblical attestation of Ophir as a
+    source of gold. The entry also covers the second Tell Qasile ostracon recording a
+    quantity of oil.
+  passages:
+    - "1Kgs 9:28 | attests | Gold brought from Ophir by Hiram's and Solomon's fleet"
+    - "1Kgs 10:11 | attests | Hiram's fleet brings gold from Ophir"
+    - "1Kgs 22:48 | attests | Jehoshaphat's failed ships for Ophir gold (MT 22:49)"
+    - "Ps 45:9 | language | 'Gold of Ophir' as the finest gold (MT 45:10)"
+    - "Job 28:16 | language | 'Gold of Ophir' as a standard of value"
+    - "Isa 13:12 | language | 'Gold of Ophir' as a byword for rarity"
+    - "1Kgs 9:17 | attests? | byt ḥrn as the town Beth-horon, or a temple of the god Horon"
+  related: [ophir, phoenician-seafaring, solomon, hiram-of-tyre, weights-and-silver-money, ostraca]
+  wikipedia: Tel Qasile ostraca
+  image: Tell Qasile ostracon gold of Ophir
+  author_notes:
+    - "Found on the surface, so the 8th-century date is palaeographic."
+    - "'Gold of Ophir' may describe a quality or type of gold rather than a shipment just arrived from Ophir. Either way it shows the term was current in Iron Age commerce."
+    - "Whether byt ḥrn is a place (Beth-horon) or a temple of Horon is open."
+    - "Ophir's location (Arabia, East Africa, India) is not settled by the ostracon."
+  sources_to_check:
+    - Maisler (Mazar), JNES 10 (1951)
+    - Dobbs-Allsopp et al., Hebrew Inscriptions (2005)
+
+- id: uzziah-epitaph
+  aliases: [Uzziah Tablet]
+  cultures: [jewish]
+  date: [-50, 50]
+  circa: true
+  scope: >-
+    A square stone plaque with an Aramaic inscription in Jewish square script, reading
+    'Hither were brought the bones of Uzziah, king of Judah. Do not open!'. It records a
+    reburial of the king's remains in the late Second Temple period and was identified
+    by E. L. Sukenik in 1931 in a collection on the Mount of Olives.
+  passages:
+    - "2Chr 26:23 | event | Uzziah buried in a field of the royal burial ground because he was leprous"
+    - "2Kgs 15:7 | event | Azariah (Uzziah) buried with his ancestors in the City of David"
+    - "2Chr 26:19-21 | setting | Uzziah's skin disease and isolation"
+    - "Neh 3:16 | setting | Tombs of David as a Jerusalem landmark after the exile"
+    - "Acts 2:29 | setting | David's tomb still known in the 1st century CE"
+  related: [ossuaries, city-of-david, jerusalem, aramaic-language, bench-tombs, chronology-of-kings]
+  wikipedia: null
+  image: Uzziah burial plaque Israel Museum
+  location: Israel Museum, Jerusalem
+  author_notes:
+    - "This is not an 8th-century artefact. The script dates it to the 1st century BCE or 1st century CE, contemporary with ossuary burial."
+    - "The original findspot is unknown. It is not known whether the bones were really Uzziah's. The plaque is evidence for Second Temple memory of the royal tombs and for reburial practice."
+    - "Discuss the Chronicler's distinction between Uzziah's burial and that of other kings, which may lie behind the reburial."
+  sources_to_check:
+    - Corpus Inscriptionum Iudaeae/Palaestinae I (Jerusalem)
+
+- id: tell-siran-bottle-and-ammonite-inscriptions
+  cultures: [ammonite]
+  date: [-850, -580]
+  circa: true
+  scope: >-
+    The small corpus of Ammonite inscriptions from the 9th to 6th centuries, chiefly the
+    Amman Citadel Inscription (a building or divine-oracle text invoking Milkom), the
+    bronze Tell Siran bottle naming three generations of Ammonite kings, and a seal
+    impression from Tell el-ʿUmeiri of 'Milkomʾur, servant of Baʿalyashaʿ', usually
+    identified with Baalis of Jer 40:14.
+  passages:
+    - "Jer 40:14 | attests | Baalis king of the Ammonites, who sent Ishmael to kill Gedaliah"
+    - "1Kgs 11:5, 33 | attests | Milcom, god of the Ammonites"
+    - "2Kgs 23:13 | attests | Milcom, 'abomination of the Ammonites'"
+    - "Jer 49:1, 3 | attests | Milcom in the oracle against Ammon (MT malkām)"
+    - "2Sam 12:30 | language? | Crown of malkām: 'their king' or Milcom"
+    - "Amos 1:13-15 | setting | Oracle against Ammon and Rabbah"
+    - "Eccl 2:4-6 | parallel? | Royal works of vineyards, gardens and pools; cf. the Tell Siran bottle"
+  related: [ammonites, milkom, rabbah, seals-and-bullae, mizpah, fall-of-jerusalem-587, moabites]
+  wikipedia: Ammonite language
+  image: Tell Siran bottle Ammonite inscription
+  author_notes:
+    - "Tell Siran (found 1972) names Amminadab king of the Ammonites, son of Hissalel, son of Amminadab. An Amminadab of Ammon also appears in Ashurbanipal's records, which helps the dating."
+    - "The Baʿalyashaʿ = Baalis identification is widely accepted, but it rests on a name variant. Present it as probable."
+    - "The Ammonite script and language are distinct from Hebrew, Moabite and Aramaic, though the distinction is debated for some seals. Note that many 'Ammonite' seals are unprovenanced."
+    - "The Amman Citadel inscription is fragmentary. Whether it is a royal building text or a divine oracle is debated."
+  sources_to_check:
+    - Aufrecht, A Corpus of Ammonite Inscriptions (1989)
+    - Aḥituv, Echoes from the Past (2008)
+
+- id: qedarite-silver-bowl
+  aliases: [Tell el-Maskhuta Bowls, Qainu Bowl]
+  cultures: [arabian, persian]
+  date: [-425, -400]
+  circa: true
+  scope: >-
+    Silver bowls from a shrine of the goddess han-ʾIlat at Tell el-Maskhuta in the Wadi
+    Tumilat (Egypt), with Aramaic dedications. One records an offering by 'Qaynu son of
+    Gashmu, king of Qedar'. They attest a Qedarite dynasty whose founder is usually
+    identified with Geshem the Arab, Nehemiah's opponent.
+  passages:
+    - "Neh 2:19 | attests | Geshem the Arab among Nehemiah's opponents"
+    - "Neh 6:1-2, 6 | attests | Geshem (Gashmu) and the plot against Nehemiah"
+    - "Gen 25:13 | attests | Kedar as a son of Ishmael"
+    - "Isa 21:16-17 | attests | The glory and archers of Kedar"
+    - "Ezek 27:21 | attests | Arabia and the princes of Kedar trading with Tyre"
+    - "Ps 120:5 | attests | 'Tents of Kedar' as a byword for foreign dwelling"
+  related: [qedarites-and-arabs, sanballat, yehud-province, persia, incense-trade, aramaic-language]
+  wikipedia: null
+  image: Tell el-Maskhuta silver bowl Qaynu Brooklyn Museum
+  location: Brooklyn Museum, New York
+  author_notes:
+    - "Published by Rabinowitz (1956). The bowls are said to come from Tell el-Maskhuta, but they were acquired through the market, so give the provenance details carefully."
+    - "Gashmu here is probably the Geshem of Nehemiah (cf. Neh 6:6, 'Gashmu'). A Lihyanite inscription from Dedan naming 'Gashm son of Shahr' is also discussed. Explain the reasoning and the uncertainty."
+    - "The bowls show a Qedarite kingdom stretching from northern Arabia to the eastern Delta under Persian rule. This is the context for Geshem's interest in Judah."
+  sources_to_check:
+    - Rabinowitz, JNES 15 (1956)
+
+- id: pim-weights
+  aliases: [Judahite inscribed weights]
+  cultures: [judahite]
+  date: [-750, -586]
+  circa: true
+  scope: >-
+    Small dome-shaped stone weights of the late Judahite monarchy, inscribed with the
+    shekel sign and hieratic numerals or with the names of fractional units: nṣp (nesef),
+    pym (pim) and bqʿ (beqaʿ). Their standardisation reveals a Judahite weight system
+    based on a shekel of about 11.3 g.
+  passages:
+    - "1Sam 13:21 | language | pîm, the charge for sharpening tools, explained by inscribed pim weights"
+    - "Exod 38:26 | language | beqaʿ as half a shekel"
+    - "Gen 24:22 | language | A gold nose-ring weighing a beqaʿ"
+    - "Ezek 45:12 | practice | The shekel defined as twenty gerahs; cf. hieratic gerah numerals"
+    - "Gen 23:16 | practice | Silver weighed out at the merchants' standard"
+    - "Lev 19:35-36 | practice | Just balances and just weights ('stones')"
+    - "Deut 25:13-16 | practice | Prohibition of two different weights, large and small"
+    - "Prov 11:1 | practice | False balances an abomination to YHWH"
+    - "Amos 8:5 | practice | Merchants making the shekel great to cheat"
+    - "Mic 6:11 | practice | A bag of deceitful weights"
+  related: [weights-and-silver-money, coinage, iron-technology, lmlk-seal-impressions, scribes-and-scribal-education]
+  wikipedia: Pim weight
+  image: Pim weight stone Judah
+  author_notes:
+    - "Before the pim weights were identified (early 20th century), 1 Sam 13:21 was unintelligible. It is a classic case of epigraphy solving a biblical crux."
+    - "The use of Egyptian hieratic numerals on Judahite weights is a notable sign of Egyptian scribal influence."
+    - "Note the variation in actual weight among specimens. Biblical concern for just weights is borne out by real variability (Kletter)."
+    - "Some inscribed weights on the market are forgeries. Prefer excavated examples."
+  sources_to_check:
+    - "Kletter, Economic Keystones: The Weight System of the Kingdom of Judah (JSOTSup 276, 1998)"
+
+- id: judean-pillar-figurines
+  aliases: [JPFs]
+  cultures: [judahite]
+  date: [-750, -586]
+  circa: true
+  scope: >-
+    Small terracotta female figurines with a solid pillar base and hands supporting the
+    breasts, found by the thousand in 8th to early 6th century Judah, especially in
+    Jerusalem households. The entry covers their typology, contexts and the debate over
+    whom or what they represent.
+  passages:
+    - "Jer 7:18 | practice? | Families bake cakes for the Queen of Heaven"
+    - "Jer 44:15-19 | practice? | Women's offerings to the Queen of Heaven, cakes 'in her image'"
+    - "2Kgs 23:6-7 | concept? | Asherah and women weaving for Asherah in the temple"
+    - "Gen 31:19, 34-35 | practice? | Household images (teraphim) kept by women"
+    - "Deut 4:16 | polemic? | Prohibition of images 'in the likeness of male or female'"
+  related: [asherah, queen-of-heaven, teraphim, cult-reforms-archaeology, aniconism, amulets, cult-images]
+  wikipedia: Judean pillar figure
+  image: Judean pillar figurine
+  author_notes:
+    - "Interpretations include Asherah (Kletter), a generic goddess, votive figures, and healing or apotropaic devices (Darby). Recent work stresses domestic and protective uses rather than 'fertility cult'."
+    - "The figurines continue up to 586 and were not removed by Josiah's reform. This complicates simple readings of 2 Kgs 23 and of a 'popular religion' versus 'official religion' split."
+    - "Most come from fills and refuse, not shrines. Context matters for interpretation."
+    - "Every biblical link here is inferential. Mark identifications (Asherah, Queen of Heaven, teraphim) as proposals."
+  sources_to_check:
+    - Kletter, The Judean Pillar-Figurines and the Archaeology of Asherah (BAR International Series 636, 1996)
+    - Darby, Interpreting Judean Pillar Figurines (2014)
+    - Keel and Uehlinger, Gods, Goddesses, and Images of God in Ancient Israel (1998)
+
+- id: taanach-cult-stand
+  cultures: [canaanite, israelite]
+  date: [-1000, -900]
+  circa: true
+  scope: >-
+    Two decorated terracotta cult stands from Taanach in the Jezreel Valley. The better
+    known, found by P. Lapp in 1968, has four registers: a naked female between lions;
+    two winged sphinxes flanking an empty space; a sacred tree with ibexes between lions;
+    and a quadruped under a winged sun disk.
+  passages:
+    - "1Kgs 7:27-37 | realia | Bronze stands of Solomon's temple decorated with lions, oxen, cherubim and palms"
+    - "1Sam 4:4 | concept? | YHWH 'enthroned on the cherubim'; cf. the empty space between sphinxes"
+    - "2Kgs 23:11 | imagery? | Horses dedicated to the sun; cf. the quadruped beneath the sun disk"
+    - "Deut 16:21 | concept? | Asherah and the sacred tree"
+    - "Judg 5:19 | setting | The kings of Canaan fought at Taanach"
+    - "1Kgs 4:12 | setting | Taanach in an Israelite administrative district"
+  related: [cult-stands, cherubim, asherah, winged-sun-disk, cherub-throne, aniconism, shamash]
+  wikipedia: Ta'anakh cult stand
+  image: Taanach cult stand Israel Museum
+  location: Israel Museum, Jerusalem (Lapp stand)
+  author_notes:
+    - "The two stands should be distinguished: Sellin found one in 1902, and Lapp found the famous one in 1968."
+    - "Hestrin's and Taylor's readings (alternating Asherah registers and YHWH registers, with an aniconic deity between cherubim and a solar YHWH on top) are influential but contested. Present them as interpretations."
+    - "Whether Taanach was Israelite or Canaanite in the 10th century is itself debated. Avoid calling the stand 'Israelite'."
+    - "The quadruped on the top register may be a horse or a bovine. This affects the solar and 'calf' interpretations."
+  sources_to_check:
+    - Keel and Uehlinger, Gods, Goddesses, and Images of God in Ancient Israel (1998)
+    - Taylor, Yahweh and the Sun (JSOTSup 111, 1993)
+
+- id: bull-site-figurine
+  aliases: [Dhahrat et-Tawileh bull]
+  cultures: [israelite, canaanite]
+  date: [-1200, -1100]
+  circa: true
+  scope: >-
+    A bronze figurine of a zebu bull found in 1977 at an open-air Iron Age I cult place
+    (the 'Bull Site', Dhahrat et-Tawileh) in the northern Samarian hills, excavated by
+    A. Mazar. It is a key artefact for bull imagery among the early highland settlers.
+  passages:
+    - "Exod 32:1-6 | imagery | The golden calf at Sinai"
+    - "1Kgs 12:28-30 | imagery | Jeroboam's calves at Bethel and Dan"
+    - "Hos 8:5-6 | polemic | 'Your calf, O Samaria'"
+    - "Hos 13:2 | polemic | People kiss calves"
+    - "Gen 49:24 | language? | ʾăbîr yaʿăqōb, 'Mighty One of Jacob', related to ʾabbîr 'bull'"
+    - "Num 23:22 | imagery? | God's 'horns like a wild ox'"
+  related: [bull-iconography, el, baal, aniconism, emergence-of-israel, cult-images, high-places]
+  wikipedia: Bull Site
+  image: Bull Site bronze bull figurine Israel Museum
+  location: Israel Museum, Jerusalem
+  author_notes:
+    - "Mazar interpreted the site as an Israelite open cult place associated with El or Baal. Others (e.g. Ahlström) questioned the date and the Israelite attribution. Present both."
+    - "The bull may represent a deity or serve as a pedestal or emblem. This distinction matters for the golden-calf texts."
+    - "Avoid treating the figurine as a 'model' of the golden calf. It is evidence for bull iconography in the region."
+  sources_to_check:
+    - Mazar, BASOR 247 (1982)
+    - Keel and Uehlinger, Gods, Goddesses, and Images of God in Ancient Israel (1998)
+
+- id: samaria-ivories
+  cultures: [phoenician, israelite]
+  date: [-875, -725]
+  circa: true
+  scope: >-
+    Hundreds of carved ivory plaques and fragments, mostly furniture inlays, found in the
+    royal acropolis of Samaria in the 1930s. They are carved in Phoenician and North
+    Syrian styles, with motifs such as sphinxes (cherubim), palmettes, lotus, the infant
+    Horus, and the 'woman at the window'.
+  passages:
+    - "1Kgs 22:39 | realia | Ahab's 'ivory house'"
+    - "Amos 3:15 | realia | Houses of ivory to be destroyed"
+    - "Amos 6:4 | realia | Beds of ivory of the Samarian elite"
+    - "Ps 45:8 | realia | Ivory palaces in a royal wedding song (MT 45:9)"
+    - "1Kgs 6:29, 32, 35 | realia | Temple decoration of cherubim, palm trees and open flowers"
+    - "2Kgs 9:30 | imagery | 'Woman at the window' motif; cf. Jezebel looking out of the window"
+    - "Ezek 27:6, 15 | realia | Ivory in Phoenician trade and inlay"
+  related: [samaria, ahab, jezebel, phoenicians, cherubim, nimrud]
+  wikipedia: null
+  image: Samaria ivories Israel Museum
+  author_notes:
+    - "The stratigraphic context is poor, so dates range across the 9th to 8th centuries. Do not tie individual pieces to Ahab without qualification."
+    - "Compare with ivories from Nimrud and Arslan Tash, many of which may be booty or tribute from the west. Some Nimrud ivories may come from Samaria itself."
+    - "Discuss the Egyptianising iconography in an Israelite royal setting and what it suggests about elite taste rather than religious belief."
+  sources_to_check:
+    - Crowfoot and Crowfoot, Early Ivories from Samaria (1938)
+    - Winter, Iraq 38 (1976)
+
+- id: proto-sinaitic-script
+  aliases: [Proto-Canaanite script, Early alphabet]
+  cultures: [canaanite, egyptian]
+  scope: >-
+    The invention of the alphabet by Semitic speakers in contact with Egyptian writing
+    in the Middle Bronze Age, seen in the inscriptions of Serabit el-Khadim (Sinai) and
+    Wadi el-Ḥol (Egypt). The entry also covers its development through Proto-Canaanite
+    to the linear Phoenician alphabet c. 1050. Later national scripts are treated under
+    paleo-hebrew-script and aramaic-language.
+  passages:
+    - "Ps 119 | form | Alphabetic acrostic built on the inherited letter sequence"
+    - "Lam 1 | form | Alphabetic acrostic"
+    - "Exod 17:14; 24:4; 34:27-28 | setting? | Writing in the Sinai traditions; date and relevance debated"
+  related: [writing-and-literacy, paleo-hebrew-script, izbet-sartah-abecedary, ahiram-sarcophagus, scribes-and-scribal-education, ugaritic-texts, egyptian-loanwords]
+  wikipedia: Proto-Sinaitic script
+  image: Proto-Sinaitic inscription sphinx Serabit el-Khadim British Museum
+  author_notes:
+    - "Explain the acrophonic principle (Egyptian signs given Semitic sound values: ʾalp, bayt, etc.) and Gardiner's 1916 decipherment of lbʿlt 'for Baalat'."
+    - "Dating is debated: Middle Kingdom (c. 1850-1800, Wadi el-Ḥol; Goldwasser's miners' theory) versus later Bronze Age dates for some Serabit texts."
+    - "Reject fringe claims that the Proto-Sinaitic texts are in Hebrew or mention Moses or the exodus."
+    - "The Bronze Age alphabet does not establish that Mosaic-era writing as narrated in Exodus is historical. Keep the Sinai passages as narrative setting only."
+  sources_to_check:
+    - Hamilton, The Origins of the West Semitic Alphabet in Egyptian Scripts (2006)
+    - Darnell et al., AASOR 59 (2005)
+    - Sass, The Genesis of the Alphabet and Its Development in the Second Millennium B.C. (1988)
+    - Goldwasser, BAR 36:2 (2010)
+
+- id: paleo-hebrew-script
+  aliases: [Old Hebrew script, Hebrew epigraphy]
+  cultures: [hebrew]
+  scope: >-
+    The national script of Israel and Judah, derived from the Phoenician alphabet and
+    distinct by the 9th to 8th centuries, and the field of Hebrew epigraphy built on it.
+    The entry covers its replacement by the Aramaic-derived square script and its
+    survival in Qumran manuscripts, Hasmonean and Revolt coinage, and the Samaritan
+    script.
+  passages:
+    - "Isa 8:1 | practice | Writing on a large tablet 'in common characters' (ḥereṭ ʾĕnôš)"
+    - "Job 19:23-24 | realia | Words engraved in rock with iron stylus and lead"
+    - "Jer 17:1 | realia | Writing with an iron pen and diamond point"
+    - "Deut 27:2-8 | practice | Law written on plastered stones"
+    - "Hab 2:2 | practice | Writing the vision plainly on tablets"
+    - "2Kgs 18:26 | language | 'Judean' (yĕhûdît) as the language of Jerusalem, distinct from Aramaic"
+    - "Neh 13:24 | language | Children who cannot speak 'Judean'"
+    - "Ezra 4:7 | language | A letter written in Aramaic script"
+  related: [writing-and-literacy, proto-sinaitic-script, aramaic-language, siloam-inscription, samaritan-origins, dead-sea-scrolls, scribes-and-scribal-education, ostraca]
+  wikipedia: Paleo-Hebrew alphabet
+  image: Paleo-Hebrew Leviticus scroll Qumran
+  author_notes:
+    - "Present the main typological and palaeographic dating framework (Cross, Naveh, Rollston) and its limits. Palaeography gives ranges, not precise dates."
+    - "Note the distinctive Hebrew features (e.g. the shapes of kaph and mem), the use of hieratic numerals, and the regional north/south differences."
+    - "Scribes kept the old script for the divine name in some Qumran manuscripts and for whole scrolls (e.g. paleo-Leviticus). Explain the ideological uses of the script in the Hasmonean and Bar Kokhba periods."
+    - "Link to the literacy debate (Rollston, Schniedewind) without overclaiming widespread literacy."
+  sources_to_check:
+    - Naveh, Early History of the Alphabet (1982)
+    - Rollston, Writing and Literacy in the World of Ancient Israel (2010)
+    - Renz and Röllig, Handbuch der althebräischen Epigraphik (1995-2003)
+    - Dobbs-Allsopp et al., Hebrew Inscriptions (2005)
+
+- id: aramaic-language
+  aliases: [Biblical Aramaic, Imperial Aramaic]
+  cultures: [aramean, persian]
+  scope: >-
+    The Aramaic language and script from the earliest Old Aramaic royal inscriptions
+    through Imperial (Achaemenid) Aramaic to the Aramaic of the Second Temple period.
+    The entry covers the Aramaic portions of the Hebrew Bible, Aramaic words in the New
+    Testament, and the origin of the Jewish square script.
+  passages:
+    - "Ezra 4:8-6:18 | language | Aramaic section with official correspondence"
+    - "Ezra 7:12-26 | language | Artaxerxes' rescript in Aramaic"
+    - "Dan 2:4-7:28 | language | Aramaic section, beginning in 2:4b"
+    - "Jer 10:11 | language | A single Aramaic verse against the idols"
+    - "Gen 31:47 | language | Laban's Aramaic name Jegar-sahadutha for the cairn"
+    - "2Kgs 18:26 | language | Aramaic as the language of diplomacy, unknown to ordinary Judahites"
+    - "Ezra 4:7 | language | A letter written in Aramaic script and language"
+    - "Mark 5:41 | language | talitha koum"
+    - "Mark 15:34 | language | Eloi, Eloi, lema sabachthani"
+    - "Neh 8:8 | practice? | Reading the law 'with interpretation', traditionally linked to Aramaic rendering"
+  related: [arameans, elephantine-papyri, ahiqar, tel-dan-stele, sefire-treaties, tell-fekheriye-statue, paleo-hebrew-script, persia]
+  wikipedia: Aramaic
+  image: Aramaic papyrus Elephantine
+  author_notes:
+    - "Outline the standard periodisation (Old, Imperial or Official, Middle, Late) and its main corpora, e.g. Fekheriye, Sefire, Tel Dan, Elephantine, Qumran."
+    - "The Aramaic of Daniel and Ezra is used in dating arguments. Present the linguistic evidence carefully, as the arguments are contested in both directions."
+    - "Distinguish Aramaic language from Aramaic script. Explain the shift of Jews from the paleo-Hebrew to the square script in the Persian and Hellenistic periods."
+  sources_to_check:
+    - Gzella, A Cultural History of Aramaic (2015)
+    - Fitzmyer, A Wandering Aramean (1979)
+    - Porten and Yardeni, Textbook of Aramaic Documents from Ancient Egypt (TAD)
+    - Rosenthal, A Grammar of Biblical Aramaic
+
+- id: ugaritic-texts
+  cultures: [ugaritic]
+  date: [-1400, -1185]
+  circa: true
+  scope: >-
+    The texts written in the alphabetic cuneiform script found from 1929 at Ras Shamra
+    (Ugarit) and Ras Ibn Hani, including myths, epics, rituals, letters and
+    administrative records of the 14th and 13th centuries. This entry covers the corpus
+    and its significance for Hebrew language, poetry and religion. Individual
+    compositions have their own entries.
+  passages:
+    - "Ps 29 | parallel | Hymn to the storm god's voice; widely compared with Baal hymnody"
+    - "Ps 92:9 | parallel | 'Your enemies, O YHWH', a staircase tricolon matching KTU 1.2 IV (MT 92:10)"
+    - "Isa 27:1 | parallel | Leviathan the fleeing and twisting serpent, as Lotan in the Baal Cycle"
+    - "Ps 68:4 | language | 'Rider on the clouds', Baal's epithet rkb ʿrpt (MT 68:5)"
+    - "Ps 82:1 | concept | God presiding in the divine council"
+    - "Prov 26:23 | language | kspsgym 'like glaze', clarified by Ugaritic spsg"
+    - "Ezek 14:14, 20; 28:3 | attests? | Danel the righteous; cf. Dnil in the Aqhat epic"
+    - "2Sam 1:21 | language? | Emendation of 'fields of offerings' after an Ugaritic phrase"
+  related: [ugarit, baal-cycle, aqhat-epic, kirta-epic, el, baal, leviathan, divine-council]
+  wikipedia: Ugaritic texts
+  image: Ugaritic alphabet tablet Ras Shamra
+  author_notes:
+    - "Explain the 30-sign alphabetic cuneiform, the abecedaries, and the multilingual archive (Akkadian, Hurrian, Hittite)."
+    - "Correct the old misconception that KTU 1.23 contains 'cooking a kid in its mother's milk' (Exod 23:19). The reading has been abandoned."
+    - "Warn against 'pan-Ugaritism' (e.g. Dahood's Psalms commentary). Lexical comparisons need checking case by case."
+    - "Ugarit is a Late Bronze Age north Syrian city, not 'Canaanite religion' in general. The gap of several centuries before most biblical texts must be acknowledged."
+  sources_to_check:
+    - KTU3, Dietrich, Loretz and Sanmartín (2013)
+    - COS 1.86
+    - Parker (ed.), Ugaritic Narrative Poetry (SBLWAW 9, 1997)
+    - Pardee, Ritual and Cult at Ugarit (SBLWAW 10, 2002)
+    - Smith and Pitard, The Ugaritic Baal Cycle (1994-2009)
+
+- id: forgeries-in-biblical-archaeology
+  cultures: [hebrew, jewish]
+  scope: >-
+    Forged inscriptions and artefacts relating to the Bible, and the wider problem of
+    unprovenanced antiquities, from the 19th-century Shapira affair to the
+    Jehoash Inscription, the James Ossuary, the ivory pomegranate and the fake 'Dead Sea
+    Scroll' fragments. The entry covers detection methods and the scholarly ethics of
+    publishing looted or unprovenanced material.
+  passages:
+    - "2Kgs 12:4-16 | parallel | The forged 'Jehoash Inscription' was modelled on this temple-repair account (MT 12:5-17)"
+    - "Exod 28:33-34 | realia | Pomegranates on the priestly robe; the ivory pomegranate's inscription is forged"
+    - "Gal 1:19 | attests? | James the Lord's brother; the James Ossuary's 'brother of Jesus' is widely judged forged or unproven"
+  related: [seals-and-bullae, bullae-of-jeremiah-era-officials, dead-sea-scrolls, ossuaries, mesha-stele, hezekiah-bulla, writing-and-literacy, caiaphas-ossuary]
+  wikipedia: Archaeological forgery
+  image: Jehoash Inscription
+  author_notes:
+    - "Cover the classic cases: Shapira's Moabite pottery (1870s) and Deuteronomy strips (1883); the ivory pomegranate (inscription judged forged, IAA 2004); the Jehoash Inscription; the James Ossuary (the 2012 trial did not authenticate it); the Moussaieff ostraca; the Museum of the Bible 'DSS' fragments (all judged modern by 2020)."
+    - "Many seals and bullae that name biblical figures are unprovenanced. Recommend that the project flag provenance on every relevant entry."
+    - "Explain detection methods (palaeography, patina and petrographic analysis, too-perfect biblical phrasing) and their limits. Experts also disagree about some cases."
+    - "Note the recent attempt to rehabilitate the Shapira scroll (Dershowitz 2021) and the critical responses. Present the scroll as generally regarded as a forgery."
+  sources_to_check:
+    - Rollston, Maarav 10 (2003)
+    - Rollston, Maarav 11 (2004)
+    - Goren et al., IEJ 55 (2005)
+
+- id: omri
+  cultures: [israelite]
+  date: [-882, -871]
+  circa: true
+  scope: >-
+    Omri, king of Israel and founder of the Omride dynasty, considered in the light of
+    extrabiblical evidence. Kings treats his reign briefly, but the Mesha Stele names
+    him as the conqueror of Moab, and Assyrian scribes called Israel 'the House of Omri'
+    (Bīt-Ḫumri) for over a century.
+  passages:
+    - "1Kgs 16:15-28 | attests | Omri's rise from army commander, civil war with Tibni, and reign"
+    - "1Kgs 16:24 | setting | Omri buys the hill of Samaria and founds his capital"
+    - "2Kgs 3:4-5 | event | Moab tributary to Israel, as the Mesha Stele says Omri subdued it"
+    - "2Kgs 8:26 | attests | Athaliah, 'daughter' (granddaughter) of Omri, links the dynasty to Judah"
+    - "Mic 6:16 | attests | 'The statutes of Omri' as a byword for apostasy"
+  related: [mesha-stele, samaria, ahab, jezebel, jehu, black-obelisk, tirzah, chronology-of-kings]
+  wikipedia: Omri
+  image: Mesha Stele Louvre
+  author_notes:
+    - "Contrast the Deuteronomistic brevity (a few verses, judged evil) with Omri's international standing in Moabite and Assyrian sources."
+    - "Assyrian usage of 'House of Omri' even for Jehu ('son of Omri' on the Black Obelisk) reflects how the dynastic name stood for the state, not genealogy."
+    - "Discuss the archaeology of the Omride building programme (Samaria, Jezreel; possibly Megiddo and Hazor). Finkelstein's low chronology re-dates some 'Solomonic' structures to the Omrides."
+    - "Regnal dates follow Tadmor/Cogan (c. 882-871). Thiele has 885-874. The overlap with Tibni (1 Kgs 16:21-23) complicates the twelve-year total."
+  sources_to_check:
+    - KAI 181
+    - Cogan, I Kings (AB 10, 2001)
+
+- id: ahab
+  cultures: [israelite]
+  date: [-873, -852]
+  circa: true
+  scope: >-
+    Ahab son of Omri, king of Israel, considered in the light of extrabiblical evidence,
+    chiefly Shalmaneser III's Kurkh Monolith. It names 'Ahab the Israelite' with 2,000
+    chariots and 10,000 soldiers in the anti-Assyrian coalition at Qarqar (853). The
+    Mesha Stele and the archaeology of Samaria and Jezreel are also relevant.
+  passages:
+    - "1Kgs 16:29-34 | attests | Ahab's accession, marriage to Jezebel and Baal temple in Samaria"
+    - "1Kgs 22:39 | realia | Ahab's ivory house and the cities he built"
+    - "1Kgs 22:1 | setting | Three years without war between Aram and Israel; cf. the Qarqar coalition"
+    - "1Kgs 20:1-34 | event? | Wars with Ben-hadad; many think these stories once concerned later kings"
+    - "1Kgs 22:1-38 | event? | Death at Ramoth-gilead; historicity and original setting debated"
+    - "1Kgs 21:1-16 | setting | Naboth's vineyard beside the royal palace at Jezreel"
+    - "2Kgs 3:5 | event | Mesha rebels after Ahab's death"
+  related: [kurkh-monoliths, battle-of-qarqar, omri, jezebel, samaria-ivories, mesha-stele, ben-hadad, jezreel]
+  wikipedia: Ahab
+  image: Kurkh Monolith British Museum
+  author_notes:
+    - "Qarqar is unmentioned in Kings. Explain how Ahab's alliance with Hadadezer of Damascus there fits awkwardly with the 1 Kgs 20 and 22 war stories, and the proposal that these stories originally concerned Jehoahaz or Joash."
+    - "The Kurkh figure of 2,000 chariots is possibly a scribal error or an exaggeration, but it is commonly taken as evidence of Israel's military weight."
+    - "The Mesha Stele's 'son' of Omri may refer to Ahab or be generic. It fits uneasily with the 'after Ahab's death' timing of 2 Kgs 1:1 and 3:5."
+    - "Use Samaria and Jezreel archaeology for the Omride state, and treat the narrative portrayal (Elijah cycle) as Deuteronomistic and prophetic."
+  sources_to_check:
+    - COS 2.113A
+    - ANET 278-279
+    - Grayson, RIMA 3 (1996)
+
+- id: jezebel
+  cultures: [phoenician, israelite]
+  date: [-873, -841]
+  circa: true
+  scope: >-
+    Jezebel, daughter of Ethbaal king of the Sidonians, wife of Ahab and queen mother of
+    Israel, considered in the light of Phoenician history and the iconography of
+    royal women. The entry includes an unprovenanced seal inscribed yzbl.
+  passages:
+    - "1Kgs 16:31 | attests | Daughter of Ethbaal, king of the Sidonians (Ittobaal of Tyre)"
+    - "1Kgs 18:19 | setting | Prophets of Baal and Asherah eating at Jezebel's table"
+    - "1Kgs 21:8 | practice | Letters written in Ahab's name and sealed with his seal"
+    - "2Kgs 9:30-37 | imagery | Painted eyes and the 'woman at the window'"
+    - "2Kgs 10:13 | language | gĕbîrâ 'queen mother' as a court title"
+    - "Rev 2:20 | imagery | Jezebel as a type of false prophecy"
+  related: [ahab, phoenicians, tyre, baal, melqart, samaria-ivories, seals-and-bullae, sidon]
+  wikipedia: Jezebel
+  image: Jezebel seal yzbl Israel Museum
+  author_notes:
+    - "Ethbaal is usually identified with Ittobaal I of Tyre, known from Menander via Josephus (Ag. Ap. 1.123). 'King of the Sidonians' was a general term for Phoenician rulers."
+    - "The seal inscribed yzbl is unprovenanced (first published by Avigad, IEJ 14, 1964). Korpel (2006) argued it belonged to the queen. The reading, its royal symbols and the identification are all debated. Mark the link as uncertain."
+    - "Her portrait is a polemical Deuteronomistic construct. Discuss gender, foreignness and the role of queen mothers."
+    - "Which Baal Jezebel promoted (Melqart, Baal Shamem, or a generic Baal) is unresolved."
+  sources_to_check:
+    - Avigad and Sass, Corpus of West Semitic Stamp Seals (1997)
+
+- id: jehu
+  cultures: [israelite]
+  date: [-842, -814]
+  circa: true
+  scope: >-
+    Jehu, the army officer who overthrew the Omride dynasty, considered in the light of
+    extrabiblical evidence. Shalmaneser III's Black Obelisk records the tribute of
+    'Jehu of Bit-Omri' in 841. The Tel Dan Stele claims for an Aramean king the killings
+    that 2 Kings attributes to Jehu.
+  passages:
+    - "2Kgs 9:1-10:36 | event | Jehu's anointing, coup and reign"
+    - "2Kgs 9:14-28 | event | Killing of Joram and Ahaziah; cf. the Tel Dan Stele's rival claim"
+    - "2Kgs 9:2, 14 | attests | Jehu son of Jehoshaphat son of Nimshi; Assyrian texts call him 'son of Omri'"
+    - "1Kgs 19:16-17 | attests | Elijah commissioned to anoint Jehu"
+    - "2Kgs 10:32-33 | event | Hazael's conquests in Jehu's days, after Assyria withdrew"
+    - "Hos 1:4 | event | Prophetic condemnation of the bloodshed of Jezreel"
+  related: [black-obelisk, tel-dan-stele, shalmaneser-iii, hazael, omri, jezebel, jezreel, samaria]
+  wikipedia: Jehu
+  image: Black Obelisk Jehu panel British Museum
+  author_notes:
+    - "The prostrating figure on the Black Obelisk is labelled as Jehu's tribute. Whether it depicts Jehu himself or an envoy is debated. It is the only contemporary image of an Israelite or Judahite king."
+    - "Kings does not mention the tribute to Shalmaneser III (841). Explain the geopolitics: Jehu's submission and Hazael's resistance."
+    - "Set out the options for reconciling Tel Dan with 2 Kgs 9 neutrally (see tel-dan-stele)."
+    - "Hosea's condemnation contrasts with the approval in 2 Kgs 10:30. Note the tension within the biblical tradition."
+  sources_to_check:
+    - ANET 280-281
+    - Grayson, RIMA 3 (1996)
+
+- id: menahem
+  cultures: [israelite]
+  date: [-747, -737]
+  circa: true
+  scope: >-
+    Menahem son of Gadi, king of Israel, who seized the throne in Samaria and paid
+    heavy tribute to Tiglath-pileser III. He is named as 'Menahem of Samaria' in the
+    Assyrian king's annals and on the Iran Stele.
+  passages:
+    - "2Kgs 15:14-16 | event | Menahem's seizure of power and atrocity at Tiphsah"
+    - "2Kgs 15:19-20 | event | Tribute of a thousand talents to Pul, raised at fifty shekels per wealthy man"
+    - "1Chr 5:26 | attests | Pul identified with Tiglath-pileser"
+    - "Hos 5:13 | setting | Ephraim turns to Assyria for help"
+    - "Hos 8:9-10 | setting | Ephraim hires lovers among the nations"
+  related: [tiglath-pileser-iii, tiglath-pileser-iii-inscriptions, tribute-and-vassalage, samaria, rezin, pekah, assyria, chronology-of-kings]
+  wikipedia: Menahem
+  image: Iran Stele Tiglath-pileser III Israel Museum
+  author_notes:
+    - "Pul is Tiglath-pileser III's name as king of Babylon (Pulu in Babylonian sources). 1 Chr 5:26 seems to treat them as two kings."
+    - "The tribute is dated to 738 (or 740) in Assyrian sources. This constrains Menahem's chronology and conflicts with some biblical reckonings (Thiele's 752-742). Explain the problem."
+    - "Fifty shekels a head is close to the Assyrian price of a slave. The sum implies about 60,000 landowners, a figure discussed in socioeconomic studies."
+  sources_to_check:
+    - Tadmor and Yamada, RINAP 1 (2011)
+
+- id: pekah
+  cultures: [israelite]
+  date: [-735, -732]
+  circa: true
+  scope: >-
+    Pekah son of Remaliah, king of Israel, who joined Rezin of Damascus against Assyria
+    and Judah in the Syro-Ephraimite war. Tiglath-pileser III claims that the
+    Israelites overthrew Pekah (Paqaḫa) and that he installed Hoshea in his place.
+  passages:
+    - "2Kgs 15:25 | event | Pekah assassinates Pekahiah"
+    - "2Kgs 15:27-31 | event | Reign, Tiglath-pileser's annexation of Galilee and Gilead, and Pekah's murder by Hoshea"
+    - "2Kgs 16:5-9 | event | Rezin and Pekah besiege Jerusalem; Ahaz appeals to Assyria"
+    - "Isa 7:1-9 | event | Isaiah's oracle against the 'two smouldering stumps', Rezin and the son of Remaliah"
+    - "2Chr 28:5-8 | event | The Chronicler's account of Pekah's victory over Judah"
+  related: [tiglath-pileser-iii-inscriptions, tiglath-pileser-iii, rezin, ahaz, hoshea, menahem, damascus, chronology-of-kings]
+  wikipedia: Pekah
+  image: Tiglath-pileser III relief British Museum
+  author_notes:
+    - "The twenty-year reign in 2 Kgs 15:27 cannot fit the Assyrian synchronisms. Explain the proposals (rival kingdom in Gilead from c. 750, scribal error) and choose none."
+    - "Tiglath-pileser's summary inscriptions describe the deportations from Galilee (cf. 2 Kgs 15:29) and the change of king."
+    - "Isaiah's refusal to name Pekah ('son of Remaliah') may be contemptuous. This is a common reading."
+  sources_to_check:
+    - Tadmor and Yamada, RINAP 1 (2011)
+
+- id: hoshea
+  cultures: [israelite]
+  date: [-732, -724]
+  circa: true
+  scope: >-
+    Hoshea son of Elah, last king of Israel, placed on the throne under Assyrian
+    patronage after Pekah's overthrow. He later withheld tribute from Shalmaneser V,
+    sought help from Egypt, and was imprisoned before the fall of Samaria.
+  passages:
+    - "2Kgs 15:30 | event | Hoshea kills Pekah; Tiglath-pileser claims to have installed him"
+    - "2Kgs 17:1-6 | event | Vassalage, revolt, appeal to 'So, king of Egypt', imprisonment and siege"
+    - "2Kgs 17:4 | attests? | 'So' king of Egypt; identity (Osorkon IV, or the city of Sais) debated"
+    - "2Kgs 18:9-11 | event | Siege and capture of Samaria"
+    - "Hos 7:11 | setting | Ephraim calling to Egypt and going to Assyria"
+    - "Hos 12:1 | setting | Treaty with Assyria while oil is carried to Egypt (MT 12:2)"
+  related: [shalmaneser-v, fall-of-samaria, tiglath-pileser-iii-inscriptions, sargon-ii-inscriptions, pekah, samaria, deportation, tribute-and-vassalage]
+  wikipedia: Hoshea
+  image: null
+  author_notes:
+    - "Tiglath-pileser III records receiving Hoshea's tribute. Hoshea's capture (c. 724) preceded the fall of Samaria, so the kingdom fell without a king."
+    - "Whether Shalmaneser V or Sargon II took Samaria (722 or 720) bears on 2 Kgs 17:6. See fall-of-samaria."
+    - "Identify 'So' cautiously. The main proposals are Osorkon IV, a reading of Sais as a place name, and Tefnakht."
+  sources_to_check:
+    - Tadmor and Yamada, RINAP 1 (2011)
+    - Cogan and Tadmor, II Kings (AB 11, 1988)
+
+- id: ahaz
+  cultures: [judahite]
+  date: [-743, -727]
+  circa: true
+  scope: >-
+    Ahaz (Jehoahaz) son of Jotham, king of Judah, who submitted to Tiglath-pileser III
+    during the Syro-Ephraimite war. He appears in Assyrian tribute lists as Jehoahaz
+    (Iauḫazi) of Judah and on seal impressions, including his son Hezekiah's bulla.
+  passages:
+    - "2Kgs 16:5-9 | event | Syro-Ephraimite siege; Ahaz declares himself Assyria's 'servant and son' and sends tribute"
+    - "2Kgs 16:10-18 | practice | Altar copied from Damascus and temple changes 'because of the king of Assyria'"
+    - "2Kgs 16:3 | practice? | Ahaz 'made his son pass through fire'"
+    - "Isa 7:1-17 | event | Isaiah confronts Ahaz; the Immanuel sign"
+    - "2Chr 28:16-21 | event | Appeal to Assyria; Edomite and Philistine raids"
+    - "Isa 14:28 | setting | Oracle dated to the year Ahaz died"
+  related: [tiglath-pileser-iii-inscriptions, tiglath-pileser-iii, rezin, pekah, hezekiah-bulla, tribute-and-vassalage, child-sacrifice, damascus]
+  wikipedia: Ahaz
+  image: Hezekiah bulla Ophel
+  author_notes:
+    - "The Assyrian form Iauḫazi shows that his full name was Jehoahaz. The theophoric element may have been dropped in the biblical tradition."
+    - "His chronology is notoriously difficult: 16 years (2 Kgs 16:2) and the synchronisms with Hezekiah conflict. Tadmor/Cogan has c. 743-727 including a co-regency; others have 735-715."
+    - "The altar episode is no longer read as forced Assyrian religion. Most now see it as voluntary cultural emulation."
+    - "Unprovenanced bullae of 'Ahaz son of Jotham, king of Judah' exist. Present the Ophel Hezekiah bulla (which names Ahaz) as the excavated witness."
+  sources_to_check:
+    - Tadmor and Yamada, RINAP 1 (2011)
+
+- id: hezekiah
+  cultures: [judahite]
+  date: [-727, -698]
+  circa: true
+  scope: >-
+    Hezekiah son of Ahaz, king of Judah, considered in the light of extrabiblical
+    evidence. This includes Sennacherib's account of the 701 campaign and Lachish
+    reliefs, the Siloam tunnel and inscription, lmlk jars, the Ophel royal bulla, and
+    the archaeology of his fortifications and reforms.
+  passages:
+    - "2Kgs 18:13-16 | event | Sennacherib takes Judah's fortified cities; Hezekiah pays tribute"
+    - "2Kgs 18:17-19:37 | event | Rabshakeh's speech and Jerusalem's deliverance"
+    - "Isa 36-37 | event | Parallel account of the 701 crisis"
+    - "2Kgs 20:20 | realia | The pool and conduit bringing water into the city"
+    - "2Chr 32:2-5, 30 | realia | Water works and repaired and extended walls"
+    - "Isa 22:9-11 | realia | Houses torn down to fortify the wall; a reservoir between the walls"
+    - "2Kgs 18:4 | practice? | Removal of high places and Nehushtan; archaeological correlates debated"
+    - "2Kgs 20:12-19 | event? | Envoys of Merodach-baladan"
+    - "Prov 25:1 | setting | Proverbs copied by 'the men of Hezekiah'"
+  related: [sennacherib-campaign-701, sennacherib-annals, hezekiah-bulla, siloam-inscription, lmlk-seal-impressions, cult-reforms-archaeology, lachish-reliefs, merodach-baladan]
+  wikipedia: Hezekiah
+  image: King Hezekiah bulla Ophel
+  author_notes:
+    - "Chronology: 2 Kgs 18:13 puts 701 in Hezekiah's 14th year (accession c. 715). The synchronism with Hoshea (2 Kgs 18:1, 9-10) implies c. 727. State the chronology adopted and the alternatives."
+    - "Sennacherib claims 46 cities taken, 200,150 people deported, and Hezekiah shut up 'like a bird in a cage'. He reports 30 talents of gold and 800 of silver, against 300 silver in Kings. Compare without harmonising."
+    - "The Broad Wall in the Jewish Quarter is often linked to Isa 22:10, and Jerusalem expanded westward in the late 8th century."
+    - "Evidence for a cult reform (Arad sanctuary, Beersheba altar, Lachish gate shrine) is debated. See cult-reforms-archaeology."
+  sources_to_check:
+    - Grayson and Novotny, RINAP 3/1 (2012)
+    - ANET 287-288
+
+- id: manasseh
+  cultures: [judahite]
+  date: [-698, -642]
+  circa: true
+  scope: >-
+    Manasseh son of Hezekiah, the longest-reigning king of Judah, considered in the light
+    of extrabiblical evidence. Esarhaddon and Ashurbanipal list 'Manasseh king of Judah'
+    among the western vassals who supplied building materials and military support.
+  passages:
+    - "2Kgs 21:1-18 | attests | Manasseh's long reign, judged the worst in Judah's history"
+    - "2Kgs 21:3-7 | practice | Altars for Baal and the host of heaven, and an Asherah image in the temple"
+    - "2Chr 33:10-13 | event? | Manasseh taken to Babylon in fetters and restored; historicity debated"
+    - "2Chr 33:14 | realia? | Outer wall built west of Gihon"
+    - "Jer 15:4 | attests | Judah's fate blamed on Manasseh"
+  related: [esarhaddon-prisms, rassam-cylinder, esarhaddon, ashurbanipal, host-of-heaven, tribute-and-vassalage, child-sacrifice, assyria]
+  wikipedia: Manasseh of Judah
+  image: Esarhaddon prism British Museum
+  author_notes:
+    - "Esarhaddon's Nineveh prism (c. 673) and Ashurbanipal's Prism C (Egyptian campaign, 667) name Menasî of Judah. This gives firm evidence of loyal vassalage."
+    - "His reign coincides with the Pax Assyriaca. Note the archaeological evidence for economic recovery after 701 (Ekron oil industry, Negev and Judean Desert settlement)."
+    - "The Chronicler's captivity and repentance story has no Assyrian corroboration. It is usually read as theological (explaining the long reign), but some scholars defend a historical core."
+    - "The Deuteronomistic depiction of his cultic sins should be read alongside debates about Assyrian religious influence. Most now reject the idea of an imposed Assyrian cult."
+  sources_to_check:
+    - Leichty, RINAP 4 (2011)
+    - ANET 291, 294
+
+- id: josiah
+  cultures: [judahite]
+  date: [-640, -609]
+  circa: true
+  scope: >-
+    Josiah son of Amon, king of Judah, remembered for the discovery of the 'book of the
+    law' and a cult reform, and killed at Megiddo by Necho II in 609. No extrabiblical
+    text names him. He is approached through the Babylonian Chronicle, late 7th-century
+    seals and bullae, and the archaeology of Judah.
+  passages:
+    - "2Kgs 22:8-13 | setting | Discovery of the 'book of the law', since de Wette linked to Deuteronomy"
+    - "2Kgs 23:4-20 | practice? | Cult reform in Jerusalem, Judah and Bethel; archaeological evidence debated"
+    - "2Kgs 23:29-30 | event | Death at Megiddo when Necho went up to the king of Assyria"
+    - "2Chr 35:20-24 | event | The Chronicler's battle account at Megiddo"
+    - "Zeph 1:1, 4-6 | setting | Prophecy in Josiah's day against Baal, the host of heaven and Milcom"
+    - "Jer 22:15-16 | concept | Josiah remembered for justice to the poor and needy"
+  related: [cult-reforms-archaeology, necho-ii, fall-of-nineveh-chronicle, megiddo, bullae-of-jeremiah-era-officials, mesad-hashavyahu-ostracon, babylonian-chronicles, esarhaddon-succession-treaty]
+  wikipedia: Josiah
+  image: null
+  author_notes:
+    - "The Babylonian Chronicle for 609 shows Egypt going to aid Assyria at Harran. This clarifies 2 Kgs 23:29, which says Necho went up 'to' (not 'against') the king of Assyria."
+    - "The historicity and extent of the reform and of Josiah's northward expansion are heavily debated (minimalist and maximalist positions; the absence of iconic material in late 7th-century bullae; persistence of pillar figurines)."
+    - "Deuteronomy's dependence on Assyrian treaty forms (Esarhaddon's Succession Treaty) is relevant to the 'book of the law'. Present it as a scholarly hypothesis about Deuteronomy, not about Josiah."
+    - "Bullae of officials named in 2 Kgs 22-23 and Jeremiah (e.g. Nathan-melech) give a prosopographical context."
+  sources_to_check:
+    - Grayson, Assyrian and Babylonian Chronicles (1975)
+    - Cogan and Tadmor, II Kings (AB 11, 1988)
+
+- id: jehoiachin
+  aliases: [Jeconiah, Coniah]
+  cultures: [judahite]
+  date: [-598, -597]
+  circa: true
+  scope: >-
+    Jehoiachin son of Jehoiakim, king of Judah for three months before surrendering to
+    Nebuchadnezzar II in 597, and later a royal captive in Babylon. Babylonian ration
+    tablets list oil for 'Yaʾukīn, king of the land of Yahudu' and his sons.
+  passages:
+    - "2Kgs 24:8-17 | event | Brief reign, surrender and deportation in 597"
+    - "2Kgs 25:27-30 | event | Released by Evil-merodach and given a regular allowance"
+    - "Jer 52:31-34 | event | Parallel account of his release and rations"
+    - "Jer 22:24-30 | attests | Coniah as YHWH's signet ring, cast off; 'record this man as childless'"
+    - "1Chr 3:17-18 | attests | Sons of Jeconiah the captive"
+    - "Ezek 1:2 | setting | Prophetic dates reckoned from Jehoiachin's exile"
+  related: [jehoiachin-ration-tablets, nebuchadnezzar-chronicle, nebuchadnezzar-ii, amel-marduk, fall-of-jerusalem-587, babylonian-exile, al-yahudu-tablets, deportation]
+  wikipedia: Jeconiah
+  image: Jehoiachin ration tablet
+  author_notes:
+    - "The Babylonian Chronicle (ABC 5) dates the capture of Jerusalem to 2 Adar of Nebuchadnezzar's 7th year (16 March 597). 2 Kgs 24:12 has 'eighth year'. Explain the different reckonings."
+    - "The ration tablets (Weidner) date from c. 592 onwards, before his release in 562/561. They show Jehoiachin and five sons receiving rations, which complicates 'childless' in Jer 22:30."
+    - "Correct an older error: the 'Eliakim steward of Yokan' seal impressions were once linked to Jehoiachin, but are now dated to the late 8th century and are unrelated."
+    - "Exilic dating by Jehoiachin's years (Ezekiel) suggests some still regarded him as the legitimate king."
+  sources_to_check:
+    - ANET 308
+    - Grayson, Assyrian and Babylonian Chronicles (1975)
+    - Weidner, 'Jojachin, König von Juda, in babylonischen Keilschrifttexten' (1939)
+
+- id: david
+  cultures: [hebrew]
+  date: [-1010, -970]
+  circa: true
+  scope: >-
+    The historical questions surrounding David: the extrabiblical evidence (the Tel Dan
+    Stele's 'House of David', a disputed reading in the Mesha Stele), the archaeology of
+    10th-century Jerusalem and the Shephelah, and the debate over the scale of his
+    kingdom. It does not cover David's literary portrayal as such.
+  passages:
+    - "2Sam 7:11-16 | concept | Promise of a Davidic house; the dynasty is attested as bytdwd at Tel Dan"
+    - "2Sam 5:6-10 | setting | Capture of Jerusalem and the 'City of David'"
+    - "2Sam 8:1-14 | event? | David's conquests; their extent is debated"
+    - "1Sam 17:1-3 | setting? | Elah Valley; the relation of Khirbet Qeiyafa to David's kingdom is debated"
+    - "1Sam 27:2-7 | setting | David as vassal of Achish of Gath; Gath a major Iron IIA city"
+    - "1Kgs 2:10-11 | attests | Forty-year reign and burial in the City of David"
+  related: [tel-dan-stele, mesha-stele, khirbet-qeiyafa, city-of-david, low-chronology-debate, solomon, jerusalem, emergence-of-israel]
+  wikipedia: David
+  image: Tel Dan Stele Israel Museum
+  author_notes:
+    - "The Tel Dan Stele (c. 840-800) shows a dynasty named after David about 150 years later. It is the only secure extrabiblical evidence. Mesha line 31 and the Shoshenq list's proposed 'heights of David' are disputed readings."
+    - "Present the positions on 10th-century Judah and Jerusalem: the high chronology (Mazar, Garfinkel), the low chronology (Finkelstein), and modified positions. Cover the Stepped Stone Structure and E. Mazar's 'Large Stone Structure'."
+    - "Khirbet Qeiyafa: its fortification, the ostracon, and the debate over whether it is Judahite or Philistine-related."
+    - "Dates are conventional (c. 1010-970) and derived from biblical numbers. Do not imply precision."
+  sources_to_check:
+    - Halpern, David's Secret Demons (2001)
+    - Finkelstein and Silberman, David and Solomon (2006)
+    - "McKenzie, King David: A Biography (2000)"
+
+- id: solomon
+  cultures: [hebrew]
+  date: [-970, -931]
+  circa: true
+  scope: >-
+    The historical questions surrounding Solomon: the lack of contemporary inscriptions,
+    the archaeological debate over 'Solomonic' building at Hazor, Megiddo and Gezer,
+    copper production in the Arabah, Phoenician relations, and the chronological anchor
+    of Shishak's campaign. It does not cover Solomon's literary portrayal or later
+    traditions.
+  passages:
+    - "1Kgs 9:15-19 | realia? | Building Jerusalem, Hazor, Megiddo and Gezer; the 'Solomonic gates' debate"
+    - "1Kgs 5:1-12 | setting | Treaty with Hiram of Tyre for cedar and craftsmen (MT 5:15-26)"
+    - "1Kgs 9:26-28 | event? | Red Sea fleet to Ophir with Hiram's sailors"
+    - "1Kgs 10:1-13 | event? | Visit of the Queen of Sheba; date of Sabaean statehood debated"
+    - "1Kgs 10:28-29 | setting | Horse and chariot trade with Egypt and Kue"
+    - "1Kgs 11:14-25 | setting | Adversaries in Edom and Damascus"
+    - "1Kgs 11:40 | attests | Shishak, i.e. Shoshenq I, an Egyptian synchronism for the end of the reign"
+    - "1Kgs 4:21 | concept | Rule 'from the Euphrates to the border of Egypt' as royal ideology (MT 5:1)"
+  related: [low-chronology-debate, hiram-of-tyre, shoshenq-i, sheba, gezer, megiddo, hazor, faynan]
+  wikipedia: Solomon
+  image: null
+  author_notes:
+    - "No extrabiblical text names Solomon. Say so plainly."
+    - "Yadin's six-chamber gates as 'Solomonic' versus the low chronology and radiocarbon redating. Present the current state of the debate fairly."
+    - "Copper production at Timna and Faynan peaked in the 10th century. Its political control (Edomite or other local groups, not necessarily Jerusalem) is debated."
+    - "Dates derive from biblical numbers anchored by Shoshenq I's campaign (c. 925). The regnal span is conventional."
+  sources_to_check:
+    - Handy (ed.), The Age of Solomon (1997)
+    - Finkelstein and Silberman, David and Solomon (2006)
+
+- id: hazael
+  cultures: [aramean]
+  date: [-842, -800]
+  circa: true
+  scope: >-
+    Hazael, king of Aram-Damascus, who seized the throne c. 842 and made Damascus the
+    dominant power in the southern Levant. He is attested in Shalmaneser III's annals
+    (as 'son of nobody'), probably as the author of the Tel Dan Stele, and in booty
+    inscriptions on ivory and bronze.
+  passages:
+    - "1Kgs 19:15-17 | attests | Elijah commissioned to anoint Hazael over Aram"
+    - "2Kgs 8:7-15 | event | Hazael's usurpation after Ben-hadad's death"
+    - "2Kgs 8:28-29 | event | War with Joram and Ahaziah at Ramoth-gilead"
+    - "2Kgs 10:32-33 | event | Conquest of Israelite Transjordan"
+    - "2Kgs 12:17-18 | event | Capture of Gath; Jerusalem buys him off (MT 12:18-19)"
+    - "2Kgs 13:3, 22 | event | Oppression of Israel under Jehoahaz"
+    - "Amos 1:3-4 | attests | Fire on 'the house of Hazael'"
+  related: [tel-dan-stele, ben-hadad, damascus, jehu, shalmaneser-iii, gath, black-obelisk, arameans]
+  wikipedia: Hazael
+  image: Tel Dan Stele Israel Museum
+  author_notes:
+    - "Shalmaneser III calls him 'son of a nobody', implying a usurper. This fits 2 Kgs 8:7-15. The Tel Dan Stele's mention of the speaker's father as king is a tension to discuss."
+    - "Booty inscriptions ('that which Hadad gave our lord Hazael'), on a horse frontlet and blinker found at Samos and Eretria and on Arslan Tash ivories, show his reach and how his loot later circulated."
+    - "The siege works and destruction at Tell eṣ-Ṣafi (Gath) are commonly tied to 2 Kgs 12:17. Present this as a strong correlation, not a proof."
+  sources_to_check:
+    - KAI 310
+    - COS 2.39
+    - Grayson, RIMA 3 (1996)
+
+- id: ben-hadad
+  cultures: [aramean]
+  date: [-900, -775]
+  circa: true
+  scope: >-
+    Ben-hadad ('son of Hadad', Aramaic Bar-Hadad), the name given in Kings to several
+    kings of Aram-Damascus between c. 900 and c. 775. The entry sorts the biblical
+    references against the Zakkur and Melqart stelae and the Assyrian evidence for
+    Hadadezer and 'Mariʾ'.
+  passages:
+    - "1Kgs 15:18-20 | attests | Ben-hadad son of Tabrimmon son of Hezion, hired by Asa against Baasha"
+    - "1Kgs 20:1-34 | attests? | Ben-hadad's wars with Ahab; the identity of this king is debated"
+    - "2Kgs 6:24 | attests? | Ben-hadad's siege of Samaria"
+    - "2Kgs 8:7-15 | attests? | Ben-hadad killed by Hazael; Assyrian sources name Hazael's predecessor Hadadezer"
+    - "2Kgs 13:3, 24-25 | attests | Ben-hadad son of Hazael, Bar-Hadad of the Zakkur Stele"
+    - "Amos 1:4 | attests | 'Strongholds of Ben-hadad'"
+    - "Jer 49:27 | attests | 'Strongholds of Ben-hadad' in the oracle against Damascus"
+  related: [hazael, zakkur-stele, melqart-stele, damascus, tell-al-rimah-stele, ahab, battle-of-qarqar, arameans]
+  wikipedia: Ben-Hadad I
+  image: Zakkur stele Louvre
+  author_notes:
+    - "Explain why the number of Ben-hadads (two or three) is disputed. Shalmaneser III names Hadadezer (Adad-idri) as king of Damascus in 853-845, not a Ben-hadad."
+    - "Only Ben-hadad son of Hazael is securely attested (Zakkur Stele). 'Mariʾ' in Adad-nirari III's inscriptions (e.g. Tell al-Rimah) is probably the same king under an Aramaic title meaning 'my lord'."
+    - "The Ahab war narratives (1 Kgs 20; 22) may originally have concerned Ben-hadad son of Hazael and Jehoahaz or Joash. This hypothesis is widely held but not consensus."
+    - "The Melqart Stele's Bar-Hadad is of uncertain identity. Do not use it to settle the sequence."
+  sources_to_check:
+    - KAI 202
+    - Pitard, Ancient Damascus (1987)
+
+- id: rezin
+  cultures: [aramean]
+  date: [-750, -732]
+  circa: true
+  scope: >-
+    Rezin, the last king of Aram-Damascus, who led the anti-Assyrian coalition with
+    Pekah of Israel and besieged Jerusalem in the Syro-Ephraimite war. Tiglath-pileser III
+    records his tribute (738), his defeat and Damascus's annexation (733-732). He is
+    named in Assyrian texts as Raḫiānu.
+  passages:
+    - "2Kgs 15:37 | event | Rezin and Pekah sent against Judah"
+    - "2Kgs 16:5-9 | event | Siege of Jerusalem; Assyria takes Damascus and kills Rezin"
+    - "2Kgs 16:6 | event? | Elath recovered for Aram (or Edom; textual problem)"
+    - "Isa 7:1-9 | event | 'The head of Aram is Damascus, the head of Damascus is Rezin'"
+    - "Isa 8:6 | attests | Judahites who 'rejoice over Rezin'; Hebrew difficult"
+    - "Isa 17:1-3 | setting | Oracle on the fall of Damascus"
+  related: [tiglath-pileser-iii-inscriptions, tiglath-pileser-iii, pekah, ahaz, damascus, arameans, tribute-and-vassalage]
+  wikipedia: Rezin
+  image: null
+  author_notes:
+    - "Assyrian Raḫiānu suggests an original Aramaic form like Raḍyān. The Masoretic rĕṣîn may be secondary. Note the philological discussion."
+    - "Tiglath-pileser lists Rezin among tributaries in 738 (with Menahem), then describes the campaign against Damascus in 733-732. The annals are fragmentary."
+    - "In 2 Kgs 16:6 the MT has 'Aram' and the Qere and many commentators have 'Edom'. Flag the textual issue."
+  sources_to_check:
+    - Tadmor and Yamada, RINAP 1 (2011)
+    - Pitard, Ancient Damascus (1987)
+
+- id: hiram-of-tyre
+  aliases: [Hiram I, Huram]
+  cultures: [phoenician]
+  date: [-980, -947]
+  circa: true
+  scope: >-
+    Hiram I, king of Tyre, partner of David and Solomon in building projects and maritime
+    trade. No contemporary inscription names him. He is known from Kings and Chronicles
+    and from Tyrian annals as excerpted by Josephus from Menander of Ephesus and Dius.
+  passages:
+    - "2Sam 5:11 | attests | Hiram sends cedar and craftsmen for David's house"
+    - "1Kgs 5:1-12 | attests | Treaty with Solomon: cedar and cypress for wheat and oil (MT 5:15-26)"
+    - "1Kgs 9:10-14 | attests | The cities of Cabul given to Hiram"
+    - "1Kgs 9:26-28 | attests | Hiram's sailors on the fleet to Ophir"
+    - "1Kgs 10:11, 22 | attests | Hiram's fleet and the 'ships of Tarshish'"
+    - "2Chr 2:3-16 | attests | Correspondence between Solomon and Huram (MT 2:2-15)"
+  related: [tyre, phoenicians, phoenician-seafaring, solomon, david, ophir, tarshish, josephus]
+  wikipedia: Hiram I
+  image: null
+  author_notes:
+    - "Josephus (Ag. Ap. 1.106-127; Ant. 8.141-149) cites Tyrian records for Hiram's reign and works. Assess their reliability and their use in the Tyrian king-list chronology (and the founding of Carthage)."
+    - "Dates vary by reconstruction (c. 980-947 or c. 969-936). Note the difficulty of Hiram dealing with both David (early in David's reign) and Solomon."
+    - "Distinguish King Hiram from Hiram (Huram-abi) the bronze-worker of 1 Kgs 7:13-14 and 2 Chr 2:13-14."
+    - "Archaeological context for Tyre in the 10th century is limited. Expansion to Cyprus and the west is mostly later."
+  sources_to_check:
+    - Josephus, Against Apion 1.106-127
+    - Katzenstein, The History of Tyre (1973)
+
+- id: khirbet-qeiyafa-ostracon
+  aliases: [Qeiyafa Ostracon]
+  cultures: [hebrew]
+  date: [-1020, -980]
+  circa: true
+  scope: >-
+    A five-line ink inscription on a pottery sherd found in 2008 at Khirbet Qeiyafa,
+    written in a late Proto-Canaanite (early alphabetic) script of the late eleventh or
+    early tenth century BCE. The entry covers its script, the disputed language and
+    readings, and what it does and does not show about literacy in early Iron Age Judah;
+    the site, its fortifications and the debate over who built it are treated under
+    khirbet-qeiyafa.
+  passages:
+    - "1Sam 17:1-3 | setting | Found at the fortress overlooking the Elah Valley, the setting of the Goliath story"
+    - "Judg 8:14 | practice? | A young man of Succoth writes down the town's officials, cited in debates on early literacy"
+    - "2Sam 8:17 | practice? | A royal scribe in David's court; the ostracon is used in debates on tenth-century administration"
+    - "Exod 22:21-24 | concept? | Protection of sojourner, widow and orphan, if Galil's social-justice reading is accepted (MT 22:20-23)"
+    - "Isa 1:17 | concept? | 'Defend the orphan, plead for the widow', similar wording in the proposed social-justice reading"
+  related: [khirbet-qeiyafa, writing-and-literacy, ostraca, proto-sinaitic-script, izbet-sartah-abecedary, paleo-hebrew-script, widow-orphan-sojourner, low-chronology-debate]
+  wikipedia: Khirbet Qeiyafa ostracon
+  image: Khirbet Qeiyafa ostracon
+  author_notes:
+    - "Found in 2008 and published by Misgav, Garfinkel and Ganor (2009). The ink is faded, and even the direction of writing and the division of words have been disputed. Recurring legible words include forms of ʿbd ('serve' or 'slave'), špṭ ('judge') and possibly ʾlmn ('widow') and mlk ('king')."
+    - "The readings cannot be reconciled with each other. Galil reads a social-justice text urging care for the slave, widow, orphan and sojourner. Puech reads a text connected with the establishment of kingship. Others see a list of names or a writing exercise. Present them as alternatives and do not build on any one of them."
+    - "The language is disputed. Galil and Puech argue for Hebrew on lexical grounds (e.g. the verb ʿśh 'do'). Rollston and others hold that the text has too few diagnostic features to separate Hebrew from other Canaanite dialects at this date. Avoid calling it 'the earliest Hebrew inscription' without qualification."
+    - "It shows that someone at a small fortified town could write around 1000 BCE. It does not by itself demonstrate a Davidic state bureaucracy or widespread literacy. A second inscription from the site, the jar inscription naming ʾšbʿl bn bdʿ (published 2015), is a separate object; compare the name Eshbaal (1Chr 8:33)."
+  sources_to_check:
+    - "H. Misgav, Y. Garfinkel and S. Ganor, 'The Ostracon,' in Y. Garfinkel and S. Ganor, Khirbet Qeiyafa Vol. 1: Excavation Report 2007-2008 (2009)"
+    - "G. Galil, 'The Hebrew Inscription from Khirbet Qeiyafa/Neṭaʿim,' Ugarit-Forschungen 41 (2009)"
+    - "É. Puech, 'L'ostracon de Khirbet Qeyafa et les débuts de la royauté en Israël,' Revue Biblique 117 (2010)"
+    - "C. A. Rollston, 'The Khirbet Qeiyafa Ostracon: Methodological Musings and Caveats,' Tel Aviv 38 (2011)"
+
+- id: bar-rakib-and-panamuwa-inscriptions
+  aliases: [Panamuwa II Inscription, Hadad Statue, Bar-Rakib Inscriptions, Barrakib]
+  cultures: [aramean, luwian]
+  date: [-770, -720]
+  circa: true
+  scope: >-
+    The royal inscriptions of eighth-century Samʾal (Zincirli): the Hadad statue of
+    Panamuwa I, the memorial inscription set up by Bar-Rakib for his father Panamuwa II,
+    and Bar-Rakib's own building inscriptions and reliefs. They document a dynastic coup,
+    Assyrian restoration, and the self-presentation of loyal vassals of Tiglath-pileser III.
+    The earlier Kilamuwa and Katumuwa stelae have their own entries.
+  passages:
+    - "2Kgs 16:5-9 | event | Rezin's war and Tiglath-pileser's capture of Damascus, the campaign in which Panamuwa II probably died"
+    - "2Kgs 16:7-8 | practice | Ahaz, 'your servant and your son', buys Assyrian help; Samʾal's kings as loyal vassals"
+    - "2Kgs 16:10 | setting | Ahaz meets Tiglath-pileser at Damascus after its capture"
+    - "Judg 9:5 | parallel | Seventy brothers killed in a coup; cf. Bar-Ṣur and his seventy kinsmen"
+    - "2Kgs 10:6-7 | parallel | Seventy sons of Ahab slaughtered in Jehu's coup"
+    - "1Kgs 3:6 | concept | Son seated on his father's throne because of the father's righteousness"
+    - "Ps 21:2-4 | concept | God grants the king what he asks, as in Panamuwa I's Hadad inscription (MT 21:3-5)"
+    - "1Sam 8:11 | imagery | Men running before the king's chariots; cf. 'I ran at the wheel of my lord'"
+  related: [tiglath-pileser-iii, tiglath-pileser-iii-inscriptions, tribute-and-vassalage, kilamuwa-stele, katumuwa-stele, ahaz, rezin, aramaic-language]
+  wikipedia: Panamuwa II inscription
+  image: Barrakib relief scribe Zincirli
+  author_notes:
+    - "Distinguish the pieces. The Hadad statue of Panamuwa I (KAI 214) and the Panamuwa II memorial (KAI 215) are in the local Samʾalian dialect. Bar-Rakib's inscriptions (KAI 216-221) are in standard Old Aramaic. The shift of written language within one dynasty is itself significant. Give holding museums only after verifying each object (Berlin and Istanbul both hold Zincirli finds)."
+    - "KAI 215 tells how Panamuwa II's father Bar-Ṣur was killed with seventy of his kinsmen, how Assyria restored the dynasty, and how Panamuwa died in the camp of his lord Tiglath-pileser, probably during the Damascus campaign of 733-732. The camp mourned him and his body was brought home."
+    - "Bar-Rakib's phrases ('I ran at the wheel of my lord, the king of Assyria'; 'because of my father's righteousness and my own righteousness') are classic vassal language. They make a close comparison with Ahaz's submission in 2 Kgs 16, without implying any literary link."
+    - "The Hadad statue directs a future king to invoke 'the soul (nbš) of Panamuwa' to eat and drink with Hadad. Link this royal ancestor cult to the Katumuwa stele and to care-for-the-dead."
+    - "Panammu of Samʾal appears in Tiglath-pileser III's tribute lists alongside Rezin and Menahem; verify the list and date (c. 738)."
+  sources_to_check:
+    - KAI 214
+    - KAI 215
+    - KAI 216
+    - "J. Tropper, Die Inschriften von Zincirli (ALASP 6, 1993)"
+
+- id: edomite-inscriptions
+  aliases: [Horvat ʿUza Ostracon, Qos-gabar Seal, Qosʿanal Seal Impressions]
+  cultures: [edomite]
+  date: [-700, -550]
+  circa: true
+  scope: >-
+    The small corpus of Iron Age Edomite inscriptions: ostraca, seals and seal impressions
+    from Buseirah (Bozrah), Umm el-Biyara, Tell el-Kheleifeh and the eastern Negev,
+    including the Horvat ʿUza letter that blesses its recipient by Qos. It covers the
+    Edomite script and language and what the texts show about Edomite religion and
+    expansion. Edomite history in general is treated under edomites and the god under qos.
+  passages:
+    - "2Kgs 16:6 | setting | Edomites settle at Elath (MT Kethiv 'Arameans', Qere 'Edomites'); cf. Edomite seal impressions at Tell el-Kheleifeh"
+    - "2Chr 28:17 | setting | Edomite raids on Judah in the reign of Ahaz"
+    - "Ezek 35:10 | setting | Edom claims Judah's land; cf. Edomite letters and a shrine in the Negev"
+    - "Obad 10-14 | setting | Edom's conduct at Judah's fall, against the background of Edomite expansion westward"
+    - "Jer 49:7-22 | setting | Oracle against Edom naming Teman and Bozrah"
+    - "Ezra 2:53 | language | Barkos, a Qos-theophoric name of the type common in Edomite inscriptions"
+  related: [qos, edomites, bozrah, arad-ostraca, ezion-geber, seals-and-bullae, ostraca, petra-and-sela]
+  wikipedia: Edomite language
+  image: Horvat Uza Edomite ostracon
+  author_notes:
+    - "Outline the corpus and verify each item: the Horvat ʿUza ostracon (a letter of c. 600 BCE invoking a blessing by Qos), the Umm el-Biyara seal impression of Qos-gabar king of Edom (the Qaus-gabri of Esarhaddon's and Ashurbanipal's inscriptions), the Tell el-Kheleifeh jar impressions of 'Qosʿanal, servant of the king', ostraca and seals from Buseirah, and the inscriptions from the Horvat Qitmit shrine."
+    - "The Edomite script had developed distinctive letter forms by the seventh century, with influence from Aramaic cursive. Whether particular finds from Judahite sites are Edomite or Judahite is sometimes debated, so classify them with care."
+    - "The texts confirm Qos as the main Edomite god and an Edomite presence in the eastern Negev in the late seventh and early sixth centuries; compare Arad ostracon 24, which warns of Edom. Do not assume all Edomite presence was military. Trade and mixed settlement are also likely."
+    - "The fourth-century Idumean ostraca are Aramaic and much later. Many are unprovenanced. Treat them as continuity evidence (they contain many Qos names), not as part of the Iron Age corpus."
+  sources_to_check:
+    - "I. Beit-Arieh and B. Cresson, 'An Edomite Ostracon from Ḥorvat ʿUza,' Tel Aviv 12 (1985)"
+    - "I. Beit-Arieh (ed.), Ḥorvat Qitmit: An Edomite Shrine in the Biblical Negev (1995)"
+    - "S. Aḥituv, Echoes from the Past: Hebrew and Cognate Inscriptions from the Biblical Period (2008)"
+
+# ---------------------------------------------------------------------------
+# Law, society and daily life
+# ---------------------------------------------------------------------------

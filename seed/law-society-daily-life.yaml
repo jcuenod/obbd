@@ -1,0 +1,1805 @@
+# Seed entries for the law-society-daily-life domain.
+# Passage references use English (NRSV) versification; MT differences are given in notes.
+
+- id: lex-talionis
+  aliases: [Eye for an eye, Talion, Law of retaliation]
+  cultures: [hebrew, akkadian]
+  scope: >-
+    The principle that punishment for bodily injury or homicide should correspond in kind
+    to the harm done ("life for life, eye for eye"), as formulated in the biblical law
+    collections and in the Laws of Hammurabi. The entry covers its ancient Near Eastern
+    background, its function within biblical law, and its reception in early Jewish and
+    Christian interpretation.
+  passages:
+    - "Exod 21:23-25 | practice | Talion formula applied to injury of a pregnant woman in a brawl"
+    - "Exod 21:22 | parallel | Fine for causing miscarriage; cf. LH §§209-214, MAL A §§50-52, HL §§17-18"
+    - "Lev 24:17-22 | practice | Talion for homicide and injury, applied equally to alien and citizen"
+    - "Deut 19:16-21 | practice | Malicious witness receives the penalty he sought; cf. LH §§1-3"
+    - "Deut 24:16 | polemic? | Rejects vicarious punishment of children; contrast LH §§116, 210, 230"
+    - "Judg 1:6-7 | concept | Adoni-bezek's mutilation framed as measure-for-measure retribution"
+    - "Gen 9:6 | concept | Bloodshed requited by bloodshed, grounded in the divine image"
+    - "Obad 15 | concept | 'As you have done, it shall be done to you' as principle of divine judgment"
+    - "Matt 5:38-42 | concept | Jesus' antithesis rejecting retaliation"
+  related: [code-of-hammurabi, ane-law-collections, laws-of-ur-nammu, goring-ox, middle-assyrian-laws, hittite-laws]
+  wikipedia: Eye for an eye
+  image: Code of Hammurabi stele Louvre
+  author_notes:
+    - "In Hammurabi (§§196-201) talion applies between social equals (awīlum); injuries to commoners and slaves are compensated in silver. Talion is thus class-stratified, not 'primitive'."
+    - "The older Laws of Ur-Nammu (§§18-22) already fix monetary compensation for bodily injury, which tells against the evolutionary scheme of 'talion first, composition later'."
+    - "Note the debate whether the biblical formula was applied literally or stated a principle of proportionality and a ceiling. Early sources (Josephus, Ant. 4.280; rabbinic Mekhilta and b. Bava Qamma 83b-84a) allow or require monetary substitution."
+    - "Exod 21:22-25 is textually and exegetically difficult (the LXX distinguishes a 'formed' from an 'unformed' fetus). Keep the miscarriage law distinct from the talion formula that follows."
+  sources_to_check:
+    - "Roth, Law Collections from Mesopotamia and Asia Minor (SBLWAW 6, 2nd ed. 1997)"
+    - "ANET 163-180"
+    - "Westbrook (ed.), A History of Ancient Near Eastern Law (HdO 72, 2003)"
+
+- id: goring-ox
+  cultures: [hebrew, akkadian]
+  scope: >-
+    The law of the goring ox in the Covenant Code (Exod 21:28-36) and its close cuneiform
+    counterparts in the Laws of Eshnunna and the Laws of Hammurabi. It is the classic test
+    case for how biblical law relates to the wider ancient Near Eastern legal tradition.
+  passages:
+    - "Exod 21:28-32 | parallel | Ox kills a person; owner liable if forewarned; cf. LE §§54-55, LH §§250-252"
+    - "Exod 21:32 | practice | Thirty shekels for a slave gored; cf. LH §252 (twenty shekels)"
+    - "Exod 21:30 | practice | Ransom (kōper) allowed in place of the negligent owner's death"
+    - "Exod 21:35-36 | parallel | Ox gores ox: live ox sold and price divided, nearly verbatim with LE §53"
+    - "Exod 21:33-34 | practice | Liability for an uncovered pit, same casuistic unit"
+    - "Gen 9:5 | concept | God requires a reckoning for human blood even from animals"
+  related: [ane-law-collections, laws-of-eshnunna, code-of-hammurabi, lex-talionis, slavery]
+  wikipedia: null
+  image: Laws of Eshnunna tablet
+  author_notes:
+    - "The verbal closeness of Exod 21:35 to LE §53 is among the strongest cases of shared legal tradition. Lay out the competing explanations, written dependence (D. P. Wright argues for use of Hammurabi) versus a common scribal or oral legal tradition (Westbrook, Malul), without deciding."
+    - "Distinctive biblical features are the stoning of the ox and the ban on eating its flesh (Exod 21:28). J. J. Finkelstein (The Ox That Gored, 1981) explained these by the animal's violation of the created hierarchy. Compare Gen 9:5."
+    - "The cuneiform versions deal only in monetary liability. The biblical version makes the negligent owner liable to death, though a ransom may be accepted (21:30). The ransom provision fits uneasily with Num 35:31."
+    - "The goring ox works as a scholastic 'problem case' in the law collections, so do not assume it reflects frequent litigation."
+  sources_to_check:
+    - "Roth, Law Collections from Mesopotamia and Asia Minor (SBLWAW 6, 2nd ed. 1997)"
+    - "Yaron, The Laws of Eshnunna (2nd ed. 1988)"
+    - "ANET 161-163"
+
+- id: ane-law-collections
+  aliases: [Cuneiform law, Ancient Near Eastern law codes]
+  cultures: [sumerian, akkadian, assyrian, hittite, babylonian, hebrew]
+  scope: >-
+    Overview of the cuneiform law collections (Ur-Nammu, Lipit-Ishtar, Eshnunna, Hammurabi,
+    the Middle Assyrian and Hittite laws, the Neo-Babylonian laws) and their relation to the
+    biblical law corpora: the Covenant Code, the Holiness Code, and the Deuteronomic Code.
+    The entry is the hub for questions of genre, form, purpose, and literary dependence;
+    individual collections and topics have their own entries.
+  passages:
+    - "Exod 20:22-23:33 | form | Covenant Code: casuistic and apodictic law framed by altar and cult rules"
+    - "Exod 21:2-22:17 | form | Casuistic 'if a man...' laws closest in form to cuneiform collections (MT 21:2-22:16)"
+    - "Exod 22:18-20 | form | Apodictic death-penalty prohibitions (MT 22:17-19)"
+    - "Lev 17-26 | form | Holiness Code, with concluding blessings and curses"
+    - "Deut 12-26 | form | Deuteronomic law corpus, revising and expanding the Covenant Code"
+    - "Deut 28 | form | Blessings and curses closing a law corpus; cf. LH epilogue curses"
+    - "Deut 4:5-8 | concept | Israel's laws as wisdom admired by the nations; cf. royal claims in LH prologue/epilogue"
+    - "Ezra 7:25-26 | practice | Persian authorisation of 'the law of your God and the law of the king'"
+  related: [code-of-hammurabi, laws-of-ur-nammu, laws-of-lipit-ishtar, laws-of-eshnunna, middle-assyrian-laws, hittite-laws, covenant-and-treaty-form, persian-imperial-authorization]
+  wikipedia: Cuneiform law
+  image: Code of Hammurabi stele Louvre
+  author_notes:
+    - "Give the corpus and approximate dates. Ur-Nammu (ca. 2100), Lipit-Ishtar (ca. 1930), Eshnunna (ca. 1800), Hammurabi (ca. 1750), Hittite Laws (Old Hittite with later copies), Middle Assyrian Laws (tablets of the 11th century), Neo-Babylonian Laws (7th century)."
+    - "Explain the debate over purpose. Bottéro and Kraus read the collections as scholarly or royal-apologetic texts, not statutory legislation, since court records almost never cite them. Westbrook reads them as reference works within a shared ANE 'common law'. Most scholars now agree they are not codes in the modern sense, so 'law collections' is the preferred term."
+    - "Alt's casuistic/apodictic distinction is still useful as description. His claim that apodictic law is uniquely Israelite is no longer accepted."
+    - "Present the current dependence debate, especially D. P. Wright's thesis that the Covenant Code draws directly on Hammurabi (Inventing God's Law, 2009), and Levinson's model of Deuteronomy as a revision of the Covenant Code."
+    - "Note distinctive biblical features: law as divine speech set in narrative, motive clauses, cultic and civil law mixed together, and the whole people addressed rather than judges."
+  sources_to_check:
+    - "Roth, Law Collections from Mesopotamia and Asia Minor (SBLWAW 6, 2nd ed. 1997)"
+    - "ANET 159-198"
+    - "Hoffner, The Laws of the Hittites: A Critical Edition (1997)"
+    - "Westbrook (ed.), A History of Ancient Near Eastern Law (HdO 72, 2003)"
+
+- id: debt-release
+  aliases: [Jubilee, Year of Release, Shemittah, Mīšarum, Andurārum, Derôr]
+  cultures: [hebrew, akkadian, sumerian, assyrian]
+  scope: >-
+    Biblical laws for cancelling debts, releasing debt-servants, and returning alienated land
+    (the seventh-year release of Deut 15 and the fiftieth-year Jubilee of Lev 25), compared
+    with Mesopotamian royal edicts of 'justice' (mīšarum) and 'release' (andurārum). The
+    fallow year is treated under sabbatical-year.
+  passages:
+    - "Lev 25:8-17 | practice | Jubilee: proclamation of release (dĕrôr, cf. Akk. andurārum) and return of land"
+    - "Lev 25:39-55 | practice | Release of Israelite debt-servants in the Jubilee"
+    - "Deut 15:1-11 | practice | Seventh-year remission (šĕmiṭṭâ) of loans between Israelites"
+    - "Deut 15:12-18 | practice | Release of Hebrew debt-servants in the seventh year"
+    - "Exod 21:2-6 | practice | Release of a Hebrew slave after six years' service"
+    - "Jer 34:8-22 | event | Zedekiah's proclamation of release (dĕrôr) and its revocation"
+    - "Neh 5:1-13 | practice | Ad hoc remission of debts and pledges, comparable to a royal mīšarum"
+    - "Neh 10:31 | practice | Covenant pledge to forgo debts in the seventh year (MT 10:32)"
+    - "Ezek 46:17 | practice | 'Year of liberty' (šĕnat hadĕrôr) when gifted land reverts"
+    - "Isa 61:1-2 | concept | Proclaiming liberty (dĕrôr) to captives, the year of YHWH's favour"
+    - "Luke 4:18-19 | concept | Jesus applies Isa 61:1-2 and 58:6 to his ministry"
+  related: [sabbatical-year, edict-of-ammi-saduqa, slavery, land-redemption, code-of-hammurabi, hammurabi, widow-orphan-sojourner]
+  wikipedia: Jubilee (biblical)
+  image: null
+  author_notes:
+    - "Distinguish three biblical institutions that are often conflated. They are the seventh-year remission of loans (Deut 15:1-11), the release of debt-servants after six years (Exod 21:2-6; Deut 15:12-18), and the Jubilee return of land and persons (Lev 25)."
+    - "Mesopotamian edicts (Uru-inimgina's amargi; Old Babylonian mīšarum acts such as Ammi-ṣaduqa's) were issued at a king's discretion, often on accession, and cancelled consumer debts but not commercial loans. The biblical releases are periodic and grounded in divine ownership of land and people."
+    - "Hebrew dĕrôr is cognate with Akkadian andurārum, but etymology alone does not prove borrowing. Present the lexical link with that caution."
+    - "Whether the Jubilee was ever practised is debated, and positive evidence is lacking. Jer 34 and Neh 5 look more like ad hoc royal or gubernatorial acts. Lev 25 is usually assigned to H (late pre-exilic to post-exilic). 11QMelchizedek and Luke 4 show its eschatological reuse."
+    - "Mention Hillel's prozbul (m. Shevi'it 10:3) as evidence that Deut 15 remission was observed in later Judaism and caused credit problems."
+  sources_to_check:
+    - "Kraus, Königliche Verfügungen in altbabylonischer Zeit (1984)"
+    - "Weinfeld, Social Justice in Ancient Israel and in the Ancient Near East (1995)"
+    - "Bergsma, The Jubilee from Leviticus to Qumran (2007)"
+    - "ANET 526-528"
+
+- id: sabbatical-year
+  aliases: [Shemittah, Fallow year, Seventh year]
+  cultures: [hebrew, jewish]
+  scope: >-
+    The seventh-year fallow of fields, vineyards, and olive groves in biblical law, its
+    relation to the weekly Sabbath and to debt remission, and the evidence that it was
+    observed in the Second Temple period. Debt and slave release are treated under
+    debt-release.
+  passages:
+    - "Exod 23:10-11 | practice | Seventh-year fallow, the produce left for the poor and wild animals"
+    - "Lev 25:1-7 | practice | 'A sabbath for the land' with no sowing or pruning"
+    - "Lev 25:18-22 | practice | Promise of a sixth-year harvest sufficient for three years"
+    - "Lev 26:34-35, 43 | concept | Exile as the land 'enjoying its sabbaths'"
+    - "2Chr 36:21 | concept | Seventy years of exile fulfil the land's neglected sabbaths"
+    - "Deut 15:1-2 | practice | Year of remission (šĕmiṭṭâ) linked to the seven-year cycle"
+    - "Deut 31:10-13 | practice | Public reading of the law at Booths in the year of remission"
+    - "Neh 10:31 | practice | Covenant pledge to forgo the seventh year's crops and debts (MT 10:32)"
+    - "1Macc 6:49, 53 | event | Food shortage at Beth-zur and Jerusalem because it was a sabbatical year"
+  related: [sabbath, debt-release, seven-day-patterns, agriculture-and-farming, babylonian-exile, calendars-and-month-names]
+  wikipedia: Shmita
+  image: null
+  author_notes:
+    - "No fixed septennial fallow is attested elsewhere in the ancient Near East. The Ugaritic seven-year cycles (e.g., drought in Aqhat) are literary motifs, not institutions. Present the institution as an extension of Sabbath logic to agricultural time."
+    - "Note the debate whether Exod 23:10-11 assumed a rotating fallow for each field or a single universal year, as in Lev 25. Also relate the land's 'rest' to Sabbath work prohibitions."
+    - "Practice is attested in the Second Temple period. Sources include 1 Maccabees, Josephus (e.g., Caesar's decree remitting tribute in the seventh year, Ant. 14.202), Tacitus' polemic (Hist. 5.4), and documents from Murabbaʿat dated by the year of release. Verify specific document numbers."
+    - "The Chronicler's link between exile and unkept sabbatical years (2 Chr 36:21, combining Lev 26 and Jer 25:11) is theological interpretation, not chronological evidence."
+
+- id: slavery
+  aliases: [Debt slavery, Debt servitude, Hebrew slave]
+  cultures: [hebrew, ane]
+  scope: >-
+    Slavery and debt servitude in biblical law and narrative, compared with ancient Near
+    Eastern legal and documentary evidence. Covers the 'Hebrew slave' laws, female
+    servitude, protections and their limits, fugitive slaves, the sale of foreign chattel
+    slaves, and the Greco-Roman setting of New Testament texts.
+  passages:
+    - "Exod 21:2-6 | practice | Hebrew slave released after six years; ear-piercing at the doorpost for life service"
+    - "Exod 21:7-11 | practice | Daughter sold as a slave-wife, with protections"
+    - "Exod 21:20-21, 26-27 | practice | Penalties for beating a slave; freedom for loss of eye or tooth"
+    - "Exod 21:16 | practice | Kidnapping for sale is a capital crime; cf. LH §14"
+    - "Lev 25:39-46 | practice | Israelite debtors as hired labourers; foreign slaves as permanent property"
+    - "Deut 15:12-18 | practice | Release of male and female debt-servants with provisions; ear-piercing"
+    - "Deut 23:15-16 | practice | Fugitive slaves not to be returned (MT 23:16-17); contrast LH §§15-20"
+    - "2Kgs 4:1 | practice | Creditor seizes a widow's children for debt"
+    - "Neh 5:1-5 | practice | Judeans pledging children as debt-slaves in the Persian period"
+    - "Jer 34:8-22 | event | Release and re-enslavement of Hebrew slaves under Zedekiah"
+    - "Phlm 8-21 | setting | Onesimus, within Roman household slavery"
+  related: [debt-release, code-of-hammurabi, edict-of-ammi-saduqa, samaria-papyri, habiru, elephantine-papyri, corvee-labor, treatment-of-captives]
+  wikipedia: The Bible and slavery
+  image: null
+  author_notes:
+    - "Distinguish debt servitude of Israelites (time-limited) from chattel slavery of foreigners (Lev 25:44-46). Biblical terminology (ʿebed also means royal servant or official) does not map neatly onto these categories."
+    - "Hammurabi limits debt servitude of a debtor's family to three years (LH §117), against the biblical six. Hammurabi makes harbouring a fugitive slave a capital crime (§§15-16). Deut 23:15-16 is unusual in forbidding extradition. Compare the ear-piercing of Exod 21:6 with LH §282 (slave's ear cut off for repudiating his master)."
+    - "Discuss whether ʿibrî ('Hebrew') in Exod 21:2 is an ethnic term or a social class, perhaps related to ḫabiru, and how Deuteronomy revises the Covenant Code by extending release to women."
+    - "Documentary evidence includes Old and Neo-Babylonian sale and debt contracts, the Wadi Daliyeh slave conveyances from Samaria (4th century BCE), and Elephantine documents."
+    - "Avoid both apologetic minimising ('servants, not slaves') and anachronistic equation with Atlantic chattel slavery."
+  sources_to_check:
+    - "Roth, Law Collections from Mesopotamia and Asia Minor (SBLWAW 6, 2nd ed. 1997)"
+    - "Chirichigno, Debt-Slavery in Israel and the Ancient Near East (JSOTSup 141, 1993)"
+    - "Dandamaev, Slavery in Babylonia (1984)"
+    - "Gropp, Wadi Daliyeh II: The Samaria Papyri from Wadi Daliyeh (DJD 28, 2001)"
+
+- id: widow-orphan-sojourner
+  aliases: [Personae miserae, Resident alien (gēr)]
+  cultures: [hebrew, sumerian, akkadian, egyptian, ugaritic]
+  scope: >-
+    The widow, the orphan, and the resident alien as stock categories of vulnerable persons
+    in biblical law, prophecy, and psalmody, and the ancient Near Eastern royal ideal of
+    protecting the widow and orphan. The entry covers legal provisions, the ideology of
+    divine and royal protection, and the development of the gēr category.
+  passages:
+    - "Exod 22:21-24 | practice | Do not wrong the alien, widow, or orphan; God hears their cry (MT 22:20-23)"
+    - "Deut 10:18 | concept | YHWH executes justice for orphan and widow and loves the alien"
+    - "Deut 14:28-29 | practice | Triennial tithe for the Levite, alien, orphan, and widow"
+    - "Deut 24:17-22 | practice | No pledge from a widow; gleanings left for the triad"
+    - "Deut 27:19 | practice | Curse on one who perverts their justice"
+    - "Ps 68:5 | concept | God as 'father of orphans and protector of widows' (MT 68:6)"
+    - "Ps 82:3-4 | concept | Gods judged for failing the weak and the orphan"
+    - "Ps 146:9 | concept | YHWH watches over strangers, orphan, and widow"
+    - "Isa 1:17, 23 | practice | Prophetic demand to defend orphan and widow"
+    - "Jer 22:3 | concept | Royal duty to protect alien, orphan, and widow"
+    - "Mal 3:5 | practice | Judgment on oppressors of hired worker, widow, orphan, and alien"
+    - "Jas 1:27 | concept | Care for orphans and widows as true religion"
+  related: [code-of-hammurabi, laws-of-ur-nammu, aqhat-epic, kirta-epic, eloquent-peasant, royal-ideology, courts-and-legal-procedure, debt-release]
+  wikipedia: null
+  image: null
+  author_notes:
+    - "The widow-orphan pairing is a royal-ideological topos across the ancient Near East. Examples are the Ur-Nammu prologue (the orphan not delivered to the rich, the widow not to the mighty), the Hammurabi epilogue, Danel judging the widow's and orphan's case (Aqhat), Yassib's rebuke of Kirta, and Egyptian texts such as the Eloquent Peasant ('father to the orphan, husband to the widow')."
+    - "The triad including the gēr is characteristically Deuteronomic. The motive clause 'you were aliens in Egypt' is a distinctively biblical development."
+    - "Note debate on terms. ʾalmānâ may denote a widow without adult male support, not simply any widow. Gēr is a legal status that later Greek translation (prosēlytos) reinterprets religiously."
+    - "Show the transfer of the royal ideal to YHWH as divine king (Ps 68; 82; 146), and the prophetic use of the triad as a measure of covenant fidelity."
+  sources_to_check:
+    - "Roth, Law Collections from Mesopotamia and Asia Minor (SBLWAW 6, 2nd ed. 1997)"
+    - "Weinfeld, Social Justice in Ancient Israel and in the Ancient Near East (1995)"
+
+- id: courts-and-legal-procedure
+  aliases: [Elders at the gate]
+  cultures: [hebrew, ugaritic]
+  scope: >-
+    The city gate complex as the place where elders heard disputes, witnessed transactions,
+    and administered local justice in ancient Israel, with comparative Ugaritic evidence.
+    The architecture of gates is treated under city-gates.
+  passages:
+    - "Gen 23:10-18 | practice | Land purchase witnessed by 'all who went in at the gate of his city'"
+    - "Deut 21:18-21 | practice | Rebellious son brought to the elders at the gate"
+    - "Deut 22:15 | practice | Evidence of virginity brought to the elders at the gate"
+    - "Deut 25:7-9 | practice | Levirate refusal heard by the elders at the gate"
+    - "Ruth 4:1-11 | practice | Boaz convenes ten elders at the gate to settle redemption"
+    - "Josh 20:4 | practice | Manslayer states his case at the gate of the refuge city"
+    - "2Sam 15:2-6 | practice | Absalom intercepts litigants at the gate, undermining royal justice"
+    - "Amos 5:10-15 | practice | Corruption of justice 'in the gate'"
+    - "Prov 31:23 | practice | Husband respected 'in the gates' among the elders"
+    - "Job 29:7-17 | practice | Job's seat in the square, defending the poor and orphan"
+    - "Deut 16:18 | practice | Judges appointed 'in all your gates' (towns)"
+  related: [city-gates, aqhat-epic, levirate-marriage, land-redemption, widow-orphan-sojourner, dan]
+  wikipedia: null
+  image: Tel Dan Israelite gate
+  author_notes:
+    - "Describe the gate as civic space. It held benches in the chambers and a plaza inside the gate (Dan, Bethsaida, Beersheba). Note that a bench alone does not prove judicial use."
+    - "Danel, seated 'before the gate' by the threshing floor and judging the cause of the widow and orphan (Aqhat, KTU 1.17 V), is the closest Levantine literary parallel."
+    - "Note the tension between local justice by elders and royal or appointed judges (Deut 16:18; 2 Chr 19:5-11; 2 Sam 15). Many see a historical development from kin-based to state judiciary."
+    - "'Gate' (šaʿar) often stands for 'town' in Deuteronomy. Do not over-read every occurrence as a reference to the gate structure."
+
+- id: city-gates
+  aliases: [Six-chambered gate, Solomonic gates]
+  cultures: [israelite, judahite, canaanite]
+  scope: >-
+    Gateways and fortification systems of Bronze and Iron Age cities in the southern Levant
+    (chambered gates, walls, towers, glacis), their archaeology, and their use in biblical
+    texts. Covers the debate over 'Solomonic' six-chamber gates; judicial use of gates is
+    treated under courts-and-legal-procedure.
+  passages:
+    - "1Kgs 9:15 | attests? | Solomon's building at Hazor, Megiddo, and Gezer, linked by Yadin to six-chamber gates"
+    - "2Sam 18:24-33 | realia | Watchman on the gate roof; chamber over the gate (MT 18:24-19:1)"
+    - "Neh 3:1-32 | realia | Rebuilding of Jerusalem's named gates and wall sections"
+    - "Neh 2:13-15 | realia | Nehemiah's night inspection of the walls and gates"
+    - "2Kgs 23:8 | realia | High places 'of the gates' at the gate of Joshua; cf. gate shrines at Dan and Lachish"
+    - "Judg 16:3 | realia | Samson carries off Gaza's gate doors, posts, and bar"
+    - "Isa 22:9-11 | realia | Houses torn down to fortify Jerusalem's wall; reservoir between walls"
+    - "Ps 24:7-10 | imagery | Gates commanded to lift their heads for the King of glory"
+    - "1Kgs 22:10 | setting | Kings enthroned at the threshing floor at the entrance of Samaria's gate"
+  related: [courts-and-legal-procedure, megiddo, hazor, gezer, lachish, dan, low-chronology-debate, cult-reforms-archaeology]
+  wikipedia: City gate
+  image: six-chambered gate Megiddo
+  author_notes:
+    - "Give the typology. Middle Bronze triple-pier gates (e.g., the mudbrick arched gate at Dan) were followed by Iron Age six-, four-, and two-chamber gates."
+    - "Yadin's attribution of the Hazor, Megiddo, and Gezer six-chamber gates to Solomon (1 Kgs 9:15) is the starting point of the tenth-century debate. The same plan also occurs at non-Israelite and later sites (e.g., Ashdod, Lachish), so it cannot serve as a royal 'signature'."
+    - "Mention gate shrines and cultic installations (Dan's maṣṣebot and podium; the Lachish Level III gate shrine with its toilet, compare 2 Kgs 10:27) as background to 2 Kgs 23:8."
+    - "Identifications such as Khirbet Qeiyafa's two gates with 'Shaaraim' (1 Sam 17:52) are disputed. Present them as proposals."
+
+- id: asylum-and-cities-of-refuge
+  aliases: [Cities of refuge, Altar asylum, Blood avenger (gōʾēl haddām)]
+  cultures: [hebrew, greek]
+  scope: >-
+    Biblical provisions protecting an unintentional killer from the blood avenger, first by
+    asylum at the altar and then in designated cities of refuge, with discussion of their
+    literary history and of comparative asylum practices.
+  passages:
+    - "Exod 21:12-14 | practice | Unintentional killer given 'a place to flee'; deliberate murderer taken even from the altar"
+    - "Num 35:9-34 | practice | Six cities of refuge; distinction of intent; release on the high priest's death"
+    - "Deut 4:41-43 | practice | Three Transjordanian refuge cities: Bezer, Ramoth, Golan"
+    - "Deut 19:1-13 | practice | Refuge cities in the land; elders hand over a deliberate murderer"
+    - "Josh 20 | practice | Designation of Kedesh, Shechem, Hebron, Bezer, Ramoth, and Golan"
+    - "1Kgs 1:50-53 | practice | Adonijah seizes the horns of the altar"
+    - "1Kgs 2:28-34 | practice | Joab killed at the altar despite seeking asylum"
+    - "2Sam 14:4-11 | practice | Woman of Tekoa's fictive plea against the blood avenger"
+  related: [horned-altars, altars, lex-talionis, courts-and-legal-procedure, shechem, hebron]
+  wikipedia: Cities of Refuge
+  image: null
+  author_notes:
+    - "Many scholars (e.g., Weinfeld, Milgrom) see the refuge cities as a replacement for altar asylum after cult centralisation. The relative dating of the Deuteronomic, Priestly, and Joshua texts is debated."
+    - "The release of the manslayer at the high priest's death (Num 35:25, 28) is often read as expiatory. Present the main interpretations."
+    - "Clear ancient Near Eastern parallels to designated refuge cities are lacking. Comparative material is sanctuary asylum (Greek asylia, later Egyptian temple asylum). Avoid overstating similarity."
+    - "Whether the institution functioned historically, and whether the town lists reflect a monarchic reality (as Albright held) or an ideal, is debated."
+
+- id: trial-by-ordeal
+  aliases: [River ordeal, Sotah, Ordeal of bitter water]
+  cultures: [hebrew, akkadian, assyrian, amorite]
+  scope: >-
+    Judicial procedures that referred an unprovable case to divine decision through a
+    physical test, especially the Mesopotamian river ordeal, and the ritual for a wife
+    suspected of adultery in Num 5:11-31. Covers whether the biblical rite should be
+    classed as ordeal or as conditional curse.
+  passages:
+    - "Num 5:11-31 | practice | Suspected wife drinks 'water of bitterness' under a conditional curse"
+    - "Num 5:21-22, 27 | practice | Physical effects on womb and 'thigh' as the sign of guilt"
+    - "Exod 22:7-11 | practice | Unprovable deposit cases settled 'before God' and by oath (MT 22:6-10)"
+    - "1Kgs 8:31-32 | practice | Oath at the altar, with God judging between the parties"
+    - "Exod 32:20 | parallel? | Israel made to drink water with the ground-up calf, often compared to Num 5"
+  related: [code-of-hammurabi, middle-assyrian-laws, mari-letters, oaths-and-oath-formulas, blessings-and-curses, divination]
+  wikipedia: Trial by ordeal
+  image: null
+  author_notes:
+    - "Mesopotamian river ordeal (Akk. ḫuršān; the divine River) occurs in LH §2 (sorcery) and §132 (a wife accused by others), in several Middle Assyrian provisions (e.g., MAL A §§17, 22, 24; verify), and in Mari letters describing ordeals at Hīt. Under LH §131 a wife accused by her husband takes an oath instead."
+    - "Frymer-Kensky classifies Num 5 as an ordeal. Milgrom reads it as a ritual protecting the woman from mob or husbandly violence. Present both readings; most also note the text's composite character."
+    - "The physical outcome is ambiguous (miscarriage, prolapse, sterility). Avoid medicalised certainty."
+    - "Mishnah Soṭah records the rite's elaboration and its discontinuation (m. Soṭah 9:9)."
+  sources_to_check:
+    - "Roth, Law Collections from Mesopotamia and Asia Minor (SBLWAW 6, 2nd ed. 1997)"
+    - "ANET 163-180"
+
+- id: levirate-marriage
+  aliases: [Yibbum, Ḥaliṣah]
+  cultures: [hebrew, assyrian, hittite]
+  scope: >-
+    The custom by which the brother (or another male relative) of a man who died without a
+    son married the widow to provide an heir for the dead man, as regulated in Deut 25:5-10
+    and reflected in Gen 38 and Ruth, with Middle Assyrian and Hittite parallels.
+  passages:
+    - "Deut 25:5-10 | practice | Levirate duty to 'raise up a name' for the dead brother; ḥălîṣâ ceremony"
+    - "Gen 38:6-26 | practice | Onan's refusal; Tamar secures an heir from her father-in-law"
+    - "Ruth 4:5, 10 | practice | Boaz acquires Ruth 'to maintain the dead man's name on his inheritance'"
+    - "Ruth 3:9-13 | practice | Ruth's appeal to Boaz as redeemer (gōʾēl)"
+    - "Lev 18:16 | practice | Prohibition of a brother's wife, in tension with the levirate"
+    - "Lev 20:21 | practice | Childlessness as penalty for taking a brother's wife"
+    - "Mark 12:18-27 | practice | Sadducees' levirate puzzle about the resurrection"
+  related: [middle-assyrian-laws, hittite-laws, inheritance-and-birthright, land-redemption, marriage-and-bride-price, courts-and-legal-procedure]
+  wikipedia: Levirate marriage
+  image: null
+  author_notes:
+    - "Comparative texts include MAL A §§30, 33, 43 and HL §193, where the widow passes to a brother, then to the father-in-law, then to a nephew. The father-in-law clause illuminates Gen 38."
+    - "Debate whether Ruth depicts levirate (Boaz is not a brother) or a fusion of levirate custom with land redemption. Also debate how Deut 25 relates to the narratives."
+    - "Explain the purpose (the deceased's name and patrimony) and the shaming ḥălîṣâ rite (sandal removed, spitting). Compare the sandal in Ruth 4:7-8, where it seals a transfer."
+    - "Note the apparent conflict with Lev 18:16; 20:21 and its rabbinic resolution (m. Yevamot)."
+  sources_to_check:
+    - "Roth, Law Collections from Mesopotamia and Asia Minor (SBLWAW 6, 2nd ed. 1997)"
+    - "Hoffner, The Laws of the Hittites: A Critical Edition (1997)"
+
+- id: marriage-and-bride-price
+  aliases: [Mohar, Dowry, Betrothal, Marriage contract]
+  cultures: [hebrew, akkadian, assyrian, jewish]
+  scope: >-
+    Marriage formation and marital property in ancient Israel and the wider Near East:
+    betrothal, the bride-price (mōhar), the dowry and other marriage gifts, marriage
+    contracts, and divorce, with special attention to the Elephantine Aramaic marriage
+    documents.
+  passages:
+    - "Gen 24:50-53 | practice | Betrothal negotiated with Rebekah's family; gifts to bride, brother, and mother"
+    - "Gen 29:15-30 | practice | Jacob's labour as bride-price; a slave-woman given with each daughter"
+    - "Gen 31:14-16 | practice | Rachel and Leah complain that their father consumed their 'money'"
+    - "Gen 34:12 | practice | Shechem offers any mōhar and gift"
+    - "Exod 22:16-17 | practice | Seducer pays the bride-price of virgins (MT 22:15-16); cf. MAL A §§55-56"
+    - "Deut 22:28-29 | practice | Fifty shekels and no right of divorce after rape of an unbetrothed virgin"
+    - "1Sam 18:25 | practice | Saul demands a hundred Philistine foreskins as mōhar"
+    - "Josh 15:16-19 | practice | Achsah requests springs as a marriage gift (cf. Judg 1:12-15)"
+    - "1Kgs 9:16 | practice | Gezer given as dowry (šillûḥîm) with Pharaoh's daughter"
+    - "Deut 24:1-4 | practice | Bill of divorce and ban on remarriage to the first husband"
+    - "Tob 7:13 | practice | Written marriage contract in a Second Temple narrative"
+  related: [levirate-marriage, surrogacy-and-concubinage, inheritance-and-birthright, elephantine-papyri, diplomatic-marriage, code-of-hammurabi, middle-assyrian-laws]
+  wikipedia: Bride price
+  image: Elephantine papyrus marriage contract Brooklyn Museum
+  author_notes:
+    - "Correct the 'wife-purchase' model. Most scholars (e.g., Westbrook, Lemos) see the mōhar (Akk. terḫatum) as a marriage payment that creates affinal ties, not a sale price. Distinguish it from the dowry (Akk. šeriktum; Heb. šillûḥîm) and from the husband's gift to the wife."
+    - "Present the Elephantine marriage documents (e.g., TAD B2.6, B3.3, B3.8; 5th century BCE). They give the mōhar, list the dowry, and let either spouse initiate divorce with a declaration of 'hating'. Verify numbering in TAD."
+    - "Compare Exod 22:16-17 / Deut 22:28-29 with MAL A §55, and LH §§159-161 on broken betrothals."
+    - "No Israelite marriage contract survives from the monarchic period. Tobit is the earliest Jewish literary reference to a written contract."
+  sources_to_check:
+    - "Porten and Yardeni, Textbook of Aramaic Documents from Ancient Egypt, vol. 2 (1989)"
+    - "Porten, The Elephantine Papyri in English (1996)"
+    - "Roth, Law Collections from Mesopotamia and Asia Minor (SBLWAW 6, 2nd ed. 1997)"
+    - "Lemos, Marriage Gifts and Social Change in Ancient Palestine (2010)"
+
+- id: surrogacy-and-concubinage
+  aliases: [Pilegesh, Secondary wife, Slave-wife]
+  cultures: [hebrew, akkadian, assyrian, hurrian]
+  scope: >-
+    The practice of an infertile wife giving her slave woman to her husband to bear
+    children counted as her own, and the wider status of concubines (secondary wives) in
+    ancient Israel, compared with Old Babylonian, Old Assyrian, and Nuzi documents.
+  passages:
+    - "Gen 16:1-6 | practice | Sarai gives Hagar to Abram 'that I may be built up through her'"
+    - "Gen 21:9-14 | practice | Expulsion of Hagar and Ishmael; cf. LH §§146, 170-171"
+    - "Gen 30:1-13 | practice | Rachel and Leah give Bilhah and Zilpah; birth 'on my knees'"
+    - "Gen 35:22 | practice | Reuben lies with Bilhah, his father's concubine"
+    - "Judg 19:1-4 | practice | The Levite's concubine (pîlegeš) and her father's house"
+    - "2Sam 3:7 | practice | Taking a royal concubine as a claim to power"
+    - "2Sam 16:21-22 | practice | Absalom publicly takes David's concubines"
+    - "1Kgs 2:13-25 | practice | Adonijah's request for Abishag read as a bid for the throne"
+  related: [code-of-hammurabi, nuzi-texts, marriage-and-bride-price, adoption, inheritance-and-birthright]
+  wikipedia: Pilegesh
+  image: null
+  author_notes:
+    - "Key parallels are LH §§144-147 (a nadītu wife provides a slave woman, who may not claim equality with her mistress), Old Assyrian marriage contracts with an infertility clause, and a Nuzi marriage contract obliging a barren wife to provide a slave woman. Verify text numbers before citing."
+    - "Caution on the Nuzi parallels. Speiser and Gordon used them to date the patriarchs to the second millennium. Thompson (1974) and Van Seters (1975) showed that comparable arrangements span the first millennium too, so the parallels cannot date the narratives."
+    - "Distinguish wife-provided surrogacy from concubinage (pîlegeš) in general. Note the political use of royal concubines in the succession narratives."
+  sources_to_check:
+    - "Roth, Law Collections from Mesopotamia and Asia Minor (SBLWAW 6, 2nd ed. 1997)"
+    - "Thompson, The Historicity of the Patriarchal Narratives (BZAW 133, 1974)"
+    - "Van Seters, Abraham in History and Tradition (1975)"
+
+- id: adoption
+  cultures: [hebrew, akkadian, hurrian, egyptian, roman]
+  scope: >-
+    Adoption and adoption-like legitimation in the Hebrew Bible, the ancient Near Eastern
+    legal evidence for adoption, the royal 'sonship' formulae, and the Greco-Roman
+    background of Paul's metaphor of adoption (huiothesia).
+  passages:
+    - "Gen 15:2-3 | practice? | Eliezer as prospective heir of the childless Abram"
+    - "Gen 48:5-6, 12 | practice | Jacob claims Ephraim and Manasseh as his own; removal from his knees"
+    - "Gen 50:23 | practice? | Machir's children born 'on Joseph's knees'"
+    - "Exod 2:10 | practice | Moses becomes the son of Pharaoh's daughter"
+    - "Esth 2:7, 15 | practice | Mordecai takes the orphaned Esther as his daughter"
+    - "2Sam 7:14 | concept | 'I will be a father to him, and he shall be a son to me'"
+    - "Ps 2:7 | concept? | 'You are my son; today I have begotten you' as adoption formula"
+    - "Gal 4:5 | concept | Adoption as children through redemption, in a Roman legal idiom"
+    - "Rom 8:15, 23 | concept | Spirit of adoption; adoption as bodily redemption"
+  related: [code-of-hammurabi, nuzi-texts, king-as-son-of-god, inheritance-and-birthright, surrogacy-and-concubinage, royal-ideology]
+  wikipedia: null
+  image: null
+  author_notes:
+    - "The Hebrew Bible has no adoption law and no technical term for it. Whether Israel practised formal adoption is debated; many cases are legitimation within the family (Gen 48) or set in foreign contexts (Egypt, Persia)."
+    - "Cuneiform evidence includes LH §§185-193, many Old Babylonian and Nuzi adoption contracts, and declaratory formulae ('you are my son' / 'you are not my father') used in adoption and disinheritance. These bear on the royal formulae of 2 Sam 7:14 and Ps 2:7."
+    - "The old view that Gen 15:2-3 reflects Nuzi-style adoption of a slave heir is now widely doubted. Present it as a historical proposal."
+    - "Pauline huiothesia draws on Greco-Roman adoption (adoptio, adrogatio) rather than Israelite practice."
+  sources_to_check:
+    - "Roth, Law Collections from Mesopotamia and Asia Minor (SBLWAW 6, 2nd ed. 1997)"
+
+- id: inheritance-and-birthright
+  aliases: [Primogeniture, Firstborn's double portion, Daughters of Zelophehad]
+  cultures: [hebrew, akkadian, assyrian, hurrian]
+  scope: >-
+    Inheritance law and practice in ancient Israel: the firstborn's preferential share, the
+    narrative motif of the displaced firstborn, inheritance by daughters, and comparative
+    evidence from Mesopotamia, Nuzi, Emar, and Elephantine.
+  passages:
+    - "Deut 21:15-17 | practice | Firstborn's double portion (pî šĕnayim) despite the father's preference"
+    - "Gen 25:29-34 | practice | Esau sells his birthright to Jacob"
+    - "Gen 27:1-40 | practice | Deathbed blessing obtained by Jacob"
+    - "Gen 48:13-20 | practice | Jacob crosses his hands, preferring Ephraim"
+    - "Gen 49:3-4 | practice | Reuben loses pre-eminence (cf. Gen 35:22)"
+    - "1Chr 5:1-2 | practice | Reuben's birthright transferred to Joseph's sons"
+    - "Num 27:1-11 | practice | Daughters of Zelophehad inherit where there is no son"
+    - "Num 36:1-12 | practice | Heiresses must marry within their tribe"
+    - "Job 42:15 | practice | Job's daughters receive inheritance with their brothers"
+    - "2Kgs 2:9 | imagery | Elisha asks for a 'double share' of Elijah's spirit"
+  related: [land-redemption, adoption, levirate-marriage, nuzi-texts, emar-texts, code-of-hammurabi, middle-assyrian-laws, elephantine-papyri]
+  wikipedia: Primogeniture
+  image: null
+  author_notes:
+    - "Practice varied in the ancient Near East. LH generally divides equally among sons (§§165-167), while other Mesopotamian and Nuzi sources (and MAL B §1) give the eldest a preferential or double share. Verify section numbers."
+    - "Emar and Nuzi wills sometimes designate daughters as heirs (e.g., by declaring them 'male and female'). These are useful comparanda for Num 27 and 36, with Elephantine (Mibtahiah's property) as a later case."
+    - "The Nuzi text in which a brother sells an inheritance share for sheep was once a famous parallel to Gen 25:29-34. It is now considered weak and should be presented with caution."
+    - "The repeated preference for younger sons (Isaac, Jacob, Joseph, Ephraim, David, Solomon) is a literary-theological motif. Do not take it as evidence against a legal norm of primogeniture."
+  sources_to_check:
+    - "Roth, Law Collections from Mesopotamia and Asia Minor (SBLWAW 6, 2nd ed. 1997)"
+    - "Westbrook, Property and the Family in Biblical Law (JSOTSup 113, 1991)"
+
+- id: land-redemption
+  aliases: [Naḥalah, Gĕʾullah, Kinsman-redeemer, Patrimony]
+  cultures: [hebrew, akkadian, ugaritic]
+  scope: >-
+    Land tenure in ancient Israel: the ideal of inalienable ancestral patrimony (naḥălâ),
+    the kinsman's right and duty to redeem alienated land, the theology of divine ownership
+    of the land, and prophetic critique of land accumulation, with ancient Near Eastern
+    comparanda.
+  passages:
+    - "Lev 25:23-28 | practice | Land is YHWH's and cannot be sold in perpetuity; kinsman redeems"
+    - "Lev 25:29-34 | practice | Different rules for walled-city houses and Levitical property"
+    - "Ruth 4:1-12 | practice | Redemption of Elimelech's field combined with marrying Ruth"
+    - "Jer 32:6-15 | practice | Jeremiah exercises the right of redemption at Anathoth; sealed deed"
+    - "1Kgs 21:1-19 | practice | Naboth refuses to sell 'the inheritance of my ancestors'"
+    - "Num 27:1-11 | practice | Daughters inherit to keep the patrimony in the clan"
+    - "Mic 2:1-2 | practice | Woe to those who covet and seize fields and houses"
+    - "Isa 5:8 | practice | Woe to those who join house to house and field to field"
+    - "Ezek 46:16-18 | practice | Prince may not dispossess people of their inheritance"
+  related: [debt-release, boundary-markers, inheritance-and-birthright, sealed-deeds, levirate-marriage, laws-of-eshnunna, kudurru]
+  wikipedia: null
+  image: null
+  author_notes:
+    - "Cuneiform comparanda include family redemption rights in Old Babylonian sale documents, LE §39 (a seller's right to redeem a house; verify), and restrictions on alienating service-fields in LH §§36-41. Ugaritic royal grants show land transfers supervised by the king."
+    - "Note the debate whether the inalienability ideal reflects early tribal reality or later idealisation. Assess the 'latifundia' thesis for eighth-century Israel and Judah, which archaeologists and social historians question."
+    - "Jer 32 offers the best documentary-style description, with a sealed and an open copy deposited in a jar. Link it to sealed-deeds and to excavated bullae."
+    - "Treat Ruth 4 as literary. Its legal combination of redemption and marriage is debated."
+  sources_to_check:
+    - "Westbrook, Property and the Family in Biblical Law (JSOTSup 113, 1991)"
+    - "Yaron, The Laws of Eshnunna (2nd ed. 1988)"
+
+- id: boundary-markers
+  aliases: [Landmarks, Moving the boundary stone]
+  cultures: [hebrew, egyptian, babylonian]
+  scope: >-
+    The prohibition of moving a neighbour's boundary marker in biblical law and wisdom, and
+    its counterparts in Egyptian instruction literature, Mesopotamian kudurru curses, and
+    cuneiform law.
+  passages:
+    - "Deut 19:14 | practice | Do not move the boundary set by former generations"
+    - "Deut 27:17 | practice | Curse on one who moves a neighbour's boundary marker"
+    - "Prov 22:28 | parallel | Do not remove the ancient landmark; cf. Amenemope ch. 6"
+    - "Prov 23:10-11 | parallel | Landmark and orphans' fields; the strong Redeemer defends them"
+    - "Job 24:2 | practice | The wicked remove landmarks and seize flocks"
+    - "Hos 5:10 | imagery | Judah's princes 'like those who remove the landmark'"
+  related: [kudurru, instruction-of-amenemope, land-redemption, widow-orphan-sojourner, blessings-and-curses]
+  wikipedia: Boundary marker
+  image: kudurru Louvre
+  author_notes:
+    - "Instruction of Amenemope chapter 6 ('Do not move the markers on the borders of fields... nor encroach on the boundaries of a widow') is widely accepted as a source for Prov 22:28 and 23:10 within Prov 22:17-24:22."
+    - "Kassite and later Babylonian kudurrus record land grants under divine symbols and curse anyone who removes or alters the stone. They are a good illustration of the sanctity of boundaries, though they are royal grants, not peasant field markers."
+    - "Cuneiform law addresses encroachment (Middle Assyrian Laws Tablet B; Hittite Laws). Verify section numbers. Greek horoi and the Roman god Terminus are later comparanda."
+  sources_to_check:
+    - "Lichtheim, Ancient Egyptian Literature, vol. 2 (1976)"
+
+- id: hospitality
+  aliases: [Theoxeny, Guest-friendship]
+  cultures: [hebrew, ugaritic, ane]
+  scope: >-
+    Norms of receiving and protecting strangers and guests in biblical narrative and law,
+    with ancient Near Eastern and Greek comparanda, including the motif of entertaining
+    divine visitors unawares.
+  passages:
+    - "Gen 18:1-8 | practice | Abraham hosts three visitors: water for feet, bread, calf, curds"
+    - "Gen 19:1-11 | practice | Lot protects his guests against Sodom's men"
+    - "Gen 24:31-33 | practice | Laban receives Abraham's servant, his camels, and men"
+    - "Judg 19:15-25 | practice | Gibeah's failure of hospitality; the old man shelters the Levite"
+    - "Exod 2:20 | practice | Reuel rebukes his daughters for not inviting Moses to eat"
+    - "2Kgs 4:8-10 | practice | The Shunammite prepares a roof chamber for Elisha"
+    - "Job 31:32 | practice | Job never let a stranger lodge in the street"
+    - "Wis 19:13-17 | concept | Sodom's sin interpreted as hatred of strangers"
+    - "Heb 13:2 | concept | Some have entertained angels unawares"
+  related: [aqhat-epic, story-of-sinuhe, widow-orphan-sojourner, angel-of-yhwh, four-room-house]
+  wikipedia: Hospitality
+  image: null
+  author_notes:
+    - "Danel and Danatay host the craftsman god Kothar-wa-Ḫasis (Aqhat, KTU 1.17 V), a close Levantine parallel to Gen 18. Greek xenia and theoxeny tales (e.g., Philemon and Baucis in Ovid) are later comparanda for Heb 13:2."
+    - "Gen 19 and Judg 19 are paired narratives of violated hospitality. Note the interpretive tradition (Ezek 16:49; Wisdom 19) that defines Sodom's sin socially."
+    - "Sinuhe's reception by a Syro-Palestinian chief shows Egyptian literary portrayals of Levantine hospitality."
+    - "Caution against reading modern Bedouin ethnography directly back into the Iron Age."
+
+- id: corvee-labor
+  aliases: [Corvée, Mas, Forced labour]
+  cultures: [hebrew, canaanite, egyptian]
+  scope: >-
+    State-imposed labour service (Hebrew mas, mas ʿōbēd, sēbel) in ancient Israel and its
+    Late Bronze Age Canaanite and Egyptian background. Covers the biblical portrayal of
+    Solomon's levy, subject populations put to forced labour, and the role of corvée in
+    the division of the kingdom.
+  passages:
+    - "Exod 1:11 | practice | Taskmasters (śārê missîm) over Israel's building of Pithom and Rameses"
+    - "1Kgs 4:6 | attests | Adoniram 'over the forced labour'"
+    - "2Sam 20:24 | attests | Adoram over the forced labour under David"
+    - "1Kgs 5:13-18 | practice | Rotating levy of 30,000 sent to Lebanon (MT 5:27-32)"
+    - "1Kgs 9:15-22 | practice | Forced labour for royal building; Israelites said to be exempt"
+    - "1Kgs 11:28 | practice | Jeroboam over the labour (sēbel) of the house of Joseph"
+    - "1Kgs 12:4, 18 | event | Complaint of the 'heavy yoke'; Adoram stoned at Shechem"
+    - "Josh 16:10 | practice | Canaanites of Gezer made forced labourers"
+    - "Judg 1:28-35 | practice | Canaanite enclaves put to forced labour"
+    - "Gen 49:15 | practice | Issachar becomes 'a slave at forced labour' (mas ʿōbēd)"
+    - "Deut 20:11 | practice | Population of a surrendering city serves at forced labour"
+  related: [amarna-letters, tomb-of-rekhmire, mesad-hashavyahu-ostracon, solomon, pithom, slavery, exodus-historical-questions]
+  wikipedia: Corvée
+  image: Mesad Hashavyahu ostracon
+  author_notes:
+    - "The term is attested in Late Bronze Canaan. In EA 365 Biridiya of Megiddo reports supplying corvée workers (massu) to cultivate at Shunem for Pharaoh, so the institution predates Israel."
+    - "Note the internal tension between 1 Kgs 5:13-18 (an Israelite levy) and 1 Kgs 9:20-22 (only Canaanites conscripted), and the role of corvée grievances in 1 Kgs 12."
+    - "The Meṣad Ḥashavyahu ostracon (late 7th century) is a harvester's petition over a confiscated garment. Whether he was a corvée labourer is debated. It bears on Exod 22:26-27 and Deut 24:12-13."
+    - "An often-cited seal 'belonging to Pelaiah who is over the corvée' is unprovenanced. Cite it with caution, if at all."
+  sources_to_check:
+    - "Moran, The Amarna Letters (1992)"
+    - "Rainey, The El-Amarna Correspondence (HdO 110, 2015)"
+
+- id: camels-and-domestication
+  aliases: [Camel anachronism, Dromedary]
+  cultures: [arabian, hebrew, assyrian]
+  scope: >-
+    The domestication and spread of the dromedary camel and the debate over camels in the
+    patriarchal narratives. Covers zooarchaeological evidence from the southern Levant,
+    Assyrian textual and visual evidence, and the role of camels in Arabian trade and
+    raiding.
+  passages:
+    - "Gen 12:16 | realia | Camels among Pharaoh's gifts to Abram, widely judged anachronistic"
+    - "Gen 24:10-64 | realia | Abraham's servant travels with ten camels"
+    - "Gen 31:17, 34 | realia | Jacob's family on camels; teraphim in the camel's saddle"
+    - "Gen 37:25 | realia | Ishmaelite camel caravan carrying gum, balm, and resin to Egypt"
+    - "Judg 6:5 | realia | Midianite raiders with camels 'without number'"
+    - "Judg 7:12 | realia | Midianite and Amalekite camels like sand on the seashore"
+    - "1Sam 30:17 | realia | Amalekites escape on camels"
+    - "1Kgs 10:2 | realia | Queen of Sheba's camels bearing spices and gold"
+    - "Isa 60:6 | realia | Camels of Midian and Ephah bringing gold and frankincense"
+    - "Lev 11:4 | practice | Camel classed as unclean"
+  related: [incense-trade, qedarites-and-arabs, kurkh-monoliths, timna, midianites-and-kenites, sheba, donkeys-and-royal-mounts]
+  wikipedia: Dromedary
+  image: Ashurbanipal relief Arabs on camels
+  author_notes:
+    - "Domestic dromedaries appear in the southern Levant in quantity only from about the late 10th century BCE. Sapir-Hod and Ben-Yosef (Tel Aviv 41, 2014) date their first appearance in the Aravah copper sites to the last third of the 10th century. Camels become common with the Iron II Arabian trade."
+    - "The anachronism argument is old (Albright and others). The 2014 media coverage overstated its novelty. Present it as a long-standing consensus that the patriarchal camel references reflect first-millennium conditions, while noting earlier sporadic finds of camel bones and images."
+    - "Assyrian evidence includes Gindibu the Arab's 1,000 camels at Qarqar (853, Kurkh Monolith), camel tribute to Tiglath-pileser III, and Ashurbanipal's reliefs of Arab camel riders. Bactrian camels appear on the Black Obelisk."
+    - "Midianite camel raiders (Judg 6-7) fit an Iron II rather than an early Iron I setting. Note this in the wider debate about the dating of the Judges traditions."
+  sources_to_check:
+    - "Eph'al, The Ancient Arabs (1982)"
+
+- id: donkeys-and-royal-mounts
+  aliases: [Mules, Riding animals]
+  cultures: [hebrew, amorite]
+  scope: >-
+    The donkey and mule as working animals, status mounts, and royal mounts in the ancient
+    Near East and the Bible. Covers the background of the king 'riding on a donkey' in
+    Zech 9:9 and the Gospel entry narratives.
+  passages:
+    - "Gen 22:3 | realia | Abraham saddles his donkey"
+    - "Num 22:21-35 | realia | Balaam's she-donkey"
+    - "Judg 5:10 | practice | 'You who ride on white donkeys', i.e., notables"
+    - "Judg 10:4 | practice | Jair's thirty sons ride thirty donkeys, a mark of status"
+    - "Judg 12:14 | practice | Abdon's descendants on seventy donkeys"
+    - "2Sam 18:9 | practice | Absalom riding his mule"
+    - "1Kgs 1:33, 38, 44 | practice | Solomon set on David's own mule for his anointing"
+    - "Gen 49:11 | imagery | Judah's ruler binds his donkey to the vine"
+    - "Zech 9:9 | imagery | Victorious king 'humble and riding on a donkey'"
+    - "Matt 21:1-11 | imagery | Entry into Jerusalem citing Zech 9:9"
+    - "Lev 19:19 | practice | Ban on cross-breeding animals, in tension with royal mules"
+  related: [mari-letters, beni-hasan-asiatics, camels-and-domestication, chariots-and-horses, royal-ideology, baal-berith, shechem]
+  wikipedia: null
+  image: Beni Hasan Asiatics donkey
+  author_notes:
+    - "A Mari letter advises Zimri-Lim to ride in a chariot or on a mule rather than on horseback, to honour his Akkadian kingship. It is often cited as ARM 6 76; verify the reference. The donkey or mule is thus an honourable royal mount, not only a sign of humility."
+    - "At Mari, 'killing a donkey foal' (ḫayāram qaṭālum) sealed treaties. The 'sons of Hamor' ('donkey') at Shechem and Baal-berith (Judg 9:4) are sometimes linked to this. Present the link as a proposal."
+    - "Mention donkey burials in Middle Bronze contexts (e.g., Tell el-Dabʿa) and Old Assyrian donkey caravans as background to patriarchal travel."
+    - "Matthew's two animals (21:2-7) reflect a reading of the parallelism in Zech 9:9."
+
+- id: chariots-and-horses
+  aliases: [Chariotry, Cavalry, Horse trade]
+  cultures: [israelite, judahite, egyptian, assyrian]
+  scope: >-
+    Horse-drawn chariots and horses in warfare, prestige, and cult in the ancient Near East
+    and in Israel and Judah. Covers chariot technology, Israelite chariot forces in
+    Assyrian sources, the horse trade, and the theological critique of reliance on horses.
+  passages:
+    - "Exod 14:6-9, 23 | realia | Pharaoh's chariotry in pursuit"
+    - "Exod 15:1-4 | realia | Horse and rider and Pharaoh's chariots cast into the sea"
+    - "Deut 17:16 | practice | King must not multiply horses or send people back to Egypt for them"
+    - "Josh 11:6, 9 | practice | Hamstringing horses and burning chariots"
+    - "Judg 4:3, 13 | realia | Sisera's nine hundred 'iron' chariots"
+    - "2Sam 8:4 | practice | David hamstrings captured chariot horses"
+    - "1Kgs 10:26-29 | practice | Solomon's chariot cities; horses from 'Egypt and Kue' (Cilicia)"
+    - "1Kgs 4:26 | realia | 40,000 stalls (MT 5:6); 2 Chr 9:25 reads 4,000"
+    - "2Kgs 2:11-12 | imagery | Chariot of fire; 'the chariots of Israel and its horsemen'"
+    - "2Kgs 23:11 | practice | Horses dedicated to the sun removed by Josiah"
+    - "Ps 20:7 | concept | 'Some take pride in chariots, and some in horses' (MT 20:8)"
+    - "Isa 31:1 | concept | Woe to those relying on Egypt's horses and chariots"
+  related: [battle-of-qarqar, kurkh-monoliths, megiddo, kadesh-battle-reliefs, ahab, solomon, weapons, iron-technology]
+  wikipedia: Chariot
+  image: Assyrian chariot relief British Museum
+  author_notes:
+    - "Ahab fielded 2,000 chariots at Qarqar (Kurkh Monolith), the largest chariot contingent there. Sargon II incorporated a Samarian chariot unit into his army, and the Nimrud Horse Lists (Dalley, Iraq 47, 1985) attest Israelite charioteers in Assyrian service."
+    - "The Megiddo pillared buildings have been read as stables or as storehouses. They are now generally dated to the 8th century, not to Solomon. Present the debate."
+    - "'Egypt' (miṣrayim) in 1 Kgs 10:28 is sometimes emended to Muṣri in Anatolia. Kue is Cilicia. 'Iron chariots' probably means chariots with iron fittings."
+    - "Trace the shift from Late Bronze chariot elites (Amarna letters, Egyptian reliefs) to Iron II cavalry, and the theological critique (Deut 17; Isa 31; Ps 20) of military horse power."
+  sources_to_check:
+    - "Littauer and Crouwel, Wheeled Vehicles and Ridden Animals in the Ancient Near East (1979)"
+    - "Cantrell, The Horsemen of Israel (2011)"
+
+- id: weapons
+  aliases: [Armour, Military equipment]
+  cultures: [hebrew, philistine, assyrian]
+  scope: >-
+    Offensive and defensive weapons of the Bronze and Iron Age Levant (swords, spears,
+    javelins, bows, slings, shields, helmets, scale armour) as known from excavation,
+    iconography, and biblical description.
+  passages:
+    - "1Sam 17:4-7 | realia | Goliath's helmet, scale armour, greaves, javelin (kîdôn), and spear"
+    - "1Sam 17:38-40, 49-51 | realia | Saul's armour refused; David's sling and stones"
+    - "Judg 3:16 | realia | Ehud's short double-edged sword strapped to the right thigh"
+    - "Judg 20:16 | realia | Seven hundred left-handed Benjaminite slingers"
+    - "1Sam 13:19-22 | realia | Only Saul and Jonathan have sword and spear"
+    - "2Chr 26:14-15 | realia | Uzziah equips the army and fits 'machines' on towers"
+    - "Neh 4:16-18 | realia | Builders with spears, shields, bows, and mail (MT 4:10-12)"
+    - "Josh 8:18 | realia | Joshua's kîdôn stretched toward Ai (sword or javelin?)"
+    - "Isa 2:4 | imagery | Swords beaten into ploughshares"
+    - "Eph 6:14-17 | imagery | The armour of God"
+  related: [lachish-reliefs, lachish, iron-technology, chariots-and-horses, assyrian-siege-warfare, champion-combat, philistines, war-scroll]
+  wikipedia: null
+  image: Lachish sling stones arrowheads
+  author_notes:
+    - "Lachish 701 is the richest single dataset. It includes arrowheads, sling stones, scale armour, and the siege ramp, together with Sennacherib's reliefs showing Judahite slingers and archers."
+    - "Goliath's equipment is read as Aegean or Philistine (Yadin) or as a literary composite reflecting later, even 7th-century hoplite, armour (Finkelstein). Present both views."
+    - "The meaning of kîdôn (javelin, scimitar, or sickle-sword) is disputed. The War Scroll uses the term for a straight sword."
+    - "The ḥiššĕbōnôt of 2 Chr 26:15 cannot be torsion artillery, which appears only in the 4th century. Yadin proposed protective screens on towers like those in the Lachish reliefs."
+  sources_to_check:
+    - "Yadin, The Art of Warfare in Biblical Lands (1963)"
+
+- id: iron-technology
+  aliases: [Philistine iron monopoly, Iron Age metallurgy]
+  cultures: [hebrew, philistine, canaanite]
+  scope: >-
+    The introduction and spread of iron-working in the Levant at the transition from the
+    Late Bronze to the Iron Age, and the biblical texts often read as evidence of a
+    Philistine monopoly on iron.
+  passages:
+    - "1Sam 13:19-22 | practice | No smith in Israel; tools sharpened by Philistines"
+    - "1Sam 13:21 | language | Charge of a pim (two-thirds shekel), confirmed by inscribed pim weights"
+    - "Deut 8:9 | realia | 'A land whose stones are iron'"
+    - "Josh 17:16-18 | realia | Canaanites of the valleys have iron chariots"
+    - "Judg 1:19 | realia | Judah cannot dislodge plain-dwellers with iron chariots"
+    - "Gen 4:22 | concept | Tubal-cain, forger of bronze and iron implements"
+    - "Deut 3:11 | realia? | Og's 'iron' bed, perhaps a basalt sarcophagus"
+    - "Deut 4:20 | imagery | Egypt as an 'iron-smelter' (kûr habbarzel)"
+    - "2Sam 12:31 | realia | Ammonites set to work with iron picks and axes (sense debated)"
+  related: [pim-weights, philistines, weapons, copper-production, chariots-and-horses, rephaim]
+  wikipedia: Ferrous metallurgy
+  image: null
+  author_notes:
+    - "The 'Philistine iron monopoly' (G. E. Wright, Albright) is not supported by archaeology. Iron-working spread gradually across the Levant from the 12th to 10th centuries, and Philistine sites show no early dominance. Present 1 Sam 13:19-22 as a claim about control of smithing or as a literary motif."
+    - "The related myth of a Hittite iron monopoly should also be corrected."
+    - "Iron becomes the dominant metal for tools and weapons only in Iron IIA (10th-9th centuries). Carburisation into steel appears gradually. Mention excavated smelting and smithing sites (e.g., Tell Hammeh in the Jordan Valley)."
+    - "The pim weight finds settled the reading of 1 Sam 13:21. This is a good example of epigraphy clarifying an obscure Hebrew word."
+  sources_to_check:
+    - "Waldbaum, From Bronze to Iron (1978)"
+
+- id: copper-production
+  aliases: [Bronze metallurgy, King Solomon's Mines]
+  cultures: [edomite, egyptian, canaanite]
+  scope: >-
+    Copper mining, smelting, and bronze-working in the southern Levant and its neighbours,
+    with focus on the Aravah sites of Timna and Faynan, and the biblical texts on metal
+    resources, casting, and smelting imagery.
+  passages:
+    - "Deut 8:9 | realia | 'From whose hills you may mine copper'"
+    - "Num 21:4-9 | realia | Bronze serpent; cf. copper snake from the Timna Hathor shrine"
+    - "Num 33:42-43 | setting | Punon (Faynan) as a wilderness station"
+    - "2Sam 8:13-14 | setting | Davidic garrisons in Edom, the copper-producing region"
+    - "1Kgs 7:13-47 | realia | Hiram's bronze castings for the temple"
+    - "1Kgs 7:46 | realia | Casting in clay ground between Succoth and Zarethan"
+    - "1Chr 18:8 | realia | Bronze taken from Hadadezer's cities for temple vessels"
+    - "Job 28:1-11 | realia | Mining poem: shafts, ore, and smelted copper"
+    - "Ezek 22:18-22 | imagery | Israel as dross of silver, bronze, tin, iron, and lead in the furnace"
+  related: [timna, faynan, nehushtan, edomites, bronze-sea, jachin-and-boaz, iron-technology]
+  wikipedia: null
+  image: Timna copper mines
+  author_notes:
+    - "Timna had Egyptian New Kingdom mining expeditions with a Hathor shrine (and copper snake), and intensive Iron Age smelting (11th-9th centuries) by local groups. Faynan (Khirbat en-Nahas) shows large-scale 10th-century production (Levy, Najjar, Ben-Yosef)."
+    - "'King Solomon's Mines' (Glueck) is a popular label with no evidence for Israelite control. Present the current debate over a complex, partly nomadic Edomite polity in the 11th-9th centuries. Ben-Yosef argues that archaeology is biased towards architecture."
+    - "Biblical nĕḥōšet covers both copper and bronze. Note tin sourcing and Cypriot (Alashiya) copper in the Late Bronze trade (Amarna letters, Uluburun wreck)."
+
+- id: four-room-house
+  aliases: [Pillared house, Israelite house]
+  cultures: [hebrew]
+  scope: >-
+    The pillared 'four-room' house, the dominant domestic building type of Iron Age Israel
+    and Judah (also found in neighbouring regions). Covers its plan and function, what it
+    implies about household structure, and its use as an ethnic marker.
+  passages:
+    - "Deut 22:8 | realia | Parapet required around the flat roof"
+    - "Josh 2:6 | realia | Flax stalks laid out on Rahab's roof"
+    - "1Sam 9:25-26 | realia | Saul sleeps on Samuel's roof"
+    - "1Sam 28:24 | realia | Fatted calf kept 'in the house', consistent with ground-floor stabling"
+    - "Judg 11:31 | realia? | 'Whatever comes out of the doors of my house', possibly an animal"
+    - "2Kgs 4:10 | realia | Roof chamber ('ălîyâ) built for Elisha"
+    - "Prov 21:9 | realia | Living on a corner of the housetop"
+    - "Jer 32:29 | practice | Offerings to Baal on rooftops"
+    - "2Sam 11:2 | realia | David walks on the palace roof"
+  related: [ethnicity-and-material-culture, emergence-of-israel, cisterns-and-water-systems, apotropaic-doorposts-and-thresholds, textiles-and-weaving, millstones-and-grinding, oil-lamps]
+  wikipedia: Four-room house
+  image: four-room house reconstruction Israel
+  author_notes:
+    - "Describe the plan. A broad room at the back faced three long spaces divided by pillars. The ground floor was used for animals, storage, and work, and there was probably an upper storey for living and sleeping."
+    - "Stager (BASOR 260, 1985) linked the house to the extended family (bêt ʾāb). Faust argued it expressed an egalitarian ethos. Both are influential but debated."
+    - "The house as an 'Israelite' ethnic marker is contested. Pillared houses also occur in Transjordan and elsewhere, and their antecedents are debated."
+    - "Judg 11:31 is often read in light of animals housed inside. The reading is possible but not certain."
+  sources_to_check:
+    - "King and Stager, Life in Biblical Israel (2001)"
+
+- id: cisterns-and-water-systems
+  aliases: [Water shafts, Pools, Plastered cisterns]
+  cultures: [hebrew, canaanite]
+  scope: >-
+    Domestic cisterns, pools, and monumental urban water systems (shafts and tunnels) in
+    Bronze and Iron Age Palestine, with Jerusalem's Gihon systems and the pools named in
+    the Gospels.
+  passages:
+    - "Gen 37:22-24 | realia | Joseph thrown into a dry pit (bôr)"
+    - "Jer 38:6 | realia | Jeremiah let down into a muddy cistern"
+    - "Jer 2:13 | imagery | 'Cracked cisterns that can hold no water'"
+    - "Deut 6:11 | realia | 'Hewn cisterns that you did not hew'"
+    - "2Kgs 18:31 | realia | Each drinking water from his own cistern"
+    - "2Sam 5:8 | realia? | David's men attack via the ṣinnôr, perhaps a water shaft; sense disputed"
+    - "2Kgs 20:20 | realia | Hezekiah's pool and conduit"
+    - "2Chr 32:30 | realia | Gihon waters diverted to the west of the City of David"
+    - "Isa 22:9-11 | realia | Reservoir between the two walls for the old pool"
+    - "2Sam 2:13 | realia | The pool of Gibeon"
+    - "John 9:7 | realia | Pool of Siloam"
+    - "John 5:2 | realia | Pool of Bethesda (Bethzatha) with five porticoes"
+  related: [hezekiahs-tunnel, siloam-inscription, pool-of-siloam, pool-of-bethesda, gibeon, megiddo, hazor, city-of-david]
+  wikipedia: Cistern
+  image: Megiddo water system
+  author_notes:
+    - "Albright held that lime-plastered cisterns made Iron I highland settlement possible. This is now revised, since such cisterns are earlier and many villages relied on other sources."
+    - "Monumental systems at Megiddo, Hazor, Gibeon, and Beersheba are mostly dated to Iron II (9th-8th centuries) rather than to Solomon. Their dating is tied to the chronology debate."
+    - "In Jerusalem, Reich and Shukron reinterpreted Warren's Shaft as not used for water drawing in the Iron Age. They also identified a Middle Bronze spring tower. This affects readings of 2 Sam 5:8."
+
+- id: threshing-floors
+  aliases: [Goren]
+  cultures: [hebrew, ugaritic]
+  scope: >-
+    The threshing floor (gōren) as agricultural installation and as a public, judicial, and
+    sacral space, together with threshing and winnowing technology and their figurative use
+    in prophecy and the Gospels.
+  passages:
+    - "Judg 6:37 | realia | Gideon's fleece laid on the threshing floor"
+    - "Ruth 3:2-14 | realia | Boaz winnowing barley and sleeping at the threshing floor"
+    - "2Sam 24:18-25 | setting | David buys Araunah's threshing floor and builds an altar"
+    - "2Chr 3:1 | setting | Temple built on Ornan's threshing floor on Mount Moriah"
+    - "1Kgs 22:10 | setting | Kings enthroned at the threshing floor at Samaria's gate"
+    - "Deut 25:4 | practice | The threshing ox not to be muzzled"
+    - "Isa 28:27-28 | realia | Threshing sledge and cart wheel used on different crops"
+    - "Isa 41:15 | imagery | Israel made a new threshing sledge with sharp teeth"
+    - "Hos 9:1 | practice | 'Prostitute's pay on all threshing floors'"
+    - "Mic 4:12-13 | imagery | Nations gathered as sheaves; Zion threshes"
+    - "Matt 3:12 | imagery | Winnowing fork; clearing the threshing floor"
+  related: [agriculture-and-farming, aqhat-epic, temple-mount, festivals-agricultural, courts-and-legal-procedure, millstones-and-grinding]
+  wikipedia: Threshing floor
+  image: threshing floor
+  author_notes:
+    - "Threshing floors were public and sacral spaces. At Ugarit, Danel sits by the gate 'on the threshing floor' and judges the widow's and orphan's case (KTU 1.17 V). Compare 1 Kgs 22:10 and the temple site in 2 Sam 24 and 2 Chr 3:1."
+    - "Explain the technology. The threshing sledge (môrag) had stone teeth (2 Sam 24:22; Isa 41:15), followed by winnowing with fork and shovel in the evening breeze (Ruth 3:2)."
+    - "Archaeological evidence is slight, since floors were open bedrock or beaten earth. Ethnographic analogies are useful but should be signalled as such."
+    - "Note the debated sexual overtones of Ruth 3 and of Hos 9:1."
+
+- id: olive-oil-production
+  aliases: [Olive press, Oil industry]
+  cultures: [hebrew, philistine]
+  scope: >-
+    The cultivation of olives and the production, uses, and trade of olive oil in the Iron
+    Age and later Levant, including press technology, the Ekron oil industry, and the oil
+    used in cult, food, lighting, and anointing.
+  passages:
+    - "Exod 27:20 | realia | 'Pure oil of beaten olives' (šemen zayit zāk kātît) for the lamp"
+    - "Deut 8:8 | realia | Land of olive trees (zêt šemen)"
+    - "Deut 24:20 | practice | Olive tree not beaten twice; gleanings for the vulnerable"
+    - "Judg 9:8-9 | imagery | Olive tree declines kingship for its oil"
+    - "Mic 6:15 | realia | Treading olives without anointing with the oil"
+    - "1Kgs 5:11 | practice | Solomon pays Hiram in wheat and fine oil (MT 5:25)"
+    - "Hos 2:8 | concept | Grain, wine, and oil given by YHWH, not Baal (MT 2:10)"
+    - "Ps 104:15 | realia | Oil to make the face shine"
+    - "Matt 26:36 | language | Gethsemane, Aramaic 'oil press'"
+  related: [ekron, samaria-ostraca, oil-lamps, winepresses, agriculture-and-farming, ekron-royal-dedicatory-inscription]
+  wikipedia: Olive oil extraction
+  image: olive press Ekron
+  author_notes:
+    - "Ekron (Tel Miqne) in the 7th century had more than 100 olive presses, the largest known Iron Age oil centre, flourishing under Assyrian hegemony (Gitin). Its integration into the imperial economy is debated."
+    - "The Samaria ostraca record deliveries of 'washed' or refined oil (šmn rḥṣ) and wine. They are evidence for administrative collection, though their exact function is disputed."
+    - "Explain the technology. Olives were crushed in a basin and pressed in a beam press with stone weights, later supplemented by screw presses and the rotary crushing mill in the Hellenistic-Roman period. 'Beaten' oil (kātît) was the highest grade."
+  sources_to_check:
+    - "Frankel, Wine and Oil Production in Antiquity in Israel and Other Mediterranean Countries (1999)"
+
+- id: winepresses
+  aliases: [Viticulture, Wine production]
+  cultures: [hebrew]
+  scope: >-
+    Vineyards, rock-cut winepresses, and wine production in ancient Israel, and the
+    winepress as a prophetic and apocalyptic image of judgment.
+  passages:
+    - "Isa 5:1-7 | realia | Song of the vineyard: terracing, watchtower, hewn wine vat"
+    - "Isa 16:10 | realia | No treader treads wine in Moab's presses"
+    - "Isa 63:1-6 | imagery | Divine warrior treading the winepress, garments stained"
+    - "Judg 6:11 | realia | Gideon beats out wheat in a winepress"
+    - "Judg 9:27 | practice | Shechemites tread grapes and hold a festival"
+    - "Neh 13:15 | practice | Treading winepresses on the Sabbath"
+    - "Joel 3:13 | imagery | 'The wine press is full; the vats overflow' (MT 4:13)"
+    - "Lam 1:15 | imagery | The Lord treads daughter Judah as in a winepress"
+    - "Matt 21:33 | realia | Vineyard with wall, winepress, and tower (after Isa 5)"
+    - "Rev 14:19-20 | imagery | The great winepress of God's wrath"
+  related: [gibeon, samaria-ostraca, olive-oil-production, agriculture-and-farming, festivals-agricultural, divine-warrior, sabbath]
+  wikipedia: Winepress
+  image: ancient winepress Israel
+  author_notes:
+    - "Rock-cut presses with a treading floor (gat) and collecting vat (yeqeb) are common throughout the highlands. Note that they are hard to date."
+    - "Gibeon has 8th-7th-century installations interpreted as wine cellars, and jar handles inscribed with gbʿn and personal names. The Samaria ostraca mention 'old wine' (yn yšn)."
+    - "Link to vintage festivals (Judg 9:27; 21:19-21; Booths) and to Neh 13:15 for the Sabbath prohibition on treading and transport."
+
+- id: agriculture-and-farming
+  aliases: [Farming year, Dry farming]
+  cultures: [hebrew]
+  scope: >-
+    The agricultural basis of ancient Israelite society: rain-fed farming, the annual
+    cycle of ploughing, sowing, and harvest, the Mediterranean triad of grain, wine, and
+    oil, tools, terracing, and the religious significance of rain and harvest.
+  passages:
+    - "Gen 8:22 | concept | Seedtime and harvest, cold and heat, summer and winter"
+    - "Deut 11:10-17 | concept | Rain-watered land contrasted with irrigated Egypt; early and late rain"
+    - "Jer 5:24 | concept | Autumn and spring rains; weeks appointed for harvest"
+    - "Isa 28:23-29 | practice | Ploughing, harrowing, sowing dill, cumin, wheat, barley, and spelt"
+    - "Ruth 1:22 | setting | Arrival at the beginning of the barley harvest"
+    - "Ruth 2:23 | setting | Gleaning through the barley and wheat harvests"
+    - "Lev 19:9-10 | practice | Field edges and gleanings left for the poor and alien"
+    - "Deut 22:9-10 | practice | No mixed seed in a vineyard; ox and donkey not yoked together"
+    - "1Sam 13:20-21 | realia | Ploughshares, mattocks, axes, and sickles"
+    - "1Kgs 19:19 | practice | Elisha ploughing with twelve yoke of oxen"
+    - "Hos 2:8-9 | concept | YHWH, not Baal, gives grain, wine, and oil (MT 2:10-11)"
+  related: [gezer-calendar, festivals-agricultural, threshing-floors, olive-oil-production, winepresses, sabbatical-year, baal]
+  wikipedia: null
+  image: Gezer calendar
+  author_notes:
+    - "The Gezer Calendar (10th century) lists the agricultural months (ingathering, sowing, late sowing, flax, barley harvest, harvest and measuring, pruning, summer fruit). Its genre (school exercise, song, administrative aid) and some readings are debated."
+    - "Highland dry farming depended on the timing of autumn and spring rains. This underlies the rain theology and anti-Baal polemic of Deut 11 and Hos 2. Terracing and risk-spreading strategies (Hopkins) are key."
+    - "Link the agricultural calendar to the pilgrimage festivals and the sabbatical fallow."
+  sources_to_check:
+    - "Borowski, Agriculture in Iron Age Israel (1987)"
+    - "Hopkins, The Highlands of Canaan (1985)"
+
+- id: millstones-and-grinding
+  aliases: [Querns, Handmill]
+  cultures: [hebrew, greek, roman]
+  scope: >-
+    Grain-grinding technology from the Iron Age saddle quern to the Hellenistic hopper-rubber
+    and Roman rotary and donkey mills, grinding as daily household labour, and the
+    millstone in biblical law and imagery.
+  passages:
+    - "Exod 11:5 | realia | The slave girl 'behind the handmill'"
+    - "Num 11:8 | realia | Manna ground in mills or beaten in mortars"
+    - "Deut 24:6 | practice | Handmill or upper millstone not to be taken in pledge"
+    - "Judg 9:53 | realia | A woman drops an upper millstone on Abimelech"
+    - "Judg 16:21 | practice | Blinded Samson made to grind in prison"
+    - "Isa 47:2 | imagery | Virgin Babylon humiliated: 'take the millstones and grind meal'"
+    - "Jer 25:10 | imagery | Sound of the millstones and light of the lamp banished"
+    - "Eccl 12:3-4 | imagery | Grinders cease; sound of grinding low"
+    - "Job 41:24 | imagery | Leviathan's heart hard as the lower millstone (MT 41:16)"
+    - "Matt 24:41 | realia | Two women grinding at the mill"
+    - "Matt 18:6 | realia | 'Great millstone' (lit. donkey millstone) around the neck"
+    - "Rev 18:21-22 | imagery | Millstone hurled into the sea; Babylon silenced"
+  related: [agriculture-and-farming, four-room-house, oil-lamps, threshing-floors, capernaum]
+  wikipedia: Quern-stone
+  image: saddle quern basalt
+  author_notes:
+    - "The Iron Age saddle quern (a basalt lower stone with a hand-held upper stone) was operated by women for hours each day, which explains why grinding is an image of the household and of degradation (Exod 11:5; Judg 16:21; Isa 47:2)."
+    - "Trace later technology. The Hellenistic hopper-rubber (Olynthus mill) was followed by the rotary quern and the large donkey-driven mill. 'Donkey millstone' (mylos onikos) in Matt 18:6 refers to the latter."
+    - "Deut 24:6 treats the millstone as means of life. Compare garment pledges (Exod 22:26-27)."
+
+- id: pottery-and-potters
+  aliases: [Ceramics, Potter's wheel]
+  cultures: [hebrew, egyptian, ane]
+  scope: >-
+    Pottery manufacture and potters in the ancient Levant, the role of ceramic typology in
+    archaeological dating, and the potter and clay as biblical images for divine
+    sovereignty and judgment.
+  passages:
+    - "Jer 18:1-12 | realia | Jeremiah at the potter's house; vessel reworked at the wheel ('obnayim)"
+    - "Jer 19:1-13 | practice | Smashing an earthenware jug as a sign of judgment"
+    - "Isa 29:16 | imagery | The thing made cannot deny its potter"
+    - "Isa 45:9 | imagery | Woe to the pot that strives with its maker"
+    - "Isa 64:8 | imagery | 'We are the clay, and you are our potter' (MT 64:7)"
+    - "Isa 30:14 | realia | Jar smashed so no sherd remains to carry fire or water"
+    - "Lam 4:2 | imagery | Zion's children reckoned as earthen pots"
+    - "Ps 2:9 | imagery | Dashing nations in pieces like a potter's vessel"
+    - "1Chr 4:23 | attests | Potters in royal service at Netaim and Gederah"
+    - "Gen 2:7 | imagery | YHWH 'forms' (yāṣar) the human from dust like a potter"
+    - "Rom 9:20-21 | imagery | The potter's right over the clay"
+    - "2Cor 4:7 | imagery | Treasure in clay jars"
+  related: [khnum, execration-texts, creation-of-humanity, lmlk-seal-impressions, ostraca, ethnicity-and-material-culture]
+  wikipedia: Potter's wheel
+  image: Iron Age pottery Israel
+  author_notes:
+    - "Ceramic typology is the backbone of Levantine chronology (Petrie at Tell el-Hesi, 1890; Albright). Explain briefly how pottery dates strata and why this matters for historical debates."
+    - "Egyptian execration rites involved smashing inscribed pots and figurines. They are commonly cited for Jer 19:10-11 and Ps 2:9."
+    - "The divine potter appears as Khnum shaping humans on the wheel and in Mesopotamian creation from clay (Atrahasis; Aruru in Gilgamesh). It is background for Gen 2:7 and the prophetic potter image."
+    - "Ben Sira 38:29-30 describes the potter at work and complements Jer 18."
+  sources_to_check:
+    - "Amiran, Ancient Pottery of the Holy Land (1969)"
+    - "Gitin (ed.), The Ancient Pottery of Israel and Its Neighbors from the Iron Age through the Hellenistic Period (2015)"
+
+- id: textiles-and-weaving
+  aliases: [Spinning, Loom, Shaatnez]
+  cultures: [hebrew, ane]
+  scope: >-
+    Fibres (wool, flax, goat hair), spinning, looms, and textile production in ancient
+    Israel and its neighbours, as household and specialised labour, and in biblical law,
+    cult, and imagery. Dyes and dress have their own entries.
+  passages:
+    - "Exod 26:1 | realia | Tabernacle curtains of twisted linen and dyed yarns with woven cherubim"
+    - "Exod 35:25-26 | practice | Skilled women spin dyed yarn, linen, and goats' hair"
+    - "Judg 16:13-14 | realia | Delilah weaves Samson's locks into the web and fastens the pin"
+    - "1Sam 17:7 | realia | Spear shaft 'like a weaver's beam'"
+    - "2Kgs 23:7 | practice | Women weaving 'houses' (bāttîm) for Asherah in the temple"
+    - "Prov 31:13, 19, 22, 24 | practice | Wool and flax, distaff and spindle; linen garments sold"
+    - "Isa 38:12 | imagery | Life rolled up like a weaver's web, cut from the loom"
+    - "Job 7:6 | imagery | Days swifter than a weaver's shuttle"
+    - "Deut 22:11 | practice | Ban on wool-linen mixture (šaʿaṭnēz); cf. Lev 19:19"
+  related: [purple-dye, clothing-and-dress, four-room-house, tabernacle, kuntillet-ajrud, asherah]
+  wikipedia: Warp-weighted loom
+  image: loom weights Iron Age
+  author_notes:
+    - "Loom weights (evidence of the warp-weighted loom) are common in Iron Age houses. Egypt used horizontal ground looms, and which type Judg 16 assumes is debated. Spool-shaped Philistine loom weights are an Aegean marker."
+    - "Yadin explained the 'weaver's beam' (mĕnôr ʾōrĕgîm) as the leash rod with loops, comparing it to a thonged javelin. This is an influential proposal."
+    - "Linen-wool textiles at Kuntillet ʿAjrud bear on the šaʿaṭnēz rule and its exemption for priestly garments. Dyed textiles from Timna (10th century) include true purple."
+  sources_to_check:
+    - "Barber, Prehistoric Textiles (1991)"
+
+- id: purple-dye
+  aliases: [Tekhelet, Argaman, Tyrian purple, Murex]
+  cultures: [phoenician, ugaritic, hebrew]
+  scope: >-
+    Purple and blue-violet dyes extracted from murex sea snails, their production on the
+    Levantine coast, their status value, and the biblical colour terms tĕkēlet and
+    ʾargāmān in cultic, royal, and commercial contexts.
+  passages:
+    - "Exod 25:4 | realia | Blue (tĕkēlet), purple (ʾargāmān), and crimson yarns for the tabernacle"
+    - "Exod 28:5-6 | realia | Ephod of gold, blue, purple, crimson, and fine linen"
+    - "Num 4:6-7 | realia | Cloths of blue covering ark and table"
+    - "Num 15:38 | practice | Cord of blue (tĕkēlet) on each tassel"
+    - "2Chr 2:7, 14 | realia | Tyrian craftsman skilled in purple, crimson, and blue (MT 2:6, 13)"
+    - "Ezek 27:7, 16 | practice | Blue and purple in Tyre's trade (v. 16 MT 'Aram', NRSV 'Edom')"
+    - "Judg 8:26 | realia | Purple garments of the kings of Midian"
+    - "Prov 31:22 | realia | The capable wife clothed in fine linen and purple"
+    - "Esth 8:15 | realia | Mordecai in royal blue and white with a purple mantle"
+    - "Acts 16:14 | practice | Lydia, a dealer in purple cloth from Thyatira"
+  related: [textiles-and-weaving, clothing-and-dress, phoenicians, tyre, tabernacle, phoenician-seafaring]
+  wikipedia: Tyrian purple
+  image: murex shells purple dye
+  author_notes:
+    - "Explain the source. The dye comes from the hypobranchial gland of Hexaplex (Murex) trunculus and Bolinus brandaris. Tĕkēlet (blue-violet) and ʾargāmān (red-purple) probably came from the same species processed differently. Note the debate."
+    - "Archaeology includes the Iron Age dye installation at Tel Shiqmona with purple-stained vats and sherds, and Timna textile fragments dyed with true murex purple (late 11th-10th century)."
+    - "Cognates include Ugaritic and Akkadian argamannu (also 'tribute') and takiltu. The derivation of 'Phoenician' from a Greek word for purple-red is a common claim but debated."
+  sources_to_check:
+    - "King and Stager, Life in Biblical Israel (2001)"
+
+- id: clothing-and-dress
+  aliases: [Garments, Tassels, Dress]
+  cultures: [hebrew, assyrian, egyptian]
+  scope: >-
+    Garments, dress codes, and the social and symbolic functions of clothing in ancient
+    Israel, using biblical texts, iconography (Egyptian paintings, Assyrian reliefs), and
+    textile finds. Priestly vestments are covered only in outline.
+  passages:
+    - "Gen 37:3, 23 | realia | Joseph's kĕtōnet passîm (long-sleeved or ornamented tunic)"
+    - "2Sam 13:18 | realia | Tamar's kĕtōnet passîm, robe of virgin princesses"
+    - "Gen 38:14, 19 | practice | Widow's garments and veil"
+    - "Exod 28 | realia | Priestly vestments"
+    - "Deut 22:5 | practice | Prohibition on cross-gender dress"
+    - "Num 15:38-40 | practice | Tassels (ṣîṣit) with a blue cord as reminders"
+    - "Deut 22:12 | practice | Tassels on the four corners of the cloak"
+    - "Exod 22:26-27 | practice | Pledged cloak returned by sunset (MT 22:25-26)"
+    - "1Sam 24:4 | practice | David cuts the corner (kānāp) of Saul's robe (MT 24:5)"
+    - "Ruth 3:9 | practice | 'Spread your cloak (kānāp) over your servant' as marriage request"
+    - "Isa 3:16-24 | realia | Catalogue of Jerusalem women's finery"
+    - "Matt 23:5 | practice | Broad phylacteries and long fringes"
+  related: [textiles-and-weaving, purple-dye, black-obelisk, lachish-reliefs, beni-hasan-asiatics, mesad-hashavyahu-ostracon, ephod]
+  wikipedia: Biblical clothing
+  image: Black Obelisk Jehu tribute bearers
+  author_notes:
+    - "Iconographic evidence includes the Black Obelisk (Israelite tribute bearers in long fringed garments and caps), the Lachish reliefs (Judahite men in short tunics with headbands, women in long mantles), and the Beni Hasan painting (multicoloured garments of Asiatics). The last is often adduced for Gen 37:3 but is centuries earlier."
+    - "The meaning of kĕtōnet passîm (LXX 'many-coloured'; others 'long-sleeved' or 'reaching to palms and soles') is debated."
+    - "The hem or corner carried legal and personal identity. At Mari, a prophet's hair and hem (sissiktum) were sent with reports. This is background for 1 Sam 24 and Ruth 3:9."
+    - "The Meṣad Ḥashavyahu ostracon illustrates the garment-pledge law in practice."
+
+- id: oil-lamps
+  aliases: [Lamps, Seven-spouted lamp]
+  cultures: [hebrew, greek, roman]
+  scope: >-
+    Clay oil lamps of the Bronze Age to Roman period in the Levant, their typology and
+    cultic uses, and the lamp as a biblical image of life, dynasty, and divine guidance.
+    The temple lampstand is treated under menorah.
+  passages:
+    - "Exod 25:37 | realia | Seven lamps of the tabernacle lampstand"
+    - "Exod 27:20-21 | practice | Lamp kept burning from evening to morning with beaten olive oil"
+    - "1Sam 3:3 | realia | 'The lamp of God had not yet gone out' at Shiloh"
+    - "2Sam 21:17 | imagery | David as 'the lamp of Israel'"
+    - "1Kgs 11:36 | imagery? | A 'lamp' (nîr) for David in Jerusalem; sense debated"
+    - "Prov 20:27 | imagery | The human spirit as the lamp of YHWH"
+    - "Prov 31:18 | realia | Her lamp does not go out at night"
+    - "Job 18:5-6 | imagery | The lamp of the wicked put out"
+    - "Zech 4:2 | realia | Lampstand with seven lamps, each with spouts (lit. 'lips')"
+    - "Ps 119:105 | imagery | 'Your word is a lamp to my feet'"
+    - "Matt 25:1-13 | realia | Ten young women with lamps and oil"
+  related: [olive-oil-production, menorah, tabernacle, four-room-house, millstones-and-grinding, david]
+  wikipedia: Oil lamp
+  image: Iron Age oil lamp
+  author_notes:
+    - "Give the typology. Bronze and Iron Age lamps are open saucers with a pinched spout, and Iron II lamps often have a thick disc base. Hellenistic lamps are closed and mould-made. Late Second Temple Judea has wheel-made 'Herodian' (knife-pared) lamps. Mention lamp-and-bowl foundation deposits."
+    - "Multi-spouted (seven-spouted) lamps occur in cultic contexts and illuminate Zech 4:2."
+    - "The 'lamp' (nîr) for David (1 Kgs 11:36; 15:4; 2 Kgs 8:19) has been reinterpreted as 'dominion' or 'yoke' (P. D. Hanson, 1968). Present both readings."
+    - "The lampades of Matt 25 may be torches rather than clay lamps. Note this as a debated point."
+
+- id: musical-instruments
+  aliases: [Kinnor, Lyre, Shofar, Frame drum]
+  cultures: [hebrew, ugaritic, assyrian, greek]
+  scope: >-
+    Musical instruments named in the Hebrew Bible (lyre, harp, pipes, frame drum, horn,
+    trumpets, cymbals) and their identification through Levantine, Egyptian, and
+    Mesopotamian iconography and finds, with their roles in cult, prophecy, war, and
+    celebration.
+  passages:
+    - "Gen 4:21 | concept | Jubal, ancestor of lyre (kinnôr) and pipe (ʿûgāb) players"
+    - "Exod 15:20 | practice | Miriam and the women with frame drums (tōp)"
+    - "1Sam 10:5 | practice | Prophetic band with harp, frame drum, pipe, and lyre"
+    - "1Sam 16:23 | practice | David's lyre relieves Saul's evil spirit"
+    - "2Sam 6:5 | practice | Instruments accompanying the ark's procession"
+    - "Num 10:1-10 | practice | Silver trumpets (ḥăṣōṣĕrôt) for assembly, war, and festivals"
+    - "Josh 6:4 | practice | Rams' horn trumpets (šôpārôt) at Jericho"
+    - "Ps 81:2-3 | practice | Drum, lyre, harp; horn at the new moon (MT 81:3-4)"
+    - "Ps 150 | realia | Catalogue of instruments of praise"
+    - "Dan 3:5 | language | Instrument names including Greek loanwords (qîtārōs, pĕsantērîn, sûmpōnyâ)"
+  related: [kuntillet-ajrud-inscriptions, sennacherib-annals, new-moon, prophecy-in-the-ane, ugaritic-texts, judean-pillar-figurines]
+  wikipedia: History of music in the biblical period
+  image: Megiddo ivory lyre player
+  author_notes:
+    - "The kinnôr is a lyre (Ugaritic knr; the deified Kinnaru at Ugarit). The identification of the nēbel as a larger lyre or a harp is debated. The tōp is a frame drum associated with women, illustrated by Iron Age terracottas of women holding drums."
+    - "Iconography includes the Megiddo ivory (lyre player), the lyre player on Kuntillet ʿAjrud Pithos A, and Assyrian reliefs of captive lyre players. Sennacherib lists male and female musicians in Hezekiah's tribute."
+    - "The Greek loanwords in Dan 3 are a standard argument for a Hellenistic date of the Daniel tales in their present form. Present the counter-arguments briefly."
+  sources_to_check:
+    - "Braun, Music in Ancient Israel/Palestine (2002)"
+
+- id: honey-and-beekeeping
+  aliases: [Debash, Apiculture]
+  cultures: [hebrew]
+  scope: >-
+    Honey (dĕbaš) in ancient Israel, including wild bee honey, fruit syrups, and
+    apiculture, with the Iron Age apiary at Tel Reḥov and the formula 'a land flowing with
+    milk and honey'.
+  passages:
+    - "Exod 3:8 | concept | 'A land flowing with milk and honey'"
+    - "Deut 8:8 | realia | 'A land of olive trees and honey', probably date syrup"
+    - "Deut 32:13 | imagery | Honey from the rock"
+    - "Judg 14:8-9 | realia | Bees and honey in the lion's carcass"
+    - "1Sam 14:25-29 | realia | Jonathan eats wild honey in the forest"
+    - "Ps 19:10 | imagery | Ordinances sweeter than honey (MT 19:11)"
+    - "Prov 24:13 | realia | 'Eat honey, for it is good'"
+    - "Ezek 27:17 | practice | Judah and Israel export honey to Tyre"
+    - "2Chr 31:5 | practice | Firstfruits of honey (dĕbaš) with grain, wine, and oil"
+    - "Lev 2:11 | practice | Leaven and honey excluded from altar offerings"
+    - "Matt 3:4 | realia | John's diet of locusts and wild honey"
+  related: [agriculture-and-farming, firstfruits-and-firstborn, baal-cycle, hittite-laws, sacrifice]
+  wikipedia: Beekeeping
+  image: Tel Rehov beehives
+  author_notes:
+    - "The Tel Reḥov apiary (10th-9th centuries, excavated by A. Mazar) is the earliest excavated apiary in the Near East. It had rows of unfired clay cylinder hives, and analysis suggests imported Anatolian bees. Give hive numbers carefully, separating those found from estimates."
+    - "Dĕbaš can mean bee honey or fruit (date, grape, fig) syrup. Context decides; the seven-species list of Deut 8:8 and the firstfruits in 2 Chr 31:5 favour fruit syrup."
+    - "Background for the 'milk and honey' formula includes the Ugaritic Baal Cycle ('the wadis run with honey', KTU 1.6 III) and Egyptian descriptions of Canaan (Sinuhe). Beekeeping is attested in Egyptian reliefs and Hittite Laws (beehive theft)."
+
+- id: coinage
+  aliases: [Coins, Daric, Tyrian shekel, Denarius]
+  cultures: [persian, greek, jewish, roman, phoenician]
+  scope: >-
+    The invention and spread of coinage and the coins mentioned in or relevant to the Bible:
+    Persian darics, Yehud and Samarian coins, Greek drachmas, Tyrian shekels, Hasmonean
+    and Herodian bronzes, and Roman denarii.
+  passages:
+    - "Ezra 2:69 | realia | Gold darkĕmônîm given by returnees (darics or drachmas?)"
+    - "Ezra 8:27 | realia | Gold bowls worth a thousand darics (ʾădarkōnîm)"
+    - "Neh 7:70-72 | realia | Darics and silver minas donated (MT 7:69-71)"
+    - "1Chr 29:7 | realia | Darics in David's time, an anachronism of the Persian-period Chronicler"
+    - "1Macc 15:6 | practice | Antiochus VII grants Simon the right to mint coinage"
+    - "Matt 17:24-27 | practice | Temple tax (didrachma); stater from the fish's mouth"
+    - "Matt 26:15 | realia | Thirty pieces of silver, probably Tyrian shekels"
+    - "Matt 22:19-21 | realia | Denarius bearing Caesar's image"
+    - "Mark 12:42 | realia | The widow's two lepta, worth a quadrans"
+    - "Luke 15:8 | realia | The lost drachma"
+  related: [weights-and-silver-money, yehud-seals-and-coins, judaea-capta-coins, persia, darius-i, yehud-province, maccabean-revolt]
+  wikipedia: null
+  image: Yehud coin
+  author_notes:
+    - "Coinage was invented in Lydia and Ionia around 600 BCE (electrum). Darius I introduced the gold daric and silver siglos. Before the Persian period, biblical 'shekels' and 'pieces of silver' are weighed metal, not coins."
+    - "Small silver Yehud coins (4th century) carry legends such as yhd and the name of a governor Yehezqiyah. Samarian coins are contemporary. Hasmonean bronze prutot follow; the first Hasmonean issuer is debated."
+    - "The Tyrian shekel (minted 126 BCE-66 CE) was the required currency for the temple tax (m. Bekhorot 8:7). It is the probable coin of Matt 17:27 and 26:15."
+    - "Darkĕmônîm (Ezra 2:69; Neh 7) is probably Greek drachma rather than daric. Note the debate."
+  sources_to_check:
+    - "Meshorer, A Treasury of Jewish Coins (2001)"
+
+- id: weights-and-silver-money
+  aliases: [Shekel, Hacksilber, Weighed silver, Just weights]
+  cultures: [judahite, hebrew, ane]
+  scope: >-
+    Exchange by weighed silver before coinage: weight systems (shekel, mina, talent;
+    Judahite inscribed weights), Hacksilber hoards, scales, and the biblical concern with
+    just weights and measures.
+  passages:
+    - "Gen 23:16 | practice | Abraham weighs out 400 shekels 'at the merchants' current rate'"
+    - "Exod 30:13 | practice | Half shekel 'by the sanctuary shekel' of twenty gerahs"
+    - "Jer 32:9-10 | practice | Jeremiah weighs seventeen shekels on scales; deed and witnesses"
+    - "1Sam 13:21 | language | pim payment, matching inscribed pim weights"
+    - "2Sam 14:26 | practice | Absalom's hair weighed 'by the king's weight'"
+    - "Lev 19:35-36 | practice | Just balances, weights, ephah, and hin"
+    - "Deut 25:13-16 | practice | No two kinds of weights, large and small"
+    - "Amos 8:5 | practice | Making the ephah small and the shekel heavy"
+    - "Hos 12:7 | practice | Trader with false balances (MT 12:8)"
+    - "Mic 6:10-11 | practice | Wicked scales and a bag of deceitful weights"
+    - "Prov 11:1 | practice | A false balance an abomination to YHWH"
+  related: [pim-weights, coinage, sealed-deeds, land-redemption, ostraca]
+  wikipedia: Shekel
+  image: Hacksilber hoard
+  author_notes:
+    - "Hacksilber (cut silver, often bagged and sealed) hoards are known from Bronze and Iron Age sites (e.g., Eshtemoa, Dor, ʿEin Ḥofez). Lead-isotope studies trace silver sources to the Aegean, Anatolia, Sardinia, and Iberia."
+    - "Judahite inscribed weights (late 8th-7th centuries) use a shekel of about 11.3-11.4 g, with hieratic numerals and the signs nṣp, pym, and bqʿ (Kletter). Biblical 'sanctuary' and 'king's' weights suggest more than one standard."
+    - "Translations that render kesep as 'money' or 'coins' in pre-Persian contexts are anachronistic. Address this explicitly."
+  sources_to_check:
+    - "Kletter, Economic Keystones: The Weight System of the Kingdom of Judah (JSOTSup 276, 1998)"
+
+- id: roads-and-highways
+  aliases: [King's Highway, Way of the Sea, Via Maris, Ways of Horus]
+  cultures: [hebrew, egyptian, edomite, moabite]
+  scope: >-
+    The principal long-distance routes of the southern Levant: the coastal route
+    ('way of the sea', later Via Maris), with its Sinai section the 'Ways of Horus', and the
+    Transjordanian King's Highway. Covers biblical references to roads, caravans, and
+    travel, and how ancient routes are reconstructed.
+  passages:
+    - "Num 20:17 | setting | Israel asks to pass through Edom on 'the King's Highway'"
+    - "Num 21:22 | setting | Same request to Sihon of the Amorites"
+    - "Deut 2:27 | setting | 'I will travel only along the road'"
+    - "Isa 9:1 | setting | 'The way of the sea' in Galilee (MT 8:23), source of the name Via Maris"
+    - "Exod 13:17 | setting | Avoiding 'the way of the land of the Philistines' (cf. Ways of Horus)"
+    - "Gen 37:25 | setting | Ishmaelite caravan from Gilead down to Egypt"
+    - "Judg 5:6 | setting | Caravans ceased and travellers kept to byways"
+    - "Jer 31:21 | imagery | 'Set up road markers for yourself'"
+    - "Isa 40:3 | imagery | A highway in the desert for YHWH"
+  related: [incense-trade, edomites, moabites, papyrus-anastasi, camels-and-domestication, petra-and-sela, gaza]
+  wikipedia: King's Highway (ancient)
+  image: King's Highway Jordan
+  author_notes:
+    - "'Via Maris' is a medieval Latin label derived from Isa 9:1, not an ancient name for the coastal highway. Use it only as a modern convention."
+    - "Egyptian sources illuminate the North Sinai 'Ways of Horus' (Seti I's Karnak reliefs; Papyrus Anastasi I), with excavated forts such as Tell el-Borg and Tjaru."
+    - "Derek hammelek (Num 20:17) may be generic ('the royal road') rather than a proper name. The later Roman Via Nova Traiana followed the plateau route."
+  sources_to_check:
+    - "Dorsey, The Roads and Highways of Ancient Israel (1991)"
+
+- id: incense-trade
+  aliases: [Incense Route, Frankincense, Myrrh]
+  cultures: [arabian, hebrew, assyrian]
+  scope: >-
+    The overland trade in frankincense, myrrh, and other aromatics from South Arabia and
+    the Horn of Africa through the Arabian peninsula to the Levant and Mesopotamia, and its
+    reflections in the Bible.
+  passages:
+    - "1Kgs 10:1-15 | practice | Queen of Sheba brings spices, gold, and precious stones"
+    - "Isa 60:6 | practice | Camels from Midian, Ephah, and Sheba bringing gold and frankincense"
+    - "Jer 6:20 | practice | 'Frankincense that comes from Sheba'"
+    - "Ezek 27:22 | practice | Merchants of Sheba and Raamah trade spices with Tyre"
+    - "Ps 72:10, 15 | imagery | Kings of Sheba and Seba bring gifts; gold of Sheba"
+    - "Gen 37:25 | practice | Caravan carrying gum, balm, and resin to Egypt"
+    - "Job 6:19 | practice | Caravans of Tema, travellers of Sheba"
+    - "Isa 21:13-14 | setting | Caravans of Dedanites; people of Tema"
+    - "Exod 30:34 | realia | Frankincense in the sacred incense"
+    - "Matt 2:11 | practice | Gold, frankincense, and myrrh from the east"
+  related: [sheba, qedarites-and-arabs, camels-and-domestication, incense-and-incense-altars, nabataeans, arad, roads-and-highways]
+  wikipedia: Incense trade route
+  image: Incense Route Avdat
+  author_notes:
+    - "The overland trade depended on camel domestication and grew from the 8th century. Tiglath-pileser III received tribute from Samsi, queen of the Arabs, and from Sabaeans, and Sargon II received tribute from the Sabaean Itʾamra. The Nabataeans controlled the route in Hellenistic-Roman times."
+    - "The earliest Sabaean royal inscriptions are usually dated to the 8th century. Be careful in using the Queen of Sheba story as 10th-century evidence."
+    - "Residue analysis of the Arad shrine's incense altars (published 2020) identified frankincense on one and cannabis on the other. This is direct evidence of imported aromatics in Judah. South Arabian inscribed sherds from Iron Age Jerusalem also attest contacts."
+
+- id: phoenician-seafaring
+  aliases: [Ships of Tarshish, Phoenician trade]
+  cultures: [phoenician]
+  scope: >-
+    Phoenician maritime commerce and westward expansion in the Iron Age, its links with
+    Israel and Judah (timber, Red Sea ventures), and the biblical portrayals of Tyre's
+    trade and seafaring.
+  passages:
+    - "1Kgs 5:8-9 | practice | Hiram floats timber in rafts along the coast (MT 5:22-23)"
+    - "1Kgs 9:26-28 | practice | Joint fleet of Solomon and Hiram from Ezion-geber to Ophir"
+    - "1Kgs 10:22 | practice | 'Ships of Tarshish' returning every three years"
+    - "1Kgs 22:48 | event | Jehoshaphat's Tarshish ships wrecked at Ezion-geber (MT 22:49)"
+    - "Ezek 27 | practice | Tyre as a merchant ship; catalogue of trading partners and goods"
+    - "Ezek 27:5-9 | realia | Shipbuilding timbers; crews from Sidon, Arvad, and Byblos"
+    - "Isa 23:1-14 | practice | Oracle on Tyre and Sidon; 'Wail, O ships of Tarshish'"
+    - "Jonah 1:3-5 | realia | Ship from Joppa to Tarshish; sailors jettison cargo"
+    - "Ps 107:23-30 | imagery | Merchants at sea delivered from the storm"
+  related: [phoenicians, tyre, tarshish, ophir, hiram-of-tyre, report-of-wenamun, nora-stone, purple-dye]
+  wikipedia: null
+  image: Phoenician ship relief Nineveh Luli
+  author_notes:
+    - "Outline the expansion. It includes Kition on Cyprus (9th century), Carthage (traditional date 814), Sardinia (Nora Stone), and Iberia (Huelva). Radiocarbon has pushed some western foundations earlier."
+    - "The identification of Tarshish (Tartessos in Iberia, Tarsus, or another place) is debated. 'Ships of Tarshish' may denote a class of long-haul vessel."
+    - "Iconography and wrecks include Sennacherib's relief of Luli's flight from Tyre (known from Layard's drawing) and the 8th-century Tanit and Elissa wrecks off Ashkelon carrying wine amphorae. The Report of Wenamun shows the earlier Byblian timber trade."
+    - "Ezek 27 is a key source for the Tyrian commercial network. Discuss its date and literary shaping."
+  sources_to_check:
+    - "Aubet, The Phoenicians and the West (2nd ed. 2001)"
+
+- id: emergence-of-israel
+  aliases: [Israelite settlement, Conquest models, Ethnogenesis of Israel]
+  cultures: [hebrew, canaanite, egyptian]
+  scope: >-
+    Scholarly reconstruction of the origins of Israel in Canaan at the end of the Late
+    Bronze Age and in Iron I, set against the biblical conquest and settlement accounts.
+    Covers the main explanatory models and the archaeological and Egyptian evidence.
+  passages:
+    - "Josh 1-12 | event | Conquest narrative of rapid, comprehensive campaigns"
+    - "Josh 11:10-13 | event | Hazor alone burned; cf. destruction of Late Bronze Hazor (date and agent debated)"
+    - "Josh 8:28 | event? | Ai made 'a heap forever'; et-Tell was unoccupied in Late Bronze"
+    - "Judg 1:19, 21, 27-35 | event | Incomplete, piecemeal occupation with Canaanite enclaves"
+    - "Judg 5:14-18 | setting | Tribal coalition in the Song of Deborah"
+    - "Josh 24:1-28 | concept | Shechem assembly; ancestors 'served other gods'"
+    - "Deut 26:5 | concept | 'A wandering Aramean was my ancestor'"
+    - "Ezek 16:3 | concept | Jerusalem's Amorite father and Hittite mother"
+  related: [merneptah-stele, habiru, shasu, ai, jericho, hazor, ethnicity-and-material-culture, exodus-historical-questions]
+  wikipedia: Israelites
+  image: Merneptah Stele Israel
+  author_notes:
+    - "The Merneptah Stele (ca. 1208 BCE) is the earliest attestation of 'Israel', written with the determinative for a people, in Canaan."
+    - "Present the models. They are Albright's unified conquest, Alt and Noth's peaceful infiltration, the Mendenhall-Gottwald peasant revolt, and indigenous emergence or ethnogenesis (Finkelstein, Dever, Faust, Killebrew). Current consensus favours a largely indigenous origin with diverse elements, including some groups from outside Canaan."
+    - "Survey data show a wave of small Iron I highland villages. Their interpretation (sedentarising pastoralists, displaced lowlanders) is debated."
+    - "Jericho and Ai are standard problem cases for the conquest model. Hazor's destruction is real but its agent and date are disputed."
+  sources_to_check:
+    - "Finkelstein, The Archaeology of the Israelite Settlement (1988)"
+    - "Dever, Who Were the Early Israelites and Where Did They Come From? (2003)"
+    - "Killebrew, Biblical Peoples and Ethnicity (2005)"
+
+- id: ethnicity-and-material-culture
+  aliases: [Ethnic markers, Pots and peoples]
+  cultures: [hebrew, philistine, canaanite]
+  scope: >-
+    The methodological debate over whether, and how, ethnic identities such as 'Israelite'
+    and 'Philistine' can be detected in Iron Age material culture. Covers proposed markers
+    (house plans, pottery, foodways, circumcision, language) and the biblical construction
+    of ethnic boundaries.
+  passages:
+    - "Judg 14:3 | concept | 'Uncircumcised Philistines' as an ethnic boundary"
+    - "1Sam 17:26 | concept | Goliath as 'this uncircumcised Philistine'"
+    - "1Sam 18:25-27 | concept | Philistine foreskins as bride-price trophy"
+    - "Gen 17:10-14 | practice | Circumcision as covenant sign"
+    - "Lev 11:7 | practice | Pig prohibited; cf. scarcity of pig bones at highland sites"
+    - "Deut 14:8 | practice | Pig prohibited"
+    - "Judg 12:5-6 | language | Shibboleth: dialect as an ethnic marker"
+    - "Neh 13:23-24 | language | Children speaking 'Ashdodite' rather than 'Judean'"
+  related: [four-room-house, pig-avoidance, circumcision, philistines, emergence-of-israel, pottery-and-potters, sea-peoples]
+  wikipedia: null
+  image: collared-rim jar
+  author_notes:
+    - "Proposed Israelite markers are the four-room house, collared-rim pithoi, scarcity of pig bones, little decorated or imported pottery, and circumcision (archaeologically invisible). Faust treats these as boundary markers against Philistines. Finkelstein stresses pig avoidance."
+    - "Counter-arguments are that collared-rim jars and pillared houses occur outside the Israelite highlands, and that environment and economy can explain foodways. Ethnicity is situational and constructed (Barth), not given."
+    - "Philistine markers include Aegean-style pottery, hearths, cooking jugs, spool-shaped loom weights, and pork consumption in early phases."
+    - "Warn against both essentialism ('pots = people') and denying any ethnic signal in material culture."
+  sources_to_check:
+    - "Faust, Israel's Ethnogenesis (2006)"
+    - "Killebrew, Biblical Peoples and Ethnicity (2005)"
+
+- id: chronology-of-kings
+  aliases: [Regnal chronology, Synchronisms]
+  cultures: [israelite, judahite, assyrian, babylonian]
+  scope: >-
+    The reconstruction of absolute dates for the kings of Israel and Judah from the
+    regnal formulae and synchronisms of Kings and Chronicles, anchored by Assyrian,
+    Babylonian, and Egyptian chronology. Covers methods (accession and calendar systems,
+    coregencies), textual variants, and the main competing systems.
+  passages:
+    - "1Kgs 6:1 | concept | 480 years from exodus to temple, probably schematic (12 × 40)"
+    - "1Kgs 14:25-26 | event | Shishak's invasion in Rehoboam's fifth year, an anchor around 925"
+    - "1Kgs 15:1, 9 | form | Synchronistic accession formulae cross-dating Judah and Israel"
+    - "1Kgs 16:23 | form | Omri's accession dated to Asa's 31st year"
+    - "2Kgs 15:5 | practice | Jotham governs during Uzziah's illness, a coregency"
+    - "2Kgs 15:30 | concept | Hoshea's accession dated to Jotham's 20th year, conflicting with 17:1"
+    - "2Kgs 17:1 | concept | Hoshea's accession in Ahaz's 12th year"
+    - "2Kgs 18:1, 9-10, 13 | concept | Hezekiah synchronisms vs '14th year' for Sennacherib's 701 campaign"
+    - "2Kgs 25:8 | event | Jerusalem burned in Nebuchadnezzar's 19th year (587/586)"
+    - "Jer 25:1 | concept | Jehoiakim's 4th year equated with Nebuchadnezzar's 1st"
+    - "Amos 1:1 | concept | Dating by 'two years before the earthquake'"
+  related: [assyrian-eponym-list, battle-of-qarqar, black-obelisk, babylonian-chronicles, nebuchadnezzar-chronicle, shoshenq-i, fall-of-jerusalem-587, royal-annals-and-historiography]
+  wikipedia: Kings of Israel and Judah
+  image: null
+  author_notes:
+    - "Fixed points include the Assyrian eponym list anchored by the solar eclipse of 15 June 763 (eponymy of Bur-Saggile), Ahab at Qarqar (853), Jehu's tribute (841, Shalmaneser III's 18th year), and Jehoiachin's capture on 2 Adar (16 March) 597 in the Babylonian Chronicle."
+    - "Explain the method problems. They are accession versus non-accession reckoning, spring (Nisan) versus autumn (Tishri) new year, coregencies, and textual variation (LXX and Lucianic numbers differ, especially for the Omrides)."
+    - "Compare the main systems (Thiele; Tadmor; Galil; Hughes). Present Thiele's coregencies as effective but criticised as harmonising."
+    - "The 587 versus 586 date for Jerusalem's fall depends on calendar assumptions. State both."
+  sources_to_check:
+    - "Thiele, The Mysterious Numbers of the Hebrew Kings (3rd ed. 1983)"
+    - "Galil, The Chronology of the Kings of Israel and Judah (1996)"
+    - "Millard, The Eponyms of the Assyrian Empire 910-612 BC (SAAS 2, 1994)"
+    - "Grayson, Assyrian and Babylonian Chronicles (1975)"
+
+- id: low-chronology-debate
+  aliases: [Low Chronology, United Monarchy debate, Tenth-century debate]
+  cultures: [israelite, judahite]
+  scope: >-
+    The debate over the dating of Iron I-IIA strata in the southern Levant and its
+    consequences for the historicity and scale of the united monarchy of David and Solomon.
+    Covers Yadin's 'Solomonic' synthesis, Finkelstein's Low Chronology, Mazar's Modified
+    Conventional Chronology, and the role of radiocarbon dating.
+  passages:
+    - "1Kgs 9:15-19 | attests? | Solomon's building at Jerusalem, Hazor, Megiddo, and Gezer"
+    - "1Kgs 4:7-19 | setting? | Solomon's twelve administrative districts"
+    - "1Kgs 10:14-29 | concept | Portrait of Solomon's wealth and trade"
+    - "2Sam 5:6-12 | event? | David takes Jerusalem; Hiram builds his house"
+    - "2Sam 8:1-14 | event? | David's conquests and garrisons"
+    - "1Kgs 14:25-26 | event | Shishak's campaign, used to anchor 10th-century destruction layers"
+    - "1Sam 17:1-2 | setting | Valley of Elah, setting near Khirbet Qeiyafa"
+  related: [solomon, david, khirbet-qeiyafa, megiddo, hazor, gezer, city-gates, bubastite-portal]
+  wikipedia: Kingdom of Israel (united monarchy)
+  image: Khirbet Qeiyafa
+  author_notes:
+    - "Yadin assigned Megiddo VA-IVB, Hazor X, and Gezer VIII to Solomon on the basis of 1 Kgs 9:15. Finkelstein's Low Chronology (1996) lowers the Iron I/IIA transition by about 75-100 years and attributes these strata to the 9th-century Omrides. Mazar's Modified Conventional Chronology has Iron IIA spanning about 980-840."
+    - "Radiocarbon programmes (Tel Reḥov, Megiddo, Khirbet Qeiyafa, Faynan) have narrowed the gap. The debate now concerns decades and the interpretation of social complexity, not centuries."
+    - "Contested finds include Khirbet Qeiyafa (Judahite fortress under David per Garfinkel, or a non-Judahite or Saulide site) and the Large Stone Structure and Stepped Stone Structure in Jerusalem ('David's palace' per E. Mazar)."
+    - "The Shishak (Shoshenq I) campaign list, with the problem of linking specific destructions to it, is central."
+  sources_to_check:
+    - "Finkelstein and Mazar, The Quest for the Historical Israel (2007)"
+    - "Levy and Higham (eds.), The Bible and Radiocarbon Dating (2005)"
+
+- id: cult-reforms-archaeology
+  aliases: [Hezekiah's reform, Josiah's reform, Cult centralisation]
+  cultures: [judahite]
+  scope: >-
+    The archaeological evidence claimed for and against the cult reforms of Hezekiah and
+    Josiah reported in Kings and Chronicles, especially at Arad, Beersheba, Lachish, and
+    Tel Moẓa. Covers the persistence of household cult.
+  passages:
+    - "2Kgs 18:3-6 | event | Hezekiah removes high places, pillars, the Asherah, and Nehushtan"
+    - "2Kgs 18:22 | event | Rabshakeh cites Hezekiah's removal of high places and altars"
+    - "2Chr 29-31 | event | Chronicler's expanded account of Hezekiah's reform"
+    - "2Kgs 23:4-20 | event | Josiah's purge of the temple, high places, and Bethel"
+    - "2Kgs 23:8 | realia | High places defiled 'from Geba to Beersheba'; high places of the gates"
+    - "2Chr 34:3-7 | event | Chronicles dates Josiah's purge to his 12th year"
+    - "Deut 12:2-7 | concept | Centralisation law underlying the reform accounts"
+    - "2Kgs 10:27 | practice | Temple of Baal made a latrine; cf. Lachish gate-shrine toilet"
+  related: [arad, beersheba, lachish, horned-altars, high-places, josiah, hezekiah, tel-motza-temple]
+  wikipedia: null
+  image: Beersheba horned altar
+  author_notes:
+    - "At Arad, Herzog dates the dismantling of the shrine to the late 8th century, against Aharoni's split between Hezekiah (altar) and Josiah (shrine). The stratigraphy remains disputed. Residue analysis (2020) identified frankincense and cannabis on its incense altars."
+    - "The Beersheba horned altar was found dismantled, with its stones reused in a storehouse wall. Aharoni linked this to Hezekiah, but the timing is debated."
+    - "The Lachish Level III gate shrine had cut altar horns and a stone toilet. The excavators read it as reform-era desecration (compare 2 Kgs 10:27), but this is contested."
+    - "Some scholars (e.g., Na'aman; Fried) question whether the archaeology supports the reform reports. Judean pillar figurines and the Tel Moẓa temple show continuing cult practice. Present the evidence as ambiguous."
+
+- id: babylonian-exile
+  aliases: [Babylonian captivity, Exile]
+  cultures: [judahite, babylonian]
+  date: [-597, -538]
+  scope: >-
+    The deportations of Judahites to Babylonia in 597, 587/586, and 582 BCE, the life of
+    Judean communities in Babylonia, the situation in Judah after 586, and the end of the
+    exile under Persian rule. Covers biblical accounts and cuneiform evidence for the
+    exiles.
+  passages:
+    - "2Kgs 24:10-16 | event | Jehoiachin and the elite deported in 597"
+    - "2Kgs 25:8-21 | event | Destruction and deportation in Nebuchadnezzar's 19th year"
+    - "Jer 52:28-30 | event | Deportee numbers for 597, 586, and 582"
+    - "2Kgs 25:22-26 | event | Gedaliah at Mizpah; flight to Egypt"
+    - "2Kgs 25:27-30 | event | Jehoiachin released and given royal rations; cf. ration tablets"
+    - "Jer 29:4-7 | setting | Exiles told to build houses and seek the city's welfare"
+    - "Ezek 1:1-3 | setting | Exiles by the river Chebar"
+    - "Ezek 3:15 | setting | Tel-abib; cf. Judean settlements such as Āl-Yāhūdu"
+    - "Ps 137 | setting | 'By the rivers of Babylon'"
+    - "Jer 25:11-12 | concept | Seventy years of servitude"
+    - "Ezra 1:1-4 | event | Edict of Cyrus permitting return"
+  related: [fall-of-jerusalem-587, nebuchadnezzar-ii, jehoiachin-ration-tablets, al-yahudu-tablets, murashu-archive, deportation, cyrus-cylinder, yehud-province]
+  wikipedia: Babylonian captivity
+  image: Al-Yahudu tablets
+  author_notes:
+    - "The Āl-Yāhūdu and related tablets (from 572 BCE into the 5th century) show Judeans as dependent landholders in rural Babylonia, not prisoners. The Jehoiachin ration tablets from Babylon and the Murašû archive (late 5th century) add evidence. Avoid a 'slavery' framing."
+    - "Present the 'myth of the empty land' debate (Barstad) against evidence of severe destruction in Jerusalem and the Shephelah and relative continuity in Benjamin (Lipschits)."
+    - "Deportation figures differ between 2 Kgs 24:14-16 and Jer 52:28-30. The seventy years is a symbolic or schematic figure."
+    - "Many Judeans remained in Babylonia after 539. The 'return' was gradual and partial, and the 538 date for Cyrus's edict depends on Ezra 1."
+  sources_to_check:
+    - "Pearce and Wunsch, Documents of Judean Exiles and West Semites in Babylonia in the Collection of David Sofer (CUSAS 28, 2014)"
+    - "Grayson, Assyrian and Babylonian Chronicles (1975)"
+    - "Lipschits, The Fall and Rise of Jerusalem (2005)"
+    - "Barstad, The Myth of the Empty Land (1996)"
+
+- id: samaritan-origins
+  aliases: [Samaritans, Samarians]
+  cultures: [israelite, jewish, persian, greek]
+  scope: >-
+    The origins of the Samaritan community centred on Mount Gerizim, from the population
+    of the Assyrian and Persian province of Samaria to the parting of Samaritans and Jews
+    in the Hellenistic period. Covers biblical polemic, epigraphic and archaeological
+    evidence, and later Jewish and New Testament perspectives.
+  passages:
+    - "2Kgs 17:24-41 | polemic | Judahite account of foreign resettlement and mixed worship in Samaria"
+    - "Ezra 4:1-5 | event | 'Adversaries' offer to help build the temple and are rebuffed"
+    - "Ezra 4:10 | attests | Peoples settled in Samaria by Osnappar (Ashurbanipal)"
+    - "Neh 2:10, 19 | attests | Sanballat the Horonite opposes Nehemiah"
+    - "Neh 13:28 | event | High priest's grandson, son-in-law of Sanballat, expelled"
+    - "Sir 50:25-26 | polemic | 'The foolish people that live in Shechem'"
+    - "2Macc 6:2 | event | Gerizim temple renamed for Zeus the Friend of Strangers"
+    - "John 4:9, 20 | practice | Jews and Samaritans; worship 'on this mountain'"
+    - "Luke 10:33 | concept | The Samaritan as unexpected neighbour"
+  related: [mount-gerizim, samaria-papyri, sanballat, elephantine-temple-petition, samaria, fall-of-samaria, deportation, yehud-province]
+  wikipedia: Samaritans
+  image: Mount Gerizim temple ruins
+  author_notes:
+    - "Distinguish Samarians (inhabitants of the province of Samaria) from Samaritans (the Gerizim-centred religious community). 2 Kgs 17 is polemical. Assyrian deportations were partial, and much of the northern Yahwistic population remained."
+    - "Magen dates the first Gerizim sanctuary to the mid-5th century BCE. John Hyrcanus destroyed it around 111-110 BCE. Josephus's story of Sanballat and Manasseh in Alexander's time (Ant. 11.302-347) conflates traditions."
+    - "Yahwistic names in the Samaria papyri, the Elephantine letter to Delaiah and Shelemiah sons of Sanballat, the Gerizim inscriptions, and the Delos inscriptions ('Israelites who offer to holy Argarizein') show a shared Israelite identity."
+    - "Current scholarship (Knoppers, Pummer) replaces a single 'schism' with a gradual parting culminating in the 2nd century BCE."
+  sources_to_check:
+    - "Knoppers, Jews and Samaritans (2013)"
+    - "Pummer, The Samaritans: A Profile (2016)"
+    - "Magen, Misgav, and Tsfania, Mount Gerizim Excavations I (2004)"
+    - "Gropp, Wadi Daliyeh II: The Samaria Papyri from Wadi Daliyeh (DJD 28, 2001)"
+
+- id: yehud-province
+  aliases: [Yehud Medinata, Persian-period Judah]
+  cultures: [jewish, persian]
+  date: [-539, -332]
+  circa: true
+  scope: >-
+    Judah as a province (mĕdînâ) of the Achaemenid Persian Empire: its extent,
+    administration, governors, economy, and population, as known from Ezra-Nehemiah,
+    Haggai, Zechariah, and Malachi, from seals, coins, and Elephantine documents, and
+    from archaeology.
+  passages:
+    - "Ezra 5:8 | attests | 'The province of Judah' (yĕhûd mĕdîntāʾ)"
+    - "Ezra 5:14 | attests | Sheshbazzar appointed governor (peḥâ)"
+    - "Hag 1:1 | attests | Zerubbabel, governor of Judah"
+    - "Neh 5:14-15 | practice | Governor's food allowance; burdens imposed by former governors"
+    - "Neh 12:26 | attests | Nehemiah the governor and Ezra the priest-scribe"
+    - "Mal 1:8 | practice | 'Try presenting that to your governor'"
+    - "Ezra 7:25-26 | practice | Imperial authorisation of the law of God and the law of the king"
+    - "Neh 3:1-32 | setting | Districts (pelek) of Yehud in the wall-building list"
+    - "Ezra 2:1-70 | setting | List of returnees by family and town"
+  related: [yehud-seals-and-coins, persia, persian-imperial-authorization, ramat-rahel, mizpah, elephantine-temple-petition, babylonian-exile, samaritan-origins]
+  wikipedia: Yehud (Persian province)
+  image: Yehud stamp impression
+  author_notes:
+    - "Evidence includes Yehud stamp impressions (yhd/yhwd, some naming governors), 4th-century Yehud coins, the Elephantine petition (407 BCE) to Bagavahya governor of Judah, and the administrative centre at Ramat Raḥel. Mizpah served as the Babylonian-period centre."
+    - "Population estimates are small (Lipschits about 30,000; Carter lower), and Persian-period Jerusalem was small. State the methods behind the figures."
+    - "Alt's thesis that Judah was subordinate to Samaria until Nehemiah is largely abandoned in light of governors' seals and bullae."
+    - "Note the debates over the order and dates of Ezra and Nehemiah (458 vs. 398 for Ezra) and over Persian 'imperial authorisation' of local law (Frei)."
+  sources_to_check:
+    - "Lipschits and Vanderhooft, The Yehud Stamp Impressions (2011)"
+    - "Carter, The Emergence of Yehud in the Persian Period (JSOTSup 294, 1999)"
+    - "Lipschits, The Fall and Rise of Jerusalem (2005)"
+    - "Porten and Yardeni, Textbook of Aramaic Documents from Ancient Egypt, vol. 1 (1986), A4.7"
+
+- id: loans-interest-pledges
+  aliases: [Usury, Interest (nešek and tarbît), Pledges, Surety]
+  cultures: [hebrew, akkadian, babylonian, jewish]
+  scope: >-
+    Lending in biblical law and practice: the ban on charging interest (nešek, tarbît) to a
+    fellow Israelite in need, the rules limiting what may be taken in pledge, suretyship, and
+    the prophetic and wisdom critique of creditors, compared with Mesopotamian loan law and
+    the Aramaic loan contracts from Elephantine. Debt remission and debt-servant release are
+    treated under debt-release and slavery; the Meṣad Ḥashavyahu petition has its own entry.
+  passages:
+    - "Exod 22:25-27 | practice | No interest from the poor; a pledged cloak returned before sunset (MT 22:24-26)"
+    - "Lev 25:35-37 | practice | No nešek or tarbît from an impoverished kinsman"
+    - "Deut 23:19-20 | practice | Interest banned between Israelites but allowed from a foreigner (MT 23:20-21)"
+    - "Deut 24:6, 10-13, 17 | practice | Limits on pledges: no millstone, no entering the house, cloak returned, widow's garment exempt"
+    - "Gen 38:17-18 | language | Judah's seal, cord and staff given as a pledge (ʿērābôn)"
+    - "2Kgs 4:1 | practice | A creditor comes to take a widow's children as slaves"
+    - "Job 24:3, 9 | practice | The widow's ox and the infant of the poor taken in pledge"
+    - "Amos 2:8 | practice | Garments taken in pledge spread out beside altars"
+    - "Ezek 18:8, 13, 17 | practice | Taking advance or accrued interest among the marks of the wicked"
+    - "Neh 5:1-13 | practice | Fields, houses and children pledged; Nehemiah halts lending at interest"
+    - "Ps 15:5 | practice | The righteous does not lend money at interest"
+    - "Prov 22:26-27 | practice | Warning against giving pledges as surety for another's debts"
+    - "Luke 19:23 | practice | Money deposited with bankers to earn interest"
+  related: [debt-release, mesad-hashavyahu-ostracon, slavery, widow-orphan-sojourner, laws-of-eshnunna, code-of-hammurabi, elephantine-papyri, weights-and-silver-money]
+  wikipedia: null
+  image: null
+  author_notes:
+    - "Explain the terms. Nešek ('bite') and tarbît/marbît ('increase') appear together in Lev 25:36-37 and Ezek 18. Whether they denote interest deducted in advance and interest added at repayment, or are near-synonyms, is debated. Hebrew ʿăbōṭ and ḥăbōl denote pledges, and ʿērābôn (Gen 38) is the Semitic word behind Greek arrabōn (2 Cor 1:22)."
+    - "Mesopotamian law regulated rather than banned interest. The Laws of Eshnunna (§18A) and the gap sections of Hammurabi's laws set maximum rates of 20 percent on silver and 33⅓ percent on grain; verify section numbers in Roth. Hammurabi §§113-119 regulate distraint and persons held as pledges."
+    - "Elephantine Aramaic loan contracts (e.g. TAD B3.1) record monthly interest and penalties for default. They show Judeans in the Persian period lending at interest among themselves; verify the rates before citing."
+    - "The biblical ban protects a needy kinsman (it is framed as charity, not commerce), and Deut 23:20 allows interest from foreigners. Pledge limits protect the means of subsistence (cloak, millstone). Do not present it as a general ban on commercial credit, and note later Jewish and Christian developments only briefly."
+    - "Neh 5:11 refers to 'the hundredth' of money, grain, wine and oil, perhaps one percent a month. The interpretation is debated."
+  sources_to_check:
+    - "M. T. Roth, Law Collections from Mesopotamia and Asia Minor (SBLWAW 6, 2nd ed. 1997)"
+    - "B. Porten and A. Yardeni, Textbook of Aramaic Documents from Ancient Egypt, vol. 2: Contracts (1989)"
+    - "R. Westbrook (ed.), A History of Ancient Near Eastern Law, 2 vols. (2003)"
+    - "E. Neufeld, 'The Prohibitions against Loans at Interest in Ancient Hebrew Laws,' HUCA 26 (1955)"
+
+- id: theft-and-restitution
+  aliases: [Theft, Burglary, Deposits, Multiple Restitution, Kidnapping]
+  cultures: [hebrew, babylonian, hittite]
+  scope: >-
+    Biblical laws on theft, burglary, kidnapping, and the loss or misappropriation of
+    deposited goods, with their scales of double, fourfold and fivefold restitution and the
+    priestly rule of restoring the principal plus a fifth with a reparation offering. They
+    are compared with Mesopotamian and Hittite law. Homicide, bodily injury and the goring
+    ox are treated elsewhere.
+  passages:
+    - "Exod 20:15 | concept | 'You shall not steal' in the Decalogue (cf. Deut 5:19)"
+    - "Exod 21:16 | practice | Kidnapping a person punished by death"
+    - "Deut 24:7 | practice | Kidnapping and selling a fellow Israelite punished by death"
+    - "Exod 22:1-4 | practice | Fivefold and fourfold restitution for animals; killing a night burglar; double restitution (MT 21:37-22:3)"
+    - "Exod 22:7-15 | practice | Deposits, oaths 'before God', double restitution, and liability for loans of animals (MT 22:6-14)"
+    - "Lev 6:1-7 | practice | False denial of a deposit or theft: restore plus a fifth and bring a reparation offering (MT 5:20-26)"
+    - "Num 5:5-8 | practice | Confession and restitution plus a fifth, paid to kin or to the priest"
+    - "Gen 31:32; 44:9-10 | practice | Death proposed for theft of household gods and a divining cup"
+    - "2Sam 12:6 | practice | David sentences the rich man to fourfold restitution for the lamb"
+    - "Prov 6:30-31 | practice | A thief caught repays sevenfold, giving all the goods of his house"
+    - "Luke 19:8 | practice | Zacchaeus offers fourfold restitution for what he has extorted"
+  related: [code-of-hammurabi, laws-of-eshnunna, hittite-laws, ane-law-collections, courts-and-legal-procedure, oaths-and-oath-formulas, slavery, lex-talionis]
+  wikipedia: null
+  image: null
+  author_notes:
+    - "Comparative law: Hammurabi §§6-25 (theft from temple or palace is capital; §8 sets thirtyfold or tenfold restitution or death; §§21-22 breaking in and robbery) and §§120-126 (deposits, with double restitution for denial). Hittite Laws §§57-70 set multiple compensation for stolen animals and record that penalties had been reduced. Biblical law has no death penalty for theft of ordinary property. Greenberg's argument that this reflects a different hierarchy of values is influential but debated."
+    - "The day/night distinction for a burglar (Exod 22:2-3) has a close parallel in Laws of Eshnunna §§12-13. Explain that in Exod 22:1-4 (MT 21:37-22:3) the verses about the burglar appear to interrupt the restitution rule."
+    - "In Exod 22:8-9 'before God' (ʾĕlōhîm) has been read as God (oath or oracle at a sanctuary), as judges, or as household gods. Present the options."
+    - "Lev 6:1-7 (MT 5:20-26) and Num 5:5-8: a voluntary confession reduces the penalty to the principal plus a fifth, combined with an ʾāšām. Milgrom reads this as repentance reducing a deliberate offence to an expiable one."
+    - "Alt's hypothesis that the Decalogue's 'you shall not steal' originally referred to kidnapping (cf. Exod 21:16) is older and debated; do not present it as consensus. The 'sevenfold' of Prov 6:31 is rhetorical rather than a legal rate."
+  sources_to_check:
+    - "M. T. Roth, Law Collections from Mesopotamia and Asia Minor (SBLWAW 6, 2nd ed. 1997)"
+    - "H. A. Hoffner, The Laws of the Hittites: A Critical Edition (1997)"
+    - "B. S. Jackson, Theft in Early Jewish Law (1972)"
+    - "J. Milgrom, Leviticus 1-16 (AB 3, 1991)"
+    - "R. Westbrook, Studies in Biblical and Cuneiform Law (1988)"
+
+- id: sexual-offence-laws
+  aliases: [Adultery, Rape, Seduction, Incest, Forbidden Unions]
+  cultures: [hebrew, assyrian, babylonian, hittite]
+  scope: >-
+    Biblical laws on adultery, rape and seduction, incest and other prohibited unions
+    (Exod 22:16-17; Lev 18; 20; Deut 22:13-29), compared with the Laws of Hammurabi, the
+    Middle Assyrian Laws (Tablet A), the Hittite Laws and the Laws of Eshnunna, together with
+    narratives that presuppose them. Marriage payments, levirate marriage and the ordeal of
+    the suspected wife are treated under their own entries.
+  passages:
+    - "Exod 20:14 | concept | 'You shall not commit adultery' in the Decalogue (cf. Deut 5:18)"
+    - "Exod 22:16-17 | practice | Seducing an unbetrothed virgin: bride-price owed; the father may refuse marriage (MT 22:15-16)"
+    - "Lev 18:6-18 | practice | Incest prohibitions by degree of kinship and affinity"
+    - "Lev 18:19-23 | practice | Menstrual intercourse, adultery, Molek offering, male-male intercourse, bestiality"
+    - "Lev 20:10-21 | practice | Penalties for adultery, incest and other unions, from death to childlessness"
+    - "Deut 22:13-21 | practice | Husband's charge of non-virginity; the parents' evidence; penalties for false and true charges"
+    - "Deut 22:22 | practice | Adultery with a married woman: both parties put to death"
+    - "Deut 22:23-27 | practice | Betrothed woman in town or open country; the place decides presumed consent"
+    - "Deut 22:28-29 | practice | Seizing an unbetrothed virgin: fifty shekels and marriage without right of divorce"
+    - "Num 5:11-31 | practice | Ritual for a wife suspected of adultery without witnesses"
+    - "Gen 38:24 | practice | Judah orders Tamar burned for apparent unchastity"
+    - "2Sam 13:1-22 | practice | Amnon's rape of Tamar; her plea that the king would permit marriage (13:13)"
+    - "Prov 6:32-35 | practice | The wronged husband's fury; no compensation accepted"
+    - "Matt 1:18-19 | practice | Joseph resolves to dismiss his betrothed quietly"
+  related: [middle-assyrian-laws, code-of-hammurabi, hittite-laws, laws-of-eshnunna, marriage-and-bride-price, trial-by-ordeal, levirate-marriage, purity-and-impurity]
+  wikipedia: null
+  image: null
+  author_notes:
+    - "Comparative texts: Hammurabi §§129-133 (adultery; the husband may spare his wife and the king the man; rape of a betrothed woman; oath and river ordeal for suspicion) and §§154-158 (incest); Laws of Eshnunna §§26-28; Middle Assyrian Laws A §§12-16 and 55-56 (the rapist of a virgin must marry her and the father may take the rapist's wife; compare Deut 22:28-29 and Exod 22:16-17); Hittite Laws §§187-200 (incest and bestiality). Hittite Laws §197 makes the same mountain/house distinction as Deut 22:23-27."
+    - "Ancient categories differ from modern ones. The offences are framed largely as wrongs against a husband's or father's rights and, in Lev 18 and 20, as pollution of the land (Lev 18:24-30). Whether Deut 22:28-29 (tāpaś 'seize') describes rape, and how it relates to Exod 22:16-17 (pittâ 'entice'), is debated. Present the debate without anachronistic labels in either direction."
+    - "The prescribed death penalties are not evidence that they were regularly carried out. Prov 6:34-35, Hammurabi §129 and MAL A §15 suggest that the injured husband had a say in the penalty."
+    - "Lev 18 and 20 belong to the Holiness Code (H) and address men. Discuss the relation between the two lists. Present interpretations of Lev 18:22 and 20:13 neutrally and in their ancient context, without modern advocacy."
+    - "Keep the 'cultic prostitution' question separate and refer readers to cultic-prostitution."
+  sources_to_check:
+    - "M. T. Roth, Law Collections from Mesopotamia and Asia Minor (SBLWAW 6, 2nd ed. 1997)"
+    - "H. A. Hoffner, The Laws of the Hittites: A Critical Edition (1997)"
+    - "V. H. Matthews, B. M. Levinson and T. Frymer-Kensky (eds.), Gender and Law in the Hebrew Bible and the Ancient Near East (JSOTSup 262, 1998)"
+    - "J. Milgrom, Leviticus 17-22 (AB 3A, 2000)"
+
+- id: household-and-kinship
+  aliases: [Bêt ʾāb, Father's House, Mišpāḥâ, Clan, Tribe]
+  cultures: [hebrew]
+  scope: >-
+    The nested kinship structure of ancient Israelite society: the household or 'father's
+    house' (bêt ʾāb), the clan or kin group (mišpāḥâ), and the tribe (šēbeṭ, maṭṭeh), with
+    their economic, legal and religious functions and the 'patrimonial household' model of
+    Israelite society and kingship. House architecture, inheritance, levirate and marriage
+    are treated in their own entries.
+  passages:
+    - "Josh 7:14-18 | practice | Lot narrows from tribe to clan to household to individual"
+    - "1Sam 10:20-21 | practice | Saul chosen by lot through tribe, clan and individual"
+    - "Num 1:2 | practice | Census 'by their clans, by their ancestral houses'"
+    - "Exod 12:3 | practice | A Passover lamb for each father's house, a lamb for each household"
+    - "1Sam 20:6, 29 | practice | Yearly sacrifice of David's clan at Bethlehem"
+    - "Judg 17:1-13 | practice | Micah's household shrine, ephod and teraphim, with a hired Levite"
+    - "Judg 18:19 | practice | The Levite offered a post as priest to a tribe and clan rather than one household"
+    - "Ruth 1:8 | language | 'Return to your mother's house' (bêt ʾēm)"
+    - "Ruth 2:1, 20 | practice | Boaz, a kinsman of Elimelech's clan and one of the family's redeemers"
+    - "Num 27:1-11 | practice | Zelophehad's daughters keep their father's name and land within the clan"
+    - "Mic 7:6 | concept | Household members as enemies: the breakdown of kin solidarity"
+    - "Matt 10:34-37 | concept | Jesus' saying about divided households, quoting Mic 7:6"
+  related: [four-room-house, inheritance-and-birthright, land-redemption, levirate-marriage, genealogies, marriage-and-bride-price, teraphim, care-for-the-dead]
+  wikipedia: null
+  image: null
+  author_notes:
+    - "The terms are fluid. Bêt ʾāb can mean a residential extended family or a wider lineage. Mišpāḥâ is often translated 'clan' but sometimes means a larger kin group. Šēbeṭ and maṭṭeh both mean 'tribe'. The three-tier hierarchy of Josh 7:14-18 is partly schematic."
+    - "Archaeology: Stager's study of clusters of pillared houses as compounds for extended families (BASOR 260, 1985). Schloen extends the household model to the state, with the king as head of a patrimonial household. Engage both."
+    - "Women and the household: C. Meyers on the household economy and on the 'mother's house' (Gen 24:28; Ruth 1:8; Song 3:4; 8:2). Use this work rather than a simple model of 'patriarchy'."
+    - "Household religion (teraphim, ancestor rites, household shrines) is a distinct layer of practice. See Albertz and Schmitt."
+    - "Avoid assuming that tribes were purely genealogical. Many scholars see them as territorial or political groups expressed in kinship language (cf. segmentary lineage models)."
+  sources_to_check:
+    - "L. E. Stager, 'The Archaeology of the Family in Ancient Israel,' BASOR 260 (1985)"
+    - "J. D. Schloen, The House of the Father as Fact and Symbol: Patrimonialism in Ugarit and the Ancient Near East (2001)"
+    - "R. Albertz and R. Schmitt, Family and Household Religion in Ancient Israel and the Levant (2012)"
+    - "C. Meyers, Rediscovering Eve: Ancient Israelite Women in Context (2013)"
+
+- id: pastoralism-and-herding
+  aliases: [Shepherding, Nomadism, Transhumance, Sheep and Goats]
+  cultures: [hebrew, amorite, ane]
+  scope: >-
+    Sheep and goat herding (and to a lesser extent cattle) in the southern Levant and the
+    wider Near East: village-based herding, seasonal transhumance and mobile pastoralism,
+    the work and liability of the herdsman, and the place of herding in biblical narrative
+    and law. Royal and divine shepherd imagery is treated under shepherd-kingship and camel
+    nomadism under camels-and-domestication.
+  passages:
+    - "Gen 4:2 | practice | Abel a keeper of sheep, Cain a tiller of the ground"
+    - "Gen 13:2-12 | practice | Abram and Lot separate because the land cannot support both herds"
+    - "Gen 29:1-10 | practice | Flocks gathered at a well covered by a stone"
+    - "Gen 30:25-43 | practice | Jacob's wages from the flock; breeding of speckled and dark animals"
+    - "Gen 31:38-40 | practice | The herdsman bears losses to predators and theft; heat by day, frost by night"
+    - "Gen 37:12-17 | practice | The brothers move the flocks from Hebron to Shechem and Dothan"
+    - "Exod 22:10-13 | practice | A herdsman cleared by oath; a mauled animal brought as evidence (MT 22:9-12)"
+    - "1Sam 17:34-35 | practice | The shepherd defends the flock against lion and bear"
+    - "1Sam 25:2-8 | practice | Sheep-shearing at Carmel as a festive occasion"
+    - "2Kgs 3:4 | language | Mesha of Moab a sheep-breeder (nōqēd) paying lambs and wool as tribute"
+    - "Amos 1:1; 7:14-15 | language | Amos among the nōqĕdîm of Tekoa, a herdsman taken from the flock"
+    - "Amos 3:12 | practice | A shepherd rescues two legs or an ear from a lion as proof of loss"
+    - "Luke 2:8 | practice | Shepherds watching their flock by night"
+  related: [shepherd-kingship, camels-and-domestication, shasu, midianites-and-kenites, agriculture-and-farming, textiles-and-weaving, emergence-of-israel, mari-letters]
+  wikipedia: Pastoralism
+  image: null
+  author_notes:
+    - "Most herding in Iron Age Israel was part of a mixed farming economy: small flocks kept by villages and grazed seasonally nearby. Long-range, camel-based Bedouin nomadism is later. Correct the older romantic picture of the patriarchs as desert Bedouin."
+    - "Use Mari and anthropology for mobile pastoralism. The Mari archives describe tribal groups (the Binu Yamina and others) moving between settlement and steppe. Rowton's 'dimorphic society' and later work on pastoral-sedentary interdependence apply here. This feeds the debate on whether early Israel emerged partly from sedentarizing pastoralists (Finkelstein)."
+    - "Herding law: Hammurabi §§261-267 regulate hired herdsmen and losses. Exod 22:10-13, Gen 31:39 and Amos 3:12 share the rule that a herdsman clears himself by producing the remains of an animal killed by a predator."
+    - "Nōqēd (Amos 1:1; 2 Kgs 3:4; Ugaritic nqdm) may denote a manager or owner of flocks rather than a poor herdsman. Its implications for Amos's social status are debated."
+    - "Faunal remains show sheep and goats dominate, with cattle for traction. Note the secondary products: milk, wool and hair."
+  sources_to_check:
+    - "O. Borowski, Every Living Thing: Daily Use of Animals in Ancient Israel (1998)"
+    - "P. J. King and L. E. Stager, Life in Biblical Israel (2001)"
+    - "M. B. Rowton, 'Dimorphic Structure and the Parasocial Element,' JNES 36 (1977)"
+
+- id: bread-and-diet
+  aliases: [Baking, Ovens, Tannur, Tabun, Food]
+  cultures: [hebrew]
+  scope: >-
+    Bread-making and everyday diet in ancient Israel: kneading, leavening and baking on
+    hot stones, griddles and clay ovens (tannûr), professional bakers, and a diet based on
+    cereals, legumes, olive oil, wine and fruit, with meat eaten mainly on special
+    occasions. Grinding is treated under millstones-and-grinding, and food laws under
+    pig-avoidance and related entries.
+  passages:
+    - "Gen 18:6 | realia | Three measures of fine flour kneaded into cakes for guests"
+    - "Exod 12:34, 39 | realia | Dough carried in kneading bowls; unleavened cakes baked on the way"
+    - "Lev 2:4-7 | realia | Grain offerings baked in an oven, on a griddle, or in a pan"
+    - "Lev 26:26 | practice | Ten women baking in a single oven; bread rationed by weight"
+    - "1Sam 8:13 | practice | The king will take daughters as perfumers, cooks and bakers"
+    - "2Sam 17:27-29 | practice | Provisions for David: wheat, barley, parched grain, beans, lentils, honey, curds, cheese"
+    - "1Kgs 19:6 | realia | A cake baked on hot stones beside Elijah"
+    - "Ruth 2:14 | practice | Bread dipped in sour wine and parched grain at the harvest meal"
+    - "Hos 7:4-7 | imagery | Conspirators like a heated oven whose baker rests while the dough rises"
+    - "Jer 37:21 | practice | Jeremiah given a loaf a day from the bakers' street"
+    - "Ezek 4:9-15 | practice | Siege bread of mixed grains and legumes, rationed and baked over dung"
+    - "Matt 13:33 | realia | Leaven mixed into three measures of flour"
+  related: [millstones-and-grinding, agriculture-and-farming, olive-oil-production, winepresses, four-room-house, pig-avoidance, passover-origins, hospitality]
+  wikipedia: Ancient Israelite cuisine
+  image: Tabun oven
+  author_notes:
+    - "Ovens: the tannûr was a cylindrical clay oven heated from inside, with dough slapped against the wall; 'tabun' is the later Arabic term. Courtyard ovens are common in Iron Age houses, and some appear to have been shared (cf. Lev 26:26). Bread was also baked on embers, hot stones and griddles."
+    - "Diet: cereals (wheat and barley) supplied most calories, with legumes, olive oil, wine, figs, dates, grapes and dairy products. Meat was mainly eaten at sacrifices and feasts. Do not quote precise calorie percentages unless they come from a source such as MacDonald."
+    - "Grinding and baking took many hours a day and were women's work in the household (Meyers). Cities also had professional bakers (Jer 37:21; Gen 40)."
+    - "Leaven was a sourdough starter (śĕʾōr). Explain its ritual exclusion (Passover; Lev 2:11) without claiming that leaven always symbolizes evil (contrast Lev 23:17; Matt 13:33)."
+    - "Leḥem can mean 'food' in general, and the 'staff of bread' (Lev 26:26; Ezek 4:16) is the food supply."
+  sources_to_check:
+    - "N. MacDonald, What Did the Ancient Israelites Eat? Diet in Biblical Times (2008)"
+    - "P. J. King and L. E. Stager, Life in Biblical Israel (2001)"
+    - "C. Meyers, Rediscovering Eve: Ancient Israelite Women in Context (2013)"
+
+- id: medicine-and-healing
+  aliases: [Physicians, Healing, Disease, Asû, Āšipu]
+  cultures: [hebrew, mesopotamian, egyptian, greek, jewish]
+  scope: >-
+    Illness and its treatment in the ancient Near East and the Greco-Roman world, and in
+    biblical texts: the Mesopotamian asû (physician) and āšipu (exorcist), Egyptian medical
+    papyri, Greek medicine and healing cults, and biblical attitudes to physicians, remedies
+    and divine healing. Skin disease and purity rules, demons and amulets are treated in
+    their own entries.
+  passages:
+    - "Exod 15:26 | concept | 'I am YHWH who heals you'; obedience keeps away the diseases of Egypt"
+    - "Exod 21:18-19 | practice | An assailant pays for the victim's lost time and his full healing"
+    - "Gen 50:2 | practice | Joseph's physicians (rōpĕʾîm) embalm Jacob"
+    - "2Kgs 1:2 | practice | Ahaziah sends to Baal-zebub of Ekron to ask whether he will recover"
+    - "2Kgs 20:7 | practice | A fig poultice applied to Hezekiah's boil"
+    - "2Chr 16:12 | concept | Asa seeks physicians rather than YHWH in his illness"
+    - "Isa 1:6 | realia | Wounds not drained, bound up or softened with oil"
+    - "Jer 8:22 | imagery | 'Is there no balm in Gilead? Is there no physician there?'"
+    - "Jer 46:11 | imagery | Egypt's many medicines are in vain"
+    - "Sir 38:1-15 | concept | Honour the physician; God created medicines from the earth"
+    - "Tob 2:10; 11:7-13 | practice | Physicians' ointments fail; Tobit's eyes healed with fish gall"
+    - "Mark 5:25-26 | practice | A woman who had suffered much under many physicians"
+    - "Luke 10:34 | practice | Oil and wine poured on wounds and bandaged"
+  related: [magic-and-sorcery, lamashtu-pazuzu-amulets, demons, amulets, purity-and-impurity, baal-zebub, ludlul-bel-nemeqi, hezekiah]
+  wikipedia: null
+  image: Edwin Smith Papyrus
+  author_notes:
+    - "Mesopotamia: the asû (who worked mainly with drugs and bandages) and the āšipu (who worked mainly with incantation and diagnosis) overlapped. Avoid a 'rational versus magical' contrast. Mention the Diagnostic Handbook (Sakikkû) and Hammurabi §§215-223 on surgeons' fees and liabilities. Exod 21:19 has close parallels in Hammurabi §206 and Hittite Laws §10, which both require payment of the physician."
+    - "Egypt: the Ebers and Edwin Smith papyri, and the reputation of Egyptian physicians abroad (Herodotus 2.84; Jer 46:11). The physicians of Gen 50:2 embalm rather than treat."
+    - "There is little evidence of professional physicians in Israel before the Hellenistic period. Prophets act as healers (1 Kgs 17; 2 Kgs 4-5; 2 Kgs 20). 2 Chr 16:12 criticizes reliance on physicians instead of YHWH, perhaps because healing was bound up with other gods. Sir 38:1-15 reconciles physician and prayer. Present the development and its debates."
+    - "Avoid retrospective diagnosis. Ṣāraʿat is not Hansen's disease (leprosy), and 'fig poultice' should not be turned into modern pharmacology. Ugaritic horse-medicine texts also prescribe pressed figs; verify before citing."
+    - "Greco-Roman setting of the NT: Asclepius sanctuaries (Epidaurus, Pergamon, Corinth), Hippocratic medicine, and the image of Luke as 'the beloved physician' (Col 4:14)."
+  sources_to_check:
+    - "H. Avalos, Illness and Health Care in the Ancient Near East (HSM 54, 1995)"
+    - "J. Scurlock and B. R. Andersen, Diagnoses in Assyrian and Babylonian Medicine (2005)"
+    - "J. F. Nunn, Ancient Egyptian Medicine (1996)"
+    - "M. J. Geller, Ancient Babylonian Medicine: Theory and Practice (2010)"
+
+# ---------------------------------------------------------------------------
+# Sites and peoples
+# ---------------------------------------------------------------------------

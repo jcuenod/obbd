@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: carchemish
+title: Carchemish
+aliases: [Karkemiš, Jerablus]
+type: site
+cultures: [luwian, hittite]
+scope: >-
+  The city on the Euphrates at the modern Turkish-Syrian border, seat of a Hittite viceroy
+  and later capital of a Neo-Hittite kingdom, and site of the decisive battle of 605 BCE.
+  Covers its excavations, monuments and inscriptions; the battle has its own entry.
+passages:
+- ref: Isa 10:9
+  rel: setting
+  note: '''Is not Calno like Carchemish?'', conquered by Sargon II (717)'
+- ref: 2Kgs 23:29
+  rel: setting
+  note: Neco marches to the Euphrates to aid Assyria
+- ref: 2Chr 35:20
+  rel: setting
+  note: Neco goes to fight at Carchemish; Josiah goes out against him
+- ref: Jer 46:2-12
+  rel: setting
+  note: Defeat of Neco's army at Carchemish (605 BCE)
+- ref: 2Kgs 24:7
+  rel: setting
+  note: Babylon controls from the Wadi of Egypt to the Euphrates
+related: [battle-of-carchemish, nebuchadnezzar-chronicle, necho-ii, josiah, nebuchadnezzar-ii,
+  sargon-ii, hittites-and-hethites]
+media:
+- id: carchemish
+  role: primary
+- id: carchemish-2
+  role: gallery
+external:
+  wikipedia: Carchemish
+  wikidata: Q283680
+  pleiades: '658465'
+editorial:
+  author_notes:
+  - >-
+    The British Museum excavated the site in 1911-14 and 1920 (Hogarth, Woolley, with T. E.
+    Lawrence). A Turkish-Italian project has worked there since 2011.
+  - >-
+    In the Late Bronze Age it was the seat of the Hittite viceroy in Syria. In the Iron Age
+    it was the capital of a Neo-Hittite kingdom with Luwian hieroglyphic inscriptions and
+    sculpted orthostats. Sargon II annexed it in 717.
+  - >-
+    Woolley found burnt houses containing Egyptian objects, which he linked to the 605 battle.
+    The Babylonian Chronicle is the main written source.
+  sources_to_check:
+  - Hogarth, Woolley and Barnett, Carchemish I-III (1914-52)
+  image_query: Carchemish orthostat relief
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q283680 (verify).
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 36.82972
+  lon: 38.015
+  source: wikidata:Q283680

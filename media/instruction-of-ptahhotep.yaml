@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: instruction-of-ptahhotep
+file: instruction-of-ptahhotep.jpg
+title: Papyrus Prisse 186 1.jpg
+caption: >-
+  The opening of the Instruction of Ptahhotep in the hieratic Papyrus Prisse, 12th Dynasty,
+  c. 1800 BCE (Bibliothèque nationale de France, Paris).
+description: >-
+  Prisse Papyrus. Egyptien 183. Instructions Ptahhotep (1-73), right part, beginning of the
+  text. Middle Kingdom manuscript, 12th dynasty, c. 1800 BC. Inscribed in hieratic. BnF, Department
+  of Manuscripts. https://archivesetmanuscrits.bnf.fr/ark:/12148/cc12921q/ca103 Exhibited
+  during the exhibition L'aventure Champollion, 2022, at the BnF site François Mitterrand.
+creator: Zunkir
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Zunkir, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Papyrus_Prisse_186_1.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/6/6d/Papyrus_Prisse_186_1.jpg
+  sha1: 5f36f42e309f7f458d8464a963e08501a803fc9c
+  original_size: [3720, 1507]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×648 px
+size: [1600, 648]
+depicts: [instruction-of-ptahhotep]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

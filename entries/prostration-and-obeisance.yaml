@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: prostration-and-obeisance
+title: Prostration and Obeisance Formulas
+aliases: [Proskynesis, Bowing]
+type: practice
+cultures: [ane, egyptian, persian]
+scope: >-
+  Bowing and prostration before kings, superiors and deities, with the accompanying formulas
+  of self-abasement, in the Hebrew Bible and in ancient Near Eastern diplomatic and court
+  practice. The entry covers vocabulary, numbers of bows, licking dust, and Persian court
+  proskynesis.
+passages:
+- ref: Gen 33:3
+  rel: practice
+  note: Jacob bows to the ground seven times before Esau
+- ref: Gen 42:6
+  rel: practice
+  note: Joseph's brothers bow with faces to the ground
+- ref: 1Sam 25:23-24
+  rel: practice
+  note: Abigail falls on her face before David
+- ref: 2Sam 9:6
+  rel: practice
+  note: Mephibosheth falls on his face and does obeisance
+- ref: 1Kgs 1:16, 23, 31
+  rel: practice
+  note: Bathsheba and Nathan prostrate before David
+- ref: Esth 3:2
+  rel: practice
+  note: Mordecai refuses to bow to Haman
+- ref: Ps 72:9-11
+  rel: imagery
+  note: Foes lick the dust; all kings fall down before the king
+- ref: Isa 49:23
+  rel: imagery
+  note: Kings and queens bow and lick the dust of your feet
+- ref: Ps 95:6
+  rel: practice
+  note: '''Let us worship and bow down, let us kneel'''
+- ref: Matt 2:11
+  rel: practice
+  note: The magi fall down and pay homage
+related: [amarna-letters, black-obelisk, prayer-postures, tribute-and-vassalage, court-officials,
+  jehu]
+media:
+- id: prostration-and-obeisance
+  role: primary
+external:
+  wikipedia: Prostration
+  wikidata: Q2113454
+editorial:
+  author_notes:
+  - >-
+    Hebrew hištaḥăwâ is now generally analysed as an Št-stem of ḥwy (Ugaritic yštḥwy), not
+    a hithpael of šḥh.
+  - >-
+    The Amarna vassal formula 'At the feet of the king my lord seven times and seven times
+    I fall' (often 'on the stomach and on the back') is the classic parallel to Gen 33:3.
+  - >-
+    The Black Obelisk shows Jehu (or his envoy) prostrate before Shalmaneser III. For Esth
+    3:2, use Persian court proskynesis and Greek reactions to it (Herodotus 1.134), but note
+    that Esther gives no motive for Mordecai's refusal.
+  sources_to_check:
+  - W. L. Moran, The Amarna Letters (Baltimore, 1992)
+  image_query: Black Obelisk Jehu prostration
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,87 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: widow-orphan-sojourner
+title: Widow, Orphan, and Sojourner
+aliases: [Personae miserae, Resident alien (gēr)]
+type: concept
+cultures: [hebrew, sumerian, akkadian, egyptian, ugaritic]
+scope: >-
+  The widow, the orphan, and the resident alien as stock categories of vulnerable persons
+  in biblical law, prophecy, and psalmody, and the ancient Near Eastern royal ideal of protecting
+  the widow and orphan. The entry covers legal provisions, the ideology of divine and royal
+  protection, and the development of the gēr category.
+passages:
+- ref: Exod 22:21-24
+  rel: practice
+  note: Do not wrong the alien, widow, or orphan; God hears their cry (MT 22:20-23)
+- ref: Deut 10:18
+  rel: concept
+  note: YHWH executes justice for orphan and widow and loves the alien
+- ref: Deut 14:28-29
+  rel: practice
+  note: Triennial tithe for the Levite, alien, orphan, and widow
+- ref: Deut 24:17-22
+  rel: practice
+  note: No pledge from a widow; gleanings left for the triad
+- ref: Deut 27:19
+  rel: practice
+  note: Curse on one who perverts their justice
+- ref: Ps 68:5
+  rel: concept
+  note: God as 'father of orphans and protector of widows' (MT 68:6)
+- ref: Ps 82:3-4
+  rel: concept
+  note: Gods judged for failing the weak and the orphan
+- ref: Ps 146:9
+  rel: concept
+  note: YHWH watches over strangers, orphan, and widow
+- ref: Isa 1:17, 23
+  rel: practice
+  note: Prophetic demand to defend orphan and widow
+- ref: Jer 22:3
+  rel: concept
+  note: Royal duty to protect alien, orphan, and widow
+- ref: Mal 3:5
+  rel: practice
+  note: Judgment on oppressors of hired worker, widow, orphan, and alien
+- ref: Jas 1:27
+  rel: concept
+  note: Care for orphans and widows as true religion
+related: [code-of-hammurabi, laws-of-ur-nammu, aqhat-epic, kirta-epic, eloquent-peasant, royal-ideology,
+  courts-and-legal-procedure, debt-release]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The widow-orphan pairing is a royal-ideological topos across the ancient Near East. Examples
+    are the Ur-Nammu prologue (the orphan not delivered to the rich, the widow not to the
+    mighty), the Hammurabi epilogue, Danel judging the widow's and orphan's case (Aqhat),
+    Yassib's rebuke of Kirta, and Egyptian texts such as the Eloquent Peasant ('father to
+    the orphan, husband to the widow').
+  - >-
+    The triad including the gēr is characteristically Deuteronomic. The motive clause 'you
+    were aliens in Egypt' is a distinctively biblical development.
+  - >-
+    Note debate on terms. ʾalmānâ may denote a widow without adult male support, not simply
+    any widow. Gēr is a legal status that later Greek translation (prosēlytos) reinterprets
+    religiously.
+  - >-
+    Show the transfer of the royal ideal to YHWH as divine king (Ps 68; 82; 146), and the
+    prophetic use of the triad as a measure of covenant fidelity.
+  sources_to_check:
+  - Roth, Law Collections from Mesopotamia and Asia Minor (SBLWAW 6, 2nd ed. 1997)
+  - Weinfeld, Social Justice in Ancient Israel and in the Ancient Near East (1995)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

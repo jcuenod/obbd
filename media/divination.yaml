@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: divination
+file: divination.jpg
+title: Divinatory livers Louvre AO19837.jpg
+caption: Clay liver models used to train diviners (Musée du Louvre, AO 19837).
+description: >-
+  Divinatory livers, clay models for the training of soothsayers. The one in the middle is
+  interpreted as fortelling the destruction of small cities. Baken clay, 19th–18th centuries
+  BC, found in the royal palace at Mari (now in Syria).
+creator: Unknown artistUnknown artist
+credit_line: Jastrow (2005)
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Unknown artistUnknown artist. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Divinatory_livers_Louvre_AO19837.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/8/8b/Divinatory_livers_Louvre_AO19837.jpg
+  sha1: a37f43b6a0610972f7a4f4aff04a4e001bcabea1
+  original_size: [588, 1686]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 558×1600 px
+size: [558, 1600]
+depicts: [divination, liver-models]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

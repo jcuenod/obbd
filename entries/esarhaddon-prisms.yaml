@@ -1,0 +1,72 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: esarhaddon-prisms
+title: Prisms of Esarhaddon
+type: artifact
+cultures: [assyrian]
+date:
+  from: -676
+  to: -672
+  circa: true
+  display: c. 676–672 BCE
+scope: >-
+  The clay prism inscriptions of Esarhaddon, especially the Nineveh A and B prisms. They narrate
+  his contested accession after his father Sennacherib's death and list 22 western vassal
+  kings, including 'Manasseh king of Judah', who supplied building materials for Esarhaddon's
+  arsenal palace at Nineveh.
+passages:
+- ref: 2Kgs 21:1-18
+  rel: attests
+  note: Manasseh, king of Judah, as Assyrian vassal
+- ref: 2Kgs 19:37
+  rel: event
+  note: Sennacherib murdered by his sons, who flee; Esarhaddon succeeds
+- ref: Isa 37:38
+  rel: event
+  note: Parallel account of Sennacherib's death and Esarhaddon's succession
+- ref: 2Chr 33:11
+  rel: setting
+  disputed: true
+  note: Manasseh taken to Babylon in fetters; historicity debated
+- ref: Ezra 4:2
+  rel: attests
+  note: Esarhaddon named as the king who settled foreigners in Samaria
+related: [esarhaddon, manasseh, sennacherib, tribute-and-vassalage, esarhaddon-succession-treaty,
+  nineveh, ararat-urartu]
+location:
+  institution: Multiple exemplars; well-known examples in the British Museum, London
+  accession: null
+media:
+- id: esarhaddon-prisms
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Esarhaddon's account of his accession describes his brothers' rebellion and his own march
+    on Nineveh but avoids explicitly describing his father's murder; the Babylonian Chronicle
+    reports the killing by 'his son'.
+  - >-
+    Parpola's identification of Adrammelech with Urad-Mullissu (Arda-Mulišši), a son of Sennacherib,
+    is widely accepted; Sharezer is harder to identify.
+  - >-
+    Manasseh's appearance in the list supports the picture of Judah as a loyal vassal in the
+    7th century; the Chronicler's captivity story (2 Chr 33:11) has no Assyrian confirmation.
+  - Prisms exist in many duplicates; cite by RINAP number rather than museum object.
+  sources_to_check:
+  - RINAP 4 (Leichty 2011), Esarhaddon 1
+  - Borger, Die Inschriften Asarhaddons, Königs von Assyrien (AfO Beiheft 9, 1956)
+  image_query: Esarhaddon prism Nineveh British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

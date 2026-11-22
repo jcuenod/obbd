@@ -1,0 +1,68 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: champion-combat
+title: Champion (Single) Combat
+aliases: [Single combat, Representative combat]
+type: practice
+cultures: [egyptian, greek, philistine, hittite]
+scope: >-
+  Combat between selected champions as a substitute for, or prelude to, battle between armies.
+  The entry covers David and Goliath and the duels of 2 Samuel in comparison with Sinuhe,
+  Homeric and other ancient parallels.
+passages:
+- ref: 1Sam 17:1-54
+  rel: practice
+  note: Goliath's challenge; the outcome of the duel to decide subjugation (17:8-9)
+- ref: 2Sam 2:12-17
+  rel: practice
+  note: Twelve young men from each side 'compete' at the pool of Gibeon
+- ref: 2Sam 21:15-22
+  rel: practice
+  note: Duels with Philistine giants; Elhanan kills Goliath (21:19)
+- ref: 2Sam 23:20-21
+  rel: practice
+  note: Benaiah kills an Egyptian with his own spear
+- ref: 1Chr 20:5
+  rel: practice
+  note: 'Chronicler: Elhanan kills Lahmi, brother of Goliath (harmonization)'
+related: [story-of-sinuhe, philistines, gath, david, weapons, sea-peoples]
+media: []
+external:
+  wikipedia: Single combat
+  wikidata: Q1046469
+editorial:
+  author_notes:
+  - >-
+    Sinuhe's duel with the 'strong man of Retenu' is the closest ancient Near Eastern narrative
+    parallel. Homeric duels (Paris and Menelaus, Iliad 3; Hector and Ajax, Iliad 7) are often
+    cited for an Aegean or Philistine setting.
+  - >-
+    Studies: R. de Vaux on single combat; H. A. Hoffner, 'A Hittite Analogue to the David
+    and Goliath Contest of Champions?' (CBQ 30, 1968). Goliath's armour is eclectic, not purely
+    Aegean.
+  - >-
+    Many hold that 2 Sam 21:19 (Elhanan) preserves an older tradition later transferred to
+    David. 1 Chr 20:5 harmonizes.
+  - >-
+    The Tell es-Safi/Gath ostracon names (ʾlwt/wlt) are etymologically comparable to Goliath
+    but do not refer to him.
+  sources_to_check:
+  - ANET 18-22 (Sinuhe)
+  - M. Lichtheim, Ancient Egyptian Literature, vol. 1 (Sinuhe)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: 'Passage tags checked against WEB text: 1Chr 20:5 rel attests -> practice'
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

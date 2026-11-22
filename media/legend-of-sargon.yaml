@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: legend-of-sargon
+file: legend-of-sargon.jpg
+title: Birth of Sargon BM ME K.3401.jpg
+caption: Tablet K.3401 from Nineveh with the Birth Legend of Sargon of Akkad (British Museum).
+description: null
+creator: Marie-Lan Nguyen
+credit_line: Own work
+license:
+  id: CC-BY-2.5
+  name: CC BY 2.5
+  url: https://creativecommons.org/licenses/by/2.5
+attribution: Marie-Lan Nguyen, CC BY 2.5, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Birth_of_Sargon_BM_ME_K.3401.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/4/4f/Birth_of_Sargon_BM_ME_K.3401.jpg
+  sha1: 388fe271e9886ad6a4ac49e9ca43fb3fa40ea6a3
+  original_size: [1586, 1902]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1334×1600 px
+size: [1334, 1600]
+depicts: [legend-of-sargon]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

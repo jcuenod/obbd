@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: bread-and-diet
+file: bread-and-diet.jpg
+title: Model showing the making of bread, wood - Museo Egizio Turin S 13271 p01.jpg
+caption: >-
+  Egyptian wooden tomb model of servants grinding grain and preparing dough for bread (Museo
+  Egizio, Turin, S 13271).
+description: null
+creator: null
+credit_line: Museo Egizio
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Unknown author. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Model_showing_the_making_of_bread,_wood_-_Museo_Egizio_Turin_S_13271_p01.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/c/c4/Model_showing_the_making_of_bread%2C_wood_-_Museo_Egizio_Turin_S_13271_p01.jpg
+  sha1: 59db7b985b20c9817e4f58c5a8c13df70e57cc28
+  original_size: [5309, 3543]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1068 px
+size: [1600, 1068]
+depicts: [bread-and-diet]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

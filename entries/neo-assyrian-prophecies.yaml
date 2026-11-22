@@ -1,0 +1,73 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: neo-assyrian-prophecies
+title: Neo-Assyrian Prophecies
+type: text
+cultures: [assyrian]
+date:
+  from: -681
+  to: -650
+  circa: true
+  display: c. 681–650 BCE
+scope: >-
+  The corpus of about thirty prophetic oracles, chiefly from prophets of Ishtar of Arbela,
+  delivered to Esarhaddon and Ashurbanipal and preserved on archival collection tablets and
+  reports from Nineveh. They are the closest ANE parallel to the "fear not" salvation oracles
+  of Isaiah 40-55.
+passages:
+- ref: Isa 41:10
+  rel: form
+  note: '''Fear not, for I am with you'': salvation oracle (cf. Akk. lā tapallaḫ)'
+- ref: Isa 41:13-14
+  rel: form
+  note: '''Fear not, worm Jacob, I will help you'''
+- ref: Isa 43:1-5
+  rel: form
+  note: '''Fear not, for I have redeemed you; I am with you'''
+- ref: Isa 44:2
+  rel: imagery
+  note: Deity who formed the addressee in the womb; Ishtar as the king's midwife and nurse
+- ref: Isa 66:12-13
+  rel: imagery
+  note: Carried on the hip and comforted like a nursing child
+- ref: 2Sam 7:8-16
+  rel: concept
+  note: Divine promise of protection and lasting rule to the chosen king
+- ref: Jer 36:1-4
+  rel: practice
+  note: Oracles written down and collected for preservation
+related: [prophecy-in-the-ane, mari-letters, esarhaddon, ishtar, ashurbanipal, esarhaddon-succession-treaty]
+media:
+- id: neo-assyrian-prophecies
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    SAA 9 gathers about 29 oracles on 11 tablets; prophets (raggimu/raggintu, maḫḫû) include
+    women and persons of ambiguous gender. Collection tablets (e.g. SAA 9 1-3) show oracles
+    being edited and archived, relevant to the formation of prophetic books.
+  - >-
+    The 'fear not' oracle (Begrich's Heilsorakel) is best paralleled here and in royal inscriptions
+    (e.g. Zakkur); Deutero-Isaiah transfers the royal oracle to the people.
+  - >-
+    Much of the content legitimates Esarhaddon's contested succession, hence the links with
+    the succession treaty.
+  sources_to_check:
+  - S. Parpola, Assyrian Prophecies (SAA 9, 1997)
+  - >-
+    M. Nissinen, Prophets and Prophecy in the Ancient Near East (SBLWAW 12, 2003; 2nd ed.
+    2019)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

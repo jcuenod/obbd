@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: shadday
+title: Shadday (El Shaddai)
+aliases: [El Shaddai, Shaddai, the Almighty]
+type: deity
+cultures: [hebrew]
+scope: >-
+  The divine name or epithet Shadday, alone or as ʾēl šadday, used in the Priestly patriarchal
+  narratives, in archaic and archaizing poetry, and above all in Job. The entry covers its
+  distribution, the Priestly theory of revelation in Exod 6:3, the debated etymology, and
+  the šdyn gods of the Deir ʿAlla inscription.
+passages:
+- ref: Gen 17:1
+  rel: language
+  note: '''I am El Shaddai'': divine self-presentation to Abraham in P'
+- ref: Exod 6:3
+  rel: concept
+  note: The patriarchs knew God as El Shaddai, not by the name YHWH
+- ref: Gen 28:3; 35:11; 48:3
+  rel: language
+  note: El Shaddai in Priestly promises of fertility and descendants
+- ref: Gen 49:25
+  rel: language
+  note: 'Shadday and the ''blessings of the breasts (šādayim) and of the womb'': wordplay'
+- ref: Num 24:4, 16
+  rel: language
+  note: Balaam sees 'the vision of Shadday'; cf. the šdyn in the Deir ʿAlla text
+- ref: Ruth 1:20-21
+  rel: language
+  note: Shadday has dealt bitterly with Naomi
+- ref: Job 6:4
+  rel: language
+  note: '''Arrows of Shadday'', one of some thirty uses in Job'
+- ref: Ps 91:1
+  rel: language
+  note: Elyon and Shadday in parallel
+- ref: Isa 13:6
+  rel: language
+  note: '''Destruction from Shadday'' (šōd miššadday) wordplay; repeated in Joel 1:15'
+- ref: Ezek 10:5
+  rel: imagery
+  note: Sound of the cherubim's wings like the voice of El Shaddai; cf. 1:24
+related: [el, elyon, deir-alla-inscription, yhwh-origins, divine-council, amorites]
+media: []
+external:
+  wikipedia: El Shaddai
+  wikidata: Q3234403
+editorial:
+  author_notes:
+  - >-
+    Set out the etymologies neutrally: 'the one of the mountain(s)' (Akkadian šadû; Albright,
+    Cross), 'the one of the field/steppe' (Hebrew śādeh), and links with šad 'breast' (fertility;
+    cf. Gen 49:25). The mountain etymology is the most widely held but is not certain.
+  - >-
+    The translation 'Almighty' comes from the Septuagint (pantokratōr, mainly in Job) and
+    the Vulgate (omnipotens), and from the rabbinic folk etymology še-day 'who is sufficient'.
+    It is not the original sense.
+  - >-
+    Whether Shadday is genuinely archaic or deliberately archaizing (in P and Job) is debated.
+    Note the personal names Shedeur, Zurishaddai and Ammishaddai (Num 1:5-12), which some
+    date early.
+  - >-
+    The Deir ʿAlla plaster text (8th c.) has šdyn, a group of gods in council, alongside ʾlhn.
+    This is the clearest extrabiblical evidence but does not settle the etymology.
+  sources_to_check:
+  - DDD, s.v. "Shadday"
+  - F. M. Cross, Canaanite Myth and Hebrew Epic (1973)
+  - J. A. Hackett, The Balaam Text from Deir ʿAllā (HSM 31, 1984)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

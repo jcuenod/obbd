@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ketef-hinnom-amulets-2
+file: ketef-hinnom-amulets-2.jpg
+title: Ketef Hinnom KH2 Scroll.jpg
+caption: Scan of the unrolled amulet KH2 from Ketef Hinnom.
+description: >-
+  Scan of the KH2 Ketef Hinnom Silver Scroll, the oldest artifact containing text from the
+  Hebrew Bible.
+creator: Ketef Hinnom Silver Scrolls
+credit_line: https://ia801403.us.archive.org/0/items/ketef-hinnom-kh-2/KetefHinnomKH2.jpg
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Ketef Hinnom Silver Scrolls. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ketef_Hinnom_KH2_Scroll.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/f/ff/Ketef_Hinnom_KH2_Scroll.jpg
+  sha1: b05b972064cf0e9989a058edeea3f786850b2502
+  original_size: [2672, 4008]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1067×1600 px
+size: [1067, 1600]
+depicts: [ketef-hinnom-amulets]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: scribes-and-scribal-education-2
+file: scribes-and-scribal-education-2.jpg
+title: Assyrian scribes.jpg
+caption: >-
+  Drawing of two Assyrian scribes after a palace relief, one writing on a scroll and the other
+  on a tablet.
+description: Assyrian scribes.
+creator: Unknown authorUnknown author
+credit_line: >-
+  Hugo Rydén, Gunnar Stenhag, Dick Widing: Litteraturen genom tiderna. Kortfattad litteraturhistoria
+  för gymnasieskolan. Stockholm 1982.
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Unknown authorUnknown author. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Assyrian_scribes.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/a/a3/Assyrian_scribes.jpg
+  sha1: 80ba2d5c3d2794c60e6fa095a77210716059167e
+  original_size: [1073, 1468]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1073, 1468]
+depicts: [scribes-and-scribal-education]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

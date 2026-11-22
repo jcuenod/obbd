@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: khirbet-qeiyafa-ostracon-2
+file: khirbet-qeiyafa-ostracon-2.jpg
+title: Khirbet Qeiyafa Ostracon.jpg
+caption: >-
+  Illustrative rendition of the ostracon's ink text by Michael Netzer, based on the excavators'
+  photographs.
+description: >-
+  A rendition of The Khirbet Qeiyafa Ostracon by Michael Netzer for illustration purposes,
+  based on photographs of the potsherd by the Khirbet Qeiyafa project at the Hebrew University
+  of Jerusalem, imaging illuminations of text and interpretations of faded script areas.
+creator: MichaelNetzer
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: MichaelNetzer, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Khirbet_Qeiyafa_Ostracon.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/7/71/Khirbet_Qeiyafa_Ostracon.jpg
+  sha1: 1322c4da6a24189960faf3750a96b5c591de1f9f
+  original_size: [2303, 2157]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1498 px
+size: [1600, 1498]
+depicts: [khirbet-qeiyafa-ostracon]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

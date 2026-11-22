@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: plague-prayers-of-mursili
+title: Plague Prayers of Muršili II
+aliases: [Plague Prayers of Muršili II]
+type: text
+cultures: [hittite]
+date:
+  from: -1320
+  to: -1300
+  circa: true
+  display: c. 1320–1300 BCE
+scope: >-
+  Prayers of the Hittite king Muršili II asking the gods to end a plague that had ravaged
+  Ḫatti for some twenty years. Oracles had traced it to his father's breach of an oath sworn
+  to Egypt and to neglected offerings; the king confesses inherited guilt and offers restitution.
+passages:
+- ref: 2Sam 21:1-14
+  rel: parallel
+  note: Disaster traced by oracle to a predecessor's broken oath; expiation by the king
+- ref: Josh 9:15-20
+  rel: concept
+  note: Oath sworn by the gods binds later generations
+- ref: 2Sam 24:10-17
+  rel: parallel
+  note: King confesses guilt and pleads for the plague to stop
+- ref: Lam 5:7
+  rel: concept
+  note: Children bear their fathers' sins; cf. Muršili's 'the father's sin comes upon the
+    son'
+- ref: Ezek 18:2
+  rel: concept
+  note: Sour-grapes proverb on inherited guilt, rejected by Ezekiel
+related: [oaths-and-oath-formulas, divination, hittite-vassal-treaties, apology-of-hattusili,
+  sacrifice, hittites-and-hethites]
+media:
+- id: plague-prayers-of-mursili
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The plague began under Šuppiluliuma I, reportedly spread by Egyptian prisoners; oracles
+    pointed to the breach of the Kuruštama treaty with Egypt and neglected offerings to the
+    Mala (Euphrates) river.
+  - >-
+    Malamat (VT 5, 1955) drew the classic comparison with 2 Sam 21; the parallel concerns
+    the theology of causality and oath-breaking, not literary dependence.
+  - >-
+    The prayers argue like a legal plea (arkuwar) before divine judges; useful for comparing
+    biblical intercession and confession.
+  sources_to_check:
+  - I. Singer, Hittite Prayers (SBLWAW 11, 2002)
+  - COS 1.60
+  - ANET 394-396
+  - >-
+    A. Malamat, 'Doctrines of Causality in Hittite and Biblical Historiography: A Parallel,'
+    VT 5 (1955): 1-12
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Lam 5:7 note clarifies that the quoted phrase is
+    Mursili's
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

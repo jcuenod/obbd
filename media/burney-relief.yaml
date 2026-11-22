@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: burney-relief
+file: burney-relief.jpg
+title: Relieve Reina de la Noche (ca. 1800 a.C).jpg
+caption: >-
+  The Burney Relief ('Queen of the Night'), fired clay, Old Babylonian period, c. 1800 BCE
+  (British Museum, London).
+description: Relieve Reina de la Noche (ca. 1800 a.C)
+creator: Gennadii Saus i Segura
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Gennadii Saus i Segura, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Relieve_Reina_de_la_Noche_(ca._1800_a.C).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/11/Relieve_Reina_de_la_Noche_%28ca._1800_a.C%29.jpg
+  sha1: eaab4900ab7c09133980537729737f9b5f58fc45
+  original_size: [7501, 10000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1200×1600 px
+size: [1200, 1600]
+depicts: [burney-relief]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

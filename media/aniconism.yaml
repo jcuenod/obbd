@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: aniconism
+file: aniconism.jpg
+title: Arad Debir 2.jpg
+caption: >-
+  The cella of the Iron Age shrine at Tel Arad, with a standing stone (massebah) in its niche
+  and two incense altars on the steps, as displayed at the site.
+description: Saint des saints, Arad, Israël
+creator: Acer11
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Acer11, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Arad_Debir_2.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/9/9e/Arad_Debir_2.jpg
+  sha1: 098f18df1b9d5dcf5f0a5d9fa215faa00488e3e3
+  original_size: [960, 1280]
+  retrieved: '2026-11-20'
+derivative: null
+size: [960, 1280]
+depicts: [aniconism, arad]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: bozrah
+file: bozrah.jpg
+title: Bazra.JPG
+caption: Remains of the Edomite city at Buseirah (Bozrah), on the edge of the modern village.
+description: >-
+  The remains of the Edomite city of Basra at the edge of the village of Buzira. A school
+  was built on the mound and you can see the soccer goal in its yard on the left
+creator: >-
+  No machine-readable author provided. Uri~commonswiki assumed (based on copyright claims).
+credit_line: No machine-readable source provided. Own work assumed (based on copyright claims).
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: http://creativecommons.org/licenses/by-sa/3.0/
+attribution: >-
+  No machine-readable author provided. Uri~commonswiki assumed (based on copyright claims).,
+  CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Bazra.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/0/0f/Bazra.JPG
+  sha1: edcca10813c1243dc9dda7fa09c8c26fcb8bb7a7
+  original_size: [1200, 900]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1200, 900]
+depicts: [bozrah]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

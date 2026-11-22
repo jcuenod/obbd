@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: behemoth
+file: behemoth.jpg
+title: Edfu35.JPG
+caption: >-
+  Relief of Horus spearing Seth in the form of a hippopotamus, Ptolemaic temple of Horus at
+  Edfu.
+description: Wall relief of Seth (hippopotamus) killed by Horus, temple of Edfu, Egypt
+creator: Rémih
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: http://creativecommons.org/licenses/by-sa/3.0/
+attribution: Rémih, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Edfu35.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/3/37/Edfu35.JPG
+  sha1: 648fed67d887edd03e2e0cb1c48dfaa1ea5d2543
+  original_size: [2048, 1536]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [behemoth]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,91 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: merneptah-stele
+title: Merneptah Stele
+aliases: [Israel Stele, Victory Stele of Merneptah]
+type: artifact
+cultures: [egyptian]
+date:
+  from: -1208
+  to: -1208
+  circa: true
+  display: c. 1208 BCE
+scope: >-
+  The granite victory stele of Merneptah, dated to his fifth regnal year and found by Petrie
+  in 1896 in the king's mortuary temple at western Thebes. Most of the text celebrates victory
+  over the Libyans; its closing lines name Canaan, Ashkelon, Gezer, Yanoam, and "Israel",
+  the earliest certain extrabiblical occurrence of the name.
+passages:
+- ref: Judg 1:27-36
+  rel: setting
+  note: Israel in Canaan alongside unconquered Canaanite towns, Gezer among them (1:29)
+- ref: Gen 32:28
+  rel: language
+  note: The name Israel; the stele's ysrỉꜣr is its earliest attestation (MT 32:29)
+- ref: Josh 10:33
+  rel: attests
+  note: Gezer as a Canaanite city-state with its own king
+- ref: Josh 16:10
+  rel: attests
+  note: Canaanites remain in Gezer
+- ref: 1Kgs 9:16
+  rel: attests
+  note: Gezer, later captured by a pharaoh and given as dowry
+related: [merneptah, emergence-of-israel, gezer, ashkelon, canaanites, exodus-historical-questions,
+  ethnicity-and-material-culture]
+location:
+  institution: Egyptian Museum, Cairo
+  accession: JE 31408 (Egyptian Museum)
+media:
+- id: conquest-accounts-and-war-rhetoric
+  role: gallery
+- id: emergence-of-israel
+  role: gallery
+external:
+  wikipedia: Merneptah Stele
+  wikidata: Q754378
+editorial:
+  author_notes:
+  - >-
+    Explain the determinatives. Ashkelon, Gezer, and Yanoam carry the city/foreign-land sign,
+    while Israel carries the sign for a people. Most scholars infer a group not (yet) organised
+    as a territorial state, but do not press this too hard, since scribal determinatives can
+    be inconsistent.
+  - >-
+    The reading "Israel" is near-universally accepted. Alternatives such as "Jezreel" are
+    minority views. Locating this Israel (central hill country, Jezreel, or Transjordan) and
+    reading "his seed is not" (grain or offspring?) are both debated. The phrase is a stock
+    formula of defeat.
+  - >-
+    The stele gives a terminus ante quem (c. 1208) for a group called Israel in Canaan. It
+    says nothing about an exodus and does not identify that group with later biblical Israel's
+    full tribal structure.
+  - >-
+    Mention the Karnak "Ashkelon wall" reliefs that Yurco assigned to Merneptah and proposed
+    as depicting Israelites. That identification is contested; Rainey, for example, read the
+    relevant figures as Shasu. Mention the Berlin pedestal relief (Görg, van der Veen et al.)
+    as a debated possible earlier occurrence of the name.
+  - The stele was carved on the back of a reused stele of Amenhotep III.
+  sources_to_check: [COS 2.6, 'AEL 2:73-78', ANET 376-378]
+  image_query: Merneptah Stele Egyptian Museum Cairo
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: 'Passage tags checked against WEB text: Gen 32:28 MT 32:29 note added'
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added accession from Wikidata Q754378 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

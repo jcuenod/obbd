@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: prophecy-of-neferti
+file: prophecy-of-neferti.jpg
+title: >-
+  Ostracon with an excerpt from the 'Prophecy of Neferti', limestone - Museo Egizio (Turin)
+  S 9596 p01.jpg
+caption: >-
+  Limestone ostracon with an excerpt from the Prophecy of Neferti in hieratic (Museo Egizio,
+  Turin, S 9596).
+description: >-
+  The story of ‘The Prophecy of Neferti’ is set in the court of King Snefru, Pharaoh during
+  the 4th Dynasty (2613–2589 BCE). The Pharaoh, being bored, receives a wise man named Neferti.
+  The king questions him about the future and Neferti predicts a series of catastrophies that
+  will befall the earth before the arrival of a new king who will restore order.
+creator: null
+credit_line: Museo Egizio
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Unknown author. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Ostracon_with_an_excerpt_from_the_%27Prophecy_of_Neferti%27,_limestone_-_Museo_Egizio_(Turin)_S_9596_p01.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/ba/Ostracon_with_an_excerpt_from_the_%27Prophecy_of_Neferti%27%2C_limestone_-_Museo_Egizio_%28Turin%29_S_9596_p01.jpg
+  sha1: 8ca4deda4b1d9b709cb064e0f5096dbc8e3fc36f
+  original_size: [6522, 4909]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1204 px
+size: [1600, 1204]
+depicts: [prophecy-of-neferti]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

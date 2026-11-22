@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: medes
+file: medes.jpg
+title: Mad-5223.jpg
+caption: >-
+  Median herald leading a delegation, relief on the eastern stairway of the Apadana at Persepolis.
+description: >-
+  "Māda" (Median) herald leading a delegation on the famous tribute bearers bas-relief decorating
+  the southern panel of the eastern stairway of the Apadana, Darius the Great’s audience hall
+  at Persepolis, one of the capital of the Achaemenian Persian Empire (515 BCE). The southern
+  panel hosts a set of 23 bas-reliefs describing the procession of tribute bearers of 23 nations
+  subjected to the king of the kings. Each delegation is leaded by alternating Persian and
+  Median heralds, and brings the king various gifts from everywhere in the empire. As many
+  inscriptions let us know, by such pictorial rep
+creator: Alborzagros
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Alborzagros, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Mad-5223.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/d/d7/Mad-5223.jpg
+  sha1: 7c232c8c0558ef3eca61a624627574ffcc03c336
+  original_size: [2736, 3526]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1242×1600 px
+size: [1242, 1600]
+depicts: [medes]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

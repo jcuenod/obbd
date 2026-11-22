@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: kudurru-2
+file: kudurru-2.jpg
+title: Kudurru Melishipak Louvre Sb23 n02.jpg
+caption: >-
+  Detail of the Melishipak kudurru showing the star of Ishtar, crescent of Sin and sun disc
+  of Shamash above the presentation scene (Musée du Louvre, Sb 23).
+description: >-
+  Kudurru (stele) of King Melishipak I (1186–1172 BC): the king presents his daughter to the
+  goddess Nannaya. The crescent moon represents the god Sin, the sun the Shamash and the star
+  the goddess Ishtar. Kassite period, taken to Susa in the 12th century BC as war booty.
+creator: Unknown artistUnknown artist
+credit_line: Jastrow (2005)
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Unknown artistUnknown artist. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Kudurru_Melishipak_Louvre_Sb23_n02.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/92/Kudurru_Melishipak_Louvre_Sb23_n02.jpg
+  sha1: 5c6d639fe65989018e1516befb0c5d16c99cf327
+  original_size: [2913, 2623]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1441 px
+size: [1600, 1441]
+depicts: [kudurru]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

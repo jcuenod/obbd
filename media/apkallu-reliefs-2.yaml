@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: apkallu-reliefs-2
+file: apkallu-reliefs-2.jpg
+title: Wall relief depicting an eagle-headed and winged man, Apkallu, from Nimrud..JPG
+caption: >-
+  Eagle-headed winged apkallu holding cone and bucket, wall relief from Nimrud, 9th century
+  BCE.
+description: >-
+  Wall relief depicting an eagle-headed and winged man, Apkallu (Sage). This protective spirit
+  holds a cone and a bucket for religious ceremonial purposes. From the North-West Palace
+  of Ashurnasirpal II at Nimrud (Biblical Calah; ancient Kalhu), modern day Ninawa Governorate,
+  Iraq (Mesopotamia). Neo-Assyrian period, 865-850 BCE. The British Museum, London.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Wall_relief_depicting_an_eagle-headed_and_winged_man,_Apkallu,_from_Nimrud..JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/8/87/Wall_relief_depicting_an_eagle-headed_and_winged_man%2C_Apkallu%2C_from_Nimrud..JPG
+  sha1: 3040c909fd138511c398829fb97dc0d48b481832
+  original_size: [2604, 3833]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1087×1600 px
+size: [1087, 1600]
+depicts: [apkallu-reliefs]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

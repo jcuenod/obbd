@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: temple-scroll
+file: temple-scroll.png
+title: Temple Scroll.png
+caption: Portion of the Temple Scroll (11Q19) from Qumran Cave 11.
+description: Portion of the Temple Scroll, labeled 11Q19, one of the longest of the Dead Sea
+  Scrolls.
+creator: Israel Museum
+credit_line: 'The Israel Museum''s ''Dead Sea Scrolls Digital Project'', link: [1]'
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Israel Museum. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Temple_Scroll.png
+  original_url: https://upload.wikimedia.org/wikipedia/commons/1/15/Temple_Scroll.png
+  sha1: 3af1f9737de82ae8566db68a8947aec567294c80
+  original_size: [1083, 1189]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1083, 1189]
+depicts: [temple-scroll]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

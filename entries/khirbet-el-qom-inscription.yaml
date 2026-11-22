@@ -1,0 +1,67 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: khirbet-el-qom-inscription
+title: Khirbet el-Qom Inscription
+type: artifact
+cultures: [judahite]
+date:
+  from: -750
+  to: -700
+  circa: true
+  display: c. 750–700 BCE
+scope: >-
+  A Hebrew tomb inscription from Khirbet el-Qom west of Hebron, blessing one Uriyahu 'by YHWH'
+  and stating that he was saved from his enemies 'by his asherah'. An incised human hand appears
+  below the text. The entry also covers the other inscriptions from the site's tombs.
+passages:
+- ref: Deut 16:21
+  rel: practice
+  note: Prohibition of an asherah beside YHWH's altar
+- ref: 2Kgs 23:6
+  rel: practice
+  note: Josiah removes the asherah from YHWH's temple
+- ref: 1Sam 15:13
+  rel: language
+  note: Blessing formula bārûk ... laYHWH 'blessed by YHWH'
+- ref: Ps 18:3
+  rel: parallel
+  note: Calling on YHWH and being saved from enemies (MT 18:4)
+related: [asherah, kuntillet-ajrud-inscriptions, bench-tombs, hebron, ketef-hinnom-amulets,
+  yhwh-origins]
+media:
+- id: khirbet-el-qom-inscription
+  role: primary
+external:
+  wikipedia: Khirbet el-Qom
+  wikidata: Q4132286
+editorial:
+  author_notes:
+  - >-
+    Found by W. G. Dever in 1967 after tomb robbers had been active. The text is badly incised
+    over earlier lines, so readings vary widely. Compare Dever, Zevit, Hadley and Dobbs-Allsopp
+    et al.
+  - >-
+    The phrase 'by his asherah' parallels Kuntillet ʿAjrud. Treat the two corpora together,
+    but note that the el-Qom readings are less secure.
+  - >-
+    The function of the hand (apotropaic, or a memorial yād) is uncertain. Present suggestions
+    as such.
+  sources_to_check:
+  - COS 2.52
+  - Dever, HUCA 40-41 (1969-1970)
+  - Zevit, BASOR 255 (1984)
+  - Dobbs-Allsopp et al., Hebrew Inscriptions (2005)
+  image_query: Khirbet el-Qom inscription hand
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

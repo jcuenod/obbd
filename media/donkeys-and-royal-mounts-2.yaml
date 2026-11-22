@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: donkeys-and-royal-mounts-2
+file: donkeys-and-royal-mounts-2.jpg
+title: Procession of the Aamu, Tomb of Khnumhotep II (composite).jpg
+caption: The full procession of the Aamu with their donkeys, tomb of Khnumhotep II at Beni
+  Hasan.
+description: Procession of the Aamu, Tomb of Khnumhotep II (composite)
+creator: >-
+  Image 1:A.D. Riddle Photograph of a 2-Dimentional object which is in the Public Domain,
+  hence PD-Art applies Image 2: Brown University Photograph of a 2-Dimentional object which
+  is in the Public Domain, hence PD-Art applies Image 3: Macquarie University Photograph of
+  a 2-Dimentional object which is in the Public Domain, hence PD-Art applies
+credit_line: This image has been extracted from another file
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: >-
+  Image 1:A.D. Riddle Photograph of a 2-Dimentional object which is in the Public Domain,
+  hence PD-Art applies Image 2: Brown University Photograph of a 2-Dimentional object which
+  is in the Public Domain, hence PD-Art applies Image 3: Macquarie University Photograph of
+  a 2-Dimentional object which is in the Public Domain, hence PD-Art applies. Public domain,
+  via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Procession_of_the_Aamu,_Tomb_of_Khnumhotep_II_(composite).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/f/f4/Procession_of_the_Aamu%2C_Tomb_of_Khnumhotep_II_%28composite%29.jpg
+  sha1: 658dbdaf7ab6ce9e330fa6825254751f04a0a0c8
+  original_size: [5440, 823]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×242 px
+size: [1600, 242]
+depicts: [beni-hasan-asiatics, clothing-and-dress, donkeys-and-royal-mounts]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

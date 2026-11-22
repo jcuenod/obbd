@@ -1,0 +1,63 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: trumpeting-place-inscription
+title: Trumpeting-Place Inscription
+type: artifact
+cultures: [jewish]
+date:
+  from: -20
+  to: 70
+  circa: true
+  display: c. 20 BCE–70 CE
+scope: >-
+  Fragmentary Hebrew inscription on a parapet stone found below the southwest corner of the
+  Temple Mount, reading 'to the place of trumpeting to [...]'. It probably marked where a
+  priest blew the trumpet to announce the beginning and end of the Sabbath.
+passages:
+- ref: Num 10:10
+  rel: practice
+  note: Trumpets sounded on appointed days
+- ref: Ps 81:3
+  rel: practice
+  note: Blowing the shofar at new moon and festival (MT 81:4)
+- ref: Matt 4:5
+  rel: setting
+  disputed: true
+  note: The temple 'pinnacle', sometimes linked to this corner of the precinct
+related: [herods-temple, temple-mount, josephus, sabbath, musical-instruments, new-moon]
+location:
+  institution: Israel Museum, Jerusalem
+  accession: null
+media:
+- id: trumpeting-place-inscription
+  role: primary
+external:
+  wikipedia: Trumpeting Place inscription
+  wikidata: Q12404556
+editorial:
+  author_notes:
+  - >-
+    Found in B. Mazar's excavations (1968-69) in the debris of 70 CE. The restoration of the
+    final word (to 'announce' or to 'distinguish') is uncertain.
+  - >-
+    Josephus (War 4.582) describes a priest on a tower signalling the start and end of the
+    Sabbath with a trumpet. This is the key comparison.
+  - >-
+    Links to Matt 4:5 (pinnacle) are speculative, and links to Matt 6:2 ('sound a trumpet'
+    before almsgiving) are fringe; mention them only as such.
+  sources_to_check:
+  - 'Corpus Inscriptionum Iudaeae/Palaestinae, vol. 1: Jerusalem (2010-2012)'
+  image_query: Trumpeting Place inscription Israel Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

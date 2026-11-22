@@ -1,0 +1,81 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: temple-of-artemis-ephesus
+title: Ephesus and the Temple of Artemis
+type: site
+cultures: [greek, roman]
+scope: >-
+  Ephesus, metropolis of the Roman province of Asia, and its famous sanctuary of Artemis (the
+  Artemision), one of the Seven Wonders. The entry covers the city's civic, cultic, and imperial
+  institutions as background to Paul's ministry and to Revelation.
+passages:
+- ref: Acts 19:23-41
+  rel: setting
+  note: Silversmiths' riot; 'Great is Artemis of the Ephesians'; the theatre
+- ref: Acts 19:24
+  rel: realia
+  note: Silver shrines (naoi) of Artemis made by Demetrius
+- ref: Acts 19:31
+  rel: language
+  note: Asiarchs, attested provincial dignitaries
+- ref: Acts 19:35
+  rel: language
+  note: Ephesus as temple warden (neōkoros) of Artemis; image 'fallen from heaven'
+- ref: Acts 19:19
+  rel: practice
+  note: Burning of magic books; cf. the 'Ephesian letters'
+- ref: 1Cor 15:32
+  rel: setting
+  note: '''Fought with wild beasts at Ephesus'''
+- ref: Rev 2:1-7
+  rel: setting
+  note: Message to the church in Ephesus
+related: [imperial-cult, pergamon, laodicea, corinth, priene-calendar-inscription]
+media:
+- id: temple-of-artemis-ephesus
+  role: primary
+- id: temple-of-artemis-ephesus-2
+  role: gallery
+- id: temple-of-artemis-ephesus-3
+  role: gallery
+external:
+  wikipedia: Ephesus
+  wikidata: Q47611
+  pleiades: '599612'
+editorial:
+  author_notes:
+  - >-
+    Outline the Artemision's history (archaic temple, burned 356 BCE, rebuilt), its rediscovery
+    by J. T. Wood (1869), and the theatre. The Salutaris foundation (104 CE) documents Artemis
+    processions.
+  - >-
+    Interpretations of the cult statue's 'many breasts' (breasts, eggs, bull scrota, ornaments)
+    are debated; avoid fertility-cult clichés.
+  - >-
+    Acts' civic details (town clerk, Asiarchs, neokoros) are well supported epigraphically,
+    but this does not settle the episode's historicity.
+  sources_to_check:
+  - 'G. M. Rogers, The Sacred Identity of Ephesos: Foundation Myths of a Roman City (1991)'
+  - P. Trebilco, The Early Christians in Ephesus from Paul to Ignatius (2004)
+  image_query: Temple of Artemis Ephesus column
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q47611 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 37.94058
+  lon: 27.33939
+  source: wikidata:Q47611

@@ -1,0 +1,69 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: hadad-rimmon
+title: Hadad (Adad, Rimmon)
+aliases: [Hadad, Adad, Addu, Rimmon, Ramman]
+type: deity
+cultures: [aramean, assyrian, ugaritic]
+scope: >-
+  Hadad (Akkadian Adad, Addu), the storm god of Syria and Mesopotamia, chief god of the Aramean
+  kingdoms and especially Damascus, where he was called Rimmon (Akkadian Rammānu, "thunderer").
+  The entry covers the god, his iconography, and Hadad and Rimmon names in the Bible.
+passages:
+- ref: 2Kgs 5:18
+  rel: attests
+  note: The temple of Rimmon in Damascus, where Naaman's master worships
+- ref: 1Kgs 15:18
+  rel: language
+  note: 'Ben-hadad son of Tabrimmon: Hadad and Rimmon names in Damascus'
+- ref: 2Sam 8:3
+  rel: language
+  note: Hadadezer, 'Hadad is help', king of Zobah
+- ref: 1Kgs 20:23
+  rel: concept
+  note: Arameans claim Israel's gods are 'gods of the hills'
+- ref: 2Chr 28:23
+  rel: practice
+  note: Ahaz sacrifices to the gods of Damascus
+- ref: Zech 12:11
+  rel: practice
+  disputed: true
+  note: Mourning for Hadad-rimmon in the plain of Megiddo (deity or place)
+related: [baal, damascus, arameans, ben-hadad, tell-fekheriye-statue, melqart-stele, baal-with-thunderbolt,
+  tammuz]
+media:
+- id: hadad-rimmon
+  role: primary
+- id: hadad-rimmon-2
+  role: gallery
+external:
+  wikipedia: Hadad
+  wikidata: Q682855
+editorial:
+  author_notes:
+  - >-
+    Rimmon is the Akkadian epithet Rammānu, vocalized in Hebrew to resemble rimmôn "pomegranate";
+    explain the pun.
+  - >-
+    Zech 12:11 is debated: a lament for a dying god (Hadad-rimmon), a place name near Megiddo,
+    or the mourning for Josiah; do not settle it.
+  - >-
+    The Tell Fekheriye statue (Hadad of Sikan) and Zincirli Hadad statue are key inscriptional
+    sources; Ugaritic Baal is Hadad under another title.
+  sources_to_check:
+  - D. Schwemer, Die Wettergottgestalten Mesopotamiens und Nordsyriens (2001)
+  - DDD, s.v. "Hadad"; "Rimmon"
+  image_query: Adad storm god stele bull
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

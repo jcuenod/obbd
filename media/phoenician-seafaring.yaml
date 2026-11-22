@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: phoenician-seafaring
+file: phoenician-seafaring.jpg
+title: AssyrianWarship.jpg
+caption: >-
+  A Phoenician bireme with two banks of oars, Assyrian relief from Nineveh (British Museum).
+description: >-
+  This Phoenician warship was depicted by Assyrians in their palace of Niniveh. It is a bireme
+  (dieris/Greek διήρης), with two levels of oars. Shields are fastened around the superstructure,
+  as on the fortifications of some city walls. The pointed bow is either a ram, for holding
+  enemy ships, or a form of cutwater. WA 124772 British Museum.
+creator: No machine-readable author provided. World Imaging assumed (based on copyright claims).
+credit_line: No machine-readable source provided. Own work assumed (based on copyright claims).
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: http://creativecommons.org/licenses/by-sa/3.0/
+attribution: >-
+  No machine-readable author provided. World Imaging assumed (based on copyright claims).,
+  CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:AssyrianWarship.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/8/88/AssyrianWarship.jpg
+  sha1: 37c04c76e540d61dc7ffd8ffa5161a29675e83d7
+  original_size: [1197, 874]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1197, 874]
+depicts: [phoenician-seafaring, tarshish]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

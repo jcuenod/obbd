@@ -1,0 +1,91 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: writing-materials
+title: Writing Materials (Tablets, Ostraca, Papyrus, Scrolls)
+aliases: [Tablets, Scrolls, Papyrus, Writing boards]
+type: realia
+cultures: [ane]
+scope: >-
+  The physical media and tools of writing in the biblical world: stone, clay tablets, wax-covered
+  writing boards, potsherds, papyrus and leather scrolls, metal, ink, pens and scribal knives.
+  The entry covers biblical references and the material evidence.
+passages:
+- ref: Exod 24:12
+  rel: realia
+  note: Stone tablets (lûḥōt) of the law
+- ref: Exod 32:15-16
+  rel: realia
+  note: Tablets written on both sides, the work of God
+- ref: Isa 8:1
+  rel: realia
+  note: A large tablet (gillāyôn)
+- ref: Isa 30:8
+  rel: realia
+  note: Write it on a tablet and inscribe it in a book
+- ref: Jer 17:1
+  rel: realia
+  note: Iron pen with a diamond point
+- ref: Job 19:23-24
+  rel: realia
+  note: Inscribed in a book, with iron pen and lead, engraved in rock
+- ref: Jer 36:2, 18, 23
+  rel: realia
+  note: Scroll written in ink, cut with a scribe's knife and burned
+- ref: Ezek 2:9-10
+  rel: realia
+  note: Scroll written on front and back
+- ref: Ezek 37:16-20
+  rel: realia
+  disputed: true
+  note: Two sticks written on and joined; hinged writing boards proposed
+- ref: Ezek 9:2
+  rel: realia
+  note: Scribe's writing case
+- ref: Zech 5:1-2
+  rel: realia
+  note: Flying scroll twenty by ten cubits
+- ref: Ps 40:7
+  rel: realia
+  note: '''In the scroll of the book it is written of me'' (MT 40:8)'
+- ref: 2Tim 4:13
+  rel: realia
+  note: Books and parchments
+related: [ostraca, seals-and-bullae, sealed-deeds, scribes-and-scribal-education, writing-and-literacy,
+  dead-sea-scrolls, elephantine-papyri, ketef-hinnom-amulets]
+media:
+- id: writing-materials
+  role: primary
+- id: writing-materials-2
+  role: gallery
+external:
+  wikipedia: Writing material
+  wikidata: Q3327760
+editorial:
+  author_notes:
+  - >-
+    Papyrus was the standard medium for Iron Age Levantine documents. Papyrus-fibre impressions
+    on the backs of bullae prove sealed papyri, though only one Iron Age Hebrew papyrus survives
+    (Wadi Murabbaʿat, Mur 17, a palimpsest).
+  - >-
+    Wax-covered writing boards (Akkadian lēʾu) are known from the Nimrud ivory and wood boards
+    and Assyrian reliefs. They may lie behind Ezek 37:16-20, but this is debated.
+  - >-
+    Clay tablets were used in the Late Bronze Age Levant (Amarna, Ugarit) and occasionally
+    in Iron Age contexts. Leather and parchment dominate the Dead Sea Scrolls.
+  - >-
+    The stone tablets of the covenant can be compared with monumental and treaty tablets,
+    but avoid speculation about their size or contents.
+  image_query: Nimrud ivory writing board
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

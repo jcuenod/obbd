@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: nile
+file: nile.jpg
+title: Luxor Nile R17.jpg
+caption: The Nile at Luxor (ancient Thebes), seen from King's Island.
+description: 'Luxor (Egypt): the Nile seen from Kings Island'
+creator: Marc Ryckaert
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Marc Ryckaert, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Luxor_Nile_R17.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/7/7b/Luxor_Nile_R17.jpg
+  sha1: 8a85e32e25ac3c93736156095d9e392e9f78d8a3
+  original_size: [4556, 2855]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1003 px
+size: [1600, 1003]
+depicts: [nile]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

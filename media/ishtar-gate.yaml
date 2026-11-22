@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ishtar-gate
+file: ishtar-gate.jpg
+title: Berlín, Museo de Pérgamo 05.jpg
+caption: >-
+  The Ishtar Gate of Babylon, glazed brick, reign of Nebuchadnezzar II, as reconstructed in
+  the Pergamon Museum, Berlin.
+description: The Ishtar Gate; Pergamon Museum. Berlin, Germany
+creator: LBM1948
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: LBM1948, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Berl%C3%ADn,_Museo_de_P%C3%A9rgamo_05.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/1f/Berl%C3%ADn%2C_Museo_de_P%C3%A9rgamo_05.jpg
+  sha1: 7d296cc5ca777b0b6d983f84c84390b3d91427b2
+  original_size: [3628, 2256]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×995 px
+size: [1600, 995]
+depicts: [ishtar-gate]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

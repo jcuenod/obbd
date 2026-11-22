@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: jewish-revolt-coinage
+file: jewish-revolt-coinage.jpg
+title: Shekel from third year of the first Jewish-Roman war.jpg
+caption: >-
+  Silver shekel of the First Jewish Revolt, dated year 3 (68/69 CE), with the omer cup and
+  the legend 'Shekel of Israel'.
+description: >-
+  JUDAEA, First Jewish War. 66-70 CE. AR Shekel (22mm, 13.19 g, 12h). Dated year 3 (68/9 CE).
+  "Shekel of Israel," Omer cup with pearled rim; date above / "Jerusalem the Holy," sprig
+  of three pomegranates. Meshorer 202; Hendin 662. EF, attractive dark gray toning.
+creator: CNG
+credit_line: CNG coins
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: http://creativecommons.org/licenses/by-sa/3.0/
+attribution: CNG, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Shekel_from_third_year_of_the_first_Jewish-Roman_war.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/72/Shekel_from_third_year_of_the_first_Jewish-Roman_war.jpg
+  sha1: fec98b785e8c736657985a2eb2336659455f93ce
+  original_size: [800, 391]
+  retrieved: '2026-11-20'
+derivative: null
+size: [800, 391]
+depicts: [jewish-revolt-coinage]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

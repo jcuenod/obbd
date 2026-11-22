@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: lion-imagery
+file: lion-imagery.jpg
+title: >-
+  Walking Lion from Ishtar Gate of Nebuchadnezzar II of Babylon, reconstructed with original
+  bricks at the Pergamon Museum in Berlin, 575 BC (28626240041).jpg
+caption: >-
+  Striding lion in glazed brick from the Ishtar Gate complex of Nebuchadnezzar II at Babylon,
+  c. 575 BCE (Pergamon Museum, Berlin).
+description: >-
+  Pergamon Museum, Berlin, Germany. Complete indexed photo collection at WorldHistoryPics.com.
+creator: Gary Todd from Xinzheng, China
+credit_line: >-
+  Walking Lion from Ishtar Gate of Nebuchadnezzar II of Babylon, reconstructed with original
+  bricks at the Pergamon Museum in Berlin, 575 BC
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Gary Todd from Xinzheng, China. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Walking_Lion_from_Ishtar_Gate_of_Nebuchadnezzar_II_of_Babylon,_reconstructed_with_original_bricks_at_the_Pergamon_Museum_in_Berlin,_575_BC_(28626240041).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/44/Walking_Lion_from_Ishtar_Gate_of_Nebuchadnezzar_II_of_Babylon%2C_reconstructed_with_original_bricks_at_the_Pergamon_Museum_in_Berlin%2C_575_BC_%2828626240041%29.jpg
+  sha1: 1763d100060efe312e529d7bc8c770a5012b8114
+  original_size: [5184, 3456]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [lion-imagery]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ark-of-the-covenant
+file: ark-of-the-covenant.jpg
+title: DuraSyn-WB4-Ark and Temple of Dagon.jpg
+caption: >-
+  The Ark of the Covenant on an ox-cart beside the ruined temple of Dagon (1 Sam 5–6), wall
+  painting from the Dura-Europos synagogue, mid-3rd century CE (National Museum of Damascus).
+description: >-
+  Wall painting frome the West wall, register B, in the Dura Europos synagogue : the Ark in
+  the Temple of Dagon in Ashod. Panel conveying objection against idol worship. See also:
+  https://er.ceres.rub.de/index.php/ER/article/download/8440/7846
+creator: Adapted by Marsyas
+credit_line: Gill/Gillerman slides collection (Yale)
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Adapted by Marsyas. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:DuraSyn-WB4-Ark_and_Temple_of_Dagon.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/63/DuraSyn-WB4-Ark_and_Temple_of_Dagon.jpg
+  sha1: b18dde526c559ac52b8d5af2eea24fba3e795efa
+  original_size: [1758, 1087]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×989 px
+size: [1600, 989]
+depicts: [ark-of-the-covenant]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

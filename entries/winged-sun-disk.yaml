@@ -1,0 +1,65 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: winged-sun-disk
+title: Winged Sun Disk
+aliases: [winged sun, winged disc]
+type: realia
+cultures: [egyptian, assyrian, persian, judahite]
+scope: >-
+  The winged sun disc, an emblem of divine and royal protection in Egypt that spread across
+  the Near East (Assyria, Persia, the Levant), and its appearance on Judahite royal seals.
+  The entry covers its relevance to biblical solar language for YHWH.
+passages:
+- ref: Mal 4:2
+  rel: imagery
+  note: '''Sun of righteousness shall rise, with healing in its wings''; MT 3:20'
+- ref: Ps 84:11
+  rel: imagery
+  note: '''YHWH God is a sun and shield''; MT 84:12'
+- ref: 2Kgs 23:11
+  rel: practice
+  note: Josiah removes horses and chariots dedicated to the sun
+- ref: Ezek 8:16
+  rel: practice
+  note: Men in the temple court bowing to the sun
+- ref: Ps 19:4-6
+  rel: imagery
+  note: Sun's tent and course; MT 19:5-7
+- ref: Deut 4:19
+  rel: polemic
+  note: Warning against worshipping sun, moon, and stars
+related: [lmlk-seal-impressions, hezekiah-bulla, shamash, divine-wings, egyptian-kingship,
+  persia, light-of-the-face, host-of-heaven]
+media:
+- id: winged-sun-disk
+  role: primary
+external:
+  wikipedia: Winged sun
+  wikidata: Q814461
+editorial:
+  author_notes:
+  - >-
+    The emblem appears on Hezekiah's royal bulla and on the two-winged LMLK stamp type. Its
+    adoption in late 8th-century Judah is usually read as royal Egyptianizing iconography,
+    though some scholars argue for solar YHWH symbolism.
+  - >-
+    In Assyria a figure in a winged disc is often identified as Ashur (sometimes Shamash).
+    The Persian figure in a winged disc is widely, but not universally, identified with Ahura
+    Mazda. Keep the identification hedged.
+  - >-
+    Taylor (Yahweh and the Sun, 1993) argues for a strong solar dimension in Judahite Yahwism.
+    Many reviewers judged that thesis overstated. Use it with caution.
+  image_query: Hezekiah bulla winged sun
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

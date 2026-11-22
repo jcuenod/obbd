@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ahab
+title: Ahab
+type: person
+cultures: [israelite]
+date:
+  from: -873
+  to: -852
+  circa: true
+  display: c. 873–852 BCE
+scope: >-
+  Ahab son of Omri, king of Israel, considered in the light of extrabiblical evidence, chiefly
+  Shalmaneser III's Kurkh Monolith. It names 'Ahab the Israelite' with 2,000 chariots and
+  10,000 soldiers in the anti-Assyrian coalition at Qarqar (853). The Mesha Stele and the
+  archaeology of Samaria and Jezreel are also relevant.
+passages:
+- ref: 1Kgs 16:29-34
+  rel: attests
+  note: Ahab's accession, marriage to Jezebel and Baal temple in Samaria
+- ref: 1Kgs 22:39
+  rel: realia
+  note: Ahab's ivory house and the cities he built
+- ref: 1Kgs 22:1
+  rel: setting
+  note: Three years without war between Aram and Israel; cf. the Qarqar coalition
+- ref: 1Kgs 20:1-34
+  rel: event
+  disputed: true
+  note: Wars with Ben-hadad; many think these stories once concerned later kings
+- ref: 1Kgs 22:1-38
+  rel: event
+  disputed: true
+  note: Death at Ramoth-gilead; historicity and original setting debated
+- ref: 1Kgs 21:1-16
+  rel: setting
+  note: Naboth's vineyard beside the royal palace at Jezreel
+- ref: 2Kgs 3:5
+  rel: event
+  note: Mesha rebels after Ahab's death
+related: [kurkh-monoliths, battle-of-qarqar, omri, jezebel, samaria-ivories, mesha-stele,
+  ben-hadad, jezreel]
+media:
+- id: ahab
+  role: primary
+external:
+  wikipedia: Ahab
+  wikidata: Q235901
+editorial:
+  author_notes:
+  - >-
+    Qarqar is unmentioned in Kings. Explain how Ahab's alliance with Hadadezer of Damascus
+    there fits awkwardly with the 1 Kgs 20 and 22 war stories, and the proposal that these
+    stories originally concerned Jehoahaz or Joash.
+  - >-
+    The Kurkh figure of 2,000 chariots is possibly a scribal error or an exaggeration, but
+    it is commonly taken as evidence of Israel's military weight.
+  - >-
+    The Mesha Stele's 'son' of Omri may refer to Ahab or be generic. It fits uneasily with
+    the 'after Ahab's death' timing of 2 Kgs 1:1 and 3:5.
+  - >-
+    Use Samaria and Jezreel archaeology for the Omride state, and treat the narrative portrayal
+    (Elijah cycle) as Deuteronomistic and prophetic.
+  sources_to_check: [COS 2.113A, ANET 278-279, 'Grayson, RIMA 3 (1996)']
+  image_query: Kurkh Monolith British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

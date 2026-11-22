@@ -1,0 +1,72 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ararat-urartu
+title: Ararat and Urartu
+aliases: [Urartu, Uruaṭri, Biainili, Kingdom of Van]
+type: people
+cultures: [urartian]
+date:
+  from: -850
+  to: -590
+  circa: true
+  display: c. 850–590 BCE
+scope: >-
+  The Iron Age kingdom of Urartu around Lake Van, Assyria's northern rival, called Ararat
+  in the Hebrew Bible. Covers Urartian history and culture in outline and the biblical references,
+  including the 'mountains of Ararat' of the flood story.
+passages:
+- ref: Gen 8:4
+  rel: setting
+  note: The ark rests on 'the mountains of Ararat', a region rather than one peak
+- ref: 2Kgs 19:37
+  rel: setting
+  note: Sennacherib's assassins flee to the land of Ararat
+- ref: Isa 37:38
+  rel: setting
+  note: Sennacherib's assassins flee to the land of Ararat
+- ref: Jer 51:27
+  rel: setting
+  note: Ararat, Minni and Ashkenaz summoned against Babylon
+- ref: Tob 1:21
+  rel: setting
+  note: Sennacherib's sons flee to the mountains of Ararat
+related: [flood-traditions, gilgamesh-epic, sennacherib, esarhaddon, assyria, medes]
+media:
+- id: ararat-urartu
+  role: primary
+- id: ararat-urartu-2
+  role: gallery
+external:
+  wikipedia: Urartu
+  wikidata: Q185068
+editorial:
+  author_notes:
+  - >-
+    Hebrew ʾărārāṭ corresponds to Assyrian Urarṭu/Uruaṭri. The kingdom, which called itself
+    Biainili, had its capital at Tushpa (Van). It spoke Urartian, a language related to Hurrian,
+    and rivalled Assyria in the ninth to seventh centuries.
+  - >-
+    Gen 8:4 names a mountainous region. The identification with the volcano Ağrı Dağı ('Mount
+    Ararat') is much later. Other traditions locate the landing at Jebel Judi (Syriac and
+    Qurʾan), and Gilgamesh XI has Mount Nimush.
+  - >-
+    Correct claims of discovering the ark (e.g. the Durupınar formation) as pseudo-archaeology.
+  - >-
+    Urartu ended in the early sixth century, probably under Median or Scythian pressure (the
+    details are debated).
+  sources_to_check:
+  - Zimansky, Ecology and Empire - The Structure of the Urartian State (1985)
+  image_query: Van Fortress Tushpa
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

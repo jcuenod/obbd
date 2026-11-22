@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: medinet-habu-sea-peoples
+file: medinet-habu-sea-peoples.jpg
+title: Medinet Habu Ramses III. Tempel Nordostwand 47.jpg
+caption: >-
+  Part of the battle against the Sea Peoples on the north-east exterior wall of Ramesses III's
+  mortuary temple at Medinet Habu.
+description: >-
+  Der Kampf gegen die Seevölker an der Nordostwand des Totentempels Ramses’ III. in Medinet
+  Habu, Ägypten
+creator: Olaf Tausch
+credit_line: Own work
+license:
+  id: CC-BY-3.0
+  name: CC BY 3.0
+  url: https://creativecommons.org/licenses/by/3.0
+attribution: Olaf Tausch, CC BY 3.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Medinet_Habu_Ramses_III._Tempel_Nordostwand_47.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/f/f3/Medinet_Habu_Ramses_III._Tempel_Nordostwand_47.jpg
+  sha1: 891e14923ce8407040d8926ba5d73639a63874b2
+  original_size: [4602, 3449]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1199 px
+size: [1600, 1199]
+depicts: [medinet-habu-sea-peoples, sea-peoples]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

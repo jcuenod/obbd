@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: etemenanki
+file: etemenanki.jpg
+title: Remains of the foundations of the Etemnanki Zigurat.jpg
+caption: The remains of the foundations of Etemenanki at Babylon, now a waterlogged depression.
+description: >-
+  Photograph of what remains of the foundations of the Etemnanki Zigurat in Babylon, now a
+  wetland.
+creator: Marjon Verburg
+credit_line: https://www.livius.org/pictures/iraq/babylon/babylon-etemenanki/etemenanki-ruin/
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Marjon Verburg. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Remains_of_the_foundations_of_the_Etemnanki_Zigurat.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/8/87/Remains_of_the_foundations_of_the_Etemnanki_Zigurat.jpg
+  sha1: aebc6ba17b647425217ea42eecd58f2d9a49b980
+  original_size: [600, 400]
+  retrieved: '2026-11-20'
+derivative: null
+size: [600, 400]
+depicts: [etemenanki]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

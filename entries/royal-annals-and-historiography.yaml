@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: royal-annals-and-historiography
+title: Royal Annals and Historiography
+aliases: [Annals, Chronicles of the kings]
+type: concept
+cultures: [assyrian, babylonian, ane]
+scope: >-
+  Ancient Near Eastern historical genres (royal annals, display inscriptions, chronicles,
+  king and eponym lists) and court archives, in relation to the sources cited by Kings, Chronicles,
+  Ezra and Esther and to the nature of biblical history writing.
+passages:
+- ref: 1Kgs 11:41
+  rel: form
+  note: '''The Book of the Acts of Solomon'''
+- ref: 1Kgs 14:19, 29
+  rel: form
+  note: Books of the Annals of the Kings of Israel and of Judah
+- ref: 1Kgs 14:25-26
+  rel: event
+  note: Shishak's campaign, an annalistic notice matched by Shoshenq's Karnak list
+- ref: 1Kgs 16:23-24
+  rel: form
+  note: 'Regnal formula: synchronism, length and place of reign'
+- ref: 2Kgs 15:19-20
+  rel: event
+  note: Menahem's tribute to Pul (Tiglath-pileser III), matched in Assyrian annals
+- ref: 2Kgs 18:13-16
+  rel: event
+  note: Hezekiah's tribute to Sennacherib, matching the Assyrian account
+- ref: Esth 2:23; 6:1
+  rel: practice
+  note: Persian court 'book of the records' read before the king
+- ref: Esth 10:2
+  rel: form
+  note: '''The Annals of the Kings of Media and Persia'''
+- ref: Ezra 4:15
+  rel: practice
+  note: Search in the 'book of the records' of the ancestors
+- ref: Ezra 6:1-2
+  rel: practice
+  note: Archive search finds Cyrus's memorandum at Ecbatana
+related: [babylonian-chronicles, sennacherib-annals, tiglath-pileser-iii-inscriptions, assyrian-eponym-list,
+  chronology-of-kings, conquest-accounts-and-war-rhetoric, bubastite-portal, mesha-stele]
+media:
+- id: royal-annals-and-historiography
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Distinguish the genres: Assyrian annals (campaign by campaign, ideological), summary and
+    display inscriptions, the more terse Babylonian Chronicle series, king lists and eponym
+    lists.
+  - >-
+    Whether the 'Books of the Annals' cited in Kings were real archival chronicles or a literary
+    device is debated. Many (e.g. N. Na'aman) accept some archival or chronicle sources.
+  - >-
+    J. Van Seters, In Search of History (1983), compares Greek and ancient Near Eastern historiography.
+    Note that ideology and propaganda shape all of these sources, Assyrian and biblical alike.
+  sources_to_check:
+  - A. K. Grayson, Assyrian and Babylonian Chronicles (TCS 5, 1975)
+  - J.-J. Glassner, Mesopotamian Chronicles (SBLWAW 19, 2004)
+  image_query: Sennacherib prism British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

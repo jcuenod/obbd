@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: taharqa-2
+file: taharqa-2.jpg
+title: >-
+  Closeup of Taharqa embracing Horus on the Shrine of the 25th dynasty pharaoh and Kushite
+  King Taharqa Egypt 7th century BCE.jpg
+caption: Taharqa embracing Horus, relief on the shrine of Taharqa, 7th century BCE.
+description: >-
+  Closeup of Taharqa embracing Horus on the Shrine of the 25th dynasty pharaoh and Kushite
+  King Taharqa Egypt 7th century BCE Photographed at the Ashmolean Museum, Oxford, United
+  Kingdom.
+creator: Mary Harrsch
+credit_line: https://www.flickr.com/photos/mharrsch/28159803555/
+license:
+  id: CC-BY-2.0
+  name: CC BY 2.0
+  url: https://creativecommons.org/licenses/by/2.0
+attribution: Mary Harrsch, CC BY 2.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Closeup_of_Taharqa_embracing_Horus_on_the_Shrine_of_the_25th_dynasty_pharaoh_and_Kushite_King_Taharqa_Egypt_7th_century_BCE.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/0/01/Closeup_of_Taharqa_embracing_Horus_on_the_Shrine_of_the_25th_dynasty_pharaoh_and_Kushite_King_Taharqa_Egypt_7th_century_BCE.jpg
+  sha1: fbaf67ae1202342c16828d852d3003ae51017177
+  original_size: [1071, 1600]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1071, 1600]
+depicts: [taharqa]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

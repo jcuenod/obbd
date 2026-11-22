@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: hammurabi
+file: hammurabi.jpg
+title: F0182 Louvre Code Hammourabi Bas-relief Sb8 rwk.jpg
+caption: >-
+  Hammurabi standing before the enthroned Šamaš, relief at the top of his law stele, basalt,
+  c. 1750 BCE (Musée du Louvre, Paris).
+description: Code of Hammurabi, king of Babylon; front, bas-relief.
+creator: Mbzt
+credit_line: Own work
+license:
+  id: CC-BY-3.0
+  name: CC BY 3.0
+  url: https://creativecommons.org/licenses/by/3.0
+attribution: Mbzt, CC BY 3.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:F0182_Louvre_Code_Hammourabi_Bas-relief_Sb8_rwk.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/98/F0182_Louvre_Code_Hammourabi_Bas-relief_Sb8_rwk.jpg
+  sha1: 9733db0b7d57ed7ee820893137a39b2a3a469156
+  original_size: [3170, 3500]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1449×1600 px
+size: [1449, 1600]
+depicts: [code-of-hammurabi, hammurabi, royal-ideology]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

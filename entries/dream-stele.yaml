@@ -1,0 +1,70 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: dream-stele
+title: Dream Stele of Thutmose IV
+aliases: [Sphinx Stele, Dream Stela of Thutmose IV]
+type: artifact
+cultures: [egyptian]
+date:
+  from: -1400
+  to: -1400
+  circa: true
+  display: c. 1400 BCE
+scope: >-
+  A granite stele set up between the paws of the Great Sphinx at Giza in year 1 of Thutmose
+  IV. It tells how the prince, resting in the Sphinx's shadow, dreamed that the god Horemakhet-Khepri-Re-Atum
+  promised him the kingship if he cleared the encroaching sand. It is an example of royal
+  legitimation through a divine dream.
+passages:
+- ref: 1Kgs 3:5-15
+  rel: parallel
+  note: Deity appears to a young king in a dream, grants rule and gifts; he wakes
+- ref: 2Sam 7:1-17
+  rel: form
+  disputed: true
+  note: Königsnovelle (royal novella) proposed as model for royal-divine communication
+- ref: Gen 28:10-22
+  rel: parallel
+  note: Sleep at a sacred place brings a divine promise, followed by a vow
+- ref: Gen 41:1-7
+  rel: concept
+  note: Royal dreams as divine communication
+related: [dreams-and-dream-interpretation, dream-incubation, royal-ideology, egyptian-kingship,
+  solomon, famine-stele]
+location:
+  institution: In situ, Great Sphinx, Giza
+  accession: null
+media:
+- id: dream-stele
+  role: primary
+- id: dream-stele-2
+  role: gallery
+external:
+  wikipedia: Dream Stele
+  wikidata: Q45687
+editorial:
+  author_notes:
+  - >-
+    Explain the political function. Thutmose IV may not have been the designated heir, and
+    the stele legitimates his accession (debated).
+  - >-
+    Siegfried Herrmann's thesis that 1 Kgs 3 and 2 Sam 7 follow the Egyptian Königsnovelle
+    is influential but contested. Present it as a hypothesis.
+  - >-
+    The Gibeon dream (1 Kgs 3) is often discussed as incubation. Note the uncertainty, and
+    compare Mesopotamian royal dreams (e.g., Gudea) as well as Egyptian ones.
+  - The lower part of the stele is damaged.
+  image_query: Dream Stele Sphinx Giza
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

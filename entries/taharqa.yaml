@@ -1,0 +1,71 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: taharqa
+title: Taharqa (Tirhakah)
+aliases: [Tirhakah, Taharqo]
+type: person
+cultures: [nubian, egyptian]
+date:
+  from: -690
+  to: -664
+  circa: true
+  display: c. 690–664 BCE
+scope: >-
+  Kushite pharaoh of the Twenty-fifth Dynasty, a major builder in Egypt and Nubia. He fought
+  the Assyrians and lost Memphis to Esarhaddon in 671. In Kings and Isaiah he is named as
+  "Tirhakah king of Cush", marching against Sennacherib in 701, a reference central to debates
+  on that campaign's chronology.
+passages:
+- ref: 2Kgs 19:9
+  rel: event
+  note: Tirhakah king of Cush marches against Sennacherib; title 'king' anachronistic for
+    701
+- ref: Isa 37:9
+  rel: event
+  note: Parallel report of Tirhakah's advance
+- ref: 2Kgs 18:21
+  rel: setting
+  note: The Rabshakeh mocks reliance on Egypt, a 'broken reed'
+related: [cush, sennacherib-campaign-701, sennacherib-annals, esarhaddon, hezekiah, thebes,
+  ashurbanipal]
+media:
+- id: cush
+  role: gallery
+- id: taharqa
+  role: primary
+- id: taharqa-2
+  role: gallery
+external:
+  wikipedia: Taharqa
+  wikidata: Q315714
+editorial:
+  author_notes:
+  - >-
+    Taharqa reigned from c. 690, so calling him "king" in 701 is anachronistic. The options
+    are prolepsis by a later narrator, his role as a prince commanding under his predecessor
+    (the Kawa stelae report him coming north as a youth), or the largely abandoned two-campaign
+    theory.
+  - >-
+    The revised Kushite chronology (Shebitku before Shabaka) makes his presence in Egypt by
+    701 more plausible. Explain the state of the question.
+  - Sennacherib's annals report an Egyptian-Kushite force defeated at Eltekeh (701).
+  - >-
+    Esarhaddon's Zincirli (Sam'al) stele depicts a kneeling figure usually identified as Taharqa's
+    son Ushanahuru. It shows Assyrian propaganda against the Kushites.
+  sources_to_check:
+  - Leichty, The Royal Inscriptions of Esarhaddon (RINAP 4, 2011)
+  - Kitchen, The Third Intermediate Period in Egypt (1100-650 BC)
+  image_query: Sphinx of Taharqa British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,73 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: menahem
+title: Menahem
+type: person
+cultures: [israelite]
+date:
+  from: -747
+  to: -737
+  circa: true
+  display: c. 747–737 BCE
+scope: >-
+  Menahem son of Gadi, king of Israel, who seized the throne in Samaria and paid heavy tribute
+  to Tiglath-pileser III. He is named as 'Menahem of Samaria' in the Assyrian king's annals
+  and on the Iran Stele.
+passages:
+- ref: 2Kgs 15:14-16
+  rel: attests
+  note: Menahem's seizure of power and atrocity at Tiphsah
+- ref: 2Kgs 15:19-20
+  rel: event
+  note: Tribute of a thousand talents to Pul, raised at fifty shekels per wealthy man
+- ref: 1Chr 5:26
+  rel: attests
+  note: >-
+    Pul and Tilgath-pilneser named together with a singular verb; both are Tiglath-pileser
+    III
+- ref: Hos 5:13
+  rel: setting
+  note: Ephraim turns to Assyria for help
+- ref: Hos 8:9-10
+  rel: setting
+  note: Ephraim hires lovers among the nations
+related: [tiglath-pileser-iii, tiglath-pileser-iii-inscriptions, tribute-and-vassalage, samaria,
+  rezin, pekah, assyria, chronology-of-kings]
+media:
+- id: iran-stele
+  role: primary
+external:
+  wikipedia: Menahem
+  wikidata: Q313212
+editorial:
+  author_notes:
+  - >-
+    Pul is Tiglath-pileser III's name as king of Babylon (Pulu in Babylonian sources). 1 Chr
+    5:26 seems to treat them as two kings.
+  - >-
+    The tribute is dated to 738 (or 740) in Assyrian sources. This constrains Menahem's chronology
+    and conflicts with some biblical reckonings (Thiele's 752-742). Explain the problem.
+  - >-
+    Fifty shekels a head is close to the Assyrian price of a slave. The sum implies about
+    60,000 landowners, a figure discussed in socioeconomic studies.
+  sources_to_check: ['Tadmor and Yamada, RINAP 1 (2011)']
+  image_query: Iran Stele Tiglath-pileser III Israel Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: 2Kgs 15:14-16 rel event -> attests; 1Chr 5:26 note
+    corrected (text names Pul and Tilgath-pilneser)
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

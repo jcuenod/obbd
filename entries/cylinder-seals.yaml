@@ -1,0 +1,66 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: cylinder-seals
+title: Cylinder Seals
+type: realia
+cultures: [mesopotamian]
+scope: >-
+  Small engraved stone cylinders rolled onto clay to mark ownership and authentication, used
+  in Mesopotamia from the late fourth millennium to the Achaemenid period and widely elsewhere.
+  The entry covers their function and their value as iconographic evidence; Levantine stamp
+  seals and bullae are treated elsewhere.
+passages:
+- ref: Job 38:14
+  rel: imagery
+  note: The earth 'changed like clay under the seal', probably a rolled seal impression
+- ref: Gen 38:18, 25
+  rel: realia
+  note: Judah's seal and cord, worn on the person
+- ref: Song 8:6
+  rel: imagery
+  note: '''Set me as a seal upon your heart, as a seal upon your arm'''
+- ref: Jer 32:10-14
+  rel: practice
+  note: Sealed and open copies of a land deed
+- ref: Exod 28:11, 21, 36
+  rel: realia
+  note: Engraving 'like the engravings of a signet'
+- ref: Esth 8:8, 10
+  rel: practice
+  note: Royal decrees sealed with the king's ring
+related: [seals-and-bullae, sealed-deeds, writing-materials, scribes-and-scribal-education,
+  persepolis-fortification-tablets]
+media:
+- id: cylinder-seals
+  role: primary
+external:
+  wikipedia: Cylinder seal
+  wikidata: Q1123756
+editorial:
+  author_notes:
+  - >-
+    In Iron Age Israel and Judah stamp seals were the norm; cylinder seals occur in the Levant
+    mainly in the Bronze Age and as imports. Do not assume biblical seals were cylinders.
+  - >-
+    The seal 'with cord' (Gen 38:18) could be either type worn on a string; the term ḥōtām
+    is generic.
+  - >-
+    Seal iconography is a key source for the history of religion (Keel and Uehlinger); give
+    examples such as presentation scenes and contest scenes.
+  sources_to_check:
+  - 'Collon, First Impressions: Cylinder Seals in the Ancient Near East (1987)'
+  - Keel and Uehlinger, Gods, Goddesses, and Images of God in Ancient Israel (1998)
+  image_query: Cylinder seal and impression Louvre
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

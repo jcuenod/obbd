@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: behistun-inscription
+file: behistun-inscription.jpg
+title: کتیبه داریوش ( بیستون(.jpg
+caption: >-
+  The Behistun relief of Darius I with the captive rebel kings, above the trilingual inscription,
+  c. 520 BCE (Bisotun, Iran).
+description: This is a photo of a monument in Iran identified by the ID
+creator: Korosh.091
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Korosh.091, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:%DA%A9%D8%AA%DB%8C%D8%A8%D9%87_%D8%AF%D8%A7%D8%B1%DB%8C%D9%88%D8%B4_(_%D8%A8%DB%8C%D8%B3%D8%AA%D9%88%D9%86(.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/4b/%DA%A9%D8%AA%DB%8C%D8%A8%D9%87_%D8%AF%D8%A7%D8%B1%DB%8C%D9%88%D8%B4_%28_%D8%A8%DB%8C%D8%B3%D8%AA%D9%88%D9%86%28.jpg
+  sha1: b0d6edf8851f673e55da1a07db282aea0e629623
+  original_size: [2765, 2074]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [behistun-inscription]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

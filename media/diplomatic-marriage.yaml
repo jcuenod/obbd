@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: diplomatic-marriage
+file: diplomatic-marriage.jpg
+title: Hochzeitsstele-Ramses II..jpg
+caption: >-
+  The Marriage Stela of Ramesses II at Abu Simbel, recording his marriage to a daughter of
+  the Hittite king; drawing from Lepsius's Denkmäler.
+description: The marriage stela of Ramses II in Abu Simbel
+creator: Lepsius
+credit_line: Richard Lepsius, Denkmäler aus Aegypten und Aethiopien, 1897, Abt III, Band 7,
+  Bl. 196
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Lepsius. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Hochzeitsstele-Ramses_II..jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/2/21/Hochzeitsstele-Ramses_II..jpg
+  sha1: 08228b025394b5c8dcc7b530dca4bf1af0a07283
+  original_size: [1706, 2201]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1240×1600 px
+size: [1240, 1600]
+depicts: [diplomatic-marriage]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

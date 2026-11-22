@@ -1,0 +1,155 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: sabbath
+title: Sabbath
+aliases: [Shabbat, šabbāt]
+type: practice
+cultures: [hebrew, babylonian, jewish]
+scope: >-
+  The seventh-day Sabbath in the Hebrew Bible and early Judaism, viewed against its proposed
+  ancient Near Eastern antecedents (Akkadian šapattu, the full-moon day; hemerological "evil
+  days") and its earliest extrabiblical attestations. The entry covers the biblical development
+  of Sabbath law and rationale but leaves the sabbatical year to its own entry.
+passages:
+- ref: Gen 2:2-3
+  rel: language
+  disputed: true
+  note: >-
+    God 'ceased' (šābat) and hallowed the seventh day; relation of šbt and šabbāt to Akkadian
+    šapattu debated
+- ref: Exod 16:22-30
+  rel: practice
+  note: >-
+    Manna: double portion on the sixth day; first use of šabbāt (v. 23); stay in place (v.
+    29)
+- ref: Exod 20:8-11
+  rel: practice
+  note: >-
+    'Remember' the sabbath; no mĕlāʾkâ for household, slaves, animals, alien; creation rationale
+- ref: Deut 5:12-15
+  rel: practice
+  note: '''Observe'' the sabbath; rest of slaves grounded in the exodus'
+- ref: Exod 23:12
+  rel: practice
+  note: Seventh-day cessation (verb šbt only) so that animals, slave, and alien may rest
+- ref: Exod 34:21
+  rel: practice
+  note: Seventh-day cessation even in ploughing and harvest
+- ref: Exod 31:12-17
+  rel: concept
+  note: Sabbath as perpetual covenant sign; death penalty for profanation
+- ref: Exod 35:2-3
+  rel: practice
+  note: No kindling of fire in dwellings on the sabbath
+- ref: Num 15:32-36
+  rel: practice
+  note: Wood-gatherer executed for sabbath violation
+- ref: Lev 23:3
+  rel: practice
+  note: Sabbath as šabbat šabbātôn and holy convocation heading the festival calendar
+- ref: Lev 23:11, 15-16
+  rel: language
+  note: '''Day after the sabbath'' and seven šabbātôt before Weeks; meaning disputed in antiquity'
+- ref: 2Kgs 4:23
+  rel: practice
+  disputed: true
+  note: New moon and sabbath paired as visiting days; cited for a pre-exilic full-moon sabbath
+- ref: Amos 8:5
+  rel: practice
+  disputed: true
+  note: Trade halted on new moon and sabbath; same pairing
+- ref: Hos 2:11
+  rel: practice
+  disputed: true
+  note: Festivals, new moons, and sabbaths ended; MT 2:13
+- ref: Isa 1:13
+  rel: practice
+  disputed: true
+  note: New moon and sabbath in prophetic critique of cult
+- ref: 2Kgs 11:5-9
+  rel: practice
+  note: Temple guard rotations change on the sabbath
+- ref: Isa 56:2-7
+  rel: concept
+  note: Sabbath-keeping marks foreigners and eunuchs joined to YHWH
+- ref: Isa 58:13-14
+  rel: practice
+  note: Refrain from pursuing one's own affairs on the sabbath
+- ref: Jer 17:19-27
+  rel: practice
+  note: No carrying of burdens through Jerusalem's gates or out of houses
+- ref: Ezek 20:12-24
+  rel: concept
+  note: Sabbaths given as a sign and profaned in the wilderness
+- ref: Neh 10:31
+  rel: practice
+  note: Pledge not to buy from foreign traders on the sabbath; MT 10:32
+- ref: Neh 13:15-22
+  rel: practice
+  note: Nehemiah halts sabbath treading, loading, and trade, and shuts the gates
+- ref: Jub 50:6-13
+  rel: practice
+  note: Expanded list of prohibited sabbath activities
+related: [seven-day-patterns, hemerologies, new-moon, sabbatical-year, divine-rest, mesad-hashavyahu-ostracon,
+  elephantine-papyri, al-yahudu-tablets]
+media:
+- id: corvee-labor
+  role: primary
+external:
+  wikipedia: Biblical Sabbath
+  wikidata: Q16205615
+editorial:
+  author_notes:
+  - >-
+    Distinguish the verb šābat ("cease, stop") from the noun šabbāt. Gen 2:2-3, Exod 23:12,
+    and Exod 34:21 use only the verb. The noun first appears in Exod 16:23. Exod 20:11 uses
+    nwḥ, Exod 31:17 adds npš ("be refreshed"), and šabbātôn is a related intensive noun. Keep
+    the vocabulary of cessation, rest, and refreshment distinct.
+  - >-
+    Akkadian šapattu (šabattu) is the 15th day of the month, the full moon, glossed lexically
+    as ūm nūḫ libbi ("day of the heart's rest", i.e. the god's appeasement). It is not a human
+    rest day and not part of a seven-day cycle. An etymological link to šabbāt is possible
+    but unproven. The hypothesis that pre-exilic šabbāt was the full-moon day, paired with
+    the new moon (2 Kgs 4:23; Amos 8:5; Hos 2:11; Isa 1:13), and was later fused with the
+    seventh-day cessation of Exod 23:12 and 34:21 (Meinhold; more recently Grund, Die Entstehung
+    des Sabbats, 2011) is a serious but minority position. Present it neutrally as debated.
+  - >-
+    The Mesopotamian hemerological "evil days" (7th, 14th, 19th, 21st, 28th of certain months)
+    restricted specific persons (king, diviner, physician). They reset with each lunar month
+    and are not called šapattu. No ancient Near Eastern parallel is known for a continuous
+    seven-day cycle independent of the month. Hallo's "contrastive approach" (HUCA 48, 1977)
+    is a good model.
+  - >-
+    Biblical sabbath prohibitions are few and specific. They are kindling fire (Exod 35:3),
+    gathering wood (Num 15:32), gathering and preparing manna (Exod 16:23-29), leaving one's
+    place (Exod 16:29), ploughing and harvest (Exod 34:21), carrying burdens (Jer 17:21-22),
+    trade (Amos 8:5; Neh 10:31; 13:15-20), and pursuing one's own affairs (Isa 58:13). The
+    general term is mĕlāʾkâ. Do not retroject the Mishnah's 39 main categories (m. Shabb.
+    7:2) or the expanded lists of Jubilees 50 and the Damascus Document onto earlier texts.
+  - >-
+    The earliest extrabiblical evidence is debated. The Meṣad Ḥashavyahu ostracon (late 7th
+    c.) has "before šbt", which may mean "before the sabbath" or "before stopping". The Elephantine
+    ostraca (5th c.) clearly mention the šbh. Personal names such as Shabbethai (Ezra 10:15;
+    Neh 8:7; 11:16) and Babylonian Šabbatāya also bear on the question.
+  sources_to_check:
+  - >-
+    Bezalel Porten and Ada Yardeni, Textbook of Aramaic Documents from Ancient Egypt, vol.
+    4 (1999)
+  - Alasdair Livingstone, Hemerologies of Assyrian and Babylonian Scholars (CUSAS 25, 2013)
+  - >-
+    William W. Hallo, "New Moons and Sabbaths: A Case-Study in the Contrastive Approach,"
+    HUCA 48 (1977)
+  image_query: Mesad Hashavyahu ostracon
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

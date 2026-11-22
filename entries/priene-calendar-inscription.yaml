@@ -1,0 +1,71 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: priene-calendar-inscription
+title: Priene Calendar Inscription
+type: artifact
+cultures: [greek, roman]
+date:
+  from: -9
+  to: -9
+  display: 9 BCE
+scope: >-
+  Decree of the provincial council of Asia (9 BCE), preserved at Priene and in other copies,
+  adopting a calendar in which the year began on Augustus's birthday. Its accompanying text
+  celebrates the birth of 'the god' as the beginning of 'good news' (euangelia) and of a saviour
+  who ended war.
+passages:
+- ref: Mark 1:1
+  rel: language
+  note: '''Beginning of the good news'' (euangelion), a term also used of imperial benefactions'
+- ref: Luke 2:10-11
+  rel: language
+  note: Angel announces good news and the birth of a 'Saviour'
+- ref: Luke 2:14
+  rel: concept
+  note: Peace on earth; cf. the Augustan peace
+- ref: Phil 3:20
+  rel: language
+  note: Awaiting a 'Saviour' from heaven
+- ref: Titus 2:13
+  rel: language
+  note: '''Appearing'' (epiphaneia) of ''our great God and Saviour'''
+- ref: Isa 52:7
+  rel: language
+  note: Messenger announcing good news (mĕbaśśēr), the Jewish background of euangelion
+related: [imperial-cult, res-gestae, census-of-quirinius, pergamon]
+location:
+  institution: Antikensammlung, Staatliche Museen zu Berlin (Priene copy)
+  accession: null
+media:
+- id: priene-calendar-inscription
+  role: primary
+external:
+  wikipedia: Priene calendar inscription
+  wikidata: Q40887809
+editorial:
+  author_notes:
+  - >-
+    The decree was proposed by the proconsul Paullus Fabius Maximus. Note the plural euangelia.
+  - >-
+    Present the debate over the extent of counter-imperial meaning in NT 'gospel' language.
+    Isaianic usage (Isa 40:9; 52:7; 61:1) is the other key background.
+  - >-
+    Verify the current locations of the Priene fragments and of the other copies (Apameia,
+    Eumeneia, Dorylaion, Maionia).
+  sources_to_check:
+  - OGIS 458
+  - R. K. Sherk, Roman Documents from the Greek East (1969)
+  image_query: Priene calendar inscription Augustus
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

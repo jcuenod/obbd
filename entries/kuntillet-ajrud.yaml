@@ -1,0 +1,84 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: kuntillet-ajrud
+title: Kuntillet ʿAjrud
+aliases: [Horvat Teman]
+type: site
+cultures: [israelite, judahite]
+date:
+  from: -800
+  to: -800
+  circa: true
+  display: c. 800 BCE
+scope: >-
+  The isolated Iron Age site in northeastern Sinai on a desert route, known for its plastered
+  and pithos inscriptions and drawings. Covers the buildings, the site's function and date,
+  and its Israelite connections; the inscriptions themselves have their own entry.
+passages:
+- ref: Deut 33:2
+  rel: concept
+  note: YHWH comes from Sinai, Seir and Paran; cf. 'YHWH of Teman'
+- ref: Hab 3:3
+  rel: language
+  note: '''God came from Teman''; cf. ''YHWH of Teman'' at the site'
+- ref: Judg 5:4
+  rel: concept
+  note: YHWH marching from Seir and Edom
+- ref: Deut 16:21
+  rel: practice
+  disputed: true
+  note: Ban on an asherah beside YHWH's altar; cf. 'YHWH ... and his asherah'
+- ref: Amos 8:14
+  rel: concept
+  note: Local manifestations of a god; cf. 'YHWH of Samaria'
+related: [kuntillet-ajrud-inscriptions, asherah, yhwh-origins, khirbet-el-qom-inscription,
+  shasu, roads-and-highways]
+media:
+- id: kuntillet-ajrud-inscriptions
+  role: gallery
+external:
+  wikipedia: Kuntillet Ajrud
+  wikidata: Q1399030
+  pleiades: '686550284'
+editorial:
+  author_notes:
+  - >-
+    Meshel excavated the site in 1975-76, and the final report appeared in 2012. It is essentially
+    a single-phase site dated by radiocarbon to c. 800 BCE, with strong links to the northern
+    kingdom (the Joash and Jeroboam II era).
+  - >-
+    Its function is debated. Most see a way station or caravanserai with a religious dimension
+    rather than a temple proper. The 'bench room' held the inscribed pithoi.
+  - >-
+    The drawings (Bes-like figures, a seated lyre player, a cow suckling a calf) need not
+    illustrate the inscriptions. Avoid identifying the lyre player as Asherah.
+  sources_to_check:
+  - >-
+    Meshel, Kuntillet ʿAjrud (Ḥorvat Teman) - An Iron Age II Religious Site on the Judah-Sinai
+    Border (2012)
+  image_query: Kuntillet Ajrud pithos drawing
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: 'Passage tags checked against WEB text: Deut 33:2 rel language -> concept'
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q1399030 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-1-sol
+coordinates:
+  lat: 30.1864
+  lon: 34.42814
+  source: wikidata:Q1399030

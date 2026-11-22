@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: gezer-2
+file: gezer-2.jpg
+title: Gateway surrounded by two towers.jpg
+caption: Remains of a city gate flanked by two towers at Tel Gezer.
+description: What remains of two towers at the entrance of one gate at Tel Gezer
+creator: Davidbena
+credit_line: Own work
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Davidbena. CC0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Gateway_surrounded_by_two_towers.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/6/67/Gateway_surrounded_by_two_towers.jpg
+  sha1: aecd1c919d27d6f56fae54f8431e874621f55492
+  original_size: [2432, 3648]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1067×1600 px
+size: [1067, 1600]
+depicts: [gezer]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

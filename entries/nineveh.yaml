@@ -1,0 +1,93 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: nineveh
+title: Nineveh
+aliases: [Ninua, Kuyunjik, Nebi Yunus]
+type: site
+cultures: [assyrian]
+scope: >-
+  The great Assyrian city on the Tigris opposite modern Mosul, capital under Sennacherib and
+  his successors until its fall in 612 BCE. Covers the mounds of Kuyunjik and Nebi Yunus,
+  the palaces and their reliefs, the library, and Nineveh in biblical prophecy and narrative.
+passages:
+- ref: Gen 10:11-12
+  rel: setting
+  note: Nineveh among the Assyrian cities founded by Nimrod (or Asshur)
+- ref: 2Kgs 18:14
+  rel: attests
+  note: Sennacherib at Lachish; the Lachish reliefs from his Nineveh palace
+- ref: 2Kgs 19:36-37
+  rel: setting
+  note: Sennacherib returns to Nineveh and is murdered
+- ref: Jonah 1:2
+  rel: setting
+  note: '''Nineveh, that great city'''
+- ref: Jonah 3:3
+  rel: setting
+  note: '''Three days'' walk across'', a hyperbolic size'
+- ref: Nah 2:1-3:19
+  rel: setting
+  note: Poetic depiction of Nineveh's fall in 612 (MT 2:2-3:19)
+- ref: Zeph 2:13-15
+  rel: setting
+  note: Nineveh to become a desolation
+- ref: Tob 1:3, 10
+  rel: setting
+  note: Tobit among the exiles in Nineveh
+- ref: Matt 12:41
+  rel: setting
+  note: The people of Nineveh repented at Jonah's preaching
+related: [sennacherib, ashurbanipal, library-of-ashurbanipal, lachish-reliefs, fall-of-nineveh-chronicle,
+  assyria, gilgamesh-flood-tablet]
+media:
+- id: nineveh
+  role: primary
+external:
+  wikipedia: Nineveh
+  wikidata: Q5680
+  pleiades: '874621'
+editorial:
+  author_notes:
+  - >-
+    Excavations at Kuyunjik by Layard, Rassam, George Smith and others recovered Sennacherib's
+    Southwest Palace ('Palace without Rival') and Ashurbanipal's North Palace with their reliefs
+    and the library tablets.
+  - >-
+    Sennacherib made Nineveh the capital c. 700 and enclosed it with a wall about 12 km long.
+    Jonah's 'three days' walk' is hyperbole or includes the hinterland. Jonah's portrait of
+    Nineveh is literary, not a source for eighth-century history.
+  - >-
+    The Fall of Nineveh Chronicle records the city's capture by Medes and Babylonians in 612.
+  - >-
+    ISIS destroyed parts of the site, including the Nebi Yunus shrine and gates, in 2014-16.
+    Tunnels dug under Nebi Yunus exposed remains of a palace associated with Esarhaddon.
+  sources_to_check:
+  - Russell, Sennacherib's Palace without Rival at Nineveh (1991)
+  image_query: Nineveh Kuyunjik mound
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Gen 10:11-12 note: 'great city' (Calah) no longer
+    applied to Nineveh
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q5680 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 36.36667
+  lon: 43.15
+  source: wikidata:Q5680

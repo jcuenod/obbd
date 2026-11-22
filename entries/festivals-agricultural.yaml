@@ -1,0 +1,81 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: festivals-agricultural
+title: Agricultural Festivals
+aliases: [pilgrimage festivals]
+type: practice
+cultures: [hebrew, canaanite, ugaritic]
+scope: >-
+  Israel's annual festivals tied to the agricultural year (Unleavened Bread, Weeks/Harvest,
+  Booths/Ingathering), their calendars in the biblical law codes, and comparative evidence
+  from Levantine and Syrian ritual calendars and the Gezer calendar.
+passages:
+- ref: Exod 23:14-17
+  rel: practice
+  note: 'Three annual feasts: Unleavened Bread, Harvest, Ingathering; males appear before
+    YHWH'
+- ref: Exod 34:18-26
+  rel: practice
+  note: Parallel festival calendar with Weeks and firstfruits of wheat
+- ref: Lev 23:4-44
+  rel: practice
+  note: Priestly festival calendar with dates, offerings, and booths
+- ref: Deut 16:1-17
+  rel: practice
+  note: Festivals centralized at the chosen place
+- ref: Num 28:16-29:39
+  rel: practice
+  note: Festival offerings by date
+- ref: Judg 9:27
+  rel: practice
+  note: Shechemites' vintage festival (hillûlîm) in their god's temple
+- ref: Judg 21:19-21
+  rel: practice
+  note: Yearly feast of YHWH at Shiloh with dancing in the vineyards
+- ref: 1Kgs 12:32-33
+  rel: practice
+  note: Jeroboam's festival in the eighth month
+- ref: Deut 26:1-11
+  rel: practice
+  note: Presentation of firstfruits with a historical credo
+- ref: Isa 9:3
+  rel: imagery
+  note: Joy 'as at the harvest'; MT 9:2
+related: [gezer-calendar, passover-origins, firstfruits-and-firstborn, emar-texts, calendars-and-month-names,
+  agriculture-and-farming, new-moon, threshing-floors]
+media:
+- id: agriculture-and-farming
+  role: primary
+external:
+  wikipedia: Three Pilgrimage Festivals
+  wikidata: Q1517900
+editorial:
+  author_notes:
+  - >-
+    Present the comparison of the calendars (Exod 23; 34; Deut 16; Lev 23; Num 28-29) as the
+    core evidence for the festivals' development. Covenant Code, Deuteronomic, and Priestly
+    stages are the standard critical framework, though details are debated.
+  - >-
+    Wellhausen's thesis that agricultural festivals were progressively "historicized" (linked
+    to exodus and wilderness) remains influential. Present it as a model, not a fact.
+  - >-
+    Ugaritic ritual texts (e.g. the month calendar in KTU 1.41/1.87) and the Emar zukru festival
+    (Fleming, Time at Emar, 2000) give the best Syro-Levantine comparisons. The Gezer calendar
+    shows the agricultural year in Hebrew.
+  - >-
+    Booths (Sukkot) has the clearest harvest origins. Weeks lacks a historical rationale in
+    the Hebrew Bible.
+  image_query: Gezer calendar
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

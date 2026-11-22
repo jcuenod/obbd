@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: pergamon
+file: pergamon.jpg
+title: Acropolis - Bergama (Pergamon) - Turkey - 10 (5747249729).jpg
+caption: Ruins on the acropolis of Pergamon, with the Trajaneum in the background.
+description: Acropolis - Bergama (Pergamon) - Turkey - 10
+creator: Adam Jones from Kelowna, BC, Canada
+credit_line: Acropolis - Bergama (Pergamon) - Turkey - 10
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: Adam Jones from Kelowna, BC, Canada, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Acropolis_-_Bergama_(Pergamon)_-_Turkey_-_10_(5747249729).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/41/Acropolis_-_Bergama_%28Pergamon%29_-_Turkey_-_10_%285747249729%29.jpg
+  sha1: 61ecce3a04f51a80cebd7e29a42267f57c6d0e1b
+  original_size: [3456, 2304]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [pergamon]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

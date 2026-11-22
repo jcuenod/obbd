@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: oil-lamps-2
+file: oil-lamps-2.jpg
+title: Group of ancient hellenistic an roan oil lamps.jpg
+caption: A group of Hellenistic and Roman clay oil lamps.
+description: Group of ancient Hellenistic and Roman lamps.
+creator: Combirom2
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Combirom2, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Group_of_ancient_hellenistic_an_roan_oil_lamps.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/44/Group_of_ancient_hellenistic_an_roan_oil_lamps.jpg
+  sha1: 4a62c3134c75f612fd2c6f07875796dec1b13dfb
+  original_size: [1400, 976]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1400, 976]
+depicts: [oil-lamps]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

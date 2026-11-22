@@ -1,0 +1,76 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: hemerologies
+title: Hemerologies (Favorable and Unfavorable Days)
+aliases: [menologies, lucky and unlucky days, calendars of lucky and unlucky days]
+type: text
+cultures: [babylonian, assyrian, egyptian]
+scope: >-
+  Mesopotamian hemerologies and menologies, scholarly texts listing favourable and unfavourable
+  days and months for particular actions, and Egyptian calendars of lucky and unlucky days.
+  They are significant for biblical studies as background to the selection of propitious days
+  and in debates over the origins of the Sabbath.
+passages:
+- ref: Esth 3:7
+  rel: practice
+  note: Pur cast before Haman to fix a propitious day and month
+- ref: Exod 20:8-11
+  rel: concept
+  disputed: true
+  note: >-
+    Seventh-day cessation compared and contrasted with restrictions on 'evil days' 7, 14,
+    19, 21, 28
+- ref: Lev 19:26
+  rel: language
+  disputed: true
+  note: ʿônēn, sometimes understood as 'observing times'
+- ref: Deut 18:10, 14
+  rel: language
+  disputed: true
+  note: mĕʿônēn among forbidden diviners; 'observer of times' interpretation
+- ref: Job 3:1-10
+  rel: concept
+  disputed: true
+  note: Job curses the day of his birth as if to strike it from the calendar
+related: [sabbath, seven-day-patterns, calendars-and-month-names, lots-and-cleromancy, divination,
+  astrology, library-of-ashurbanipal]
+media: []
+external:
+  wikipedia: Almanac
+  wikidata: Q171341
+editorial:
+  author_notes:
+  - >-
+    The ritual hemerology for certain months (including an intercalary Elul and Marchesvan)
+    labels days 7, 14, 19, 21, and 28 as ūmu lemnu ("evil day"). On these days the king must
+    avoid cooked meat and changing his garment, the diviner may not give a decision, and the
+    physician may not touch the sick. Day 19 is the 49th day counted from the previous month's
+    start. These are restrictions on office-holders, not a general rest day.
+  - >-
+    Copies range from the Middle Babylonian period to Late Babylonian times. The major Neo-Assyrian
+    collections come from Nineveh. No single date can be given, so the date field is left
+    blank.
+  - >-
+    The Egyptian Calendar of Lucky and Unlucky Days (the Cairo Calendar, New Kingdom) is a
+    separate tradition based on mythological events. Present it alongside, not merged with,
+    the Mesopotamian texts.
+  - >-
+    The KJV-style rendering of ʿônēn as "observer of times" reflects early Jewish interpretation
+    and is not secure. Mark it as such.
+  sources_to_check:
+  - Alasdair Livingstone, Hemerologies of Assyrian and Babylonian Scholars (CUSAS 25, 2013)
+  - René Labat, Hémérologies et ménologies d'Assur (1939)
+  image_query: Cairo Calendar papyrus lucky unlucky days
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

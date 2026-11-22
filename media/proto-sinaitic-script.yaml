@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: proto-sinaitic-script
+file: proto-sinaitic-script.png
+title: Serabit sphinx (EA41748).png
+caption: >-
+  Sandstone sphinx from Serabit el-Khadim bearing Egyptian hieroglyphs and a Proto-Sinaitic
+  inscription (British Museum, EA 41748).
+description: 'Feb 2023 British Museum exhibition, Hieroglyphs: unlocking ancient Egypt EA41748'
+creator: Onceinawhile
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Onceinawhile, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Serabit_sphinx_(EA41748).png
+  original_url: https://upload.wikimedia.org/wikipedia/commons/0/04/Serabit_sphinx_%28EA41748%29.png
+  sha1: 2416cb347452a37bf14733d98e6b824dd87e5054
+  original_size: [1876, 1422]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1213 px
+size: [1600, 1213]
+depicts: [proto-sinaitic-script]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

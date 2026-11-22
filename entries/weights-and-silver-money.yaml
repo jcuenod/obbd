@@ -1,0 +1,84 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: weights-and-silver-money
+title: Weighed Silver and Pre-Coinage Exchange
+aliases: [Shekel, Hacksilber, Weighed silver, Just weights]
+type: practice
+cultures: [judahite, hebrew, ane]
+scope: >-
+  Exchange by weighed silver before coinage: weight systems (shekel, mina, talent; Judahite
+  inscribed weights), Hacksilber hoards, scales, and the biblical concern with just weights
+  and measures.
+passages:
+- ref: Gen 23:16
+  rel: practice
+  note: Abraham weighs out 400 shekels 'at the merchants' current rate'
+- ref: Exod 30:13
+  rel: practice
+  note: Half shekel 'by the sanctuary shekel' of twenty gerahs
+- ref: Jer 32:9-10
+  rel: practice
+  note: Jeremiah weighs seventeen shekels on scales; deed and witnesses
+- ref: 1Sam 13:21
+  rel: language
+  note: pim payment, matching inscribed pim weights
+- ref: 2Sam 14:26
+  rel: practice
+  note: Absalom's hair weighed 'by the king's weight'
+- ref: Lev 19:35-36
+  rel: practice
+  note: Just balances, weights, ephah, and hin
+- ref: Deut 25:13-16
+  rel: practice
+  note: No two kinds of weights, large and small
+- ref: Amos 8:5
+  rel: practice
+  note: Making the ephah small and the shekel heavy
+- ref: Hos 12:7
+  rel: practice
+  note: Trader with false balances (MT 12:8)
+- ref: Mic 6:10-11
+  rel: practice
+  note: Wicked scales and a bag of deceitful weights
+- ref: Prov 11:1
+  rel: practice
+  note: A false balance an abomination to YHWH
+related: [pim-weights, coinage, sealed-deeds, land-redemption, ostraca]
+media:
+- id: weights-and-silver-money
+  role: primary
+- id: weights-and-silver-money-2
+  role: gallery
+external:
+  wikipedia: Shekel
+  wikidata: Q1404428
+editorial:
+  author_notes:
+  - >-
+    Hacksilber (cut silver, often bagged and sealed) hoards are known from Bronze and Iron
+    Age sites (e.g., Eshtemoa, Dor, ʿEin Ḥofez). Lead-isotope studies trace silver sources
+    to the Aegean, Anatolia, Sardinia, and Iberia.
+  - >-
+    Judahite inscribed weights (late 8th-7th centuries) use a shekel of about 11.3-11.4 g,
+    with hieratic numerals and the signs nṣp, pym, and bqʿ (Kletter). Biblical 'sanctuary'
+    and 'king's' weights suggest more than one standard.
+  - >-
+    Translations that render kesep as 'money' or 'coins' in pre-Persian contexts are anachronistic.
+    Address this explicitly.
+  sources_to_check:
+  - >-
+    Kletter, Economic Keystones: The Weight System of the Kingdom of Judah (JSOTSup 276, 1998)
+  image_query: Hacksilber hoard
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

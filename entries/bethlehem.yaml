@@ -1,0 +1,89 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: bethlehem
+title: Bethlehem
+aliases: [Ephrathah, Beit Lahm]
+type: site
+cultures: [judahite, jewish]
+scope: >-
+  The Judahite town south of Jerusalem associated with Rachel, Ruth, David and the birth of
+  Jesus. Covers its slight Iron Age and later evidence, the Church of the Nativity, and the
+  traditions that shaped its biblical role.
+passages:
+- ref: Gen 35:19
+  rel: setting
+  disputed: true
+  note: >-
+    Rachel buried on the way to Ephrath; 'that is, Bethlehem' may be a gloss (cf. 1 Sam 10:2)
+- ref: Ruth 1:1-2, 19-22
+  rel: setting
+  note: Naomi's family from Bethlehem in Judah
+- ref: 1Sam 16:1-13
+  rel: setting
+  note: Samuel anoints David in Bethlehem
+- ref: 1Sam 17:12
+  rel: setting
+  note: Jesse the Ephrathite of Bethlehem
+- ref: 2Sam 23:14-17
+  rel: setting
+  note: Philistine garrison; water from the well of Bethlehem
+- ref: Mic 5:2
+  rel: concept
+  note: A ruler from Bethlehem Ephrathah (MT 5:1)
+- ref: Matt 2:1-16
+  rel: setting
+  note: Jesus' birth, the magi and the slaughter of infants
+- ref: Luke 2:4-15
+  rel: setting
+  note: Joseph goes to Bethlehem, the city of David
+- ref: John 7:42
+  rel: concept
+  note: Expectation that the Messiah comes from Bethlehem
+related: [david, messianic-expectations, census-of-quirinius, herod-the-great, seals-and-bullae,
+  amarna-letters]
+media:
+- id: bethlehem
+  role: primary
+external:
+  wikipedia: Bethlehem
+  wikidata: Q5776
+  pleiades: '687856'
+editorial:
+  author_notes:
+  - >-
+    A fiscal bulla reading 'Bethlehem' (bt lḥm), found in 2012 in the City of David, is the
+    first extrabiblical Iron Age attestation. A reading of Bethlehem in Amarna letter EA 290
+    has been proposed but is disputed.
+  - >-
+    Iron Age remains at Bethlehem itself are limited. The Church of the Nativity (Constantinian,
+    rebuilt under Justinian) stands over a cave tradition attested by Justin Martyr.
+  - >-
+    The historicity of Jesus' birth at Bethlehem is debated among New Testament scholars,
+    given the theological use of Mic 5:2 and the differences between Matthew and Luke. Present
+    the views evenly.
+  - >-
+    Bethlehem of Zebulun (Josh 19:15) has been proposed as an alternative birthplace, but
+    this is a minority view.
+  sources_to_check: [NEAEHL]
+  image_query: Church of the Nativity Bethlehem
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q5776 (verify).
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 31.70444
+  lon: 35.20611
+  source: wikidata:Q5776

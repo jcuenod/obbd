@@ -1,0 +1,89 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: atrahasis
+title: Atrahasis Epic
+aliases: [Atra-ḫasīs, Atram-ḫasīs, Babylonian Flood Story]
+type: text
+cultures: [akkadian, babylonian, assyrian]
+date:
+  from: -1700
+  to: -1600
+  circa: true
+  display: c. 1700–1600 BCE
+scope: >-
+  The Old Babylonian epic of human origins and the flood, named after its hero ("exceedingly
+  wise"). It narrates the creation of humans to relieve the gods' labour, the gods' repeated
+  attempts to curb humanity, and the flood survived by Atrahasis; it is the closest Mesopotamian
+  analogue to the sequence of Gen 1-9 as a whole.
+passages:
+- ref: Gen 6:5-9:17
+  rel: parallel
+  note: >-
+    Gods resolve to destroy humanity by flood; hero warned, builds boat, saves family and
+    animals
+- ref: Gen 2:7
+  rel: parallel
+  note: Humans formed from clay, mixed in Atrahasis with a slain god's flesh and blood
+- ref: Gen 2:5, 15
+  rel: concept
+  note: Humans created to work the ground; in Atrahasis to take over the gods' toil
+- ref: Gen 8:20-21
+  rel: parallel
+  note: Post-flood sacrifice; the hungry gods gather like flies at the offering
+- ref: Gen 1:28
+  rel: concept
+  disputed: true
+  note: Blessing to multiply set against the gods' annoyance at human 'noise' (overpopulation?)
+- ref: Gen 9:1, 7
+  rel: concept
+  disputed: true
+  note: Renewed fertility mandate contrasts with post-flood limits on births in Atrahasis
+- ref: Gen 1:1-9:17
+  rel: parallel
+  note: 'Shared macro-sequence: creation, human multiplication, crisis, flood, new order'
+related: [gilgamesh-epic, eridu-genesis, flood-traditions, creation-of-humanity, gilgamesh-flood-tablet,
+  care-and-feeding-of-the-gods, enuma-elish]
+media:
+- id: atrahasis
+  role: primary
+external:
+  wikipedia: Atra-Hasis
+  wikidata: Q757719
+editorial:
+  author_notes:
+  - >-
+    Main witness: a three-tablet Old Babylonian copy by the scribe Ipiq-Aya dated to the reign
+    of Ammi-ṣaduqa (17th c. BCE); later fragments from Ugarit and Neo-Assyrian Nineveh show
+    a long transmission. Gilgamesh XI's flood account draws on this tradition.
+  - >-
+    The cause of the flood (the gods' disturbance by human rigmu/ḫubūru, 'noise') is read
+    as overpopulation (Kilmer, Moran, Frymer-Kensky) or as rebellion/unrest (e.g. Oden); present
+    both and link to the post-flood measures (barren women, a demon who snatches infants,
+    cultic celibates).
+  - >-
+    Genesis moralises the cause (violence and corruption, Gen 6:11-13) and has one God who
+    both judges and saves; most scholars posit shared Mesopotamian tradition rather than copying
+    of this text, with debate over the date and channel of transmission and over Priestly
+    vs. non-Priestly strands.
+  - >-
+    Tablet I: Enki and the mother goddess (Nintu/Mami) mix clay with the flesh and blood of
+    the slain god We-ila, whose 'ghost' (eṭemmu) remains in humans; useful for Gen 2:7 but
+    distinct from the 'image of God' idea of Gen 1:26-27.
+  sources_to_check:
+  - 'W. G. Lambert and A. R. Millard, Atra-ḫasīs: The Babylonian Story of the Flood (1969)'
+  - COS 1.130
+  - ANET 104-106
+  image_query: Atrahasis tablet British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

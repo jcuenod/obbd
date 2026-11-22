@@ -1,0 +1,86 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: hezekiah
+title: Hezekiah
+type: person
+cultures: [judahite]
+date:
+  from: -727
+  to: -698
+  circa: true
+  display: c. 727–698 BCE
+scope: >-
+  Hezekiah son of Ahaz, king of Judah, considered in the light of extrabiblical evidence.
+  This includes Sennacherib's account of the 701 campaign and Lachish reliefs, the Siloam
+  tunnel and inscription, lmlk jars, the Ophel royal bulla, and the archaeology of his fortifications
+  and reforms.
+passages:
+- ref: 2Kgs 18:13-16
+  rel: event
+  note: Sennacherib takes Judah's fortified cities; Hezekiah pays tribute
+- ref: 2Kgs 18:17-19:37
+  rel: event
+  note: Rabshakeh's speech and Jerusalem's deliverance
+- ref: Isa 36-37
+  rel: event
+  note: Parallel account of the 701 crisis
+- ref: 2Kgs 20:20
+  rel: realia
+  note: The pool and conduit bringing water into the city
+- ref: 2Chr 32:2-5, 30
+  rel: realia
+  note: Water works and repaired and extended walls
+- ref: Isa 22:9-11
+  rel: realia
+  note: Houses torn down to fortify the wall; a reservoir between the walls
+- ref: 2Kgs 18:4
+  rel: practice
+  disputed: true
+  note: Removal of high places and Nehushtan; archaeological correlates debated
+- ref: 2Kgs 20:12-19
+  rel: event
+  disputed: true
+  note: Envoys of Merodach-baladan
+- ref: Prov 25:1
+  rel: setting
+  note: Proverbs copied by 'the men of Hezekiah'
+related: [sennacherib-campaign-701, sennacherib-annals, hezekiah-bulla, siloam-inscription,
+  lmlk-seal-impressions, cult-reforms-archaeology, lachish-reliefs, merodach-baladan]
+media:
+- id: hezekiah
+  role: primary
+- id: hezekiah-2
+  role: gallery
+external:
+  wikipedia: Hezekiah
+  wikidata: Q244912
+editorial:
+  author_notes:
+  - >-
+    Chronology: 2 Kgs 18:13 puts 701 in Hezekiah's 14th year (accession c. 715). The synchronism
+    with Hoshea (2 Kgs 18:1, 9-10) implies c. 727. State the chronology adopted and the alternatives.
+  - >-
+    Sennacherib claims 46 cities taken, 200,150 people deported, and Hezekiah shut up 'like
+    a bird in a cage'. He reports 30 talents of gold and 800 of silver, against 300 silver
+    in Kings. Compare without harmonising.
+  - >-
+    The Broad Wall in the Jewish Quarter is often linked to Isa 22:10, and Jerusalem expanded
+    westward in the late 8th century.
+  - >-
+    Evidence for a cult reform (Arad sanctuary, Beersheba altar, Lachish gate shrine) is debated.
+    See cult-reforms-archaeology.
+  sources_to_check: ['Grayson and Novotny, RINAP 3/1 (2012)', ANET 287-288]
+  image_query: King Hezekiah bulla Ophel
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

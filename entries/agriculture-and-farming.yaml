@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: agriculture-and-farming
+title: Agriculture and the Farming Year
+aliases: [Farming year, Dry farming]
+type: practice
+cultures: [hebrew]
+scope: >-
+  The agricultural basis of ancient Israelite society: rain-fed farming, the annual cycle
+  of ploughing, sowing, and harvest, the Mediterranean triad of grain, wine, and oil, tools,
+  terracing, and the religious significance of rain and harvest.
+passages:
+- ref: Gen 8:22
+  rel: concept
+  note: Seedtime and harvest, cold and heat, summer and winter
+- ref: Deut 11:10-17
+  rel: concept
+  note: Rain-watered land contrasted with irrigated Egypt; early and late rain
+- ref: Jer 5:24
+  rel: concept
+  note: Autumn and spring rains; weeks appointed for harvest
+- ref: Isa 28:23-29
+  rel: practice
+  note: Ploughing, harrowing, sowing dill, cumin, wheat, barley, and spelt
+- ref: Ruth 1:22
+  rel: setting
+  note: Arrival at the beginning of the barley harvest
+- ref: Ruth 2:23
+  rel: setting
+  note: Gleaning through the barley and wheat harvests
+- ref: Lev 19:9-10
+  rel: practice
+  note: Field edges and gleanings left for the poor and alien
+- ref: Deut 22:9-10
+  rel: practice
+  note: No mixed seed in a vineyard; ox and donkey not yoked together
+- ref: 1Sam 13:20-21
+  rel: realia
+  note: Ploughshares, mattocks, axes, and sickles
+- ref: 1Kgs 19:19
+  rel: practice
+  note: Elisha ploughing with twelve yoke of oxen
+- ref: Hos 2:8-9
+  rel: concept
+  note: YHWH, not Baal, gives grain, wine, and oil (MT 2:10-11)
+related: [gezer-calendar, festivals-agricultural, threshing-floors, olive-oil-production,
+  winepresses, sabbatical-year, baal]
+media:
+- id: agriculture-and-farming
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The Gezer Calendar (10th century) lists the agricultural months (ingathering, sowing,
+    late sowing, flax, barley harvest, harvest and measuring, pruning, summer fruit). Its
+    genre (school exercise, song, administrative aid) and some readings are debated.
+  - >-
+    Highland dry farming depended on the timing of autumn and spring rains. This underlies
+    the rain theology and anti-Baal polemic of Deut 11 and Hos 2. Terracing and risk-spreading
+    strategies (Hopkins) are key.
+  - Link the agricultural calendar to the pilgrimage festivals and the sabbatical fallow.
+  sources_to_check:
+  - Borowski, Agriculture in Iron Age Israel (1987)
+  - Hopkins, The Highlands of Canaan (1985)
+  image_query: Gezer calendar
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: hamath-2
+file: hamath-2.jpg
+title: Hama Museum 4409.jpg
+caption: >-
+  Basalt lion from the Iron Age palace on the citadel of Hama, 9th century BCE (Hama Museum).
+description: >-
+  An Aramean basalt lion from the Aramean palace (9th century BC). The palace was sacked in
+  720 BC and the lion was in pieces.
+creator: Dosseman
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Dosseman, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Hama_Museum_4409.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/2/2d/Hama_Museum_4409.jpg
+  sha1: 8dbd817696e48bbb83007aeb011ea31067839904
+  original_size: [2832, 4256]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1065×1600 px
+size: [1065, 1600]
+depicts: [hamath]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

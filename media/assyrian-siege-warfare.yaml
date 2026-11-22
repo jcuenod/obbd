@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: assyrian-siege-warfare
+file: assyrian-siege-warfare.jpg
+title: Assyrian siege.jpg
+caption: >-
+  Assyrian relief of troops attacking a besieged city with a battering ram on a siege ramp
+  while archers exchange fire.
+description: >-
+  Assyrian troops attacking a besieged city, most likely in Mesopotamia, using a battering
+  ram on a siege ramp. Enemy archers are returning fire. Headless corpses lie at the foot
+  of the city walls. From the Central Palace in Nimrud and now in the British Museum, London.
+  Circa 728 BC.
+creator: null
+credit_line: ChrisO (Own work)
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Unknown author. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Assyrian_siege.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/c/c0/Assyrian_siege.jpg
+  sha1: 70bc76cd7cfbbaa3d7a15e72eaf58db449676e13
+  original_size: [1500, 1344]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1500, 1344]
+depicts: [assyrian-siege-warfare]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

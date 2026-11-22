@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: harpers-songs-2
+file: harpers-songs-2.jpg
+title: Maler der Grabkammer des Nacht 001.jpg
+caption: Blind harper, wall painting in the tomb of Nakht at Thebes, 18th Dynasty.
+description: null
+creator: Maler der Grabkammer des Nacht
+credit_line: >-
+  The Yorck Project (2002) 10.000 Meisterwerke der Malerei (DVD-ROM), distributed by DIRECTMEDIA
+  Publishing GmbH. ISBN: 3936122202.
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Maler der Grabkammer des Nacht. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Maler_der_Grabkammer_des_Nacht_001.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/1e/Maler_der_Grabkammer_des_Nacht_001.jpg
+  sha1: eb166d2e728b2c695cc824439aa5345aa99222ab
+  original_size: [2024, 2321]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1395×1600 px
+size: [1395, 1600]
+depicts: [harpers-songs]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

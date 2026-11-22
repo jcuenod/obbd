@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: conquest-accounts-and-war-rhetoric
+file: conquest-accounts-and-war-rhetoric.jpg
+title: Merneptah Steli (cropped).jpg
+caption: >-
+  The Merneptah Stele, whose victory hymn claims that 'Israel is laid waste, his seed is not',
+  c. 1208 BCE (Egyptian Museum, Cairo).
+description: Merneptah Victory Stele exhibited in the Egyptian Museum.
+creator: 𐰇𐱅𐰚𐰤
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: 𐰇𐱅𐰚𐰤, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Merneptah_Steli_(cropped).jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/0/09/Merneptah_Steli_%28cropped%29.jpg
+  sha1: 61b1fbdec164f7ebf90490f1c74c0c3505b2f98b
+  original_size: [1770, 3473]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 815×1600 px
+size: [815, 1600]
+depicts: [conquest-accounts-and-war-rhetoric, merneptah-stele]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

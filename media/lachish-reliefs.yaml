@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: lachish-reliefs
+file: lachish-reliefs.jpg
+title: Lachish inscription.jpeg
+caption: >-
+  Sennacherib enthroned receiving the spoil of Lachish, with the cuneiform epigraph naming
+  him and the city; gypsum relief from the South-West Palace, Nineveh (British Museum).
+description: >-
+  Inscription on the Lachish Reliefs. Left hand side inscription states: ""Sennacherib, the
+  mighty king, king of the country of Assyria, sitting on the throne of judgment, before (or
+  at the entrance of) the city of Lachish (Lakhisha). I give permission for its slaughter,"
+  per "Discoveries Among the Ruins of Nineveh and Babylon", p128 At the British Museum. (Last
+  4-cuneiform signs of line 3-(at left):URU-La-Ki-iŠ. (High resolution expandible photo.)
+creator: User:oncenawhile
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: User:oncenawhile, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Lachish_inscription.jpeg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/1/16/Lachish_inscription.jpeg
+  sha1: 8f1d5a44ddf7cd93058604213fec733886ff4ff5
+  original_size: [3264, 1693]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×830 px
+size: [1600, 830]
+depicts: [lachish-reliefs, sennacherib-campaign-701]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

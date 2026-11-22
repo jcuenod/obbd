@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: hittites-and-hethites-2
+file: hittites-and-hethites-2.jpg
+title: Hattusa, capital of the Hittite Empire 38.jpg
+caption: Relief of the god Sharruma embracing King Tudhaliya IV, Yazılıkaya, near Hattusa.
+description: >-
+  East wall of Chamber B depicting in a niche the God Sharruma (son of the Thunder God Teshub)
+  embracing King Tudhaliya IV, Yazılıkaya, the Hittite sanctuary of Hattusa, Turkey
+creator: Carole Raddato from FRANKFURT, Germany
+credit_line: >-
+  East wall of Chamber B depicting in a niche the God Sharruma (son of the Thunder God Teshub)
+  embracing King Tudhaliya IV, Yazılıkaya, the Hittite sanctuary of Hattusa, Turkey
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: Carole Raddato from FRANKFURT, Germany, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Hattusa,_capital_of_the_Hittite_Empire_38.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/46/Hattusa%2C_capital_of_the_Hittite_Empire_38.jpg
+  sha1: 35a975d5a556f54c0295385503ca7d3a516d3cf4
+  original_size: [3967, 3264]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1317 px
+size: [1600, 1317]
+depicts: [hittites-and-hethites]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

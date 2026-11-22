@@ -1,0 +1,88 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: divination
+title: Divination in the Ancient Near East
+type: practice
+cultures: [ane]
+scope: >-
+  A hub entry on the ways ancient Near Eastern people sought knowledge of divine will and
+  the future. These include deductive methods (extispicy, astrology, lots, oil and smoke omens)
+  and intuitive ones (dreams, prophecy, necromancy). The entry covers biblical prohibitions
+  and the forms of divination that biblical texts accept.
+passages:
+- ref: Deut 18:9-14
+  rel: practice
+  note: List of forbidden diviners, sorcerers, and consulters of the dead
+- ref: Lev 19:26, 31
+  rel: practice
+  note: No augury or soothsaying; no turning to mediums
+- ref: Num 22:7
+  rel: practice
+  note: Balak's elders bring 'fees for divination' (qĕsāmîm) to Balaam
+- ref: Num 23:23
+  rel: concept
+  note: '''No enchantment against Jacob, no divination against Israel'''
+- ref: Gen 44:5, 15
+  rel: practice
+  note: 'Joseph''s divining cup: lecanomancy'
+- ref: Gen 30:27
+  rel: practice
+  note: Laban 'learned by divination' that he was blessed because of Jacob
+- ref: 1Sam 6:2
+  rel: practice
+  note: Philistine priests and diviners consulted about the ark
+- ref: Ezek 21:21
+  rel: practice
+  note: King of Babylon shakes arrows, consults teraphim, inspects the liver; MT 21:26
+- ref: Hos 4:12
+  rel: practice
+  note: People consult wood and a divining rod
+- ref: Isa 44:25
+  rel: polemic
+  note: YHWH frustrates the omens of diviners
+- ref: Acts 16:16
+  rel: practice
+  note: Slave girl with a spirit of divination (pythōn)
+related: [extispicy, necromancy, astrology, dreams-and-dream-interpretation, lots-and-cleromancy,
+  urim-and-thummim, prophecy-in-the-ane, enuma-anu-enlil]
+media:
+- id: divination
+  role: primary
+external:
+  wikipedia: Divination
+  wikidata: Q1043197
+editorial:
+  author_notes:
+  - >-
+    The distinction between technical or deductive divination (reading signs) and intuitive
+    or inspired divination (dreams, prophecy) goes back to Cicero's De divinatione. It is
+    a useful organizing frame, though the categories overlap.
+  - >-
+    The Hebrew Bible condemns many techniques but sanctions others (Urim and Thummim, lots,
+    dreams, prophecy). Deut 18 presents prophecy as Israel's legitimate channel in place of
+    the nations' diviners. Explain the logic rather than framing it as "magic versus religion".
+  - >-
+    In Mesopotamia divination was a scholarly discipline with large omen compendia, closely
+    tied to royal decision-making. Note this as a key difference in scale and prestige.
+  - >-
+    Give the Hebrew terms (qesem, nāḥaš, ʿônēn, mĕkaššēp, ḥōbēr ḥeber, šōʾēl ʾôb) with cautious
+    glosses. Several identifications are uncertain.
+  sources_to_check:
+  - >-
+    Frederick H. Cryer, Divination in Ancient Israel and Its Near Eastern Environment (JSOTSup
+    142, 1994)
+  - Ulla Susanne Koch, Mesopotamian Divination Texts (GMTR 7, 2015)
+  image_query: Mari clay liver models
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

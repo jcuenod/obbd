@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: proto-aeolic-capitals-2
+file: proto-aeolic-capitals-2.jpg
+title: Holy Land 2022 (1) P483 Megiddo proto-Aeolic capitals.jpg
+caption: >-
+  Proto-Aeolic (proto-Ionic) capital from Tel Megiddo, displayed with a partial modern restoration.
+description: proto-Aeolic (proto-Ionic) capitals from Tel Megiddo
+creator: Fallaner
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Fallaner, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Holy_Land_2022_(1)_P483_Megiddo_proto-Aeolic_capitals.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/f/fa/Holy_Land_2022_%281%29_P483_Megiddo_proto-Aeolic_capitals.jpg
+  sha1: 7dac3d25ad47d71c2c9fbdf4e0a58f2f2d8c36b7
+  original_size: [5184, 3888]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [proto-aeolic-capitals]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

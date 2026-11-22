@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: stone-vessels-and-mikvaot
+file: stone-vessels-and-mikvaot.jpg
+title: Stone Vessels for Maintaining Ritual Purity, 1st Century AD (43219616251).jpg
+caption: >-
+  Stone vessels used for maintaining ritual purity, 1st century CE (Israel Museum, Jerusalem).
+description: >-
+  Israel Museum, Jerusalem, Israel. Complete indexed photo collection at WorldHistoryPics.com
+creator: Gary Todd from Xinzheng, China
+credit_line: Stone Vessels for Maintaining Ritual Purity, 1st Century AD
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Gary Todd from Xinzheng, China. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Stone_Vessels_for_Maintaining_Ritual_Purity,_1st_Century_AD_(43219616251).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/9b/Stone_Vessels_for_Maintaining_Ritual_Purity%2C_1st_Century_AD_%2843219616251%29.jpg
+  sha1: 290d68ca5003f396a87bcc965f343d96efd74793
+  original_size: [4000, 6000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1067×1600 px
+size: [1067, 1600]
+depicts: [stone-vessels-and-mikvaot]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

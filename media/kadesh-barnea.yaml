@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: kadesh-barnea
+file: kadesh-barnea.jpg
+title: Sinai. Ain Gedeirat, Kadesh Barnea. Num. 20-1 LOC matpc.23028.jpg
+caption: >-
+  The oasis of ʿAin el-Qudeirat (Ain Gedeirat), usually identified with Kadesh-barnea, in
+  a Matson Collection photograph (Library of Congress).
+description: >-
+  Title: Sinai. Ain Gedeirat, Kadesh Barnea. Num. 20:1 Abstract/medium: G. Eric and Edith
+  Matson Photograph Collection Physical description: 1 slide :
+creator: Matson Collection
+credit_line: >-
+  Library of Congress Catalog: https://www.loc.gov/pictures/collection/matpc/item/mpc2010000406/PP
+  Original url: https://hdl.loc.gov/loc.pnp/matpc.23028
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Matson Collection. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Sinai._Ain_Gedeirat,_Kadesh_Barnea._Num._20-1_LOC_matpc.23028.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/12/Sinai._Ain_Gedeirat%2C_Kadesh_Barnea._Num._20-1_LOC_matpc.23028.jpg
+  sha1: 529d6f41d69b9cc0272b847c85de41362e78e135
+  original_size: [5037, 3472]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1103 px
+size: [1600, 1103]
+depicts: [kadesh-barnea]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

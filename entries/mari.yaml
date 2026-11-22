@@ -1,0 +1,81 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: mari
+title: Mari (Tell Hariri)
+aliases: [Tell Hariri]
+type: site
+cultures: [amorite]
+scope: >-
+  The city on the middle Euphrates whose Old Babylonian palace, destroyed by Hammurabi, yielded
+  about 20,000 tablets. Covers the site, its palace and temples, and why the archives matter
+  for prophecy, tribal society and treaty-making; the archive itself is treated in mari-letters.
+passages:
+- ref: Deut 13:1-5
+  rel: practice
+  note: Prophets and dreamers whose messages must be tested (MT 13:2-6)
+- ref: Jer 28
+  rel: practice
+  note: Prophetic conflict; Mari letters report prophets and test them with omens
+- ref: 2Sam 7:1-17
+  rel: parallel
+  note: Divine promise to a king through a prophet; cf. Adad of Aleppo's message to Zimri-Lim
+- ref: Gen 15:9-10, 17
+  rel: practice
+  note: Covenant made by killing animals; cf. 'killing a donkey' (ḫayaram qaṭālum)
+- ref: Gen 35:18
+  rel: language
+  note: Benjamin; cf. the Binu-Yamina ('sons of the right/south') tribes
+- ref: Josh 11:10
+  rel: attests
+  note: Hazor as a leading city; Mari texts name Hazor and its king
+related: [mari-letters, prophecy-in-the-ane, amorites, covenant-cutting-ceremony, hazor, hammurabi,
+  dreams-and-dream-interpretation]
+media:
+- id: amorites
+  role: gallery
+- id: mari
+  role: primary
+- id: mari-2
+  role: gallery
+external:
+  wikipedia: Mari, Syria
+  wikidata: Q244762
+  pleiades: '286681704'
+editorial:
+  author_notes:
+  - >-
+    French excavations since 1933 (Parrot, then Margueron, then Butterlin) uncovered a third-millennium
+    city and the great palace of Zimri-Lim. Hammurabi destroyed the city c. 1761 BCE (middle
+    chronology).
+  - >-
+    Older uses of Mari to authenticate a 'patriarchal age' (the Albright school) are outdated.
+    Present the comparisons as typological.
+  - >-
+    The prophetic letters (āpilum, muḫḫûm and lay prophets) are among the most important comparative
+    evidence for Israelite prophecy.
+  - The site was badly damaged and looted during the Syrian civil war.
+  sources_to_check:
+  - Nissinen, Prophets and Prophecy in the Ancient Near East (2003)
+  - Fleming, Democracy's Ancient Ancestors - Mari and Early Collective Governance (2004)
+  image_query: Mari palace of Zimri-Lim
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q244762 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-1-sol
+coordinates:
+  lat: 34.54944
+  lon: 40.89
+  source: wikidata:Q244762

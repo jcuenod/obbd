@@ -1,0 +1,85 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: dan
+title: Tel Dan (Laish)
+aliases: [Tel Dan, Tell el-Qadi, Laish, Leshem]
+type: site
+cultures: [israelite, canaanite]
+scope: >-
+  The site at the main source of the Jordan, Bronze Age Laish and Iron Age Dan, the northern
+  limit of Israel. Covers the Middle Bronze rampart and arched gate, the Iron Age cult precinct,
+  the city gates, and the inscriptions found there.
+passages:
+- ref: Gen 14:14
+  rel: setting
+  note: Abram pursues the kings 'as far as Dan' (anachronistic name)
+- ref: Judg 18
+  rel: setting
+  note: Danite migration, capture of Laish and installation of Micah's image
+- ref: 1Sam 3:20
+  rel: setting
+  note: '''From Dan to Beersheba'' as the ideal extent of Israel'
+- ref: 1Kgs 12:28-30
+  rel: attests
+  disputed: true
+  note: Jeroboam's golden calf at Dan; the cult precinct (Area T)
+- ref: 1Kgs 15:20
+  rel: setting
+  note: Ben-hadad of Damascus conquers Dan
+- ref: 2Kgs 10:29
+  rel: setting
+  note: Golden calves at Bethel and Dan persist under Jehu
+- ref: Amos 8:14
+  rel: attests
+  note: Oath 'As your god lives, O Dan'; cf. Hellenistic dedication 'to the god who is in
+    Dan'
+related: [tel-dan-stele, high-places, bull-iconography, hazael, ben-hadad, horned-altars,
+  city-gates, bethel]
+media:
+- id: high-places
+  role: gallery
+- id: dan
+  role: primary
+external:
+  wikipedia: Dan (ancient city)
+  wikidata: Q1346856
+  pleiades: '678109'
+editorial:
+  author_notes:
+  - >-
+    Laish appears in Bronze Age texts (Mari, Egyptian toponym lists; verify specifics). The
+    mudbrick arched gate (Middle Bronze II) is among the best preserved anywhere. The popular
+    label 'Abraham's Gate' has no evidential basis.
+  - >-
+    Biran's Area T podium and precinct is plausibly linked with Jeroboam's sanctuary, but
+    its phasing and the reconstructions of the bamah are debated. Finds include a horned altar,
+    altar shovels and a hearth.
+  - >-
+    The Tel Dan Stele fragments (1993-94) were found reused in Iron Age construction near
+    the gate. Leave the interpretation to tel-dan-stele.
+  - >-
+    The Greek and Aramaic bilingual dedication 'to the god who is in Dan' (Hellenistic) confirms
+    the site identification.
+  sources_to_check: [NEAEHL, 'Biran, Biblical Dan (1994)']
+  image_query: Tel Dan Middle Bronze gate
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q1346856 (verify).
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 33.249
+  lon: 35.652
+  source: wikidata:Q1346856

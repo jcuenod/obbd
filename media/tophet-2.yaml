@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: tophet-2
+file: tophet-2.jpg
+title: Valley of Hinom PA180093.JPG
+caption: The Valley of Hinnom outside Jerusalem, location of the biblical Topheth.
+description: Valley of Hinom
+creator: Deror avi
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Deror avi, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Valley_of_Hinom_PA180093.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/b/b7/Valley_of_Hinom_PA180093.JPG
+  sha1: 55213258cd08bbc36bf7896bb051a721de4335da
+  original_size: [1712, 2288]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1197×1600 px
+size: [1197, 1600]
+depicts: [tophet]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

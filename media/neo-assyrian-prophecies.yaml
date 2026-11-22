@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: neo-assyrian-prophecies
+file: neo-assyrian-prophecies.png
+title: Ishtar of Arbela Neo-Assyrian cylinder seal.png
+caption: >-
+  Ishtar of Arbela, armed with a bow and standing on a lion, on a Neo-Assyrian garnet cylinder
+  seal of the reign of Sargon II.
+description: >-
+  Crop of a Neo-Assyrian garnet cylinder seal showing the goddess Ishtar of Arbela holding
+  a bow, with one hand raised, standing on a lion. Produced during the reign of Sargon II,
+  720BC-700BC
+creator: The Trustees of the British Museum
+credit_line: https://www.britishmuseum.org/collection/object/W_1835-0510-2
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: The Trustees of the British Museum, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ishtar_of_Arbela_Neo-Assyrian_cylinder_seal.png
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/d1/Ishtar_of_Arbela_Neo-Assyrian_cylinder_seal.png
+  sha1: aa78b3b92740f52007c3aa1207502eb4a23f1a0a
+  original_size: [1876, 1240]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1058 px
+size: [1600, 1058]
+depicts: [ishtar, neo-assyrian-prophecies]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: septuagint-2
+file: septuagint-2.jpg
+title: Nahal Hever2.jpg
+caption: >-
+  Columns of the Greek Minor Prophets Scroll from Naḥal Ḥever (8HevXII gr), c. 50 BCE–50 CE,
+  with Zechariah 8:18–9:7.
+description: >-
+  Col. B1–2 of the Greek Minor Prophets Scroll from Nahal Hever (also 8HevXII gr) - circa
+  50 B.C. to A.D. 50; text is Zechariah 8:18 - 9:7
+creator: Unknown authorUnknown author
+credit_line: http://www.biblical-data.org/palaeo/letter-forms.html
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Unknown authorUnknown author. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Nahal_Hever2.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/7/79/Nahal_Hever2.jpg
+  sha1: a2fa909eb301f0b0b63ae6cac91a5e090cb5c7a6
+  original_size: [2422, 3141]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1234×1600 px
+size: [1234, 1600]
+depicts: [septuagint]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

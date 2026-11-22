@@ -1,0 +1,87 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: assyrian-siege-warfare
+title: Siege Warfare (Assyrian and Babylonian)
+aliases: [Siege warfare]
+type: practice
+cultures: [assyrian, babylonian]
+scope: >-
+  The techniques and rhetoric of Neo-Assyrian and Neo-Babylonian siege warfare (ramps, battering
+  rams, sapping, blockade, psychological warfare) as shown in palace reliefs, inscriptions
+  and the Lachish excavations. The entry covers biblical accounts and prophetic depictions
+  of siege.
+passages:
+- ref: 2Kgs 18:13-19:37
+  rel: event
+  note: 'Sennacherib''s campaign of 701: Lachish besieged, Jerusalem blockaded'
+- ref: 2Kgs 18:17-35
+  rel: practice
+  note: 'Rabshakeh''s speech to the defenders in Judean: psychological warfare'
+- ref: Isa 37:33
+  rel: practice
+  note: No arrow, shield or siege ramp against Jerusalem (= 2 Kgs 19:32)
+- ref: 2Chr 32:2-5
+  rel: practice
+  note: Hezekiah stops springs and strengthens the walls
+- ref: Isa 22:8-11
+  rel: practice
+  note: 'Jerusalem''s defensive preparations: weapons, water, wall'
+- ref: 2Kgs 25:1-4
+  rel: practice
+  note: Babylonian siegeworks around Jerusalem; famine; breach
+- ref: Ezek 4:1-3
+  rel: practice
+  note: 'Siege model: siegeworks, ramp, camps, battering rams'
+- ref: Ezek 21:22
+  rel: practice
+  note: Battering rams, ramp and siege wall against Jerusalem (MT 21:27)
+- ref: Ezek 26:8-9
+  rel: practice
+  note: Siege wall, ramp, shields and battering rams against Tyre
+- ref: Deut 20:19-20
+  rel: practice
+  note: Do not cut down fruit trees for siegeworks
+- ref: 2Sam 20:15
+  rel: practice
+  note: Siege ramp against Abel-beth-maacah
+- ref: Nah 2:3-6
+  rel: imagery
+  note: 'Assault on Nineveh: chariots, shields, the mantelet (MT 2:4-7)'
+related: [lachish-reliefs, lachish, sennacherib-campaign-701, sennacherib-annals, hezekiahs-tunnel,
+  weapons, treatment-of-captives, deportation]
+media:
+- id: assyrian-siege-warfare
+  role: primary
+- id: assyrian-siege-warfare-2
+  role: gallery
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The Assyrian siege ramp at Lachish (excavated by D. Ussishkin) is the best-preserved Assyrian
+    siege ramp. Correlate it with the reliefs from Sennacherib's palace at Nineveh.
+  - >-
+    Sennacherib says he shut Hezekiah up 'like a bird in a cage'. He claims a blockade, not
+    a capture.
+  - >-
+    Deut 20:19-20 should be read against Assyrian tree-felling as a deliberate tactic (J.
+    L. Wright, JBL 127, 2008).
+  - >-
+    For the Rabshakeh's speech, compare Neo-Assyrian letters reporting negotiations at city
+    walls (e.g. the Nimrud letter on Babylon). Check the literature (C. Cohen; P. Machinist)
+    before citing.
+  sources_to_check: [RINAP 3/1 (Sennacherib)]
+  image_query: Lachish relief siege ramp battering ram
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

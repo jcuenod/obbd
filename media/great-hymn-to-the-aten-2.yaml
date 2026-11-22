@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: great-hymn-to-the-aten-2
+file: great-hymn-to-the-aten-2.jpg
+title: La salle dAkhenaton (1356-1340 av J.C.) (Musée du Caire) (2076972086).jpg
+caption: >-
+  Akhenaten worshipping the Aten, relief in the Akhenaten room of the Egyptian Museum, Cairo.
+description: Akhenaten praying to Aten
+creator: Jean-Pierre Dalbéra from Paris, France
+credit_line: >-
+  jdalbera.free.fr/thebes_2002_web/musee_caire/index1.htm la salle d'Akhenaton (1356-1340
+  av J.C.) (Musée du Caire)
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Jean-Pierre Dalbéra from Paris, France. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:La_salle_dAkhenaton_(1356-1340_av_J.C.)_(Mus%C3%A9e_du_Caire)_(2076972086).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/0/02/La_salle_dAkhenaton_%281356-1340_av_J.C.%29_%28Mus%C3%A9e_du_Caire%29_%282076972086%29.jpg
+  sha1: aa06f806ae2c3b5ee1449ef5209450e143143e74
+  original_size: [1150, 1448]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1150, 1448]
+depicts: [great-hymn-to-the-aten]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

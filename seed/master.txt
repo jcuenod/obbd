@@ -1,0 +1,682 @@
+# OBBD master entry list.
+# Format:  id | type | Title | hints (key passages/notes for the seed author; not authoritative)
+# "## domain" headings assign entries to seed files (seed/<domain>.yaml).
+# IDs are permanent once published; do not rename without adding a redirect.
+
+## mesopotamian-texts
+atrahasis | text | Atrahasis Epic | Gen 6-9 flood; Gen 2:7 humans from clay + divine blood; Gen 1:28 vs overpopulation; humans made to relieve divine labour (Gen 2:15)
+gilgamesh-epic | text | Epic of Gilgamesh | Gen 6:5-9:17 (Tablet XI flood, birds Gen 8:6-12, sacrifice Gen 8:20-21); Gen 3 (plant of life, serpent); Eccl 9:7-9 (Siduri)
+gilgamesh-flood-tablet | artifact | Gilgamesh Flood Tablet (Tablet XI) | BM K.3375; George Smith 1872; Gen 6-9
+enuma-elish | text | Enuma Elish | Gen 1:1-2:3 (tehom/Tiamat, firmament from her body, rest); Ps 74:12-17; Ps 89:9-12; Job 26:12-13; Isa 51:9-10
+eridu-genesis | text | Eridu Genesis (Sumerian Flood Story) | Ziusudra; Gen 6-9; Gen 4:17 (first cities)
+sumerian-king-list | text | Sumerian King List | Gen 5; Gen 11:10-26 long-lived antediluvians; flood as epoch divider; Weld-Blundell Prism
+enki-and-ninhursag | text | Enki and Ninhursag | Dilmun paradise Gen 2:8-14; "lady of the rib/life" Gen 2:21-22 (disputed)
+adapa | text | Adapa Myth | Gen 3:22-24 refused food/water of life; Gen 5:21-24?
+enmerkar-and-the-lord-of-aratta | text | Enmerkar and the Lord of Aratta | "spell of Nudimmud" one language Gen 11:1-9
+enmeduranki-and-the-apkallu | concept | Antediluvian Sages (Apkallu) and Enmeduranki | Gen 5:21-24 Enoch; Gen 4:17-22 culture heroes; Gen 6:1-4; 1 En
+descent-of-inanna-ishtar | text | Descent of Inanna/Ishtar to the Netherworld | Sheol imagery; Ezek 8:14 Tammuz; Isa 14:9-11; Job 10:21-22
+ludlul-bel-nemeqi | text | Ludlul bēl nēmeqi (Poem of the Righteous Sufferer) | Job; Ps 22; Ps 38; Ps 30
+babylonian-theodicy | text | Babylonian Theodicy | Job dialogue form; acrostic; Ps 73
+dialogue-of-pessimism | text | Dialogue of Pessimism | Eccl 1-2; Eccl 2:1-11
+sumerian-man-and-his-god | text | Man and His God (Sumerian "Job") | Job; penitential psalms
+instructions-of-shuruppak | text | Instructions of Shuruppak | Prov 1-9 father-son instruction
+city-laments | text | Sumerian City Laments | Lament for Ur, Lament for Sumer and Ur; Lam 1-5; Ezek 10-11 divine abandonment; Ps 137; Ps 74; Ps 79
+mesopotamian-lament-prayers | text | Mesopotamian Prayers of Lament (šuilla, eršaḫunga) | Ps 6; 38; 51; 88; 102; 130; 143; Dan 9
+legend-of-sargon | text | Birth Legend of Sargon of Akkad | Exod 2:1-10 basket in river
+maqlu | text | Maqlû Incantation Series | Exod 22:18; Deut 18:10-11; witchcraft
+enuma-anu-enlil | text | Enūma Anu Enlil | astral omens; Isa 47:13; Jer 10:2; Dan 2:2
+neo-assyrian-prophecies | text | Neo-Assyrian Prophecies | SAA 9 to Esarhaddon; "fear not" oracles Isa 41:10, 13-14; 43:1-5; 44:2
+mari-letters | text | Mari Archives | prophecy (apilum, muhhum) Deut 18; Jer 28; covenant donkey killing Gen 15:9-17; tent shrines; ban (asakkum) Josh 7
+nuzi-texts | text | Nuzi Texts | Gen 15:2-3 adoption of servant; Gen 16:1-4 surrogate; Gen 31:19 household gods & inheritance (disputed); older patriarchal-custom claims now nuanced
+emar-texts | text | Emar Texts | installation of NIN.DINGIR priestess Lev 8-9; zukru festival; household gods (ilānu) Gen 31; daughters as heirs Num 27:1-11
+code-of-hammurabi | artifact | Code of Hammurabi | Louvre stele; Exod 21-23 (goring ox 21:28-36; talion 21:23-25); Deut 19:21; prologue shepherd; Shamash gives law Exod 19-20
+laws-of-ur-nammu | text | Laws of Ur-Nammu | Exod 21; widow/orphan prologue
+laws-of-lipit-ishtar | text | Laws of Lipit-Ishtar | Exod 21-23; prologue/epilogue frame
+laws-of-eshnunna | text | Laws of Eshnunna | ox gores ox Exod 21:35 near-identical
+middle-assyrian-laws | text | Middle Assyrian Laws | levirate Deut 25:5-10; Deut 25:11-12; Deut 22:22-29; veiling
+hittite-laws | text | Hittite Laws | Lev 18:23; 20:15-16; levirate Deut 25:5-10; Gen 38
+edict-of-ammi-saduqa | text | Old Babylonian Mīšarum Edicts (Edict of Ammi-ṣaduqa) | misharum debt release; Lev 25; Deut 15:1-11; Jer 34:8-22; Neh 5
+esarhaddon-succession-treaty | text | Esarhaddon's Succession Treaty (Vassal Treaties) | Deut 13; Deut 28:20-57 (28:23 bronze sky ~ §§39-42); Deut 6:5 love; Tell Tayinat copy
+hittite-vassal-treaties | text | Hittite Vassal Treaties | Exod 20:1-17; Deut 1-30; Josh 24; historical prologue; witnesses; blessings/curses
+egyptian-hittite-peace-treaty | artifact | Egyptian–Hittite Peace Treaty | Ramesses II/Hattusili III; brother language; 1 Kgs 5:12; parity treaty
+plague-prayers-of-mursili | text | Plague Prayers of Muršili II | 2 Sam 21:1-14 famine from broken oath; 2 Sam 24
+apology-of-hattusili | text | Apology of Ḫattušili III | 1 Sam 16-2 Sam 5 history of David's rise (form)
+hittite-instructions-temple-officials | text | Hittite Instructions for Temple Officials | Num 18:1-7 guarding sanctuary; Lev 22
+hittite-elimination-rituals | text | Hittite and Luwian Elimination Rituals | Lev 16 scapegoat (Ashella, Uhhamuwa); Lev 14:4-7, 49-53; Zech 5:5-11
+ahiqar | text | Story and Proverbs of Ahiqar | Elephantine copy; Prov 23:13-14; Prov 25:15; Tob 1:21-22; 14:10
+babylonian-chronicles | text | Babylonian Chronicles | hub: chronicle series; 2 Kgs 24:10-17; Jer 46:2
+nebuchadnezzar-chronicle | artifact | Chronicle of the Early Years of Nebuchadnezzar (ABC 5) | BM 21946; 597 capture of Jerusalem 2 Kgs 24:10-17; 2 Chr 36:10; Carchemish Jer 46:2
+fall-of-nineveh-chronicle | artifact | Fall of Nineveh Chronicle | 612 BCE; Nah 1-3; Zeph 2:13-15; Josiah/Necho 609 2 Kgs 23:29
+nabonidus-chronicle | artifact | Nabonidus Chronicle | Nabonidus at Tayma; fall of Babylon 539; Dan 5; Isa 45:1
+verse-account-of-nabonidus | text | Verse Account of Nabonidus | Cyrus propaganda; Dan 5; Belshazzar entrusted kingship; Isa 46
+nabonidus-cylinders | artifact | Nabonidus Inscriptions (Ur and Sippar Cylinders, Harran Stelae) | Ur cylinder names Belshazzar Dan 5:1-2; Dan 7:1; 8:1; Sin of Harran
+jehoiachin-ration-tablets | artifact | Jehoiachin's Ration Tablets | 2 Kgs 25:27-30; Jer 52:31-34; Ya'ukin king of Yahudu
+al-yahudu-tablets | text | Āl-Yāhūdu Tablets | Judean exiles; Ezek 1:1-3; Ezek 3:15; Jer 29:4-7; Ps 137; Yahwistic names
+murashu-archive | text | Murašû Archive | Nippur, Persian period; Kebar canal Ezek 1:1-3; Jewish names; Ezra/Neh
+east-india-house-inscription | artifact | East India House Inscription of Nebuchadnezzar II | Dan 4:30 "great Babylon which I built"; Babylon building
+tablet-of-destinies | concept | Tablet of Destinies and the Book of Life | Exod 32:32-33; Ps 69:28; Ps 139:16; Dan 7:10; 12:1; Mal 3:16; Rev 20:12
+
+akkadian-prophecies | text | Akkadian Prophecies (Marduk, Šulgi, Uruk, and Dynastic Prophecies) | ex eventu prophecy; Dan 8; 11; divine abandonment of Babylon
+erra-and-ishum | text | Erra and Išum | destroying god; divine abandonment; Ezek 9; 21; Bodi on Ezekiel
+shurpu | text | Šurpu Incantation Series | confession lists; unknown sin Ps 19:12; Ps 51; Job 31; Lev 4-5 inadvertent sin
+great-hymn-to-shamash | text | Great Hymn to Šamaš | sun god as judge; Ps 19:4-6; Ps 72; Mal 4:2; Ps 139
+esarhaddon-treaty-with-baal-of-tyre | text | Esarhaddon's Treaty with Baal of Tyre | vassal treaty; curses invoking Baal-shamem, Melqart; Ezek 26-28; shipwreck curse
+## mesopotamian-artifacts
+statue-of-gudea | artifact | Statues of Gudea | Statue B: architect with plan (Ezek 40-43; Exod 25:9); shepherd chosen by Ningirsu (Ezek 34; Ps 23); humble piety
+gudea-cylinders | artifact | Gudea Cylinders | temple-building account 1 Kgs 5:1-9:9; dream revelation Exod 25:9, 40; 1 Chr 28:11-19; Exod 20:24; Ezek 40-48; seven-day dedication 1 Kgs 8:65
+stele-of-the-vultures | artifact | Stele of the Vultures | divine battle-net Ezek 12:13; 17:20; 32:3; Hab 1:15-17; Ps 140:5; oaths
+victory-stele-of-naram-sin | artifact | Victory Stele of Naram-Sin | divine king ascending mountain Isa 14:13-14; Ezek 28:14-16; horned crown
+kudurru | realia | Kudurru (Boundary Stones) | Deut 19:14; 27:17; Prov 22:28; 23:10; curses; royal land grants 1 Sam 8:14
+tablet-of-shamash | artifact | Tablet of Shamash | solar disk; 2 Kgs 23:11; Mal 4:2; Ps 84:11; presentation scene
+black-obelisk | artifact | Black Obelisk of Shalmaneser III | Jehu (or envoy) prostrates 2 Kgs 9-10; 2 Kgs 10:32-34; "Jehu son of Omri"
+kurkh-monoliths | artifact | Kurkh Monoliths | Battle of Qarqar 853; Ahab 2,000 chariots 1 Kgs 16:29-22:40; 1 Kgs 22:1
+tell-al-rimah-stele | artifact | Tell al-Rimah Stele of Adad-nirari III | Joash of Samaria tribute 2 Kgs 13:10-13; "deliverer" 2 Kgs 13:5 (disputed)
+tiglath-pileser-iii-inscriptions | text | Inscriptions of Tiglath-pileser III | Menahem 2 Kgs 15:19-20; Pekah/Hoshea 2 Kgs 15:29-30; Ahaz (Jehoahaz) 2 Kgs 16:7-9; Gaza; reliefs from Nimrud
+sargon-ii-inscriptions | text | Inscriptions of Sargon II | Samaria 2 Kgs 17:6, 24; Ashdod Isa 20:1; Nimrud Prism; Khorsabad
+sennacherib-annals | artifact | Sennacherib's Annals (Taylor, Oriental Institute, and Jerusalem Prisms) | 2 Kgs 18:13-19:37; Isa 36-37; 2 Chr 32:1-23; "like a bird in a cage"; tribute 30 talents gold 2 Kgs 18:14
+lachish-reliefs | artifact | Lachish Reliefs | 2 Kgs 18:14, 17; 2 Chr 32:9; Mic 1:13; siege ramp; deportees; impalement
+esarhaddon-prisms | artifact | Prisms of Esarhaddon | Manasseh among vassals 2 Kgs 21:1-18; 2 Chr 33:11; murder of Sennacherib 2 Kgs 19:37; Isa 37:38
+rassam-cylinder | artifact | Annals of Ashurbanipal (Rassam Cylinder and Prism C) | Manasseh tribute; sack of Thebes 663 Nah 3:8-10; Osnappar Ezra 4:10
+library-of-ashurbanipal | site | Library of Ashurbanipal | Nineveh; preservation of Gilgamesh, Enuma Elish; Ezra 4:10
+lion-hunt-of-ashurbanipal | artifact | Lion Hunt Reliefs of Ashurbanipal | royal lion hunt; 1 Sam 17:34-37; Ezek 19:1-9; Amos 3:12
+lamassu | realia | Lamassu (Assyrian Winged Guardian Figures) | cherubim Ezek 1:10; 10:14; Gen 3:24; 1 Kgs 6:23-28
+assyrian-sacred-tree | realia | Assyrian Sacred Tree | tree of life Gen 2:9; 3:22-24; Prov 3:18; Ezek 31; Rev 22:2; Nimrud palace reliefs
+apkallu-reliefs | realia | Apkallu Reliefs | fish-cloaked and griffin sages; links enmeduranki-and-the-apkallu; Gen 6:1-4
+ishtar-gate | artifact | Ishtar Gate and Processional Way | Babylon; Dan 1-5; Isa 13; Jer 50-51; lions/dragons (mušḫuššu) Bel; Isa 46:1-2 processions
+etemenanki | site | Etemenanki (Ziggurat of Babylon) | Gen 11:1-9; Herodotus
+ziggurat | realia | Ziggurats | Gen 11:1-9; Gen 28:10-22 sullam stairway, gate of heaven (Bab-ili); Ur ziggurat
+babylonian-map-of-the-world | artifact | Babylonian Map of the World | Isa 40:22 circle of earth; Job 26:10; Prov 8:27; cosmic ocean
+assyrian-eponym-list | text | Assyrian Eponym Lists (Limmu) | chronological anchor; eclipse 763 BCE; Amos 8:9 (disputed)
+weld-blundell-prism | artifact | Weld-Blundell Prism | Ashmolean; Sumerian King List artifact; Gen 5
+liver-models | realia | Clay Liver Models (Hepatoscopy) | Ezek 21:21; Mari, Hazor, Megiddo models; extispicy
+cylinder-seals | realia | Cylinder Seals | Gen 38:18; Jer 32:10-14; Song 8:6; iconography
+lamashtu-pazuzu-amulets | realia | Lamashtu and Pazuzu Amulets | Ps 91:5-6; Isa 34:14; demons; childbirth
+burney-relief | artifact | Burney Relief ("Queen of the Night") | Ishtar/Ereshkigal/Lilitu identification debate; Isa 34:14 (disputed)
+gudea | person | Gudea of Lagash | ruler c. 2100; shepherd title Ezek 34; temple builder 1 Kgs 5-9
+hammurabi | person | Hammurabi | king of Babylon; law-giver; shepherd; Gen 14:1 Amraphel identification (rejected)
+sargon-of-akkad | person | Sargon of Akkad | first empire; birth legend Exod 2; Nimrod traditions Gen 10:8-12 (disputed)
+shalmaneser-iii | person | Shalmaneser III | Qarqar 853; Jehu tribute 841; Hazael
+tiglath-pileser-iii | person | Tiglath-pileser III (Pul) | 2 Kgs 15:19, 29; 16:7-10; 1 Chr 5:6, 26
+shalmaneser-v | person | Shalmaneser V | 2 Kgs 17:3-6; 18:9-10; siege of Samaria
+sargon-ii | person | Sargon II | Isa 20:1; fall of Samaria claim; Khorsabad
+sennacherib | person | Sennacherib | 2 Kgs 18-19; Isa 36-37; 2 Chr 32; murder 2 Kgs 19:37
+esarhaddon | person | Esarhaddon | 2 Kgs 19:37; Isa 37:38; Ezra 4:2; succession treaty
+ashurbanipal | person | Ashurbanipal (Osnappar) | Ezra 4:10; 2 Chr 33:11 (disputed); Nah 3:8
+merodach-baladan | person | Merodach-baladan II | 2 Kgs 20:12-19; Isa 39
+nebuchadnezzar-ii | person | Nebuchadnezzar II | 2 Kgs 24-25; Jer 21-52; Dan 1-4; Ezek 26:7; 29:18-20
+amel-marduk | person | Amel-Marduk (Evil-merodach) | 2 Kgs 25:27-30; Jer 52:31-34
+nabonidus | person | Nabonidus | Dan 4 (Prayer of Nabonidus); Dan 5 father of Belshazzar; Tayma
+belshazzar | person | Belshazzar | Dan 5; 7:1; 8:1; co-regent
+battle-of-qarqar | event | Battle of Qarqar (853 BCE) | Ahab; Kurkh; 1 Kgs 22:1 three years without war; silence of Kings
+fall-of-samaria | event | Fall of Samaria (722/720 BCE) | 2 Kgs 17:1-6; 18:9-12; Shalmaneser V vs Sargon II claims
+sennacherib-campaign-701 | event | Sennacherib's Campaign to Judah (701 BCE) | 2 Kgs 18-19; Isa 36-37; 2 Chr 32; Mic 1:10-16; Lachish; Herodotus 2.141 mice
+fall-of-jerusalem-587 | event | Babylonian Conquests of Jerusalem (597 and 587/586 BCE) | 2 Kgs 24-25; Jer 39; 52; Lam; 2 Chr 36; Lachish Letters; burn layers
+battle-of-carchemish | event | Battle of Carchemish (605 BCE) | Jer 46:2-12; 2 Chr 35:20; Necho II
+fall-of-babylon-539 | event | Fall of Babylon (539 BCE) | Dan 5:30-31; Isa 45:1; Jer 50-51; Cyrus Cylinder; Herodotus
+
+adad-nirari-iii | person | Adad-nirari III | 2 Kgs 13:5 "deliverer" (disputed); Tell al-Rimah stele; Joash tribute; Sammuramat
+nabopolassar | person | Nabopolassar | founder of Neo-Babylonian dynasty; fall of Nineveh 612; Nah; Zeph 2:13-15; 2 Kgs 23:29
+fall-of-nineveh-612 | event | Fall of Nineveh (612 BCE) | Nah 1-3; Zeph 2:13-15; Jonah 3-4 (reception); Medes & Babylonians; Fall of Nineveh Chronicle
+iran-stele | artifact | Iran Stele of Tiglath-pileser III | Menahem tribute c. 738 2 Kgs 15:19-20; Rezin; Hiram of Tyre
+## egypt
+merneptah-stele | artifact | Merneptah Stele | "Israel" c. 1208 BCE; Judg 1; emergence of Israel; Gezer, Ashkelon, Yanoam
+bubastite-portal | artifact | Bubastite Portal of Shoshenq I | 1 Kgs 14:25-26; 2 Chr 12:2-9; toponym list (Megiddo fragment)
+great-hymn-to-the-aten | text | Great Hymn to the Aten | Ps 104:20-30; monotheism debate
+instruction-of-amenemope | text | Instruction of Amenemope | Prov 22:17-24:22 literary dependence; "thirty sayings" Prov 22:20
+instruction-of-ptahhotep | text | Instruction of Ptahhotep | Prov 23:1-3 dining with ruler; father-son
+satire-of-the-trades | text | Satire of the Trades | Sir 38:24-39:11
+admonitions-of-ipuwer | text | Admonitions of Ipuwer | popular link to plagues Exod 7-12 — rejected by scholarship (disputed)
+dialogue-of-a-man-with-his-ba | text | Dialogue of a Man with His Ba | Job 3; Eccl; death wish
+harpers-songs | text | Harpers' Songs | Eccl 9:7-10; carpe diem; Isa 22:13
+tale-of-two-brothers | text | Tale of Two Brothers | Gen 39:7-20 Potiphar's wife
+story-of-sinuhe | text | Story of Sinuhe | Exod 2:15 flight; Canaan "land of Yaa" fig, wine, honey Num 13:27; Deut 8:7-9; champion combat 1 Sam 17
+report-of-wenamun | text | Report of Wenamun | Byblos timber 1 Kgs 5:1-12; ecstatic prophet at Byblos 1 Sam 10:5-13; Tjeker at Dor
+famine-stele | artifact | Famine Stele | Gen 41:25-36 seven years of famine
+dream-stele | artifact | Dream Stele of Thutmose IV | royal dream legitimation 1 Kgs 3:5-15; Gen 41
+book-of-the-dead | text | Book of the Dead | negative confession Job 31; Ps 15; Ps 24:3-6; weighing heart Prov 16:2; 21:2; 24:12
+shabaka-stone | artifact | Shabaka Stone (Memphite Theology) | creation by word Gen 1; Ps 33:6-9
+egyptian-love-poetry | text | Egyptian Love Poetry | Song of Songs; "sister" Song 4:9-12
+eloquent-peasant | text | Tale of the Eloquent Peasant | justice for poor Exod 22:21-27; Amos 5:7-15; Prov
+prophecy-of-neferti | text | Prophecy of Neferti | ex eventu prophecy; Dan 11; saviour king
+execration-texts | text | Egyptian Execration Texts | Jerusalem (Rushalimum) Josh 10:1; smashing jars Jer 19:10-11; Ps 2:9
+amarna-letters | text | Amarna Letters | Abdi-Heba Jerusalem Josh 10:1; 2 Sam 5:6-9; Habiru; Labayu of Shechem Judg 9; prostration "seven and seven" Gen 33:3; Canaanite glosses; brother language
+papyrus-anastasi | text | Late Egyptian Miscellanies (Papyri Anastasi) | Shasu of Edom admitted to Wadi Tumilat Gen 46-47; escaped slaves Exod 14:5; Canaan roads Anastasi I
+tomb-of-rekhmire | artifact | Brickmaking Scenes in the Tomb of Rekhmire | Exod 1:13-14; 5:6-19 straw and quotas
+beni-hasan-asiatics | artifact | Beni Hasan Asiatics (Tomb of Khnumhotep II) | Gen 12:10; Gen 37:3 (disputed); Gen 46; Aamu caravan
+medinet-habu-sea-peoples | artifact | Medinet Habu Sea Peoples Reliefs | Ramesses III; Philistines (Peleset) Amos 9:7; Jer 47:4; Judg 13-16; hands counted 1 Sam 18:25-27
+narmer-palette | artifact | Narmer Palette | smiting king; enemies underfoot Ps 110:1; Josh 10:24
+soleb-shasu-inscription | artifact | "Shasu of YHW" Toponym Lists (Soleb, Amarah West) | earliest YHW toponym; Deut 33:2; Judg 5:4; Hab 3:3; Midian
+kadesh-battle-reliefs | artifact | Battle of Kadesh Reliefs | Ramesses II camp layout Num 2 (disputed); royal war tent Exod 25-27 (disputed); divine help
+tutankhamun-anubis-shrine | artifact | Anubis Shrine of Tutankhamun | carrying poles and portable shrines Exod 25:10-22; 2 Sam 6
+tutankhamun-footstool | artifact | Footstools and Sandals with Bound Enemies (Tutankhamun) | Ps 110:1; Isa 66:1; Josh 10:24
+egyptian-cosmology | concept | Egyptian Cosmology | Nut, Shu, Geb; Gen 1:6-8; Ps 104:2-3; primeval hill; Heliopolitan, Hermopolitan, Memphite creation
+khnum | deity | Khnum, the Potter God | Gen 2:7; Isa 45:9; 64:8; Jer 18:1-6; Job 10:8-9
+maat | concept | Maat | Ps 89:14; 97:2 righteousness and justice foundation of throne; Prov 8 Lady Wisdom (disputed); Prov 16:12
+egyptian-kingship | concept | Egyptian Divine Kingship | Ezek 29:3 "my Nile"; Exod 5:2; Ps 2:7 sonship; Isa 9:6 throne names
+mighty-hand-outstretched-arm | concept | "Mighty Hand and Outstretched Arm" | Exod 6:6; Deut 4:34; 5:15; 26:8; Jer 32:21 — Egyptian royal epithet polemic
+hardening-of-the-heart | concept | Hardening of Pharaoh's Heart | Exod 4:21; 7:13-14; 9:34; 10:1 — heavy heart & weighing of heart
+ten-plagues-and-egyptian-gods | concept | The Plagues and the Gods of Egypt | Exod 12:12; Num 33:4; Exod 7-12; correlation claims (caution)
+egyptian-loanwords | concept | Egyptian Loanwords and Names in the Hebrew Bible | Exod 2:3 tebah, gome; Moses, Phinehas, Hophni; Gen 41:43 abrek; 41:45 Zaphenath-paneah; ḥarṭummim Gen 41:8; Exod 7:11
+mummification | practice | Mummification and Embalming | Gen 50:2-3, 26; 40 and 70 days
+circumcision | practice | Circumcision in the Ancient Near East | Gen 17; Exod 4:24-26; Josh 5:2-9; Jer 9:25-26; Ankhmahor relief
+nile | site | The Nile and the Inundation | Gen 41:1-4; Exod 7:14-25; Isa 19:5-10; Ezek 29:3-10; Amos 8:8; 9:5
+yam-suph | site | Yam Suph ("Red Sea"/"Reed Sea") | Exod 13:18; 15:4, 22; Num 33:10-11; 1 Kgs 9:26; identification debate
+exodus-historical-questions | concept | The Exodus: Historical Questions | Exod 1-15; 12:37-41; Num 33; 1 Kgs 6:1; Merneptah; Hyksos expulsion; Semites in Egypt
+hyksos | people | Hyksos | Gen 37-50 (disputed); Exod 1:8; Exod 12:40; Manetho/Josephus
+cush | people | Cush and the Kushite (25th) Dynasty | Isa 18; 20:3-5; 2 Kgs 19:9; Zeph 2:12; Num 12:1
+avaris | site | Avaris (Tell el-Dabʿa) | Exod 1:11 Raamses; Asiatic settlement; Hyksos capital
+pi-ramesses | site | Pi-Ramesses (Qantir) | Exod 1:11; 12:37; Num 33:3, 5
+pithom | site | Pithom | Exod 1:11; Tell el-Maskhuta vs Tell er-Retabeh
+thebes | site | Thebes (No-Amon) | Nah 3:8-10; Jer 46:25; Ezek 30:14-16
+memphis | site | Memphis (Noph) | Isa 19:13; Jer 2:16; 44:1; 46:14, 19; Hos 9:6; Ezek 30:13
+tanis | site | Tanis (Zoan) | Num 13:22; Ps 78:12, 43; Isa 19:11-13; 30:4
+ramesses-ii | person | Ramesses II | Exod 1:11 Raamses (disputed pharaoh of exodus); Kadesh; treaty
+merneptah | person | Merneptah | stele; Israel 1208
+shoshenq-i | person | Shoshenq I (Shishak) | 1 Kgs 11:40; 14:25-26; 2 Chr 12:2-9; Megiddo stele fragment
+necho-ii | person | Necho II | 2 Kgs 23:29-35; 2 Chr 35:20-36:4; Jer 46:2
+taharqa | person | Taharqa (Tirhakah) | 2 Kgs 19:9; Isa 37:9; 701 chronology issue
+apries | person | Apries (Hophra) | Jer 44:30; 37:5-11; Ezek 29-32
+akhenaten | person | Akhenaten | Aten hymn Ps 104; Amarna; monotheism debate
+
+egyptian-rule-in-canaan | concept | Egyptian Imperial Rule in Late Bronze Canaan | Beth-shean, Jaffa, Gaza garrisons; Amarna; Merneptah; Judg 1:27; Josh 17:11; Seti I stelae
+joseph-story-egyptian-background | concept | The Joseph Story and Egypt | Gen 37-50; Gen 39-41; 41:42-45; 47:13-26; 50:26; dating debate Redford vs Kitchen/Hoffmeier
+instruction-of-merikare | text | Instruction for Merikare | humans as the creator's images Gen 1:26-27; divine care; royal responsibility; Prov 16:2
+tahpanhes | site | Tahpanhes (Daphnae) | Jer 2:16; 43:7-9; 44:1; 46:14; Ezek 30:18; Tell Defenneh; Judean refugees
+demotic-wisdom | text | Demotic Instructions (Ankhsheshonqy, Papyrus Insinger) | Eccl; Sir; Prov; late Egyptian wisdom comparanda
+## levant-epigraphy
+mesha-stele | artifact | Mesha Stele | 2 Kgs 3:4-27; 1 Kgs 16:21-28 Omri; Judg 3:12-30 Moab-Israel conflict; Num 21:29-30; 32:34-38; Isa 15-16; Jer 48; herem Josh 6:17-21; Judg 11:24 Chemosh gives land; "House of David" (disputed reading)
+tel-dan-stele | artifact | Tel Dan Stele | "House of David" 2 Sam 7:11-16; Hazael 2 Kgs 8:7-15; deaths of Joram and Ahaziah 2 Kgs 8:28-9:28 (conflict with Jehu account); Dan 1 Kgs 12:29; 15:20
+siloam-inscription | artifact | Siloam Inscription | 2 Kgs 20:20; 2 Chr 32:2-4, 30; Isa 22:9-11; Sir 48:17
+gezer-calendar | artifact | Gezer Calendar | agricultural year; Exod 23:14-17; Deut 16; Ruth 1:22; 2:23
+lachish-letters | artifact | Lachish Letters (Ostraca) | Jer 34:7 Lachish and Azekah; Jer 38:4 "weaken the hands"; prophet Jer 26:20-23; fire signals
+arad-ostraca | artifact | Arad Ostraca | Eliashib archive; Kittim; "house of YHWH"; Edom threat Obad 10-14; Ps 137:7
+samaria-ostraca | artifact | Samaria Ostraca | clan names Shemida, Hoglah, Noah Num 26:30-33; Josh 17:2-3; Baal names Hos 2:16-17; administration 1 Kgs 4:7-19
+kuntillet-ajrud-inscriptions | artifact | Kuntillet ʿAjrud Inscriptions and Drawings | "YHWH of Samaria and his asherah", "YHWH of Teman"; Deut 33:2; Hab 3:3; 1 Kgs 15:13; 2 Kgs 21:7; Bes figures
+khirbet-el-qom-inscription | artifact | Khirbet el-Qom Inscription | "blessed by YHWH and his asherah"; hand; Deut 16:21; 2 Kgs 23:6
+ketef-hinnom-amulets | artifact | Ketef Hinnom Silver Amulets | Num 6:24-26 priestly blessing; Deut 7:9; dating debate
+royal-steward-inscription | artifact | Royal Steward Inscription (Silwan) | Isa 22:15-16 Shebna (disputed); "over the house"
+hezekiah-bulla | artifact | Bulla of Hezekiah | Ophel 2015; winged sun; 2 Kgs 18-20; Isa 36-39
+bullae-of-jeremiah-era-officials | artifact | Bullae of Jeremiah-Era Officials | Gemariah son of Shaphan Jer 36:10-12; Jehucal Jer 37:3; 38:1; Gedaliah son of Pashhur Jer 38:1; Burnt House archive; Baruch bulla authenticity
+seal-of-shema | artifact | Seal of Shema, Servant of Jeroboam | Megiddo lion seal; 2 Kgs 14:23-29
+lmlk-seal-impressions | realia | LMLK Seal Impressions | 2 Kgs 18:13-16; 2 Chr 32:27-29; Hebron, Ziph, Socoh, Mmst; Sennacherib preparations
+ekron-royal-dedicatory-inscription | artifact | Ekron Royal Dedicatory Inscription | Achish (Ikausu) 1 Sam 21:10; 27:2 (disputed identity); Padi; Josh 13:3; goddess PTGYH
+tell-fekheriye-statue | artifact | Tell Fekheriye Bilingual Statue | "image" ṣlm and "likeness" dmwt Gen 1:26-27; 5:1-3; curses Lev 26:26; Hos 4:10
+zakkur-stele | artifact | Zakkur Stele | seers & diviners; "do not fear" Isa 41:10; Bar-Hadad son of Hazael 2 Kgs 13:3, 24-25; Hamath
+sefire-treaties | artifact | Sefire Treaty Inscriptions | Deut 28; Jer 34:18-20 calf cut; Gen 15:9-17; Ezek 17:13-19; wax melting
+deir-alla-inscription | artifact | Deir ʿAlla Inscription (Balaam Text) | Balaam son of Beor Num 22-24; Num 31:8, 16; Josh 13:22; Shaddayin divine council
+melqart-stele | artifact | Melqart Stele of Bar-Hadad | Ben-Hadad 1 Kgs 15:18-20; 20 (disputed identification)
+ahiram-sarcophagus | artifact | Sarcophagus of Ahiram | cherub (sphinx) throne 1 Kgs 10:18-20; 1 Sam 4:4; Ps 80:1; Byblos; Phoenician alphabet; curse
+eshmunazar-sarcophagus | artifact | Sarcophagus of Eshmunazar II | Rephaim Isa 14:9-11; 26:14; Sidon; Persian period
+kilamuwa-stele | artifact | Kilamuwa Stele | Sam'al king as father/mother to people; Ps 72:12-14; Isa 49:23
+katumuwa-stele | artifact | Katumuwa Stele | soul (nbš) in the stele; feasting for the dead Deut 26:14; Isa 57:6-8
+karatepe-inscription | artifact | Karatepe Bilingual (Azatiwada) | peace & plenty 1 Kgs 4:25 [MT 5:5]; Mic 4:4; women walking safely
+nora-stone | artifact | Nora Stone | Tarshish? Jonah 1:3; Isa 23:1 (disputed reading)
+izbet-sartah-abecedary | artifact | ʿIzbet Ṣarṭah Abecedary | literacy Judg 8:14; acrostics Ps 119; Lam 1-4; alphabet order
+mesad-hashavyahu-ostracon | artifact | Meṣad Ḥashavyahu (Yavneh-Yam) Ostracon | garment taken in pledge Exod 22:26-27; Deut 24:12-13; Amos 2:8; possibly "before sabbath" (disputed)
+tell-qasile-ostracon | artifact | Tell Qasile "Gold of Ophir" Ostracon | 1 Kgs 9:28; 10:11; Job 22:24; Ps 45:9
+uzziah-epitaph | artifact | Uzziah Burial Plaque | 2 Chr 26:23; reburial in Second Temple period
+tell-siran-bottle-and-ammonite-inscriptions | artifact | Ammonite Inscriptions (Amman Citadel, Tell Siran, Baalis Seal Impression) | Baalis Jer 40:14; Milkom; Ammonite kings
+qedarite-silver-bowl | artifact | Tell el-Maskhuta Silver Bowls ("Qainu son of Geshem") | Neh 2:19; 6:1-6 Geshem the Arab
+pim-weights | realia | Inscribed Weights (Shekel, Pim, Beqa, Nesef) | 1 Sam 13:21 pim; Gen 23:16; Lev 19:35-36; Deut 25:13-16; Prov 11:1; Amos 8:5; Mic 6:11; Exod 38:26 beqa
+judean-pillar-figurines | realia | Judean Pillar Figurines | Jer 7:18; 44:15-19 (disputed); Asherah; household religion
+taanach-cult-stand | artifact | Taanach Cult Stands | 1 Kgs 7:27-37 stands; cherubim, lions, tree, horse with sun disk 2 Kgs 23:11; Asherah/YHWH iconography
+bull-site-figurine | artifact | "Bull Site" Figurine | Exod 32; 1 Kgs 12:28-30; Hos 8:5-6; El/YHWH as bull (disputed)
+samaria-ivories | realia | Samaria Ivories | 1 Kgs 22:39; Amos 3:15; 6:4; Phoenician style; Ps 45:8
+proto-sinaitic-script | concept | Origins of the Alphabet (Proto-Sinaitic) | Serabit el-Khadim; Wadi el-Hol; Exod 17:14; 24:4; 34:27-28
+paleo-hebrew-script | concept | Paleo-Hebrew Script and Hebrew Epigraphy | Isa 8:1; Neh 13:24; DSS divine name in paleo-Hebrew; Samaritan script
+aramaic-language | concept | Aramaic Language and Script | Ezra 4:8-6:18; 7:12-26; Dan 2:4b-7:28; Jer 10:11; Gen 31:47; 2 Kgs 18:26; square script
+ugaritic-texts | text | Ugaritic Texts (Corpus) | alphabetic cuneiform; poetic parallelism; Ps 29; Ps 92:9; Hebrew lexicography
+forgeries-in-biblical-archaeology | concept | Forgeries and Unprovenanced Objects | James Ossuary; Jehoash inscription 2 Kgs 12; ivory pomegranate; Museum of the Bible DSS fragments; Moabite forgeries (Shapira); ethics
+omri | person | Omri | 1 Kgs 16:16-28; Mic 6:16; Mesha; Bit-Humri
+ahab | person | Ahab | 1 Kgs 16:29-22:40; Kurkh Monolith; Samaria ivories
+jezebel | person | Jezebel | 1 Kgs 16:31; 18-21; 2 Kgs 9:30-37; seal (disputed)
+jehu | person | Jehu | 2 Kgs 9-10; Black Obelisk; Tel Dan conflict; Hos 1:4
+menahem | person | Menahem | 2 Kgs 15:14-22; Tiglath-pileser III tribute
+pekah | person | Pekah | 2 Kgs 15:25-31; 16:5; Isa 7:1
+hoshea | person | Hoshea | 2 Kgs 15:30; 17:1-6
+ahaz | person | Ahaz | 2 Kgs 16; Isa 7; 2 Chr 28; Jehoahaz in TP III; seal impression
+hezekiah | person | Hezekiah | 2 Kgs 18-20; Isa 36-39; 2 Chr 29-32; Prov 25:1; bulla; tunnel
+manasseh | person | Manasseh | 2 Kgs 21:1-18; 2 Chr 33; Esarhaddon & Ashurbanipal lists
+josiah | person | Josiah | 2 Kgs 22-23; 2 Chr 34-35; Megiddo 609; reform archaeology
+jehoiachin | person | Jehoiachin | 2 Kgs 24:8-17; 25:27-30; Jer 22:24-30; 52:31-34; ration tablets
+david | person | David: Historical Questions | 1 Sam 16-1 Kgs 2; Tel Dan; Mesha (disputed); Khirbet Qeiyafa; Jerusalem Stepped Stone Structure
+solomon | person | Solomon: Historical Questions | 1 Kgs 1-11; 1 Kgs 9:15 gates; chronology debate; Sheba
+hazael | person | Hazael | 1 Kgs 19:15-17; 2 Kgs 8:7-15; 10:32-33; 12:17-18; 13:3, 22; Tel Dan; booty inscriptions
+ben-hadad | person | Ben-Hadad (Kings of Aram-Damascus) | 1 Kgs 15:18-20; 20; 2 Kgs 6:24; 8:7-15; 13:3, 24-25; Zakkur; Melqart
+rezin | person | Rezin | 2 Kgs 15:37; 16:5-9; Isa 7:1-8; 8:6; TP III annals
+hiram-of-tyre | person | Hiram of Tyre | 2 Sam 5:11; 1 Kgs 5; 9:11-14, 26-28; Josephus/Menander
+
+khirbet-qeiyafa-ostracon | artifact | Khirbet Qeiyafa Ostracon | early alphabetic; script & language debate; tenth-century literacy; Judg 8:14; David debate
+bar-rakib-and-panamuwa-inscriptions | artifact | Bar-Rakib and Panamuwa Inscriptions (Samʾal) | Aramean vassalage to Tiglath-pileser III; 2 Kgs 16:7-10; "running at the wheel of my lord"; Bar-Rakib relief
+edomite-inscriptions | artifact | Edomite Inscriptions (Horvat ʿUza, Buseirah, Qos seals) | Qos; Edomite expansion into Negev; Obad; Ps 137:7; Jer 49:7-22; Horvat Uza ostracon
+## ugarit-and-deities
+baal-cycle | text | Baal Cycle | Ps 29; Isa 27:1 Litan twisting serpent; Ps 74:13-14; Ps 48:2 Zaphon; Ps 68:4 cloud rider; Dan 7:9-14 (disputed); 1 Kgs 18; Hab 3:8-15; Baal's palace built in 7 days
+aqhat-epic | text | Aqhat Epic | Danel Ezek 14:14, 20; 28:3; hospitality Gen 18:1-8; judging widow & orphan at gate; childlessness Gen 15
+kirta-epic | text | Kirta Epic | loss & restoration Job 1:13-19; 42:10-17; divine promise of heir Gen 15:1-6; royal justice Ps 72
+shahar-and-shalim | deity | Shahar and Shalim (Dawn and Dusk) | Isa 14:12 Helel son of Shahar; Ps 139:9 wings of dawn; Jerusalem name
+statue-of-el | artifact | Seated Bronze Figurine of El (Ugarit) | Dan 7:9 Ancient of Days; Gen 21:33 El Olam; Ps 82:1; El as aged, bearded, enthroned
+baal-with-thunderbolt | artifact | Baal with Thunderbolt Stele | Ps 29:3-9; Ps 18:13-14; Job 37:2-5; 1 Kgs 18:38; Hab 3:11
+marzeah | practice | Marzeaḥ | Amos 6:4-7; Jer 16:5; feasting association
+rephaim | concept | Rephaim | Isa 14:9; 26:14, 19; Ps 88:10; Prov 2:18; Job 26:5; Deut 2:11, 20; 3:11 Og; Ugaritic KTU 1.161
+el | deity | El | Gen 14:18-22 El Elyon; Gen 33:20; Gen 16:13; 21:33; Ps 82:1; Deut 32:8-9; Ezek 28:2
+elyon | deity | Elyon | Gen 14:18-22; Deut 32:8; Ps 82:6; Isa 14:14; Ps 46:4
+baal | deity | Baal | 1 Kgs 18; Judg 2:11-13; 6:25-32; Hos 2:8, 16-17; 2 Kgs 10:18-28
+asherah | deity | Asherah | Deut 16:21; Judg 6:25-30; 1 Kgs 15:13; 18:19; 2 Kgs 21:7; 23:4-7; Kuntillet Ajrud
+anat | deity | Anat | Judg 3:31 Shamgar ben Anath; Anathoth Jer 1:1; Elephantine Anat-Yahu
+astarte | deity | Astarte (Ashtoreth) | Judg 2:13; 10:6; 1 Sam 7:3-4; 31:10; 1 Kgs 11:5, 33; 2 Kgs 23:13
+mot | deity | Mot (Death) | Isa 25:8; 28:15, 18; Hos 13:14; Hab 2:5; Jer 9:21; Ps 49:14; 1 Cor 15:54-55
+yam | deity | Yam (Sea) | Job 7:12; 38:8-11; Ps 74:13; 89:9; Hab 3:8; Nah 1:4
+resheph | deity | Resheph | Hab 3:5; Deut 32:24; Ps 78:48; Job 5:7; Song 8:6
+dagon | deity | Dagon | Judg 16:23; 1 Sam 5:1-7; 1 Chr 10:10; Ugarit, Mari, Ebla; fish-god misconception
+molek | deity | Molek | Lev 18:21; 20:2-5; 2 Kgs 23:10; Jer 32:35; Isa 30:33; mlk-sacrifice debate
+chemosh | deity | Chemosh | Num 21:29; Judg 11:24; 1 Kgs 11:7, 33; 2 Kgs 23:13; Jer 48:7, 13, 46; Mesha
+milkom | deity | Milkom | 1 Kgs 11:5, 33; 2 Kgs 23:13; Jer 49:1, 3; Zeph 1:5
+qos | deity | Qos | Edomite god; Ezra 2:53 Barkos; Qos names; Deut 33:2 southern origins
+melqart | deity | Melqart | Tyre; 1 Kgs 16:31-32; 18 Baal of Tyre (disputed); Heracles
+queen-of-heaven | deity | Queen of Heaven | Jer 7:18; 44:17-25; Ishtar/Astarte/Anat identification
+tammuz | deity | Tammuz (Dumuzi) | Ezek 8:14; Dan 11:37 (disputed); Adonis
+shamash | deity | Shamash and the Sun God | 2 Kgs 23:5, 11; Ezek 8:16; Mal 4:2; Ps 19:4-6; Deut 4:19; Ps 84:11; Beth-shemesh
+sin-moon-god | deity | Sin (Moon God) | Harran Gen 11:31; Deut 4:19; Job 31:26-28; Nabonidus
+marduk | deity | Marduk (Bel, Merodach) | Isa 46:1; Jer 50:2; 51:44; Bel and the Dragon; Enuma Elish
+nabu | deity | Nabu (Nebo) | Isa 46:1; names Nebuchadnezzar, Nebuzaradan; tablet of destinies scribe
+ishtar | deity | Ishtar/Inanna | Queen of heaven Jer 7:18 (disputed); Esther name (disputed); Song of Songs
+hadad-rimmon | deity | Hadad (Adad, Rimmon) | 2 Kgs 5:18; Zech 12:11; Ben-Hadad names; storm god
+baal-zebub | deity | Baal-zebub (Beelzebul) | 2 Kgs 1:2-16; Matt 10:25; 12:24-27; zbl b'l Ugaritic "prince Baal"
+baal-peor | deity | Baal of Peor | Num 25:1-9; Deut 4:3; Ps 106:28; Hos 9:10
+baal-berith | deity | Baal-berith / El-berith | Judg 8:33; 9:4, 46; Shechem temple
+gods-of-2-kings-17 | deity | Gods of the Resettled Peoples (2 Kgs 17:29–31) | Succoth-benoth, Nergal, Ashima, Nibhaz, Tartak, Adrammelech, Anammelech; Amos 8:14 Ashimah
+sakkut-and-kaiwan | deity | Sakkuth and Kaiwan | Amos 5:26; Acts 7:43; Saturn; Akkadian kayamānu
+lilith | deity | Lilith | Isa 34:14; lilitu demons; later Jewish tradition
+demons | concept | Demons and Evil Spirits | Lev 17:7 seirim; Deut 32:17 shedim; Isa 13:21; 34:14; Ps 91:5-6; 1 Sam 16:14-23; Azazel Lev 16:8-10
+yhwh-origins | concept | Origins of the Worship of YHWH | Exod 3:13-15; 6:2-3; Deut 33:2; Judg 5:4-5; Hab 3:3, 7; Shasu; Midianite-Kenite hypothesis (disputed)
+divine-council | concept | Divine Council | Ps 82; 1 Kgs 22:19-23; Job 1:6-12; 2:1-6; Isa 6:1-8; Isa 40:1-8; Deut 32:8-9; Gen 1:26; 3:22; 11:7; Ps 29:1; 89:5-7; Jer 23:18, 22
+sons-of-god | concept | Sons of God (bene elohim) | Gen 6:1-4; Job 1:6; 2:1; 38:7; Deut 32:8 (4QDeut-j, LXX); Ps 29:1; 89:6
+satan-the-adversary | concept | The Satan (the Adversary) | Job 1-2; Zech 3:1-2; 1 Chr 21:1; Num 22:22, 32; 1 Sam 29:4; Persian court informer
+angel-of-yhwh | concept | Divine Messengers and the Angel of YHWH | Gen 16:7-13; 22:11-18; Exod 3:2; Judg 6:11-24; 13; ANE messenger conventions
+cherubim | concept | Cherubim | Gen 3:24; Exod 25:18-22; 1 Kgs 6:23-28; Ezek 1; 10; 28:14-16; Ps 18:10; sphinxes, lamassu
+seraphim | concept | Seraphim | Isa 6:2-6; Num 21:6-9; Deut 8:15; Isa 14:29; 30:6; winged uraei on Judahite seals
+nehushtan | realia | Nehushtan and Bronze Serpents | Num 21:4-9; 2 Kgs 18:4; John 3:14; Timna copper snake; Egyptian uraeus
+leviathan | deity | Leviathan | Job 3:8; 41; Ps 74:14; 104:26; Isa 27:1; Litan in Baal Cycle
+rahab-sea-monster | deity | Rahab (Sea Monster) | Job 9:13; 26:12; Ps 87:4; 89:10; Isa 30:7; 51:9
+behemoth | deity | Behemoth | Job 40:15-24; 1 En 60:7-9; Ugaritic 'gl il (disputed)
+tannin | deity | Tannin (Sea Dragons) | Gen 1:21; Exod 7:9-12; Ps 74:13; 148:7; Isa 27:1; 51:9; Ezek 29:3; 32:2; Jer 51:34
+nephilim | concept | Nephilim and Giant Traditions | Gen 6:1-4; Num 13:33; Deut 2:10-11, 20-21; 3:11; Josh 11:21-22; 1 Sam 17:4; 1 En 6-11; Book of Giants
+
+shadday | deity | Shadday (El Shaddai) | Gen 17:1; 28:3; 35:11; Exod 6:3; Num 24:4, 16; Ruth 1:20-21; Job; šdyn at Deir Alla
+athtar | deity | Athtar (ʿAṯtar) | Baal Cycle failed enthronement; Isa 14:12-15; Ashtar-Chemosh Mesha
+azazel | deity | Azazel | Lev 16:8-10, 26; 1 En 8:1; 10:4-8; demon vs place vs "goat that goes"
+bes | deity | Bes | Kuntillet Ajrud drawings misidentified as YHWH and Asherah; amulets; household protection
+angelology | concept | Named Angels and Angelic Hierarchies | Dan 8:16; 9:21; 10:13, 21; 12:1; Tob 3:17; 12:15; 1 En 20; Luke 1:19, 26; Jude 9; Rev 12:7
+## cosmos-cult-kingship
+cosmology | concept | Ancient Near Eastern Cosmology | Gen 1:1-2:3; Ps 148:4; Ps 104:2-9; Job 26:7-14; 38:4-11; Prov 8:22-31; Gen 7:11 windows of heaven; three-tiered universe
+firmament | concept | Firmament (Raqia) | Gen 1:6-8, 14-17; Ps 19:1; Ezek 1:22-26; Job 37:18; Dan 12:3
+waters-above-and-below | concept | Waters Above and Below | Gen 1:6-7; 7:11; 8:2; Ps 104:3; 148:4; Exod 20:4; Deut 4:18; Ps 24:2; 136:6
+pillars-and-foundations-of-the-earth | concept | Pillars and Foundations of the Earth | 1 Sam 2:8; Job 9:6; 26:11; 38:4-6; Ps 75:3; 104:5; Prov 8:29
+tehom | concept | Tehom (the Deep) | Gen 1:2; 7:11; 49:25; Ps 104:6; Prov 8:27-28; Isa 51:10; Tiamat cognate debate
+chaoskampf | concept | Divine Combat with the Sea (Chaoskampf) | Ps 74:12-17; 89:9-10; Job 26:12-13; 38:8-11; Isa 51:9-10; Hab 3:8-15; Nah 1:4; Gen 1:2, 21; Rev 12-13; 21:1
+creation-accounts | concept | Creation Accounts in the Ancient Near East | Gen 1-2; Ps 104; Prov 8:22-31; Job 38; hub entry
+creation-of-humanity | concept | Creation of Humanity | Gen 1:26-28; 2:7, 15; Ps 8; Isa 64:8; Job 10:8-9; Atrahasis; Enuma Elish VI; humans to relieve gods' labour
+image-of-god | concept | Image of God (Imago Dei) | Gen 1:26-28; 5:1-3; 9:6; Ps 8:5-8; royal image ideology; Tell Fekheriye; cult statues
+flood-traditions | concept | Flood Traditions | Gen 6-9 hub; Atrahasis, Gilgamesh XI, Eridu Genesis, Berossus; 2 Pet 3:5-6
+garden-of-god | concept | Garden of God (Eden) | Gen 2:8-3:24; Ezek 28:13-14; 31:8-9, 16-18; 36:35; Isa 51:3; Ezek 47:1-12; Ps 46:4; Joel 2:3; royal and temple gardens
+tree-of-life | concept | Tree of Life | Gen 2:9; 3:22-24; Prov 3:18; 11:30; 13:12; 15:4; Ezek 47:12; Rev 2:7; 22:2, 14
+cosmic-mountain | concept | Cosmic Mountain and Zaphon | Ps 48:1-2; Isa 2:2-4; 14:13; Ezek 28:14, 16; Ps 68:15-16; Exod 15:17; Exod 24
+divine-rest | concept | Divine Rest in Temple and Creation | Gen 2:2-3; Exod 20:11; 31:17; Ps 132:8, 13-14; Isa 66:1; 1 Chr 28:2; Enuma Elish; Atrahasis (noise disturbs divine rest)
+temple-as-cosmos | concept | Temple as Microcosm | Gen 1:1-2:3 with Exod 39:32-43; 40:33-34; Ps 78:69; Isa 66:1; 1 Kgs 8:27; 1 Kgs 7:23-26 sea
+temple-building-accounts | concept | Temple-Building Accounts | 1 Kgs 5:1-9:9; Exod 25-40; Ezra 3-6; Hag 1-2; Gudea; Baal's palace; Esarhaddon Assur temple; form
+name-theology | concept | Name Theology ("to Place His Name There") | Deut 12:5, 11, 21; 14:23-24; Exod 20:24; 1 Kgs 8:16, 29; 9:3; Jer 7:12; Amarna šakān šumšu (EA 287)
+cult-images | concept | Cult Statues in the Ancient Near East | Isa 44:9-20; 46:1-7; Jer 10:1-16; Ps 115:4-8; 135:15-18; Hab 2:18-19; Dan 3; Bel and Dragon
+aniconism | concept | Aniconism in Ancient Israel | Exod 20:4-6; Deut 4:12-19; 5:8-10; Exod 32; 1 Kgs 12:28; empty-space cherub throne; massebot
+mouth-washing-and-opening | practice | Mouth-Washing and Mouth-Opening Rituals | Isa 44:9-20; Jer 10:3-5; Ps 115:4-8; 135:15-18; Hab 2:18-19; Isa 6:5-7 (disputed)
+care-and-feeding-of-the-gods | concept | Care and Feeding of the Gods | Ps 50:12-13; Deut 32:37-38; Bel 1-22; Lev 3:11; 21:6 "food of God"; Gen 8:21 soothing aroma
+divine-warrior | concept | Divine Warrior | Exod 15:1-18; Judg 5:4-5; Deut 33:2-3; Ps 18:7-15; 68; Hab 3; Isa 59:15-20; 63:1-6; Zech 14
+cloud-rider | concept | Rider on the Clouds | Ps 68:4, 33; 18:10-11; 104:3; Deut 33:26; Isa 19:1; Dan 7:13; Baal epithet rkb 'rpt
+divine-wings | concept | Divine Wings ("Shadow of Your Wings") | Exod 19:4; Deut 32:11; Ruth 2:12; Ps 17:8; 36:7; 57:1; 61:4; 91:4; Mal 4:2; winged deities and winged sun
+winged-sun-disk | realia | Winged Sun Disk | Mal 4:2 [MT 3:20]; Ps 84:11; LMLK and Hezekiah bulla; Assyrian Ashur; Persian
+light-of-the-face | concept | Shining Face and Divine Favor | Num 6:25-26; Ps 4:6; 31:16; 67:1; 80:3, 7, 19; Akkadian/Amarna "face of the king"
+host-of-heaven | concept | Host of Heaven and Astral Worship | Deut 4:19; 17:3; 2 Kgs 17:16; 21:3-5; 23:4-5; Jer 8:2; 19:13; Zeph 1:5; Isa 40:26
+constellations | concept | Constellations in the Hebrew Bible | Job 9:9; 38:31-33; Amos 5:8; Isa 13:10; Mazzaroth 2 Kgs 23:5
+calendars-and-month-names | concept | Calendars and Month Names | Exod 12:2; 13:4 Abib; 1 Kgs 6:1, 37-38; 8:2 Ziv, Bul, Ethanim; Esth 3:7; Neh 1:1; 2:1; Babylonian month names
+sabbath | practice | Sabbath | Gen 2:1-3; Exod 16:22-30; 20:8-11; 31:12-17; 35:2-3; Deut 5:12-15; Num 15:32-36; Amos 8:5; Isa 58:13; Jer 17:19-27; Neh 13:15-22; 2 Kgs 4:23; Akkadian šapattu, ūmū lemnūtu; epigraphic sabbath (Elephantine, Yavneh-Yam?)
+seven-day-patterns | concept | Seven-Day Patterns and the Week | Gen 1:1-2:3; 7:4, 10; 8:10-12; Exod 24:16; 1 Kgs 8:65-66; Lev 23; Baal palace built in seven days; Gudea seven-day dedication; Gilgamesh XI flood seven days
+hemerologies | text | Hemerologies (Favorable and Unfavorable Days) | 7th, 14th, 19th, 21st, 28th days; Sabbath background Exod 20:8-11; Isa 1:13-14; Esth 3:7
+new-moon | practice | New Moon Festival | 1 Sam 20:5, 18, 24-27; 2 Kgs 4:23; Isa 1:13-14; 66:23; Hos 2:11; Amos 8:5; Num 10:10; 28:11-15; Col 2:16
+akitu-festival | practice | Akītu (Babylonian New Year) Festival | Isa 46:1-2 processions; enthronement psalms Ps 47; 93; 95-99 (disputed); king's humiliation
+festivals-agricultural | practice | Agricultural Festivals | Exod 23:14-17; 34:18-26; Lev 23; Deut 16:1-17; Gezer calendar; Ugaritic and Emar festival calendars
+passover-origins | practice | Passover and Unleavened Bread: Origins | Exod 12:1-28, 43-49; Deut 16:1-8; 2 Kgs 23:21-23; 2 Chr 30; Elephantine Passover letter; apotropaic blood rites
+day-of-atonement-elimination | practice | Day of Atonement and Elimination Rites | Lev 16; Lev 14:4-7; Zech 5:5-11; Hittite & Ebla elimination; Azazel
+sacrifice | practice | Sacrifice in the Ancient Near East | Lev 1-7; Gen 8:20-21; Ugaritic šlmm/kll; Marseilles tariff; Ps 50:8-15; 1 Sam 15:22; Hos 6:6
+marseilles-tariff | artifact | Marseilles Tariff | Punic sacrificial price list; Lev 1-7; 7:28-36 priestly portions; kll, ṣwʿt, šlm kll
+child-sacrifice | practice | Child Sacrifice | Gen 22; Judg 11:30-40; 2 Kgs 3:27; 16:3; 17:31; 21:6; 23:10; Jer 7:31; 19:5; Mic 6:7; Ezek 16:20-21; 20:25-26; Carthage tophet
+tophet | site | Tophet | 2 Kgs 23:10; Jer 7:31-32; 19:6, 11-14; Isa 30:33; Punic tophets (Carthage, Motya)
+cultic-prostitution | practice | "Cultic Prostitution" (qedeshah): A Contested Category | Gen 38:21-22; Deut 23:17-18; Hos 4:14; 1 Kgs 14:24; 15:12; 2 Kgs 23:7; Herodotus 1.199; consensus now skeptical
+sacred-marriage | practice | Sacred Marriage (Hieros Gamos) | Song of Songs (disputed); Hos 2; Sumerian Dumuzi-Inanna; Iddin-Dagan hymn
+sumerian-love-songs | text | Sumerian Love Songs (Dumuzi and Inanna) | Song of Songs; Shu-Sin love song
+divination | practice | Divination in the Ancient Near East | Deut 18:9-14; Lev 19:26, 31; Num 22-24; 1 Sam 28; Ezek 21:21; Gen 44:5, 15; Isa 47:13; hub
+extispicy | practice | Extispicy (Hepatoscopy) | Ezek 21:21; Bārû priests; liver models
+necromancy | practice | Necromancy and Consulting the Dead | 1 Sam 28:3-25; Lev 19:31; 20:6, 27; Deut 18:11; Isa 8:19-20; 19:3; 29:4; 2 Kgs 21:6; 23:24; ʾôb and yiddeʿônî
+astrology | practice | Astrology and Astral Omens | Isa 47:13; Jer 10:2; Dan 2:2, 27; 4:7; 5:7; Matt 2:1-12
+dreams-and-dream-interpretation | practice | Dreams and Dream Interpretation | Gen 20:3; 28:10-22; 37:5-11; 40-41; Num 12:6; Deut 13:1-5; 1 Sam 28:6; Jer 23:25-32; Dan 2; 4; Egyptian dream books; Assyrian dream book
+dream-incubation | practice | Dream Incubation | 1 Kgs 3:4-15; 1 Sam 3:1-15; Gen 28:10-22; Gudea; Isa 65:4
+lots-and-cleromancy | practice | Lots and Cleromancy | Josh 18:6-10; Num 26:55; 1 Sam 14:41-42; Prov 16:33; Jonah 1:7; Esth 3:7; 9:24-26 pur; Acts 1:26; Assyrian lot cube of Iahali
+urim-and-thummim | practice | Urim and Thummim | Exod 28:30; Lev 8:8; Num 27:21; Deut 33:8; 1 Sam 14:41 (LXX); 28:6; Ezra 2:63
+teraphim | realia | Teraphim | Gen 31:19, 30-35; Judg 17:5; 18:14-20; 1 Sam 15:23; 19:13-16; 2 Kgs 23:24; Ezek 21:21; Hos 3:4; Zech 10:2
+ephod | realia | Ephod | Exod 28:4-14; Judg 8:27; 17:5; 18:14-20; 1 Sam 2:18; 21:9; 23:6-9; 30:7; 2 Sam 6:14
+prophecy-in-the-ane | practice | Prophecy in the Ancient Near East | Deut 18:15-22; 1 Kgs 22; Jer 28; Amos 7:12-15; Mari, Neo-Assyrian, Zakkur, Deir Alla, Wenamun; hub
+massebot | realia | Standing Stones (Massebot) | Gen 28:18-22; 31:45-52; 35:14, 20; Exod 23:24; 24:4; Deut 16:22; Josh 4:20; 24:26-27; 1 Kgs 14:23; 2 Kgs 18:4; Hos 3:4; Isa 19:19; Gezer, Arad, Hazor
+high-places | realia | High Places (Bamot) | 1 Sam 9:12-25; 1 Kgs 3:2-4; 12:31-32; 14:23; 2 Kgs 18:4, 22; 23:8-20; Jer 7:31; Dan high place
+altars | realia | Altars | Exod 20:24-26 earth and unhewn stone; 27:1-8; Deut 27:5-6; Josh 8:30-31; 22:10-34; 1 Kgs 18:30-32; Arad, Mount Ebal, Motza
+horned-altars | realia | Horned Altars | Exod 27:2; 29:12; 30:1-10; 1 Kgs 1:50-51; 2:28; Amos 3:14; Jer 17:1; Beersheba altar
+incense-and-incense-altars | realia | Incense and Incense Altars | Exod 30:1-10, 34-38; Lev 10:1-2; Jer 6:20; 44:15-25; Mal 1:11; Arad incense altars; Ps 141:2
+cult-stands | realia | Cult Stands and Wheeled Stands | 1 Kgs 7:27-39 mekonot; Taanach stands; Cypriot wheeled stands; Jer 52:17-20
+bronze-sea | realia | The Bronze Sea | 1 Kgs 7:23-26; 2 Chr 4:2-6; Jer 52:17; apsû basins; cosmic waters
+jachin-and-boaz | realia | Jachin and Boaz (Temple Pillars) | 1 Kgs 7:15-22; 2 Kgs 25:13-17; 2 Chr 3:15-17; Jer 52:17-23; freestanding temple pillars
+proto-aeolic-capitals | realia | Proto-Aeolic Capitals | 1 Kgs 7:16-22 (disputed); Samaria, Megiddo, Ramat Rahel, Jerusalem; palmette/tree motif
+menorah | realia | Menorah | Exod 25:31-40; 37:17-24; Zech 4:1-14; 1 Kgs 7:49; Arch of Titus; Magdala stone; tree motif
+ark-of-the-covenant | realia | Ark of the Covenant | Exod 25:10-22; Num 10:35-36; 1 Sam 4-6; 2 Sam 6; 1 Kgs 8:1-9; Jer 3:16; Egyptian portable barques and chests
+tabernacle | realia | Tabernacle | Exod 25-31; 35-40; Num 2; Egyptian war tent; Mari tent shrines; Timna tent shrine; Baal's tent at Ugarit
+cherub-throne | realia | Cherub Throne | 1 Sam 4:4; 2 Sam 6:2; 2 Kgs 19:15; Ps 80:1; 99:1; Isa 37:16; 1 Kgs 10:18-20; Ahiram sarcophagus; Megiddo ivory
+footstool | realia | Footstool | Ps 99:5; 110:1; 132:7; 1 Chr 28:2; Isa 66:1; Lam 2:1; Matt 5:35; Tutankhamun footstools
+ezekiel-throne-chariot | concept | Ezekiel's Throne-Chariot Vision and ANE Iconography | Ezek 1:4-28; 10; 43:1-5; Dan 7:9-10; Atlas figures, four-winged genii, Assyrian thrones
+royal-ideology | concept | Royal Ideology and Sacral Kingship | Ps 2; 18; 20; 21; 45; 72; 89; 101; 110; 132; 2 Sam 7; Isa 9:1-7; 11:1-9; Deut 17:14-20
+king-as-son-of-god | concept | The King as Son of God | Ps 2:7; 89:26-27; 2 Sam 7:14; 1 Chr 17:13; Ps 110:3 (LXX); Isa 9:6; Egyptian and Mesopotamian royal birth
+shepherd-kingship | concept | Shepherd Imagery and Kingship | Ps 23; 78:70-72; 80:1; Ezek 34; 37:24; 1 Sam 16:11; 2 Sam 5:2; 7:7-8; Jer 23:1-6; Mic 5:4; Isa 40:11; 44:28; Exod 3:1; Zech 11; John 10; Hammurabi, Gudea, Pharaoh's crook
+lion-imagery | concept | Lion Imagery | Gen 49:9; Num 23:24; Amos 1:2; 3:4-8, 12; Hos 5:14; 13:7-8; Isa 31:4; Ezek 19:1-9; Ps 22:13, 21; Judg 14:5-9; 1 Kgs 10:19-20; Rev 5:5
+bull-iconography | concept | Bull Iconography and the Golden Calves | Exod 32; 1 Kgs 12:26-33; 2 Kgs 10:29; Hos 8:5-6; 10:5; 13:2; Ps 106:19-20; "Bull of Jacob" Gen 49:24
+smiting-the-enemy-motif | concept | Smiting the Enemy and Trampling Foes | Ps 18:37-42; 110:1, 5-6; Ps 2:9; Josh 10:24; Isa 63:1-6; Mal 4:3; Narmer palette; Egyptian smiting scenes
+prayer-postures | practice | Prayer Postures and Gestures | Exod 9:29; 17:11-12; 1 Kgs 8:22, 54; Ps 28:2; 63:4; 134:2; 141:2; Lam 2:19; 1 Tim 2:8; orant iconography
+prostration-and-obeisance | practice | Prostration and Obeisance Formulas | Gen 33:3 seven times; 42:6; 2 Sam 9:6; 1 Kgs 1:16, 23, 31; Esth 3:2; Black Obelisk; Amarna "seven and seven times"
+vows-and-votive-offerings | practice | Vows and Votive Offerings | Gen 28:20-22; Lev 27; Num 6; 30; Judg 11:30-31; 1 Sam 1:11; Ps 22:25; 116:14-18; Jonah 1:16; 2:9; votive inscriptions
+nazirite-vow | practice | Nazirite Vow | Num 6:1-21; Judg 13:4-7; 16:17; 1 Sam 1:11; Amos 2:11-12; Acts 18:18; 21:23-26; hair offerings
+tithes | practice | Tithes | Gen 14:20; 28:22; Num 18:21-32; Deut 14:22-29; 26:12-15; Amos 4:4; Mal 3:8-10; Neh 10:37-39; Ugaritic & Neo-Babylonian temple tithes (ešrû)
+firstfruits-and-firstborn | practice | Firstfruits and Firstborn | Exod 13:1-2, 11-16; 22:29-30; 23:19; 34:19-20, 26; Num 18:12-18; Deut 26:1-11; Lev 23:9-14
+purity-and-impurity | practice | Purity and Impurity | Lev 11-15; Num 19; Hag 2:10-14; Mark 7:1-23; Hittite temple instructions; Mesopotamian & Egyptian purity
+pig-avoidance | practice | Pig Avoidance and Food Prohibitions | Lev 11:7; Deut 14:8; Isa 65:4; 66:3, 17; 1 Macc 1:47; 2 Macc 6:18; zooarchaeology as ethnic marker
+kid-in-mothers-milk | practice | "Boiling a Kid in Its Mother's Milk" | Exod 23:19; 34:26; Deut 14:21; misreading of Ugaritic KTU 1.23 line 14
+mourning-rites | practice | Mourning Rites | Gen 37:34; Lev 19:27-28; 21:5; Deut 14:1; 2 Sam 1:11-12; 3:31; Jer 16:6-7; 41:5; 47:5; Mic 1:16; Amos 8:10; Ezek 7:18; El's mourning for Baal; 1 Kgs 18:28
+care-for-the-dead | practice | Care for the Dead and Ancestor Veneration | Deut 26:14; 1 Sam 28; Isa 8:19-20; 57:6-8; 65:4; Ps 106:28; 2 Sam 18:18; Katumuwa; kispu; Ugaritic Rephaim
+sheol-and-the-netherworld | concept | Sheol and the Netherworld | Gen 37:35; Num 16:30-33; Deut 32:22; 1 Sam 2:6; Job 10:21-22; 17:13-16; Ps 6:5; 30:3, 9; 88:3-12; Isa 14:9-20; 38:10-18; Ezek 32:17-32; Jonah 2:2-6
+bench-tombs | realia | Bench Tombs and Burial Practices | Gen 23; 25:9-10; 49:29-33; 50:13; 2 Kgs 22:20; 23:6, 16; Isa 22:16; Ketef Hinnom; "gathered to his people"
+afterlife-and-resurrection | concept | Afterlife and Resurrection Beliefs | Dan 12:2-3; Isa 26:19; Ezek 37:1-14; Job 19:25-27; Ps 49:15; 73:24; Zoroastrian and Egyptian comparisons; 2 Macc 7
+apotropaic-doorposts-and-thresholds | practice | Doorposts, Thresholds, and Apotropaic Protection | Exod 12:7, 22-23; Deut 6:9; 11:20; 1 Sam 5:5; Zeph 1:9; Isa 57:8; Mesopotamian foundation figurines and door rites
+amulets | realia | Amulets | Exod 13:9, 16; Deut 6:8; 11:18; Isa 3:18-23; Gen 35:4; Judg 8:24-26; Ketef Hinnom; scarabs; Bes and Eye of Horus; phylacteries Matt 23:5
+covenant-and-treaty-form | concept | Covenant and Treaty Form | Exod 19-24; 34; Deut 1-34; Josh 24; 1 Sam 12; Ps 89; hub for Hittite & Assyrian treaties
+blessings-and-curses | concept | Treaty Blessings and Curses | Lev 26; Deut 27-28; Josh 8:34; Jer 11:1-8; Zech 5:1-4; Mal 2:2; Sefire; Esarhaddon succession treaty; Hammurabi epilogue
+covenant-cutting-ceremony | practice | Covenant-Cutting Ceremonies | Gen 15:9-21; Jer 34:18-20; Exod 24:3-8; Gen 31:44-54; Mari donkey killing; Sefire; Ashur-nirari V treaty
+covenant-love-language | concept | "Love" as Covenant Language | Deut 6:5; 7:7-9; 10:12; 11:1; 1 Kgs 5:1 [MT 5:15]; 1 Sam 18:16; Hos 11:1; Mal 1:2-3; Moran's thesis
+covenant-lawsuit | concept | Covenant Lawsuit (rîb) | Deut 32:1; Isa 1:2-3, 18-20; 3:13-15; Jer 2:4-13; Hos 4:1-3; Mic 6:1-8; Ps 50; heaven and earth as witnesses
+oaths-and-oath-formulas | practice | Oaths and Oath Formulas | Gen 14:22-23; 24:2-9; 47:29; Ruth 1:17; 1 Sam 3:17; 14:44; 2 Sam 3:35; Ezek 17:13-19; Num 5:21; Deut 6:13; Matt 5:33-37
+ziggurat-and-babel | concept | The Tower of Babel and Its Mesopotamian Background | Gen 11:1-9; Babylon; Etemenanki; Enmerkar; brick and bitumen Gen 11:3; Babel/Bab-ili
+nimrod | concept | Nimrod | Gen 10:8-12; 1 Chr 1:10; Mic 5:6; identifications (Ninurta, Tukulti-Ninurta I, Sargon); Nimrud
+table-of-nations | concept | Table of Nations | Gen 10; 1 Chr 1:1-23; Ezek 27; 38:2-6; identifications of peoples
+genealogies | concept | Genealogies in the Ancient Near East | Gen 4-5; 10; 11:10-32; 1 Chr 1-9; Ruth 4:18-22; Matt 1:1-17; Assyrian King List; Genealogy of the Hammurabi Dynasty
+royal-annals-and-historiography | concept | Royal Annals and Historiography | 1 Kgs 11:41; 14:19, 29; 15:7; 2 Kgs 1:18; Esth 2:23; 6:1; 10:2; Ezra 4:15; Assyrian annals; Babylonian chronicles
+conquest-accounts-and-war-rhetoric | concept | Conquest Accounts and ANE War Rhetoric | Josh 10:28-43; 11:16-23; 21:43-45; Judg 1; hyperbole; Assyrian annals; Merneptah; Mesha
+herem | practice | Ḥerem (the Ban) | Deut 7:1-6; 20:16-18; Josh 6:17-21; 7; 8:26; 1 Sam 15:3; Num 21:2-3; Mic 4:13; Mesha Stele line 17; Mari asakkum
+treatment-of-captives | practice | Treatment of Captives and War Atrocities | Judg 1:6-7; 16:21; 1 Sam 11:2; 18:25-27; 2 Sam 8:2; 2 Kgs 8:12; 15:16; 25:7; Amos 1:3, 13; Hos 13:16; Ps 137:9; Deut 21:22-23; Josh 8:29; Esth 7:10; Assyrian reliefs; Medinet Habu
+champion-combat | practice | Champion (Single) Combat | 1 Sam 17; 2 Sam 2:12-17; 21:15-22; Sinuhe; Iliad; Wenamun
+assyrian-siege-warfare | practice | Siege Warfare (Assyrian and Babylonian) | 2 Kgs 18-19; 25:1-4; Isa 37:33; Ezek 4:1-3; 21:22; 26:8-9; Deut 20:19-20; Lachish reliefs; siege ramp
+deportation | practice | Assyrian and Babylonian Deportation Policy | 2 Kgs 15:29; 17:6, 24; 18:11, 32; 24:14-16; 25:11; Isa 36:16-17; Jer 52:28-30
+tribute-and-vassalage | practice | Tribute and Vassalage | 2 Kgs 15:19-20; 16:7-8; 17:3-4; 18:14-16; 23:33-35; "your servant and your son" 2 Kgs 16:7; Black Obelisk; Sennacherib
+court-officials | concept | Court Titles and Officials | Rabshakeh, Tartan, Rab-saris 2 Kgs 18:17; Jer 39:3, 13; "over the house" Isa 22:15; 1 Kgs 4:1-6; cupbearer Gen 40:1; Neh 1:11; recorder, scribe
+eunuchs | concept | Eunuchs (sārîs) | 2 Kgs 20:18; Isa 39:7; 56:3-5; Esth 1:10; 2:3; Dan 1:3-18; Gen 37:36 (Potiphar); Acts 8:27; Assyrian ša rēši
+diplomatic-gift-exchange | practice | Diplomacy and Gift Exchange | 1 Kgs 10:1-13, 24-25; 2 Kgs 20:12-13; 1 Kgs 5:1-12; 9:11-14; Amarna letters; 2 Sam 8:9-10
+diplomatic-marriage | practice | Diplomatic Marriage | 1 Kgs 3:1; 7:8; 9:16; 11:1-3; 16:31; 2 Kgs 8:18, 26; Amarna (EA 4); Ps 45
+brotherhood-language | concept | "Brother" Language in Diplomacy | 1 Kgs 9:13; 20:32-33; Amos 1:9; Num 20:14; Amarna letters; Egyptian–Hittite treaty
+letter-writing-conventions | concept | Letter-Writing Conventions | 2 Kgs 5:5-7; 10:1-7; 19:14; 20:12; Jer 29; Ezra 4:7-22; 5:6-17; 7:11-26; Neh 6:5-7; Lachish & Arad letters; Elephantine letters
+ane-wisdom-literature | concept | Wisdom Literature in the Ancient Near East | Prov; Job; Eccl; 1 Kgs 4:29-34 [MT 5:9-14]; Jer 49:7; Obad 8; Prov 30:1; 31:1 (non-Israelite sages); hub
+scribes-and-scribal-education | practice | Scribes and Scribal Education | 2 Sam 8:17; 20:25; 1 Kgs 4:3; 2 Kgs 22:3-13; Jer 8:8; 36:4, 26, 32; Ezra 7:6, 11; Prov 25:1; Sir 38:24; 39:1-11; school texts; Kuntillet Ajrud
+writing-and-literacy | concept | Writing and Literacy in Ancient Israel | Deut 6:9; 11:20; 17:18; 27:2-8; Judg 8:14; Isa 8:1; 29:11-12; Hab 2:2; abecedaries; Arad soldiers' letters; Lachish 3
+writing-materials | realia | Writing Materials (Tablets, Ostraca, Papyrus, Scrolls) | Exod 24:12; 32:15-16; Isa 8:1; 30:8; Jer 17:1; 32:10-14; 36; Ezek 2:9-10; 37:16; Job 19:23-24; Hab 2:2; Ps 40:7; Zech 5:1-4; writing boards
+ostraca | realia | Ostraca | Lachish, Arad, Samaria, Meṣad Ḥashavyahu, Qeiyafa; Job 2:8 potsherd; Isa 30:14
+seals-and-bullae | realia | Seals and Bullae | Gen 38:18, 25; 41:42; 1 Kgs 21:8; Jer 22:24; 32:10-14, 44; Esth 3:10-12; 8:8-10; Song 8:6; Hag 2:23; Neh 9:38
+sealed-deeds | practice | Sealed and Double Deeds | Jer 32:6-15, 44; Isa 29:11; Dan 12:4; Rev 5:1; Elephantine & Wadi Daliyeh deeds
+
+solomons-temple | realia | Solomon's Temple (First Temple) | 1 Kgs 6-8; 2 Chr 3-5; tripartite plan; Ain Dara and Tell Tayinat parallels; 2 Kgs 25:9-17
+ain-dara-temple | site | ʿAin Dara Temple | 1 Kgs 6; tripartite plan; giant footprints; side chambers 1 Kgs 6:5-10; lions and sphinxes
+tell-tayinat | site | Tell Tayinat (Kunulua) | tripartite temple 1 Kgs 6; Esarhaddon succession treaty tablet copy; Deut 13; 28; Calneh/Kullani Isa 10:9; Amos 6:2
+priesthood | practice | Priests and Temple Personnel | Exod 28-29; Lev 8-10; Num 3-4; 18; Deut 18:1-8; 1 Sam 2; Ezek 44; Hittite instructions; Mesopotamian temple staff
+magic-and-sorcery | practice | Magic, Sorcery, and Incantation | Exod 7:11, 22; 22:18; Deut 18:10-11; Isa 47:9-12; Ezek 13:17-23; Acts 8:9-24; 19:19; ḥarṭummîm; Maqlû
+divine-glory-and-melammu | concept | Divine Glory (kābôd) and Radiance (melammu) | Exod 24:16-17; 33:18-23; 40:34-35; 1 Kgs 8:10-11; Ezek 1:28; 10:4, 18-19; 43:2-5; Ps 104:1-2; puluḫtu melammu
+justice-and-righteousness | concept | Justice and Righteousness and Royal Equity (kittum and mīšarum) | Ps 72:1-4; 89:14; 97:2; Isa 9:7; 11:4-5; Jer 22:15-16; Amos 5:24; Hammurabi kittum u mīšarum
+divine-abandonment | concept | Divine Abandonment and Captured Divine Images | Ezek 8-11; 43:1-5; 1 Sam 4-6; Isa 46:1-2; Jer 48:7; Lam 2:7; Marduk Prophecy; Esarhaddon Babylon inscriptions; godnapping
+fasting | practice | Fasting and Penitential Rites | Lev 16:29-31; Judg 20:26; 1 Sam 7:6; 2 Sam 12:16-23; Isa 58:3-7; Joel 1:14; 2:12-15; Jonah 3:5-9; Zech 7:3-5; 8:19; Esth 4:16; Matt 6:16-18
+## law-society-daily-life
+lex-talionis | practice | Lex Talionis | Exod 21:23-25; Lev 24:17-22; Deut 19:16-21; Matt 5:38-42; Hammurabi §§196-201
+goring-ox | practice | The Goring Ox | Exod 21:28-36; Eshnunna §§53-55; Hammurabi §§250-252; legal casuistry
+ane-law-collections | concept | Ancient Near Eastern Law Collections | Exod 20:22-23:33; Lev 17-26; Deut 12-26; hub; casuistic vs apodictic; descriptive vs prescriptive debate
+debt-release | practice | Debt Remission, Manumission, and Jubilee | Lev 25; Deut 15:1-18; Exod 21:2-6; 23:10-11; Jer 34:8-22; Neh 5:1-13; 10:31; Isa 61:1-2; Luke 4:18-19; misharum, andurārum
+sabbatical-year | practice | Sabbatical Year | Exod 23:10-11; Lev 25:1-7, 18-22; Deut 15:1-11; 31:10-13; Neh 10:31; 2 Chr 36:21; 1 Macc 6:49, 53
+slavery | practice | Slavery and Debt Servitude | Exod 21:2-11, 20-21, 26-27; Lev 25:39-55; Deut 15:12-18; 23:15-16; Jer 34:8-22; 2 Kgs 4:1; Neh 5:1-5; Phlm; Hammurabi §§117, 282
+widow-orphan-sojourner | concept | Widow, Orphan, and Sojourner | Exod 22:21-24; Deut 10:18; 14:29; 24:17-22; 27:19; Ps 68:5; 82:3-4; 146:9; Isa 1:17, 23; Jer 7:6; Zech 7:10; Mal 3:5; Ur-Nammu; Hammurabi; Aqhat
+courts-and-legal-procedure | practice | Courts, Judges, and Legal Procedure | Gen 23:10-18; Deut 21:19; 22:15; 25:7; Ruth 4:1-11; 2 Sam 15:2-6; Amos 5:10-15; Prov 22:22; 31:23; Job 29:7-17
+city-gates | realia | City Gates and Fortifications | 1 Kgs 9:15; 2 Sam 18:24-33; Neh 2-3; Dan gate; six-chamber gates at Hazor, Megiddo, Gezer; Lachish gate shrine; Bethsaida
+asylum-and-cities-of-refuge | practice | Asylum and Cities of Refuge | Exod 21:12-14; Num 35:9-34; Deut 4:41-43; 19:1-13; Josh 20; 1 Kgs 1:50-53; 2:28-34; blood avenger 2 Sam 14:4-11
+trial-by-ordeal | practice | Trial by Ordeal | Num 5:11-31; Hammurabi §§2, 132; river ordeal; Exod 32:20
+levirate-marriage | practice | Levirate Marriage | Deut 25:5-10; Gen 38; Ruth 3-4; Mark 12:18-27; Middle Assyrian & Hittite laws
+marriage-and-bride-price | practice | Marriage, Bride-Price, and Dowry | Gen 24:53; 29:15-30; 31:14-16; 34:12; Exod 22:16-17; Deut 22:28-29; 1 Sam 18:25; Josh 15:16-19; Elephantine marriage contracts
+surrogacy-and-concubinage | practice | Surrogacy and Concubinage | Gen 16:1-6; 21:9-14; 30:1-13; Hammurabi §§144-147; Old Assyrian marriage contract; Nuzi
+adoption | practice | Adoption | Gen 15:2-3; 30:3; 48:5-6, 12; Exod 2:10; Esth 2:7, 15; Ps 2:7; 2 Sam 7:14; Rom 8:15; Gal 4:5; Nuzi; Hammurabi §§185-193
+inheritance-and-birthright | practice | Inheritance and Birthright | Gen 25:29-34; 27; 48:13-20; 49:3-4; Deut 21:15-17; Num 27:1-11; 36; Job 42:15; 1 Chr 5:1-2; Emar & Nuzi daughters as heirs
+land-redemption | practice | Land Tenure and Redemption | Lev 25:23-34; Ruth 4:1-12; Jer 32:6-15; 1 Kgs 21:1-19 Naboth; Num 27:1-11; inalienable patrimony (naḥalâ)
+boundary-markers | practice | Boundary Markers and Land Theft | Deut 19:14; 27:17; Job 24:2; Prov 22:28; 23:10; Hos 5:10; Isa 5:8; kudurru curses
+hospitality | practice | Hospitality | Gen 18:1-8; 19:1-11; 24:31-33; Judg 19:15-25; Exod 2:20; Job 31:32; Heb 13:2; Aqhat
+corvee-labor | practice | Forced Labor (mas) | Exod 1:11; 1 Kgs 4:6; 5:13-18; 9:15-22; 11:28; 12:4, 18; Josh 16:10; Amarna (EA 365); Yavneh-Yam
+camels-and-domestication | concept | Camel Domestication and the Patriarchal Narratives | Gen 12:16; 24:10-64; 31:17, 34; 37:25; Judg 6:5; 7:12; Timna camel bones; anachronism debate
+donkeys-and-royal-mounts | concept | Donkeys, Mules, and Royal Processions | Gen 22:3; Num 22:21-35; Judg 5:10; 10:4; 12:14; 2 Sam 13:29; 1 Kgs 1:33-44; Zech 9:9; Matt 21:1-11; Mari letter on riding donkeys
+chariots-and-horses | realia | Chariots and Horses | Exod 14:6-9, 23; 15:4; Deut 17:16; Judg 1:19; 4:3; 1 Kgs 10:26-29; 2 Kgs 2:11-12; 6:17; Ps 20:7; Isa 2:7; 31:1; Kue horse trade
+weapons | realia | Weapons and Armor | 1 Sam 17:5-7, 38-51; Judg 3:16; 20:16; 1 Sam 13:19-22; 2 Chr 26:14-15; Neh 4:16-18; sickle-sword kîdôn Josh 8:18; sling stones at Lachish
+iron-technology | concept | Iron Technology and the Philistine Monopoly | 1 Sam 13:19-22; Deut 8:9; Josh 17:16-18; Judg 1:19; 4:3; 2 Sam 12:31; Iron Age transition
+copper-production | concept | Copper Mining and Metallurgy | Deut 8:9; 1 Kgs 7:13-47; Num 21:4-9; 2 Sam 8:13-14; Timna; Faynan (Khirbet en-Nahas); Job 28:1-11
+four-room-house | realia | Four-Room House | Deut 22:8 parapet; Josh 2:6 roof; Judg 16:27; 1 Sam 9:25-26; 28:24; 2 Sam 11:2; Prov 21:9; Judg 11:31 (disputed); pillared house
+cisterns-and-water-systems | realia | Cisterns and Water Systems | Gen 37:22-24; Jer 2:13; 38:6; 2 Sam 5:8 ṣinnôr; 2 Kgs 20:20; Isa 22:9-11; John 5:2; 9:7; Hezekiah's Tunnel, Megiddo, Hazor, Gibeon
+threshing-floors | realia | Threshing Floors | Gen 50:10-11; Judg 6:37; Ruth 3; 2 Sam 6:6; 24:18-25; 1 Kgs 22:10; Hos 9:1; 13:3; Isa 41:15; Mic 4:12-13; Matt 3:12; Aqhat (Danel at threshing floor)
+olive-oil-production | realia | Olive Oil Production | Exod 27:20; Deut 8:8; 24:20; Judg 9:8-9; Mic 6:15; Ps 104:15; Ekron oil industry; Gethsemane ("oil press")
+winepresses | realia | Winepresses and Viticulture | Isa 5:1-7; 16:10; 63:1-6; Judg 6:11; 9:27; Neh 13:15; Joel 3:13; Lam 1:15; Rev 14:19-20; Gibeon wine industry
+agriculture-and-farming | practice | Agriculture and the Farming Year | Gen 8:22; Deut 11:10-17; Isa 28:23-29; Ruth 1:22; 2:23; Gezer calendar; dry farming vs irrigation; early and late rains Deut 11:14
+millstones-and-grinding | realia | Millstones and Grinding | Exod 11:5; Num 11:8; Deut 24:6; Judg 9:53; 16:21; Isa 47:2; Jer 25:10; Eccl 12:3-4; Matt 24:41; Rev 18:21-22
+pottery-and-potters | realia | Pottery and the Potter's Craft | Jer 18:1-12; 19:1-13; Isa 29:16; 30:14; 45:9; 64:8; Lam 4:2; Ps 2:9; Rom 9:20-21; 2 Cor 4:7; potter's wheel, Khnum
+textiles-and-weaving | realia | Textiles, Spinning, and Weaving | Exod 26:1; 35:25-26; Judg 16:13-14; 1 Sam 17:7 (weaver's beam); 2 Kgs 23:7; Prov 31:13, 19, 22, 24; Isa 38:12; loom weights; mixed fabrics Deut 22:11
+purple-dye | realia | Purple Dye and Tekhelet | Exod 25:4; 26:1; 28:5-6; Num 15:38; 2 Chr 2:7, 14; Prov 31:22; Ezek 27:7, 16; Esth 8:15; Acts 16:14; murex; Tel Shikmona
+clothing-and-dress | realia | Clothing and Dress | Gen 37:3, 23; 38:14; Exod 28; Deut 22:5, 12; 1 Sam 2:19; 2 Sam 13:18; Isa 3:16-24; Black Obelisk & Lachish depictions; tassels Num 15:38-40
+oil-lamps | realia | Oil Lamps | Exod 25:37; 27:20-21; 1 Sam 3:3; 2 Sam 21:17; 1 Kgs 11:36; Ps 119:105; Prov 20:27; 31:18; Jer 25:10; Matt 25:1-13
+musical-instruments | realia | Musical Instruments | Gen 4:21; 1 Sam 10:5; 16:23; 2 Sam 6:5; Ps 33:2; 81:2-3; 150; Dan 3:5, 7, 10, 15 (Greek loanwords); kinnor, nebel, tof, shofar; Megiddo & Assyrian depictions
+honey-and-beekeeping | realia | Honey and Beekeeping | Exod 3:8; Deut 8:8; 32:13; Judg 14:8-9; 1 Sam 14:25-29; Ps 19:10; Prov 24:13; Ezek 27:17; Tel Rehov apiary; date honey (dibs)
+coinage | realia | Coinage | Ezra 2:69 darics; 8:27; Neh 7:70-72; 1 Chr 29:7 (anachronism); Yehud coins; Tyrian shekel Matt 17:24-27; 26:15; Matt 22:19-21; Mark 12:42
+weights-and-silver-money | practice | Weighed Silver and Pre-Coinage Exchange | Gen 23:16; 43:21; Exod 30:13; Jer 32:9-10; Amos 8:5; Hos 12:7; Hacksilber; weighed silver hoards
+roads-and-highways | site | The King's Highway and the Way of the Sea | Num 20:17; 21:22; Deut 2:27; Isa 9:1 [MT 8:23]; Gen 37:25; Judg 5:6; Isa 40:3; trade routes
+incense-trade | concept | Incense Route and Arabian Trade | 1 Kgs 10:1-15; Isa 60:6; Jer 6:20; Ezek 27:22; Ps 72:10, 15; Matt 2:11; frankincense and myrrh; South Arabian inscriptions
+phoenician-seafaring | concept | Phoenician Seafaring and Trade | 1 Kgs 9:26-28; 10:22; 22:48; Ezek 27; Isa 23; Jonah 1:3-5; Ps 107:23-30; Assyrian relief of Luli's fleet
+emergence-of-israel | concept | Emergence of Israel in Canaan | Josh 1-12; Judg 1; Merneptah Stele; Iron I highland villages; conquest, infiltration, revolt, and indigenous models
+ethnicity-and-material-culture | concept | Ethnicity and Material Culture in Iron Age Israel | Judg 14:3; 1 Sam 17:26 (uncircumcised Philistines); four-room house; collared-rim jars; pig bones; debates on ethnic markers
+chronology-of-kings | concept | Chronology of the Kings of Israel and Judah | 1 Kgs 14-2 Kgs 25 synchronisms; 1 Kgs 6:1; coregencies; Thiele; eclipse 763; Qarqar 853; Jehu 841
+low-chronology-debate | concept | The Tenth-Century Debate (High and Low Chronology) | 1 Kgs 9:15-19; 2 Sam 5-8; 1 Kgs 3-11; Megiddo, Hazor, Gezer; Khirbet Qeiyafa; radiocarbon
+cult-reforms-archaeology | concept | Hezekiah's and Josiah's Cult Reforms: Archaeological Evidence | 2 Kgs 18:3-6, 22; 23:4-20; 2 Chr 29-31; 34; Arad shrine; Beersheba altar; Lachish gate shrine
+babylonian-exile | event | The Babylonian Exile | 2 Kgs 24-25; Jer 29; 52:28-30; Ezek 1:1-3; Ps 137; Lam; Al-Yahudu; Jehoiachin tablets; Murashu
+samaritan-origins | people | Samaritans: Origins | 2 Kgs 17:24-41; Ezra 4:1-5; Neh 4; 13:28; John 4:9, 20; Mount Gerizim temple; Samaria papyri
+yehud-province | people | Yehud (Persian Province of Judah) | Ezra 1-10; Neh 1-13; Hag; Zech 1-8; Ezra 5:8; Neh 5:14-15; Yehud seals and coins
+
+loans-interest-pledges | practice | Loans, Interest, and Pledges | Exod 22:25-27; Lev 25:35-37; Deut 23:19-20; 24:6, 10-13, 17; Amos 2:8; Neh 5:1-13; Ezek 18:8, 13; Mesad Hashavyahu; Elephantine loan contracts
+theft-and-restitution | practice | Theft, Deposits, and Multiple Restitution | Exod 22:1-15; Lev 6:1-7; 2 Sam 12:6; Prov 6:30-31; Luke 19:8; Hammurabi §§6-25, 120-126
+sexual-offence-laws | practice | Adultery, Rape, and Sexual Offence Laws | Lev 18; 20; Deut 22:13-29; Exod 22:16-17; Hammurabi §§129-133; MAL A; Hittite Laws §§187-200
+household-and-kinship | concept | Household, Clan, and Tribe | bêt ʾāb, mišpāḥâ, šēbeṭ; Josh 7:14-18; Judg 17-18; Ruth; Num 1; 26; patrimonial household model
+pastoralism-and-herding | practice | Pastoralism, Herding, and Nomadism | Gen 4:2; 13:2-12; 29:1-10; 30:25-43; 31:38-40; 37:12-17; Exod 3:1; Amos 1:1; 7:14-15; 1 Sam 17:34-35; mobile pastoralism
+bread-and-diet | realia | Bread, Ovens, and Diet | Gen 18:6; Lev 2:4-7; 26:26; 1 Sam 8:13; Hos 7:4-7; Jer 37:21; Ruth 2:14; tabun/tannur; diet of grain, oil, wine
+medicine-and-healing | practice | Medicine, Physicians, and Healing | Exod 15:26; 21:19; 2 Kgs 20:7; 2 Chr 16:12; Jer 8:22; Sir 38:1-15; Mark 5:26; Mesopotamian asû and āšipu; Egyptian medical papyri
+## sites-peoples
+jerusalem | site | Jerusalem | Josh 10:1; 15:63; 2 Sam 5:6-9; 1 Kgs 6-8; 2 Kgs 25; Neh 2-3; Ps 48; Ps 122; Amarna Urusalim
+city-of-david | site | City of David | 2 Sam 5:7-9; 1 Kgs 2:10; 2 Chr 32:30; Neh 3:15-16; Stepped Stone Structure; Large Stone Structure; Gihon spring 1 Kgs 1:33-45
+temple-mount | site | Temple Mount (Mount Moriah/Zion) | Gen 22:2; 2 Sam 24:18-25; 1 Kgs 6; 2 Chr 3:1; Ps 2:6; Isa 2:2-4
+hezekiahs-tunnel | site | Hezekiah's Tunnel | 2 Kgs 20:20; 2 Chr 32:2-4, 30; Isa 22:9-11; Siloam pool
+samaria | site | Samaria (Sebaste) | 1 Kgs 16:24, 32; 22:39; 2 Kgs 17:5-6; Amos 3:15; 4:1; 6:1; Mic 1:6; ostraca; ivories
+megiddo | site | Megiddo | Josh 12:21; Judg 5:19; 1 Kgs 4:12; 9:15; 2 Kgs 9:27; 23:29-30; Zech 12:11; Rev 16:16 Armageddon; stables; water system; Shoshenq stele
+hazor | site | Hazor | Josh 11:1-13; Judg 4:2, 17; 1 Kgs 9:15; 2 Kgs 15:29; Mari mentions; destruction layer; Amarna
+gezer | site | Gezer | Josh 10:33; 16:10; Judg 1:29; 1 Kgs 9:15-17; Gezer calendar; standing stones; Merneptah Stele
+lachish | site | Lachish | Josh 10:31-35; 2 Kgs 14:19; 18:14, 17; 19:8; Jer 34:7; Mic 1:13; Neh 11:30; Lachish reliefs & letters; gate shrine
+dan | site | Tel Dan (Laish) | Gen 14:14; Judg 18; 1 Kgs 12:28-30; 15:20; 2 Kgs 10:29; Amos 8:14; Middle Bronze arched gate; high place; Tel Dan stele
+beersheba | site | Beersheba | Gen 21:22-33; 26:23-33; 46:1-5; 1 Sam 8:2; 1 Kgs 19:3; 2 Kgs 23:8; Amos 5:5; 8:14; horned altar
+arad | site | Arad | Num 21:1-3; 33:40; Josh 12:14; Judg 1:16; Arad temple; ostraca; Shoshenq list
+jericho | site | Jericho | Josh 2; 6; 1 Kgs 16:34; 2 Kgs 2:4-22; Garstang vs Kenyon; Neolithic tower; Luke 19:1-10; Herodian palaces
+ai | site | Ai (et-Tell) | Josh 7-8; Gen 12:8; Ezra 2:28; identification problem; Khirbet el-Maqatir debate
+shiloh | site | Shiloh | Josh 18:1; Judg 21:19-21; 1 Sam 1-4; Ps 78:60; Jer 7:12-14; 26:6-9
+shechem | site | Shechem (Tell Balata) | Gen 12:6-7; 33:18-20; 34; Josh 24; Judg 9; 1 Kgs 12:1, 25; John 4:5; migdal temple; Labayu
+bethel | site | Bethel | Gen 12:8; 28:10-22; 35:1-15; Judg 20:18-28; 1 Kgs 12:28-33; 13; 2 Kgs 23:15-20; Amos 3:14; 4:4; 7:10-13; Hos 10:5
+gibeon | site | Gibeon (el-Jib) | Josh 9; 10:1-14; 2 Sam 2:12-17; 21:1-14; 1 Kgs 3:4-15; Jer 28:1; 41:12; pool; jar handles
+mizpah | site | Mizpah (Tell en-Nasbeh) | Judg 20:1; 1 Sam 7:5-16; 10:17; 1 Kgs 15:22; Jer 40-41; Neh 3:7; Babylonian-period administrative center
+ramat-rahel | site | Ramat Raḥel | Jer 22:13-14 (disputed); royal palace; Persian administrative center; proto-Aeolic capitals; royal garden
+khirbet-qeiyafa | site | Khirbet Qeiyafa | 1 Sam 17:1-3 Elah valley; Josh 15:36 Shaaraim (disputed); Qeiyafa ostracon; shrine models; tenth-century debate
+tel-motza-temple | site | Tel Moẓa Temple | Iron IIA temple near Jerusalem; Josh 18:26; 2 Kgs 23:8 (Josiah); non-centralized worship
+mount-ebal-altar | site | Mount Ebal (el-Burnat) Structure | Deut 11:29; 27:1-8; Josh 8:30-35; Zertal's altar interpretation (disputed); "curse tablet" claims
+mount-gerizim | site | Mount Gerizim | Deut 11:29; 27:12; Josh 8:33; Judg 9:7; John 4:20-21; Samaritan temple; inscriptions
+kadesh-barnea | site | Kadesh-barnea | Num 13:26; 20:1-21; 32:8; Deut 1:46; Josh 14:6-7; Tell el-Qudeirat; Iron Age fortresses
+timna | site | Timna | Num 21:4-9 (copper snake); Egyptian Hathor shrine; Midianite tent shrine; Iron Age copper production; Gen 36:12, 22 (Timna as name)
+faynan | site | Faynan and Khirbet en-Naḥas | Edomite copper; 2 Sam 8:13-14; 1 Kgs 11:14-16; Gen 36; Deut 8:9; Punon Num 33:42-43
+kuntillet-ajrud | site | Kuntillet ʿAjrud | Iron IIA way station; Deut 33:2; Hab 3:3 Teman; 1 Kgs 22 (northern connection)
+dibon | site | Dibon (Dhiban) | Num 21:30; 32:3, 34; 33:45; Josh 13:9, 17; Isa 15:2; Jer 48:18, 22; Mesha stele findspot
+rabbah | site | Rabbah of the Ammonites (Amman) | Deut 3:11; 2 Sam 11:1; 12:26-31; Jer 49:2-3; Ezek 21:20; 25:5; Amos 1:14; Amman citadel
+bozrah | site | Bozrah (Buseirah) | Gen 36:33; Isa 34:6; 63:1; Jer 49:13, 22; Amos 1:12; Edomite capital
+petra-and-sela | site | Sela and Petra | 2 Kgs 14:7; Isa 16:1; 42:11; Obad 3; Jer 49:16; Nabataeans; Umm el-Biyara
+gath | site | Gath (Tell eṣ-Ṣafi) | Josh 11:22; 1 Sam 5:8; 17:4; 21:10-15; 27:2-12; 2 Kgs 12:17; Amos 6:2; Mic 1:10; Hazael siege trench; Goliath-like names inscription
+ekron | site | Ekron (Tel Miqne) | Josh 13:3; 15:45; 1 Sam 5:10; 6:16-17; 7:14; 2 Kgs 1:2-16; Amos 1:8; Zeph 2:4; Zech 9:5-7; olive oil industry
+ashkelon | site | Ashkelon | Judg 1:18; 14:19; 1 Sam 6:17; 2 Sam 1:20; Jer 25:20; 47:5-7; Amos 1:8; Zeph 2:4, 7; Zech 9:5; Philistine cemetery DNA; 604 BCE destruction
+ashdod | site | Ashdod | Josh 13:3; 1 Sam 5:1-7; Isa 20:1; Amos 1:8; 3:9; Neh 13:23-24; Zech 9:6; Acts 8:40; Sargon stele fragments
+gaza | site | Gaza | Gen 10:19; Judg 16:1-3, 21-30; 1 Sam 6:17; 2 Kgs 18:8; Amos 1:6-7; Zeph 2:4; Acts 8:26
+beth-shemesh | site | Beth-shemesh | Josh 15:10; 21:16; 1 Sam 6:9-21; 1 Kgs 4:9; 2 Kgs 14:11-13; 2 Chr 28:18
+beth-shean | site | Beth-shean | Josh 17:11-16; Judg 1:27; 1 Sam 31:10-12; 2 Sam 21:12; 1 Kgs 4:12; Egyptian garrison; Scythopolis
+tyre | site | Tyre | 2 Sam 5:11; 1 Kgs 5; 9:11-14; Isa 23; Ezek 26-28; Amos 1:9-10; Joel 3:4-8; Zech 9:2-4; Matt 11:21-22; Mark 7:24-31; Acts 21:3-7
+sidon | site | Sidon | Gen 10:15, 19; Judg 18:7, 28; 1 Kgs 5:6; 16:31; 17:9; Isa 23:2-4, 12; Ezek 28:20-23; Joel 3:4; Acts 27:3; Eshmun temple
+byblos | site | Byblos (Gebal) | Josh 13:5; 1 Kgs 5:18 [MT 5:32] Gebalites; Ezek 27:9; Wenamun; Ahiram; Amarna Rib-Hadda
+damascus | site | Damascus | Gen 14:15; 15:2; 2 Sam 8:5-6; 1 Kgs 11:24; 15:18; 20:34; 2 Kgs 5:12; 16:9-12; Isa 7:8; 17:1-3; Amos 1:3-5; Acts 9; 2 Cor 11:32
+hamath | site | Hamath | Num 34:8; 2 Sam 8:9-10; 2 Kgs 14:28; 17:24, 30; 18:34; Isa 10:9; 36:19; Amos 6:2, 14; Zakkur; Qarqar coalition
+ugarit | site | Ugarit (Ras Shamra) | Bronze Age port; tablets 1929-; Baal temple; destruction c. 1185; Ps 29
+mari | site | Mari (Tell Hariri) | Old Babylonian palace; archives; Zimri-Lim; prophecy texts
+ebla | site | Ebla (Tell Mardikh) | early claims about biblical names (Sodom, Gen 14) retracted; archives; caution case
+babylon | site | Babylon | Gen 10:10; 11:1-9; 2 Kgs 20:12-18; 24-25; Isa 13-14; 47; Jer 50-51; Dan 1-5; Ps 137; Rev 17-18
+nineveh | site | Nineveh | Gen 10:11-12; 2 Kgs 19:36; Jonah 1:2; 3:2-10; 4:11; Nah 1-3; Zeph 2:13-15; Matt 12:41; Sennacherib's palace
+nimrud | site | Nimrud (Calah) | Gen 10:11-12; Assyrian capital; Northwest Palace; ivories; Black Obelisk findspot
+ur | site | Ur | Gen 11:28, 31; 15:7; Neh 9:7; Royal Cemetery; ziggurat; "Ur of the Chaldeans" anachronism; Urfa alternative
+harran | site | Harran | Gen 11:31-32; 12:4-5; 27:43; 28:10; 29:4; 2 Kgs 19:12; Isa 37:12; Ezek 27:23; Acts 7:2-4; Sin temple; Nabonidus
+susa | site | Susa (Shushan) | Neh 1:1; Esth 1:2-5; 2:3-8; 3:15; Dan 8:2; Achaemenid palace; Darius's foundation charter
+persepolis | site | Persepolis | Ezra 7:12 "king of kings"; Esth 1:3-8 (Persian court setting); Apadana tribute reliefs; fortification & treasury tablets
+carchemish | site | Carchemish | 2 Chr 35:20; Isa 10:9; Jer 46:2; Neo-Hittite city; battle 605
+elephantine | site | Elephantine (Yeb) | Jer 44:1; 46:14; Isa 19:18-19 (disputed); Jewish garrison and temple of YHW
+qumran | site | Qumran | Dead Sea Scrolls caves; Essene hypothesis; Isa 40:3 (1QS 8:14); ritual baths
+masada | site | Masada | Herodian fortress; siege 73/74 CE; scrolls (Ben Sira, Songs of Sabbath Sacrifice)
+caesarea-maritima | site | Caesarea Maritima | Acts 8:40; 10; 12:19-23; 21:8; 23:23-26:32; Pilate stone; Herod's harbor
+capernaum | site | Capernaum | Matt 4:13; 8:5-17; 9:1; 11:23; Mark 1:21-34; 2:1-12; Luke 7:1-10; John 6:59; synagogue; Peter's house
+bethlehem | site | Bethlehem | Gen 35:19; 48:7; Ruth 1-4; 1 Sam 16:1-13; 17:12; Mic 5:2; Matt 2:1-16; Luke 2:4-15; bulla "Bethlehem"
+hebron | site | Hebron | Gen 13:18; 23; 35:27; Num 13:22; Josh 14:13-15; 2 Sam 2:1-4; 5:1-5; 15:7-10; LMLK; Machpelah enclosure
+jezreel | site | Jezreel | 1 Sam 29:1; 1 Kgs 18:45-46; 21; 2 Kgs 9:10-37; 10:1-11; Hos 1:4-5; royal enclosure
+tirzah | site | Tirzah (Tell el-Farʿah North) | Josh 12:24; 1 Kgs 14:17; 15:21, 33; 16:6-23; 2 Kgs 15:14-16; Song 6:4
+tarshish | site | Tarshish | Gen 10:4; 1 Kgs 10:22; 22:48; 2 Chr 9:21; Ps 48:7; 72:10; Isa 2:16; 23:1-14; 60:9; 66:19; Jer 10:9; Ezek 27:12, 25; Jonah 1:3; 4:2
+ophir | site | Ophir | Gen 10:29; 1 Kgs 9:28; 10:11; 22:48; 1 Chr 29:4; Job 22:24; 28:16; Ps 45:9; Isa 13:12; Tell Qasile ostracon
+sheba | people | Sheba (Saba) | 1 Kgs 10:1-13; 2 Chr 9:1-12; Job 1:15; 6:19; Ps 72:10, 15; Isa 60:6; Jer 6:20; Ezek 27:22-23; Matt 12:42; Sabaean inscriptions
+ararat-urartu | people | Ararat and Urartu | Gen 8:4; 2 Kgs 19:37; Isa 37:38; Jer 51:27
+canaanites | people | Canaanites | Gen 10:15-19; 12:6; 15:18-21; Exod 3:8; Deut 7:1-5; 20:17; Judg 1; Amarna; Ugarit; cultural continuity with Israel
+amorites | people | Amorites | Gen 10:16; 14:7, 13; 15:16; Num 21:21-35; Deut 3:8; Josh 10:5; 24:15; Ezek 16:3, 45; Amos 2:9-10; Amurru; Mari
+hittites-and-hethites | people | Hittites and the "Sons of Heth" | Gen 15:20; 23:3-20; 26:34; 27:46; 2 Sam 11:3; 1 Kgs 10:29; 11:1; 2 Kgs 7:6; Ezek 16:3, 45; Anatolian vs Neo-Hittite vs Canaanite group
+hurrians-and-horites | people | Hurrians, Horites, and Hivites | Gen 14:6; 36:20-30; Deut 2:12, 22; Hivites (disputed); Nuzi; Mitanni
+philistines | people | Philistines | Gen 21:32-34; 26:1-18; Judg 13-16; 1 Sam 4-7; 13:19-22; 17; 31; Amos 1:6-8; 9:7; Jer 47:4; Aegean origins; pentapolis; seranim
+sea-peoples | people | Sea Peoples | Amos 9:7; Jer 47:4; Deut 2:23 Caphtorim; Medinet Habu; Late Bronze collapse; Tjeker at Dor (Wenamun)
+arameans | people | Arameans | Gen 22:20-24; 24:10; 25:20; 28:5; 31:20, 47; Deut 26:5; 2 Sam 8:3-12; 10; 1 Kgs 20; 2 Kgs 5-8; 13; Amos 9:7
+moabites | people | Moab and the Moabites | Gen 19:30-38; Num 21-25; Deut 2:9-11; 23:3-6; Judg 3:12-30; Ruth; 2 Sam 8:2; 2 Kgs 3; Isa 15-16; Jer 48; Amos 2:1-3; Mesha
+ammonites | people | Ammon and the Ammonites | Gen 19:38; Deut 2:19, 37; 23:3-6; Judg 10-11; 1 Sam 11; 2 Sam 10-12; Jer 40:14; 49:1-6; Amos 1:13-15; Neh 2:10, 19; 4:3, 7
+edomites | people | Edom and the Edomites | Gen 25:30; 36; Num 20:14-21; Deut 2:4-8; 23:7-8; 2 Sam 8:13-14; 1 Kgs 11:14-22; 2 Kgs 8:20-22; 14:7; Obad; Ps 137:7; Mal 1:2-5; Idumea
+midianites-and-kenites | people | Midianites and Kenites | Gen 25:2; 37:28, 36; Exod 2:15-22; 3:1; 18; Num 10:29-32; 22:4; 25; 31; Judg 1:16; 4:11; 6-8; Qurayyah pottery; Kenite hypothesis
+amalekites | people | Amalekites | Gen 36:12, 16; Exod 17:8-16; Num 24:20; Deut 25:17-19; Judg 6:3; 1 Sam 15; 27:8; 30; 1 Chr 4:43; Esth 3:1 (Agagite)
+phoenicians | people | Phoenicians | 1 Kgs 5; 16:31; Ezek 26-28; Isa 23; Phoenician script and religion; colonies (Carthage)
+habiru | people | Habiru (ʿApiru) | Gen 14:13; 39:14; Exod 1:15-19; 2:6; 21:2; Deut 15:12; 1 Sam 4:6, 9; 13:3, 19; 14:11, 21; Amarna; Hebrew/ʿibrî relation debated
+shasu | people | Shasu | Soleb & Amarah West "Shasu of YHW"; Papyrus Anastasi VI; Seir/Edom; Deut 33:2; Judg 5:4
+qedarites-and-arabs | people | Qedar and the Arabs | Gen 25:13; Isa 21:13-17; 42:11; 60:7; Jer 2:10; 49:28-33; Ezek 27:21; Ps 120:5; Neh 2:19; 6:1-6 Geshem; Assyrian Arab queens
+assyria | people | Assyria (Neo-Assyrian Empire) | 2 Kgs 15-21; Isa 7-10; 10:5-19; 36-37; Nah; Jonah; Hos; Zeph 2:13-15; Gen 10:11-12
+babylonia | people | Babylonia and the Chaldeans (Neo-Babylonian Empire) | 2 Kgs 20; 24-25; Jer 21-52; Hab 1:6-11; Isa 13-14; 39; 46-47; Dan 1-5; Ezek
+persia | people | Persia (Achaemenid Empire) | Ezra 1-10; Neh; Esth; Dan 6; 10-11; Isa 44:28-45:7; Hag; Zech 1-8; Persian imperial policy
+medes | people | Medes | 2 Kgs 17:6; 18:11; Isa 13:17; 21:2; Jer 25:25; 51:11, 28; Dan 5:28-31; 6:8-15; 8:20; Esth 1:3-19; Ecbatana Ezra 6:2
+
+ezion-geber | site | Ezion-geber (Tell el-Kheleifeh) | Num 33:35-36; Deut 2:8; 1 Kgs 9:26-28; 22:48; 2 Chr 8:17-18; 20:36-37; Glueck's "smelter" discredited
+dor | site | Dor (Tel Dor) | Josh 11:2; 12:23; 17:11; Judg 1:27; 1 Kgs 4:11; Wenamun Tjeker; Assyrian province Duru; purple dye
+azekah | site | Azekah (Tel ʿAzeqa) | Josh 10:10-11; 15:35; 1 Sam 17:1; 2 Chr 11:9; Jer 34:7; Neh 11:30; Lachish Letter 4; Azekah inscription of Sennacherib
+khirbet-ataruz | site | Ataroth (Khirbat Ataruz) | Num 32:3, 34; Mesha Stele lines 10-13; Moabite temple; Ataruz altar inscriptions
+geshur | people | Geshur, Maacah, and the Aramean Golan | Deut 3:14; Josh 12:5; 13:11-13; 2 Sam 3:3; 13:37-38; 15:8; et-Tell/Bethsaida
+## persian-hellenistic-nt
+cyrus-cylinder | artifact | Cyrus Cylinder | Ezra 1:1-4; 6:3-5; 2 Chr 36:22-23; Isa 44:28-45:7; return of gods & peoples; Marduk chose Cyrus
+behistun-inscription | artifact | Behistun Inscription | Darius I; Ezra 4:24-6:15; Hag 1:1; Zech 1:1; Aramaic copy at Elephantine; Esth 1:22 (multilingual edicts)
+elephantine-papyri | text | Elephantine Papyri and Ostraca | Jer 44:1; 46:14; Neh 2:10, 19; 12:22; Ezra 4:7-23 letter forms; marriage & legal contracts; Anat-Yahu; sabbath ostraca
+elephantine-temple-petition | artifact | Elephantine Temple Petition (Request to Bagavahya) | Neh 2:10; 4:1; 12:22-23; 13:28; Ezra 6:3-12; Deut 12; Sanballat's sons; Johanan
+elephantine-passover-letter | artifact | Elephantine "Passover Letter" | Exod 12:15-20; Lev 23:5-8; Deut 16:1-8; Ezra 6:19-22; 2 Chr 30; Darius II authorization (disputed)
+persepolis-fortification-tablets | text | Persepolis Fortification and Treasury Tablets | Neh 2:7-9 travel letters; Esth 3:12-15; 8:9-14 royal post; rations; Persian administration
+tattenai-tablet | artifact | Tattannu (Tattenai) Tablet | Ezra 5:3, 6; 6:6, 13; governor of Beyond the River
+samaria-papyri | text | Samaria Papyri (Wadi Daliyeh) | Neh 2:10, 19; 4:1-2; 13:28; Sanballat dynasty; slave sale deeds; Alexander 332
+yehud-seals-and-coins | realia | Yehud Stamp Impressions and Coins | Ezra 5:8; Neh 5:14-15; 12:26; Hag 1:1, 14; Mal 1:8 (governor); yhwd, yhwd phw', Yehezqiyah coins
+udjahorresnet-statue | artifact | Naophorous Statue of Udjahorresnet | Ezra 7:12-26; Neh 2:1-8; Persian-sponsored local cult restoration; Cambyses & Darius
+persian-imperial-authorization | concept | Persian Imperial Authorization (Reichsautorisation) | Ezra 7:12-26; Esth 1:19; 8:8; Dan 6:8, 12, 15; Letoon trilingual; Demotic Chronicle (codification of Egyptian law); Frei's thesis (disputed)
+marduka-tablet | artifact | Marduka Tablet | Esth 2:5 Mordecai (disputed); Persepolis Fortification texts; court officials
+zoroastrianism | concept | Zoroastrianism and Persian Religion | Isa 45:7 (disputed polemic); Dan 7-12; Dan 12:2; angelology; Ahura Mazda; Behistun; dualism debate
+darius-the-mede | concept | Darius the Mede | Dan 5:31 [MT 6:1]; 6; 9:1; 11:1; identification proposals (Gubaru, Cyrus, Cyaxares, literary figure)
+four-kingdoms-schema | concept | The Four Kingdoms Schema | Dan 2:31-45; 7:1-27; Hesiod's metal ages; Zand-i Wahman Yasn; Sib. Or. 4; Dynastic Prophecy
+composite-beasts-daniel | concept | Composite Beasts in Daniel and Mesopotamian Iconography | Dan 7:1-8; 8:1-14; Šumma izbu birth omens; Ishtar Gate mušḫuššu; winged lions
+cyrus-the-great | person | Cyrus II (the Great) | Isa 44:28-45:7; Ezra 1:1-11; 4:3-5; 5:13-17; 6:3-5; 2 Chr 36:22-23; Dan 1:21; 6:28; 10:1
+darius-i | person | Darius I | Ezra 4:5, 24; 5-6; Hag 1:1; 2:10; Zech 1:1, 7; 7:1; Behistun
+xerxes-i | person | Xerxes I (Ahasuerus) | Esth 1-10; Ezra 4:6; Dan 9:1 (father of Darius the Mede); Herodotus
+artaxerxes-i | person | Artaxerxes I | Ezra 4:7-23; 7:1-26; 8:1; Neh 2:1-8; 5:14; 13:6; Ezra-Nehemiah chronology debate
+sanballat | person | Sanballat | Neh 2:10, 19; 4:1-8; 6:1-14; 13:28; Elephantine petition; Wadi Daliyeh bulla
+dead-sea-scrolls | text | Dead Sea Scrolls | Isa 40:3; biblical text history; sectarian texts; 1947-56 discoveries; hub
+great-isaiah-scroll | artifact | Great Isaiah Scroll (1QIsaᵃ) | Isa 1-66; textual history; scribal corrections; Isa 53:11 "light" (LXX agreement)
+4qdeut-j | artifact | 4QDeuteronomyʲ and Deuteronomy 32:8 | Deut 32:8-9 "sons of God" vs MT "sons of Israel"; LXX; Ps 82; divine council
+nash-papyrus | artifact | Nash Papyrus | Exod 20:2-17; Deut 5:6-21; Deut 6:4-5; liturgical text; pre-DSS oldest Hebrew biblical text
+community-rule | artifact | Community Rule (1QS) | Isa 40:3 (1QS 8:13-16); two spirits; Acts 2:44-45; 4:32-35; Matt 18:15-17
+pesher-habakkuk | artifact | Pesher Habakkuk (1QpHab) | Hab 1-2; Teacher of Righteousness; Wicked Priest; Kittim = Romans; Hab 2:4
+war-scroll | artifact | War Scroll (1QM) | Num 2; 10:1-10; Dan 11:40-12:3; Ezek 38-39; sons of light vs darkness
+temple-scroll | artifact | Temple Scroll (11QTᵃ) | Exod 25-40; Deut 12-26; Deut 17:14-20 Law of the King; Ezek 40-48
+genesis-apocryphon | artifact | Genesis Apocryphon (1QapGen) | Gen 5-15; Gen 12:10-20 Sarai's beauty; Gen 14; rewritten Bible
+prayer-of-nabonidus | artifact | Prayer of Nabonidus (4Q242) | Dan 4; Nabonidus at Tayma; Jewish exorcist
+septuagint | text | Septuagint | Isa 7:14; Deut 32:8, 43; Jer (shorter text); Letter of Aristeas; Matt 1:23; Acts 15:16-18
+letter-of-aristeas | text | Letter of Aristeas | origins of LXX; Ptolemy II; Neh 8 (public reading); Exod 24:7
+first-enoch | text | 1 Enoch | Gen 5:21-24; 6:1-4; Jude 14-15; 1 Pet 3:19-20; 2 Pet 2:4; Dan 7; Book of Watchers; Similitudes Son of Man
+jubilees | text | Book of Jubilees | Gen 1-Exod 12; 364-day calendar; Sabbath laws Jub 2; 50; heavenly tablets
+josephus | text | Josephus | Antiquities; Jewish War; Against Apion; John the Baptist Mark 6:17-29; James Acts 15; Testimonium; Pharisees etc.
+antiochus-iv | person | Antiochus IV Epiphanes | Dan 7:8, 24-25; 8:9-14, 23-25; 9:27; 11:21-45; 1 Macc 1; 2 Macc 4-9; abomination of desolation Mark 13:14
+maccabean-revolt | event | Maccabean Revolt | 1 Macc 1-9; 2 Macc 4-15; Dan 11:31-35; John 10:22 Hanukkah; Heb 11:35
+heliodorus-stele | artifact | Heliodorus Stele | 2 Macc 3; Seleucus IV; Olympiodoros; temple oversight
+herod-the-great | person | Herod the Great | Matt 2:1-22; Luke 1:5; Josephus; building projects; Herodium tomb
+herods-temple | site | Herod's Temple | Mark 11:15-17; 13:1-2; John 2:20; Luke 1:8-23; Acts 3:1-11; 21:26-30; Josephus Ant. 15.380-425
+temple-warning-inscription | artifact | Temple Warning Inscription | Acts 21:27-30; Eph 2:14; Josephus War 5.193-194; Gentiles barred from inner courts
+trumpeting-place-inscription | artifact | Trumpeting-Place Inscription | Num 10:10; Matt 4:5; 6:2 (disputed); Josephus War 4.582
+theodotos-inscription | artifact | Theodotos Inscription | Acts 6:9 Synagogue of the Freedmen (disputed); pre-70 synagogue; Luke 4:16-21
+magdala-stone | artifact | Magdala Stone and Synagogue | Mark 1:21, 39; Luke 4:44; Mary Magdalene Luke 8:2; menorah depiction
+pilate-stone | artifact | Pilate Stone | Luke 3:1; Matt 27:2, 11-26; John 18:28-19:16; Acts 4:27; prefect title; Tiberieum
+caiaphas-ossuary | artifact | Caiaphas Ossuary | Matt 26:3, 57; John 11:49-53; 18:13-14, 24; Acts 4:6; Joseph son of Caiaphas
+ossuaries | realia | Ossuaries and Secondary Burial | Matt 23:27; 27:57-60; John 11:38-44; 19:41; Acts 2:29; "gathered to fathers" 2 Kgs 22:20
+crucifixion | practice | Crucifixion | Deut 21:22-23; Gal 3:13; Mark 15:21-37; John 19:17-37; Yehohanan heel bone; Josephus; Roman practice
+stone-vessels-and-mikvaot | realia | Stone Vessels and Ritual Baths (Miqva'ot) | John 2:6; Mark 7:1-5; Lev 11:33; 15; Qumran and Jerusalem miqva'ot
+baptism | practice | Baptism | Mark 1:4-11; Luke 3:7-16; John 1:25-33; 3:22-4:2; Acts 2:38-41; 19:1-7; Rom 6:3-4; Lev 15; 2 Kgs 5:14; Ezek 36:25; John the Baptist; Josephus Ant. 18.116-119; 1QS 3:4-9; proselyte immersion (disputed date)
+synagogues | realia | Synagogues in the Late Second Temple Period | Luke 4:16-30; 7:5; Acts 6:9; 13:14-15; 15:21; Mark 1:21; Theodotos; Gamla; Magdala
+galilee-boat | artifact | Galilee Boat ("Jesus Boat") | Mark 1:16-20; 4:35-41; Luke 5:1-11; John 21:1-11; first-century fishing boat
+pool-of-siloam | site | Pool of Siloam | John 9:7; Isa 8:6; 22:9-11; Neh 3:15; 2 Kgs 20:20; 2004 discovery; stepped pilgrimage road
+pool-of-bethesda | site | Pool of Bethesda | John 5:2-9; twin pools; Asclepius healing cult (disputed)
+arch-of-titus | artifact | Arch of Titus | Matt 24:1-2; Mark 13:1-2; Luke 19:41-44; 21:20-24; menorah & table spoils; 70 CE
+judaea-capta-coins | realia | Judaea Capta Coins | Luke 21:24; Rev 17-18; Roman victory propaganda; Isa 3:26 (mourning woman Zion)
+gallio-inscription | artifact | Gallio (Delphi) Inscription | Acts 18:12-17; Pauline chronology anchor c. 51-52 CE
+erastus-inscription | artifact | Erastus Inscription (Corinth) | Rom 16:23; Acts 19:22; 2 Tim 4:20; aedile; identification debated
+politarch-inscriptions | text | Politarch Inscriptions (Thessalonica) | Acts 17:6, 8; Luke's accuracy on titles
+nazareth-inscription | artifact | Nazareth Inscription | grave-robbery edict; Matt 28:11-15 (disputed); Claudius; provenance
+priene-calendar-inscription | artifact | Priene Calendar Inscription | Augustus "good news" (euangelia) Mark 1:1; Luke 2:10-11; "savior"; imperial gospel
+res-gestae | text | Res Gestae Divi Augusti | Luke 2:1 census decree; pax Augusta; imperial ideology
+census-of-quirinius | event | Census of Quirinius | Luke 2:1-5; Acts 5:37; Josephus Ant. 18.1-3; dating problem
+imperial-cult | practice | Roman Imperial Cult | Rev 2:13; 13:4-18; 14:9-11; Acts 12:21-23; 17:7; Mark 12:13-17; Pergamon; Ephesus
+temple-of-artemis-ephesus | site | Ephesus and the Temple of Artemis | Acts 19:23-41; 1 Cor 15:32; Eph; Rev 2:1-7; theatre; silver shrines
+pergamon | site | Pergamon | Rev 2:12-17 "throne of Satan"; Altar of Zeus (disputed identification); Asclepius; imperial temple
+corinth | site | Corinth | Acts 18:1-18; 1 Cor; 2 Cor; Rom 16:23; Erastus; bema; Isthmian games 1 Cor 9:24-27; meat market 1 Cor 10:25
+laodicea | site | Laodicea | Rev 3:14-22 lukewarm water; Col 2:1; 4:13-16; water pipes; wealth & eye salve
+nabataeans | people | Nabataeans and King Aretas IV | 2 Cor 11:32-33; Acts 9:23-25; Petra; Herod Antipas' divorce
+jewish-sects | concept | Pharisees, Sadducees, and Essenes | Matt 3:7; 16:1-12; 22:23-34; Mark 7:1-13; Acts 23:6-8; Josephus Ant. 18.11-25; War 2.119-166; Qumran
+messianic-expectations | concept | Messianic Expectations in Second Temple Judaism | Ps 2; Isa 11:1-9; Dan 7:13-14; Mark 8:27-30; Psalms of Solomon 17; 4Q521; two messiahs (1QS 9:11)
+first-jewish-revolt | event | First Jewish Revolt and the Destruction of Jerusalem (66–73 CE) | Mark 13:1-2, 14; Luke 19:41-44; 21:20-24; Josephus War; Arch of Titus; Masada
+hasmoneans | people | Hasmonean Dynasty | 1 Macc 2-16; 2 Macc; Dan 11:34 "little help"; John 10:22; Josephus Ant. 12-14
+herod-antipas | person | Herod Antipas | Mark 6:14-29; Luke 3:1, 19-20; 13:31-32; 23:6-12; Acts 4:27; Tiberias; Sepphoris; coins
+pontius-pilate | person | Pontius Pilate | Matt 27; Mark 15; Luke 3:1; 13:1; 23; John 18-19; Acts 3:13; 1 Tim 6:13; Pilate stone; Philo; Josephus; coins
+damascus-document | text | Damascus Document (CD) | Cairo Genizah and Qumran copies; Sabbath laws CD 10-11; Num 21:18 well midrash; Amos 5:26-27; Isa 24:17
+psalms-of-solomon | text | Psalms of Solomon | Pss. Sol. 17-18 Davidic messiah; Pompey 63 BCE; Ps 2; Isa 11
+ben-sira | text | Wisdom of Ben Sira | Sir; Hebrew manuscripts (Cairo Genizah, Masada, Qumran); Prov; Sir 44-50 praise of fathers; Sir 24 wisdom & Torah
+jewish-revolt-coinage | realia | Coins of the Jewish Revolts | 66-70 CE and 132-135 CE silver shekels; "Jerusalem the holy"; "freedom of Zion"; paleo-Hebrew script
+tyrian-shekel | realia | Tyrian Shekel and the Temple Tax | Matt 17:24-27; 21:12; 26:15; Exod 30:13-16; Neh 10:32; Melqart obverse

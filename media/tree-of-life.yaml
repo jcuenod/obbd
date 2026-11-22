@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: tree-of-life
+file: tree-of-life.jpg
+title: Assyrian protective spirits with a sacred tree.jpg
+caption: >-
+  Winged protective spirits flanking a sacred tree, relief from Nimrud, 865–860 BCE (British
+  Museum).
+description: Assyrian protective spirits with a sacred tree. 865 - 860 BCE. The British Museum.
+creator: Sanjar Alimov (maxergon.com)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Sanjar Alimov (maxergon.com), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Assyrian_protective_spirits_with_a_sacred_tree.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/b9/Assyrian_protective_spirits_with_a_sacred_tree.jpg
+  sha1: 06fd977fec77a59dec640d5ccaddffb14c53d5f9
+  original_size: [3420, 2248]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1052 px
+size: [1600, 1052]
+depicts: [assyrian-sacred-tree, tree-of-life]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

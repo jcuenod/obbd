@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: qumran-2
+file: qumran-2.jpg
+title: Khirbet Qumrān 2.jpg
+caption: Stone walls of the excavated settlement at Khirbet Qumran.
+description: null
+creator: null
+credit_line: null
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: http://creativecommons.org/licenses/by-sa/3.0/
+attribution: Unknown author, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Khirbet_Qumr%C4%81n_2.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/5/56/Khirbet_Qumr%C4%81n_2.jpg
+  sha1: 27011d6cdd9c163885c90d2e0ce12c724e68c2f2
+  original_size: [2288, 1712]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1198 px
+size: [1600, 1198]
+depicts: [qumran]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

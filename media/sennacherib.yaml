@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: sennacherib
+file: sennacherib.jpg
+title: Capture of Lachish - Sennacherib.jpg
+caption: >-
+  Sennacherib enthroned receiving the surrender of Lachish, relief from the South-West Palace
+  at Nineveh, 700–692 BCE (British Museum, London).
+description: >-
+  Bas-relief from the south-west palace of Nineveh, on the taking of Lachish. After the capture
+  of the city: King Sennacherib on his throne contemplates the procession of prisoners and
+  receives respects from his soldiers and the defeated. He is accompanied by servants, and
+  behind him is his tent. His face was deliberately slashed when Nineveh was taken in 612
+  BC. Panels 11-13 from Room XXXVI, c. 700-692 BC.
+creator: Zunkir
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Zunkir, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Capture_of_Lachish_-_Sennacherib.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/7/7a/Capture_of_Lachish_-_Sennacherib.jpg
+  sha1: 79b1f932b59e2284d78b38166f84983aea997d88
+  original_size: [6000, 4000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [lachish-reliefs, sennacherib]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

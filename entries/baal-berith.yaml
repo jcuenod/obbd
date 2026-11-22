@@ -1,0 +1,59 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: baal-berith
+title: Baal-berith / El-berith
+aliases: [El-berith, Baal of the Covenant]
+type: deity
+cultures: [canaanite, israelite]
+scope: >-
+  Baal-berith ("Lord of the covenant"), also El-berith, the god of Shechem whose temple funded
+  Abimelech's rise and served as the citizens' stronghold in Judges 9.
+passages:
+- ref: Judg 8:33
+  rel: attests
+  note: Israel makes Baal-berith its god after Gideon's death
+- ref: Judg 9:4
+  rel: attests
+  note: Seventy shekels from the house of Baal-berith fund Abimelech
+- ref: Judg 9:46
+  rel: attests
+  note: Stronghold of the temple of El-berith at Shechem
+- ref: Judg 9:27
+  rel: practice
+  note: Vintage festival in the house of their god at Shechem
+- ref: Josh 24:25-27
+  rel: concept
+  note: Covenant-making at Shechem with a standing stone
+- ref: Gen 33:18-20
+  rel: language
+  note: Jacob's altar El-Elohe-Israel at Shechem
+related: [shechem, covenant-and-treaty-form, oaths-and-oath-formulas, el, baal]
+media: []
+external:
+  wikipedia: Baal Berith
+  wikidata: Q1757445
+editorial:
+  author_notes:
+  - >-
+    Debate whether "berith" names a treaty-guaranteeing deity of a Shechemite league (Clements),
+    whether El- and Baal- forms are variants of one god, and how this relates to Israelite
+    covenant traditions at Shechem (T. J. Lewis, JBL 115, 1996).
+  - >-
+    The identification of the temple with the Middle and Late Bronze "fortress temple" (migdal)
+    excavated at Shechem is common but debated.
+  sources_to_check:
+  - T. J. Lewis, "The Identity and Function of El/Baal Berith," JBL 115 (1996)
+  - DDD, s.v. "Baal-berith"
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: gibeon-2
+file: gibeon-2.png
+title: Gibeon.png
+caption: El-Jib, the site of Gibeon, seen from Nabi Samwil.
+description: Gibeon as seen from Nabi Samwil
+creator: Natritmeyer
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Natritmeyer, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Gibeon.png
+  original_url: https://upload.wikimedia.org/wikipedia/commons/2/25/Gibeon.png
+  sha1: 5f04576871fbcb81774f66049cbbbe9c452e5dbd
+  original_size: [2130, 1256]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×943 px
+size: [1600, 943]
+depicts: [gibeon]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,96 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: enuma-elish
+title: Enuma Elish
+aliases: [Babylonian Epic of Creation, When on High]
+type: text
+cultures: [babylonian]
+date:
+  from: -1400
+  to: -1100
+  circa: true
+  display: c. 1400–1100 BCE
+scope: >-
+  The seven-tablet Babylonian epic of Marduk's victory over Tiamat (the primeval sea), his
+  creation of the ordered cosmos from her body, the making of humans, and the building of
+  Babylon. It was recited at the New Year (akītu) festival and is the classic text for the
+  "chaos combat" background of biblical creation imagery.
+passages:
+- ref: Gen 1:2
+  rel: language
+  note: Hebrew tĕhôm cognate with Tiamat (tiāmtum, 'sea'), though not a deity in Genesis
+- ref: Gen 1:6-8
+  rel: concept
+  note: Marduk splits Tiamat to make sky and earth, barring her waters; cf. the firmament
+- ref: Gen 1:14-18
+  rel: concept
+  note: Marduk sets up stars, moon, and calendar after his victory (Tablet V)
+- ref: Gen 1:26-27
+  rel: concept
+  note: Humans made from rebel god Qingu's blood to bear the gods' labour; contrast Gen 1
+- ref: Job 38:8-11
+  rel: concept
+  note: Sea confined by bars and doors; Marduk posts guards so her waters cannot escape
+- ref: Ps 74:12-17
+  rel: imagery
+  note: God's victory over sea and dragons tied to ordering day, night, and seasons
+- ref: Ps 89:9-12
+  rel: imagery
+  note: Ruling the raging sea, crushing Rahab, founding heaven and earth (MT 89:10-13)
+- ref: Job 26:12-13
+  rel: imagery
+  note: God stills the sea, strikes Rahab; his wind clears the heavens
+- ref: Isa 51:9-10
+  rel: imagery
+  note: YHWH's arm cut Rahab, pierced the dragon, and dried up the sea
+- ref: Gen 11:3-4
+  rel: parallel
+  disputed: true
+  note: Gods mould bricks for a year to build Babylon and Esagil (Tablet VI)
+related: [chaoskampf, tehom, creation-accounts, marduk, akitu-festival, firmament, rahab-sea-monster,
+  tablet-of-destinies]
+media:
+- id: enuma-elish
+  role: primary
+external:
+  wikipedia: Enūma Eliš
+  wikidata: Q206063
+editorial:
+  author_notes:
+  - >-
+    Gunkel's Schöpfung und Chaos (1895) and the Babel-Bible controversy made Enuma Elish central
+    to Genesis study; since Heidel (1951) and Lambert (1965) most scholars caution against
+    reading Gen 1 as an adaptation of it. Lambert argued the sea-combat motif may be West
+    Semitic in origin (cf. the Baal cycle and the Mari letter on Adad's weapons against the
+    Sea).
+  - >-
+    Real points of contact: tĕhôm/tiāmtum (a shared Semitic word, not a borrowed divine name;
+    Tsumura), the division of waters to form sky and earth, and the setting of celestial bodies.
+    Combat-myth language is much stronger in the Psalms, Job, and Isaiah than in Gen 1.
+  - >-
+    Date of composition is debated (Old Babylonian, Kassite, or the reign of Nebuchadnezzar
+    I, c. 1100, favoured by Lambert); almost all copies are first-millennium. An Assyrian
+    version substitutes Ashur for Marduk.
+  - >-
+    Popular claims that the seven tablets mirror the seven days of Gen 1 should be treated
+    as coincidence, not evidence.
+  sources_to_check:
+  - W. G. Lambert, Babylonian Creation Myths (2013)
+  - P. Talon, The Standard Babylonian Creation Myth Enūma Eliš (SAACT 4, 2005)
+  - COS 1.111
+  - ANET 60-72, 501-503
+  - A. Heidel, The Babylonian Genesis (2nd ed., 1951)
+  image_query: Enuma Elish tablet British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ai
+file: ai.jpg
+title: Et-Tell (Ai) ruins.jpg
+caption: Ruins at et-Tell near Ramallah, the site usually identified with biblical Ai.
+description: The ruins of Et-Tell near Ramallah, though to be of the Biblical city of Ai.
+creator: Alex Ostrovski
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Alex Ostrovski, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Et-Tell_(Ai)_ruins.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/6/6e/Et-Tell_%28Ai%29_ruins.jpg
+  sha1: ceb63f9b6fa0cf4905c7ae4a02774bd13b1939d7
+  original_size: [2762, 2318]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1343 px
+size: [1600, 1343]
+depicts: [ai]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

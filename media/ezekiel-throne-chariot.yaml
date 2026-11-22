@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ezekiel-throne-chariot
+file: ezekiel-throne-chariot.jpg
+title: Wall relief depicting the God Ashur (Assur) from Nimrud..JPG
+caption: >-
+  The god Ashur within a winged disc, with the hands of Ashurnasirpal II raised in worship
+  below, wall relief from the North-West Palace of Ashurnasirpal II at Nimrud, 865–850 BCE
+  (British Museum).
+description: >-
+  A close-up view of a wall relief depicting the God Ashur (Assur) inside a winged- disc.
+  The hands of Ashurnasirpal II partially appear (who makes a gesture of worship to the God
+  Ashur). From the North-West Palace of Ashurnasirpal II at Nimrud (Biblical Calah; ancient
+  Kalhu), modern day Ninawa Governorate, Iraq (Mesopotamia). Neo-Assyrian period, 865-850
+  BCE. The British Museum, London.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Wall_relief_depicting_the_God_Ashur_(Assur)_from_Nimrud..JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/ba/Wall_relief_depicting_the_God_Ashur_%28Assur%29_from_Nimrud..JPG
+  sha1: d970cd52e8538eabd07d48181aee1e49a796b6b3
+  original_size: [4288, 2848]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1063 px
+size: [1600, 1063]
+depicts: [ezekiel-throne-chariot]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ashurbanipal
+title: Ashurbanipal (Osnappar)
+aliases: [Osnappar, Asnappar]
+type: person
+cultures: [assyrian]
+date:
+  from: -669
+  to: -631
+  circa: true
+  display: c. 669–631 BCE
+scope: >-
+  The last great king of Assyria, son of Esarhaddon, who sacked Thebes, defeated his brother
+  Shamash-shum-ukin of Babylon and destroyed Susa. He is usually identified with Osnappar
+  of Ezra 4:10 and is known for his library and palace reliefs at Nineveh.
+passages:
+- ref: Ezra 4:9-10
+  rel: attests
+  note: '''The great and noble Osnappar'' deported peoples including Susians and Elamites'
+- ref: Nah 3:8-10
+  rel: event
+  note: Sack of Thebes (663) as a warning to Nineveh
+- ref: 2Kgs 21:1
+  rel: attests
+  note: Manasseh of Judah, listed among Ashurbanipal's western vassals (Prism C)
+- ref: 2Chr 33:10-13
+  rel: setting
+  disputed: true
+  note: Manasseh taken to Babylon; possibly linked to the Babylonian revolt (652-648)
+related: [rassam-cylinder, library-of-ashurbanipal, lion-hunt-of-ashurbanipal, nineveh, thebes,
+  susa, manasseh, esarhaddon]
+media:
+- id: ashurbanipal
+  role: primary
+external:
+  wikipedia: Ashurbanipal
+  wikidata: Q171191
+editorial:
+  author_notes:
+  - >-
+    The end of his reign is uncertain (631 or 627); explain why the last years are poorly
+    documented.
+  - >-
+    The Osnappar identification is the consensus view but rests on the name's corruption and
+    the deportation context.
+  - >-
+    Ashurbanipal claimed scribal learning; do not overstate his personal literacy, but his
+    inscriptions are unusual in claiming it.
+  - >-
+    Manasseh's captivity in Chronicles has no Assyrian confirmation and is often seen as theologically
+    motivated; present it as debated.
+  sources_to_check: [RINAP 5/1 (Novotny and Jeffers 2018), 'Frame, Babylonia 689-627 B.C.
+      (1992)']
+  image_query: Ashurbanipal relief British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: 2Kgs 21:1 rel setting to attests; note cites Manasseh
+    in Prism C
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

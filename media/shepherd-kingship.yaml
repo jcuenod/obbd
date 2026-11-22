@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: shepherd-kingship
+file: shepherd-kingship.jpg
+title: Crook, flail, and sekhem.jpg
+caption: >-
+  Crook, flail and sekhem sceptre from the tomb of Tutankhamun, 14th century BCE; the crook
+  is the shepherd's staff as royal insignia.
+description: >-
+  A flail, a crook, and a sekhem scepter from the tomb of Tutankhamun. Eighteenth Dynasty,
+  14th century BC.
+creator: A. Parrot
+credit_line: Own work
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: A. Parrot. CC0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Crook,_flail,_and_sekhem.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/b/ba/Crook%2C_flail%2C_and_sekhem.jpg
+  sha1: ad6ebdb37b620a18ed816bd856812cae5d73af68
+  original_size: [3204, 1785]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×892 px
+size: [1600, 892]
+depicts: [shepherd-kingship]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

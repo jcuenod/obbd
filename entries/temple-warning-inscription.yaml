@@ -1,0 +1,85 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: temple-warning-inscription
+title: Temple Warning Inscription
+aliases: [Soreg inscription]
+type: artifact
+cultures: [jewish, greek]
+date:
+  from: -20
+  to: 70
+  circa: true
+  display: c. 20 BCE–70 CE
+scope: >-
+  Greek inscriptions from the balustrade (soreg) around the inner courts of Herod's temple,
+  warning that any foreigner who passed it would be responsible for his own death. One complete
+  copy (found 1871) and one fragmentary copy (found 1935) survive.
+passages:
+- ref: Acts 21:27-30
+  rel: practice
+  note: Paul accused of bringing Greeks into the temple and defiling it
+- ref: Acts 24:6
+  rel: practice
+  note: Charge of attempting to profane the temple
+- ref: Eph 2:14
+  rel: imagery
+  disputed: true
+  note: '''Dividing wall of hostility'' possibly alluding to the balustrade'
+- ref: Ezek 44:9
+  rel: concept
+  note: No foreigner uncircumcised in heart and flesh shall enter the sanctuary
+- ref: Lam 1:10
+  rel: concept
+  note: Nations forbidden to enter the congregation
+- ref: Mark 11:17
+  rel: concept
+  note: '''House of prayer for all the nations'', spoken in the court open to Gentiles'
+related: [herods-temple, temple-mount, josephus, purity-and-impurity, trumpeting-place-inscription,
+  jerusalem]
+location:
+  institution: >-
+    Istanbul Archaeology Museums (complete copy); Israel Museum, Jerusalem (fragmentary copy)
+  accession: null
+media:
+- id: temple-warning-inscription
+  role: primary
+- id: temple-warning-inscription-2
+  role: gallery
+external:
+  wikipedia: Temple Warning inscription
+  wikidata: Q16934222
+editorial:
+  author_notes:
+  - >-
+    Give the text and compare Josephus (War 5.193-194; 6.124-126; Ant. 15.417) and Philo (Legat.
+    212). Josephus says such notices were in Greek and Latin.
+  - >-
+    Debate: whether the warning implies Jewish capital jurisdiction (cf. John 18:31) or lynching/divine
+    penalty.
+  - >-
+    The Eph 2:14 link is popular but uncertain. The metaphor need not refer to the physical
+    balustrade, and Ephesians' date and authorship bear on it.
+  sources_to_check:
+  - OGIS 598
+  - 'Corpus Inscriptionum Iudaeae/Palaestinae, vol. 1: Jerusalem (2010-2012)'
+  image_query: Temple warning inscription Istanbul Archaeology Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+- date: '2026-11-21'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Image temple-warning-inscription-2: replaced GFDL-only File:Samuel and Saidye Bronfman
+    Archaeology WingDSCN5007.JPG with Jerusalem Temple Warning Inscription fragment.jpg (CC
+    BY-SA 2.0). GFDL is no longer accepted.

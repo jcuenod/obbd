@@ -1,0 +1,66 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: sanballat
+title: Sanballat
+aliases: [Sanballat the Horonite]
+type: person
+cultures: [persian, hebrew]
+date:
+  from: -445
+  to: -407
+  circa: true
+  display: c. 445–407 BCE
+scope: >-
+  Sanballat (Akkadian Sin-uballiṭ), governor of Samaria and Nehemiah's leading opponent. He
+  is attested in the Elephantine petition of 407 BCE as father of Delaiah and Shelemiah, and
+  his family's continued rule is reflected in the Wadi Daliyeh papyri.
+passages:
+- ref: Neh 2:10, 19
+  rel: attests
+  note: Sanballat the Horonite opposes Nehemiah's mission
+- ref: Neh 4:1-8
+  rel: attests
+  note: Sanballat mocks the wall-building before the army of Samaria (MT 3:33-4:2)
+- ref: Neh 6:1-14
+  rel: attests
+  note: Plots and an open letter against Nehemiah
+- ref: Neh 13:28
+  rel: attests
+  note: A grandson of the high priest Eliashib married Sanballat's daughter
+related: [elephantine-temple-petition, samaria-papyri, samaritan-origins, samaria, mount-gerizim,
+  qedarite-silver-bowl, ammonites, artaxerxes-i]
+media:
+- id: sanballat
+  role: primary
+external:
+  wikipedia: Sanballat the Horonite
+  wikidata: Q751918
+editorial:
+  author_notes:
+  - >-
+    His sons' Yahwistic names (Delaiah, Shelemiah) indicate a Yahwistic family despite his
+    Babylonian name.
+  - The gentilic 'Horonite' is debated (Beth-horon, Hauran, or Horonaim).
+  - >-
+    Josephus (Ant. 11.302-347) places a Sanballat under Darius III and Alexander who built
+    the Gerizim temple. Discuss papponymy and Josephus's chronological confusion; archaeology
+    dates the first Gerizim sanctuary to the mid-5th century.
+  sources_to_check:
+  - TAD A4.7
+  - >-
+    D. M. Gropp et al., Wadi Daliyeh II: The Samaria Papyri from Wadi Daliyeh (DJD XXVIII,
+    2001)
+  image_query: Wadi Daliyeh bulla Sanballat
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

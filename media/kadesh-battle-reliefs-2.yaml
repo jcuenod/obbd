@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: kadesh-battle-reliefs-2
+file: kadesh-battle-reliefs-2.jpg
+title: >-
+  Battle scene from the Great Kadesh reliefs of Ramses II on the Walls of the Ramesseum.jpg
+caption: >-
+  Engraved drawing of a battle scene from the Kadesh reliefs on the walls of the Ramesseum,
+  western Thebes.
+description: Battle scene from the Great Kadesh reliefs of Ramses II on the Walls of the Ramesseum
+creator: James Henry Breasted (August 27, 1865 – December 2, 1935)
+credit_line: History of Egypt, page 452-453Published in 1927
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: >-
+  James Henry Breasted (August 27, 1865 – December 2, 1935). Public domain, via Wikimedia
+  Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Battle_scene_from_the_Great_Kadesh_reliefs_of_Ramses_II_on_the_Walls_of_the_Ramesseum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/92/Battle_scene_from_the_Great_Kadesh_reliefs_of_Ramses_II_on_the_Walls_of_the_Ramesseum.jpg
+  sha1: 675b833be00cab2537b9a6ca48e4475b34142d3b
+  original_size: [4419, 2001]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×724 px
+size: [1600, 724]
+depicts: [kadesh-battle-reliefs]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

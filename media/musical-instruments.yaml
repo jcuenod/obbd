@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: musical-instruments
+file: musical-instruments.webp
+title: Kinnor played before a king 1350-1150bc.webp
+caption: >-
+  Incised ivory plaque from Megiddo with a lyre player before an enthroned ruler, Late Bronze
+  Age.
+description: >-
+  Megiddo Ivory (LB II) Showing Canaanite King receiving visitors, including a Canaanite female
+  lyre player. This ivory engraving shows one possibility for the ancient instrument, kinnor.[1]
+  From bible-archaeology.info:[2] "The next stratum, Megiddo VII, disclosed the base of a
+  statue of Ramses VI (about 1148-1142 BC). The treasure house of the royal palace of this
+  city was found to contain a large number of ivory objects, discarded by the invaders who
+  overwhelmed Megiddo in the mid-12th century BC. Outstanding among these is an ivory plaque,
+  the "Celebration of Victory" (see the ivory with a se
+creator: Unknown engraver, Ancient Israel or Canaan, 1350-1150 BC
+credit_line: >-
+  https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fbetween-mesopotamia-and-egypt-two-canaanite-artifacts-from-v0-1uck3d2owdha1.jpg%3Fwidth%3D1600%26format%3Dpjpg%26auto%3Dwebp%26s%3D4fbdee60bce9a04136effbb781a5568bc9623ef2&rdt=39303
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: >-
+  Unknown engraver, Ancient Israel or Canaan, 1350-1150 BC. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Kinnor_played_before_a_king_1350-1150bc.webp
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/64/Kinnor_played_before_a_king_1350-1150bc.webp
+  sha1: 6c93ed6ef0ab6a00d9474c8fa9e6329a0c51f09e
+  original_size: [1600, 1600]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1600, 1600]
+depicts: [musical-instruments]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

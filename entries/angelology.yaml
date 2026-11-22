@@ -1,0 +1,95 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: angelology
+title: Named Angels and Angelic Hierarchies
+aliases: [archangels, Michael, Gabriel, Raphael, Uriel, angels of the nations]
+type: concept
+cultures: [jewish, hebrew]
+scope: >-
+  The development of named angels, ranks of angels and national angelic "princes" in Persian-
+  and Hellenistic-period Judaism (Daniel, Tobit, 1 Enoch, Jubilees, Qumran) and their reception
+  in the New Testament. Anonymous divine messengers and the angel of YHWH, and the divine
+  council, have their own entries.
+passages:
+- ref: Deut 32:8
+  rel: concept
+  note: >-
+    Nations allotted to the 'sons of God' (LXX 'angels of God'); background for national princes
+- ref: Zech 1:9-14
+  rel: concept
+  note: An unnamed interpreting angel mediates the vision
+- ref: Ezek 9:2-3
+  rel: concept
+  note: Man clothed in linen with a scribe's writing case among the executioners
+- ref: Dan 8:16; 9:21
+  rel: concept
+  note: Gabriel, the first angel named in the Hebrew Bible, interprets visions
+- ref: Dan 10:13, 20-21
+  rel: concept
+  note: Michael, 'one of the chief princes', fights the princes of Persia and Greece
+- ref: Dan 12:1
+  rel: concept
+  note: Michael, the great prince who protects Israel, arises at the end time
+- ref: Tob 12:15
+  rel: concept
+  note: Raphael, 'one of the seven angels who stand ready' before the Lord; cf. 3:17
+- ref: 1En 20:1-8
+  rel: concept
+  note: Names and duties of the archangels (seven in Greek, six in Ethiopic)
+- ref: Jub 2:2
+  rel: concept
+  note: Angels of the presence, of sanctification and of the elements created on the first
+    day
+- ref: Luke 1:19, 26
+  rel: concept
+  note: Gabriel, 'who stands in the presence of God', announces births
+- ref: Jude 9
+  rel: concept
+  note: The archangel Michael disputes with the devil over Moses' body
+- ref: Rev 12:7-9
+  rel: concept
+  note: Michael and his angels fight the dragon
+related: [angel-of-yhwh, divine-council, sons-of-god, first-enoch, zoroastrianism, satan-the-adversary,
+  war-scroll, demons]
+media: []
+external:
+  wikipedia: Angels in Judaism
+  wikidata: Q690175
+editorial:
+  author_notes:
+  - >-
+    Names and ranks appear only in late texts (Daniel, Tobit, 1 Enoch). Earlier biblical messengers
+    are anonymous and often refuse to give a name (Judg 13:17-18). Explain the shift rather
+    than reading later angelology back.
+  - >-
+    Background proposals: Mesopotamian vizier or messenger gods (sukkallu; e.g. Nusku, Papsukkal)
+    and Ugaritic messenger pairs for the role; Persian Aməša Spəntas for the seven archangels,
+    which is debated; the demon Asmodeus in Tobit, a clear Iranian borrowing (Aēšma). Separate
+    the firm from the speculative.
+  - >-
+    Olyan (1993) argued that many angel names and classes arose from exegesis of biblical
+    words. A rabbinic tradition (y. Rosh Hash. 1:2) says the names of the angels 'came up
+    from Babylon'. Verify the reference before quoting it.
+  - >-
+    The War Scroll (1QM 9:15-16) names Michael, Gabriel, Sariel and Raphael on the shields
+    of the towers. Note the variation in lists of four and seven across 1 Enoch 9, 20 and
+    40 and Qumran.
+  sources_to_check:
+  - S. M. Olyan, A Thousand Thousands Served Him (TSAJ 36, 1993)
+  - >-
+    M. Mach, Entwicklungsstadien des jüdischen Engelglaubens in vorrabbinischer Zeit (TSAJ
+    34, 1992)
+  - ABD, s.v. "Angels"
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

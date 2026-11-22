@@ -1,0 +1,86 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: incense-and-incense-altars
+title: Incense and Incense Altars
+aliases: [qĕṭōret, ḥammānîm]
+type: realia
+cultures: [hebrew, arabian, phoenician]
+scope: >-
+  Incense offering in Israel and the ancient Near East: aromatic substances (especially frankincense
+  from South Arabia), the golden incense altar of the tabernacle, censers, and the small limestone
+  incense altars known archaeologically from Iron Age sites.
+passages:
+- ref: Exod 30:1-10
+  rel: realia
+  note: Golden altar of incense before the curtain
+- ref: Exod 30:34-38
+  rel: practice
+  note: 'Recipe of sacred incense: stacte, onycha, galbanum, frankincense'
+- ref: Lev 10:1-2
+  rel: practice
+  note: Nadab and Abihu offer 'strange fire' in their censers
+- ref: Lev 16:12-13
+  rel: practice
+  note: Cloud of incense covers the mercy seat
+- ref: Num 16:46-48
+  rel: practice
+  note: Aaron's censer stops the plague; MT 17:11-13
+- ref: 2Chr 26:16-21
+  rel: practice
+  note: Uzziah struck with skin disease for burning incense
+- ref: Jer 6:20
+  rel: realia
+  note: Frankincense from Sheba and sweet cane from a distant land
+- ref: Jer 44:15-25
+  rel: practice
+  note: Offerings burned to the queen of heaven
+- ref: Lev 26:30
+  rel: language
+  note: ḥammānîm 'incense altars' to be cut down; cf. Isa 17:8; 27:9; Ezek 6:4, 6
+- ref: Ps 141:2
+  rel: imagery
+  note: '''Let my prayer be counted as incense before you'''
+- ref: Mal 1:11
+  rel: concept
+  note: Incense offered to YHWH's name in every place
+- ref: Luke 1:9-11
+  rel: practice
+  note: Zechariah chosen by lot to offer incense
+related: [incense-trade, horned-altars, arad, sheba, queen-of-heaven, altars, tabernacle]
+media:
+- id: horned-altars-2
+  role: gallery
+- id: incense-and-incense-altars
+  role: primary
+external:
+  wikipedia: Altar of Burnt Offering
+  wikidata: Q1981145
+editorial:
+  author_notes:
+  - >-
+    Wellhausen's view that incense offering was a late (post-exilic) development is contradicted
+    by Iron Age incense altars and burners. Note this correction.
+  - >-
+    Two limestone altars from the Arad shrine had organic residues analysed in 2020 (Arie,
+    Rosen, and Namdar, Tel Aviv 47), with reported frankincense on one and cannabis on the
+    other. Verify details before stating them.
+  - >-
+    ḥammān has been linked to inscribed incense altars in Palmyrene and other Aramaic inscriptions
+    (ḥmn). The identification is plausible but has been debated.
+  - >-
+    The South Arabian incense trade explains much of the archaeology. Cross-reference incense-trade
+    and sheba.
+  image_query: Arad incense altars Israel Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

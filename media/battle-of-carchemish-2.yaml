@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: battle-of-carchemish-2
+file: battle-of-carchemish-2.jpg
+title: >-
+  The so-called "Chronicle of Nabopolassar". The cuneiform inscriptions on this clay tablet
+  narrate the chronicle of the years 608-605 BCE. 550-400 BCE. From Iraq.jpg
+caption: The so-called Chronicle of Nabopolassar, a clay tablet narrating the years 608–605
+  BCE.
+description: >-
+  The so-called "Chronicle of Nabopolassar". The cuneiform inscriptions on this clay tablet
+  narrate the chronicle of the years 608-605 BCE. Nabopolassar (r. 658-605 BCE) was the king
+  of Babylon and the father of Nebuchadnezzar II. After the fall of Nineveh, Naboplolassar
+  vied with Egypt to control Assyria's western territories. His death stopped the campaign
+  and sent his son Nebuchadnezzar II back to Babylon to claim the throne. From southern Iraq
+  (precise provenance unknown). 550-400 BCE, made during the reign of an unknown ruler. The
+  British Museum, London.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:The_so-called_%22Chronicle_of_Nabopolassar%22._The_cuneiform_inscriptions_on_this_clay_tablet_narrate_the_chronicle_of_the_years_608-605_BCE._550-400_BCE._From_Iraq.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/5/52/The_so-called_%22Chronicle_of_Nabopolassar%22._The_cuneiform_inscriptions_on_this_clay_tablet_narrate_the_chronicle_of_the_years_608-605_BCE._550-400_BCE._From_Iraq.jpg
+  sha1: 48dce7faf3cd5ffdec8921b9f95b70a0292c5833
+  original_size: [2682, 2348]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1401 px
+size: [1600, 1401]
+depicts: [battle-of-carchemish]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

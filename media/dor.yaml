@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: dor
+file: dor.jpg
+title: Nahsholim-Tel-Dor-2935.jpg
+caption: Excavated remains on the shoreline at Tel Dor.
+description: Tel Dor, Israel.
+creator: Bukvoed
+credit_line: Own work
+license:
+  id: CC-BY-3.0
+  name: CC BY 3.0
+  url: https://creativecommons.org/licenses/by/3.0
+attribution: Bukvoed, CC BY 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Nahsholim-Tel-Dor-2935.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/4/49/Nahsholim-Tel-Dor-2935.jpg
+  sha1: d248d13b52addaa83c4f5639483629c3d01cf225
+  original_size: [2592, 1473]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×909 px
+size: [1600, 909]
+depicts: [dor]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

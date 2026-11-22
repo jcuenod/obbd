@@ -1,0 +1,354 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://obbd.org/schema/entry.schema.json",
+  "title": "OBBD entry metadata (entries/<id>.yaml)",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "type",
+    "scope",
+    "passages",
+    "status",
+    "history"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "Permanent slug; equals the filename."
+    },
+    "title": {
+      "type": "string"
+    },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "type": {
+      "enum": [
+        "artifact",
+        "text",
+        "site",
+        "person",
+        "deity",
+        "people",
+        "event",
+        "concept",
+        "practice",
+        "realia"
+      ]
+    },
+    "cultures": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "sumerian",
+          "akkadian",
+          "babylonian",
+          "assyrian",
+          "mesopotamian",
+          "amorite",
+          "hurrian",
+          "egyptian",
+          "nubian",
+          "hittite",
+          "luwian",
+          "urartian",
+          "ugaritic",
+          "canaanite",
+          "phoenician",
+          "aramean",
+          "israelite",
+          "judahite",
+          "hebrew",
+          "moabite",
+          "ammonite",
+          "edomite",
+          "philistine",
+          "arabian",
+          "persian",
+          "elamite",
+          "greek",
+          "roman",
+          "jewish",
+          "christian",
+          "ane"
+        ]
+      }
+    },
+    "corpus": {
+      "enum": [
+        "ot",
+        "nt",
+        "both"
+      ],
+      "description": "Optional. Which part of the Bible the entry mainly bears on; sets the corpus-dependent article headings (vocab/entry-types.yaml corpus_headings). If omitted, it is inferred from the passage tags."
+    },
+    "date": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "from"
+      ],
+      "properties": {
+        "from": {
+          "type": "integer",
+          "description": "Historical year; negative = BCE. There is no year 0."
+        },
+        "to": {
+          "type": "integer",
+          "description": "Historical year; negative = BCE. There is no year 0."
+        },
+        "circa": {
+          "type": "boolean"
+        },
+        "display": {
+          "type": "string"
+        }
+      }
+    },
+    "scope": {
+      "type": "string",
+      "description": "1-3 sentence statement of what the entry covers."
+    },
+    "passages": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "ref",
+          "rel"
+        ],
+        "properties": {
+          "ref": {
+            "type": "string",
+            "pattern": "^(?:[1-4]?[A-Z][A-Za-z]+) \\d+(?::\\d+)?(?:-\\d+(?::\\d+)?)?(?:[,;] ?\\d+(?::\\d+)?(?:-\\d+(?::\\d+)?)?)*$",
+            "description": "OSIS book id + chapter:verse ranges, English versification. E.g. '2Kgs 18:13-19:37', 'Exod 25:9, 40'."
+          },
+          "rel": {
+            "enum": [
+              "event",
+              "attests",
+              "parallel",
+              "form",
+              "imagery",
+              "concept",
+              "practice",
+              "polemic",
+              "language",
+              "realia",
+              "setting"
+            ],
+            "description": "See vocab/relations.yaml"
+          },
+          "disputed": {
+            "type": "boolean"
+          },
+          "note": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "related": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "location": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "institution": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "accession": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "media": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "role": {
+            "enum": [
+              "primary",
+              "gallery"
+            ]
+          },
+          "caption": {
+            "type": "string",
+            "description": "Entry-specific caption overriding the media caption."
+          }
+        }
+      }
+    },
+    "external": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "wikipedia": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "wikidata": {
+          "type": "string",
+          "pattern": "^Q\\d+$"
+        },
+        "pleiades": {
+          "type": "string"
+        },
+        "trismegistos": {
+          "type": "string"
+        },
+        "museum_url": {
+          "type": "string"
+        }
+      }
+    },
+    "editorial": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "author_notes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "sources_to_check": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "image_query": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "status": {
+      "enum": [
+        "placeholder",
+        "draft",
+        "in-review",
+        "needs-revision",
+        "approved"
+      ]
+    },
+    "credits": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "authors": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "description": "Contributor id from contributors.yaml"
+          }
+        },
+        "reviewers": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "description": "Contributor id from contributors.yaml"
+          }
+        }
+      }
+    },
+    "history": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "date",
+          "action",
+          "by"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "date": {
+            "type": "string",
+            "format": "date"
+          },
+          "action": {
+            "enum": [
+              "created",
+              "drafted",
+              "edited",
+              "submitted",
+              "commented",
+              "revision-requested",
+              "approved",
+              "metadata-edited"
+            ]
+          },
+          "by": {
+            "type": "string",
+            "description": "Contributor id from contributors.yaml"
+          },
+          "role": {
+            "type": "string"
+          },
+          "note": {
+            "type": "string"
+          },
+          "article_sha256": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "data_sha256": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "coordinates": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "lat",
+        "lon"
+      ],
+      "properties": {
+        "lat": {
+          "type": "number"
+        },
+        "lon": {
+          "type": "number"
+        },
+        "source": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

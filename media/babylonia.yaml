@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: babylonia
+file: babylonia.jpg
+title: >-
+  Striding lions - Processional Way of Babylon - Pergamonmuseum - Berlin - Germany 2017.jpg
+caption: >-
+  Glazed-brick striding lions from the Processional Way of Neo-Babylonian Babylon, 6th century
+  BCE (Pergamon Museum, Berlin).
+description: Processional Way of Babylon - Pergamonmuseum - Berlin - Germany
+creator: José Luiz
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: José Luiz, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Striding_lions_-_Processional_Way_of_Babylon_-_Pergamonmuseum_-_Berlin_-_Germany_2017.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/5/52/Striding_lions_-_Processional_Way_of_Babylon_-_Pergamonmuseum_-_Berlin_-_Germany_2017.jpg
+  sha1: 6fd4c4d1b0bbe97ea9055bf61063e471666beda8
+  original_size: [5184, 3456]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [babylonia]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,84 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: four-room-house
+title: Four-Room House
+aliases: [Pillared house, Israelite house]
+type: realia
+cultures: [hebrew]
+scope: >-
+  The pillared 'four-room' house, the dominant domestic building type of Iron Age Israel and
+  Judah (also found in neighbouring regions). Covers its plan and function, what it implies
+  about household structure, and its use as an ethnic marker.
+passages:
+- ref: Deut 22:8
+  rel: realia
+  note: Parapet required around the flat roof
+- ref: Josh 2:6
+  rel: realia
+  note: Flax stalks laid out on Rahab's roof
+- ref: 1Sam 9:25-26
+  rel: realia
+  note: Saul sleeps on Samuel's roof
+- ref: 1Sam 28:24
+  rel: realia
+  note: Fatted calf kept 'in the house', consistent with ground-floor stabling
+- ref: Judg 11:31
+  rel: realia
+  disputed: true
+  note: '''Whatever comes out of the doors of my house'', possibly an animal'
+- ref: 2Kgs 4:10
+  rel: realia
+  note: Roof chamber ('ălîyâ) built for Elisha
+- ref: Prov 21:9
+  rel: realia
+  note: Living on a corner of the housetop
+- ref: Jer 32:29
+  rel: practice
+  note: Offerings to Baal on rooftops
+related: [ethnicity-and-material-culture, emergence-of-israel, cisterns-and-water-systems,
+  apotropaic-doorposts-and-thresholds, textiles-and-weaving, millstones-and-grinding, oil-lamps]
+media:
+- id: four-room-house
+  role: primary
+- id: four-room-house-2
+  role: gallery
+external:
+  wikipedia: Four-room house
+  wikidata: Q1817464
+editorial:
+  author_notes:
+  - >-
+    Describe the plan. A broad room at the back faced three long spaces divided by pillars.
+    The ground floor was used for animals, storage, and work, and there was probably an upper
+    storey for living and sleeping.
+  - >-
+    Stager (BASOR 260, 1985) linked the house to the extended family (bêt ʾāb). Faust argued
+    it expressed an egalitarian ethos. Both are influential but debated.
+  - >-
+    The house as an 'Israelite' ethnic marker is contested. Pillared houses also occur in
+    Transjordan and elsewhere, and their antecedents are debated.
+  - >-
+    Judg 11:31 is often read in light of animals housed inside. The reading is possible but
+    not certain.
+  sources_to_check:
+  - King and Stager, Life in Biblical Israel (2001)
+  image_query: four-room house reconstruction Israel
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Removed weak tag 2Sam 11:2 (palace roof, not a
+    four-room house)
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

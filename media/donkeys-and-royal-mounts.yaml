@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: donkeys-and-royal-mounts
+file: donkeys-and-royal-mounts.jpg
+title: Beni-Hassan-Asiatiques1.jpg
+caption: >-
+  Asiatics with a laden donkey carrying children, wall painting in the tomb of Khnumhotep
+  II at Beni Hasan, 12th Dynasty.
+description: Beni Hassan - Tombe de Khnoumhotep II - Représentation d'Asiatiques
+creator: Kurohito
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Kurohito, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Beni-Hassan-Asiatiques1.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/b/b4/Beni-Hassan-Asiatiques1.jpg
+  sha1: 61e47cd1f32a41b8a9dcd3570acc8f6548743f0a
+  original_size: [1200, 800]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1200, 800]
+depicts: [beni-hasan-asiatics, donkeys-and-royal-mounts]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

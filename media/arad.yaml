@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: arad
+file: arad.jpg
+title: Tel arad fortress.JPG
+caption: Aerial view of the Iron Age Judahite fortress on the upper hill at Tel Arad.
+description: null
+creator: null
+credit_line: null
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Unknown author. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tel_arad_fortress.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/8/8f/Tel_arad_fortress.JPG
+  sha1: 47fac67cf06c1451fa836f1b799c578b1e3f54c9
+  original_size: [951, 663]
+  retrieved: '2026-11-20'
+derivative: null
+size: [951, 663]
+depicts: [arad]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

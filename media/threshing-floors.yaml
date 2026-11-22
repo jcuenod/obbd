@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: threshing-floors
+file: threshing-floors.jpg
+title: >-
+  Galilee trip. Saffourieh (near Nazareth). Saforis (Sepphoris). General view of the Saffourie(h)
+  threshing floors below the village, threshing board drawn by horse LOC matpc.20758.jpg
+caption: >-
+  Threshing floors below Saffuriyeh (Sepphoris) with a horse drawing a threshing board, Matson
+  Photo Service, first half of the 20th century (Library of Congress).
+description: >-
+  Title: Galilee trip. Saffourieh (near Nazareth). Saforis (Sepphoris). General view of the
+  Saffourie[h] threshing floors below the village, threshing board drawn by horse Abstract/medium:
+  G. Eric and Edith Matson Photograph Collection Physical description: 1 negative :
+creator: Matson Collection
+credit_line: >-
+  Library of Congress Catalog: https://www.loc.gov/pictures/collection/matpc/item/mpc2010006243/PP
+  Original url: https://hdl.loc.gov/loc.pnp/matpc.20758
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Matson Collection. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Galilee_trip._Saffourieh_(near_Nazareth)._Saforis_(Sepphoris)._General_view_of_the_Saffourie(h)_threshing_floors_below_the_village,_threshing_board_drawn_by_horse_LOC_matpc.20758.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/93/Galilee_trip._Saffourieh_%28near_Nazareth%29._Saforis_%28Sepphoris%29._General_view_of_the_Saffourie%28h%29_threshing_floors_below_the_village%2C_threshing_board_drawn_by_horse_LOC_matpc.20758.jpg
+  sha1: 093c7e704da3d70414e0bc6cab44475622299dbf
+  original_size: [3151, 2244]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1139 px
+size: [1600, 1139]
+depicts: [threshing-floors]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

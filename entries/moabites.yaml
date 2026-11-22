@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: moabites
+title: Moab and the Moabites
+aliases: [Moab, Moabites]
+type: people
+cultures: [moabite]
+scope: >-
+  The Iron Age kingdom of Moab on the plateau east of the Dead Sea and its people. Covers
+  Moabite sources (above all the Mesha Stele), state formation, religion and language, and
+  Moab's varied portrayal in the Bible.
+passages:
+- ref: Gen 19:30-38
+  rel: polemic
+  note: Moab's origin from Lot's incestuous union
+- ref: Num 21:26-30
+  rel: setting
+  note: Sihon's conquest of Moabite land; the Song of Heshbon
+- ref: Num 22-24
+  rel: setting
+  note: Balak of Moab hires Balaam
+- ref: Deut 23:3-6
+  rel: practice
+  note: Moabites excluded from the assembly (MT 23:4-7)
+- ref: Judg 3:12-30
+  rel: setting
+  note: Ehud kills Eglon king of Moab
+- ref: Ruth 1:1-4
+  rel: setting
+  note: Ruth the Moabite
+- ref: 2Sam 8:2
+  rel: setting
+  note: David subdues Moab
+- ref: 2Kgs 3:4-27
+  rel: event
+  note: Mesha's revolt and the Israelite campaign; sacrifice on the wall
+- ref: Jer 48
+  rel: setting
+  note: Oracle against Moab, closely related to Isa 15-16
+- ref: Amos 2:1-3
+  rel: setting
+  note: Moab burned the bones of the king of Edom
+related: [mesha-stele, chemosh, dibon, deir-alla-inscription, ammonites, edomites, omri, herem]
+media:
+- id: moabites
+  role: primary
+external:
+  wikipedia: Moab
+  wikidata: Q326304
+editorial:
+  author_notes:
+  - >-
+    Moab appears in Ramesses II's Luxor reliefs. The Mesha Stele is the principal Moabite
+    source, and Moabite kings appear as tributaries in Assyrian texts.
+  - >-
+    Routledge's work frames Moabite state formation. Key sites include Dhiban, Khirbat al-Mudayna,
+    and Khirbat Ataruz (Ataroth), whose temple and cult objects relate to the Mesha Stele.
+  - The Moabite language is very close to Hebrew.
+  - >-
+    Biblical attitudes range from polemic (Gen 19) and exclusion (Deut 23, used in Ezra-Nehemiah)
+    to the positive portrait of Ruth. Discuss these without harmonizing.
+  sources_to_check: ['Routledge, Moab in the Iron Age (2004)', 'Bienkowski, Early Edom and
+      Moab (1992)']
+  image_query: Balua stele
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

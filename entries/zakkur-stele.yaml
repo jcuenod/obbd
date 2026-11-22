@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: zakkur-stele
+title: Zakkur Stele
+aliases: [Zakir Stele, Stele of Zakkur]
+type: artifact
+cultures: [aramean]
+date:
+  from: -800
+  to: -775
+  circa: true
+  display: c. 800–775 BCE
+scope: >-
+  An Old Aramaic stele of Zakkur, king of Hamath and Luʿash, found at Tell Afis in 1903. It
+  tells how Bar-Hadad son of Hazael and a coalition of kings besieged Zakkur in Hazrach, and
+  how the god Baalshamayn answered his prayer through seers and diviners with an oracle of
+  salvation.
+passages:
+- ref: 2Kgs 13:3, 24-25
+  rel: attests
+  note: Ben-hadad son of Hazael, king of Aram
+- ref: Zech 9:1
+  rel: attests
+  note: '''Land of Hadrach'' (Ḥzrk), Zakkur''s besieged city'
+- ref: Isa 41:8-13
+  rel: form
+  note: 'Oracle of salvation: ''Do not fear, for I am with you'''
+- ref: 2Chr 20:1-17
+  rel: parallel
+  note: Besieged king prays; an inspired speaker answers 'Do not fear'
+- ref: Isa 7:1-9
+  rel: parallel
+  note: Coalition threatens a king; prophetic 'do not fear'
+- ref: Amos 7:12
+  rel: language
+  note: ḥōzeh 'seer', cognate with the stele's ḥzyn
+related: [ben-hadad, hazael, hamath, prophecy-in-the-ane, arameans, divination, neo-assyrian-prophecies,
+  aramaic-language]
+location:
+  institution: Musée du Louvre, Paris
+  accession: AO 8185 (Department of Near Eastern Antiquities of the Louvre)
+media:
+- id: ben-hadad-2
+  role: gallery
+external:
+  wikipedia: Stele of Zakkur
+  wikidata: Q144745
+editorial:
+  author_notes:
+  - >-
+    This is one of the few West Semitic witnesses to intuitive prophecy outside the Bible.
+    Compare it with Mari and Neo-Assyrian prophecy, and with Deir ʿAlla.
+  - >-
+    Bar-Hadad son of Hazael fixes this Ben-hadad historically. Discuss its bearing on the
+    several Ben-hadads of Kings.
+  - >-
+    The siege is usually dated c. 800-785, linked to Assyrian intervention under Adad-nirari
+    III. Zakkur's appeal to the gods and the coalition's withdrawal parallel the 701 narrative
+    in a general way only.
+  sources_to_check: [KAI 202, COS 2.35]
+  image_query: Zakkur stele Louvre
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added accession from Wikidata Q144745 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

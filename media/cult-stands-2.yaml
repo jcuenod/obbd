@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: cult-stands-2
+file: cult-stands-2.png
+title: Taanachaltar.png
+caption: >-
+  Terracotta cult stand found at Taanach, in an early twentieth-century excavation photograph.
+description: Ta'anach altar
+creator: R A Stewart Macalister
+credit_line: https://archive.org/details/biblesidelightsf00maca/page/54/mode/2up?
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: R A Stewart Macalister. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Taanachaltar.png
+  original_url: https://upload.wikimedia.org/wikipedia/commons/4/49/Taanachaltar.png
+  sha1: a0f4c4dba7fec65e4d1492a22ff24b5460756de1
+  original_size: [546, 851]
+  retrieved: '2026-11-20'
+derivative: null
+size: [546, 851]
+depicts: [cult-stands]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

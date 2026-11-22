@@ -1,0 +1,94 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: justice-and-righteousness
+title: Justice and Righteousness and Royal Equity (kittum and mīšarum)
+aliases: [mišpāṭ ûṣĕdāqâ, kittum u mīšarum, social justice, royal equity]
+type: concept
+cultures: [hebrew, babylonian, egyptian]
+scope: >-
+  The paired ideals of "justice and righteousness" (mišpāṭ ûṣĕdāqâ) in the Hebrew Bible and
+  their ancient Near Eastern counterparts, especially Akkadian kittum u mīšarum ("truth and
+  equity") and Egyptian maat. It covers the king's duty to protect the weak, royal acts of
+  release, and justice as the foundation of the divine throne. Maat, the mīšarum edicts and
+  debt release have their own entries.
+passages:
+- ref: Ps 72:1-4
+  rel: concept
+  note: Prayer that the king judge with righteousness and defend the poor
+- ref: Ps 89:14
+  rel: concept
+  note: Righteousness and justice the foundation of YHWH's throne (MT 89:15)
+- ref: Ps 85:10-13
+  rel: imagery
+  note: >-
+    Righteousness and peace personified, going before the deity; cf. Kittu and Mīšaru as Šamaš's
+    attendants (MT 85:11-14)
+- ref: Ps 99:4
+  rel: language
+  note: '''You have established equity (mêšārîm)'', cognate with Akkadian mīšarum'
+- ref: 2Sam 8:15
+  rel: concept
+  note: David executed justice and righteousness (mišpāṭ ûṣĕdāqâ) for all his people
+- ref: Isa 9:7
+  rel: concept
+  note: Davidic throne upheld with justice and righteousness (MT 9:6)
+- ref: Isa 11:3-5
+  rel: concept
+  note: Ideal ruler judges the poor with righteousness
+- ref: Jer 22:15-16
+  rel: concept
+  note: Josiah did justice and righteousness and judged the cause of the poor
+- ref: Isa 5:7
+  rel: language
+  note: 'Wordplay: mišpāṭ/miśpāḥ (bloodshed), ṣĕdāqâ/ṣĕʿāqâ (outcry)'
+- ref: Amos 5:24
+  rel: concept
+  note: Let justice roll down like waters, righteousness like an ever-flowing stream
+- ref: Jer 34:8-10
+  rel: practice
+  note: Zedekiah's proclamation of release (dĕrôr), a royal act like a mīšarum edict
+related: [maat, code-of-hammurabi, edict-of-ammi-saduqa, debt-release, widow-orphan-sojourner,
+  royal-ideology, shamash, great-hymn-to-shamash]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Weinfeld (1995) argued that mišpāṭ ûṣĕdāqâ, like kittum u mīšarum, refers above all to
+    royal social reform and release, not abstract jurisprudence. His thesis is influential;
+    note criticisms that it can flatten differences between texts.
+  - >-
+    Hammurabi's prologue and epilogue (he was called 'to make justice appear in the land'
+    and styles himself 'king of justice', šar mīšarim) and Old Babylonian mīšarum edicts give
+    the institutional background. Kittum (from kânu 'be firm') and mīšarum (from ešēru 'be
+    straight') parallel Hebrew ʾĕmet/ṣedeq and mêšārîm.
+  - >-
+    Kittu and Mīšaru appear as deified attendants of Šamaš, which helps explain personified
+    righteousness and justice around the divine throne (Ps 85; 89:14; 97:2). Egyptian maat
+    is also depicted as the base of the throne.
+  - >-
+    The prophetic critique (Amos, Isaiah, Jeremiah) applies the royal ideal to the whole society
+    and judges kings by it. Keep this distinction clear from the ideology itself.
+  sources_to_check:
+  - M. Weinfeld, Social Justice in Ancient Israel and in the Ancient Near East (1995)
+  - F. R. Kraus, Königliche Verfügungen in altbabylonischer Zeit (SD 11, 1984)
+  - H. H. Schmid, Gerechtigkeit als Weltordnung (BHT 40, 1968)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: 2Sam 8:15 note corrected to justice and righteousness
+    (mišpāṭ ûṣĕdāqâ)
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

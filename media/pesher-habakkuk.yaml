@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: pesher-habakkuk
+file: pesher-habakkuk.jpg
+title: Pesher Habakkuk Scroll.JPG
+caption: >-
+  The Pesher Habakkuk scroll (1QpHab) from Qumran Cave 1, parchment, 1st century BCE (Israel
+  Museum, Jerusalem).
+description: >-
+  The Pesher Habakkuk Scroll, written in Hebrew, Qumran, Cave 1, 2nd half of the 1st Century
+  of the 1st century BCE, Parchment. Israel-Museum, Jerusalem.
+creator: Unknown authorUnknown author
+credit_line: User Superikonoskop
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Unknown authorUnknown author. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Pesher_Habakkuk_Scroll.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/7/7a/Pesher_Habakkuk_Scroll.JPG
+  sha1: f8a5134a336fb0a53b3517780e755d48399526fd
+  original_size: [4752, 3168]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [pesher-habakkuk]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

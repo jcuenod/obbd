@@ -1,0 +1,85 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: azazel
+title: Azazel
+aliases: [ʿĂzāʾzēl, Asael, scapegoat]
+type: deity
+cultures: [hebrew, jewish]
+scope: >-
+  The enigmatic recipient of the second goat on the Day of Atonement (Lev 16) and the figure
+  of Asael/Azazel in Second Temple literature, where he becomes a fallen angel blamed for
+  teaching forbidden arts. The entry covers the name, its interpretations and its afterlife;
+  the ritual and its elimination-rite parallels belong to day-of-atonement-elimination, and
+  wilderness demons generally to demons.
+passages:
+- ref: Lev 16:8
+  rel: language
+  note: A lot 'for YHWH' and a lot 'for Azazel'; the parallel suggests a personal name
+- ref: Lev 16:10
+  rel: practice
+  note: Goat presented alive and sent 'to Azazel' into the wilderness
+- ref: Lev 16:21-22
+  rel: practice
+  note: Iniquities confessed over the goat, carried off to a 'cut-off land' (ʾereṣ gĕzērâ)
+- ref: Lev 16:26
+  rel: practice
+  note: The one who sets the goat free washes before re-entering the camp
+- ref: Lev 17:7
+  rel: concept
+  note: Ban on sacrifices to goat-demons (śĕʿîrîm) in the open field
+- ref: Isa 34:14
+  rel: concept
+  note: 'Goat-demons and Lilith haunt desolate Edom: the wilderness as demonic realm'
+- ref: 1En 8:1
+  rel: concept
+  note: Asael teaches metalworking, weapons and cosmetics
+- ref: 1En 10:4-8
+  rel: concept
+  note: Raphael binds Asael and casts him into darkness in the desert; all sin ascribed to
+    him
+related: [day-of-atonement-elimination, demons, first-enoch, hittite-elimination-rituals,
+  lots-and-cleromancy, nephilim, satan-the-adversary]
+media: []
+external:
+  wikipedia: Azazel
+  wikidata: Q721135
+editorial:
+  author_notes:
+  - >-
+    Set out the interpretations: (1) a demon or wilderness deity, the most common critical
+    view, supported by the lot 'for YHWH' and 'for Azazel'; (2) 'the goat that goes away'
+    (ʿēz ʾōzēl; Septuagint apopompaios, Vulgate caper emissarius, hence Tyndale's 'scapegoat');
+    (3) a place name such as 'rugged cliff' (rabbinic; m. Yoma 6:6-8); (4) an abstract noun
+    'complete removal'.
+  - >-
+    Milgrom and others argue that, even if Azazel was originally a demon, Lev 16 neutralizes
+    him. The goat is not a sacrifice to Azazel but a vehicle that removes sin to his realm.
+    Make this distinction clear.
+  - >-
+    Qumran texts (4Q180; the Temple Scroll) spell the name with a metathesis, often read as
+    ʿzzʾl, 'El is strong' or 'fierce god'. Verify the spellings before citing them. The Enochic
+    Asael (Aramaic ʿśʾl) was later assimilated to Azazel (Apocalypse of Abraham).
+  - >-
+    Keep later Christian and occult demonology (Azazel as Satan, Milton, modern fiction) to
+    a brief reception note.
+  sources_to_check:
+  - DDD, s.v. "Azazel"
+  - J. Milgrom, Leviticus 1-16 (AB 3, 1991)
+  - D. P. Wright, The Disposal of Impurity (SBLDS 101, 1987)
+  - >-
+    L. L. Grabbe, 'The Scapegoat Tradition: A Study in Early Jewish Interpretation,' JSJ 18
+    (1987)
+  - D. Stökl Ben Ezra, The Impact of Yom Kippur on Early Christianity (WUNT 163, 2003)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

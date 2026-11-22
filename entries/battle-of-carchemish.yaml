@@ -1,0 +1,72 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: battle-of-carchemish
+title: Battle of Carchemish (605 BCE)
+type: event
+cultures: [babylonian, egyptian]
+date:
+  from: -605
+  to: -605
+  display: 605 BCE
+scope: >-
+  The decisive battle of 605 BCE at Carchemish on the Euphrates, in which the Babylonian crown
+  prince Nebuchadnezzar defeated the Egyptian army of Necho II, ending Egyptian control of
+  Syria-Palestine and opening the Levant to Babylon.
+passages:
+- ref: Jer 46:2-12
+  rel: event
+  note: Oracle on Pharaoh Necho's army defeated at Carchemish in Jehoiakim's fourth year
+- ref: 2Kgs 24:7
+  rel: event
+  note: Egypt no longer comes out of its land; Babylon controls to the Euphrates
+- ref: 2Chr 35:20
+  rel: setting
+  note: Necho on his way to Carchemish in 609, when Josiah intervened
+- ref: 2Kgs 23:29
+  rel: setting
+  note: Necho's campaign of 609 to aid Assyria on the Euphrates
+- ref: Jer 25:1
+  rel: setting
+  note: Jehoiakim's fourth year equated with Nebuchadnezzar's first
+- ref: Dan 1:1
+  rel: setting
+  note: '''Third year of Jehoiakim''; chronological discrepancy with Jer 25:1 and 46:2'
+related: [nebuchadnezzar-ii, necho-ii, carchemish, nebuchadnezzar-chronicle, babylonian-chronicles,
+  josiah]
+media:
+- id: battle-of-carchemish
+  role: primary
+- id: battle-of-carchemish-2
+  role: gallery
+external:
+  wikipedia: Battle of Carchemish
+  wikidata: Q633560
+editorial:
+  author_notes:
+  - >-
+    The Babylonian Chronicle (ABC 5) describes the battle and the pursuit to Hamath; Nebuchadnezzar
+    then returned to Babylon on his father's death.
+  - >-
+    Distinguish the 609 campaign (Josiah's death at Megiddo; 2 Kgs 23:29; 2 Chr 35:20) from
+    the 605 battle.
+  - >-
+    Excavations at Carchemish (Woolley; renewed Turkish-Italian work) found evidence of the
+    destruction, including Egyptian objects.
+  - >-
+    Dan 1:1's dating is a known chronological problem; present proposed explanations (accession-year
+    reckoning, error) neutrally.
+  sources_to_check: [ABC 5]
+  image_query: Nebuchadnezzar Chronicle British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

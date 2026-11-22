@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: deir-alla-inscription
+file: deir-alla-inscription.png
+title: Deir 'Alla Inscription.png
+caption: >-
+  Drawing of Combination I of the Deir ʿAlla plaster inscription, showing the arrangement
+  of the ink-inscribed plaster fragments.
+description: >-
+  Transcription from Deir 'Alla inscription This is just the so-called "Combination 1", made
+  up of a portion of the plaster fragments. The text, according to the Hebrew Wikipedia article
+  is: [זנה .] ספר [. ב]לעם [. בר בע]ר . אש . חזה . אלהן [.] הא [.] ויאתו . אלוה . אלהן . בלילה
+  [.ויאמרו . ל]ה כמשא . אל . ויאמרו ל[בלע]ם . בר בער . כה . יפעל [--]א אחראה . אש . ל[---------]עת
+  ויקם . בלעם . מן . מחר[--------]ל . ימן . [----------]ה . ול יכ[ל . אכל . ויצ]ם [.] ובכ
+  ה . יבכה . ויעל . עמה . אלוה . וי[אמרו .] לבלעם . בר בער . למ . תצם [. ול]מ . תבכה . ויא
+  מר . להם . שבו . אחוכם . מה . שד[ין ----- .] ולכ
+creator: Disdero
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Disdero, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Deir_%27Alla_Inscription.png
+  original_url: https://upload.wikimedia.org/wikipedia/commons/9/91/Deir_%27Alla_Inscription.png
+  sha1: d2914cc521ef527469b24822674e9529f35f7c2d
+  original_size: [2172, 1861]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1371 px
+size: [1600, 1371]
+depicts: [deir-alla-inscription, prophecy-in-the-ane]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

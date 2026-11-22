@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: sacred-marriage
+file: sacred-marriage.jpg
+title: Warka Vase, top register.jpg
+caption: >-
+  Top register of the Uruk (Warka) Vase, c. 3000 BCE, with a nude male presenting offerings
+  to Inanna (Iraq Museum, Baghdad).
+description: >-
+  This is the top register of the sacred or votive vase of Warka. From Warka (ancient Uruk),
+  southern Mesopotamia, in modern-day Iraq. Jemdet Nasr period, 3000-2900 BCE. The Iraq Museum
+  in Baghdad.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Warka_Vase,_top_register.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/5/57/Warka_Vase%2C_top_register.jpg
+  sha1: 00f14efc22f6ede72f22f5cdc5cb399f01cc0599
+  original_size: [3907, 4843]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1291×1600 px
+size: [1291, 1600]
+depicts: [sacred-marriage]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

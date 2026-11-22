@@ -1,0 +1,67 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: adapa
+title: Adapa Myth
+aliases: [Adapa and the South Wind]
+type: text
+cultures: [babylonian]
+date:
+  from: -1400
+  to: -1400
+  circa: true
+  display: c. 1400 BCE
+scope: >-
+  The Akkadian myth of Adapa, sage of Eridu, who breaks the wing of the South Wind, is summoned
+  before Anu, and on Ea's advice refuses the "bread of life" and "water of life" offered him,
+  thereby forfeiting immortality for himself (and perhaps humankind).
+passages:
+- ref: Gen 3:22-24
+  rel: parallel
+  note: A human forfeits immortality offered by the high god's food and drink
+- ref: Gen 3:4-5
+  rel: parallel
+  disputed: true
+  note: 'Ambiguous divine counsel: Ea''s warning proves misleading (or a test)'
+- ref: Gen 5:21-24
+  rel: parallel
+  disputed: true
+  note: A wise antediluvian figure brought up to heaven before the high god
+related: [enmeduranki-and-the-apkallu, tree-of-life, amarna-letters, garden-of-god, afterlife-and-resurrection]
+media:
+- id: adapa
+  role: primary
+external:
+  wikipedia: Adapa
+  wikidata: Q1051459
+editorial:
+  author_notes:
+  - >-
+    Oldest Akkadian manuscript: a tablet from 14th-c. Amarna used in Egyptian scribal training;
+    other fragments are Neo-Assyrian, and a Sumerian Adapa composition is known from the Old
+    Babylonian period. Izre'el's edition (2001) is standard.
+  - >-
+    Interpretive crux: did Ea deceive Adapa, or protect him from what he believed was the
+    food of death? Unlike Gen 3, Adapa obeys his god; the loss of immortality is not disobedience.
+  - >-
+    The proposed Adam/Adapa etymology is not accepted as a linguistic link; mention it only
+    as a popular claim.
+  - >-
+    In later tradition Adapa is identified with the first apkallu, Uan (Berossus's Oannes);
+    see the apkallu entry.
+  sources_to_check:
+  - 'S. Izre''el, Adapa and the South Wind: Language Has the Power of Life and Death (2001)'
+  - ANET 101-103
+  image_query: Adapa myth tablet Amarna
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-1-sol

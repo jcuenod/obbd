@@ -1,0 +1,61 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: merneptah
+title: Merneptah
+aliases: [Merenptah]
+type: person
+cultures: [egyptian]
+date:
+  from: -1213
+  to: -1203
+  circa: true
+  display: c. 1213–1203 BCE
+scope: >-
+  Thirteenth son and successor of Ramesses II. He repelled a Libyan invasion supported by
+  Sea Peoples in his year 5 and claimed victories in Canaan. His "Israel Stele" contains the
+  earliest certain extrabiblical mention of Israel.
+passages:
+- ref: Josh 10:33
+  rel: attests
+  note: 'Gezer: Merneptah styles himself ''subduer of Gezer'''
+- ref: Josh 15:9
+  rel: attests
+  disputed: true
+  note: '''Waters of Nephtoah'', possibly ''the well of Merneptah'' of Egyptian texts'
+- ref: Judg 1:27-36
+  rel: setting
+  note: Canaan with Israel present among unconquered city-states (Merneptah Stele)
+related: [merneptah-stele, ramesses-ii, sea-peoples, emergence-of-israel, gezer, exodus-historical-questions]
+media:
+- id: merneptah
+  role: primary
+external:
+  wikipedia: Merneptah
+  wikidata: Q158043
+editorial:
+  author_notes:
+  - >-
+    Scholars debate whether Merneptah actually campaigned in Canaan or whether the stele's
+    coda is rhetorical. The "subduer of Gezer" epithet (Amada inscription) and the Karnak
+    reliefs reassigned to him by Yurco are adduced in support.
+  - >-
+    He was once a popular candidate for exodus pharaoh. The stele shows Israel already in
+    Canaan by his year 5, which rules out its being a group still in Egypt.
+  - >-
+    The Nephtoah identification rests on the "wells of Merneptah" in the Ramesside miscellanies
+    (P. Anastasi III). It is plausible but debated.
+  sources_to_check: [COS 2.6, 'AEL 2:73-78']
+  image_query: Merneptah statue
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

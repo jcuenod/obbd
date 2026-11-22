@@ -1,0 +1,64 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: rahab-sea-monster
+title: Rahab (Sea Monster)
+aliases: [Rahab (monster)]
+type: deity
+cultures: [hebrew]
+scope: >-
+  Rahab ("boisterous, arrogant one"), a primordial sea monster defeated by YHWH in Hebrew
+  poetry and used as a sobriquet for Egypt. The name is not attested outside the Bible and
+  is unrelated to Rahab of Jericho.
+passages:
+- ref: Job 9:13
+  rel: imagery
+  note: '''The helpers of Rahab'' bow beneath God'
+- ref: Job 26:12
+  rel: imagery
+  note: By his understanding he struck down Rahab
+- ref: Ps 89:10
+  rel: imagery
+  note: YHWH crushed Rahab like a carcass (MT 89:11)
+- ref: Isa 51:9
+  rel: imagery
+  note: Arm of YHWH that cut Rahab in pieces and pierced the dragon
+- ref: Isa 30:7
+  rel: language
+  note: Egypt's help is vain; 'Rahab who sits still'
+- ref: Ps 87:4
+  rel: language
+  note: Rahab (Egypt) and Babylon among those who know YHWH
+- ref: Ps 40:4
+  rel: language
+  disputed: true
+  note: rəhābîm 'the proud', possibly Rahab's allies (MT 40:5)
+related: [chaoskampf, leviathan, tannin, yam, tehom, enuma-elish]
+media: []
+external:
+  wikipedia: Rahab (mythology)
+  wikidata: Q592903
+editorial:
+  author_notes:
+  - >-
+    Distinguish Rahab (rahab) the monster from Rahab (rāḥāb) of Jericho; the spellings differ.
+  - Unlike Leviathan and Tannin, Rahab has no secure extrabiblical cognate; note this.
+  - >-
+    Isa 51:9-10 fuses the defeat of Rahab with the Sea crossing, typical of the historicizing
+    of combat myth.
+  - The text of Isa 30:7 is difficult; present emendations neutrally.
+  sources_to_check:
+  - J. Day, God's Conflict with the Dragon and the Sea (1985)
+  - DDD, s.v. "Rahab"
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

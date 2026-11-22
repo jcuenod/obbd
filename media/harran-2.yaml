@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: harran-2
+file: harran-2.jpg
+title: Urfa Museum Nabonidstele.jpg
+caption: Stele of Nabonidus from Harran (Şanlıurfa Archaeological Museum).
+description: Archaeological Museum Şanlıurfa, Southeast Turkey, Stele des Nabonid from Harran
+creator: Klaus-Peter Simon
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Klaus-Peter Simon, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Urfa_Museum_Nabonidstele.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/0/03/Urfa_Museum_Nabonidstele.jpg
+  sha1: 12b8dc0e92beca5b3a52d535c738ee247bc81e2e
+  original_size: [3176, 5184]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 980×1600 px
+size: [980, 1600]
+depicts: [harran]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

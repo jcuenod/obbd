@@ -1,0 +1,80 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: incense-trade
+title: Incense Route and Arabian Trade
+aliases: [Incense Route, Frankincense, Myrrh]
+type: concept
+cultures: [arabian, hebrew, assyrian]
+scope: >-
+  The overland trade in frankincense, myrrh, and other aromatics from South Arabia and the
+  Horn of Africa through the Arabian peninsula to the Levant and Mesopotamia, and its reflections
+  in the Bible.
+passages:
+- ref: 1Kgs 10:1-15
+  rel: practice
+  note: Queen of Sheba brings spices, gold, and precious stones
+- ref: Isa 60:6
+  rel: practice
+  note: Camels from Midian, Ephah, and Sheba bringing gold and frankincense
+- ref: Jer 6:20
+  rel: practice
+  note: '''Frankincense that comes from Sheba'''
+- ref: Ezek 27:22
+  rel: practice
+  note: Merchants of Sheba and Raamah trade spices with Tyre
+- ref: Ps 72:10, 15
+  rel: imagery
+  note: Kings of Sheba and Seba bring gifts; gold of Sheba
+- ref: Gen 37:25
+  rel: practice
+  note: Caravan carrying gum, balm, and resin to Egypt
+- ref: Job 6:19
+  rel: practice
+  note: Caravans of Tema, travellers of Sheba
+- ref: Isa 21:13-14
+  rel: setting
+  note: Caravans of Dedanites; people of Tema
+- ref: Exod 30:34
+  rel: realia
+  note: Frankincense in the sacred incense
+- ref: Matt 2:11
+  rel: practice
+  note: Gold, frankincense, and myrrh from the east
+related: [sheba, qedarites-and-arabs, camels-and-domestication, incense-and-incense-altars,
+  nabataeans, arad, roads-and-highways]
+media:
+- id: incense-trade
+  role: primary
+- id: incense-trade-2
+  role: gallery
+external:
+  wikipedia: Incense trade route
+  wikidata: Q754999
+editorial:
+  author_notes:
+  - >-
+    The overland trade depended on camel domestication and grew from the 8th century. Tiglath-pileser
+    III received tribute from Samsi, queen of the Arabs, and from Sabaeans, and Sargon II
+    received tribute from the Sabaean Itʾamra. The Nabataeans controlled the route in Hellenistic-Roman
+    times.
+  - >-
+    The earliest Sabaean royal inscriptions are usually dated to the 8th century. Be careful
+    in using the Queen of Sheba story as 10th-century evidence.
+  - >-
+    Residue analysis of the Arad shrine's incense altars (published 2020) identified frankincense
+    on one and cannabis on the other. This is direct evidence of imported aromatics in Judah.
+    South Arabian inscribed sherds from Iron Age Jerusalem also attest contacts.
+  image_query: Incense Route Avdat
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

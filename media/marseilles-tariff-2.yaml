@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: marseilles-tariff-2
+file: marseilles-tariff-2.jpg
+title: Corpus Inscriptionum Semiticarum CIS I 165 (Marseille Tariff) (cropped).jpg
+caption: The Marseilles Tariff as published in the Corpus Inscriptionum Semiticarum (CIS I
+  165).
+description: Phoenician, Punic and Aramaic inscriptions from the Corpus Inscriptionum Semiticarum
+creator: Corpus Inscriptionum Semiticarum
+credit_line: Corpus Inscriptionum Semiticarum
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Corpus Inscriptionum Semiticarum. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Corpus_Inscriptionum_Semiticarum_CIS_I_165_(Marseille_Tariff)_(cropped).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/8/88/Corpus_Inscriptionum_Semiticarum_CIS_I_165_%28Marseille_Tariff%29_%28cropped%29.jpg
+  sha1: b21598f2335d767443eaba044417a69970f58d48
+  original_size: [3004, 2288]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1218 px
+size: [1600, 1218]
+depicts: [marseilles-tariff]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

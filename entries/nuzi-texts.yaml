@@ -1,0 +1,90 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: nuzi-texts
+title: Nuzi Texts
+aliases: [Nuzi tablets, Nuzi archives]
+type: text
+cultures: [hurrian]
+date:
+  from: -1450
+  to: -1340
+  circa: true
+  display: c. 1450–1340 BCE
+scope: >-
+  The several thousand Akkadian tablets, mostly private family archives, from Nuzi (Yorghan
+  Tepe) in the Hurrian kingdom of Arrapha. In the mid-twentieth century they were used to
+  argue that the patriarchal narratives reflect second-millennium customs; that use has since
+  been heavily revised.
+passages:
+- ref: Gen 16:1-4
+  rel: practice
+  note: >-
+    Marriage contract obliging a childless wife to provide a slave woman for bearing children
+- ref: Gen 30:1-13
+  rel: practice
+  note: Rachel and Leah give their maids to Jacob as surrogates
+- ref: Gen 29:24, 29
+  rel: practice
+  note: Slave women given to a bride as part of the marriage
+- ref: Gen 15:2-3
+  rel: practice
+  disputed: true
+  note: Childless man's heir from outside the family, displaced if a natural son is born
+- ref: Gen 31:19, 30-35
+  rel: practice
+  disputed: true
+  note: Household gods linked to family headship or inheritance in Nuzi wills (disputed)
+- ref: Gen 25:29-34
+  rel: practice
+  disputed: true
+  note: Transfer of inheritance shares between brothers for goods
+- ref: Exod 21:2-6
+  rel: practice
+  disputed: true
+  note: Ḫapiru entering service contracts; compared with the law of the 'Hebrew' slave
+related: [hurrians-and-horites, adoption, surrogacy-and-concubinage, teraphim, inheritance-and-birthright,
+  habiru]
+media:
+- id: nuzi-texts
+  role: primary
+external:
+  wikipedia: Nuzi
+  wikidata: Q584605
+editorial:
+  author_notes:
+  - >-
+    Speiser and Gordon used Nuzi to date the patriarchs to the second millennium; Thompson
+    (1974), Van Seters (1975), and Selman (1980) showed that many parallels were misread or
+    are attested across periods. Present Nuzi as illustrating customary law, not as dating
+    evidence.
+  - >-
+    Speiser's 'wife-sister' adoption theory for Gen 12, 20, and 26 is now rejected; mention
+    it as a historiographical misconception.
+  - >-
+    The household-gods-and-inheritance thesis for Rachel's theft (Gen 31) was challenged by
+    Greenberg (1962) and others; keep it as a debated option.
+  - >-
+    Surrogacy clauses are also known from Old Babylonian and Neo-Assyrian contracts, which
+    weakens any Nuzi-specific claim.
+  sources_to_check:
+  - M. P. Maidman, Nuzi Texts and Their Uses as Historical Evidence (SBLWAW 18, 2010)
+  - T. L. Thompson, The Historicity of the Patriarchal Narratives (BZAW 133, 1974)
+  - J. Van Seters, Abraham in History and Tradition (1975)
+  - >-
+    M. J. Selman, 'Comparative Customs and the Patriarchal Age,' in Essays on the Patriarchal
+    Narratives (ed. A. R. Millard and D. J. Wiseman, 1980)
+  - ANET 219-220
+  image_query: Nuzi tablet
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

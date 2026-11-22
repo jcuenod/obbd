@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: avaris-2
+file: avaris-2.jpg
+title: Reconstructed Minoan Fresco Avaris.jpg
+caption: >-
+  Modern reconstruction of a Minoan-style fresco with bulls from Avaris (Archaeological Museum
+  of Heraklion).
+description: >-
+  Reconstructed Minoan Fresco from Avaris, Egypt. Now Archaeological Museum Iraklion, Crete,
+  Greece.
+creator: Martin Dürrschnabel
+credit_line: Own work by Martin Dürrschnabel, de:Benutzer:Martin-D1,
+license:
+  id: CC-BY-SA-2.5
+  name: CC BY-SA 2.5
+  url: https://creativecommons.org/licenses/by-sa/2.5
+attribution: Martin Dürrschnabel, CC BY-SA 2.5, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Reconstructed_Minoan_Fresco_Avaris.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/2d/Reconstructed_Minoan_Fresco_Avaris.jpg
+  sha1: 66f28a10cfe96503bfe513efca6793ffd6fbe8f5
+  original_size: [2260, 693]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×491 px
+size: [1600, 491]
+depicts: [avaris]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: cisterns-and-water-systems
+title: Cisterns and Water Systems
+aliases: [Water shafts, Pools, Plastered cisterns]
+type: realia
+cultures: [hebrew, canaanite]
+scope: >-
+  Domestic cisterns, pools, and monumental urban water systems (shafts and tunnels) in Bronze
+  and Iron Age Palestine, with Jerusalem's Gihon systems and the pools named in the Gospels.
+passages:
+- ref: Gen 37:22-24
+  rel: realia
+  note: Joseph thrown into a dry pit (bôr)
+- ref: Jer 38:6
+  rel: realia
+  note: Jeremiah let down into a muddy cistern
+- ref: Jer 2:13
+  rel: imagery
+  note: '''Cracked cisterns that can hold no water'''
+- ref: Deut 6:11
+  rel: realia
+  note: '''Hewn cisterns that you did not hew'''
+- ref: 2Kgs 18:31
+  rel: realia
+  note: Each drinking water from his own cistern
+- ref: 2Sam 5:8
+  rel: realia
+  disputed: true
+  note: David's men attack via the ṣinnôr, perhaps a water shaft; sense disputed
+- ref: 2Kgs 20:20
+  rel: realia
+  note: Hezekiah's pool and conduit
+- ref: 2Chr 32:30
+  rel: realia
+  note: Gihon waters diverted to the west of the City of David
+- ref: Isa 22:9-11
+  rel: realia
+  note: Reservoir between the two walls for the old pool
+- ref: 2Sam 2:13
+  rel: realia
+  note: The pool of Gibeon
+- ref: John 9:7
+  rel: realia
+  note: Pool of Siloam
+- ref: John 5:2
+  rel: realia
+  note: Pool of Bethesda (Bethzatha) with five porticoes
+related: [hezekiahs-tunnel, siloam-inscription, pool-of-siloam, pool-of-bethesda, gibeon,
+  megiddo, hazor, city-of-david]
+media:
+- id: cisterns-and-water-systems
+  role: primary
+external:
+  wikipedia: Cistern
+  wikidata: Q838858
+editorial:
+  author_notes:
+  - >-
+    Albright held that lime-plastered cisterns made Iron I highland settlement possible. This
+    is now revised, since such cisterns are earlier and many villages relied on other sources.
+  - >-
+    Monumental systems at Megiddo, Hazor, Gibeon, and Beersheba are mostly dated to Iron II
+    (9th-8th centuries) rather than to Solomon. Their dating is tied to the chronology debate.
+  - >-
+    In Jerusalem, Reich and Shukron reinterpreted Warren's Shaft as not used for water drawing
+    in the Iron Age. They also identified a Middle Bronze spring tower. This affects readings
+    of 2 Sam 5:8.
+  image_query: Megiddo water system
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

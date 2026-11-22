@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: milkom
+title: Milkom
+aliases: [Milcom, Malcam]
+type: deity
+cultures: [ammonite]
+scope: >-
+  Milkom, the national god of Ammon, attested in the Hebrew Bible and in Ammonite inscriptions
+  and seals. Several biblical occurrences depend on the vocalization of the consonants mlkm
+  ("Milkom" or "their king").
+passages:
+- ref: 1Kgs 11:5, 33
+  rel: attests
+  note: Solomon follows 'Milcom the abomination of the Ammonites'
+- ref: 2Kgs 23:13
+  rel: attests
+  note: Josiah defiles the high place of Milcom
+- ref: Jer 49:1, 3
+  rel: language
+  note: MT malkām 'their king'; LXX and many moderns read Milcom
+- ref: Zeph 1:5
+  rel: language
+  note: Those who swear by malkām, often read as Milcom
+- ref: 2Sam 12:30
+  rel: language
+  disputed: true
+  note: Crown of malkām (Milcom or 'their king') taken at Rabbah
+- ref: Amos 1:15
+  rel: language
+  disputed: true
+  note: '''Their king'' (malkām) goes into exile; cf. Jer 49:3'
+related:
+- ammonites
+- rabbah
+- molek
+- chemosh
+- tell-siran-bottle-and-ammonite-inscriptions
+- seals-and-bullae
+media:
+- id: milkom
+  role: primary
+external:
+  wikipedia: Milcom
+  wikidata: Q1935282
+editorial:
+  author_notes:
+  - >-
+    Extrabiblical evidence includes the Amman Citadel Inscription (often read as an oracle
+    of Milkom) and theophoric names such as Milkomʾur on the Tell el-ʿUmeiri seal impression
+    naming a servant of Baʿalyašaʿ (cf. Baalis, Jer 40:14). Verify readings.
+  - >-
+    Milkom is distinct from Molek despite their shared root mlk; 1 Kgs 11:7 is commonly regarded
+    as a textual confusion.
+  - >-
+    Ammonite stone heads and statues with atef-like crowns may depict kings or deities; their
+    identification with Milkom is uncertain.
+  sources_to_check:
+  - W. E. Aufrecht, A Corpus of Ammonite Inscriptions (1989)
+  - DDD, s.v. "Milcom"
+  image_query: Ammonite statue Amman
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

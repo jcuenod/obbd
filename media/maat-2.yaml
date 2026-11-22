@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: maat-2
+file: maat-2.png
+title: RamessesIX-OstraconPresentingMaat MetropolitanMuseum.png
+caption: >-
+  Ostracon showing Ramesses IX presenting a figure of Maat (Metropolitan Museum of Art, New
+  York).
+description: >-
+  Ostracon depicting the pharaoh Ramesses IX-(Ramesses IX) presenting the goddess Maat-(Maat).
+creator: Keith Schengili-Roberts
+credit_line: Own Work (photo)
+license:
+  id: CC-BY-SA-2.5
+  name: CC BY-SA 2.5
+  url: https://creativecommons.org/licenses/by-sa/2.5
+attribution: Keith Schengili-Roberts, CC BY-SA 2.5, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:RamessesIX-OstraconPresentingMaat_MetropolitanMuseum.png
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/69/RamessesIX-OstraconPresentingMaat_MetropolitanMuseum.png
+  sha1: 3e6c9cf94acabe180d3e55564837d0ac75d3f955
+  original_size: [1248, 1236]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1248, 1236]
+depicts: [maat]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: kurkh-monoliths-2
+file: kurkh-monoliths-2.jpg
+title: Kurkh stele of Ashurnasirpal II. From Diyarbakır, southern Turkey. British Museum.jpg
+caption: >-
+  The Kurkh stele of Ashurnasirpal II, showing the king worshipping before divine symbols
+  (British Museum).
+description: >-
+  The Assyrian King Ashurnasirpal II worships in front of god symbols. The cuneiform inscription
+  describes his military campaign in the year 879 BCE when the Assyrian army attacked the
+  lands of the upper Tigris River, near Diyarbakir (modern southern Turkey). This stela was
+  probably set up soon afterward in one of the main cities under the Assyrian rule. Neo-Assyrian
+  era, 879 BCE, from Kurkh, near Diyarbakir. British Museum.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Kurkh_stele_of_Ashurnasirpal_II._From_Diyarbak%C4%B1r,_southern_Turkey._British_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/c/cf/Kurkh_stele_of_Ashurnasirpal_II._From_Diyarbak%C4%B1r%2C_southern_Turkey._British_Museum.jpg
+  sha1: 2f1a66989c22cbabfccf61233edf7445afef1728
+  original_size: [4016, 6016]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1068×1600 px
+size: [1068, 1600]
+depicts: [kurkh-monoliths]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

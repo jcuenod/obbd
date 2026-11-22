@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: great-hymn-to-shamash
+file: great-hymn-to-shamash.jpg
+title: Detail, Sun God Tablet from Sippar, Iraq, 9th century BCE. British Museum.jpg
+caption: >-
+  Šamaš enthroned in his shrine, detail of the Sun God Tablet of Nabu-apla-iddina from Sippar,
+  9th century BCE (British Museum, London).
+description: >-
+  Nabu-nadin-shum (a priest) and the goddess Aa lead Nabu-aplu-iddina (Babylonian king, r.
+  888-855 BCE) to a shrine. The symbols of Sin, Shamash, and Ishtar appear above the seated
+  Sun God. Babylonian, circa 860-850 BCE. From Sippar (Tell Abu Habbah), Mesopotamia, Iraq.
+  On display at the British Museum in London.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Detail,_Sun_God_Tablet_from_Sippar,_Iraq,_9th_century_BCE._British_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/2c/Detail%2C_Sun_God_Tablet_from_Sippar%2C_Iraq%2C_9th_century_BCE._British_Museum.jpg
+  sha1: 0e698f7d93851a86631dc28bd5ad2d631d96e13e
+  original_size: [5120, 3830]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1197 px
+size: [1600, 1197]
+depicts: [great-hymn-to-shamash, shamash, tablet-of-shamash]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

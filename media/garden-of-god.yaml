@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: garden-of-god
+file: garden-of-god.jpg
+title: Gypsum Relief of Gardens of Nineveh, North Palace, Nineveh, Iraq, 645-635 BC.jpg
+caption: >-
+  Gypsum relief of a royal garden watered by channels, North Palace of Ashurbanipal at Nineveh,
+  645-635 BCE (British Museum).
+description: >-
+  Gypsum Relief of Gardens of Nineveh, North Palace, Nineveh, Iraq, 645-635 BC Special Assyrian
+  exhibit on loan from the British Museum to the Hong Kong Museum of History. Complete indexed
+  photo collection at WorldHistoryPics.com.
+creator: Gary Todd
+credit_line: https://www.flickr.com/photos/101561334@N08/41061701590/
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Gary Todd. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Gypsum_Relief_of_Gardens_of_Nineveh,_North_Palace,_Nineveh,_Iraq,_645-635_BC.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/b8/Gypsum_Relief_of_Gardens_of_Nineveh%2C_North_Palace%2C_Nineveh%2C_Iraq%2C_645-635_BC.jpg
+  sha1: 2b0f110e65646aa3ff2161a4d51114fb02380e02
+  original_size: [5283, 3596]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1089 px
+size: [1600, 1089]
+depicts: [garden-of-god]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

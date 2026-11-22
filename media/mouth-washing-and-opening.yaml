@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: mouth-washing-and-opening
+file: mouth-washing-and-opening.jpg
+title: Opening of the mouth ceremony.jpg
+caption: >-
+  The Opening of the Mouth ceremony performed before the mummy of Hunefer, vignette from the
+  Book of the Dead of Hunefer, 19th Dynasty (British Museum).
+description: >-
+  This is an excellent example of one of the many fine vignettes (illustrations) from the
+  Book of the Dead of Hunefer. The centrepiece of the upper scene is the mummy of Hunefer,
+  shown supported by the god Anubis (or a priest wearing a jackal mask). Hunefer's wife and
+  daughter mourn, and three priests perform rituals. The two priests with white sashes are
+  carrying out the Opening of the Mouth ritual. The white building at the right is a representation
+  of the tomb, complete with portal doorway and small pyramid. Both these features can be
+  seen in real tombs of this date from Thebes. To the left o
+creator: Hunefer
+credit_line: >-
+  http://www.britishmuseum.org/explore/highlights/highlight_objects/aes/p/page_from_the_book_of_the_de-1.aspx,
+  https://www.webcitation.org/63YCN7sEt
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Hunefer. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Opening_of_the_mouth_ceremony.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/c/c1/Opening_of_the_mouth_ceremony.jpg
+  sha1: 7f34eee53735285889aa02ea2eac32e85719e5f0
+  original_size: [2168, 1775]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1310 px
+size: [1600, 1310]
+depicts: [mouth-washing-and-opening]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: merneptah
+file: merneptah.jpg
+title: King Merenptah-E 25474-IMG 0416-gradient.jpg
+caption: Bust from a statue of King Merneptah (Musée du Louvre, E 25474).
+description: null
+creator: Rama
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0 fr
+  url: https://creativecommons.org/licenses/by-sa/3.0/fr/deed.en
+attribution: Rama, CC BY-SA 3.0 fr, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:King_Merenptah-E_25474-IMG_0416-gradient.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/0/07/King_Merenptah-E_25474-IMG_0416-gradient.jpg
+  sha1: 8c0434c25be1a6e8a6ba7fab54a11d072a53daba
+  original_size: [5500, 5500]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1600 px
+size: [1600, 1600]
+depicts: [merneptah]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

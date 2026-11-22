@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: lachish-2
+file: lachish-2.jpg
+title: Tel Lachish siege ramp.jpg
+caption: The Assyrian siege ramp at Tel Lachish.
+description: Tel Lachish siege ramp
+creator: DaringDonna
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: DaringDonna, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tel_Lachish_siege_ramp.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/f/f8/Tel_Lachish_siege_ramp.jpg
+  sha1: 936f0273c0ea1aeac3b2aa9edab1e728bf3cf332
+  original_size: [6000, 4000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [lachish, sennacherib-campaign-701]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

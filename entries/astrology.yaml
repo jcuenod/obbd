@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: astrology
+title: Astrology and Astral Omens
+aliases: [astral omens, celestial divination]
+type: practice
+cultures: [babylonian, assyrian, persian, greek]
+scope: >-
+  Celestial divination in Mesopotamia, from the omen series Enuma Anu Enlil and the reports
+  of Assyrian court scholars to the later development of the zodiac and personal horoscopes,
+  and its reception and critique in biblical and early Jewish and Christian texts.
+passages:
+- ref: Isa 47:13
+  rel: practice
+  note: Babylon's 'dividers of the heavens', stargazers, and monthly prognosticators
+- ref: Jer 10:2
+  rel: polemic
+  note: '''Do not be dismayed at the signs of the heavens'''
+- ref: Dan 2:2, 27
+  rel: practice
+  note: Chaldeans and other court experts summoned to interpret
+- ref: Dan 4:7
+  rel: practice
+  note: Magicians, enchanters, Chaldeans, and diviners fail; MT 4:4
+- ref: Dan 5:7, 11
+  rel: practice
+  note: Chaldeans and diviners (gāzĕrîn) summoned
+- ref: Gen 1:14-18
+  rel: polemic
+  disputed: true
+  note: Sun and moon unnamed, made 'lights' for signs and seasons; anti-astral reading debated
+- ref: Matt 2:1-12
+  rel: practice
+  note: Magi from the East following a star
+related: [enuma-anu-enlil, constellations, host-of-heaven, divination, zoroastrianism, persia]
+media:
+- id: astrology
+  role: primary
+external:
+  wikipedia: Babylonian astrology
+  wikidata: Q2491679
+editorial:
+  author_notes:
+  - >-
+    Distinguish the state-oriented celestial omens of Enuma Anu Enlil, attested in Neo-Assyrian
+    scholarly reports and letters (SAA 8; SAA 10), from personal horoscopy. The earliest Babylonian
+    horoscopes date to the late 5th century BCE.
+  - >-
+    The term "Chaldean" (kaśdîm) became a professional term for astrologer in Hellenistic
+    usage. This is relevant to Daniel's date and setting.
+  - >-
+    Avoid astronomical speculation about the star of Matt 2 (conjunctions, comets, novae).
+    Focus on the magi as Persian or Babylonian court experts in the Greco-Roman imagination.
+  - >-
+    The reading of Gen 1:14-18 as deliberate demotion of astral deities is common but disputed.
+    Mark it accordingly.
+  sources_to_check:
+  - SAA 8
+  - SAA 10
+  - Francesca Rochberg, The Heavenly Writing (2004)
+  image_query: Venus tablet of Ammisaduqa
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

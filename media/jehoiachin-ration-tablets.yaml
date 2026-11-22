@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: jehoiachin-ration-tablets
+file: jehoiachin-ration-tablets.jpg
+title: Jehoiachin Ration Tablet.JPG
+caption: >-
+  Ration tablet from the South Palace of Babylon listing oil for Jehoiachin, clay (Vorderasiatisches
+  Museum, Berlin).
+description: Jehoiachin's Rations Tablet, Pergamon Museum, Berlin
+creator: Scallaham
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Scallaham, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Jehoiachin_Ration_Tablet.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/5/51/Jehoiachin_Ration_Tablet.JPG
+  sha1: d70798a8f5fc094b4d004fe0544a2eb8a2d45235
+  original_size: [2157, 1587]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1178 px
+size: [1600, 1178]
+depicts: [jehoiachin-ration-tablets]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

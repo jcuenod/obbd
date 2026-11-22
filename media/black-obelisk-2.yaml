@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: black-obelisk-2
+file: black-obelisk-2.jpg
+title: Black Obelisk Yehu in front of Shalmaneser III.jpg
+caption: >-
+  Second register of the Black Obelisk: a figure prostrate before Shalmaneser III, captioned
+  as the tribute of Jehu (Iaua) of Bit-Humri.
+description: Black Obelisk Yehu in front of Shalmaneser III
+creator: Steven G. Johnson
+credit_line: This image has been extracted from another file
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Steven G. Johnson, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Black_Obelisk_Yehu_in_front_of_Shalmaneser_III.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/e/ec/Black_Obelisk_Yehu_in_front_of_Shalmaneser_III.jpg
+  sha1: 0cbb0f2b57d08b84b7795078ffb725d8f5bc93a7
+  original_size: [2594, 1208]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×745 px
+size: [1600, 745]
+depicts: [black-obelisk, jehu, shalmaneser-iii]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

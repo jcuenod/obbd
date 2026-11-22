@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: kilamuwa-stele
+file: kilamuwa-stele.jpg
+title: Pergamon Museum Kilamuwa Stela from Sam'al Zincirli 1583.jpg
+caption: >-
+  The Kilamuwa stele, basalt, c. 825 BCE, from Samʾal (Zincirli), showing the king before
+  divine symbols above his Phoenician inscription (Pergamon Museum, Berlin).
+description: >-
+  Basalt stele with Phoenician language self-congratulatory text praising king Kilamuwa who
+  is shown praying in front of symbols of deities. Circa 825 BCE. From one of the palaces
+  at the citadel of Sam'al/Zincirli, modern-day Southern Turkey. Pergamon Museum, Berlin,
+  Germany.
+creator: Dosseman
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Dosseman, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Pergamon_Museum_Kilamuwa_Stela_from_Sam%27al_Zincirli_1583.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/5/5d/Pergamon_Museum_Kilamuwa_Stela_from_Sam%27al_Zincirli_1583.jpg
+  sha1: 8c9c3ecac4fbb36837da8bd7e167871ae16efc71
+  original_size: [5504, 8256]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1067×1600 px
+size: [1067, 1600]
+depicts: [kilamuwa-stele]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

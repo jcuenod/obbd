@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: treatment-of-captives-2
+file: treatment-of-captives-2.jpg
+title: >-
+  Assyrian relief of attack on an enemy town during the reign of Tiglath-Pileser III 720-741
+  BCE from his palace at Kalhu (Nimrud).jpg
+caption: Impaled captives on a relief of Tiglath-pileser III from his palace at Nimrud.
+description: >-
+  Impaled victims in Assyrian relief of attack on an enemy town during the reign of Tiglath-Pileser
+  III 720-737 BCE from his palace at Kalhu (Nimrud), gypsum, now in the collections of the
+  British Museum on loan to the Getty Villa
+creator: Mary Harrsch
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Mary Harrsch, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Assyrian_relief_of_attack_on_an_enemy_town_during_the_reign_of_Tiglath-Pileser_III_720-741_BCE_from_his_palace_at_Kalhu_(Nimrud).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/bc/Assyrian_relief_of_attack_on_an_enemy_town_during_the_reign_of_Tiglath-Pileser_III_720-741_BCE_from_his_palace_at_Kalhu_%28Nimrud%29.jpg
+  sha1: ba1e1dd6ecf69547ebc6704147e0c786cd720a37
+  original_size: [3456, 4608]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1200×1600 px
+size: [1200, 1600]
+depicts: [treatment-of-captives]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

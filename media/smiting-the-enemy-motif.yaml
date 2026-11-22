@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: smiting-the-enemy-motif
+file: smiting-the-enemy-motif.jpg
+title: Narmer Palette smiting side.jpg
+caption: >-
+  The Narmer Palette, smiting side: the king strikes a kneeling enemy with a mace, c. 3100
+  BCE (Egyptian Museum, Cairo).
+description: The smiting side of the Narmer Palette
+creator: Unknown authorUnknown author
+credit_line: http://www.studyblue.com/notes/note/n/exam-1/deck/3768468
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Unknown authorUnknown author. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Narmer_Palette_smiting_side.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/e/e3/Narmer_Palette_smiting_side.jpg
+  sha1: 292196964b271719f4bb63950eae75a748d16013
+  original_size: [2295, 3388]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1084×1600 px
+size: [1084, 1600]
+depicts: [narmer-palette, smiting-the-enemy-motif]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

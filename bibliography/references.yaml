@@ -1,0 +1,464 @@
+# Shared bibliography in CSL-YAML (the format Pandoc/citeproc, Zotero (via Better BibTeX),
+# and most citation tools understand). Cite in articles as [@id] or [@id, 23–25].
+# Standard abbreviations (COS, ANET, ABD…) go in `citation-label`; the site uses them for
+# in-text citations. Works without one are cited author–date (George 2003).
+#
+# Seeded 2026-11-20 with standard text editions, translations, and reference works that the
+# entries' "sources_to_check" lists rely on. Check details against a library catalogue
+# before first citation; add a `verified: YYYY-MM-DD` field once checked.
+# Ids: short, lowercase, stable. Series volumes use the series id plus the volume (saa2, rinap4).
+references:
+  # --- anthologies of ancient Near Eastern texts -----------------------------------------
+  - id: cos1
+    citation-label: COS 1
+    type: book
+    title: "The Context of Scripture, Volume 1: Canonical Compositions from the Biblical World"
+    editor: [{family: Hallo, given: William W.}, {family: Younger, given: K. Lawson, suffix: Jr.}]
+    publisher: Brill
+    publisher-place: Leiden
+    issued: {date-parts: [[1997]]}
+  - id: cos2
+    citation-label: COS 2
+    type: book
+    title: "The Context of Scripture, Volume 2: Monumental Inscriptions from the Biblical World"
+    editor: [{family: Hallo, given: William W.}, {family: Younger, given: K. Lawson, suffix: Jr.}]
+    publisher: Brill
+    publisher-place: Leiden
+    issued: {date-parts: [[2000]]}
+  - id: cos3
+    citation-label: COS 3
+    type: book
+    title: "The Context of Scripture, Volume 3: Archival Documents from the Biblical World"
+    editor: [{family: Hallo, given: William W.}, {family: Younger, given: K. Lawson, suffix: Jr.}]
+    publisher: Brill
+    publisher-place: Leiden
+    issued: {date-parts: [[2002]]}
+  - id: cos4
+    citation-label: COS 4
+    type: book
+    title: "The Context of Scripture, Volume 4: Supplements"
+    editor: [{family: Younger, given: K. Lawson, suffix: Jr.}]
+    publisher: Brill
+    publisher-place: Leiden
+    issued: {date-parts: [[2017]]}
+  - id: anet
+    citation-label: ANET
+    type: book
+    title: Ancient Near Eastern Texts Relating to the Old Testament
+    edition: 3rd ed. with Supplement
+    editor: [{family: Pritchard, given: James B.}]
+    publisher: Princeton University Press
+    publisher-place: Princeton
+    issued: {date-parts: [[1969]]}
+  - id: anep
+    citation-label: ANEP
+    type: book
+    title: The Ancient Near East in Pictures Relating to the Old Testament
+    edition: 2nd ed. with Supplement
+    editor: [{family: Pritchard, given: James B.}]
+    publisher: Princeton University Press
+    publisher-place: Princeton
+    issued: {date-parts: [[1969]]}
+  - id: ael
+    citation-label: AEL
+    type: book
+    title: "Ancient Egyptian Literature: A Book of Readings"
+    author: [{family: Lichtheim, given: Miriam}]
+    number-of-volumes: 3
+    publisher: University of California Press
+    publisher-place: Berkeley
+    issued: {date-parts: [[1973]]}
+    note: "Vol. 1: The Old and Middle Kingdoms (1973); vol. 2: The New Kingdom (1976); vol. 3: The Late Period (1980)."
+
+  # --- West Semitic epigraphy ----------------------------------------------------------------
+  - id: kai
+    citation-label: KAI
+    type: book
+    title: Kanaanäische und aramäische Inschriften
+    edition: 5th ed.
+    volume: "1"
+    author: [{family: Donner, given: Herbert}, {family: Röllig, given: Wolfgang}]
+    publisher: Harrassowitz
+    publisher-place: Wiesbaden
+    issued: {date-parts: [[2002]]}
+  - id: tad
+    citation-label: TAD
+    type: book
+    title: Textbook of Aramaic Documents from Ancient Egypt
+    author: [{family: Porten, given: Bezalel}, {family: Yardeni, given: Ada}]
+    number-of-volumes: 4
+    publisher: Hebrew University, Department of the History of the Jewish People
+    publisher-place: Jerusalem
+    issued: {date-parts: [[1986]]}
+    note: "4 vols., 1986–1999."
+  - id: dobbs-allsopp-hebrew-inscriptions
+    type: book
+    title: "Hebrew Inscriptions: Texts from the Biblical Period of the Monarchy with Concordance"
+    author: [{family: Dobbs-Allsopp, given: F. W.}, {family: Roberts, given: J. J. M.}, {family: Seow, given: C. L.}, {family: Whitaker, given: R. E.}]
+    publisher: Yale University Press
+    publisher-place: New Haven
+    issued: {date-parts: [[2005]]}
+  - id: ahituv-echoes
+    type: book
+    title: "Echoes from the Past: Hebrew and Cognate Inscriptions from the Biblical Period"
+    author: [{family: Ahituv, given: Shmuel}]
+    publisher: Carta
+    publisher-place: Jerusalem
+    issued: {date-parts: [[2008]]}
+  - id: avigad-sass-wsss
+    type: book
+    title: Corpus of West Semitic Stamp Seals
+    author: [{family: Avigad, given: Nahman}, {family: Sass, given: Benjamin}]
+    publisher: Israel Academy of Sciences and Humanities; Israel Exploration Society
+    publisher-place: Jerusalem
+    issued: {date-parts: [[1997]]}
+  - id: ktu3
+    citation-label: KTU
+    type: book
+    title: Die keilalphabetischen Texte aus Ugarit, Ras Ibn Hani und anderen Orten
+    edition: 3rd enlarged ed.
+    collection-title: Alter Orient und Altes Testament
+    collection-number: "360/1"
+    author: [{family: Dietrich, given: Manfried}, {family: Loretz, given: Oswald}, {family: Sanmartín, given: Joaquín}]
+    publisher: Ugarit-Verlag
+    publisher-place: Münster
+    issued: {date-parts: [[2013]]}
+  - id: parker-unp
+    type: book
+    title: Ugaritic Narrative Poetry
+    editor: [{family: Parker, given: Simon B.}]
+    collection-title: Writings from the Ancient World
+    collection-number: "9"
+    publisher: Scholars Press
+    publisher-place: Atlanta
+    issued: {date-parts: [[1997]]}
+  - id: smith-baal-cycle-1
+    type: book
+    title: "The Ugaritic Baal Cycle, Volume 1: Introduction with Text, Translation and Commentary of KTU 1.1–1.2"
+    author: [{family: Smith, given: Mark S.}]
+    collection-title: Supplements to Vetus Testamentum
+    collection-number: "55"
+    publisher: Brill
+    publisher-place: Leiden
+    issued: {date-parts: [[1994]]}
+
+  # --- Mesopotamian royal inscriptions, letters, chronicles, law --------------------------------
+  - id: rime3-1
+    citation-label: RIME 3/1
+    type: book
+    title: "Gudea and His Dynasty"
+    author: [{family: Edzard, given: Dietz Otto}]
+    collection-title: The Royal Inscriptions of Mesopotamia, Early Periods
+    collection-number: "3/1"
+    publisher: University of Toronto Press
+    publisher-place: Toronto
+    issued: {date-parts: [[1997]]}
+  - id: rima2
+    citation-label: RIMA 2
+    type: book
+    title: "Assyrian Rulers of the Early First Millennium BC I (1114–859 BC)"
+    author: [{family: Grayson, given: A. Kirk}]
+    collection-title: The Royal Inscriptions of Mesopotamia, Assyrian Periods
+    collection-number: "2"
+    publisher: University of Toronto Press
+    publisher-place: Toronto
+    issued: {date-parts: [[1991]]}
+  - id: rima3
+    citation-label: RIMA 3
+    type: book
+    title: "Assyrian Rulers of the Early First Millennium BC II (858–745 BC)"
+    author: [{family: Grayson, given: A. Kirk}]
+    collection-title: The Royal Inscriptions of Mesopotamia, Assyrian Periods
+    collection-number: "3"
+    publisher: University of Toronto Press
+    publisher-place: Toronto
+    issued: {date-parts: [[1996]]}
+  - id: rinap1
+    citation-label: RINAP 1
+    type: book
+    title: The Royal Inscriptions of Tiglath-pileser III (744–727 BC) and Shalmaneser V (726–722 BC), Kings of Assyria
+    author: [{family: Tadmor, given: Hayim}, {family: Yamada, given: Shigeo}]
+    collection-title: The Royal Inscriptions of the Neo-Assyrian Period
+    collection-number: "1"
+    publisher: Eisenbrauns
+    publisher-place: Winona Lake, IN
+    issued: {date-parts: [[2011]]}
+  - id: rinap3-1
+    citation-label: RINAP 3/1
+    type: book
+    title: The Royal Inscriptions of Sennacherib, King of Assyria (704–681 BC), Part 1
+    author: [{family: Grayson, given: A. Kirk}, {family: Novotny, given: Jamie}]
+    collection-title: The Royal Inscriptions of the Neo-Assyrian Period
+    collection-number: "3/1"
+    publisher: Eisenbrauns
+    publisher-place: Winona Lake, IN
+    issued: {date-parts: [[2012]]}
+  - id: rinap4
+    citation-label: RINAP 4
+    type: book
+    title: The Royal Inscriptions of Esarhaddon, King of Assyria (680–669 BC)
+    author: [{family: Leichty, given: Erle}]
+    collection-title: The Royal Inscriptions of the Neo-Assyrian Period
+    collection-number: "4"
+    publisher: Eisenbrauns
+    publisher-place: Winona Lake, IN
+    issued: {date-parts: [[2011]]}
+  - id: saa2
+    citation-label: SAA 2
+    type: book
+    title: Neo-Assyrian Treaties and Loyalty Oaths
+    author: [{family: Parpola, given: Simo}, {family: Watanabe, given: Kazuko}]
+    collection-title: State Archives of Assyria
+    collection-number: "2"
+    publisher: Helsinki University Press
+    publisher-place: Helsinki
+    issued: {date-parts: [[1988]]}
+  - id: saa9
+    citation-label: SAA 9
+    type: book
+    title: Assyrian Prophecies
+    author: [{family: Parpola, given: Simo}]
+    collection-title: State Archives of Assyria
+    collection-number: "9"
+    publisher: Helsinki University Press
+    publisher-place: Helsinki
+    issued: {date-parts: [[1997]]}
+  - id: abc
+    citation-label: ABC
+    type: book
+    title: Assyrian and Babylonian Chronicles
+    author: [{family: Grayson, given: A. K.}]
+    collection-title: Texts from Cuneiform Sources
+    collection-number: "5"
+    publisher: J. J. Augustin
+    publisher-place: Locust Valley, NY
+    issued: {date-parts: [[1975]]}
+  - id: glassner-chronicles
+    type: book
+    title: Mesopotamian Chronicles
+    author: [{family: Glassner, given: Jean-Jacques}]
+    collection-title: Writings from the Ancient World
+    collection-number: "19"
+    publisher: Society of Biblical Literature
+    publisher-place: Atlanta
+    issued: {date-parts: [[2004]]}
+  - id: roth-law
+    type: book
+    title: Law Collections from Mesopotamia and Asia Minor
+    edition: 2nd ed.
+    author: [{family: Roth, given: Martha T.}]
+    collection-title: Writings from the Ancient World
+    collection-number: "6"
+    publisher: Scholars Press
+    publisher-place: Atlanta
+    issued: {date-parts: [[1997]]}
+  - id: moran-amarna
+    type: book
+    title: The Amarna Letters
+    editor: [{family: Moran, given: William L.}]
+    translator: [{family: Moran, given: William L.}]
+    publisher: Johns Hopkins University Press
+    publisher-place: Baltimore
+    issued: {date-parts: [[1992]]}
+  - id: nissinen-prophets
+    type: book
+    title: Prophets and Prophecy in the Ancient Near East
+    author: [{family: Nissinen, given: Martti}]
+    collection-title: Writings from the Ancient World
+    collection-number: "12"
+    publisher: Society of Biblical Literature
+    publisher-place: Atlanta
+    issued: {date-parts: [[2003]]}
+  - id: beckman-hdt
+    type: book
+    title: Hittite Diplomatic Texts
+    edition: 2nd ed.
+    author: [{family: Beckman, given: Gary}]
+    collection-title: Writings from the Ancient World
+    collection-number: "7"
+    publisher: Scholars Press
+    publisher-place: Atlanta
+    issued: {date-parts: [[1999]]}
+
+  # --- Mesopotamian literature --------------------------------------------------------------------
+  - id: lambert-millard-atrahasis
+    type: book
+    title: "Atra-ḫasīs: The Babylonian Story of the Flood"
+    author: [{family: Lambert, given: W. G.}, {family: Millard, given: A. R.}]
+    publisher: Clarendon Press
+    publisher-place: Oxford
+    issued: {date-parts: [[1969]]}
+  - id: george-gilgamesh
+    type: book
+    title: "The Babylonian Gilgamesh Epic: Introduction, Critical Edition and Cuneiform Texts"
+    author: [{family: George, given: A. R.}]
+    number-of-volumes: 2
+    publisher: Oxford University Press
+    publisher-place: Oxford
+    issued: {date-parts: [[2003]]}
+  - id: lambert-bcm
+    type: book
+    title: Babylonian Creation Myths
+    author: [{family: Lambert, given: W. G.}]
+    collection-title: Mesopotamian Civilizations
+    collection-number: "16"
+    publisher: Eisenbrauns
+    publisher-place: Winona Lake, IN
+    issued: {date-parts: [[2013]]}
+  - id: westenholz-good-shepherd
+    type: chapter
+    title: "The Good Shepherd"
+    author: [{family: Westenholz, given: Joan Goodnick}]
+    container-title: "Schools of Oriental Studies and the Development of Modern Historiography"
+    editor: [{family: Panaino, given: Antonio}, {family: Piras, given: Andrea}]
+    collection-title: Melammu Symposia
+    collection-number: "4"
+    publisher: Università di Bologna & IsIao
+    publisher-place: Milan
+    page: 281–310
+    issued: {date-parts: [[2004]]}
+    URL: http://www.melammu-project.eu/pdf/westenholz2004.pdf
+    verified: 2026-11-21
+  - id: wilkinson-early-dynastic
+    type: book
+    title: Early Dynastic Egypt
+    author: [{family: Wilkinson, given: Toby A. H.}]
+    publisher: Routledge
+    publisher-place: London
+    issued: {date-parts: [[1999]]}
+  - id: lambert-bwl
+    type: book
+    title: Babylonian Wisdom Literature
+    author: [{family: Lambert, given: W. G.}]
+    publisher: Clarendon Press
+    publisher-place: Oxford
+    issued: {date-parts: [[1960]]}
+  - id: horowitz-cosmic-geography
+    type: book
+    title: Mesopotamian Cosmic Geography
+    author: [{family: Horowitz, given: Wayne}]
+    collection-title: Mesopotamian Civilizations
+    collection-number: "8"
+    publisher: Eisenbrauns
+    publisher-place: Winona Lake, IN
+    issued: {date-parts: [[1998]]}
+  - id: livingstone-hemerologies
+    type: book
+    title: Hemerologies of Assyrian and Babylonian Scholars
+    author: [{family: Livingstone, given: Alasdair}]
+    collection-title: Cornell University Studies in Assyriology and Sumerology
+    collection-number: "25"
+    publisher: CDL Press
+    publisher-place: Bethesda, MD
+    issued: {date-parts: [[2013]]}
+  - id: walker-dick-induction
+    type: book
+    title: "The Induction of the Cult Image in Ancient Mesopotamia: The Mesopotamian Mīs Pî Ritual"
+    author: [{family: Walker, given: Christopher}, {family: Dick, given: Michael}]
+    collection-title: State Archives of Assyria Literary Texts
+    collection-number: "1"
+    publisher: Neo-Assyrian Text Corpus Project
+    publisher-place: Helsinki
+    issued: {date-parts: [[2001]]}
+  - id: cohen-cultic-calendars
+    type: book
+    title: The Cultic Calendars of the Ancient Near East
+    author: [{family: Cohen, given: Mark E.}]
+    publisher: CDL Press
+    publisher-place: Bethesda, MD
+    issued: {date-parts: [[1993]]}
+
+  # --- reference works and syntheses ------------------------------------------------------------
+  - id: ddd
+    citation-label: DDD
+    type: book
+    title: Dictionary of Deities and Demons in the Bible
+    edition: 2nd ed.
+    editor: [{family: van der Toorn, given: Karel}, {family: Becking, given: Bob}, {family: van der Horst, given: Pieter W.}]
+    publisher: Brill; Eerdmans
+    publisher-place: Leiden; Grand Rapids
+    issued: {date-parts: [[1999]]}
+  - id: abd
+    citation-label: ABD
+    type: book
+    title: The Anchor Bible Dictionary
+    editor: [{family: Freedman, given: David Noel}]
+    number-of-volumes: 6
+    publisher: Doubleday
+    publisher-place: New York
+    issued: {date-parts: [[1992]]}
+  - id: neaehl
+    citation-label: NEAEHL
+    type: book
+    title: The New Encyclopedia of Archaeological Excavations in the Holy Land
+    editor: [{family: Stern, given: Ephraim}]
+    number-of-volumes: 4
+    publisher: Israel Exploration Society; Carta
+    publisher-place: Jerusalem
+    issued: {date-parts: [[1993]]}
+    note: "Vol. 5 (Supplementary Volume), 2008."
+  - id: keel-uehlinger-ggig
+    type: book
+    title: Gods, Goddesses, and Images of God in Ancient Israel
+    author: [{family: Keel, given: Othmar}, {family: Uehlinger, given: Christoph}]
+    translator: [{family: Trapp, given: Thomas H.}]
+    publisher: Fortress Press
+    publisher-place: Minneapolis
+    issued: {date-parts: [[1998]]}
+  - id: keel-symbolism
+    type: book
+    title: "The Symbolism of the Biblical World: Ancient Near Eastern Iconography and the Book of Psalms"
+    author: [{family: Keel, given: Othmar}]
+    translator: [{family: Hallett, given: Timothy J.}]
+    publisher: Seabury Press
+    publisher-place: New York
+    issued: {date-parts: [[1978]]}
+  - id: king-stager-life
+    type: book
+    title: Life in Biblical Israel
+    author: [{family: King, given: Philip J.}, {family: Stager, given: Lawrence E.}]
+    collection-title: Library of Ancient Israel
+    publisher: Westminster John Knox
+    publisher-place: Louisville
+    issued: {date-parts: [[2001]]}
+  - id: mazar-archaeology
+    type: book
+    title: "Archaeology of the Land of the Bible, 10,000–586 B.C.E."
+    author: [{family: Mazar, given: Amihai}]
+    collection-title: Anchor Bible Reference Library
+    publisher: Doubleday
+    publisher-place: New York
+    issued: {date-parts: [[1990]]}
+  - id: day-dragon
+    type: book
+    title: "God's Conflict with the Dragon and the Sea: Echoes of a Canaanite Myth in the Old Testament"
+    author: [{family: Day, given: John}]
+    publisher: Cambridge University Press
+    publisher-place: Cambridge
+    issued: {date-parts: [[1985]]}
+  - id: mettinger-no-graven-image
+    type: book
+    title: "No Graven Image? Israelite Aniconism in Its Ancient Near Eastern Context"
+    author: [{family: Mettinger, given: Tryggve N. D.}]
+    collection-title: Coniectanea Biblica, Old Testament Series
+    collection-number: "42"
+    publisher: Almqvist & Wiksell
+    publisher-place: Stockholm
+    issued: {date-parts: [[1995]]}
+  - id: hurowitz-exalted-house
+    type: book
+    title: "I Have Built You an Exalted House: Temple Building in the Bible in Light of Mesopotamian and Northwest Semitic Writings"
+    author: [{family: Hurowitz, given: Victor Avigdor}]
+    collection-title: Journal for the Study of the Old Testament Supplement Series
+    collection-number: "115"
+    publisher: JSOT Press
+    publisher-place: Sheffield
+    issued: {date-parts: [[1992]]}
+  - id: hallo-new-moons-sabbaths
+    type: article-journal
+    title: "New Moons and Sabbaths: A Case-Study in the Contrastive Approach"
+    author: [{family: Hallo, given: William W.}]
+    container-title: Hebrew Union College Annual
+    volume: "48"
+    page: "1-18"
+    issued: {date-parts: [[1977]]}

@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: nuzi-texts
+file: nuzi-texts.jpg
+title: Legal dispute over land - Nuzi.jpg
+caption: >-
+  Clay tablet from Nuzi (Yorghan Tepe) reporting a lawsuit over land and its dimtu tower (Oriental
+  Institute Museum, Chicago).
+description: >-
+  Clay tablet from Yorghan Tepe, ancien Nuzi. Report of a trial relating to the possession
+  of a land and the "tower" (dimtu) which stands at its center. Edited in JEN II, 321 by E.
+  Chiera. See Maynard P. Maidman, Nuzi Texts and Their Uses as Historical Evidence, Atlanta,
+  Society of Biblical Literature, 2010, text no 61 pp. 138-141. Exhibit in the Oriental Institute
+  Museum, University of Chicago, Chicago, Illinois, USA.
+creator: User:Daderot
+credit_line: >-
+  File:Tablet in Akkadian language recording court proceedings with seal impressed envelope,
+  Yorgan Tepe, Kingdom of Mittani, 1450-1350 BC, clay - Oriental Institute Museum, University
+  of Chicago - DSC07088.JPG
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: User:Daderot. CC0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Legal_dispute_over_land_-_Nuzi.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/9/9c/Legal_dispute_over_land_-_Nuzi.jpg
+  sha1: a5d33fa9c8ab489b38759ed6c59a026476033f00
+  original_size: [2213, 3505]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1010×1600 px
+size: [1010, 1600]
+depicts: [nuzi-texts]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

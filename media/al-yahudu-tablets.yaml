@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: al-yahudu-tablets
+file: al-yahudu-tablets.jpg
+title: Al-Yahudu Tablets3 (cropped).jpg
+caption: >-
+  Cuneiform tablet from the Āl-Yāhūdu archive naming the town of Āl-Yāhūdu, 6th–5th century
+  BCE (Bible Lands Museum, Jerusalem).
+description: >-
+  מתעודות אל יהודו: לוחות טין מוטבעים בכתב יתדות. מוזיאון ארצות המקרא, ירושלים. תעודה זו מכילה
+  את הטקסט "אל-יהודו"
+creator: עמית אבידן
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: עמית אבידן, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Al-Yahudu_Tablets3_(cropped).jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/4/42/Al-Yahudu_Tablets3_%28cropped%29.jpg
+  sha1: 03d24a15c1d036b19a6f8d9e407637e245d09710
+  original_size: [2128, 2106]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1583 px
+size: [1600, 1583]
+depicts: [al-yahudu-tablets, babylonian-exile]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

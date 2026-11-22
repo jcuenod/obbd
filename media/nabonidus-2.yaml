@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: nabonidus-2
+file: nabonidus-2.jpg
+title: UrfaMuseumNabonid.jpg
+caption: >-
+  Stele of Nabonidus from Harran, showing the king beneath the symbols of the moon, sun and
+  Venus (Şanlıurfa Archaeological Museum).
+description: >-
+  Archaeological Museum Şanlıurfa, Southeast Turkey, Stele des Nabonid from Harran, excerpt
+creator: Klaus-Peter Simon
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Klaus-Peter Simon, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:UrfaMuseumNabonid.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/7/77/UrfaMuseumNabonid.jpg
+  sha1: f3d13c9d2f88e74010ac3a4a6ea2cddf1fb5820d
+  original_size: [3456, 5184]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1067×1600 px
+size: [1067, 1600]
+depicts: [harran, nabonidus, nabonidus-cylinders]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: caiaphas-ossuary
+file: caiaphas-ossuary.jpg
+title: Ossuary of the high priest Joseph Caiaphas P1180839.JPG
+caption: >-
+  The decorated limestone ossuary inscribed 'Yehosef bar Qayafa', found in Jerusalem in 1990,
+  1st century CE (Israel Museum, Jerusalem).
+description: >-
+  Ossuary of of the high priest, Joseph Caiaphas, was found in Jerusalem in 1990. The Israel
+  Museum, jerusalem
+creator: deror_avi
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: deror_avi, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Ossuary_of_the_high_priest_Joseph_Caiaphas_P1180839.JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/63/Ossuary_of_the_high_priest_Joseph_Caiaphas_P1180839.JPG
+  sha1: bb6c05344f07156cd87362a99a1062166fc08f0a
+  original_size: [4000, 3000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [caiaphas-ossuary]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

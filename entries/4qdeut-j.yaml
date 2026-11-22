@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: 4qdeut-j
+title: 4QDeuteronomyʲ and Deuteronomy 32:8
+aliases: [4Q37, 4QDeutʲ]
+type: artifact
+cultures: [jewish]
+date:
+  from: -50
+  to: 50
+  circa: true
+  display: c. 50 BCE–50 CE
+scope: >-
+  A Herodian-period manuscript from Qumran Cave 4 containing excerpts of Deuteronomy (and
+  Exodus). It preserves at Deut 32:8 the reading 'sons of God', against the Masoretic 'sons
+  of Israel'. The entry also covers the related reading of Deut 32:43 in 4QDeutq and the LXX.
+passages:
+- ref: Deut 32:8-9
+  rel: language
+  note: Nations divided 'according to the number of the sons of God'; MT 'sons of Israel'
+- ref: Deut 32:43
+  rel: language
+  note: Longer text in 4QDeut-q and LXX calling heavenly beings to worship
+- ref: Heb 1:6
+  rel: language
+  note: Quotes the longer Greek form of Deut 32:43
+- ref: Ps 82:1, 6
+  rel: concept
+  note: God judges among the gods, 'children of the Most High'
+- ref: Job 1:6; 2:1; 38:7
+  rel: language
+  note: bĕnê hāʾĕlōhîm as heavenly beings
+- ref: Gen 10:1-32
+  rel: concept
+  note: The seventy nations, a count often linked with Deut 32:8
+- ref: Dan 10:13, 20-21
+  rel: concept
+  note: Angelic princes over nations, a development of Deut 32:8-9
+related: [dead-sea-scrolls, septuagint, sons-of-god, divine-council, elyon, table-of-nations]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Most text critics regard 'sons of God' as original and MT 'sons of Israel' as a theological
+    correction. NRSV and other modern versions follow the Qumran reading.
+  - >-
+    LXX evidence: most witnesses read 'angels of God', some 'sons of God'. Check the Göttingen
+    apparatus (Wevers) before stating the LXX reading.
+  - >-
+    Present neutrally the debate over whether Elyon in 32:8 is distinct from YHWH (32:9) or
+    identical with him.
+  - >-
+    The manuscript's excerpted character (Deuteronomy and Exodus passages) suggests liturgical
+    or devotional use; verify its exact contents and date in DJD XIV.
+  sources_to_check:
+  - >-
+    E. Ulrich, F. M. Cross et al., Qumran Cave 4.IX: Deuteronomy, Joshua, Judges, Kings (DJD
+    XIV, 1995)
+  - E. Tov, Textual Criticism of the Hebrew Bible (3rd ed., 2012)
+  image_query: 4QDeuteronomy j Dead Sea Scroll
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-1-sol

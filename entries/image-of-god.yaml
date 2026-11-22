@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: image-of-god
+title: Image of God (Imago Dei)
+aliases: [imago Dei]
+type: concept
+cultures: [ane, egyptian, assyrian, aramean]
+scope: >-
+  The biblical claim that humans are made "in the image (ṣelem) and likeness (dĕmût)" of God,
+  read against ancient Near Eastern uses of image language for cult statues and for kings
+  as earthly representatives of gods.
+passages:
+- ref: Gen 1:26-28
+  rel: concept
+  note: Humans made in God's ṣelem and dĕmût, given dominion
+- ref: Gen 5:1-3
+  rel: language
+  note: Adam fathers Seth 'in his likeness, according to his image'
+- ref: Gen 9:6
+  rel: concept
+  note: Murder prohibited because humans are made in God's image
+- ref: Ps 8:5-8
+  rel: concept
+  note: Royal language of crowning and dominion applied to humanity; MT 8:6-9
+- ref: 2Kgs 11:18
+  rel: language
+  note: ṣelem used of cult images in the temple of Baal
+- ref: Num 33:52
+  rel: language
+  note: ṣalmê massēkōt 'cast images' to be destroyed
+- ref: Col 1:15
+  rel: concept
+  note: Christ as 'the image of the invisible God'
+- ref: Jas 3:9
+  rel: concept
+  note: Humans 'made in the likeness of God'
+related: [tell-fekheriye-statue, cult-images, royal-ideology, egyptian-kingship, creation-of-humanity,
+  mouth-washing-and-opening]
+media:
+- id: image-of-god
+  role: primary
+external:
+  wikipedia: Image of God
+  wikidata: Q1538955
+editorial:
+  author_notes:
+  - >-
+    The Tell Fekheriye bilingual (9th c. BCE) uses both Aramaic ṣlm and dmwt for the ruler's
+    statue. This makes it a key text against sharp distinctions between "image" and "likeness".
+  - >-
+    Egyptian kings are called the "living image" of a god, and Neo-Assyrian letters call the
+    king the image (ṣalmu) of Bel or Shamash. Many scholars therefore read Gen 1:26-28 as
+    a "democratization" of royal ideology (Clines; Middleton, The Liberating Image). The Instruction
+    for Merikare already extends image language to humanity.
+  - >-
+    Present the main interpretive families (functional/royal, relational, structural) neutrally.
+    The royal-functional reading is the dominant critical view.
+  - >-
+    Note the tension with biblical aniconism. Humans, not statues, represent God on earth,
+    and some see this as implicit polemic.
+  image_query: Tell Fekheriye statue
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

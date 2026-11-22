@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: jehu
+file: jehu.jpg
+title: Jehu-Obelisk-cropped.jpg
+caption: >-
+  Jehu, or his envoy, prostrating before Shalmaneser III on the Black Obelisk from Nimrud,
+  c. 825 BCE (British Museum, London).
+description: >-
+  Depiction of Jehu King of Israel giving tribute to King Shalmaneser III of Assyria, on the
+  Black Obelisk of Shalmaneser III from Nimrud (circa 827 BC) in the British Museum (London).
+creator: null
+credit_line: Steven G. Johnson (Own work)
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Unknown author, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Jehu-Obelisk-cropped.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/3/35/Jehu-Obelisk-cropped.jpg
+  sha1: 8d48bc742d7a0d3ae72de5167138daa734fda77f
+  original_size: [1557, 999]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1557, 999]
+depicts: [black-obelisk, jehu, omri]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

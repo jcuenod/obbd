@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: jericho
+file: jericho.jpg
+title: Tell es-sultan.jpg
+caption: Aerial view of Tell es-Sultan, the mound of ancient Jericho.
+description: "Aerial view of the archaeological area of Jericho, specifically showing Tell\
+  \ es-Sultan. The top and right parts of the image show trees, green crop fields, and other\
+  \ vegetation. On the bottom left of the image, you can see houses and other structures which\
+  \ are brown. White buildings, which are noticeably younger than than the ones on the bottom\
+  \ left, can be seen in the green area. Two large, uncultivated pieces of land can be seen\
+  \ in the middle of the bottom of the image. The top uncultivated field is dark brown, while\
+  \ the bottom one is sand in color. These two fields are separated by a road. "
+creator: Fullo88 at Italian Wikipedia
+credit_line: Transferred from it.wikipedia to Commons.
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Fullo88 at Italian Wikipedia. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tell_es-sultan.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/f/f4/Tell_es-sultan.jpg
+  sha1: db1c0a19238303eb5504cb8f27d659c3eb152182
+  original_size: [2995, 1891]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1010 px
+size: [1600, 1010]
+depicts: [jericho]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: marduk-2
+file: marduk-2.jpg
+title: Sirrush.jpg
+caption: >-
+  The mušḫuššu dragon, beast of Marduk, in glazed brick on the Ishtar Gate of Babylon (Pergamon
+  Museum, Berlin).
+description: 2012-10-10 10-13 Berlin 313 Pergamon Museum, Ischtar Tor, Detail
+creator: Allie_Caulfield from Germany
+credit_line: 2012-10-10 10-13 Berlin 313 Pergamon Museum, Ischtar Tor, Detail Uploaded by
+  FunkMonk
+license:
+  id: CC-BY-2.0
+  name: CC BY 2.0
+  url: https://creativecommons.org/licenses/by/2.0
+attribution: Allie_Caulfield from Germany, CC BY 2.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sirrush.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/b/ba/Sirrush.jpg
+  sha1: 85a081fd2034ad6385f754be868318276a0c1bfe
+  original_size: [6000, 4000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [marduk]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

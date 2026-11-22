@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: beni-hasan-asiatics
+title: Beni Hasan Asiatics (Tomb of Khnumhotep II)
+aliases: [Aamu of Beni Hasan, Khnumhotep II Asiatics, Abisha caravan]
+type: artifact
+cultures: [egyptian, canaanite]
+date:
+  from: -1890
+  to: -1890
+  circa: true
+  display: c. 1890 BCE
+scope: >-
+  A wall painting in the rock-cut tomb of the nomarch Khnumhotep II at Beni Hasan, dated to
+  year 6 of Senusret II. It shows a group of 37 Asiatics (Aamu) led by Abisha, "ruler of a
+  foreign land", bringing galena (eye paint). Men, women, children, and donkeys appear, with
+  patterned garments, weapons, a lyre, and bellows.
+passages:
+- ref: Gen 12:10
+  rel: setting
+  note: West Semitic groups going down into Egypt in the Middle Bronze Age
+- ref: Gen 46:5-7
+  rel: setting
+  note: Family group with livestock and goods entering Egypt
+- ref: Gen 43:11
+  rel: practice
+  note: Products of the land brought as a gift to an Egyptian official
+- ref: Gen 4:21
+  rel: realia
+  note: Portable lyre carried by the Asiatic group
+- ref: Gen 37:3
+  rel: realia
+  disputed: true
+  note: Patterned garments; meaning of kĕtōnet passîm uncertain
+related: [hyksos, amorites, clothing-and-dress, donkeys-and-royal-mounts, musical-instruments,
+  story-of-sinuhe, textiles-and-weaving]
+location:
+  institution: In situ, tomb BH 3, Beni Hasan
+  accession: null
+media:
+- id: donkeys-and-royal-mounts
+  role: gallery
+- id: hyksos-2
+  role: gallery
+- id: donkeys-and-royal-mounts-2
+  role: gallery
+external:
+  wikipedia: Khnumhotep II
+  wikidata: Q357445
+editorial:
+  author_notes:
+  - >-
+    Abisha's title, ḥqꜣ ḫꜣswt ("ruler of foreign lands"), is the term from which "Hyksos"
+    derives. This makes the scene important for Hyksos origins.
+  - >-
+    The scene records a trading or diplomatic delegation bringing galena, not a famine migration.
+    Avoid presenting it as a picture of the patriarchs.
+  - >-
+    The garment comparison with Joseph's robe is popular but uncertain. Passîm may mean "long-sleeved"
+    or "ankle-length" rather than "many-coloured". Mark it as illustrative only.
+  - >-
+    The bellows on a donkey has prompted proposals of itinerant metalworkers (cf. Kenites).
+    Treat these as speculative.
+  sources_to_check:
+  - Newberry, Beni Hasan, Part I (1893)
+  - >-
+    Kamrin, 'The Aamu of Shu in the Tomb of Khnumhotep II at Beni Hassan', Journal of Ancient
+    Egyptian Interconnections 1 (2009)
+  image_query: Beni Hasan Asiatics Khnumhotep tomb painting
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

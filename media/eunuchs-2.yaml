@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: eunuchs-2
+file: eunuchs-2.jpg
+title: >-
+  The chief eunuch, Nabu-sharussu-ukin (Nebuchadnezzar II's right-hand man), "rab sha-reshi",
+  donated gold to the god Marduk temple at Babylon. His name and title occur as Nebo-Sarsekim,"rab-saris",
+  in Hebrew in the Book of Jeremiah.jpg
+caption: >-
+  Tablet recording a gift of gold to Esagil by Nabu-šarrussu-ukin, the chief eunuch (rab ša-rēši)
+  of Nebuchadnezzar II, compared with Nebo-Sarsekim the rab-saris of Jeremiah 39 (British
+  Museum).
+description: >-
+  The chief eunuch, Nabu-sharussu-ukin (Nebuchadnezzar II's right-hand man), "rab sha-reshi",
+  donated gold to the god Marduk temple at Babylon. His name and title occur as Nebo-Sarsekim,
+  "rab-saris", in Hebrew in the Book of Jeremiah. He probably met the prophet Jeremiah at
+  Nebuchadnezzar II's second capture of Jerusalem in 587 BCE. From Babylon, Iraq. Reign of
+  Nebuchanezzar II, 605-562 BCE. British Museum, ME 114789.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:The_chief_eunuch,_Nabu-sharussu-ukin_(Nebuchadnezzar_II%27s_right-hand_man),_%22rab_sha-reshi%22,_donated_gold_to_the_god_Marduk_temple_at_Babylon._His_name_and_title_occur_as_Nebo-Sarsekim,%22rab-saris%22,_in_Hebrew_in_the_Book_of_Jeremiah.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/90/The_chief_eunuch%2C_Nabu-sharussu-ukin_%28Nebuchadnezzar_II%27s_right-hand_man%29%2C_%22rab_sha-reshi%22%2C_donated_gold_to_the_god_Marduk_temple_at_Babylon._His_name_and_title_occur_as_Nebo-Sarsekim%2C%22rab-saris%22%2C_in_Hebrew_in_the_Book_of_Jeremiah.jpg
+  sha1: ebd914dae1eb36df27e73af944956530e06bbdad
+  original_size: [2628, 2180]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1328 px
+size: [1600, 1328]
+depicts: [court-officials, eunuchs]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

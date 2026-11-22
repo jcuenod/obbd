@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: xerxes-i
+file: xerxes-i.jpg
+title: National Museum of Iran Darafsh (785).JPG
+caption: >-
+  Enthroned Achaemenid king (Darius I or Xerxes I) on an audience relief from Persepolis (National
+  Museum of Iran, Tehran).
+description: National Museum of Iran
+creator: Darafsh
+credit_line: Own work
+license:
+  id: CC-BY-3.0
+  name: CC BY 3.0
+  url: https://creativecommons.org/licenses/by/3.0
+attribution: Darafsh, CC BY 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:National_Museum_of_Iran_Darafsh_(785).JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/64/National_Museum_of_Iran_Darafsh_%28785%29.JPG
+  sha1: cdf3ecebebe2fdfd872238c69fb2fca5775166df
+  original_size: [3264, 4928]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1060×1600 px
+size: [1060, 1600]
+depicts: [xerxes-i]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

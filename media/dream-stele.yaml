@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: dream-stele
+file: dream-stele.jpg
+title: Great Sphinx with Stelae.jpg
+caption: The Dream Stele of Thutmose IV standing between the paws of the Great Sphinx at Giza.
+description: >-
+  Frontal view of the great Sphinx of Giza with the Dream stela. Frontalansicht der Großen
+  Sphinx von Gizeh mit der Traumstele.
+creator: Chanel Wheeler
+credit_line: originally posted to Flickr as The Sphinx
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: Chanel Wheeler, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Great_Sphinx_with_Stelae.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/d/d9/Great_Sphinx_with_Stelae.jpg
+  sha1: ee0f8c5999707f03546718ac0ffb44ca8d92098a
+  original_size: [2112, 2816]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1200×1600 px
+size: [1200, 1600]
+depicts: [dream-stele, dreams-and-dream-interpretation]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

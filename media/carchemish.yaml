@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: carchemish
+file: carchemish.jpg
+title: Yariri and Kamani 1.JPG
+caption: >-
+  Relief of the regent Yariri presenting the young king Kamani, from Carchemish, early 8th
+  century BCE (Museum of Anatolian Civilizations, Ankara).
+description: Relief von Yariri und Kamani (Karkemiš)
+creator: Hajo-Muc
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Hajo-Muc, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Yariri_and_Kamani_1.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/e/e5/Yariri_and_Kamani_1.JPG
+  sha1: 967054f29ba19ab66b6ac516c526392a173f5913
+  original_size: [2736, 3648]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1200×1600 px
+size: [1200, 1600]
+depicts: [carchemish]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

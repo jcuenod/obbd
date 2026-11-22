@@ -1,0 +1,59 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: baal-peor
+title: Baal of Peor
+aliases: [Baal of Peor]
+type: deity
+cultures: [moabite]
+scope: >-
+  Baal of Peor, the local god of a Transjordanian site in Moab whose worship by Israelites
+  at Shittim is narrated in Num 25 and became a paradigmatic memory of apostasy.
+passages:
+- ref: Num 25:1-9
+  rel: event
+  note: Israel 'yokes itself' to Baal of Peor; sacrifices, sexual transgression and plague
+- ref: Num 31:16
+  rel: concept
+  note: Balaam blamed for the Peor apostasy
+- ref: Deut 4:3
+  rel: concept
+  note: Those who followed Baal of Peor destroyed
+- ref: Ps 106:28-31
+  rel: practice
+  disputed: true
+  note: Ate 'sacrifices of the dead' at Baal of Peor
+- ref: Hos 9:10
+  rel: polemic
+  note: Israel consecrated itself to 'the shame' at Baal-peor
+- ref: 1Cor 10:8
+  rel: concept
+  note: Paul recalls the Peor plague (23,000; Num 25:9 has 24,000)
+related: [marzeah, care-for-the-dead, midianites-and-kenites, moabites, deir-alla-inscription]
+media: []
+external:
+  wikipedia: Numbers 31
+  wikidata: Q6842271
+editorial:
+  author_notes:
+  - >-
+    The phrase "sacrifices of the dead" (Ps 106:28) has been read as offerings to lifeless
+    gods or as a funerary cult; rabbinic tradition (Sifre Num 131) links Peor with the marzeaḥ.
+    Present the debate.
+  - Num 25 combines Moabite and Midianite strands; flag the composite text.
+  - >-
+    There is no extrabiblical attestation of a "Baal of Peor"; the name is a local manifestation
+    of Baal at Peor/Beth-peor.
+  sources_to_check: ['DDD, s.v. "Baal-peor"']
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,462 @@
+prostration-and-obeisance:
+  - file: "File:Jehu-on-Obelisk-of-Shalmaneser (cropped).jpg"
+    caption: "Jehu of Israel, or his envoy, prostrate before Shalmaneser III on the Black Obelisk from Nimrud, c. 841–827 BCE (British Museum, London)."
+    role: primary
+    depicts: [black-obelisk]
+
+proto-aeolic-capitals:
+  - file: "File:Stone structure from City of David.jpg"
+    caption: "Proto-Aeolic capital found in the City of David, Jerusalem, Iron Age II."
+    role: primary
+  - file: "File:Holy Land 2022 (1) P483 Megiddo proto-Aeolic capitals.jpg"
+    caption: "Proto-Aeolic (proto-Ionic) capital from Tel Megiddo, displayed with a partial modern restoration."
+    role: gallery
+
+proto-sinaitic-script:
+  - file: "File:Serabit sphinx (EA41748).png"
+    caption: "Sandstone sphinx from Serabit el-Khadim bearing Egyptian hieroglyphs and a Proto-Sinaitic inscription (British Museum, EA 41748)."
+    role: primary
+  - file: "File:Ba`alat.jpg"
+    caption: "Drawing of the Proto-Sinaitic word b‘lt ('Lady'), the only certainly deciphered word in the script."
+    role: gallery
+
+psalms-of-solomon: []   # reason: no free photograph of a Greek or Syriac manuscript of the Psalms of Solomon; candidates are medieval Davidic psalter images
+
+purple-dye:
+  - file: "File:Purple Purpur (retouched).jpg"
+    caption: "Purple-dyed fabric displayed with the murex sea snails used to produce the dye (Bolinus brandaris, Hexaplex trunculus, Stramonita haemastoma)."
+    role: primary
+  - file: "File:Cuneiform tablet BM62788.jpg"
+    caption: "Neo-Babylonian cuneiform tablet from Sippar with instructions for dyeing wool, 600–500 BCE (British Museum)."
+    role: gallery
+
+qedarite-silver-bowl:
+  - file: "File:Qaynu-king-of-Qedar-votive-bowl.jpg"
+    caption: "Inscribed silver phiale from Tell el-Maskhuta, c. 410 BCE, dedicated by Qaynu son of Gashmu, king of Qedar (Brooklyn Museum, 54.50.34)."
+    role: primary
+
+qedarites-and-arabs:
+  - file: "File:Assyrians pursue Arabs on camelback. Ashurbanipal, North Palace of Nineveh. 660-650 BCE.jpg"
+    caption: "Assyrian soldiers pursuing Arabs mounted on camels, relief from the North Palace of Ashurbanipal at Nineveh, 660–650 BCE (British Museum, London)."
+    role: primary
+
+qos:
+  - file: "File:-0650 Edomite Goddess from Horvat Qitmit. Israel Museum, Jerusalem anagoria.jpg"
+    caption: "Clay head of a goddess with a three-horned crown from the Edomite shrine at Horvat Qitmit, 7th–6th century BCE (Israel Museum, Jerusalem)."
+    role: primary
+
+queen-of-heaven:
+  - file: "File:Nude female figure (Judean pillar figurine) MET DP-42289-001.jpg"
+    caption: "Judean pillar figurine, terracotta, Iron Age II (Metropolitan Museum of Art, New York); such household figurines are often discussed in connection with the goddess cult condemned by Jeremiah."
+    role: primary
+
+qumran:
+  - file: "File:Qumran caves 1504 (509724995).jpg"
+    caption: "Cave 4 at Qumran, cut into the marl terrace, where thousands of scroll fragments were found in 1952."
+    role: primary
+  - file: "File:Khirbet Qumrān 2.jpg"
+    caption: "Stone walls of the excavated settlement at Khirbet Qumran."
+    role: gallery
+
+rabbah:
+  - file: "File:Amman Citadel.jpg"
+    caption: "The Amman Citadel on Jabal al-Qal'a, the site of Rabbah of the Ammonites, rising above the modern city."
+    role: primary
+
+ramat-rahel:
+  - file: "File:בריכות הארמון בתל רמת רחל.jpg"
+    caption: "Ornamental pools of the palace garden at Ramat Raḥel, Persian period."
+    role: primary
+  - file: "File:Proto-aeolic.JPG"
+    caption: "Proto-Aeolic capital found at Ramat Raḥel."
+    role: gallery
+    depicts: [proto-aeolic-capitals]
+
+ramesses-ii:
+  - file: "File:Ramses II British Museum.jpg"
+    caption: "The 'Younger Memnon', colossal statue of Ramesses II from the Ramesseum, Thebes, c. 1250 BCE (British Museum, London)."
+    role: primary
+  - file: "File:Basalt triumphal stela of Ramesses II excavated at Beth Shean, 1290-1224 BCE (19th Dynasty) Egypt Penn Museum 02.jpg"
+    caption: "Basalt triumphal stela of Ramesses II excavated at Beth Shean (Penn Museum, Philadelphia)."
+    role: gallery
+
+rassam-cylinder:
+  - file: "File:Rassam Prism of Ashurbanipal, 10-sided prism, Nineveh, 643 BCE.jpg"
+    caption: "The Rassam Prism of Ashurbanipal, ten-sided clay prism from Nineveh, 643 BCE (British Museum, London)."
+    role: primary
+
+report-of-wenamun:
+  - file: "File:Путешествие Унамона в Библ.jpg"
+    caption: "The papyrus of the Report of Wenamun, Papyrus Moscow 120 (Pushkin State Museum of Fine Arts, Moscow)."
+    role: primary
+  - file: "File:Wenamun-papyrus.png"
+    caption: "Part of the first page of Papyrus Moscow 120 with the beginning of the Report of Wenamun."
+    role: gallery
+
+res-gestae:
+  - file: "File:The Temple of Augustus and Rome with the Res Gestae Divi Augusti (\"Deeds of the Divine Augustus\") inscribed on the walls of the cella, Ancyra, Ankara (Turkey) (26028202241).jpg"
+    caption: "The Temple of Augustus and Rome at Ancyra (Ankara), whose walls carry the Monumentum Ancyranum copy of the Res Gestae."
+    role: primary
+  - file: "File:Turkey. Ankara. Temple of Augustus Caesar. Latin inscription closer up. LOC matpc.03372.jpg"
+    caption: "Close view of the Latin text of the Res Gestae on the temple at Ankara, Matson Collection photograph (Library of Congress)."
+    role: gallery
+
+resheph:
+  - file: "File:Reshef MET 89.2.215 EGDP011775.jpg"
+    caption: "Egyptian figure of the god Reshep in smiting pose, wearing the white crown (Metropolitan Museum of Art, New York, 89.2.215)."
+    role: primary
+  - file: "File:Stele of Qadesh upper-frame.jpg"
+    caption: "Egyptian limestone stele showing Qedeshet on a lion flanked by Min (left) and Resheph (right), New Kingdom."
+    role: gallery
+
+roads-and-highways:
+  - file: "File:Ancient Levant routes.png"
+    caption: "Modern map of the main ancient routes of the Levant, with the Via Maris and the King's Highway."
+    role: primary
+
+royal-annals-and-historiography:
+  - file: "File:Sennacherib annals prism WA 103000.jpg"
+    caption: "Octagonal clay prism with the annals of Sennacherib, 694 BCE, from Nineveh (British Museum, London)."
+    role: primary
+
+royal-ideology:
+  - file: "File:F0182 Louvre Code Hammourabi Bas-relief Sb8 rwk.jpg"
+    caption: "Hammurabi standing before the enthroned sun god Shamash, relief at the top of the Code of Hammurabi stele, c. 1750 BCE (Musée du Louvre, Paris, Sb 8)."
+    role: primary
+    depicts: [code-of-hammurabi]
+
+royal-steward-inscription:
+  - file: "File:Silwan-inscr.jpg"
+    caption: "The Royal Steward inscription from the lintel of a rock-cut tomb in Silwan, Iron Age II (British Museum, London)."
+    role: primary
+  - file: "File:The Tomb of the Royal Steward.jpg"
+    caption: "Façade and original entrance of the monolithic tomb in Silwan that once carried the inscription."
+    role: gallery
+
+sabbath:
+  - file: "File:Mesad Hashavyahu Ostracon in Israel Museum.jpg"
+    caption: "The Meṣad Ḥashavyahu (Yavneh-Yam) ostracon, a reaper's petition of the late 7th century BCE whose wording has been read by some as a reference to the Sabbath (Israel Museum, Jerusalem)."
+    role: primary
+    depicts: [mesad-hashavyahu-ostracon]
+
+sacred-marriage:
+  - file: "File:Warka Vase, top register.jpg"
+    caption: "Top register of the Uruk (Warka) Vase, c. 3000 BCE, with a nude male presenting offerings to Inanna (Iraq Museum, Baghdad)."
+    role: primary
+
+sacrifice:
+  - file: "File:Tel Arad 280321 03 Temple.jpg"
+    caption: "The Judahite temple in the fortress at Tel Arad, with the sacrificial altar in the courtyard and the shrine (dvir) beyond."
+    role: primary
+    depicts: [arad]
+  - file: "File:Sacrificial divination Nimrud.JPG"
+    caption: "A diviner and his assistant preparing a sacrificial animal, detail of a relief from the North-West Palace at Nimrud."
+    role: gallery
+
+samaria:
+  - file: "File:Drone Aerial View of the Acropolis and Palace Site of King Omri in Samaria Sebastia.jpg"
+    caption: "Aerial view of the acropolis of Samaria-Sebaste, with the Roman forum and basilica on the slopes of the royal acropolis."
+    role: primary
+
+samaria-ivories:
+  - file: "File:Samuel and Saidye Bronfman Archaeology WingDSCN5098.JPG"
+    caption: "Ivory furniture inlay showing the goddesses Isis and Nephthys, from Samaria, 9th–8th century BCE (Israel Museum, Jerusalem)."
+    role: primary
+  - file: "File:Furniture Inlays, Samaria, 9th-8th Century BC (41408597500).jpg"
+    caption: "Carved ivory furniture inlays from Samaria, 9th–8th century BCE (Israel Museum, Jerusalem)."
+    role: gallery
+
+samaria-ostraca:
+  - file: "File:Samaria Ostraca House.jpg"
+    caption: "Plan by C. S. Fisher of part of the royal compound at Samaria, including the 'Ostraca House' where the ostraca were found (published 1910)."
+    role: primary
+
+samaria-papyri:
+  - file: "File:Wadi-Daliya-KWD-909.jpg"
+    caption: "The Abu Shinjeh cave in Wadi ed-Daliyeh, where the Samaria papyri were found in 1962."
+    role: primary
+
+samaritan-origins:
+  - file: "File:Archaeological site Mount Gerizim IMG 2176.JPG"
+    caption: "The excavated sacred precinct on the summit of Mount Gerizim."
+    role: primary
+    depicts: [mount-gerizim]
+
+sanballat:
+  - file: "File:Sanballat seal.jpg"
+    caption: "Clay seal impression of '[...]yahu son of [San]ballat, governor of Samaria', from Wadi ed-Daliyeh, 4th century BCE (Israel Museum, Jerusalem)."
+    role: primary
+
+sargon-ii:
+  - file: "File:Sargon II and a crown prince, possibly Sennacherib, from Khorsabad, Iraq. The British Museum.jpg"
+    caption: "Sargon II facing a crown prince, possibly Sennacherib, relief from the palace at Khorsabad, 710–705 BCE (British Museum, London)."
+    role: primary
+  - file: "File:Sargon II Khorsabad Louvre 14012018 1.jpg"
+    caption: "Sargon II, detail of a relief from Dur-Sharrukin (Khorsabad), c. 716–713 BCE (Musée du Louvre, Paris)."
+    role: gallery
+
+sargon-ii-inscriptions:
+  - file: "File:9-sided prism commemorating King Sargon II's founding of Dur-Sharrukin - Oriental Institute Museum, University of Chicago - DSC07164.JPG"
+    caption: "Nine-sided clay prism commemorating Sargon II's founding of Dur-Sharrukin (Oriental Institute Museum, University of Chicago)."
+    role: primary
+  - file: "File:Inscription of Sargon II of the Inner Court 32.jpg"
+    caption: "Stone slab with a cuneiform inscription of Sargon II (Museo Gregoriano Egizio, Vatican)."
+    role: gallery
+
+sargon-of-akkad:
+  - file: "File:Sargon of Akkad on his victory stele.jpg"
+    caption: "Sargon of Akkad on a fragment of his victory stele, Akkadian period (Musée du Louvre, Paris)."
+    role: primary
+
+satire-of-the-trades:
+  - file: "File:Hieratic ostracon inscribed with the so-called 'Satire of the Trades' on both sides, limestone - Museo Egizio, Turin S 6378 p01.jpg"
+    caption: "Limestone ostracon inscribed in hieratic on both sides with the Satire of the Trades (Museo Egizio, Turin, S 6378)."
+    role: primary
+  - file: "File:The Satire of Trades, 19th-20th Dynasty, Ashmolean Museum, Oxford.jpg"
+    caption: "Limestone ostracon with part of the Satire of the Trades in hieratic, 19th–20th Dynasty (Ashmolean Museum, Oxford)."
+    role: gallery
+
+scribes-and-scribal-education:
+  - file: "File:Egyptian - Scribe Statue of Min-nakht - Walters 22230 - Three Quarter.jpg"
+    caption: "Scribe statue of Min-nakht reading a papyrus on his lap, early New Kingdom (Walters Art Museum, Baltimore)."
+    role: primary
+  - file: "File:Assyrian scribes.jpg"
+    caption: "Drawing of two Assyrian scribes after a palace relief, one writing on a scroll and the other on a tablet."
+    role: gallery
+  - file: "File:Assyrian wall relief showing a scribe and a horseman trampling enemies. From Anah, Iraq. Iraq Museum.jpg"
+    caption: "Fragment of an Assyrian wall relief from Anah with a scribe holding a stylus and clay tablet (Iraq Museum, Baghdad)."
+    role: gallery
+
+sea-peoples:
+  - file: "File:Medinet Habu Ramses III. Tempel Nordostwand Abzeichnung 01.jpg"
+    caption: "Modern line drawing of Ramesses III's naval battle against the Sea Peoples on the northeast wall of his temple at Medinet Habu."
+    role: primary
+    depicts: [medinet-habu-sea-peoples]
+  - file: "File:Medinet Habu Ramses III. Tempel 13.JPG"
+    caption: "Ramesses III leading Peleset (Philistine) prisoners before Amun and Mut, relief on the second pylon at Medinet Habu."
+    role: gallery
+
+seal-of-shema:
+  - file: "File:Shema Seal (Replica).jpg"
+    caption: "Bronze cast replica of the Seal of Shema, servant of Jeroboam, made in the early 20th century; the original jasper seal from Megiddo is lost."
+    role: primary
+
+sealed-deeds:
+  - file: "File:Clay tablet and its stamped envelop. Legal debt-note on silver. Old Assyrian dialect. Assyrian Colony Period, 19th century BCE. Ancient Orient Museum, Istanbul.jpg"
+    caption: "Old Assyrian debt-note for silver with its sealed clay envelope, 19th century BCE (Museum of the Ancient Orient, Istanbul)."
+    role: primary
+
+seals-and-bullae:
+  - file: "File:Hebrew seals. Israel Museum, Jerusalem.JPG"
+    caption: "Hebrew stamp seals and signet rings of the Iron Age (Israel Museum, Jerusalem)."
+    role: primary
+  - file: "File:טביעת חותם המלך חזקיהו.jpg"
+    caption: "Bulla of Hezekiah son of Ahaz, king of Judah (displayed at the Israel Museum, Jerusalem)."
+    role: gallery
+    depicts: [hezekiah-bulla]
+
+sefire-treaties:
+  - file: "File:Sefire Stele 1, Face A (upper portion).jpg"
+    caption: "Upper part of face A of Sefire Stele I, basalt, with the Aramaic treaty text, mid-8th century BCE."
+    role: primary
+  - file: "File:Ronzevalle's publication of the Sefire steles - Plate XXXIX.jpg"
+    caption: "Plate from Ronzevalle's 1930 publication of the Sefire steles."
+    role: gallery
+
+sennacherib:
+  - file: "File:Capture of Lachish - Sennacherib.jpg"
+    caption: "Sennacherib enthroned receiving the surrender of Lachish, relief from the South-West Palace at Nineveh, 700–692 BCE (British Museum, London)."
+    role: primary
+    depicts: [lachish-reliefs]
+
+sennacherib-annals:
+  - file: "File:Taylor Prism-1.jpg"
+    caption: "The Taylor Prism, hexagonal clay prism with the annals of Sennacherib including the third campaign against Judah (British Museum, London)."
+    role: primary
+  - file: "File:Sennacherib's Prism in the Israel Museum (2).JPG"
+    caption: "The Jerusalem Prism of Sennacherib (Israel Museum, Jerusalem)."
+    role: gallery
+  - file: "File:Six-sided clay prism, side 3, written on behalf of Sennacherib, king of Assyria, and containing narratives of his military campaigns, 704-681 BC - Oriental Institute Museum, University of Chicago - DSC07602.JPG"
+    caption: "The Oriental Institute Prism of Sennacherib, side 3 (Oriental Institute Museum, University of Chicago)."
+    role: gallery
+
+sennacherib-campaign-701:
+  - file: "File:Assyrian siege-engine attacking the city wall of Lachish, part of the ascending assaulting wave. Detail of a wall relief dating back to the reign of Sennacherib, 700-692 BCE. From Nineveh, Iraq, currently housed in the British Museum.jpg"
+    caption: "Assyrian siege engine attacking the wall of Lachish, detail of the Lachish reliefs from Sennacherib's palace at Nineveh, 700–692 BCE (British Museum, London)."
+    role: primary
+    depicts: [lachish-reliefs]
+  - file: "File:Judaean people are being deported into exile after the capture of Lachish.jpg"
+    caption: "Judaeans deported with their belongings after the capture of Lachish, detail of the Lachish reliefs (British Museum, London)."
+    role: gallery
+
+septuagint:
+  - file: "File:P. Ryl. GK. 458.jpeg"
+    caption: "Papyrus Rylands 458, fragments of Deuteronomy in Greek, one of the oldest Septuagint manuscripts (John Rylands Library, Manchester)."
+    role: primary
+  - file: "File:Nahal Hever2.jpg"
+    caption: "Columns of the Greek Minor Prophets Scroll from Naḥal Ḥever (8HevXII gr), c. 50 BCE–50 CE, with Zechariah 8:18–9:7."
+    role: gallery
+
+seraphim:
+  - file: "File:Winged uraeus amulet MET 23.10.30 EGDP017150.jpg"
+    caption: "Egyptian winged uraeus (cobra) amulet (Metropolitan Museum of Art, New York); winged cobras are a common point of comparison for the seraphim."
+    role: primary
+
+shabaka-stone:
+  - file: "File:Shabaka Stone at the British Museum.jpg"
+    caption: "The Shabaka Stone, basalt slab inscribed under Shabaka with the Memphite Theology, later reused as a millstone (British Museum, London, EA 498)."
+    role: primary
+
+shalmaneser-iii:
+  - file: "File:Kurba'il Statue of Shalmaneser III at the Iraq Museum in Baghdad.jpg"
+    caption: "The Kurba'il statue of Shalmaneser III from Fort Shalmaneser at Nimrud, c. 858–824 BCE (Iraq Museum, Baghdad)."
+    role: primary
+  - file: "File:Shalmaneser III greets Marduk-zakir-shumi, detail, front panel, Throne Dais of Shalmaneser III at the Iraq Museum.jpg"
+    caption: "Shalmaneser III clasping hands with the Babylonian king Marduk-zakir-shumi, front panel of his throne dais from Nimrud (Iraq Museum, Baghdad)."
+    role: gallery
+
+shalmaneser-v:
+  - file: "File:Shalmaneser V crown prince.png"
+    caption: "Relief of an Assyrian crown prince from the reign of Tiglath-pileser III, possibly Shalmaneser V before his accession."
+    role: primary
+
+shamash:
+  - file: "File:Detail, Sun God Tablet from Sippar, Iraq, 9th century BCE. British Museum.jpg"
+    caption: "Shamash enthroned before his sun-disc, detail of the Sun God Tablet of Nabu-apla-iddina from Sippar, 9th century BCE (British Museum, London)."
+    role: primary
+    depicts: [tablet-of-shamash]
+
+shasu:
+  - file: "File:Ramesses III captive tile from Medinet Habu.jpg"
+    caption: "Faience tile showing a Shasu captive, from the temple of Ramesses III at Medinet Habu."
+    role: primary
+  - file: "File:Medinet Habu Ramses III. Tempelrelief 07.JPG"
+    caption: "Relief of Asiatic, Shasu and Libyan captives from the temple of Ramesses III at Medinet Habu."
+    role: gallery
+
+sheba:
+  - file: "File:Awam Temple.jpg"
+    caption: "The Awwam temple (Mahram Bilqis), the Sabaean sanctuary of Almaqah near Marib, Yemen."
+    role: primary
+
+shechem:
+  - file: "File:Tell Balata.jpg"
+    caption: "City wall and gate at Tell Balata, ancient Shechem."
+    role: primary
+  - file: "File:Amarna letter. Letter from Labayu (ruler of Shechem) to the Egyptian Pharaoh Amenhotep III or his son Akhenaten. 14th century BCE. From Tell el-Amarna, Egypt. British Museum.jpg"
+    caption: "Amarna letter from Labayu, ruler of Shechem, to the pharaoh, 14th century BCE (British Museum, London)."
+    role: gallery
+    depicts: [amarna-letters]
+
+shepherd-kingship:
+  - file: "File:Crook, flail, and sekhem.jpg"
+    caption: "Crook, flail and sekhem sceptre from the tomb of Tutankhamun, 14th century BCE; the crook is the shepherd's staff as royal insignia."
+    role: primary
+
+shiloh:
+  - file: "File:Ancient Shiloh IMG 2924.JPG"
+    caption: "Excavated remains at Tel Shiloh."
+    role: primary
+
+shoshenq-i:
+  - file: "File:Karnak Tempel 19.jpg"
+    caption: "Relief of Shoshenq I's campaign list on the southern exterior wall of the temple of Amun at Karnak."
+    role: primary
+    depicts: [bubastite-portal]
+  - file: "File:Karnak Sheshonq I.jpg"
+    caption: "Relief naming Shoshenq I and his son Iuput, high priest of Amun, at Karnak."
+    role: gallery
+
+shurpu: []   # reason: no free image of a Šurpu tablet found on Commons
+
+sidon:
+  - file: "File:Echnoum Libanon 026.jpg"
+    caption: "Remains of the sanctuary of Eshmun at Bustan esh-Sheikh near Sidon."
+    role: primary
+  - file: "File:Archäologisches Museum Istanbul 2013-03-18y.jpg"
+    caption: "Sarcophagus of the Mourning Women from the royal necropolis of Sidon, Pentelic marble, mid-4th century BCE (Istanbul Archaeology Museums)."
+    role: gallery
+
+siloam-inscription:
+  - file: "File:Siloam Inscription from Hezekiahs Tunnel Istanbul Archaeology Museums.jpg"
+    caption: "The Siloam Inscription from Hezekiah's Tunnel, late 8th century BCE (Istanbul Archaeology Museums)."
+    role: primary
+
+sin-moon-god:
+  - file: "File:Neo-Babylonian Basalt Stele of Nabonidus, Babylon, 554-539 BC.jpg"
+    caption: "Basalt stele of Nabonidus showing the king before the symbols of the moon god Sin, Shamash and Ishtar, 554–539 BCE (British Museum, London)."
+    role: primary
+    depicts: [nabonidus]
+
+smiting-the-enemy-motif:
+  - file: "File:Narmer Palette smiting side.jpg"
+    caption: "The Narmer Palette, smiting side: the king strikes a kneeling enemy with a mace, c. 3100 BCE (Egyptian Museum, Cairo)."
+    role: primary
+    depicts: [narmer-palette]
+  - file: "File:Resheph bronze figurine, Megiddo.jpg"
+    caption: "Bronze 'smiting god' figurine from Megiddo, Late Bronze Age, often identified as Resheph."
+    role: gallery
+
+soleb-shasu-inscription:
+  - file: "File:Soleb3.jpg"
+    caption: "Name rings of bound foreign prisoners on a column of the hypostyle hall in the temple of Amenhotep III at Soleb, Sudan."
+    role: primary
+  - file: "File:Soleb1.jpg"
+    caption: "The temple of Amenhotep III at Soleb, Sudan."
+    role: gallery
+
+solomons-temple: []   # reason: no remains or ancient depiction of the First Temple; candidates are early-modern reconstructions and unrelated images (parallels are covered under ain-dara-temple)
+
+statue-of-el:
+  - file: "File:Seated God El Ugarit Damascus.jpg"
+    caption: "Bronze statuette of a seated god covered with gold foil, from Ugarit, 14th–13th century BCE, conventionally identified as El (National Museum, Damascus)."
+    role: primary
+
+statue-of-gudea:
+  - file: "File:Gudea, statue dédiée au dieu Ningirsu (Louvre, AO 2).jpg"
+    caption: "Statue B of Gudea, 'the architect with plan', diorite statue dedicated to Ningirsu, Neo-Sumerian period (Musée du Louvre, Paris, AO 2)."
+    role: primary
+  - file: "File:Gudea of Lagash Girsu.jpg"
+    caption: "Seated diorite statue of Gudea dedicated to the god Ningishzida, c. 2120 BCE."
+    role: gallery
+
+stele-of-the-vultures:
+  - file: "File:Stele of the Vultures in the Louvre Museum (enhanced composite).jpg"
+    caption: "The Stele of the Vultures of Eannatum of Lagash, limestone, c. 2450 BCE, composite view of the surviving fragments (Musée du Louvre, Paris)."
+    role: primary
+  - file: "File:Stele of Vultures detail 01 reverse.jpg"
+    caption: "Fragment from the mythological side of the Stele of the Vultures (Musée du Louvre, Paris)."
+    role: gallery
+
+stone-vessels-and-mikvaot:
+  - file: "File:Stone Vessels for Maintaining Ritual Purity, 1st Century AD (43219616251).jpg"
+    caption: "Stone vessels used for maintaining ritual purity, 1st century CE (Israel Museum, Jerusalem)."
+    role: primary
+  - file: "File:Qumran L-71 pool.jpg"
+    caption: "Stepped pool (Locus 71) at Qumran."
+    role: gallery
+
+story-of-sinuhe:
+  - file: "File:Papyrus Berlin 3022 (A-I).jpg"
+    caption: "Papyrus Berlin 3022, a Middle Kingdom hieratic manuscript of the Story of Sinuhe (Ägyptisches Museum und Papyrussammlung, Berlin)."
+    role: primary
+
+sumerian-king-list:
+  - file: "File:The Sumerian King List, Ashmolean Museum, Oxford.jpg"
+    caption: "The Weld-Blundell Prism, clay, inscribed with the Sumerian King List, early 2nd millennium BCE (Ashmolean Museum, Oxford)."
+    role: primary
+
+sumerian-love-songs:
+  - file: "File:A Love Song of Shu-Sin (Shu-Suen B) – Istanbul 2461 cropped.jpg"
+    caption: "Cuneiform tablet with a Sumerian love song for King Shu-Sin (Shu-Suen B), Ur III period (Museum of the Ancient Orient, Istanbul)."
+    role: primary
+
+sumerian-man-and-his-god: []   # reason: no free image of a manuscript of this composition
+
+susa:
+  - file: "File:The Apadana, a large hypostyle room of 36 columns in the Palace of Darius, Susa, capital of Elam and of the Achaemenid Empire, Iran (46950284624).jpg"
+    caption: "Remains of the Apadana, the 36-column audience hall of the palace of Darius I at Susa."
+    role: primary
+  - file: "File:Archers frieze Darius 1st Palace Suse Louvre AOD 488 a.jpg"
+    caption: "Glazed-brick frieze of archers from the palace of Darius I at Susa (Musée du Louvre, Paris)."
+    role: gallery

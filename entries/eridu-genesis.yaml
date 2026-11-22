@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: eridu-genesis
+title: Eridu Genesis (Sumerian Flood Story)
+aliases: [Sumerian Flood Story, Ziusudra story, Deluge tablet]
+type: text
+cultures: [sumerian]
+date:
+  from: -1700
+  to: -1600
+  circa: true
+  display: c. 1700–1600 BCE
+scope: >-
+  A fragmentary Sumerian narrative, preserved chiefly on one Old Babylonian tablet from Nippur,
+  of the creation of humans and animals, the founding of the first cities, and a flood survived
+  by King Ziusudra, who is then granted eternal life. "Eridu Genesis" is Thorkild Jacobsen's
+  name for his reconstruction.
+passages:
+- ref: Gen 6:5-9:17
+  rel: parallel
+  note: Ziusudra, warned by Enki, survives a seven-day flood in a great boat
+- ref: Gen 8:20-21
+  rel: parallel
+  note: Hero sacrifices an ox and sheep after the flood
+- ref: Gen 4:17
+  rel: concept
+  disputed: true
+  note: First cities founded before the flood (Eridu, Bad-tibira, Larak, Sippar, Shuruppak)
+- ref: Gen 5:24
+  rel: concept
+  disputed: true
+  note: Flood hero granted 'life like a god' and settled in Dilmun; cf. Enoch taken by God
+- ref: Gen 1:1-9:17
+  rel: form
+  disputed: true
+  note: Jacobsen's reconstructed sequence of creation, first cities, and flood
+related: [atrahasis, gilgamesh-epic, sumerian-king-list, flood-traditions, enki-and-ninhursag,
+  creation-accounts]
+media:
+- id: eridu-genesis
+  role: primary
+external:
+  wikipedia: Eridu Genesis
+  wikidata: Q10436112
+editorial:
+  author_notes:
+  - >-
+    The main tablet (Nippur, c. 1600 BCE) is badly broken; Jacobsen's title and his creation-cities-flood
+    outline (JBL 1981) are reconstructions. Civil's edition in Lambert and Millard (1969)
+    calls it 'The Sumerian Flood Story'. Do not overstate what is preserved.
+  - >-
+    Ziusudra is the Sumerian counterpart of Atrahasis and Utnapishtim (Berossus's Xisouthros);
+    in the Instructions of Shuruppak he is Shuruppak's son.
+  - >-
+    Unlike Noah, the flood hero receives immortality; the 'first cities before the flood'
+    tradition is shared with the Sumerian King List.
+  sources_to_check:
+  - COS 1.158
+  - ANET 42-44
+  - 'T. Jacobsen, ''The Eridu Genesis,'' JBL 100 (1981): 513-529'
+  image_query: Sumerian flood story tablet Nippur
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

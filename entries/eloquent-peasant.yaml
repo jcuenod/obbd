@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: eloquent-peasant
+title: Tale of the Eloquent Peasant
+aliases: [Tale of the Eloquent Peasant, Khunanup]
+type: text
+cultures: [egyptian]
+date:
+  from: -1900
+  to: -1800
+  circa: true
+  display: c. 1900–1800 BCE
+scope: >-
+  A Middle Kingdom tale in which a peasant (Khunanup), robbed by a subordinate official, makes
+  nine eloquent petitions for justice to the high steward Rensi. The king prolongs the peasant's
+  ordeal so as to enjoy his speeches. The petitions are a major Egyptian meditation on maat,
+  justice, and the duties of officials.
+passages:
+- ref: Exod 23:6-8
+  rel: concept
+  note: Do not pervert justice for the poor; bribes blind officials
+- ref: Lev 19:15
+  rel: concept
+  note: Impartial judgment, favouring neither poor nor great
+- ref: Amos 5:7-15
+  rel: concept
+  note: Indictment of those who turn justice to wormwood and oppress the poor at the gate
+- ref: Prov 16:11
+  rel: imagery
+  note: Honest balance and scales belong to the LORD; cf. official as 'balance'
+- ref: Ps 68:5
+  rel: imagery
+  note: Father of orphans, protector of widows; MT 68:6
+- ref: Job 29:12-17
+  rel: parallel
+  note: Ideal official who rescues the poor, orphan, and widow
+- ref: Luke 18:1-8
+  rel: parallel
+  note: Persistent petitioner and a judge who delays (typological)
+related: [maat, widow-orphan-sojourner, courts-and-legal-procedure, ane-wisdom-literature,
+  weights-and-silver-money, instruction-of-ptahhotep]
+media:
+- id: eloquent-peasant
+  role: primary
+external:
+  wikipedia: The Eloquent Peasant
+  wikidata: Q302350
+editorial:
+  author_notes:
+  - >-
+    The petitions use images that recur in biblical justice language, such as the official
+    as balance, steering-oar, and father to the orphan and husband to the widow. Present these
+    as a shared ancient Near Eastern ethic of protecting the weak, not as borrowing.
+  - >-
+    The frame narrative's irony (justice delayed for the sake of eloquence) is debated. Some
+    read it as a reflection on rhetoric, others on the king's ultimate justice.
+  - >-
+    Manuscripts are Middle Kingdom papyri in Berlin and London. Cite Parkinson's edition and
+    translation.
+  sources_to_check:
+  - AEL 1:169-184
+  - ANET 407-410
+  - Parkinson, The Tale of the Eloquent Peasant (1991)
+  image_query: Eloquent Peasant papyrus Berlin
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

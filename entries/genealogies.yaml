@@ -1,0 +1,88 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: genealogies
+title: Genealogies in the Ancient Near East
+aliases: [Genealogy, King lists]
+type: concept
+cultures: [ane, assyrian, amorite]
+scope: >-
+  The forms and functions of genealogies in the Hebrew Bible compared with ancient Near Eastern
+  king lists and royal genealogies, such as the Sumerian King List, the Assyrian King List
+  and the Genealogy of the Hammurabi Dynasty. The entry covers linear and segmented forms,
+  ten-generation patterns and long lifespans.
+passages:
+- ref: Gen 4:17-22
+  rel: form
+  note: Cainite genealogy with founders of cultural crafts
+- ref: Gen 5:1-32
+  rel: form
+  note: Ten generations from Adam to Noah with long lifespans; cf. Sumerian King List
+- ref: Gen 10
+  rel: form
+  note: Segmented genealogy of nations
+- ref: Gen 11:10-26
+  rel: form
+  note: Ten generations from Shem to Abram
+- ref: Gen 36:31-39
+  rel: form
+  note: Edomite king list 'before any king reigned over the Israelites'
+- ref: Ruth 4:18-22
+  rel: form
+  note: Ten-generation genealogy from Perez to David
+- ref: 1Chr 1-9
+  rel: form
+  note: Genealogical prologue to Chronicles
+- ref: Ezra 2:59-63
+  rel: practice
+  note: >-
+    Returnees, including priests, unable to prove descent; the priests barred from the holy
+    food
+- ref: Matt 1:1-17
+  rel: form
+  note: Three sets of fourteen generations
+- ref: Luke 3:23-38
+  rel: form
+  note: Genealogy traced back to Adam
+related: [sumerian-king-list, assyrian-eponym-list, enmeduranki-and-the-apkallu, table-of-nations,
+  amorites, weld-blundell-prism]
+media:
+- id: genealogies
+  role: primary
+external:
+  wikipedia: Genealogies of Genesis
+  wikidata: Q1976696
+editorial:
+  author_notes:
+  - >-
+    R. R. Wilson, Genealogy and History in the Biblical World (1977), is the standard work
+    on the domestic, political and religious functions of genealogies and their fluidity.
+  - >-
+    The Assyrian King List begins with 'kings who lived in tents', and the Genealogy of the
+    Hammurabi Dynasty shares names with it. A. Malamat (JAOS 88, 1968) compared both with
+    biblical genealogies.
+  - >-
+    The lifespans in Gen 5 and 11 differ across the MT, Samaritan Pentateuch and LXX. Compare
+    the much larger reigns of the antediluvian kings in the Sumerian King List.
+  - >-
+    Genealogies are not chronologies. Telescoping and gaps are normal, so a calculation like
+    Ussher's misuses them.
+  image_query: Assyrian King List tablet
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Ezra 2:59-63 note corrected (lay returnees as well
+    as priests lacked records)
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

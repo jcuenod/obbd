@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: black-obelisk
+file: black-obelisk.jpg
+title: >-
+  The Black Obelisk of Shalmaneser III, 9th century BC, from Nimrud, Iraq. The British Museum.jpg
+caption: >-
+  The Black Obelisk of Shalmaneser III, black limestone, from Nimrud, 9th century BCE (British
+  Museum, London).
+description: >-
+  The Black Obelisk of Shalmaneser III, 9th century BC, from Nimrud, in modern-day Nineveh
+  Governorate, Iraq. The British Museum, London. Side D appears on the left while Side A is
+  on the right side of the viewer.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:The_Black_Obelisk_of_Shalmaneser_III,_9th_century_BC,_from_Nimrud,_Iraq._The_British_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/30/The_Black_Obelisk_of_Shalmaneser_III%2C_9th_century_BC%2C_from_Nimrud%2C_Iraq._The_British_Museum.jpg
+  sha1: 2927f337a20a8a329ef1c8d507658e02fcd4ed1e
+  original_size: [1361, 2048]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1063×1600 px
+size: [1063, 1600]
+depicts: [black-obelisk]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

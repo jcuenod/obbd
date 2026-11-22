@@ -1,0 +1,87 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: diplomatic-gift-exchange
+title: Diplomacy and Gift Exchange
+aliases: [Diplomacy, Gift exchange]
+type: practice
+cultures: [ane, egyptian, hittite]
+scope: >-
+  The exchange of gifts, envoys and letters between rulers as the medium of ancient Near Eastern
+  diplomacy, best documented in the Amarna correspondence. The entry covers biblical scenes
+  of gift-giving between kings and the blurred line between gift, tribute and bribe.
+passages:
+- ref: 2Sam 8:9-10
+  rel: practice
+  note: Toi of Hamath sends his son with gifts to greet David
+- ref: 1Kgs 5:1-12
+  rel: practice
+  note: 'Hiram and Solomon: cedar and cypress for wheat and oil (MT 5:15-26)'
+- ref: 1Kgs 9:11-14
+  rel: practice
+  note: Hiram dissatisfied with the Galilean towns received
+- ref: 1Kgs 10:1-13
+  rel: practice
+  note: Queen of Sheba's gifts and Solomon's return gifts
+- ref: 1Kgs 10:24-25
+  rel: practice
+  note: Visitors from 'all the earth' bring yearly gifts (minḥâ) to Solomon
+- ref: 1Kgs 15:18-19
+  rel: practice
+  note: Asa's 'present' (šōḥad) to Ben-hadad to break an alliance
+- ref: 2Kgs 5:5
+  rel: practice
+  note: Naaman travels with a letter and gifts
+- ref: 2Kgs 8:7-9
+  rel: practice
+  note: Hazael brings forty camel-loads of gifts to Elisha
+- ref: 2Kgs 20:12-13
+  rel: practice
+  note: Merodach-baladan's envoys bring letters and a gift; Hezekiah shows his treasury
+- ref: Ps 72:10-11
+  rel: imagery
+  note: Kings of Tarshish, Sheba and Seba bring gifts
+related: [amarna-letters, hiram-of-tyre, sheba, merodach-baladan, diplomatic-marriage, brotherhood-language,
+  tribute-and-vassalage, letter-writing-conventions]
+media:
+- id: diplomatic-gift-exchange
+  role: primary
+- id: diplomatic-gift-exchange-2
+  role: gallery
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The Amarna letters show the Late Bronze Age 'club of great powers' (R. Cohen and R. Westbrook,
+    eds., Amarna Diplomacy, 2000). Kings exchanged gold, horses, chariots and craftsmen, and
+    complained about stingy gifts (cf. 1 Kgs 9:11-14).
+  - >-
+    M. Liverani's work on 'prestige and interest' explains reciprocity and the ideological
+    presentation of gifts as tribute.
+  - >-
+    Hebrew minḥâ covers gift, tribute and offering. Translations should not decide the meaning
+    too early.
+  - >-
+    The Merodach-baladan embassy probably relates to anti-Assyrian coalition-building (c.
+    703 BCE). The historicity of the Sheba visit is debated.
+  sources_to_check:
+  - W. L. Moran, The Amarna Letters (Baltimore, 1992)
+  image_query: Tomb of Rekhmire foreign tribute bearers
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: 1Kgs 10:24-25 note corrected (text has 'all the
+    earth', not 'kings')
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

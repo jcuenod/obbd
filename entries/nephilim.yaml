@@ -1,0 +1,90 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: nephilim
+title: Nephilim and Giant Traditions
+aliases: [giants, gibborim, Anakim]
+type: concept
+cultures: [hebrew, jewish]
+scope: >-
+  The Nephilim of Gen 6:4 and Num 13:33 and related biblical traditions of giant pre-Israelite
+  peoples (Anakim, Emim, Zamzummim, Rephaim), together with their expansion in Second Temple
+  literature (Book of Watchers, Book of Giants).
+passages:
+- ref: Gen 6:4
+  rel: concept
+  note: Nephilim on earth when the sons of God fathered the gibborim
+- ref: Num 13:32-33
+  rel: concept
+  note: Spies report Nephilim; Anakim linked to them
+- ref: Deut 2:10-11, 20-21
+  rel: concept
+  note: Emim and Zamzummim as giant former inhabitants
+- ref: Deut 3:11
+  rel: concept
+  note: Og's nine-cubit iron/basalt bed
+- ref: Josh 11:21-22
+  rel: concept
+  note: Joshua cuts off the Anakim; survivors in Gaza, Gath and Ashdod
+- ref: 1Sam 17:4
+  rel: concept
+  note: Goliath's height (MT six cubits; 4QSama and LXX four)
+- ref: Ezek 32:27
+  rel: concept
+  disputed: true
+  note: Fallen warriors 'of old' in Sheol (LXX; MT 'of the uncircumcised'); cf. Gen 6:4
+- ref: Sir 16:7
+  rel: concept
+  note: The ancient giants who revolted were not forgiven
+- ref: 1En 7:1-6
+  rel: concept
+  note: Giants born of the Watchers devour humanity
+- ref: Jub 5:1-11
+  rel: concept
+  note: Watchers' offspring destroyed before the flood
+related: [sons-of-god, rephaim, first-enoch, enmeduranki-and-the-apkallu, gilgamesh-epic,
+  champion-combat, jubilees, dead-sea-scrolls]
+media: []
+external:
+  wikipedia: Nephilim
+  wikidata: Q747737
+editorial:
+  author_notes:
+  - >-
+    The etymology from npl "fall" ("fallen ones") is uncertain; other proposals exist. Do
+    not translate as "fallen angels".
+  - >-
+    Num 13:33's identification of Anakim with Nephilim is often regarded as a gloss; Gen 6:4's
+    "and also afterward" may also harmonize traditions.
+  - >-
+    Comparative background includes Greek heroes/Titans (Hendel) and the Mesopotamian apkallu
+    and Gilgamesh traditions, which the Qumran Book of Giants uses explicitly (Gilgamesh and
+    Hobabish).
+  - >-
+    Exclude sensational claims (giant skeletons, hybrid DNA, modern conspiracy readings) except
+    to flag them as misconceptions.
+  sources_to_check:
+  - >-
+    R. S. Hendel, "Of Demigods and the Deluge: Toward an Interpretation of Genesis 6:1-4,"
+    JBL 106 (1987)
+  - L. T. Stuckenbruck, The Book of Giants from Qumran (TSAJ 63, 1997)
+  - B. R. Doak, The Last of the Rephaim (2012)
+  - DDD, s.v. "Nephilim"
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Ezek 32:27 note corrected: the LXX variant is 'of
+    old', not nopelim
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

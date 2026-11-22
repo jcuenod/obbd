@@ -1,0 +1,81 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: caesarea-maritima
+title: Caesarea Maritima
+aliases: [Caesarea, Straton's Tower, Caesarea Palaestinae]
+type: site
+cultures: [roman, jewish]
+scope: >-
+  The harbour city Herod founded on the site of Straton's Tower, later the seat of the Roman
+  governors of Judaea. Covers the harbour, the temple of Roma and Augustus, the palace, theatre
+  and aqueducts, and the city's setting in Acts.
+passages:
+- ref: Luke 3:1
+  rel: attests
+  note: Pontius Pilate, governor of Judaea; the Pilate Stone from Caesarea's theatre
+- ref: Acts 8:40
+  rel: setting
+  note: Philip arrives at Caesarea
+- ref: Acts 10:1-48
+  rel: setting
+  note: Cornelius the centurion of the Italian Cohort
+- ref: Acts 12:19-23
+  rel: setting
+  note: Death of Herod Agrippa I at Caesarea
+- ref: Acts 21:8-14
+  rel: setting
+  note: Paul at the house of Philip the evangelist
+- ref: Acts 23:23-35
+  rel: setting
+  note: Paul brought to Felix and held in Herod's praetorium
+- ref: Acts 25:1-26:32
+  rel: setting
+  note: Paul before Festus and Agrippa II
+related: [pilate-stone, herod-the-great, imperial-cult, josephus, roads-and-highways]
+media:
+- id: caesarea-maritima
+  role: primary
+- id: caesarea-maritima-2
+  role: gallery
+external:
+  wikipedia: Caesarea Maritima
+  wikidata: Q319242
+  pleiades: '678401'
+editorial:
+  author_notes:
+  - >-
+    Herod built the city c. 22-10/9 BCE. Its artificial harbour (Sebastos) used hydraulic
+    concrete, and a temple of Roma and Augustus dominated the harbour.
+  - >-
+    The promontory palace was probably later the governor's praetorium (Acts 23:35). The Pilate
+    inscription (found 1961) names a Tiberieum.
+  - >-
+    Josephus' account of Agrippa I's death (Ant. 19) parallels Acts 12:19-23. Civil strife
+    at Caesarea helped trigger the revolt of 66 CE.
+  - >-
+    The city became a major Christian centre (Origen, Eusebius). Keep that later history brief.
+  sources_to_check:
+  - NEAEHL
+  - Holum et al., King Herod's Dream - Caesarea on the Sea (1988)
+  image_query: Caesarea Maritima aqueduct
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q319242 (verify).
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 32.5011
+  lon: 34.8923
+  source: wikidata:Q319242

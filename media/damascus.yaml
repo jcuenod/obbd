@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: damascus
+file: damascus.jpg
+title: The Jupiter temple in Damascus.jpg
+caption: Remains of the Roman temple of Jupiter in the old city of Damascus.
+description: The Jupiter temple in Damascus
+creator: Ai@ce
+credit_line: https://www.flickr.com/photos/aiace/2177466137/
+license:
+  id: CC-BY-2.0
+  name: CC BY 2.0
+  url: https://creativecommons.org/licenses/by/2.0
+attribution: Ai@ce, CC BY 2.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:The_Jupiter_temple_in_Damascus.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/4/47/The_Jupiter_temple_in_Damascus.jpg
+  sha1: 606539c8fd27642bda30984cdc06a70b8be799e5
+  original_size: [1200, 900]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1200, 900]
+depicts: [damascus]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

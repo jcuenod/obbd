@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: weapons
+title: Weapons and Armor
+aliases: [Armour, Military equipment]
+type: realia
+cultures: [hebrew, philistine, assyrian]
+scope: >-
+  Offensive and defensive weapons of the Bronze and Iron Age Levant (swords, spears, javelins,
+  bows, slings, shields, helmets, scale armour) as known from excavation, iconography, and
+  biblical description.
+passages:
+- ref: 1Sam 17:4-7
+  rel: realia
+  note: Goliath's helmet, scale armour, greaves, javelin (kîdôn), and spear
+- ref: 1Sam 17:38-40, 49-51
+  rel: realia
+  note: Saul's armour refused; David's sling and stones
+- ref: Judg 3:16
+  rel: realia
+  note: Ehud's short double-edged sword strapped to the right thigh
+- ref: Judg 20:16
+  rel: realia
+  note: Seven hundred left-handed Benjaminite slingers
+- ref: 1Sam 13:19-22
+  rel: realia
+  note: Only Saul and Jonathan have sword and spear
+- ref: 2Chr 26:14-15
+  rel: realia
+  note: Uzziah equips the army and fits 'machines' on towers
+- ref: Neh 4:16-18
+  rel: realia
+  note: Builders with spears, shields, bows, and mail (MT 4:10-12)
+- ref: Josh 8:18
+  rel: realia
+  note: Joshua's kîdôn stretched toward Ai (sword or javelin?)
+- ref: Isa 2:4
+  rel: imagery
+  note: Swords beaten into ploughshares
+- ref: Eph 6:14-17
+  rel: imagery
+  note: The armour of God
+related: [lachish-reliefs, lachish, iron-technology, chariots-and-horses, assyrian-siege-warfare,
+  champion-combat, philistines, war-scroll]
+media:
+- id: weapons
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Lachish 701 is the richest single dataset. It includes arrowheads, sling stones, scale
+    armour, and the siege ramp, together with Sennacherib's reliefs showing Judahite slingers
+    and archers.
+  - >-
+    Goliath's equipment is read as Aegean or Philistine (Yadin) or as a literary composite
+    reflecting later, even 7th-century hoplite, armour (Finkelstein). Present both views.
+  - >-
+    The meaning of kîdôn (javelin, scimitar, or sickle-sword) is disputed. The War Scroll
+    uses the term for a straight sword.
+  - >-
+    The ḥiššĕbōnôt of 2 Chr 26:15 cannot be torsion artillery, which appears only in the 4th
+    century. Yadin proposed protective screens on towers like those in the Lachish reliefs.
+  sources_to_check:
+  - Yadin, The Art of Warfare in Biblical Lands (1963)
+  image_query: Lachish sling stones arrowheads
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

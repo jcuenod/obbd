@@ -1,0 +1,71 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: qedarite-silver-bowl
+title: Tell el-Maskhuta Silver Bowls ("Qainu son of Geshem")
+aliases: [Tell el-Maskhuta Bowls, Qainu Bowl]
+type: artifact
+cultures: [arabian, persian]
+date:
+  from: -425
+  to: -400
+  circa: true
+  display: c. 425–400 BCE
+scope: >-
+  Silver bowls from a shrine of the goddess han-ʾIlat at Tell el-Maskhuta in the Wadi Tumilat
+  (Egypt), with Aramaic dedications. One records an offering by 'Qaynu son of Gashmu, king
+  of Qedar'. They attest a Qedarite dynasty whose founder is usually identified with Geshem
+  the Arab, Nehemiah's opponent.
+passages:
+- ref: Neh 2:19
+  rel: attests
+  note: Geshem the Arab among Nehemiah's opponents
+- ref: Neh 6:1-2, 6
+  rel: attests
+  note: Geshem (Gashmu) and the plot against Nehemiah
+- ref: Gen 25:13
+  rel: attests
+  note: Kedar as a son of Ishmael
+- ref: Isa 21:16-17
+  rel: attests
+  note: The glory and archers of Kedar
+- ref: Ezek 27:21
+  rel: attests
+  note: Arabia and the princes of Kedar trading with Tyre
+- ref: Ps 120:5
+  rel: attests
+  note: '''Tents of Kedar'' as a byword for foreign dwelling'
+related: [qedarites-and-arabs, sanballat, yehud-province, persia, incense-trade, aramaic-language]
+location:
+  institution: Brooklyn Museum, New York
+  accession: null
+media:
+- id: qedarite-silver-bowl
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Published by Rabinowitz (1956). The bowls are said to come from Tell el-Maskhuta, but
+    they were acquired through the market, so give the provenance details carefully.
+  - >-
+    Gashmu here is probably the Geshem of Nehemiah (cf. Neh 6:6, 'Gashmu'). A Lihyanite inscription
+    from Dedan naming 'Gashm son of Shahr' is also discussed. Explain the reasoning and the
+    uncertainty.
+  - >-
+    The bowls show a Qedarite kingdom stretching from northern Arabia to the eastern Delta
+    under Persian rule. This is the context for Geshem's interest in Judah.
+  sources_to_check: ['Rabinowitz, JNES 15 (1956)']
+  image_query: Tell el-Maskhuta silver bowl Qaynu Brooklyn Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

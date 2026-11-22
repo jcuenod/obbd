@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ziggurat-and-babel
+file: ziggurat-and-babel.jpg
+title: >-
+  Cuneiform cylinder- inscription of Nebuchadnezzar II commemorating the reconstruction of
+  Etemenanki, the ziggurat at Babylon MET ME86 11 284.jpg
+caption: >-
+  Clay cylinder fragment of Nebuchadnezzar II commemorating his rebuilding of Etemenanki,
+  the ziggurat of Babylon (Metropolitan Museum of Art, New York).
+description: Babylonian; Cuneiform cylinder; Clay-Tablets-Inscribed
+creator: null
+credit_line: >-
+  This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum
+  of Art. See the Image and Data Resources Open Access Policy
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Unknown author. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Cuneiform_cylinder-_inscription_of_Nebuchadnezzar_II_commemorating_the_reconstruction_of_Etemenanki,_the_ziggurat_at_Babylon_MET_ME86_11_284.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/f/fc/Cuneiform_cylinder-_inscription_of_Nebuchadnezzar_II_commemorating_the_reconstruction_of_Etemenanki%2C_the_ziggurat_at_Babylon_MET_ME86_11_284.jpg
+  sha1: 9e081b55ae4c2f9c19a5ee80557f7901618cb32d
+  original_size: [800, 715]
+  retrieved: '2026-11-20'
+derivative: null
+size: [800, 715]
+depicts: [etemenanki, ziggurat-and-babel]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

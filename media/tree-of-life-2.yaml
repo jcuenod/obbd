@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: tree-of-life-2
+file: tree-of-life-2.jpg
+title: כד מלכיש המוקדש ל"אלת" (אשרה) - 6.jpg
+caption: >-
+  The Lachish ewer, painted pottery, 13th century BCE, with stylised trees flanked by animals
+  and a Proto-Canaanite dedication.
+description: >-
+  כד חרס מלכיש, המאה ה-13 לפנה"ס, צבוע ומעוטר. כתובת "מתנ שי ל[רב]תי אלת" בכתב פרוטו-כנעני,
+  ציורי חיות מקוררנות (ככל הנראה יעלים ואייל) ועצי פריון, מסמלי אשרה.
+creator: פעמי-עליון
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: פעמי-עליון, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:%D7%9B%D7%93_%D7%9E%D7%9C%D7%9B%D7%99%D7%A9_%D7%94%D7%9E%D7%95%D7%A7%D7%93%D7%A9_%D7%9C%22%D7%90%D7%9C%D7%AA%22_(%D7%90%D7%A9%D7%A8%D7%94)_-_6.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/94/%D7%9B%D7%93_%D7%9E%D7%9C%D7%9B%D7%99%D7%A9_%D7%94%D7%9E%D7%95%D7%A7%D7%93%D7%A9_%D7%9C%22%D7%90%D7%9C%D7%AA%22_%28%D7%90%D7%A9%D7%A8%D7%94%29_-_6.jpg
+  sha1: 717abebf9736c8cbac5ed0a78e29f411bae7e2de
+  original_size: [1960, 4032]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 778×1600 px
+size: [778, 1600]
+depicts: [tree-of-life]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

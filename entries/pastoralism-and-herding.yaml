@@ -1,0 +1,97 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: pastoralism-and-herding
+title: Pastoralism, Herding, and Nomadism
+aliases: [Shepherding, Nomadism, Transhumance, Sheep and Goats]
+type: practice
+cultures: [hebrew, amorite, ane]
+scope: >-
+  Sheep and goat herding (and to a lesser extent cattle) in the southern Levant and the wider
+  Near East: village-based herding, seasonal transhumance and mobile pastoralism, the work
+  and liability of the herdsman, and the place of herding in biblical narrative and law. Royal
+  and divine shepherd imagery is treated under shepherd-kingship and camel nomadism under
+  camels-and-domestication.
+passages:
+- ref: Gen 4:2
+  rel: practice
+  note: Abel a keeper of sheep, Cain a tiller of the ground
+- ref: Gen 13:2-12
+  rel: practice
+  note: Abram and Lot separate because the land cannot support both herds
+- ref: Gen 29:1-10
+  rel: practice
+  note: Flocks gathered at a well covered by a stone
+- ref: Gen 30:25-43
+  rel: practice
+  note: Jacob's wages from the flock; breeding of speckled and dark animals
+- ref: Gen 31:38-40
+  rel: practice
+  note: The herdsman bears losses to predators and theft; heat by day, frost by night
+- ref: Gen 37:12-17
+  rel: practice
+  note: The brothers move the flocks from Hebron to Shechem and Dothan
+- ref: Exod 22:10-13
+  rel: practice
+  note: A herdsman cleared by oath; a mauled animal brought as evidence (MT 22:9-12)
+- ref: 1Sam 17:34-35
+  rel: practice
+  note: The shepherd defends the flock against lion and bear
+- ref: 1Sam 25:2-8
+  rel: practice
+  note: Sheep-shearing at Carmel as a festive occasion
+- ref: 2Kgs 3:4
+  rel: language
+  note: Mesha of Moab a sheep-breeder (nōqēd) paying lambs and wool as tribute
+- ref: Amos 1:1; 7:14-15
+  rel: language
+  note: Amos among the nōqĕdîm of Tekoa, a herdsman taken from the flock
+- ref: Amos 3:12
+  rel: practice
+  note: A shepherd rescues two legs or an ear from a lion as proof of loss
+- ref: Luke 2:8
+  rel: practice
+  note: Shepherds watching their flock by night
+related: [shepherd-kingship, camels-and-domestication, shasu, midianites-and-kenites, agriculture-and-farming,
+  textiles-and-weaving, emergence-of-israel, mari-letters]
+media: []
+external:
+  wikipedia: Pastoralism
+  wikidata: Q9056738
+editorial:
+  author_notes:
+  - >-
+    Most herding in Iron Age Israel was part of a mixed farming economy: small flocks kept
+    by villages and grazed seasonally nearby. Long-range, camel-based Bedouin nomadism is
+    later. Correct the older romantic picture of the patriarchs as desert Bedouin.
+  - >-
+    Use Mari and anthropology for mobile pastoralism. The Mari archives describe tribal groups
+    (the Binu Yamina and others) moving between settlement and steppe. Rowton's 'dimorphic
+    society' and later work on pastoral-sedentary interdependence apply here. This feeds the
+    debate on whether early Israel emerged partly from sedentarizing pastoralists (Finkelstein).
+  - >-
+    Herding law: Hammurabi §§261-267 regulate hired herdsmen and losses. Exod 22:10-13, Gen
+    31:39 and Amos 3:12 share the rule that a herdsman clears himself by producing the remains
+    of an animal killed by a predator.
+  - >-
+    Nōqēd (Amos 1:1; 2 Kgs 3:4; Ugaritic nqdm) may denote a manager or owner of flocks rather
+    than a poor herdsman. Its implications for Amos's social status are debated.
+  - >-
+    Faunal remains show sheep and goats dominate, with cattle for traction. Note the secondary
+    products: milk, wool and hair.
+  sources_to_check:
+  - 'O. Borowski, Every Living Thing: Daily Use of Animals in Ancient Israel (1998)'
+  - P. J. King and L. E. Stager, Life in Biblical Israel (2001)
+  - M. B. Rowton, 'Dimorphic Structure and the Parasocial Element,' JNES 36 (1977)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

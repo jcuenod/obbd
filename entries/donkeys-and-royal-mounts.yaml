@@ -1,0 +1,81 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: donkeys-and-royal-mounts
+title: Donkeys, Mules, and Royal Processions
+aliases: [Mules, Riding animals]
+type: concept
+cultures: [hebrew, amorite]
+scope: >-
+  The donkey and mule as working animals, status mounts, and royal mounts in the ancient Near
+  East and the Bible. Covers the background of the king 'riding on a donkey' in Zech 9:9 and
+  the Gospel entry narratives.
+passages:
+- ref: Gen 22:3
+  rel: realia
+  note: Abraham saddles his donkey
+- ref: Num 22:21-35
+  rel: realia
+  note: Balaam's she-donkey
+- ref: Judg 5:10
+  rel: practice
+  note: '''You who ride on white donkeys'', i.e., notables'
+- ref: Judg 10:4
+  rel: practice
+  note: Jair's thirty sons ride thirty donkeys, a mark of status
+- ref: Judg 12:14
+  rel: practice
+  note: Abdon's descendants on seventy donkeys
+- ref: 2Sam 18:9
+  rel: practice
+  note: Absalom riding his mule
+- ref: 1Kgs 1:33, 38, 44
+  rel: practice
+  note: Solomon set on David's own mule for his anointing
+- ref: Gen 49:11
+  rel: imagery
+  note: Judah's ruler binds his donkey to the vine
+- ref: Zech 9:9
+  rel: imagery
+  note: Victorious king 'humble and riding on a donkey'
+- ref: Matt 21:1-11
+  rel: imagery
+  note: Entry into Jerusalem citing Zech 9:9
+- ref: Lev 19:19
+  rel: practice
+  note: Ban on cross-breeding animals, in tension with royal mules
+related: [mari-letters, beni-hasan-asiatics, camels-and-domestication, chariots-and-horses,
+  royal-ideology, baal-berith, shechem]
+media:
+- id: donkeys-and-royal-mounts
+  role: primary
+- id: donkeys-and-royal-mounts-2
+  role: gallery
+external: {}
+editorial:
+  author_notes:
+  - >-
+    A Mari letter advises Zimri-Lim to ride in a chariot or on a mule rather than on horseback,
+    to honour his Akkadian kingship. It is often cited as ARM 6 76; verify the reference.
+    The donkey or mule is thus an honourable royal mount, not only a sign of humility.
+  - >-
+    At Mari, 'killing a donkey foal' (ḫayāram qaṭālum) sealed treaties. The 'sons of Hamor'
+    ('donkey') at Shechem and Baal-berith (Judg 9:4) are sometimes linked to this. Present
+    the link as a proposal.
+  - >-
+    Mention donkey burials in Middle Bronze contexts (e.g., Tell el-Dabʿa) and Old Assyrian
+    donkey caravans as background to patriarchal travel.
+  - Matthew's two animals (21:2-7) reflect a reading of the parallelism in Zech 9:9.
+  image_query: Beni Hasan Asiatics donkey
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

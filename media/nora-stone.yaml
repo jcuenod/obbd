@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: nora-stone
+file: nora-stone.jpg
+title: Stele von Nora 07.jpg
+caption: >-
+  The Nora Stone, a Phoenician inscription from Nora in southern Sardinia (National Archaeological
+  Museum, Cagliari).
+description: >-
+  Stele von Nora, Gemeinde Pula, Archäologisches Nationalmuseum Cagliari, Sardinien, Italien
+creator: Olaf Tausch
+credit_line: Own work
+license:
+  id: CC-BY-3.0
+  name: CC BY 3.0
+  url: https://creativecommons.org/licenses/by/3.0
+attribution: Olaf Tausch, CC BY 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Stele_von_Nora_07.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/0/06/Stele_von_Nora_07.jpg
+  sha1: 9a0942a73e783c657e46116da9aee6334bd90ecd
+  original_size: [3341, 4448]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1202×1600 px
+size: [1202, 1600]
+depicts: [nora-stone]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

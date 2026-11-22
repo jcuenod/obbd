@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: apotropaic-doorposts-and-thresholds
+file: apotropaic-doorposts-and-thresholds.jpg
+title: >-
+  Human-headed bull lamassu and a winged divine figure, from Khorsabad, Iraq, 710-705 BC.
+  The British Museum.jpg
+caption: >-
+  Lamassu and winged protective figure that once guarded a gateway of Sargon II's palace at
+  Khorsabad, 710–705 BCE (British Museum, London).
+description: >-
+  Lamassu (a human-head and winged bull) and a winged human-headed divine figure. From Khorsabad,
+  reign of Sargon II, 710-705 BC. This lamassu once guarded the entrance (gateway) to the
+  citadel wall at Khorsabad (Dur-Sharrukin), in modern-day Nineveh Governorate, Iraq. The
+  British Museum, London.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Human-headed_bull_lamassu_and_a_winged_divine_figure,_from_Khorsabad,_Iraq,_710-705_BC._The_British_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/bc/Human-headed_bull_lamassu_and_a_winged_divine_figure%2C_from_Khorsabad%2C_Iraq%2C_710-705_BC._The_British_Museum.jpg
+  sha1: d220457772dc468fc3120c5919f4706b19131e10
+  original_size: [2048, 1361]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1063 px
+size: [1600, 1063]
+depicts: [apotropaic-doorposts-and-thresholds, lamassu]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

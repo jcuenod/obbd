@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: enuma-elish
+file: enuma-elish.jpg
+title: Enuma Elish K.3473.jpg
+caption: >-
+  Fragment of a tablet of Enūma Eliš from the Library of Ashurbanipal at Nineveh, 7th century
+  BCE (British Museum, K.3473).
+description: >-
+  Fragment of a tablet from the Babylonian myth Enuma Elish, or Epic of Creation. Unearthed
+  in Nineveh, in the "Library of Assurbanipal". 7th century BC. J.-C. K.3473.
+creator: Zunkir
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Zunkir, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Enuma_Elish_K.3473.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/4/4a/Enuma_Elish_K.3473.jpg
+  sha1: 7d89ade6c1c1437692ef7a96c5db42111d0ada49
+  original_size: [2170, 4908]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 707×1600 px
+size: [707, 1600]
+depicts: [creation-accounts, enuma-elish]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

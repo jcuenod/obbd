@@ -1,0 +1,89 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: flood-traditions
+title: Flood Traditions
+type: concept
+cultures: [mesopotamian, greek]
+scope: >-
+  A hub entry for ancient flood narratives (Sumerian Flood Story, Atrahasis, Gilgamesh XI,
+  Berossus, and Greek Deucalion traditions) and their relationship to Gen 6:5-9:17 and later
+  biblical references to the flood.
+passages:
+- ref: Gen 6:5-9:17
+  rel: parallel
+  note: Divine decision to destroy humanity, warned hero, boat, survival, sacrifice
+- ref: Gen 6:14-16
+  rel: parallel
+  note: Instructions for building and caulking the boat
+- ref: Gen 7:11
+  rel: concept
+  note: Flood as reopening of the cosmic waters
+- ref: Gen 8:4
+  rel: parallel
+  note: Boat grounds on a mountain (Ararat; cf. Nimush/Nisir in Gilgamesh XI)
+- ref: Gen 8:6-12
+  rel: parallel
+  note: Birds released to test for dry land; cf. Gilgamesh XI
+- ref: Gen 8:20-21
+  rel: parallel
+  note: Sacrifice after the flood; deity smells the pleasing odour
+- ref: Gen 9:8-17
+  rel: parallel
+  disputed: true
+  note: >-
+    Bow as sign of a divine pledge; cf. the mother goddess's lapis necklace of remembrance
+    in Gilgamesh XI
+- ref: Isa 54:9
+  rel: concept
+  note: The 'waters of Noah' as an oath never repeated
+- ref: Matt 24:37-39
+  rel: concept
+  note: Flood as type of sudden judgment
+- ref: 2Pet 3:5-6
+  rel: concept
+  note: World formed out of water and destroyed by water
+related: [atrahasis, gilgamesh-epic, gilgamesh-flood-tablet, eridu-genesis, sumerian-king-list,
+  creation-accounts]
+media:
+- id: flood-traditions
+  role: primary
+- id: flood-traditions-2
+  role: gallery
+external:
+  wikipedia: Flood myth
+  wikidata: Q134052
+editorial:
+  author_notes:
+  - >-
+    Atrahasis offers the closest overall plot sequence (creation, overpopulation or noise,
+    flood, divine regret). Gilgamesh XI supplies the closest details (boat dimensions, birds,
+    mountain landing, sacrifice). Note that critical source divisions of Gen 6-9 (Priestly
+    and non-Priestly) parallel different details.
+  - >-
+    The motive differs. In Atrahasis it is human noise (rigmu) or overpopulation, in Genesis
+    it is violence and corruption (Gen 6:5, 11-13). This contrast is often treated as the
+    theological centre of the comparison.
+  - >-
+    Mesopotamian versions were known in the Bronze Age Levant (Akkadian Atrahasis fragment
+    from Ugarit; Gilgamesh fragment from Megiddo). This is relevant to transmission.
+  - >-
+    Woolley's flood deposits at Ur and similar local layers are not evidence for a single
+    universal flood. Correct this common misconception.
+  sources_to_check:
+  - A. R. George, The Babylonian Gilgamesh Epic (2003)
+  - W. G. Lambert and A. R. Millard, Atra-ḫasīs, The Babylonian Story of the Flood (1969)
+  - COS 1.130
+  image_query: Gilgamesh flood tablet British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

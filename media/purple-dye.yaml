@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: purple-dye
+file: purple-dye.jpg
+title: Purple Purpur (retouched).jpg
+caption: >-
+  Purple-dyed fabric displayed with the murex sea snails used to produce the dye (Bolinus
+  brandaris, Hexaplex trunculus, Stramonita haemastoma).
+description: >-
+  purple dyed fabric with their corresponding sea snail Bolinus brandaris Hexaplex trunculus
+  Stramonita haemastoma (Thais haemastoma) Exhibit of the Museum of Natural History in Vienna
+creator: 'Photograph: U.Name.Me Derivative work: TeKaBe'
+credit_line: 'This file was derived from: Purple Purpur.jpg:'
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: 'Photograph: U.Name.Me Derivative work: TeKaBe, CC BY-SA 4.0, via Wikimedia Commons.'
+source:
+  page: https://commons.wikimedia.org/wiki/File:Purple_Purpur_(retouched).jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/c/c6/Purple_Purpur_%28retouched%29.jpg
+  sha1: 39c116a7b737b7b62d59653858c965b016f28728
+  original_size: [2944, 2833]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1540 px
+size: [1600, 1540]
+depicts: [purple-dye]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

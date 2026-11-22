@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ugarit
+file: ugarit.jpg
+title: 5.6 Ugarit.jpg
+caption: Excavated stone buildings at Ugarit (Ras Shamra) on the Syrian coast.
+description: Ugarit
+creator: Haubi|Gerhard Haubold
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Haubi|Gerhard Haubold, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:5.6_Ugarit.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/9/91/5.6_Ugarit.jpg
+  sha1: 6c6b9f777d91828967a8fec97592c34dc8631f33
+  original_size: [4860, 3132]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1031 px
+size: [1600, 1031]
+depicts: [ugarit]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

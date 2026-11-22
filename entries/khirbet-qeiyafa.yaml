@@ -1,0 +1,84 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: khirbet-qeiyafa
+title: Khirbet Qeiyafa
+aliases: [Elah Fortress, Shaaraim (proposed)]
+type: site
+cultures: [hebrew]
+date:
+  from: -1020
+  to: -980
+  circa: true
+  display: c. 1020–980 BCE
+scope: >-
+  A short-lived fortified town above the Elah Valley, dated by radiocarbon to the late eleventh
+  or early tenth century BCE. Covers its casemate wall and two gates, the cult rooms and shrine
+  models, the ostracon, and the debate over who built it.
+passages:
+- ref: 1Sam 17:1-3
+  rel: setting
+  note: Philistines and Israelites face each other across the Elah Valley
+- ref: 1Sam 17:52
+  rel: setting
+  disputed: true
+  note: Philistines flee 'on the way from Shaaraim', a proposed identification
+- ref: Josh 15:36
+  rel: setting
+  disputed: true
+  note: Shaaraim ('two gates') in the Shephelah list; Garfinkel's identification
+- ref: 1Kgs 6:4-5
+  rel: realia
+  disputed: true
+  note: Recessed frames on a stone shrine model compared to temple windows
+related: [low-chronology-debate, philistines, gath, champion-combat, ethnicity-and-material-culture,
+  david, city-gates, pig-avoidance]
+media:
+- id: khirbet-qeiyafa
+  role: primary
+- id: khirbet-qeiyafa-2
+  role: gallery
+external:
+  wikipedia: Khirbet Qeiyafa
+  wikidata: Q910323
+  pleiades: '45016675'
+editorial:
+  author_notes:
+  - >-
+    Excavated by Garfinkel and Ganor (2007-13). It is essentially a single-period site, with
+    radiocarbon dates of c. 1020-980 BCE. A casemate wall with houses built into it and two
+    gates are its defining features.
+  - >-
+    Who built it is debated. Proposals include early Judah or David (excavators), a Saulide
+    or northern polity (Finkelstein, Na'aman), and Philistine or Canaanite groups. The absence
+    of pig bones and the cult objects are used on several sides.
+  - >-
+    The Shaaraim identification is attractive but not certain, and other identifications have
+    been proposed.
+  - >-
+    The ostracon's language (Hebrew vs. a generic Canaanite) and content are contested. Several
+    incompatible readings exist, so avoid calling it the 'earliest Hebrew inscription' without
+    qualification.
+  sources_to_check:
+  - Garfinkel and Ganor, Khirbet Qeiyafa Vol. 1 (2009)
+  image_query: Khirbet Qeiyafa gate
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q910323 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 31.6963
+  lon: 34.9575
+  source: wikidata:Q910323

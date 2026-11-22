@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: aramaic-language
+file: aramaic-language.jpg
+title: JRSLM 300116 Tel Dan Stele 01.jpg
+caption: >-
+  The Tel Dan Stele, an Old Aramaic royal inscription in basalt, 9th century BCE (Israel Museum,
+  Jerusalem).
+description: The Tel Dan Stele on display at the Israel Museum, Jerusalem
+creator: Oren Rozen
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Oren Rozen, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:JRSLM_300116_Tel_Dan_Stele_01.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/4/40/JRSLM_300116_Tel_Dan_Stele_01.jpg
+  sha1: 54a9b80d5cd0b1f72a992ed905dd582a1ea67753
+  original_size: [1455, 1408]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1455, 1408]
+depicts: [aramaic-language, david, hazael, tel-dan-stele]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

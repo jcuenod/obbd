@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: aqhat-epic
+file: aqhat-epic.jpg
+title: Danel epic AO17323 img 0160.jpg
+caption: >-
+  Clay tablet of the Aqhat (Danel) epic from Ugarit, 14th–13th century BCE (Musée du Louvre,
+  Paris).
+description: >-
+  .mw-parser-output table.commons-file-information-table,.mw-parser-output .fileinfotpl-type-information,.mw-parser-output
+  .fileinfotpl-type-artwork{border:1px solid var(--border-color-base,#a2a9b1);background-color:var(--background-color-interactive-subtle,#f8f9fa);padding:5px;font-size:95%;border-spacing:2px;box-sizing:border-box;margin:0;width:100%;color:inherit}.mw-parser-output
+  table.commons-file-information-table>tbody>tr,.mw-parser-output .fileinfotpl-type-information>tbody>tr,.mw-parser-output
+  .fileinfotpl-type-artwork>tbody>tr{vertical-align:top}.mw-parser-output table.commons-file-info
+creator: Rama
+credit_line: Own work
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0 fr
+  url: https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en
+attribution: Rama, CC BY-SA 2.0 fr, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Danel_epic_AO17323_img_0160.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/7/70/Danel_epic_AO17323_img_0160.jpg
+  sha1: 235fc591f6f603237ac85989a111daa5fd2560e1
+  original_size: [3000, 3000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1600 px
+size: [1600, 1600]
+depicts: [aqhat-epic]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

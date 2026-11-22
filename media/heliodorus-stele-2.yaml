@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: heliodorus-stele-2
+file: heliodorus-stele-2.jpg
+title: Heliodorus Stele 3 (crop + frag letters).jpg
+caption: The Heliodorus Stele with its fragments labelled.
+description: The stele of Heliodorus at the Israel Museum in Jerusalem, with the fragments
+  labeled.
+creator: Yael Y (cropped and fragment labels added by Choliamb)
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: >-
+  Yael Y (cropped and fragment labels added by Choliamb), CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Heliodorus_Stele_3_(crop_%2B_frag_letters).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/4a/Heliodorus_Stele_3_%28crop_%2B_frag_letters%29.jpg
+  sha1: 0910d79bcfbe93bb7e0a24bae8539a9ee3360b7f
+  original_size: [1287, 2324]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 886×1600 px
+size: [886, 1600]
+depicts: [heliodorus-stele]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

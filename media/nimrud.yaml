@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: nimrud
+file: nimrud.jpg
+title: Iraq; Nimrud - Assyria, Lamassu's Guarding Palace Entrance.jpg
+caption: Lamassu guarding an entrance to the North-West Palace of Ashurnasirpal II at Nimrud.
+description: Nimrud Lamassu's at the North West Palace of Ashurnasirpal
+creator: M.chohan
+credit_line: Own work
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: M.chohan. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Iraq;_Nimrud_-_Assyria,_Lamassu%27s_Guarding_Palace_Entrance.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/2d/Iraq%3B_Nimrud_-_Assyria%2C_Lamassu%27s_Guarding_Palace_Entrance.jpg
+  sha1: c6a85ca95a9ee0e59f103f7088657a3723f938bd
+  original_size: [792, 510]
+  retrieved: '2026-11-20'
+derivative: null
+size: [792, 510]
+depicts: [lamassu, nimrud]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

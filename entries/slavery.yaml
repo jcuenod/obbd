@@ -1,0 +1,95 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: slavery
+title: Slavery and Debt Servitude
+aliases: [Debt slavery, Debt servitude, Hebrew slave]
+type: practice
+cultures: [hebrew, ane]
+scope: >-
+  Slavery and debt servitude in biblical law and narrative, compared with ancient Near Eastern
+  legal and documentary evidence. Covers the 'Hebrew slave' laws, female servitude, protections
+  and their limits, fugitive slaves, the sale of foreign chattel slaves, and the Greco-Roman
+  setting of New Testament texts.
+passages:
+- ref: Exod 21:2-6
+  rel: practice
+  note: Hebrew slave released after six years; ear-piercing at the doorpost for life service
+- ref: Exod 21:7-11
+  rel: practice
+  note: Daughter sold as a slave-wife, with protections
+- ref: Exod 21:20-21, 26-27
+  rel: practice
+  note: Penalties for beating a slave; freedom for loss of eye or tooth
+- ref: Exod 21:16
+  rel: practice
+  note: Kidnapping for sale is a capital crime; cf. LH §14
+- ref: Lev 25:39-46
+  rel: practice
+  note: Israelite debtors as hired labourers; foreign slaves as permanent property
+- ref: Deut 15:12-18
+  rel: practice
+  note: Release of male and female debt-servants with provisions; ear-piercing
+- ref: Deut 23:15-16
+  rel: practice
+  note: Fugitive slaves not to be returned (MT 23:16-17); contrast LH §§15-20
+- ref: 2Kgs 4:1
+  rel: practice
+  note: Creditor seizes a widow's children for debt
+- ref: Neh 5:1-5
+  rel: practice
+  note: Judeans pledging children as debt-slaves in the Persian period
+- ref: Jer 34:8-22
+  rel: practice
+  note: Release and re-enslavement of Hebrew slaves under Zedekiah
+- ref: Phlm 8-21
+  rel: setting
+  note: Onesimus, within Roman household slavery
+related: [debt-release, code-of-hammurabi, edict-of-ammi-saduqa, samaria-papyri, habiru, elephantine-papyri,
+  corvee-labor, treatment-of-captives]
+media: []
+external:
+  wikipedia: The Bible and slavery
+  wikidata: Q961711
+editorial:
+  author_notes:
+  - >-
+    Distinguish debt servitude of Israelites (time-limited) from chattel slavery of foreigners
+    (Lev 25:44-46). Biblical terminology (ʿebed also means royal servant or official) does
+    not map neatly onto these categories.
+  - >-
+    Hammurabi limits debt servitude of a debtor's family to three years (LH §117), against
+    the biblical six. Hammurabi makes harbouring a fugitive slave a capital crime (§§15-16).
+    Deut 23:15-16 is unusual in forbidding extradition. Compare the ear-piercing of Exod 21:6
+    with LH §282 (slave's ear cut off for repudiating his master).
+  - >-
+    Discuss whether ʿibrî ('Hebrew') in Exod 21:2 is an ethnic term or a social class, perhaps
+    related to ḫabiru, and how Deuteronomy revises the Covenant Code by extending release
+    to women.
+  - >-
+    Documentary evidence includes Old and Neo-Babylonian sale and debt contracts, the Wadi
+    Daliyeh slave conveyances from Samaria (4th century BCE), and Elephantine documents.
+  - >-
+    Avoid both apologetic minimising ('servants, not slaves') and anachronistic equation with
+    Atlantic chattel slavery.
+  sources_to_check:
+  - Roth, Law Collections from Mesopotamia and Asia Minor (SBLWAW 6, 2nd ed. 1997)
+  - Chirichigno, Debt-Slavery in Israel and the Ancient Near East (JSOTSup 141, 1993)
+  - Dandamaev, Slavery in Babylonia (1984)
+  - 'Gropp, Wadi Daliyeh II: The Samaria Papyri from Wadi Daliyeh (DJD 28, 2001)'
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: 'Passage tags checked against WEB text: Jer 34:8-22 rel event -> practice'
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

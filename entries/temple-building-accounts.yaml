@@ -1,0 +1,89 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: temple-building-accounts
+title: Temple-Building Accounts
+type: concept
+cultures: [ane, sumerian, assyrian, ugaritic]
+scope: >-
+  The ancient Near Eastern genre and pattern of temple-building narratives: divine command,
+  preparation of materials and labour, construction, dedication with festivities, and blessing.
+  Covers the comparative background of the tabernacle and Solomon's and the Second Temple
+  building accounts.
+passages:
+- ref: 1Kgs 5:1-9:9
+  rel: form
+  note: >-
+    Solomon's temple building from preparations to dedication and divine response; MT 5:15-9:9
+- ref: Exod 25-31
+  rel: form
+  note: Divine instructions and revealed plan for the tabernacle
+- ref: Exod 35-40
+  rel: form
+  note: Execution, completion, and indwelling of the glory
+- ref: 2Sam 7:1-13
+  rel: form
+  note: King proposes a temple; divine permission is deferred
+- ref: 1Kgs 6:37-38
+  rel: form
+  note: Dated foundation and completion in named months; seven years
+- ref: 1Kgs 8:62-66
+  rel: form
+  note: Dedication with sacrifices and a feast of seven plus seven days
+- ref: Ezra 3:10-13
+  rel: form
+  note: Foundation laying with music, shouting, and weeping
+- ref: Ezra 6:14-18
+  rel: form
+  note: Completion and dedication of the Second Temple
+- ref: Hag 1:1-2:9
+  rel: form
+  note: Prophetic call to rebuild; future glory of the house
+- ref: Zech 4:7-10
+  rel: practice
+  disputed: true
+  note: '''Top stone'' and stone in Zerubbabel''s hand; Mesopotamian foundation rites proposed'
+- ref: Ezek 40-48
+  rel: form
+  note: Visionary temple plan and measurements
+related: [gudea-cylinders, baal-cycle, statue-of-gudea, temple-as-cosmos, tabernacle, esarhaddon-prisms,
+  solomon, divine-rest]
+media:
+- id: gudea-cylinders
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Hurowitz's comparative study is the standard treatment of the pattern. Key comparanda
+    are Gudea Cylinders A and B, the building of Baal's palace (KTU 1.4 V-VII), and Assyrian
+    and Neo-Babylonian royal building inscriptions (Tiglath-pileser I, Esarhaddon, Nabopolassar,
+    Nebuchadnezzar II).
+  - >-
+    Note royal ideology. Temple building legitimates kingship and follows victory and rest
+    (2 Sam 7; 1 Kgs 5:3-5).
+  - >-
+    The Mesopotamian practice of restoring temples on their original foundations, with laments
+    at demolition and rebuilding, is relevant to Ezra 3 and Haggai and Zechariah (Boda and
+    Novotny, eds.). The kalû-rite proposals for Zech 4 should be marked as debated.
+  - >-
+    The account in 1 Kgs 5-9 combines building report, archival details, and Deuteronomistic
+    prayer. Do not treat it as a single genre piece.
+  sources_to_check:
+  - Victor Avigdor Hurowitz, I Have Built You an Exalted House (JSOTSup 115, 1992)
+  - >-
+    Mark J. Boda and Jamie Novotny, eds., From the Foundations to the Crenellations (AOAT
+    366, 2010)
+  image_query: Ashurbanipal stele carrying basket
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

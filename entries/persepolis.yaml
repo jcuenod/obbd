@@ -1,0 +1,89 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: persepolis
+title: Persepolis
+aliases: [Pārsa, Takht-e Jamshid]
+type: site
+cultures: [persian]
+date:
+  from: -518
+  to: -330
+  circa: true
+  display: c. 518–330 BCE
+scope: >-
+  The Achaemenid ceremonial capital in Fars, founded by Darius I and burned by Alexander.
+  Covers its terrace palaces and reliefs, the Fortification and Treasury archives, and what
+  they show about Persian court life and administration as background to Persian-period biblical
+  books.
+passages:
+- ref: Ezra 7:12
+  rel: language
+  note: '''Artaxerxes, king of kings'', the Achaemenid royal title'
+- ref: Ezra 6:1-2
+  rel: practice
+  note: Search of the royal archives; cf. Persepolis administrative archives
+- ref: Esth 1:3-8
+  rel: practice
+  note: Royal banquet and court protocol of the Achaemenid court
+- ref: Esth 1:14
+  rel: practice
+  note: Seven officials who 'saw the king's face'
+- ref: Esth 8:10
+  rel: practice
+  note: Royal couriers on swift horses; cf. travel rations in the Fortification tablets
+- ref: Isa 60:6-11
+  rel: imagery
+  disputed: true
+  note: Nations' processions bearing gifts; cf. the Apadana delegations
+related: [persepolis-fortification-tablets, persia, darius-i, xerxes-i, susa, tribute-and-vassalage,
+  court-officials, roads-and-highways]
+media:
+- id: persepolis
+  role: primary
+- id: persepolis-2
+  role: gallery
+external:
+  wikipedia: Persepolis
+  wikidata: Q129072
+  pleiades: '922695'
+editorial:
+  author_notes:
+  - >-
+    Founded by Darius I c. 518 BCE and expanded by Xerxes and later kings, the site has the
+    Gate of All Nations, the Apadana and the Hall of a Hundred Columns. Alexander burned it
+    in 330.
+  - >-
+    The Fortification tablets (c. 509-493, mostly Elamite, some Aramaic) and the Treasury
+    tablets document the economy, rations, travel and sealing practice. They are prime evidence
+    for Achaemenid administration.
+  - >-
+    The Apadana reliefs show gift-bearing delegations of subject peoples. Their reading as
+    'tribute' versus ceremonial gifts is debated.
+  - >-
+    Esther is set at Susa, not Persepolis. Use Persepolis for the court culture, not as the
+    stage of the story.
+  sources_to_check:
+  - Schmidt, Persepolis I-III (1953-70)
+  - Hallock, Persepolis Fortification Tablets (1969)
+  image_query: Persepolis Apadana staircase reliefs
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q129072 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 29.935
+  lon: 52.89
+  source: wikidata:Q129072

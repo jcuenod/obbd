@@ -1,0 +1,355 @@
+synagogues:
+  - file: "File:Gamla Synagogue 00.jpg"
+    caption: "Ruins of the synagogue at Gamla in the Golan, one of the excavated pre-70 CE synagogue buildings."
+    role: primary
+  - file: "File:Masada 051013 Synagogue 01.jpg"
+    caption: "The synagogue at Masada, with stepped benches along the walls and column bases."
+    role: gallery
+taanach-cult-stand:
+  - file: "File:Cultic incense stand from Ta'anach.jpg"
+    caption: "The four-register terracotta cult stand from Taanach found by P. Lapp in 1968, 10th century BCE (Israel Museum, Jerusalem)."
+    role: primary
+  - file: "File:Taanach terracotta.jpg"
+    caption: "The earlier terracotta cult stand from Taanach found by E. Sellin, decorated with lions and other figures (Istanbul Archaeology Museums)."
+    role: gallery
+tabernacle:
+  - file: "File:Stiftshuette Modell Timnapark.jpg"
+    caption: "Modern full-scale model of the tabernacle and its courtyard in Timna Park, Israel (a reconstruction based on Exodus)."
+    role: primary
+tablet-of-shamash:
+  - file: "File:Tablet of Shamash.jpg"
+    caption: "The Tablet of Shamash from Sippar, showing Nabu-apla-iddina led before the enthroned sun-god, 9th century BCE (British Museum)."
+    role: primary
+  - file: "File:Tablet of shamash impression.jpg"
+    caption: "Fired clay cover of the Tablet of Shamash, added by Nabopolassar and found with the tablet."
+    role: gallery
+taharqa:
+  - file: "File:Sphinx of Taharqo front view.jpg"
+    caption: "Granite sphinx of Taharqa from Temple T at Kawa, Sudan, c. 680 BCE (British Museum)."
+    role: primary
+  - file: "File:Closeup of Taharqa embracing Horus on the Shrine of the 25th dynasty pharaoh and Kushite King Taharqa Egypt 7th century BCE.jpg"
+    caption: "Taharqa embracing Horus, relief on the shrine of Taharqa, 7th century BCE."
+    role: gallery
+tahpanhes:
+  - file: "File:Tell Dafana (Tahpanhes)-Qasr Bint al-Yahudi-3D.jpg"
+    caption: "Modern 3D reconstruction of the Saite fortress at Tell Defenneh (Tahpanhes), known locally as Qasr Bint al-Yahudi."
+    role: primary
+  - file: "File:Saqqara Phoenician letter (KAI 50).jpg"
+    caption: "Phoenician papyrus letter (KAI 50) found at Saqqara and sent from Tahpanhes, c. 6th century BCE (1940 publication scan)."
+    role: gallery
+tale-of-two-brothers:
+  - file: "File:Tale of two brothers.jpg"
+    caption: "Sheet from Papyrus D'Orbiney with the Tale of Two Brothers, end of the Nineteenth Dynasty (British Museum)."
+    role: primary
+tanis:
+  - file: "File:Ruins of Tanis.jpg"
+    caption: "Fallen columns and inscribed blocks among the ruins of Tanis (San el-Hagar) in the north-eastern Delta."
+    role: primary
+tannin: []   # reason: no ancient image specifically depicting Tannin; Mesopotamian dragon images (mušḫuššu) would mislead
+tarshish:
+  - file: "File:AssyrianWarship.jpg"
+    caption: "Phoenician bireme warship on an Assyrian palace relief from Nineveh, c. 700 BCE, illustrating the Phoenician seafaring behind the 'ships of Tarshish'."
+    role: primary
+tattenai-tablet: []   # reason: no freely licensed image of the tablet found on Commons
+tel-dan-stele:
+  - file: "File:JRSLM 300116 Tel Dan Stele 01.jpg"
+    caption: "The Tel Dan Stele, basalt, Old Aramaic, 9th century BCE (Israel Museum, Jerusalem)."
+    role: primary
+tel-motza-temple:
+  - file: "File:Tel Motza Temple.png"
+    caption: "Remains of the Iron Age temple at Tel Moẓa west of Jerusalem, excavated beneath a modern highway bridge."
+    role: primary
+tell-al-rimah-stele:
+  - file: "File:Stele of Adad-nirari III.jpg"
+    caption: "The Tell al-Rimah stele of Adad-nirari III, 'Mosul marble', early 8th century BCE (Iraq Museum, Baghdad)."
+    role: primary
+tell-fekheriye-statue:
+  - file: "File:Tell Fekheriyeh statue.jpg"
+    caption: "The basalt statue of Hadad-yithʿi from Tell Fekheriye, inscribed in Akkadian and Old Aramaic, 9th century BCE."
+    role: primary
+tell-qasile-ostracon:
+  - file: "File:Qassila 115.jpg"
+    caption: "The first two Hebrew ostraca found at Tell Qasile, including the 'Gold of Ophir' ostracon, on exhibition in Tel Aviv."
+    role: primary
+tell-siran-bottle-and-ammonite-inscriptions:
+  - file: "File:Tel Siran bottle at the Jordan Archaeological Museum.jpg"
+    caption: "The inscribed bronze Tell Siran bottle (Jordan Archaeological Museum, Amman)."
+    role: primary
+  - file: "File:Amman Citadel inscription in the Jordan Archaeological Museum.jpg"
+    caption: "The Amman Citadel Inscription in Ammonite (Jordan Archaeological Museum, Amman)."
+    role: gallery
+tell-tayinat:
+  - file: "File:Tayinat Flyover (Photo credit Murat Akar).jpg"
+    caption: "Aerial view of the mound of Tell Tayinat (ancient Kunulua) in the Amuq plain, southern Turkey."
+    role: primary
+  - file: "File:Iron Age Temple (photo credit Stephen Batiuk).jpg"
+    caption: "The excavated Iron Age temple at Tell Tayinat."
+    role: gallery
+temple-as-cosmos:
+  - file: "File:Nut at Dendera Nut Chapel ceiling.jpg"
+    caption: "Ptolemaic ceiling relief of the sky goddess Nut swallowing and bearing the sun, Nut chapel of the temple of Hathor at Dendera."
+    role: primary
+temple-building-accounts:
+  - file: "File:Cylindres de Gudea - Musée du Louvre Antiquités orientales AO MNB 1511 ; MNB 1512.jpg"
+    caption: "The Gudea Cylinders A and B, clay, late 22nd century BCE, narrating Gudea's building of the Eninnu temple at Girsu (Musée du Louvre, Paris)."
+    role: primary
+temple-mount:
+  - file: "File:Jerusalem-2013(2)-Aerial-Temple Mount-(south exposure).jpg"
+    caption: "Aerial view of the Temple Mount (Ḥaram al-Sharif) in Jerusalem from the south."
+    role: primary
+temple-of-artemis-ephesus:
+  - file: "File:Ephesus Celsus Library Façade.jpg"
+    caption: "Façade of the Library of Celsus, Roman Ephesus, near Selçuk, Turkey."
+    role: primary
+  - file: "File:Ephesus, ruins of the Temple of Artemis.jpg"
+    caption: "The site of the Artemision at Ephesus, with a single re-erected column."
+    role: gallery
+  - file: "File:The Artemis of Ephesus.jpg"
+    caption: "Statue of Artemis of Ephesus, marble, 2nd century CE (Ephesus Archaeological Museum, Selçuk)."
+    role: gallery
+temple-scroll:
+  - file: "File:Temple Scroll.png"
+    caption: "Portion of the Temple Scroll (11Q19) from Qumran Cave 11."
+    role: primary
+temple-warning-inscription:
+  - file: "File:Temple Warning Inscription from Jerusalem Istanbul Archaeology Museums.jpg"
+    caption: "The complete Greek Temple Warning Inscription from Herod's temple in Jerusalem (Istanbul Archaeology Museums)."
+    role: primary
+  - file: "File:Samuel and Saidye Bronfman Archaeology WingDSCN5007.JPG"
+    caption: "Fragment of a second copy of the Temple Warning Inscription (Israel Museum, Jerusalem)."
+    role: gallery
+teraphim: []   # reason: no ancient object can be securely identified as teraphim; available images are later paintings or speculative labels
+textiles-and-weaving:
+  - file: "File:Yafo-museum-3998.jpg"
+    caption: "Middle Bronze Age II clay loom weights, hung as on a warp-weighted loom (Jaffa Museum)."
+    role: primary
+  - file: "File:Greekurnwithweavers (cropped to warp-weighted loom).jpg"
+    caption: "Women weaving at a warp-weighted loom, detail of a Greek black-figure vase (Metropolitan Museum of Art, New York)."
+    role: gallery
+thebes:
+  - file: "File:Karnak Hypostyle Hall R05.jpg"
+    caption: "The great hypostyle hall of the temple of Amun at Karnak, Thebes (Luxor)."
+    role: primary
+  - file: "File:SFEC AEH -ThebesNecropolis-2010-FULL-Overview-039.jpg"
+    caption: "Aerial view of the Theban necropolis on the west bank at Luxor."
+    role: gallery
+theodotos-inscription:
+  - file: "File:8V2A3067 (47715698331).jpg"
+    caption: "The Greek Theodotos synagogue inscription from the City of David, limestone, before 70 CE, as displayed at the Israel Museum, Jerusalem."
+    role: primary
+threshing-floors:
+  - file: "File:Galilee trip. Saffourieh (near Nazareth). Saforis (Sepphoris). General view of the Saffourie(h) threshing floors below the village, threshing board drawn by horse LOC matpc.20758.jpg"
+    caption: "Threshing floors below Saffuriyeh (Sepphoris) with a horse drawing a threshing board, Matson Photo Service, first half of the 20th century (Library of Congress)."
+    role: primary
+tiglath-pileser-iii:
+  - file: "File:Tilglath pileser iii.jpg"
+    caption: "Tiglath-pileser III on a gypsum wall relief from his Central Palace at Nimrud, 8th century BCE (British Museum)."
+    role: primary
+tiglath-pileser-iii-inscriptions:
+  - file: "File:Assyrian Relief Attack on Enemy Town from Kalhu (Nimrud) Central Palace reign of Tiglath-pileser III British Museum - 3.jpg"
+    caption: "Cuneiform inscription band on a relief slab from the Central Palace of Tiglath-pileser III at Nimrud, 730–727 BCE (British Museum)."
+    role: primary
+timna:
+  - file: "File:Temple of Hathor in Timna Park in summer 2011 (1).JPG"
+    caption: "Remains of the Egyptian Hathor shrine at the foot of the sandstone cliffs in the Timna Valley."
+    role: primary
+  - file: "File:Egyptian Chariots Timna Valley.jpg"
+    caption: "Rock drawing of Egyptian chariots in the Timna Valley."
+    role: gallery
+tirzah: []   # reason: no freely licensed photograph of Tell el-Farʿah (North) found; only an unidentified small find
+tomb-of-rekhmire:
+  - file: "File:Brickmakers, Tomb of Rekhmire MET DT10882.jpg"
+    caption: "Brickmakers, a modern painted facsimile of a scene in the tomb of Rekhmire (TT100), Thebes (Metropolitan Museum of Art, New York)."
+    role: primary
+  - file: "File:Syrians bringing presents in the tomb of Rekhmire. Animals of all kind.jpg"
+    caption: "Syrian tribute bearers in the transverse hall of the tomb of Rekhmire (TT100)."
+    role: gallery
+tophet:
+  - file: "File:Stèles tophet Carthage.jpg"
+    caption: "Sandstone stelae in the tophet of Salammbô at Carthage."
+    role: primary
+  - file: "File:Valley of Hinom PA180093.JPG"
+    caption: "The Valley of Hinnom outside Jerusalem, location of the biblical Topheth."
+    role: gallery
+treatment-of-captives:
+  - file: "File:Capture of Lachish - exiles and executions.jpg"
+    caption: "Judean captives led away and prisoners executed after the fall of Lachish, relief from Sennacherib's palace at Nineveh, c. 700 BCE (British Museum)."
+    role: primary
+    depicts: [lachish-reliefs]
+  - file: "File:Assyrian relief of attack on an enemy town during the reign of Tiglath-Pileser III 720-741 BCE from his palace at Kalhu (Nimrud).jpg"
+    caption: "Impaled captives on a relief of Tiglath-pileser III from his palace at Nimrud."
+    role: gallery
+tree-of-life:
+  - file: "File:Assyrian protective spirits with a sacred tree.jpg"
+    caption: "Winged protective spirits flanking a sacred tree, relief from Nimrud, 865–860 BCE (British Museum)."
+    role: primary
+    depicts: [assyrian-sacred-tree]
+  - file: 'File:כד מלכיש המוקדש ל"אלת" (אשרה) - 6.jpg'
+    caption: "The Lachish ewer, painted pottery, 13th century BCE, with stylised trees flanked by animals and a Proto-Canaanite dedication."
+    role: gallery
+tribute-and-vassalage:
+  - file: "File:Jehu-on-Obelisk-of-Shalmaneser (cropped).jpg"
+    caption: "Jehu of Israel, or his envoy, prostrating before Shalmaneser III, Black Obelisk from Nimrud, c. 825 BCE (British Museum)."
+    role: primary
+    depicts: [black-obelisk, jehu]
+trumpeting-place-inscription:
+  - file: "File:Trumpeting place Zeigarnik.jpg"
+    caption: "The Trumpeting-Place inscription, 1st century CE, found by Benjamin Mazar in 1968 below the Temple Mount (Israel Museum, Jerusalem)."
+    role: primary
+tutankhamun-anubis-shrine:
+  - file: "File:Vallei der Koningen. Tombe van Toetanchamon Schatkamer Anubis op schrijn, GDE002079 (cropped).jpg"
+    caption: "The Anubis shrine in place in the Treasury of Tutankhamun's tomb (KV62), photographed by Harry Burton."
+    role: primary
+  - file: "File:The statue Anubis Egypt.jpg"
+    caption: "The Anubis figure from the shrine on display at the Egyptian Museum, Cairo."
+    role: gallery
+tutankhamun-footstool:
+  - file: "File:By ovedc - Egyptian Museum (Cairo) - 275.jpg"
+    caption: "Tutankhamun's marquetry sandals with bound foreign captives on the insoles, from KV62 (Egyptian Museum, Cairo)."
+    role: primary
+tyre:
+  - file: "File:Remains of ancient columns at Al Mina excavation site, Tyre, Lebanon.jpg"
+    caption: "Roman-period colonnaded street at the Al Mina excavation site on the former island of Tyre."
+    role: primary
+  - file: "File:ISS006-E-31938 TyreSurLebanon01032003.jpg"
+    caption: "Tyre from the International Space Station, showing the former island joined to the mainland."
+    role: gallery
+tyrian-shekel:
+  - file: "File:Tiros, tetradracma, 102-61 ac ca.JPG"
+    caption: "Tyrian silver shekel (tetradrachm) with the head of Melqart-Herakles and an eagle, c. 102–61 BCE (Altes Museum, Berlin)."
+    role: primary
+  - file: "File:TyrianHalfShekel102-101-BNF-Gallica.jpg"
+    caption: "Tyrian half-shekel, c. 102–101 BCE (Bibliothèque nationale de France)."
+    role: gallery
+udjahorresnet-statue:
+  - file: "File:Statue of Egyptian Chief Physician Udjaḥorresnet, Dynasty 27, 525-404 BC (48464817136).jpg"
+    caption: "Naophorous statue of Udjahorresnet, green basalt, Twenty-seventh Dynasty (Gregorian Egyptian Museum, Vatican Museums)."
+    role: primary
+ugarit:
+  - file: "File:5.6 Ugarit.jpg"
+    caption: "Excavated stone buildings at Ugarit (Ras Shamra) on the Syrian coast."
+    role: primary
+ugaritic-texts:
+  - file: "File:P1180250 Louvre Langue ougaritique Tablette poeme mythologique AO16641 et 16642 rwk.jpg"
+    caption: "Tablet of the Baal cycle (Baal and Death) in Ugaritic alphabetic cuneiform, from Ras Shamra (Musée du Louvre, AO 16641/16642)."
+    role: primary
+    depicts: [baal-cycle]
+ur:
+  - file: "File:Ziggurat of Ur Site in Nasiriyah 03.jpg"
+    caption: "The ziggurat of Ur-Nammu and excavated buildings at Ur, southern Iraq."
+    role: primary
+  - file: "File:The Queen's Jewelry. Royal Cemetery at Ur.jpg"
+    caption: "Gold jewellery from the Royal Cemetery at Ur (British Museum)."
+    role: gallery
+uzziah-epitaph:
+  - file: "File:Samuel and Saidye Bronfman Archaeology WingDSCN5101.JPG"
+    caption: "The Uzziah burial plaque, stone, Aramaic in Jewish square script, 1st century BCE to 1st century CE (Israel Museum, Jerusalem)."
+    role: primary
+verse-account-of-nabonidus:
+  - file: "File:Verse Account of Nabonidus BM 38299.jpg"
+    caption: "Tablet of the Verse Account of Nabonidus (British Museum, BM 38299)."
+    role: primary
+victory-stele-of-naram-sin:
+  - file: "File:Stèle de Naram-Sin - Musée du Louvre Antiquités orientales SB 4 ; AS 6065.jpg"
+    caption: "The Victory Stele of Naram-Sin, pink limestone, c. 2250 BCE, brought from Sippar to Susa (Musée du Louvre, Paris)."
+    role: primary
+vows-and-votive-offerings:
+  - file: "File:Sumerian Status from Tell Asmar, part of the Tell Asmar Hoard.jpg"
+    caption: "Votive statuettes of worshippers from the Square Temple of Abu at Tell Asmar (Eshnunna), Early Dynastic period."
+    role: primary
+  - file: "File:Carthago exhibition - Stele Depicting an Elephant (49340683656) (cropped).jpg"
+    caption: "Limestone stele with a votive dedication to Baal Hammon from the tophet of Carthage, 2nd century BCE."
+    role: gallery
+war-scroll:
+  - file: "File:Dead Sea Scrolls and caves and Qumran Excavations of Essene Monastery. Scroll from 'the war of the sons of light against the sons of darkness' LOC matpc.13011.jpg"
+    caption: "Columns of the War Scroll (1QM) from Qumran Cave 1, Matson Photo Service photograph (Library of Congress)."
+    role: primary
+weapons:
+  - file: "File:Khopesh.jpg"
+    caption: "Bronze sickle sword (khopesh) with electrum inlays from Shechem, c. 1750 BCE (State Museum of Egyptian Art, Munich)."
+    role: primary
+weights-and-silver-money:
+  - file: "File:Hoard silver jewelry. Eshtemoa. Israel Museum, Jerusalem.JPG"
+    caption: "Hoard of silver jewellery and pieces in jugs from Eshtemoa, 9th–8th century BCE; one jug is inked with the Hebrew word for 'five' (Israel Museum, Jerusalem)."
+    role: primary
+  - file: "File:Eastern Hacksilber from the Levant 425-420 BCE.jpg"
+    caption: "Hacksilber from the Levant, c. 425–420 BCE."
+    role: gallery
+weld-blundell-prism:
+  - file: "File:Sumerian King List, 1800 BC, Larsa, Iraq.jpg"
+    caption: "The Weld-Blundell Prism, inscribed clay, c. 1800 BCE, bearing the Sumerian King List (Ashmolean Museum, Oxford)."
+    role: primary
+    depicts: [sumerian-king-list]
+  - file: "File:The Sumerian King List, Ashmolean Museum, Oxford.jpg"
+    caption: "Another face of the Weld-Blundell Prism (Ashmolean Museum, Oxford)."
+    role: gallery
+winepresses:
+  - file: "File:MigdalHaemek5.jpg"
+    caption: "Rock-cut Bronze Age winepress on the hillside at Migdal HaEmek, Israel."
+    role: primary
+winged-sun-disk:
+  - file: "File:Medinet Habu Ramses III. Tempelrelief 15.JPG"
+    caption: "Painted winged sun disk above the cartouches of Ramesses III, ceiling relief in his mortuary temple at Medinet Habu."
+    role: primary
+writing-and-literacy:
+  - file: "File:Mesad Hashavyahu Ostracon in Israel Museum.jpg"
+    caption: "The Mesad Hashavyahu (Yavneh-Yam) ostracon, a field worker's petition written in Hebrew, late 7th century BCE (Israel Museum, Jerusalem)."
+    role: primary
+writing-materials:
+  - file: "File:Ivory writing-board from Nimrud, Iraq, with cuneiform inscriptions. Iraq Museum.jpg"
+    caption: "Ivory writing board from Nimrud, outer cover incised with a cuneiform title (Iraq Museum, Baghdad)."
+    role: primary
+  - file: "File:Panels of a writing board MET DP110589.jpg"
+    caption: "Assyrian ivory writing-board panels, once filled with wax (Metropolitan Museum of Art, New York)."
+    role: gallery
+xerxes-i:
+  - file: "File:National Museum of Iran Darafsh (785).JPG"
+    caption: "Enthroned Achaemenid king (Darius I or Xerxes I) on an audience relief from Persepolis (National Museum of Iran, Tehran)."
+    role: primary
+  - file: "File:Trilingual inscription of Xerxes, Van, 1973.JPG"
+    caption: "Trilingual inscription of Xerxes in Old Persian, Babylonian and Elamite cut into the rock at Van, Turkey."
+    role: gallery
+yam-suph:
+  - file: "File:Gulf of Suez from orbit 2007.JPG"
+    caption: "The Gulf of Suez (left) and Gulf of Aqaba (right) on either side of the Sinai Peninsula, seen from orbit; both gulfs are called yam sûp in the Bible."
+    role: primary
+yehud-province:
+  - file: "File:YHD coins.jpg"
+    caption: "Silver coins inscribed YHD, minted in the Persian province of Yehud, 4th century BCE."
+    role: primary
+    depicts: [yehud-seals-and-coins]
+yehud-seals-and-coins:
+  - file: "File:Yahod.jpg"
+    caption: "Small silver Yehud coin with a lily, Persian period."
+    role: primary
+  - file: "File:JUDAEA, Persian Period. Hezekiah. Circa 375-333 BCE.jpg"
+    caption: "Silver coin of 'Hezekiah the governor', Judah, c. 375–333 BCE."
+    role: gallery
+yhwh-origins:
+  - file: "File:Ajrud.jpg"
+    caption: "Drawing of the inscription and figures on Pithos A from Kuntillet ʿAjrud, early 8th century BCE, which invokes YHWH of Samaria."
+    role: primary
+    depicts: [kuntillet-ajrud-inscriptions]
+zakkur-stele:
+  - file: "File:Stèle de Zakkur - Musée du Louvre Antiquités orientales AO 8185.jpg"
+    caption: "The Zakkur Stele, basalt, Old Aramaic, c. 800 BCE, from Tell Afis (Musée du Louvre, Paris)."
+    role: primary
+ziggurat:
+  - file: "File:Ancient ziggurat at Ali Air Base Iraq 2005.jpg"
+    caption: "The restored ziggurat of Ur with its triple stairway, built by Ur-Nammu in the late 3rd millennium BCE."
+    role: primary
+  - file: "File:Choqa Zanbil Darafsh 1 (36).JPG"
+    caption: "The Elamite ziggurat of Chogha Zanbil (Dur-Untash), Iran."
+    role: gallery
+ziggurat-and-babel:
+  - file: "File:Cuneiform cylinder- inscription of Nebuchadnezzar II commemorating the reconstruction of Etemenanki, the ziggurat at Babylon MET ME86 11 284.jpg"
+    caption: "Clay cylinder fragment of Nebuchadnezzar II commemorating his rebuilding of Etemenanki, the ziggurat of Babylon (Metropolitan Museum of Art, New York)."
+    role: primary
+    depicts: [etemenanki]
+  - file: "File:Etemenanki drawing.gif"
+    caption: "Modern reconstruction drawing of Etemenanki after H. Schmid."
+    role: gallery
+zoroastrianism:
+  - file: "File:Persepolis - carved Faravahar.JPG"
+    caption: "Winged figure in a ring (often identified with Ahura Mazda), relief at Persepolis, Achaemenid period."
+    role: primary

@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: atrahasis
+file: atrahasis.jpg
+title: >-
+  Babylon Story of the Flood, Tablet containing the Epic of Atrahasis, 1635 BCE, probably
+  from Sipar. Currently at the British Museum.jpg
+caption: >-
+  Old Babylonian tablet of the Atrahasis epic, recounting the flood, probably from Sippar,
+  17th century BCE (British Museum, London).
+description: >-
+  One of the three tablets that contained the Epic of Atrahasis, hero of the Babylonian Flood
+  story. It recounts how the gods sent a deluge to drown the world and destroy noisy humanity.
+  Enki, god of wisdom, secretly warned Atrahasis who, in time, built a boat to save mankind
+  and life on earth. 1635 BCE, probably from Sipar. Currently at the British Museum
+creator: SpeakingArch
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: SpeakingArch, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Babylon_Story_of_the_Flood,_Tablet_containing_the_Epic_of_Atrahasis,_1635_BCE,_probably_from_Sipar._Currently_at_the_British_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/73/Babylon_Story_of_the_Flood%2C_Tablet_containing_the_Epic_of_Atrahasis%2C_1635_BCE%2C_probably_from_Sipar._Currently_at_the_British_Museum.jpg
+  sha1: 6383ea0d2cc68b2620c46fe2e6e11a2ea2e300eb
+  original_size: [736, 977]
+  retrieved: '2026-11-20'
+derivative: null
+size: [736, 977]
+depicts: [atrahasis]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

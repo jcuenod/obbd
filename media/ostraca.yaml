@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ostraca
+file: ostraca.jpg
+title: מכתב 18 מערד, 2.jpg
+caption: >-
+  Arad ostracon 18, a Hebrew letter written in ink on a potsherd and addressed to Eliashib,
+  early 6th century BCE.
+description: >-
+  מכתב 18 מערד: "אל אדני . אלי/שב . יהוה יש/אל לשלמך . ועת / תן . לשמריהו (סימן, לתך?) . ולקרסי
+  / תתן . (סימן, חמר?) ולד/בר . אשר . צ/ותני . שלם . / בית . יהוה . // הא . ישב ."
+creator: פעמי-עליון
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: פעמי-עליון, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:%D7%9E%D7%9B%D7%AA%D7%91_18_%D7%9E%D7%A2%D7%A8%D7%93,_2.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/26/%D7%9E%D7%9B%D7%AA%D7%91_18_%D7%9E%D7%A2%D7%A8%D7%93%2C_2.jpg
+  sha1: 185a3ed21aefda9eba0ce8437c920017246eb64e
+  original_size: [960, 1285]
+  retrieved: '2026-11-20'
+derivative: null
+size: [960, 1285]
+depicts: [arad-ostraca, ostraca]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

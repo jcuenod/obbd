@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: shiloh
+title: Shiloh
+aliases: [Tel Shiloh, Khirbet Seilun]
+type: site
+cultures: [israelite]
+scope: >-
+  The site in the Ephraimite hill country remembered as the location of the tent of meeting
+  and the ark before the monarchy. Covers the Bronze and Iron I remains, the Iron I destruction,
+  and how biblical traditions about Shiloh's sanctuary and fall relate to the evidence.
+passages:
+- ref: Josh 18:1
+  rel: setting
+  note: The tent of meeting set up at Shiloh
+- ref: Judg 18:31
+  rel: setting
+  note: Micah's image at Dan 'as long as the house of God was at Shiloh'
+- ref: Judg 21:19-21
+  rel: setting
+  note: Annual festival and the dancing daughters of Shiloh
+- ref: 1Sam 1:3, 9
+  rel: setting
+  note: Elkanah's pilgrimage; the 'temple (hêkal) of YHWH' at Shiloh
+- ref: 1Sam 4:3-11
+  rel: setting
+  note: The ark taken from Shiloh into battle and captured
+- ref: 1Kgs 14:2
+  rel: setting
+  note: Ahijah the prophet at Shiloh
+- ref: Ps 78:60
+  rel: setting
+  note: God abandoned his dwelling at Shiloh
+- ref: Jer 7:12-14
+  rel: setting
+  note: '''Go now to my place that was in Shiloh'''
+- ref: Jer 26:6, 9
+  rel: setting
+  note: The temple will be made like Shiloh
+related: [ark-of-the-covenant, tabernacle, festivals-agricultural, emergence-of-israel, bethel]
+media:
+- id: shiloh
+  role: primary
+external:
+  wikipedia: Shiloh (biblical city)
+  wikidata: Q985542
+editorial:
+  author_notes:
+  - The identification with Khirbet Seilun is secure and fits the directions in Judg 21:19.
+  - >-
+    Danish (1926-32) and Finkelstein's (1981-84) excavations found Iron I pillared buildings
+    with collared-rim jars, destroyed by fire c. 1050. Many link this to the Philistines after
+    Ebenezer, though the text never narrates a destruction (Jeremiah and Ps 78 imply one).
+  - >-
+    No sanctuary structure has been found. Recent claims by the Associates for Biblical Research
+    to have located the tabernacle site, and 'horned altar corners', are not mainstream and
+    should be flagged as such.
+  sources_to_check:
+  - NEAEHL
+  - Finkelstein (ed.), Shiloh - The Archaeology of a Biblical Site (1993)
+  image_query: Tel Shiloh excavations
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates from Wikidata Q985542 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 32.0557
+  lon: 35.28954
+  source: wikidata:Q985542

@@ -1,0 +1,57 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: merodach-baladan
+title: Merodach-baladan II
+aliases: [Marduk-apla-iddina II, Berodach-baladan]
+type: person
+cultures: [babylonian]
+date:
+  from: -722
+  to: -703
+  display: 722–703 BCE
+scope: >-
+  Chaldean chieftain of Bit-Yakin who ruled Babylon in defiance of Assyria from 722 to 710
+  and again briefly in 703. His embassy to Hezekiah is narrated in Kings and Isaiah.
+passages:
+- ref: 2Kgs 20:12-19
+  rel: event
+  note: Babylonian envoys visit Hezekiah, who shows them his treasures
+- ref: Isa 39:1-8
+  rel: event
+  note: Parallel account; Isaiah predicts exile to Babylon
+- ref: 2Chr 32:31
+  rel: event
+  note: Envoys of Babylon's officials inquire about the sign
+related: [hezekiah, sargon-ii, sennacherib, babylonia, kudurru, sennacherib-campaign-701]
+media:
+- id: merodach-baladan
+  role: primary
+external:
+  wikipedia: Marduk-apla-iddina II
+  wikidata: Q356505
+editorial:
+  author_notes:
+  - >-
+    Reigned 722-710, expelled by Sargon II, and returned for about nine months in 703 before
+    Sennacherib drove him out; the embassy likely aimed to build an anti-Assyrian coalition
+    before 701 (or c. 714-711).
+  - >-
+    2 Kgs 20:12 reads Berodach-baladan; Isa 39:1 has Merodach-baladan, closer to the Akkadian.
+  - Isaiah's prophecy of Babylonian exile is widely regarded as shaped by later events.
+  sources_to_check:
+  - Brinkman, "Merodach-Baladan II," in Studies Presented to A. Leo Oppenheim (1964)
+  - ABC 1
+  image_query: Kudurru of Marduk-apla-iddina II Berlin
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

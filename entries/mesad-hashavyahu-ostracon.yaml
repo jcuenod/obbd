@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: mesad-hashavyahu-ostracon
+title: Meṣad Ḥashavyahu (Yavneh-Yam) Ostracon
+aliases: [Yavneh-Yam Ostracon, Reaper's Plea]
+type: artifact
+cultures: [judahite]
+date:
+  from: -630
+  to: -609
+  circa: true
+  display: c. 630–609 BCE
+scope: >-
+  A Hebrew ostracon found in 1960 at the coastal fortress of Meṣad Ḥashavyahu near Yavneh-Yam.
+  In it a harvest worker petitions an official for the return of his garment, which an overseer
+  named Hoshayahu son of Shobai had confiscated. It is the earliest extrabiblical legal petition
+  in Hebrew.
+passages:
+- ref: Exod 22:26-27
+  rel: practice
+  note: A garment taken in pledge must be returned before sunset (MT 22:25-26)
+- ref: Deut 24:12-15
+  rel: practice
+  note: Returning the poor man's pledged cloak; paying the labourer promptly
+- ref: Amos 2:8
+  rel: practice
+  note: Garments taken in pledge abused by the powerful
+- ref: Job 22:6
+  rel: practice
+  note: Taking pledges and stripping the naked of clothing
+- ref: Deut 19:15
+  rel: practice
+  note: Testimony of witnesses; the reaper says his companions will testify for him
+- ref: Amos 8:5
+  rel: practice
+  disputed: true
+  note: '''before šbt'' perhaps refers to the sabbath as a work boundary'
+related: [widow-orphan-sojourner, courts-and-legal-procedure, agriculture-and-farming, clothing-and-dress,
+  sabbath, ostraca, josiah]
+location:
+  institution: Israel Museum, Jerusalem
+  accession: null
+media:
+- id: corvee-labor
+  role: gallery
+external:
+  wikipedia: Yavne-Yam ostracon
+  wikidata: Q85816642
+editorial:
+  author_notes:
+  - >-
+    Whether šbt in 'before šbt' means 'sabbath' or 'stopping (work)' is disputed. Present
+    both readings.
+  - >-
+    Who controlled the fort (Josiah's Judah or Egypt under Psammetichus I, with Greek mercenaries)
+    is debated. The Hebrew letter and the East Greek pottery both need explaining.
+  - >-
+    The petition is not a lawsuit before a court but an appeal to an official. Compare biblical
+    appeals to the king (2 Sam 14; 2 Kgs 8:3-6).
+  sources_to_check:
+  - KAI 200
+  - COS 3.41
+  - Naveh, IEJ 10 (1960)
+  - Dobbs-Allsopp et al., Hebrew Inscriptions (2005)
+  image_query: Mesad Hashavyahu ostracon Israel Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

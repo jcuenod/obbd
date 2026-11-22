@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: philistines-2
+file: philistines-2.jpg
+title: Philistine captives at Medinet Habu.jpg
+caption: >-
+  Drawing of Peleset (Philistine) captives in feathered headdresses from the reliefs of Ramesses
+  III at Medinet Habu.
+description: Procession of Philistine Captives At Medinet-habu.
+creator: Drawn by Faucher-Gudin, from a photograph by Insinger.
+credit_line: >-
+  G. Maspero - ed. A.H. Sayce - trad. M.L. McClure, History of Egypt Chaldea, Syria, Babylonia,
+  and Assyria, VI.C, London, 1903-1904.
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: >-
+  Drawn by Faucher-Gudin, from a photograph by Insinger.. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Philistine_captives_at_Medinet_Habu.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/e/e6/Philistine_captives_at_Medinet_Habu.jpg
+  sha1: 63108be760ef5ef323c12704059cf35849be61bf
+  original_size: [653, 575]
+  retrieved: '2026-11-20'
+derivative: null
+size: [653, 575]
+depicts: [medinet-habu-sea-peoples, philistines]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

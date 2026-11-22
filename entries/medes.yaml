@@ -1,0 +1,88 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: medes
+title: Medes
+aliases: [Media, Madai, Māda]
+type: people
+cultures: [persian]
+date:
+  from: -835
+  to: -550
+  circa: true
+  display: c. 835–550 BCE
+scope: >-
+  The Iranian-speaking Medes of the Zagros and their polity centred on Ecbatana, allies of
+  Babylon in destroying Assyria and later absorbed by Cyrus. Covers Median history and its
+  uncertainties, and the place of 'Media' in the Bible, including Daniel's Median kingdom.
+passages:
+- ref: Gen 10:2
+  rel: setting
+  note: Madai among the sons of Japheth
+- ref: 2Kgs 17:6
+  rel: setting
+  note: Israelite deportees settled 'in the cities of the Medes'
+- ref: Isa 13:17
+  rel: setting
+  note: The Medes stirred up against Babylon
+- ref: Isa 21:2
+  rel: setting
+  note: '''Go up, O Elam; lay siege, O Media'''
+- ref: Jer 51:11, 28
+  rel: setting
+  note: Kings of the Medes against Babylon
+- ref: Dan 5:28-31
+  rel: setting
+  note: Kingdom given to the Medes and Persians; Darius the Mede (5:31 = MT 6:1)
+- ref: Dan 6:8
+  rel: language
+  note: '''The law of the Medes and the Persians'', which cannot be revoked (MT 6:9)'
+- ref: Dan 8:20
+  rel: setting
+  note: 'The two-horned ram: the kings of Media and Persia'
+- ref: Esth 1:3, 19
+  rel: setting
+  note: '''The army of Persia and Media''; laws of the Persians and the Medes'
+- ref: Ezra 6:2
+  rel: setting
+  note: Scroll found at Ecbatana in the province of Media
+related: [persia, darius-the-mede, four-kingdoms-schema, fall-of-nineveh-chronicle, assyria,
+  babylonia, cyrus-the-great]
+media:
+- id: medes
+  role: primary
+external:
+  wikipedia: Medes
+  wikidata: Q8735
+editorial:
+  author_notes:
+  - >-
+    The Medes appear in Assyrian sources from Shalmaneser III. For much of the period they
+    appear as many local 'city lords', not one state. Herodotus' Median empire (Deioces and
+    his successors) has been questioned (Sancisi-Weerdenburg and others).
+  - >-
+    Cyaxares (Umakishtar) allied with Nabopolassar in the fall of Ashur (614) and Nineveh
+    (612). Cyrus defeated Astyages c. 550 (Nabonidus Chronicle).
+  - >-
+    Daniel's Median kingdom between Babylon and Persia (the four-kingdoms schema) is not historical,
+    and 'Darius the Mede' is otherwise unattested. Cross-refer darius-the-mede.
+  - >-
+    Ecbatana (Hamadan) served as an Achaemenid summer capital, which makes Ezra 6:2 plausible
+    in setting.
+  sources_to_check:
+  - >-
+    Lanfranchi, Roaf and Rollinger (eds.), Continuity of Empire (?) - Assyria, Media, Persia
+    (2003)
+  image_query: Persepolis relief Median dignitary
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

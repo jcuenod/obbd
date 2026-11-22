@@ -1,0 +1,93 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: solomons-temple
+title: Solomon's Temple (First Temple)
+aliases: [First Temple, House of YHWH]
+type: realia
+cultures: [judahite, phoenician]
+scope: >-
+  The First Temple in Jerusalem as a building: its tripartite plan, dimensions, side chambers,
+  decoration and furnishings, its place beside the royal palace, and its history until the
+  Babylonian destruction, compared with Iron Age temples of the northern Levant. The building-account
+  genre, cosmic symbolism, the bronze pillars and the bronze sea have their own entries.
+passages:
+- ref: 1Kgs 6:2-3
+  rel: realia
+  note: Long-room temple 60 x 20 cubits with a porch (ʾûlām) 10 cubits deep
+- ref: 1Kgs 6:5-10
+  rel: realia
+  note: Three storeys of side chambers built against the house on inset ledges
+- ref: 1Kgs 6:16-20
+  rel: realia
+  note: Inner sanctuary (dĕbîr) a 20-cubit cube behind the main hall (hêkāl)
+- ref: 1Kgs 6:23-28
+  rel: realia
+  note: Two olivewood cherubim ten cubits high spanning the inner sanctuary
+- ref: 1Kgs 6:29-35
+  rel: realia
+  note: Carved cherubim, palms and open flowers overlaid with gold; cf. Phoenician ivories
+- ref: 1Kgs 6:36; 7:12
+  rel: realia
+  note: Courts built of three courses of dressed stone and one of cedar beams
+- ref: 1Kgs 5:6-12
+  rel: setting
+  note: Cedar and Sidonian expertise supplied by Hiram of Tyre (MT 5:20-26)
+- ref: 1Kgs 8:6-8
+  rel: realia
+  note: Ark placed beneath the cherubim's wings in the inner sanctuary
+- ref: 2Chr 3:1-14
+  rel: realia
+  note: 'Chronicler''s description: site on Mount Moriah, gold overlay, the veil'
+- ref: Ezek 40:48-41:26
+  rel: realia
+  note: Visionary temple on the same tripartite plan with side chambers
+- ref: 2Kgs 25:9, 13-17
+  rel: event
+  note: Temple burned in 586 and its bronze furnishings carried off
+related: [temple-building-accounts, temple-as-cosmos, jachin-and-boaz, ain-dara-temple, tell-tayinat,
+  tel-motza-temple, temple-mount, hiram-of-tyre]
+media: []
+external:
+  wikipedia: Solomon's Temple
+  wikidata: Q223644
+editorial:
+  author_notes:
+  - >-
+    No remains of the First Temple have been excavated; the Temple Mount cannot be dug, and
+    finds from sifting spoil are out of context. The 'Jehoash inscription' and the inscription
+    on the ivory pomegranate are judged forgeries by most specialists. Do not use them as
+    evidence.
+  - >-
+    The closest plans are Iron Age temples of northern Syria: ʿAin Dara (portico, antechamber,
+    cella, and a surrounding gallery) and Tell Tayinat Building II (tripartite temple next
+    to a palace). Stress that these are typological parallels that show the plan is plausible
+    for the Iron Age; they do not date 1 Kgs 6-7.
+  - >-
+    The description in 1 Kgs 6-7 probably reflects the temple as later Judahite scribes knew
+    it, with editorial layers. Whether the building goes back to Solomon in its described
+    form is tied to the debate over 10th-century Jerusalem; present the range of views (see
+    low-chronology-debate).
+  - >-
+    Note the temple's function as a royal chapel attached to the palace complex (1 Kgs 7:1-12),
+    and its later alterations (e.g. Ahaz's altar, 2 Kgs 16:10-18; Josiah's repairs, 2 Kgs
+    22:3-7).
+  - >-
+    Explain the cubit (about 45-52 cm) and the problems of reconstructing the elevation, especially
+    the 120-cubit porch of 2 Chr 3:4.
+  sources_to_check:
+  - Th. A. Busink, Der Tempel von Jerusalem von Salomo bis Herodes (1970-1980)
+  - J. Day, ed., Temple and Worship in Biblical Israel (LHBOTS 422, 2005)
+  - J. Kamlah, ed., Temple Building and Temple Cult (ADPV 41, 2012)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

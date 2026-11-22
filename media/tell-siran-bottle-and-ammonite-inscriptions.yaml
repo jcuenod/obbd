@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: tell-siran-bottle-and-ammonite-inscriptions
+file: tell-siran-bottle-and-ammonite-inscriptions.jpg
+title: Tel Siran bottle at the Jordan Archaeological Museum.jpg
+caption: The inscribed bronze Tell Siran bottle (Jordan Archaeological Museum, Amman).
+description: Tel Siran bottle at the Jordan Archaeological Museum
+creator: Onceinawhile
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Onceinawhile, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Tel_Siran_bottle_at_the_Jordan_Archaeological_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/8/87/Tel_Siran_bottle_at_the_Jordan_Archaeological_Museum.jpg
+  sha1: 08e5782117abc9fdf773b1789a490492dafa3b8d
+  original_size: [1694, 826]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×780 px
+size: [1600, 780]
+depicts:
+- tell-siran-bottle-and-ammonite-inscriptions
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

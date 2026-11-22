@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: great-hymn-to-shamash
+title: Great Hymn to Šamaš
+aliases: [Šamaš Hymn, Hymn to the Sun God]
+type: text
+cultures: [babylonian, assyrian]
+scope: >-
+  A 200-line Akkadian hymn praising Šamaš as the sun who lights and surveys the whole world,
+  protects travellers and the needy, and punishes the unjust judge, the bribe-taker and the
+  merchant with false weights. It is the fullest Mesopotamian statement of the sun god as
+  all-seeing guardian of justice. The god himself is treated under shamash.
+passages:
+- ref: Ps 19:1-6
+  rel: imagery
+  note: The sun's circuit from end to end of heaven; nothing hidden from its heat (MT 19:2-7)
+- ref: Ps 19:7-11
+  rel: concept
+  note: Sun hymn joined to praise of torah; cf. the sun god as guardian of justice (MT 19:8-12)
+- ref: Ps 139:7-12
+  rel: concept
+  note: No escape from the deity's sight in heaven, Sheol, sea, or darkness
+- ref: Ps 33:13-15
+  rel: concept
+  note: YHWH looks down from heaven and sees all humankind
+- ref: Job 34:21-22
+  rel: concept
+  note: No darkness where evildoers may hide from God's eyes
+- ref: Deut 25:13-16
+  rel: practice
+  note: Two kinds of weights forbidden; cf. the hymn's curse on the dishonest merchant
+- ref: Prov 11:1; 20:10, 23
+  rel: concept
+  note: False balances and differing weights an abomination to YHWH
+- ref: Exod 23:8
+  rel: practice
+  note: Bribes blind officials; cf. Šamaš punishing the judge who takes a bribe
+- ref: Mal 4:2
+  rel: imagery
+  note: Sun of righteousness rising with healing in its wings (MT 3:20)
+related: [shamash, tablet-of-shamash, justice-and-righteousness, code-of-hammurabi, weights-and-silver-money,
+  great-hymn-to-the-aten, mesopotamian-lament-prayers]
+media:
+- id: great-hymn-to-shamash
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The main copies are from Ashurbanipal's library at Nineveh (7th c.), with others from
+    elsewhere. Composition is probably earlier but cannot be dated closely, which is why no
+    date is given here.
+  - >-
+    Sarna's study of Ps 19 against sun-god literature (1967) is the classic case: the joining
+    of solar praise (vv. 1-6) and torah (vv. 7-14) makes sense against Šamaš as lord of light
+    and of justice. Do not claim that Ps 19:1-6 was a hymn to the sun god.
+  - >-
+    Note the hymn's social range (merchants, travellers, fishermen, the captive, the sick),
+    which gives a concrete picture of what 'justice' meant in daily life.
+  - >-
+    Distinguish this hymn from the Egyptian Great Hymn to the Aten, often cited for Ps 104.
+    The two are frequently confused in popular literature.
+  sources_to_check:
+  - W. G. Lambert, Babylonian Wisdom Literature (1960), 121-138
+  - ANET 387-389
+  - B. R. Foster, Before the Muses (3rd ed. 2005)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

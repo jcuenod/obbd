@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: yehud-seals-and-coins
+title: Yehud Stamp Impressions and Coins
+type: realia
+cultures: [persian, judahite, jewish]
+date:
+  from: -500
+  to: -150
+  circa: true
+  display: c. 500–150 BCE
+scope: >-
+  Inscribed stamp impressions on jar handles (yhd, yhwd, sometimes with names and the title
+  phwʾ 'governor') and small silver coins inscribed yhd/yhwd from the Persian and early Hellenistic
+  province of Judah. They provide the main epigraphic evidence for Yehud's administration
+  and governors.
+passages:
+- ref: Hag 1:1, 14
+  rel: attests
+  note: Zerubbabel 'governor (peḥâ) of Judah'; seal impressions attest the office
+- ref: Neh 5:14-15
+  rel: attests
+  note: Earlier governors of Judah before Nehemiah
+- ref: Mal 1:8
+  rel: attests
+  note: '''Offer that to your governor'''
+- ref: Ezra 5:8
+  rel: language
+  note: '''The province of Judah'' (yĕhûd mĕdîntāʾ)'
+- ref: Neh 12:10-11, 22
+  rel: attests
+  disputed: true
+  note: Johanan the high priest; a coin of 'Yohanan the priest' may name him
+- ref: 1Chr 3:19
+  rel: attests
+  disputed: true
+  note: >-
+    Shelomith, 'maidservant of Elnathan the governor' on an unprovenanced seal; identification
+    with Zerubbabel's daughter proposed
+related: [yehud-province, coinage, seals-and-bullae, ramat-rahel, paleo-hebrew-script, samaria-papyri]
+media:
+- id: coinage
+  role: gallery
+- id: yehud-seals-and-coins
+  role: primary
+- id: yehud-seals-and-coins-2
+  role: gallery
+external:
+  wikipedia: Yehud coinage
+  wikidata: Q8051278
+editorial:
+  author_notes:
+  - >-
+    Use the Lipschits-Vanderhooft typology and chronology. Their distribution (Ramat Rahel,
+    Jerusalem, Mizpah area) helps map provincial boundaries.
+  - >-
+    Avigad's bullae and seals naming Elnathan and Shelomith are unprovenanced. Note this,
+    and present the Shelomith-Zerubbabel identification (Meyers) as conjecture.
+  - >-
+    Coins: 4th century BCE, including issues naming 'Yehezqiyah the governor' and 'Yohanan
+    the priest'. Note the debated BM drachm with a seated deity (reading YHD vs. YHW).
+  - >-
+    Note the use of Aramaic versus paleo-Hebrew scripts on these objects, and the minting
+    of Yehud coins after the Persian period under Ptolemaic rule.
+  sources_to_check:
+  - O. Lipschits and D. S. Vanderhooft, The Yehud Stamp Impressions (2011)
+  - N. Avigad, Bullae and Seals from a Post-Exilic Judean Archive (Qedem 4, 1976)
+  - Y. Meshorer, A Treasury of Jewish Coins (2001)
+  image_query: Yehud coin
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

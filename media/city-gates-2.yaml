@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: city-gates-2
+file: city-gates-2.jpg
+title: Six-chambered gate at Tel Gezer (5751873295).jpg
+caption: The Iron Age six-chambered gate at Tel Gezer.
+description: >-
+  This iron-age gate shares a common pattern with iron-age gates at Lachish and Megiddo. Since
+  these are listed in biblical texts as cities fortified by Solomon, these fortifications
+  are often called "Solomonic" gates. Gezer
+creator: Ian Scott
+credit_line: Six-chambered gate at Tel Gezer
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: Ian Scott, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Six-chambered_gate_at_Tel_Gezer_(5751873295).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/91/Six-chambered_gate_at_Tel_Gezer_%285751873295%29.jpg
+  sha1: 187e5a4c5800f0e923258e44c4e6565323c921b9
+  original_size: [2500, 1875]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [city-gates]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

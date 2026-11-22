@@ -1,0 +1,97 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: chaoskampf
+title: Divine Combat with the Sea (Chaoskampf)
+aliases: [Chaoskampf, combat myth, divine conflict with the sea]
+type: concept
+cultures: [ugaritic, babylonian, amorite, hittite]
+scope: >-
+  The motif of a storm or warrior deity defeating the Sea or a sea dragon, attested at Ugarit
+  (Baal and Yam), in Mesopotamia (Marduk and Tiamat), at Mari, and among the Hittites, and
+  reused in biblical poetry for YHWH's victory over Sea, Rahab, Leviathan, and the dragon.
+passages:
+- ref: Ps 74:12-17
+  rel: parallel
+  note: God divides the sea, breaks the heads of the dragons, crushes Leviathan
+- ref: Ps 89:9-10
+  rel: parallel
+  note: YHWH rules the raging sea and crushes Rahab; MT 89:10-11
+- ref: Job 26:12-13
+  rel: parallel
+  note: God stills the Sea, strikes Rahab, pierces the fleeing serpent
+- ref: Job 7:12
+  rel: parallel
+  note: '''Am I the Sea, or the Dragon, that you set a guard over me?'''
+- ref: Job 38:8-11
+  rel: concept
+  note: The sea shut in with doors and set bounds; restraint without combat
+- ref: Isa 27:1
+  rel: parallel
+  note: Leviathan the fleeing and twisting serpent; close wording to KTU 1.5 I 1-3
+- ref: Isa 51:9-10
+  rel: parallel
+  note: Arm of YHWH that cut Rahab and pierced the dragon, applied to the exodus
+- ref: Hab 3:8-15
+  rel: parallel
+  note: Divine warrior's rage against rivers and sea
+- ref: Nah 1:4
+  rel: imagery
+  note: YHWH rebukes the sea and makes it dry
+- ref: Gen 1:2, 21
+  rel: polemic
+  disputed: true
+  note: Deep and sea creatures (tannînim) without combat; demythologizing reading debated
+- ref: Dan 7:2-8
+  rel: imagery
+  note: Beasts arise from the churning sea
+- ref: Rev 12:3-9
+  rel: imagery
+  note: The great dragon defeated and thrown down
+- ref: Rev 21:1
+  rel: imagery
+  note: '''The sea was no more'''
+related: [baal-cycle, enuma-elish, leviathan, rahab-sea-monster, tannin, yam, divine-warrior,
+  tehom]
+media:
+- id: chaoskampf
+  role: primary
+external:
+  wikipedia: Chaoskampf
+  wikidata: Q133151788
+editorial:
+  author_notes:
+  - >-
+    The closest biblical parallels are Ugaritic (Baal versus Yam, and Anat's and Baal's defeat
+    of Litan/Lotan, the seven-headed serpent). The parallels are not mainly Babylonian (Day,
+    God's Conflict with the Dragon and the Sea). Isa 27:1 echoes KTU 1.5 I 1-3 almost word
+    for word.
+  - >-
+    Distinguish combat from creation. At Ugarit, Baal's victory over Yam secures kingship
+    and a palace and is not a creation story. In Enuma Elish combat leads to creation. Biblical
+    texts link the combat to creation (Ps 74; 89), to the exodus (Isa 51), and to eschatology
+    (Isa 27; Rev).
+  - >-
+    Whether Gen 1 deliberately demythologizes the combat myth is debated (Gunkel versus Tsumura;
+    Watson, Chaos Uncreated). Present it as a debate. Some scholars question whether "chaos"
+    is the right category at all.
+  - >-
+    Mention the Mari letter (A.1968) in which Addu gives Zimri-Lim the weapons with which
+    he fought Sea, as evidence of the motif in the Amorite West.
+  sources_to_check:
+  - John Day, God's Conflict with the Dragon and the Sea (1985)
+  - Rebecca S. Watson, Chaos Uncreated (BZAW 341, 2005)
+  - CAT 1.2 IV; 1.3 III; 1.5 I
+  image_query: Nimrud relief Ninurta fighting monster
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

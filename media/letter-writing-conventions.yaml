@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: letter-writing-conventions
+file: letter-writing-conventions.jpg
+title: >-
+  Amarna letter. A letter from Shipti Ba'al (ruler of Lachish), who reassures the Egyptian
+  pharaoh (Amenhotep III or his son Akhenaten) of his loyalty. Akkadian cuneiform text. 14th
+  century BCE. From Tell el-Amarna, Egypt. British Museum.jpg
+caption: >-
+  Amarna letter from Shipti-Baal of Lachish to the pharaoh, Akkadian cuneiform on clay, 14th
+  century BCE (British Museum).
+description: >-
+  Amarna letter. A letter from Shipti Ba'al (ruler of Lachish), who reassures the Egyptian
+  pharaoh (Amenhotep III or his son Akhenaten) of his loyalty. Akkadian cuneiform text. 14th
+  century BCE. From Tell el-Amarna, Egypt. British Museum, London. ME 29848. EA 330 (Amarna
+  no.).
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Amarna_letter._A_letter_from_Shipti_Ba%27al_(ruler_of_Lachish),_who_reassures_the_Egyptian_pharaoh_(Amenhotep_III_or_his_son_Akhenaten)_of_his_loyalty._Akkadian_cuneiform_text._14th_century_BCE._From_Tell_el-Amarna,_Egypt._British_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/8/8f/Amarna_letter._A_letter_from_Shipti_Ba%27al_%28ruler_of_Lachish%29%2C_who_reassures_the_Egyptian_pharaoh_%28Amenhotep_III_or_his_son_Akhenaten%29_of_his_loyalty._Akkadian_cuneiform_text._14th_century_BCE._From_Tell_el-Amarna%2C_Egypt._British_Museum.jpg
+  sha1: 740687d2705d418e90bdf00c469cead2d55a959f
+  original_size: [2301, 2496]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1475×1600 px
+size: [1475, 1600]
+depicts: [amarna-letters, letter-writing-conventions]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: carchemish-2
+file: carchemish-2.jpg
+title: T. E. Lawrence and L. Woolley at Carchemish (1913).jpg
+caption: >-
+  T. E. Lawrence and Leonard Woolley with a relief slab during the British Museum excavations
+  at Carchemish, 1913.
+description: >-
+  T E Lawrence with Leonard Woolley, the archaeological director, with a Hittite slab on the
+  excavation site at Carchemish near Aleppo before the First World War.
+creator: Unknown authorUnknown author
+credit_line: >-
+  http://photosofwar.net/history-pictures-world-war-images/t-e-lawrence-on-site-at-carchemish-sometime-in-1912-or-1913-lawrence-was-a-rising-star-in-the-archaeological-world-before-the-outbreak-of-wwi/
+  This photograph Q 73536 comes from the collections of the Imperial War Museums.
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Unknown authorUnknown author. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:T._E._Lawrence_and_L._Woolley_at_Carchemish_(1913).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/b2/T._E._Lawrence_and_L._Woolley_at_Carchemish_%281913%29.jpg
+  sha1: b3e636be776fdcccf0a6eb4caa9eef500d6e0767
+  original_size: [5499, 3820]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1112 px
+size: [1600, 1112]
+depicts: [carchemish]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

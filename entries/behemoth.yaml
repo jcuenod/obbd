@@ -1,0 +1,58 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: behemoth
+title: Behemoth
+type: deity
+cultures: [hebrew, jewish, egyptian]
+scope: >-
+  Behemoth, the mighty land creature presented in God's second speech to Job, and in later
+  Jewish apocalyptic the land counterpart of Leviathan. The entry covers natural (hippopotamus)
+  and mythological interpretations.
+passages:
+- ref: Job 40:15-24
+  rel: imagery
+  note: Behemoth, 'first of the great acts of God', untameable by humans
+- ref: 1En 60:7-9
+  rel: concept
+  note: Behemoth, male, in the desert of Dendain; Leviathan in the sea
+- ref: 2Esd 6:49-52
+  rel: concept
+  note: Behemoth and Leviathan kept for the end-time (4 Ezra)
+related: [leviathan, chaoskampf, first-enoch, baal-cycle, egyptian-kingship, smiting-the-enemy-motif]
+media:
+- id: behemoth
+  role: primary
+external:
+  wikipedia: Behemoth
+  wikidata: Q378477
+editorial:
+  author_notes:
+  - >-
+    The hippopotamus identification is traditional and still common; Keel's reading via Egyptian
+    royal and Horus hippopotamus-hunt iconography (hippo as Seth) offers a bridge between
+    natural and mythic readings.
+  - >-
+    Some (Pope, Day) connect Behemoth with Ugaritic ʿgl il ʿtk ("El's calf Atik") among Baal's
+    and Anat's defeated foes (KTU 1.3 III); this is disputed.
+  - >-
+    The form is an intensive plural of bəhēmâ "beast"; Hebrew grammar, not a loanword, explains
+    it.
+  - Correct popular claims that Behemoth is a dinosaur; this is a fringe reading.
+  sources_to_check:
+  - O. Keel, Jahwes Entgegnung an Ijob (FRLANT 121, 1978)
+  - J. Day, God's Conflict with the Dragon and the Sea (1985)
+  - DDD, s.v. "Behemoth"
+  image_query: Horus harpooning hippopotamus relief Edfu
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: pim-weights
+file: pim-weights.jpg
+title: Pim medida antigua peso hebreo.jpg
+caption: >-
+  A dome-shaped stone pim weight, side and top views with a drawing of its inscription pym.
+description: >-
+  Pim weights were polished stones about 15 mm (5/8 inch) diameter, equal to about two-thirds
+  of a Hebrew shekel. Many specimens have been found since their initial discovery early in
+  the 20th century, and each one weighs about 7.6 grams, compared to 11.5 grams of a shekel.
+  Its name comes from the inscription seen across the top of its dome shape: the Phoenician
+  letters 𐤐𐤉‬‬𐤌‬ (Hebrew פים‎, transliterated pym).
+creator: Edgarvegalara
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Edgarvegalara, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Pim_medida_antigua_peso_hebreo.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/f/f7/Pim_medida_antigua_peso_hebreo.jpg
+  sha1: 20ad0ccbdd1f2e4fe1e76b02aac49921d630e98f
+  original_size: [3464, 3464]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1600 px
+size: [1600, 1600]
+depicts: [pim-weights]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

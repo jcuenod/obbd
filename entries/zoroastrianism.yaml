@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: zoroastrianism
+title: Zoroastrianism and Persian Religion
+type: concept
+cultures: [persian]
+scope: >-
+  The Iranian religious tradition associated with Zarathustra and the worship of Ahura Mazda,
+  together with Achaemenid royal religion more broadly. The entry covers the long debate over
+  Persian influence on Second Temple Jewish dualism, angelology, demonology, eschatology,
+  and resurrection belief.
+passages:
+- ref: Isa 45:7
+  rel: polemic
+  disputed: true
+  note: >-
+    YHWH forms light and creates darkness, makes weal and creates woe; read by some against
+    dualism
+- ref: Dan 12:2-3
+  rel: concept
+  disputed: true
+  note: Resurrection to everlasting life or contempt; Persian influence debated
+- ref: Dan 10:13, 20-21
+  rel: concept
+  disputed: true
+  note: Angelic princes of the nations; angelology possibly shaped by Persian ideas
+- ref: 1Chr 21:1
+  rel: concept
+  disputed: true
+  note: Satan as an independent adversary (contrast 2 Sam 24:1)
+- ref: Tob 3:8, 17
+  rel: language
+  note: Asmodeus, generally derived from Avestan Aēšma daēva, 'demon of wrath'
+- ref: Matt 2:1-12
+  rel: language
+  note: Magi (magoi), originally a Median/Persian priestly caste
+related: [afterlife-and-resurrection, satan-the-adversary, demons, community-rule, behistun-inscription,
+  persia, four-kingdoms-schema]
+media:
+- id: zoroastrianism
+  role: primary
+external:
+  wikipedia: Zoroastrianism
+  wikidata: Q9601
+editorial:
+  author_notes:
+  - >-
+    Stress the source problem: Zarathustra's date is disputed (often c. 1200-1000 BCE, sometimes
+    6th century). The Avesta was written down in the Sasanian period and the Pahlavi books
+    date to the 9th-10th centuries CE, so claims of dependence are hard to prove.
+  - >-
+    Whether the Achaemenid kings were 'Zoroastrian' is debated. Their inscriptions invoke
+    Ahuramazda but never mention Zarathustra.
+  - >-
+    Treat proposed influences (dualism, resurrection, angelology, final judgment, world ages)
+    as a spectrum of probability. Inner-Israelite development and Hellenistic influences are
+    also live explanations.
+  - >-
+    Isa 45:7 as anti-Zoroastrian polemic is common but contested. Many see it simply as monotheistic
+    assertion.
+  sources_to_check:
+  - M. Boyce, A History of Zoroastrianism, 3 vols. (1975-1991)
+  - >-
+    M. Stausberg and Y. S.-D. Vevaina (eds.), The Wiley Blackwell Companion to Zoroastrianism
+    (2015)
+  image_query: Faravahar relief Persepolis
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

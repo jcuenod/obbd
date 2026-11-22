@@ -1,0 +1,84 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: aramaic-language
+title: Aramaic Language and Script
+aliases: [Biblical Aramaic, Imperial Aramaic]
+type: concept
+cultures: [aramean, persian]
+scope: >-
+  The Aramaic language and script from the earliest Old Aramaic royal inscriptions through
+  Imperial (Achaemenid) Aramaic to the Aramaic of the Second Temple period. The entry covers
+  the Aramaic portions of the Hebrew Bible, Aramaic words in the New Testament, and the origin
+  of the Jewish square script.
+passages:
+- ref: Ezra 4:8-6:18
+  rel: language
+  note: Aramaic section with official correspondence
+- ref: Ezra 7:12-26
+  rel: language
+  note: Artaxerxes' rescript in Aramaic
+- ref: Dan 2:4-7:28
+  rel: language
+  note: Aramaic section, beginning in 2:4b
+- ref: Jer 10:11
+  rel: language
+  note: A single Aramaic verse against the idols
+- ref: Gen 31:47
+  rel: language
+  note: Laban's Aramaic name Jegar-sahadutha for the cairn
+- ref: 2Kgs 18:26
+  rel: language
+  note: Aramaic as the language of diplomacy, unknown to ordinary Judahites
+- ref: Ezra 4:7
+  rel: language
+  note: A letter written in Aramaic script and language
+- ref: Mark 5:41
+  rel: language
+  note: talitha koum
+- ref: Mark 15:34
+  rel: language
+  note: Eloi, Eloi, lema sabachthani
+- ref: Neh 8:8
+  rel: practice
+  disputed: true
+  note: Reading the law 'with interpretation', traditionally linked to Aramaic rendering
+related: [arameans, elephantine-papyri, ahiqar, tel-dan-stele, sefire-treaties, tell-fekheriye-statue,
+  paleo-hebrew-script, persia]
+media:
+- id: aramaic-language
+  role: primary
+- id: ahiqar
+  role: gallery
+external:
+  wikipedia: Aramaic
+  wikidata: Q28602
+editorial:
+  author_notes:
+  - >-
+    Outline the standard periodisation (Old, Imperial or Official, Middle, Late) and its main
+    corpora, e.g. Fekheriye, Sefire, Tel Dan, Elephantine, Qumran.
+  - >-
+    The Aramaic of Daniel and Ezra is used in dating arguments. Present the linguistic evidence
+    carefully, as the arguments are contested in both directions.
+  - >-
+    Distinguish Aramaic language from Aramaic script. Explain the shift of Jews from the paleo-Hebrew
+    to the square script in the Persian and Hellenistic periods.
+  sources_to_check:
+  - Gzella, A Cultural History of Aramaic (2015)
+  - Fitzmyer, A Wandering Aramean (1979)
+  - Porten and Yardeni, Textbook of Aramaic Documents from Ancient Egypt (TAD)
+  - Rosenthal, A Grammar of Biblical Aramaic
+  image_query: Aramaic papyrus Elephantine
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

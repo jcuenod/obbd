@@ -1,0 +1,64 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: pool-of-bethesda
+title: Pool of Bethesda
+type: site
+cultures: [jewish, roman]
+scope: >-
+  The twin pools north of the Temple Mount near the Church of St Anne, identified with the
+  pool 'by the Sheep Gate' with five porticoes in John 5. The entry covers the pools' history
+  and the later Roman healing sanctuary nearby.
+passages:
+- ref: John 5:2-9
+  rel: setting
+  note: Pool with five porticoes where the sick waited for healing
+- ref: John 5:3-4
+  rel: language
+  note: The angel stirring the water (5:3b-4) is absent from the earliest manuscripts
+- ref: Neh 3:1; 12:39
+  rel: setting
+  note: The Sheep Gate north of the temple
+related: [pool-of-siloam, herods-temple, stone-vessels-and-mikvaot, jerusalem, temple-mount,
+  dead-sea-scrolls]
+media:
+- id: pool-of-bethesda
+  role: primary
+external:
+  wikipedia: Pool of Bethesda
+  wikidata: Q831297
+editorial:
+  author_notes:
+  - >-
+    Excavations revealed two basins separated by a dam, supporting John's five porticoes (four
+    sides plus the dividing dam). The pools' date and function (reservoir, possibly ritual
+    bathing in the southern pool) are debated.
+  - >-
+    A healing sanctuary (Asclepius/Serapis) is attested after 135 CE. Its existence before
+    70 is disputed, so do not assume it as the setting of John 5.
+  - >-
+    The name varies in manuscripts (Bethesda, Bethzatha, Bethsaida). The Copper Scroll (3Q15)
+    reading of a dual 'Beth Eshdatayin' is sometimes cited but debated.
+  sources_to_check:
+  - J. Jeremias, The Rediscovery of Bethesda (1966)
+  image_query: Pool of Bethesda St Anne Jerusalem
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates from Wikidata Q831297 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 31.78139
+  lon: 35.23583
+  source: wikidata:Q831297

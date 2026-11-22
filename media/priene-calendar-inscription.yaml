@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: priene-calendar-inscription
+file: priene-calendar-inscription.png
+title: Priene Calendar Inscription I, 1-31.png
+caption: Stone block with lines 1-31 of the Priene Calendar Inscription, in an early photograph.
+description: First part of the Priene Calendar Inscription
+creator: Adolf Deissmann
+credit_line: >-
+  Light from the Ancient East: The New Testament Illustrated by Recently Discovered Texts
+  of the Graeco-Roman World
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Adolf Deissmann. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Priene_Calendar_Inscription_I,_1-31.png
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/a6/Priene_Calendar_Inscription_I%2C_1-31.png
+  sha1: 8500dbec60ac9e9ee37e9045bdcfb96790af3176
+  original_size: [1444, 1063]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1444, 1063]
+depicts: [priene-calendar-inscription]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

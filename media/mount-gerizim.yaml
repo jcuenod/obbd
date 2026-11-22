@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: mount-gerizim
+file: mount-gerizim.jpg
+title: Archaeological site Mount Gerizim IMG 2225.JPG
+caption: Excavated remains on the summit of Mount Gerizim.
+description: Mount Gerizim Archaeological site, Mount Gerizim
+creator: Deror_avi
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Deror_avi, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Archaeological_site_Mount_Gerizim_IMG_2225.JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/a6/Archaeological_site_Mount_Gerizim_IMG_2225.JPG
+  sha1: 2471dea2fbe8d6512885ec92e6ac4077771deead
+  original_size: [5184, 3456]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [mount-gerizim]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

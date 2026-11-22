@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: artaxerxes-i
+file: artaxerxes-i.jpg
+title: Relief of Artaxerxes I, from his tomb in Naqsh-e Rustam.jpg
+caption: >-
+  Artaxerxes I on the throne-bearing platform, relief from his rock-cut tomb at Naqsh-e Rostam.
+description: Artaxerxes I at Naqsh-e Rostam
+creator: Diego Delso
+credit_line: This image has been extracted from another file
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Diego Delso, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Relief_of_Artaxerxes_I,_from_his_tomb_in_Naqsh-e_Rustam.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/77/Relief_of_Artaxerxes_I%2C_from_his_tomb_in_Naqsh-e_Rustam.jpg
+  sha1: ae477fe1b24f3fae71fa9940a37c6a258d917310
+  original_size: [1012, 1404]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1012, 1404]
+depicts: [artaxerxes-i]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

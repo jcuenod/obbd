@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: east-india-house-inscription
+file: east-india-house-inscription.jpg
+title: British Museum inscribed stone of Nebuchadnezzar II.jpg
+caption: >-
+  The East India House Inscription of Nebuchadnezzar II, inscribed stone tablet from Babylon
+  (British Museum).
+description: >-
+  Stone from the ruins of Babylon with a long inscription describing the achievements of Nebuchadnezzar
+  II (605-562 BC). British Museum (ME 129397).
+creator: BabelStone
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: BabelStone, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:British_Museum_inscribed_stone_of_Nebuchadnezzar_II.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/62/British_Museum_inscribed_stone_of_Nebuchadnezzar_II.jpg
+  sha1: 02a9f7b7bc5b1ce66c1ca70645843ff9e56680a8
+  original_size: [3473, 4033]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1378×1600 px
+size: [1378, 1600]
+depicts: [east-india-house-inscription]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

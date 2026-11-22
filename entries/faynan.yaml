@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: faynan
+title: Faynan and Khirbet en-Naḥas
+aliases: [Feinan, Punon, Khirbat en-Nahas, Phaino]
+type: site
+cultures: [edomite]
+scope: >-
+  The copper-ore district on the eastern side of the Arabah in southern Jordan, including
+  the Iron Age smelting centre of Khirbat en-Naḥas. Covers the scale and dating of Iron Age
+  copper production and its implications for the formation of Edom.
+passages:
+- ref: Num 33:42-43
+  rel: setting
+  note: Punon, a station on the wilderness route
+- ref: Gen 36:31-39
+  rel: setting
+  disputed: true
+  note: Kings of Edom 'before any king reigned over the Israelites'
+- ref: 2Sam 8:13-14
+  rel: setting
+  disputed: true
+  note: David's victory and garrisons in Edom
+- ref: 1Kgs 11:14-16
+  rel: setting
+  disputed: true
+  note: Joab's campaign in Edom
+related: [copper-production, timna, edomites, low-chronology-debate, bozrah, shoshenq-i]
+media:
+- id: faynan
+  role: primary
+external:
+  wikipedia: Khirbet en-Nahas
+  wikidata: Q6401745
+editorial:
+  author_notes:
+  - >-
+    The Edom Lowlands Regional Archaeology Project (Levy, Najjar, Ben-Yosef) dated massive
+    slag deposits and a fortress at Khirbat en-Naḥas by radiocarbon to the eleventh to ninth
+    centuries BCE. This challenged the older view that Edom formed only in the eighth to seventh
+    centuries (Bienkowski).
+  - >-
+    Whether this production was run by an early Edomite polity, a tribal confederation, or
+    (as Levy has suggested) related to Davidic or Solomonic power is contested. Treat any
+    link to David as speculative.
+  - >-
+    Faynan is identified with Punon (Num 33:42-43) and with Roman Phaino, the mines to which
+    Christians were condemned (Eusebius).
+  - >-
+    Egyptian amulets and a scarab of the early Twenty-second Dynasty have been linked with
+    Shoshenq I's campaign (Levy and others). Treat this as a proposal.
+  sources_to_check:
+  - >-
+    Levy, Najjar and Ben-Yosef (eds.), New Insights into the Iron Age Archaeology of Edom,
+    Southern Jordan (2014)
+  image_query: Khirbat en-Nahas copper smelting
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates from Wikidata Q6401745 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 30.68056
+  lon: 35.43611
+  source: wikidata:Q6401745

@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: stele-of-the-vultures
+file: stele-of-the-vultures.jpg
+title: Stele of the Vultures in the Louvre Museum (enhanced composite).jpg
+caption: >-
+  The Stele of the Vultures of Eannatum of Lagash, limestone, c. 2450 BCE, composite view
+  of the surviving fragments (Musée du Louvre, Paris).
+description: Stele of the Vultures in the Louvre Museum (enhanced composite)
+creator: >-
+  Background: Kikuyu3 Elements: Eric Gaba (User:Sting) Composite: पाटलिपुत्र (talk) 10:52,
+  30 April 2020 (UTC)
+credit_line: This image has been extracted from another file
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: >-
+  Background: Kikuyu3 Elements: Eric Gaba (User:Sting) Composite: पाटलिपुत्र (talk) 10:52,
+  30 April 2020 (UTC), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Stele_of_the_Vultures_in_the_Louvre_Museum_(enhanced_composite).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/13/Stele_of_the_Vultures_in_the_Louvre_Museum_%28enhanced_composite%29.jpg
+  sha1: 6dddc27f8b267f367f641139ab8d10e3947e87e3
+  original_size: [9344, 6384]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1093 px
+size: [1600, 1093]
+depicts: [stele-of-the-vultures]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: care-for-the-dead
+file: care-for-the-dead.jpg
+title: Pergamon Museum Berlin 2007115.jpg
+caption: >-
+  Basalt funerary stele showing a deceased woman at a meal attended by a servant, 8th century
+  BCE (Pergamonmuseum, Berlin).
+description: >-
+  Stele mit Darstellung eines Totenmahls. Basalt, 8. Jh. v. Chr. Vor der verstorbenen Fürsting
+  steht eine Dienerin mit Messer in der Hand. Auf dem Tisch liegen Opferspeisen. Das Monument
+  wurde im Zusammenhang mit einer unterirdischen Grabkammer in Sam'al / Zincirli gefunden.
+creator: Gryffindor
+credit_line: Own work
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Gryffindor. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Pergamon_Museum_Berlin_2007115.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/b/b5/Pergamon_Museum_Berlin_2007115.jpg
+  sha1: 6e5d9f4b7d4c71b966b34885868cd226f1c83096
+  original_size: [2112, 2816]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1200×1600 px
+size: [1200, 1600]
+depicts: [care-for-the-dead]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

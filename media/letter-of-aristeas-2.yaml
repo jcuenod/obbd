@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: letter-of-aristeas-2
+file: letter-of-aristeas-2.jpg
+title: Aristeas, Epistula ad Philocratem (BSB Clm 627).jpg
+caption: >-
+  Opening page of Mattia Palmieri's Latin translation of the Letter of Aristeas, illuminated
+  manuscript (Bayerische Staatsbibliothek, Munich, Clm 627).
+description: >-
+  Epistula ad Philocratem, known in English as Letter to Philocrates or Letter of Aristeas.
+  Latin translation by Mattia Palmieri. Manuscript of cirсa 1480. Munich, Bayerische Staatsbibliothek
+  (BSB Clm 627). Vignette on the right represents Ptolemy II who is said by Aristeas to have
+  ordered the creation of Septuagint. Th crest in the lower border is that of the book's first
+  owner, Matthias Corvinus who was the king of Hungary from 1458 to 1490.
+creator: Unknown authorUnknown author
+credit_line: https://www.flickr.com/photos/bibliodyssey/3486717138/sizes/o/
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Unknown authorUnknown author. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Aristeas,_Epistula_ad_Philocratem_(BSB_Clm_627).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/4b/Aristeas%2C_Epistula_ad_Philocratem_%28BSB_Clm_627%29.jpg
+  sha1: e12c0615a080a1c2ad6736a473ccce1e4080d23f
+  original_size: [1140, 1610]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1133×1600 px
+size: [1133, 1600]
+depicts: [letter-of-aristeas]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

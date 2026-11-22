@@ -1,0 +1,80 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: darius-the-mede
+title: Darius the Mede
+type: concept
+cultures: [persian, jewish]
+scope: >-
+  The king who in the book of Daniel receives the kingdom after Belshazzar's death and under
+  whom Daniel is thrown to the lions. No such ruler is attested between Nabonidus and Cyrus.
+  The entry covers the figure's literary function and the identifications that have been proposed.
+passages:
+- ref: Dan 5:31
+  rel: setting
+  note: Darius the Mede receives the kingdom at age 62 (MT 6:1)
+- ref: Dan 6:1-28
+  rel: setting
+  note: Darius's court, the 120 satraps, and the lions' den (MT 6:2-29)
+- ref: Dan 9:1
+  rel: setting
+  note: '''Darius son of Ahasuerus, by birth a Mede'''
+- ref: Dan 11:1
+  rel: setting
+  note: The first year of Darius the Mede
+- ref: Dan 5:28
+  rel: concept
+  note: Kingdom given to 'the Medes and Persians'
+- ref: Dan 2:39; 7:5; 8:20
+  rel: concept
+  note: Second kingdom usually read as Media (2:39; 7:5); 8:20 joins Media and Persia in one
+    ram
+- ref: Isa 13:17
+  rel: concept
+  note: Medes stirred up against Babylon
+- ref: Jer 51:11, 28
+  rel: concept
+  note: The kings of the Medes against Babylon
+related: [four-kingdoms-schema, medes, fall-of-babylon-539, cyrus-the-great, darius-i, nabonidus-chronicle,
+  belshazzar, xerxes-i]
+media: []
+external:
+  wikipedia: Darius the Mede
+  wikidata: Q603176
+editorial:
+  author_notes:
+  - >-
+    Mainstream critical view: Darius the Mede is a literary construct. He fills a Median slot
+    required by prophecies of Median conquest and by the four-kingdom schema, and is partly
+    modelled on Darius I (satrapies; cf. Dan 6:1).
+  - >-
+    Survey identifications neutrally and note that none has consensus: Gubaru/Ugbaru (Nabonidus
+    Chronicle), Cyrus himself (reading Dan 6:28 as 'Darius, that is, Cyrus'), Cyaxares II
+    (Xenophon), Astyages.
+  - >-
+    Dan 9:1 makes him son of Ahasuerus (Xerxes), inverting the historical relationship of
+    Darius I and Xerxes.
+  - >-
+    Check the Old Greek's divergent royal names in Dan 5-6, which are useful for the figure's
+    textual history.
+  sources_to_check:
+  - H. H. Rowley, Darius the Mede and the Four World Empires in the Book of Daniel (1935)
+  - J. J. Collins, Daniel (Hermeneia, 1993)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Dan 2:39; 7:5; 8:20 note corrected (8:20 pairs
+    Media and Persia)
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

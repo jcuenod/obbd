@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: mari-2
+file: mari-2.png
+title: Palais royal de Mari plan ZL.png
+caption: Plan of the royal palace of Mari in the reign of Zimri-Lim (c. 1775–1760 BCE).
+description: >-
+  Royal palace of Mari, plan, reign of Zimri-Lim (c. 1775-1760 BC). Legend: 1. entrance courtyard
+  2. stewardship (Bit tertim) 3. courtyard of the painting building 4. temple of the Lady
+  of the Palace (Belet ekallim) 5. courtyard of the palm tree 6. vestibule (papahum) 7. throne
+  room 8. harem, women's house 9. servants' quarters 10. kitchens 11. administrative sector
+  12. Nergal gate.
+creator: Zunkir
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Zunkir, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Palais_royal_de_Mari_plan_ZL.png
+  original_url: https://upload.wikimedia.org/wikipedia/commons/2/21/Palais_royal_de_Mari_plan_ZL.png
+  sha1: a59350534f8f493e304e9549fc82084fa224374a
+  original_size: [758, 743]
+  retrieved: '2026-11-20'
+derivative: null
+size: [758, 743]
+depicts: [mari]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: calendars-and-month-names
+file: calendars-and-month-names.jpg
+title: Gezer calendar in Istanbul.jpg
+caption: >-
+  The Gezer Calendar, a limestone tablet listing the agricultural months, 10th century BCE
+  (Istanbul Archaeological Museums).
+description: Gezer calendar as displayed at the Istanbul Archaeological Museums
+creator: oncenawhile
+credit_line: Istanbul Archaeology Museums
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: oncenawhile. CC0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Gezer_calendar_in_Istanbul.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/1/1f/Gezer_calendar_in_Istanbul.jpg
+  sha1: 64fd00c302fc96b4694c6639cb63223ddc1989e1
+  original_size: [1257, 2348]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 857×1600 px
+size: [857, 1600]
+depicts: [calendars-and-month-names, gezer-calendar]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

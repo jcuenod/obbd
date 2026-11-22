@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: descent-of-inanna-ishtar
+title: Descent of Inanna/Ishtar to the Netherworld
+aliases: [Inanna's Descent to the Netherworld, Descent of Ishtar, Ishtar's Descent]
+type: text
+cultures: [sumerian, babylonian, assyrian]
+date:
+  from: -1800
+  to: -1800
+  circa: true
+  display: c. 1800 BCE
+scope: >-
+  The Sumerian myth of Inanna's descent to the netherworld, her death, revival, and the consignment
+  of Dumuzi as her substitute, and its shorter Akkadian adaptation (Ishtar's Descent). The
+  texts are key sources for Mesopotamian netherworld imagery and the cult of Dumuzi/Tammuz.
+passages:
+- ref: Ezek 8:14
+  rel: practice
+  note: Women weeping for Tammuz (Dumuzi) at the temple gate
+- ref: Job 10:21-22
+  rel: imagery
+  note: Land of gloom and deep darkness from which none return
+- ref: Job 7:9-10
+  rel: concept
+  note: One who goes down to Sheol does not come up (Akk. 'land of no return')
+- ref: Isa 14:9-11
+  rel: imagery
+  note: Shades of the dead roused; maggots and worms as bed and covering
+- ref: Isa 38:10
+  rel: imagery
+  note: Gates of Sheol; the netherworld has seven gates in the Descent
+- ref: Job 38:17
+  rel: imagery
+  note: Gates of death and of deep darkness
+related: [tammuz, ishtar, sheol-and-the-netherworld, mourning-rites, afterlife-and-resurrection,
+  sumerian-love-songs]
+media:
+- id: descent-of-inanna-ishtar
+  role: primary
+external:
+  wikipedia: Descent of Inanna into the Underworld
+  wikidata: Q1475785
+editorial:
+  author_notes:
+  - >-
+    Distinguish the Old Babylonian Sumerian poem (c. 400 lines) from the much shorter Akkadian
+    versions of the Middle and Neo-Assyrian periods; Dumuzi's role as substitute became clear
+    only with the publication of related Sumerian texts in the 1950s.
+  - >-
+    Frazer's 'dying and rising god' model for Tammuz is now widely criticised (J. Z. Smith;
+    M. S. Smith), though Mettinger argues for a qualified version; Ezek 8:14 attests ritual
+    mourning, not necessarily a resurrection myth.
+  - >-
+    Ezek 8:14 is the only explicit biblical reference to Tammuz; the Babylonian month name
+    Duʾūzu survives as the Jewish month Tammuz.
+  - >-
+    The netherworld descriptions (dust as food, darkness, no return) are general Mesopotamian
+    imagery; claim shared cultural conception, not literary dependence.
+  sources_to_check:
+  - COS 1.108
+  - ANET 52-57, 106-109
+  - ETCSL 1.4.1
+  - P. Lapinkivi, The Neo-Assyrian Myth of Ištar's Descent and Resurrection (SAACT 6, 2010)
+  image_query: Descent of Ishtar tablet British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

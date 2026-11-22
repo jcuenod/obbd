@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: capernaum-2
+file: capernaum-2.jpg
+title: Capernaum ruins by David Shankbone.jpg
+caption: Basalt house remains of the ancient village of Capernaum.
+description: Ruins of houses in w:Capernaum.
+creator: David Shankbone
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: http://creativecommons.org/licenses/by-sa/3.0/
+attribution: David Shankbone, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Capernaum_ruins_by_David_Shankbone.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/d9/Capernaum_ruins_by_David_Shankbone.jpg
+  sha1: 4aa0f4dd20a2d3413a7318842289acd79b2e027c
+  original_size: [3264, 2448]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [capernaum]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

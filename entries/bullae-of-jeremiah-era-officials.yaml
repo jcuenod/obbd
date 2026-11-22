@@ -1,0 +1,87 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: bullae-of-jeremiah-era-officials
+title: Bullae of Jeremiah-Era Officials
+type: artifact
+cultures: [judahite]
+date:
+  from: -620
+  to: -586
+  circa: true
+  display: c. 620–586 BCE
+scope: >-
+  Late Iron Age Hebrew seal impressions (bullae) naming officials who share names and patronyms
+  with figures in Jeremiah and 2 Kings. The entry covers the excavated City of David corpora
+  ('House of the Bullae', Eilat Mazar's finds) and the large unprovenanced collections, and
+  the problem of identifying their owners.
+passages:
+- ref: Jer 36:10-12, 25
+  rel: attests
+  note: Gemariah son of Shaphan; bulla 'Gemaryahu son of Shaphan' from the City of David
+- ref: Jer 37:3; 38:1
+  rel: attests
+  note: Jehucal son of Shelemiah; bulla excavated in 2005
+- ref: Jer 38:1
+  rel: attests
+  note: Gedaliah son of Pashhur; bulla excavated in 2008
+- ref: 2Kgs 23:11
+  rel: attests
+  disputed: true
+  note: Nathan-melech the official; excavated bulla 'Nathan-melech servant of the king'
+- ref: 2Kgs 25:22
+  rel: attests
+  disputed: true
+  note: Lachish bulla 'Gedalyahu who is over the house', possibly Gedaliah son of Ahikam
+- ref: Jer 36:4, 32
+  rel: attests
+  disputed: true
+  note: Baruch son of Neriah the scribe; unprovenanced bullae of doubtful authenticity
+- ref: Jer 36:26
+  rel: attests
+  disputed: true
+  note: Jerahmeel 'son of the king'; unprovenanced bulla
+- ref: Jer 32:10-14
+  rel: practice
+  note: Sealed deed of purchase; bullae once sealed such papyrus documents
+related: [seals-and-bullae, sealed-deeds, fall-of-jerusalem-587, city-of-david, court-officials,
+  forgeries-in-biblical-archaeology, lachish-letters]
+media:
+- id: bullae-of-jeremiah-era-officials
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Separate the excavated material (Shiloh's 1982 'House of the Bullae' with c. 50 bullae,
+    E. Mazar's 2005 and 2008 finds, the 2019 Givati Parking Lot bulla) from unprovenanced
+    material (Avigad's 1986 corpus including the Baruch and Yerahmeel bullae).
+  - >-
+    Apply explicit identification criteria (provenance, date, name plus patronym or title;
+    cf. Mykytiuk). Common names make single-name matches weak.
+  - >-
+    Goren and Arie (2014) argued that the Baruch bullae are probably forgeries, and many epigraphers
+    no longer use them. Do not present them as 'Baruch's seal'.
+  - >-
+    The 'House of the Bullae' was burned in 586, which baked and preserved the bullae. Note
+    that the papyri they sealed are lost.
+  sources_to_check:
+  - Avigad, Hebrew Bullae from the Time of Jeremiah (1986)
+  - Shoham, 'Hebrew Bullae', in City of David Excavations Final Report VI (Qedem 41, 2000)
+  - Avigad and Sass, Corpus of West Semitic Stamp Seals (1997)
+  - >-
+    Mykytiuk, Identifying Biblical Persons in Northwest Semitic Inscriptions of 1200-539 B.C.E.
+    (2004)
+  image_query: Gemaryahu son of Shaphan bulla
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

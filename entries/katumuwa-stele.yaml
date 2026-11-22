@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: katumuwa-stele
+title: Katumuwa Stele
+aliases: [KTMW Stele, Kuttamuwa Stele]
+type: artifact
+cultures: [aramean, luwian]
+date:
+  from: -735
+  to: -735
+  circa: true
+  display: c. 735 BCE
+scope: >-
+  A basalt funerary stele found in situ in 2008 at Zincirli (ancient Samʾal). It shows the
+  official Katumuwa, servant of King Panamuwa, seated at a funerary banquet. Its inscription
+  in the local Samʾalian dialect provides for annual sacrifices, including one 'for my soul
+  (nbš) that is in this stele'.
+passages:
+- ref: Deut 26:14
+  rel: practice
+  note: Disavowal of offerings given to the dead
+- ref: Ps 106:28
+  rel: practice
+  note: Eating sacrifices offered to the dead
+- ref: 2Sam 18:18
+  rel: practice
+  note: Absalom's memorial pillar to keep his name remembered
+- ref: Isa 56:5
+  rel: language
+  note: yād wāšēm 'monument and name' as a memorial
+- ref: Gen 35:20
+  rel: practice
+  note: Jacob sets up a pillar over Rachel's grave
+- ref: Gen 35:18
+  rel: concept
+  note: The nepeš departing at death; cf. the nbš dwelling in the stele
+related: [care-for-the-dead, marzeah, kilamuwa-stele, afterlife-and-resurrection, massebot,
+  hadad-rimmon, aramaic-language, arameans]
+media:
+- id: katumuwa-stele
+  role: primary
+external:
+  wikipedia: Kuttamuwa stele
+  wikidata: Q26047346
+editorial:
+  author_notes:
+  - >-
+    Found by the University of Chicago Neubauer Expedition in a small mortuary chapel, which
+    makes it rare as a funerary monument in its original setting.
+  - >-
+    The idea of a nbš residing in a stone monument, possibly alongside cremation, is a significant
+    datum for West Semitic views of the person after death. Avoid reading it directly into
+    Hebrew nepeš.
+  - Later Aramaic and Nabataean use of npš for 'funerary monument' is relevant background.
+  - >-
+    The language is Samʾalian, a distinct dialect related to Aramaic. Mention the Luwian cultural
+    milieu (the name Katumuwa is Luwian).
+  sources_to_check:
+  - Pardee, BASOR 356 (2009)
+  - Struble and Herrmann, BASOR 356 (2009)
+  - >-
+    Herrmann and Schloen (eds.), In Remembrance of Me: Feasting with the Dead in the Ancient
+    Middle East (2014)
+  image_query: Katumuwa stele Zincirli
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

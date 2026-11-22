@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: medinet-habu-sea-peoples-2
+file: medinet-habu-sea-peoples-2.jpg
+title: Medinet Habu Ramses III. Tempel Nordostwand Abzeichnung 01.jpg
+caption: >-
+  Line drawing of the naval battle against the Sea Peoples from the north-east wall of the
+  temple at Medinet Habu.
+description: >-
+  Resignature of the "war of sea peoples" on the northeast wall of the temple of the dead
+  Ramses III in Medinet Habu, Egypt
+creator: Unknown artistUnknown artist in pay of Ramesses III
+credit_line: >-
+  Gray, Dorothea (1974) "chapter G" in (in German) Seewesen, Archaeologia Homerica, I, Göttingen,
+  pp. 166−167
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: >-
+  Unknown artistUnknown artist in pay of Ramesses III. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Medinet_Habu_Ramses_III._Tempel_Nordostwand_Abzeichnung_01.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/b6/Medinet_Habu_Ramses_III._Tempel_Nordostwand_Abzeichnung_01.jpg
+  sha1: 281d45d575fb742d68491efca73ffae5277c4c39
+  original_size: [6352, 3149]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×793 px
+size: [1600, 793]
+depicts: [medinet-habu-sea-peoples, sea-peoples]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

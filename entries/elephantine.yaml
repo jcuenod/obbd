@@ -1,0 +1,86 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: elephantine
+title: Elephantine (Yeb)
+aliases: [Yeb, Abu, Syene (Aswan)]
+type: site
+cultures: [jewish, egyptian, persian]
+scope: >-
+  The island at the First Cataract opposite Aswan, home in the Persian period to a Judean
+  military colony with a temple of YHW. Covers the site, the colony and its temple; the papyri
+  and the temple petition have their own entries.
+passages:
+- ref: Jer 44:1
+  rel: setting
+  note: Judeans living in Egypt, including Pathros (Upper Egypt)
+- ref: Jer 44:15-19
+  rel: practice
+  disputed: true
+  note: Judeans in Egypt worship the Queen of Heaven; cf. Anat-Yahu at Elephantine
+- ref: Isa 19:18-19
+  rel: setting
+  disputed: true
+  note: An altar to YHWH in Egypt; often compared with Elephantine (or Leontopolis)
+- ref: Ezek 29:10
+  rel: setting
+  note: '''From Migdol to Syene'', the southern limit of Egypt'
+- ref: Neh 2:10, 19
+  rel: attests
+  note: Sanballat, whose sons are named in the Elephantine petition
+- ref: Neh 12:22
+  rel: attests
+  note: Johanan the high priest, addressed in the Elephantine petition
+- ref: Exod 12:15-20
+  rel: practice
+  note: Unleavened bread; cf. the 'Passover letter'
+related: [elephantine-papyri, elephantine-temple-petition, elephantine-passover-letter, persia,
+  queen-of-heaven, sanballat, anat, aramaic-language]
+media:
+- id: elephantine
+  role: primary
+- id: elephantine-2
+  role: gallery
+external:
+  wikipedia: Elephantine
+  wikidata: Q284009
+  pleiades: '786021'
+editorial:
+  author_notes:
+  - >-
+    The Judean (Yehudaya) garrison served the Persian administration. The petition says their
+    temple stood before Cambyses' conquest (525), so the colony probably goes back to the
+    Saite period.
+  - >-
+    In 410 BCE the temple was destroyed at the instigation of the Khnum priests. The colonists
+    petitioned Bagavahya (Bagohi), governor of Yehud (407). The temple was later rebuilt,
+    apparently without animal sacrifice.
+  - >-
+    The divine names in the archive (YHW, Anat-Yahu, Eshem-Bethel, Herem-Bethel) raise debate
+    over the colony's 'polytheism'. Avoid assuming the colonists knew a Pentateuch.
+  - German and Swiss excavations have located the temple area next to the Khnum precinct.
+  sources_to_check:
+  - Porten, Archives from Elephantine (1968)
+  - Porten et al., The Elephantine Papyri in English (1996)
+  - TAD A4.7-A4.8
+  image_query: Elephantine Island Aswan ruins
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q284009 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 24.09
+  lon: 32.89
+  source: wikidata:Q284009

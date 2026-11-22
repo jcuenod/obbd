@@ -1,0 +1,80 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: eunuchs
+title: Eunuchs (sārîs)
+aliases: [Saris, Court eunuchs]
+type: concept
+cultures: [assyrian, persian]
+scope: >-
+  The sārîs (eunuch or court official) in the Hebrew Bible and its Akkadian background, ša
+  rēši, with the role of eunuchs at Assyrian, Babylonian and Persian courts. The entry covers
+  the question of castration versus office and the biblical attitudes to eunuchs.
+passages:
+- ref: Gen 37:36; 39:1
+  rel: language
+  note: 'Potiphar a sārîs of Pharaoh, yet married: the ''official'' sense'
+- ref: 1Sam 8:15
+  rel: practice
+  note: The king will give produce to his sārîsîm
+- ref: 2Kgs 9:32
+  rel: practice
+  note: Eunuchs throw Jezebel down
+- ref: 2Kgs 20:18
+  rel: practice
+  note: Hezekiah's descendants to be eunuchs in Babylon (= Isa 39:7)
+- ref: Jer 38:7
+  rel: language
+  note: Ebed-melech the Cushite, a eunuch in the palace
+- ref: Esth 2:3, 14-15
+  rel: practice
+  note: Eunuchs as keepers of the Persian king's women
+- ref: Dan 1:3-18
+  rel: practice
+  note: The chief of the eunuchs oversees the Judean youths
+- ref: Deut 23:1
+  rel: practice
+  note: Castrated men excluded from the assembly (MT 23:2)
+- ref: Isa 56:3-5
+  rel: concept
+  note: Eunuchs who keep the covenant receive a name better than sons
+- ref: Matt 19:12
+  rel: concept
+  note: Eunuchs for the kingdom of heaven
+- ref: Acts 8:27
+  rel: practice
+  note: Ethiopian eunuch, official of the Candace
+related: [court-officials, assyria, persia, cush, slavery, purity-and-impurity]
+media:
+- id: eunuchs
+  role: primary
+- id: eunuchs-2
+  role: gallery
+external:
+  wikipedia: Eunuch
+  wikidata: Q179294
+editorial:
+  author_notes:
+  - >-
+    Hebrew sārîs comes from Akkadian ša rēši ('he of the head'). Most Assyriologists now agree
+    that Neo-Assyrian ša rēši were usually eunuchs, the beardless courtiers of the reliefs,
+    though there has been debate.
+  - >-
+    Biblical usage ranges from 'official' (Potiphar was married) to 'eunuch' proper (Isa 56;
+    Esther). Decide case by case.
+  - >-
+    Discuss the tension between Deut 23:1 and Isa 56:3-5, and the reception of Daniel as a
+    eunuch in Jewish and Christian tradition.
+  image_query: Neo-Assyrian beardless courtier relief
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

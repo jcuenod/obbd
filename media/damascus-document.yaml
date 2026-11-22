@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: damascus-document
+file: damascus-document.jpg
+title: The Damascus Document Scroll.jpg
+caption: Fragment of the Damascus Document from Qumran Cave 4 (4Q271, 4QDf).
+description: The Damascus Document Scroll 4Q271 (4QDf)
+creator: https://www.loc.gov/exhibits/scrolls/images/damasc-b.jpg
+credit_line: Library of Congress
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: https://www.loc.gov/exhibits/scrolls/images/damasc-b.jpg. CC0, via Wikimedia
+  Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:The_Damascus_Document_Scroll.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/7/77/The_Damascus_Document_Scroll.jpg
+  sha1: c776fcc3611336107ebf2f42755428171ff98b69
+  original_size: [543, 640]
+  retrieved: '2026-11-20'
+derivative: null
+size: [543, 640]
+depicts: [damascus-document]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

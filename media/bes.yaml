@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: bes
+file: bes.jpg
+title: Amulet of the God Bes MET DP109383.jpg
+caption: >-
+  Egyptian amulet of the god Bes with feathered crown and lion-like mane (Metropolitan Museum
+  of Art, New York).
+description: Amulet, Bes
+creator: null
+credit_line: >-
+  This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum
+  of Art. See the Image and Data Resources Open Access Policy
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Unknown author. CC0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Amulet_of_the_God_Bes_MET_DP109383.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/2a/Amulet_of_the_God_Bes_MET_DP109383.jpg
+  sha1: a9395188da0520835d7c5cef2a832b79b14b7646
+  original_size: [2400, 3200]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1200×1600 px
+size: [1200, 1600]
+depicts: [bes]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

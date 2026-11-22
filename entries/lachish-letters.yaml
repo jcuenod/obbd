@@ -1,0 +1,84 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: lachish-letters
+title: Lachish Letters (Ostraca)
+aliases: [Lachish Ostraca]
+type: artifact
+cultures: [judahite]
+date:
+  from: -589
+  to: -586
+  circa: true
+  display: c. 589–586 BCE
+scope: >-
+  A group of Hebrew ostraca, mostly letters, found in 1935 and 1938 in the gate area of Lachish
+  (Tell ed-Duweir) in the destruction layer of the Babylonian conquest. Most are addressed
+  to Yaʾush, apparently the commander at Lachish, by a subordinate named Hoshayahu.
+passages:
+- ref: Jer 34:6-7
+  rel: event
+  note: Lachish and Azekah the last fortified cities holding out against Babylon
+- ref: Jer 6:1
+  rel: language
+  note: maśʾēt 'fire signal'; Letter 4 watches for the signals of Lachish
+- ref: Jer 38:4
+  rel: language
+  note: '''Weakening the hands'' of soldiers; the same idiom in Letter 6'
+- ref: Jer 26:20-23
+  rel: attests
+  disputed: true
+  note: Letter 3's commander Coniah son of Elnathan goes to Egypt; cf. Elnathan son of Achbor
+- ref: 2Kgs 25:1-4
+  rel: event
+  note: Babylonian siege of Judah in Zedekiah's last years
+- ref: 2Kgs 5:6
+  rel: form
+  note: Letter body introduced by 'and now' (wĕʿattâ), as in the ostraca
+related: [lachish, fall-of-jerusalem-587, nebuchadnezzar-ii, letter-writing-conventions, ostraca,
+  writing-and-literacy, prophecy-in-the-ane]
+location:
+  institution: British Museum, London, and Israel Museum, Jerusalem (divided)
+  accession: null
+media:
+- id: lachish-letters
+  role: primary
+- id: lachish-letters-2
+  role: gallery
+external:
+  wikipedia: Lachish letters
+  wikidata: Q4290428
+editorial:
+  author_notes:
+  - >-
+    Letter 4 ('we cannot see Azekah') is often read as evidence that Azekah had already fallen,
+    following Jer 34:7. This is possible but not certain.
+  - >-
+    Letter 3 mentions 'the prophet' and a letter he delivered. Identifications with Jeremiah
+    or with Uriah (Jer 26:20-23) were popular early on but are now generally regarded as unprovable.
+  - >-
+    Letter 3 is also a key text for the literacy debate, since the writer protests that he
+    can read a letter himself.
+  - >-
+    Discuss the letter formulas (greeting, 'may YHWH cause my lord to hear good news', oath
+    'as YHWH lives') and the Yahwistic personal names.
+  - Use the KAI 192-199 numbers alongside the excavation (Lachish 1-21) numbers.
+  sources_to_check:
+  - KAI 192-199
+  - COS 3.42
+  - ANET 321-322
+  - Torczyner, Lachish I. The Lachish Letters (1938)
+  - Dobbs-Allsopp et al., Hebrew Inscriptions (2005)
+  image_query: Lachish letters ostracon
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-1-sol

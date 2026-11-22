@@ -1,0 +1,70 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: udjahorresnet-statue
+title: Naophorous Statue of Udjahorresnet
+type: artifact
+cultures: [egyptian, persian]
+date:
+  from: -519
+  to: -519
+  circa: true
+  display: c. 519 BCE
+scope: >-
+  Naophorous statue of the Egyptian official Udjahorresnet, priest of Neith at Sais and chief
+  physician, whose inscription narrates his service to Cambyses and Darius I. It records his
+  role in composing Cambyses' royal titulary, restoring the Neith sanctuary, and, on Darius's
+  orders, re-establishing the 'House of Life'.
+passages:
+- ref: Ezra 7:12-26
+  rel: parallel
+  note: >-
+    A native official commissioned by the Persian king to restore local cult and institutions
+- ref: Neh 1:11-2:8
+  rel: parallel
+  note: A courtier of subject origin gains royal sponsorship for his homeland
+- ref: Ezra 6:3-12
+  rel: practice
+  note: Persian royal patronage of a local sanctuary
+related: [persian-imperial-authorization, darius-i, persia, cyrus-cylinder, court-officials,
+  scribes-and-scribal-education]
+location:
+  institution: Museo Gregoriano Egizio, Vatican Museums
+  accession: null
+media:
+- id: udjahorresnet-statue
+  role: primary
+external:
+  wikipedia: Udjahorresnet
+  wikidata: Q1362919
+editorial:
+  author_notes:
+  - >-
+    Debate on whether he was a collaborator or a protector of Egyptian interests. His positive
+    portrait of Cambyses contrasts with Herodotus's 'mad Cambyses'.
+  - >-
+    The parallel to Ezra and Nehemiah is typological (Blenkinsopp 1987): it shows how Persian
+    kings used native elites. It is not evidence of direct contact.
+  - >-
+    Relate him to the Demotic Chronicle's report that Darius ordered Egyptian law collected.
+    This is important evidence in the imperial authorization debate.
+  sources_to_check:
+  - M. Lichtheim, Ancient Egyptian Literature, vol. 3 (1980)
+  - G. Posener, La première domination perse en Égypte (1936)
+  - >-
+    J. Blenkinsopp, 'The Mission of Udjahorresnet and Those of Ezra and Nehemiah', JBL 106
+    (1987)
+  - 'A. Kuhrt, The Persian Empire: A Corpus of Sources from the Achaemenid Period (2007)'
+  image_query: Udjahorresnet statue Vatican
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

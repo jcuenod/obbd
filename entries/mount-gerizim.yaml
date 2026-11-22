@@ -1,0 +1,92 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: mount-gerizim
+title: Mount Gerizim
+aliases: [Jebel et-Tur, Har Gerizim, Tell er-Ras]
+type: site
+cultures: [jewish, persian]
+scope: >-
+  The mountain above Shechem, site of the blessing ceremony in Deuteronomy and of the Samarian
+  (later Samaritan) Yahwistic sanctuary. Covers the Persian and Hellenistic sacred precinct,
+  its inscriptions and destruction, and its place in Samaritan tradition.
+passages:
+- ref: Deut 11:29
+  rel: setting
+  note: Blessing set on Mount Gerizim
+- ref: Deut 12:5
+  rel: language
+  note: SamP reads 'the place YHWH has chosen', referring to Gerizim
+- ref: Deut 27:4
+  rel: setting
+  disputed: true
+  note: SamP reads 'Gerizim' for the altar site (MT Ebal)
+- ref: Deut 27:12
+  rel: setting
+  note: Tribes stand on Gerizim to bless
+- ref: Josh 8:33
+  rel: setting
+  note: Half the people stand in front of Gerizim
+- ref: Judg 9:7
+  rel: setting
+  note: Jotham's fable from the top of Gerizim
+- ref: 2Macc 6:2
+  rel: setting
+  note: The Gerizim temple renamed for Zeus Xenios
+- ref: John 4:20-21
+  rel: setting
+  note: '''Our ancestors worshipped on this mountain'''
+related: [samaritan-origins, samaria-papyri, shechem, mount-ebal-altar, antiochus-iv, josephus,
+  sanballat]
+media:
+- id: samaritan-origins
+  role: gallery
+- id: mount-gerizim
+  role: primary
+- id: mount-gerizim-2
+  role: gallery
+external:
+  wikipedia: Mount Gerizim
+  wikidata: Q1288751
+editorial:
+  author_notes:
+  - >-
+    Magen's excavations date the first sacred precinct to the mid-fifth century BCE (Persian
+    period). It was rebuilt in the second century BCE and destroyed by John Hyrcanus (c. 111-110
+    BCE, from coins). Josephus' account of a temple founded under Alexander (Ant. 11) is thus
+    too late for the first phase.
+  - >-
+    Hundreds of Aramaic and Hebrew dedicatory inscriptions are primary evidence for Samarian
+    Yahwism.
+  - >-
+    Avoid using 'Samaritan' in the later sectarian sense for the fifth-century worshippers.
+    The parting between Samaritans and Jews was gradual.
+  - >-
+    Later phases include a Roman temple of Zeus at Tell er-Ras and a Byzantine church of the
+    Theotokos.
+  sources_to_check:
+  - Magen, Mount Gerizim Excavations, Vol. 2 - A Temple City (2008)
+  - >-
+    Magen, Misgav and Tsfania, Mount Gerizim Excavations, Vol. 1 - The Aramaic, Hebrew and
+    Samaritan Inscriptions (2004)
+  image_query: Mount Gerizim sacred precinct excavations
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates from Wikidata Q1288751 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 32.19944
+  lon: 35.27278
+  source: wikidata:Q1288751

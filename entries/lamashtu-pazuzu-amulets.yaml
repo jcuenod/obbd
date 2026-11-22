@@ -1,0 +1,62 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: lamashtu-pazuzu-amulets
+title: Lamashtu and Pazuzu Amulets
+type: realia
+cultures: [mesopotamian]
+scope: >-
+  Apotropaic bronze and stone plaques and pendants of the first millennium BCE showing the
+  demoness Lamashtu, who attacked pregnant women and infants, often driven off by the wind
+  demon Pazuzu, whose head served as a protective amulet.
+passages:
+- ref: Ps 91:5-6
+  rel: concept
+  note: Terror by night, arrow by day, pestilence in darkness, destruction at noon
+- ref: Isa 34:14
+  rel: concept
+  note: Lilith (lîlît) among desert creatures; cf. Mesopotamian lilitu demons
+- ref: Ps 121:6
+  rel: concept
+  note: Protection from being struck by sun or moon
+- ref: Isa 3:20
+  rel: realia
+  note: Amulets (laḥăšîm) among the finery of Jerusalem's women
+related: [demons, lilith, amulets, apotropaic-doorposts-and-thresholds, ketef-hinnom-amulets,
+  resheph, burney-relief]
+media:
+- id: lamashtu-pazuzu-amulets
+  role: primary
+- id: lamashtu-pazuzu-amulets-2
+  role: gallery
+external:
+  wikipedia: Lamashtu
+  wikidata: Q767219
+editorial:
+  author_notes:
+  - >-
+    Lamashtu is distinct from Lilith; the later Jewish Lilith absorbed child-killing traits
+    similar to Lamashtu's, but they should not be equated for the biblical period.
+  - >-
+    Pazuzu was itself a dangerous demon whose image protected against Lamashtu, an example
+    of fighting demon with demon.
+  - >-
+    The closest Iron Age Levantine parallel is the Arslan Tash plaques (7th century), whose
+    authenticity has been debated.
+  - >-
+    Ps 91 is often compared with apotropaic texts; the demonic reading of deber and qeṭeb
+    is mainstream but the psalm is not an incantation.
+  sources_to_check: ['Farber, Lamaštu (2014)', 'Heeßel, Pazuzu (2002)']
+  image_query: Lamashtu amulet plaque Louvre
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-1-sol

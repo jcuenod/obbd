@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: soleb-shasu-inscription
+file: soleb-shasu-inscription.jpg
+title: Soleb3.jpg
+caption: >-
+  Name rings of bound foreign prisoners on a column of the hypostyle hall in the temple of
+  Amenhotep III at Soleb, Sudan.
+description: 'Soleb (Sudan): Prisoners from the hypostyle hall of the Soleb temple'
+creator: Clemens Schmillen
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Clemens Schmillen, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Soleb3.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/f/f0/Soleb3.jpg
+  sha1: 6143983b1edb9dc2addb7e2b0368a595a46bfdda
+  original_size: [1024, 683]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1024, 683]
+depicts: [soleb-shasu-inscription]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

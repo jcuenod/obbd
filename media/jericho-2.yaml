@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: jericho-2
+file: jericho-2.jpg
+title: Tower of Jericho.jpg
+caption: The Neolithic stone tower at Tell es-Sultan, c. 8000 BCE.
+description: Tower of Jericho, Tell es-Sultan archaeological site, ca. 7000 BC
+creator: Reinhard Dietrich
+credit_line: Own work
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Reinhard Dietrich. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tower_of_Jericho.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/0/03/Tower_of_Jericho.jpg
+  sha1: acee1e50e045dc0ee45ac4b621879aa3898935ef
+  original_size: [2592, 1944]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [jericho]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

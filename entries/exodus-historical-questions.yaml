@@ -1,0 +1,85 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: exodus-historical-questions
+title: 'The Exodus: Historical Questions'
+aliases: [Historicity of the Exodus, Date of the Exodus]
+type: concept
+cultures: [egyptian, hebrew]
+scope: >-
+  The historical questions raised by the exodus narrative: Semites in Egypt, the oppression,
+  the date and route, the numbers involved, and the relation to the emergence of Israel in
+  Canaan. The entry assesses the Egyptian and archaeological evidence and the range of scholarly
+  positions, from a non-historical cultural memory to a small-group exodus to traditional
+  early or late dates.
+passages:
+- ref: Exod 1:8-11
+  rel: setting
+  note: New king; Hebrew labour on the store cities Pithom and Raamses
+- ref: Exod 12:37-41
+  rel: setting
+  note: Departure from Rameses; 600,000 men on foot; 430 years in Egypt
+- ref: Num 33:1-49
+  rel: setting
+  note: Wilderness itinerary from Rameses
+- ref: 1Kgs 6:1
+  rel: setting
+  note: '480 years from the exodus to the temple: basis of the 15th-century date'
+- ref: Judg 11:26
+  rel: setting
+  note: 300 years in Heshbon, cited for the early date
+- ref: Exod 15:1-18
+  rel: setting
+  note: Song of the Sea; its archaic date is debated
+- ref: Hos 11:1
+  rel: concept
+  note: Exodus as a foundational memory in eighth-century northern prophecy
+- ref: Amos 9:7
+  rel: concept
+  note: Exodus set alongside other peoples' migrations (Philistines, Arameans)
+related: [hyksos, merneptah-stele, pi-ramesses, pithom, ramesses-ii, yam-suph, emergence-of-israel,
+  papyrus-anastasi]
+media: []
+external:
+  wikipedia: The Exodus
+  wikidata: Q1290338
+editorial:
+  author_notes:
+  - >-
+    Consensus position. No Egyptian source mentions Israelites in Egypt, their enslavement,
+    or an exodus. A departure of 600,000 men plus dependants is demographically and logistically
+    impossible. Most critical scholars regard the narrative as a later composition, which
+    may preserve memories of smaller movements and of Egyptian domination in Canaan.
+  - >-
+    Lay out the range of views. (a) A cultural memory built from Hyksos expulsions, Egyptian
+    control of Canaan, and Semites in the Delta (Redford, Assmann). (b) A small group's exodus
+    (often linked to the Levites) later generalised (Friedman, Hendel). (c) A 13th-century
+    Ramesside exodus (Kitchen, Hoffmeier). (d) A 15th-century exodus based on 1 Kgs 6:1, a
+    minority view largely confined to conservative scholarship, with archaeological difficulties.
+  - >-
+    The Egyptian local colour (Raamses, Pithom, Egyptian names, frontier forts) spans several
+    periods, and its dating is disputed. The Merneptah Stele sets a terminus ante quem (c.
+    1208) for Israel in Canaan.
+  - >-
+    Sinai and Kadesh-barnea lack Late Bronze evidence for a large wilderness population. Mention
+    the debates about the archaeological visibility of nomads.
+  - >-
+    Flag popular misconceptions, such as Ipuwer as plague record, Thera as the cause of the
+    plagues, Red Sea chariot-wheel finds, and claims about Ramesses II's mummy.
+  sources_to_check:
+  - >-
+    Levy, Schneider, and Propp (eds.), Israel's Exodus in Transdisciplinary Perspective (2015)
+  - Redford, Egypt, Canaan, and Israel in Ancient Times (1992)
+  - Hoffmeier, Israel in Egypt (1997)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: kadesh-barnea
+title: Kadesh-barnea
+aliases: [Kadesh, ʿAin el-Qudeirat, Tell el-Qudeirat, En-mishpat]
+type: site
+cultures: [judahite]
+scope: >-
+  The oasis in northeastern Sinai remembered as Israel's main wilderness station, usually
+  identified with ʿAin el-Qudeirat and its Iron Age fortresses. Covers the identification,
+  the Judahite fortresses, and what the absence of Late Bronze remains means.
+passages:
+- ref: Gen 14:7
+  rel: setting
+  note: En-mishpat, that is, Kadesh
+- ref: Num 13:26
+  rel: setting
+  note: Spies return to Kadesh in the wilderness of Paran
+- ref: Num 20:1-21
+  rel: setting
+  note: Miriam's death, the waters of Meribah, embassy to Edom
+- ref: Num 34:4
+  rel: setting
+  note: Kadesh-barnea on Canaan's southern border
+- ref: Deut 1:19, 46
+  rel: setting
+  note: Israel's long stay at Kadesh
+- ref: Josh 14:6-7
+  rel: setting
+  note: Caleb recalls being sent from Kadesh-barnea
+- ref: Josh 15:3
+  rel: setting
+  note: Southern boundary of Judah
+- ref: Ezek 47:19
+  rel: setting
+  note: Waters of Meribath-kadesh on the ideal southern border
+related: [exodus-historical-questions, edomites, amalekites, arad, roads-and-highways]
+media:
+- id: kadesh-barnea
+  role: primary
+external:
+  wikipedia: Kadesh (biblical)
+  wikidata: Q954599
+editorial:
+  author_notes:
+  - >-
+    The usual identification is ʿAin el-Qudeirat, with nearby ʿAin Qedeis preserving the name.
+    Cohen's excavations (1976-82) uncovered three superimposed Iron Age fortresses.
+  - >-
+    There are no Late Bronze remains, which features in discussions of the exodus. Caution
+    against arguments from silence in both directions.
+  - >-
+    The date of the earliest (oval) fortress is debated, tenth century (Cohen) or later (Finkelstein
+    and others). The latest fortress is seventh to sixth century and produced Hebrew ostraca
+    with hieratic numerals.
+  - Do not confuse it with Kadesh on the Orontes (the Egyptian-Hittite battle).
+  sources_to_check:
+  - >-
+    Cohen and Bernick-Greenberg, Excavations at Kadesh Barnea (Tell el-Qudeirat) 1976-1982
+    (IAA Reports 34, 2007)
+  image_query: Tell el-Qudeirat fortress
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates from Wikidata Q954599 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 30.64833
+  lon: 34.42222
+  source: wikidata:Q954599

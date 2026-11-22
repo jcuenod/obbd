@@ -1,0 +1,92 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: qumran
+title: Qumran
+aliases: [Khirbet Qumran]
+type: site
+cultures: [jewish]
+date:
+  from: -100
+  to: 68
+  circa: true
+  display: c. 100 BCE–68 CE
+scope: >-
+  The settlement on a marl terrace above the northwestern Dead Sea and the nearby caves where
+  most of the Dead Sea Scrolls were found. Covers the excavated buildings, stepped pools,
+  cemetery and pottery, the link between site and caves, and rival interpretations of the
+  site.
+passages:
+- ref: Isa 40:3
+  rel: concept
+  note: >-
+    'In the wilderness prepare the way'; cited in the Community Rule (1QS 8) for withdrawal
+    to the desert
+- ref: Josh 15:61-62
+  rel: setting
+  disputed: true
+  note: Secacah or the City of Salt in the wilderness district, proposed identifications
+- ref: 2Chr 26:10
+  rel: setting
+  disputed: true
+  note: Uzziah builds towers in the wilderness; the Iron Age fort beneath the site
+- ref: Lev 15:13-18
+  rel: practice
+  disputed: true
+  note: Immersion for purity; the site's many stepped pools
+- ref: Matt 3:1-6
+  rel: setting
+  disputed: true
+  note: John the Baptist in the Judean wilderness; proposed Qumran connections
+related: [dead-sea-scrolls, community-rule, pesher-habakkuk, great-isaiah-scroll, jewish-sects,
+  stone-vessels-and-mikvaot, temple-scroll, josephus]
+media:
+- id: qumran
+  role: primary
+- id: qumran-2
+  role: gallery
+external:
+  wikipedia: Qumran
+  wikidata: Q223399
+  pleiades: '688011'
+editorial:
+  author_notes:
+  - >-
+    De Vaux excavated the site in 1951-56. Magness revised his phasing, placing the sectarian
+    settlement from c. 100-50 BCE to its destruction by Rome in 68 CE. An Iron Age II fort
+    lies beneath.
+  - >-
+    The Essene hypothesis (based on Pliny, Nat. Hist. 5.73; Philo; Josephus) remains the majority
+    view. Alternatives include a villa, a fortress, a pottery workshop, and scrolls brought
+    from Jerusalem. Pottery and proximity (especially Caves 4, 7-10) support a link between
+    site and caves.
+  - >-
+    The stepped pools are read as ritual baths (miqvaʾot) by most, though some see them as
+    cisterns. The cemetery holds about 1,100 graves, and the excavated sample is mostly male.
+  - >-
+    Links with John the Baptist or Jesus are popular but speculative. Do not equate the Qumran
+    group with all Essenes.
+  sources_to_check:
+  - de Vaux, Archaeology and the Dead Sea Scrolls (1973)
+  - Magness, The Archaeology of Qumran and the Dead Sea Scrolls (2002; 2nd ed. 2021)
+  image_query: Qumran Cave 4
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q223399 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 31.7419
+  lon: 35.45994
+  source: wikidata:Q223399

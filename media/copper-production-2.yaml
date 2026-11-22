@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: copper-production-2
+file: copper-production-2.jpg
+title: Timna Timna-Tal Kupferminen 05.JPG
+caption: Ancient copper mine gallery in the Timna Valley.
+description: Copper mines, Timna Valley, Negev Desert, Israel
+creator: Zairon
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Zairon, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Timna_Timna-Tal_Kupferminen_05.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/7/77/Timna_Timna-Tal_Kupferminen_05.JPG
+  sha1: 5cbe5cea49f1c72bb148a7ec80c61265805aad92
+  original_size: [4592, 3448]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1202 px
+size: [1600, 1202]
+depicts: [copper-production]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

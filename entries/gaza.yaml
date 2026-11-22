@@ -1,0 +1,75 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: gaza
+title: Gaza
+aliases: [ʿAzzah, Tell Harube]
+type: site
+cultures: [philistine, egyptian]
+scope: >-
+  The southernmost Philistine city, gateway between Egypt and the Levant and terminus of the
+  Arabian incense route. Ancient Gaza lies mostly beneath the modern city, so the entry relies
+  chiefly on textual evidence from Egyptian, Assyrian, biblical and Greek sources.
+passages:
+- ref: Gen 10:19
+  rel: setting
+  note: Canaanite territory reaching to Gaza
+- ref: Judg 16:1-3
+  rel: setting
+  note: Samson carries off Gaza's city gates
+- ref: Judg 16:21-30
+  rel: setting
+  note: Samson's death in the temple of Dagon at Gaza
+- ref: 1Sam 6:17
+  rel: setting
+  note: Gaza among the five Philistine cities
+- ref: 2Kgs 18:8
+  rel: setting
+  note: Hezekiah strikes the Philistines as far as Gaza
+- ref: Amos 1:6-7
+  rel: setting
+  note: Gaza's trade in captives to Edom
+- ref: Jer 47:1
+  rel: setting
+  note: Pharaoh strikes Gaza
+- ref: Zeph 2:4
+  rel: language
+  note: 'Wordplay: Gaza (ʿazzâ) shall be deserted (ʿăzûbâ)'
+- ref: Acts 8:26
+  rel: setting
+  note: Road from Jerusalem to Gaza; Philip and the Ethiopian official
+related: [philistines, roads-and-highways, tiglath-pileser-iii, incense-trade, dagon, ashdod]
+media:
+- id: gaza
+  role: primary
+external:
+  wikipedia: History of Gaza
+  wikidata: Q73569
+editorial:
+  author_notes:
+  - >-
+    The ancient tell (Tell Harube / Tell ʿAzza) lies under the modern city and has seen very
+    little excavation, so the article should stress textual sources.
+  - >-
+    Gaza was the Egyptian New Kingdom administrative base on the Way of Horus, often identified
+    with 'the city of Canaan' (pꜣ Knʿn) in Egyptian texts. Hanunu of Gaza fled to Egypt before
+    Tiglath-pileser III in 734.
+  - >-
+    It was the terminus of the Arabian incense trade (Herodotus' Kadytis) and resisted Alexander's
+    siege in 332 BCE.
+  - >-
+    Sites in the Gaza Strip (Anthedon, Tell es-Sakan, Tell el-ʿAjjul) are distinct from Gaza
+    proper. Note recent damage to heritage neutrally. Supply an image when a suitable licensed
+    photo is found.
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: asherah
+file: asherah.jpg
+title: Hecht Museum, Israel – figurines 010.JPG
+caption: >-
+  Judahite pillar figurine, terracotta, Iron Age II, a type often linked with Asherah (Hecht
+  Museum, Haifa).
+description: >-
+  Part of an exhibition of the Hecht Museum located at the University of Haifa – Pottery figurine
+  - atype "column figurine" which were common in Judah, characterized by the hands holding
+  the breasts, intended to protect the nursing mother. Part of the fertility cult of Ashera
+  Eighth century BCE Late Iron Age צלמיות מהעת העתיקה מתקופות שונות, חלק מהתצוגה של מוזיאון
+  הכט שנמצא באוניברסיטת חיפה צלמית חרס - טיפוס "צלמיות עמוד" היו נפוצות ביהודה, המאפיין הן
+  הידיים האוחזות בשדיים נועדו להגן על האם המנקת. חלק מפולחן הפריון של האשרה מאה שמינית לפנה"ס
+  תקופת ברזל מאוחר
+creator: Hanay
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Hanay, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Hecht_Museum,_Israel_%E2%80%93_figurines_010.JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/20/Hecht_Museum%2C_Israel_%E2%80%93_figurines_010.JPG
+  sha1: 8c0d6caf2fecbc3edabe1bd7d32e1c842fdaefc0
+  original_size: [1944, 2592]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1200×1600 px
+size: [1200, 1600]
+depicts: [asherah, judean-pillar-figurines]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

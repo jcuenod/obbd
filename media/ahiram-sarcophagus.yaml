@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ahiram-sarcophagus
+file: ahiram-sarcophagus.jpg
+title: Ahiram sarcophag from Biblos XIII-XBC.jpg
+caption: >-
+  The limestone sarcophagus of Ahiram, king of Byblos, c. 1000 BCE (National Museum of Beirut).
+description: >-
+  Sarcophagus of Ahiram, King of Biblos (Phoenicia) in XIII-X c. BC. Kept in Beirut National
+  Museum. Sarcophagus made in around 1000 BC.
+creator: Matson Photo Service, photographer, published in 1936
+credit_line: >-
+  This image is available from the United States Library of Congress's Prints and Photographs
+  division under the digital ID matpc.03491.This tag does not indicate the copyright status
+  of the attached work. A normal copyright tag is still required. See Commons:Licensing.
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: >-
+  Matson Photo Service, photographer, published in 1936. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ahiram_sarcophag_from_Biblos_XIII-XBC.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/43/Ahiram_sarcophag_from_Biblos_XIII-XBC.jpg
+  sha1: f5d11ca3422f9a4f6dfad8266a19b566ac2c0483
+  original_size: [5299, 3656]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1104 px
+size: [1600, 1104]
+depicts: [ahiram-sarcophagus, byblos, phoenicians]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

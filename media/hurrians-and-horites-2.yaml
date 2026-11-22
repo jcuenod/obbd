@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: hurrians-and-horites-2
+file: hurrians-and-horites-2.jpg
+title: >-
+  Foundation tablet, dedication to God Nergal by Hurrian king Atalshen, king of Urkish and
+  Nawar, Habur Bassin, circa 2000 BC Louvre Museum AO 5678.jpg
+caption: >-
+  Foundation tablet of the Hurrian king Atal-shen of Urkesh and Nawar, dedicated to Nergal,
+  c. 2000 BCE (Musée du Louvre, AO 5678).
+description: >-
+  Foundation tablet, dedication to God Nergal by Hurrian king Atalshen, king of Urkish and
+  Nawar, Habur Bassin, circa 2000 BC Louvre Museum AO 5678
+creator: ALFGRN
+credit_line: https://www.flickr.com/photos/156915032@N07/47027390354/
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: ALFGRN, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Foundation_tablet,_dedication_to_God_Nergal_by_Hurrian_king_Atalshen,_king_of_Urkish_and_Nawar,_Habur_Bassin,_circa_2000_BC_Louvre_Museum_AO_5678.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/f/f9/Foundation_tablet%2C_dedication_to_God_Nergal_by_Hurrian_king_Atalshen%2C_king_of_Urkish_and_Nawar%2C_Habur_Bassin%2C_circa_2000_BC_Louvre_Museum_AO_5678.jpg
+  sha1: 4fd78869ca2315786ce615b7a1a8eb81c77fccf8
+  original_size: [1966, 1534]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1248 px
+size: [1600, 1248]
+depicts: [hurrians-and-horites]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

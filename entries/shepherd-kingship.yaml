@@ -1,0 +1,104 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: shepherd-kingship
+title: Shepherd Imagery and Kingship
+aliases: [Shepherd of the people, Royal shepherd]
+type: concept
+cultures: [ane]
+scope: >-
+  The image of the king or god as shepherd of the people, attested across the ancient Near
+  East from third-millennium Sumer onward, and its use in the Hebrew Bible for YHWH, David,
+  failed rulers, and an expected Davidic ruler.
+passages:
+- ref: Ps 23
+  rel: imagery
+  note: YHWH as shepherd providing, guiding and protecting
+- ref: Ps 78:70-72
+  rel: imagery
+  note: David taken from the sheepfolds to shepherd Jacob
+- ref: Ps 80:1
+  rel: imagery
+  note: '''Shepherd of Israel'' enthroned on the cherubim (MT 80:2)'
+- ref: 2Sam 5:2
+  rel: imagery
+  note: David commissioned to 'shepherd my people Israel'
+- ref: 2Sam 7:7-8
+  rel: imagery
+  note: Rulers as those commanded to shepherd; David taken from following the sheep
+- ref: 1Sam 16:11
+  rel: imagery
+  note: David chosen from the flock
+- ref: Num 27:17
+  rel: imagery
+  note: Leader needed so Israel is not 'like sheep without a shepherd'
+- ref: 1Kgs 22:17
+  rel: imagery
+  note: 'Israel scattered like sheep without a shepherd: the king''s death'
+- ref: Ezek 34
+  rel: imagery
+  note: Indictment of Israel's shepherds; YHWH and 'my servant David' as shepherd
+- ref: Jer 23:1-6
+  rel: imagery
+  note: Woe to the shepherds; the righteous Branch
+- ref: Isa 44:28
+  rel: imagery
+  note: Cyrus called 'my shepherd'
+- ref: Mic 5:4
+  rel: imagery
+  note: Ruler from Bethlehem shepherds in YHWH's strength (MT 5:3)
+- ref: John 10:1-18
+  rel: imagery
+  note: The good shepherd
+- ref: Exod 3:1
+  rel: imagery
+  note: Moses called while shepherding Jethro's flock
+- ref: Gen 48:15
+  rel: imagery
+  note: Jacob's 'God who has shepherded me'
+- ref: Isa 40:11
+  rel: imagery
+  note: YHWH feeds his flock and carries the lambs
+- ref: Zech 11:4-17
+  rel: imagery
+  note: Sign-act of the shepherd of the flock doomed to slaughter; the worthless shepherd
+- ref: Ps 45:6
+  rel: language
+  note: Royal sceptre (šēbeṭ), the word used for the shepherd's rod in Ps 23:4 (MT 45:7)
+related: [statue-of-gudea, code-of-hammurabi, royal-ideology, egyptian-kingship, gudea, david]
+media:
+- id: shepherd-kingship
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Survey Sumerian and Akkadian royal epithets (sipa, rēʾû 'shepherd'), including Hammurabi's
+    prologue and epilogue ('I am the shepherd who brings well-being'). Add the Egyptian crook
+    (heka) regalia, the Middle Kingdom image of the king as herdsman, and Assyrian usage.
+  - >-
+    The image combines care with authority and accountability, which is why it suits prophetic
+    critique of rulers (Ezek 34; Jer 23; Zech 11:4-17).
+  - >-
+    Note that YHWH's own shepherding (Ps 23; Isa 40:11) draws on royal language, not only
+    on pastoral life.
+  image_query: Tutankhamun crook and flail
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+- date: '2026-11-21'
+  action: edited
+  by: claude-opus-5-5
+  note: >-
+    Rewrote the ANE evidence at the user's request: Gudea, specific shepherd language in the
+    Laws of Hammurabi, first-millennium and divine usage, Egyptian heqa and Merikare, checked
+    against Westenholz 2004. Tagged Gen 48:15, Isa 40:11, Zech 11:4-17, Ps 45:6.

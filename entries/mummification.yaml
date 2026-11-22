@@ -1,0 +1,69 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: mummification
+title: Mummification and Embalming
+aliases: [Embalming]
+type: practice
+cultures: [egyptian]
+scope: >-
+  Egyptian practices of preserving the body for the afterlife: evisceration, desiccation in
+  natron, anointing, and wrapping, with the associated mourning period. The entry covers the
+  embalming of Jacob and Joseph in Genesis, and the contrast with Israelite and later Jewish
+  burial customs.
+passages:
+- ref: Gen 50:2-3
+  rel: practice
+  note: 'Physicians embalm Jacob: forty days for embalming, seventy days of Egyptian mourning'
+- ref: Gen 50:26
+  rel: practice
+  note: Joseph embalmed and placed in a coffin in Egypt
+- ref: Exod 13:19
+  rel: practice
+  note: Joseph's bones carried out of Egypt for burial in the homeland
+- ref: 2Chr 16:14
+  rel: practice
+  note: 'Asa laid on a bier filled with spices: Judahite practice without mummification'
+- ref: John 19:39-40
+  rel: practice
+  note: Jewish burial with spices and linen wrappings, in contrast to Egyptian embalming
+related: [care-for-the-dead, book-of-the-dead, mourning-rites, bench-tombs, afterlife-and-resurrection,
+  sheol-and-the-netherworld]
+media:
+- id: mummification
+  role: primary
+- id: mummification-2
+  role: gallery
+external:
+  wikipedia: Mummy
+  wikidata: Q43616
+editorial:
+  author_notes:
+  - >-
+    Compare the 40 and 70 days of Gen 50:3 with Herodotus (70 days in natron) and with Egyptian
+    texts that put about 70 days between death and burial. The biblical figures do not match
+    any single source exactly, so do not force harmonisation.
+  - >-
+    In Gen 50:2 the embalmers are called "physicians" (rōpĕʾîm). This is often noted as an
+    unusual detail.
+  - >-
+    Jacob and Joseph are the only Israelites said to be embalmed, a deliberate Egyptian touch
+    in the narrative. Israelite practice favoured bench tombs and secondary burial of bones.
+  - Avoid popular claims that particular mummies are those of biblical figures.
+  sources_to_check:
+  - Herodotus, Histories 2.86-89
+  - Diodorus Siculus, Library of History 1.91
+  - Ikram and Dodson, The Mummy in Ancient Egypt (1998)
+  image_query: Anubis tending mummy tomb painting
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

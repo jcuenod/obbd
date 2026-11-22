@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: melqart
+file: melqart.jpg
+title: Stela with Melqart on his lion.JPG
+caption: >-
+  Stele from Amrit showing Melqart standing on a lion (shown in a temporary exhibition at
+  the Rijksmuseum van Oudheden, Leiden).
+description: >-
+  Stela from Amrit with Melqart on his lion. Photographed during temporary exhibition at Rijksmuseum
+  van Oudheden in Leiden, the Netherlands
+creator: null
+credit_line: AlexanderVanLoon
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Unknown author, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Stela_with_Melqart_on_his_lion.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/e/ea/Stela_with_Melqart_on_his_lion.JPG
+  sha1: 72b517a0b234fa4424ab2e1e82beddfb0ff8dd70
+  original_size: [3264, 4928]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1060×1600 px
+size: [1060, 1600]
+depicts: [melqart]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,105 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: gilgamesh-epic
+title: Epic of Gilgamesh
+aliases: [Gilgamesh Epic, Ša naqba īmuru (He who saw the Deep), Bilgames]
+type: text
+cultures: [babylonian, akkadian, sumerian]
+date:
+  from: -1800
+  to: -1100
+  circa: true
+  display: c. 1800–1100 BCE
+scope: >-
+  The Mesopotamian epic of Gilgamesh, king of Uruk, from the Sumerian Bilgames poems through
+  the Old Babylonian epic to the Standard Babylonian version. It covers Gilgamesh's friendship
+  with Enkidu, the quest for immortality, and Utnapishtim's flood narrative in Tablet XI;
+  the Nineveh flood tablet has its own entry.
+passages:
+- ref: Gen 6:5-9:17
+  rel: parallel
+  note: 'Tablet XI: Utnapishtim''s flood, the closest ANE parallel in plot and detail'
+- ref: Gen 6:14-16
+  rel: parallel
+  note: Boat built to divine specifications and sealed with pitch (Heb. kōper, Akk. kupru)
+- ref: Gen 8:4
+  rel: parallel
+  note: Vessel comes to rest on a mountain (Nimush vs. the mountains of Ararat)
+- ref: Gen 8:6-12
+  rel: parallel
+  note: Birds sent out to test for dry land (dove, swallow, raven)
+- ref: Gen 8:20-21
+  rel: parallel
+  note: Sacrifice on landing; gods smell the sweet savour and gather like flies
+- ref: Gen 9:12-17
+  rel: imagery
+  disputed: true
+  note: Goddess's lapis-lazuli fly necklace as flood memorial, compared with the bow
+- ref: Gen 3:22-24
+  rel: concept
+  note: 'Immortality lost: plant of rejuvenation snatched by a serpent; tree of life barred'
+- ref: Gen 3:5-7
+  rel: parallel
+  disputed: true
+  note: Enkidu, after sexual initiation, becomes 'wise, like a god' and leaves the animals
+- ref: Eccl 9:7-9
+  rel: parallel
+  note: 'Siduri''s advice (OB version): eat, rejoice, wear clean clothes, cherish wife and
+    child'
+- ref: Eccl 4:9-12
+  rel: parallel
+  disputed: true
+  note: Two better than one; 'a triple-ply rope' (Sumerian Gilgamesh and Huwawa)
+related: [gilgamesh-flood-tablet, atrahasis, flood-traditions, tree-of-life, library-of-ashurbanipal,
+  ane-wisdom-literature, megiddo]
+media:
+- id: gilgamesh-epic
+  role: primary
+- id: gilgamesh-epic-2
+  role: gallery
+external:
+  wikipedia: Epic of Gilgamesh
+  wikidata: Q8272
+editorial:
+  author_notes:
+  - >-
+    Distinguish the Sumerian Bilgames poems, the Old Babylonian epic (c. 18th c.), the Middle
+    Babylonian forms, and the Standard Babylonian eleven-tablet epic attributed to Sîn-lēqi-unninni,
+    whose main copies come from 7th-c. Nineveh; Tablet XII is a translation of a Sumerian
+    poem appended later. A Late Bronze Age fragment from Megiddo shows circulation in the
+    Levant.
+  - >-
+    Tablet XI adapts the Atrahasis flood; its parallels with Gen 6-9 (birds, mountain landing,
+    sacrifice) are the closest of any ANE text, and most scholars infer a Mesopotamian source
+    tradition behind Genesis, while the route and date of transmission remain debated.
+  - >-
+    Siduri's carpe diem speech survives only in the Old Babylonian Sippar tablet, not in the
+    Standard version; the Eccl 9:7-9 parallel is widely accepted, though direct dependence
+    is debated.
+  - >-
+    The name Gilgamesh survives in the Qumran Book of Giants (4Q530), useful for the afterlife
+    of Mesopotamian lore in Second Temple Judaism.
+  - >-
+    Avoid treating Gilgamesh as a 'fall' story: the serpent and the plant concern rejuvenation,
+    and the epic's ethos (accept mortality, enjoy life, fame through building) differs from
+    Gen 3.
+  sources_to_check:
+  - >-
+    A. R. George, The Babylonian Gilgamesh Epic: Introduction, Critical Edition and Cuneiform
+    Texts (2003)
+  - J. H. Tigay, The Evolution of the Gilgamesh Epic (1982)
+  - ANET 72-99
+  image_query: Epic of Gilgamesh cuneiform tablet
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

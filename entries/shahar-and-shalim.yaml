@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: shahar-and-shalim
+title: Shahar and Shalim (Dawn and Dusk)
+aliases: [Dawn and Dusk, Birth of the Gracious Gods, Shachar, Shalem]
+type: deity
+cultures: [ugaritic, canaanite]
+scope: >-
+  Shahar (Dawn) and Shalim (Dusk), twin deities whose conception by El is told in the Ugaritic
+  ritual-mythic text KTU 1.23 ("The Birth of the Gracious and Beautiful Gods"). The entry
+  covers both deities, the text, and biblical echoes of Shahar and Shalem; the kid-in-milk
+  question is treated under its own entry.
+passages:
+- ref: Isa 14:12
+  rel: language
+  note: Helel ben Shahar, 'Day Star, son of Dawn'
+- ref: Ps 139:9
+  rel: imagery
+  note: '''Wings of the dawn'' (kanpe-šaḥar)'
+- ref: Job 3:9
+  rel: imagery
+  note: '''Eyelids of the dawn'' personified'
+- ref: Job 41:18
+  rel: imagery
+  note: Leviathan's eyes like the eyelids of dawn (MT 41:10)
+- ref: Ps 110:3
+  rel: imagery
+  disputed: true
+  note: '''From the womb of the dawn'' (MT obscure; mišḥār)'
+- ref: Gen 14:18
+  rel: language
+  disputed: true
+  note: Salem, often linked to the god Shalem in the name Jerusalem
+- ref: Ps 76:2
+  rel: language
+  disputed: true
+  note: Salem as YHWH's abode (MT 76:3)
+- ref: Exod 23:19
+  rel: practice
+  disputed: true
+  note: Formerly linked to KTU 1.23:14; the Ugaritic reading is now doubted
+related: [el, jerusalem, kid-in-mothers-milk, ugaritic-texts, host-of-heaven, cosmic-mountain]
+media: []
+external:
+  wikipedia: Shahar (god)
+  wikidata: Q127127
+editorial:
+  author_notes:
+  - >-
+    The derivation of (Uru)salim/Jerusalem as "foundation of Shalem" is widely held but not
+    certain; present it with caution, and treat theophoric readings of Absalom and Solomon
+    as speculative.
+  - >-
+    KTU 1.23 combines a liturgical frame with myth; whether it is a sacred-marriage rite or
+    royal ritual is debated.
+  - >-
+    Cite Ratner and Zuckerman (HUCA 57, 1986) for the collapse of the old reading "seethe
+    a kid in milk" at line 14.
+  - >-
+    In Isa 14:12 the closer mythic background may be Athtar or Venus (Helel) rather than Shahar
+    himself; Shahar is the father in the epithet.
+  sources_to_check:
+  - KTU 1.23 (= CTA 23)
+  - COS 1.87
+  - T. J. Lewis in S. B. Parker (ed.), Ugaritic Narrative Poetry (1997)
+  - DDD, s.v. "Shahar"; "Shalem"; "Helel"
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

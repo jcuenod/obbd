@@ -1,0 +1,98 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: code-of-hammurabi
+title: Code of Hammurabi
+aliases: [Laws of Hammurabi, LH, Hammurabi stele]
+type: artifact
+cultures: [babylonian, akkadian]
+date:
+  from: -1755
+  to: -1750
+  circa: true
+  display: c. 1755–1750 BCE
+scope: >-
+  The diorite stele inscribed with the laws of Hammurabi of Babylon, about 282 casuistic provisions
+  framed by a prologue and epilogue on the king's divine commission to establish justice.
+  It is the most extensive ANE law collection and the standard comparandum for the Covenant
+  Code.
+passages:
+- ref: Exod 21:23-25
+  rel: parallel
+  note: Talion for bodily injury among free persons (LH §§196-201)
+- ref: Exod 21:28-32
+  rel: parallel
+  note: Ox known to gore kills a person; owner liable (LH §§250-252)
+- ref: Exod 21:22
+  rel: parallel
+  note: Striking a pregnant woman causing miscarriage (LH §§209-214)
+- ref: Exod 21:2-6
+  rel: practice
+  note: 'Time-limited debt servitude (LH §117: three years; Exodus: six)'
+- ref: Exod 21:15
+  rel: parallel
+  note: Son who strikes his father (LH §195)
+- ref: Exod 22:10-13
+  rel: parallel
+  note: Herdsman cleared by oath or evidence of losses to predators (LH §266) (MT 22:9-12)
+- ref: Deut 19:16-19
+  rel: parallel
+  note: False accuser suffers the penalty he sought (LH §§1-4)
+- ref: Gen 16:1-6
+  rel: practice
+  note: Slave woman bears for a childless wife, then claims equality (LH §§144-146)
+- ref: Num 5:11-31
+  rel: practice
+  note: Wife suspected of adultery submitted to an ordeal (LH §§131-132)
+- ref: Ps 72:1-4, 12-14
+  rel: concept
+  note: King as guarantor of justice for the weak, widow, and orphan
+related: [hammurabi, ane-law-collections, lex-talionis, goring-ox, laws-of-eshnunna, shepherd-kingship,
+  shamash, susa]
+location:
+  institution: Musée du Louvre, Paris
+  accession: null
+media:
+- id: ane-law-collections
+  role: gallery
+- id: hammurabi
+  role: gallery
+external:
+  wikipedia: Code of Hammurabi
+  wikidata: Q93304
+editorial:
+  author_notes:
+  - >-
+    Found at Susa in 1901-02 by the French expedition; it had been carried off as booty by
+    the Elamite king Shutruk-Nahhunte in the 12th c. The relief shows Hammurabi before Shamash.
+    Fragments of other stelae and many manuscript copies exist; the text was copied in scribal
+    schools for over a millennium.
+  - >-
+    Nature debated: legislation vs. a royal apologia or 'scientific' compilation of exemplary
+    verdicts (Kraus, Bottéro, Westbrook); it is rarely if ever cited in court records.
+  - >-
+    Covenant Code relationship: shared legal-scribal tradition (Paul, Westbrook) vs. direct
+    literary dependence on LH in the Neo-Assyrian period (Wright 2009). Present the range;
+    Wright's thesis is influential but contested.
+  - >-
+    Contrasts worth drawing: social stratification (awīlum, muškēnum, wardum), vicarious punishment
+    (§§116, 210, 230; cf. Exod 21:31, Deut 24:16), and divine vs. royal authorship of law.
+  sources_to_check:
+  - M. T. Roth, Law Collections from Mesopotamia and Asia Minor (2nd ed., SBLWAW 6, 1997)
+  - COS 2.131
+  - ANET 163-180
+  - D. P. Wright, Inventing God's Law (2009)
+  - 'M. E. J. Richardson, Hammurabi''s Laws: Text, Translation and Glossary (2000)'
+  image_query: Code of Hammurabi stele Louvre
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: akitu-festival
+file: akitu-festival.jpg
+title: Ishtar Gate Processional Way section, Pergamon Museum.JPG
+caption: >-
+  Glazed-brick lions from the Processional Way of Babylon, along which the gods' statues were
+  carried at the akītu festival, 6th century BCE (Pergamon Museum, Berlin).
+description: >-
+  A section of the Processional Way of the Ishtar Gate on display at the Pergamon Museum in
+  Berlin, Germany.
+creator: BrokenSphere
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Ishtar_Gate_Processional_Way_section,_Pergamon_Museum.JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/23/Ishtar_Gate_Processional_Way_section%2C_Pergamon_Museum.JPG
+  sha1: dd572c6e85c6f1ff7b266f288e389f5e8fd64c44
+  original_size: [2272, 1704]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [akitu-festival]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

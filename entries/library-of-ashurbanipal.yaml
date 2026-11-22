@@ -1,0 +1,83 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: library-of-ashurbanipal
+title: Library of Ashurbanipal
+type: site
+cultures: [assyrian]
+date:
+  from: -668
+  to: -612
+  circa: true
+  display: c. 668–612 BCE
+scope: >-
+  The collections of cuneiform tablets assembled at Nineveh chiefly under Ashurbanipal and
+  found by Layard and Rassam in the 1850s at Kuyunjik. They preserve the standard versions
+  of Gilgamesh, Enuma Elish and many omen, incantation, lexical and scholarly series, making
+  them the main source for first-millennium Mesopotamian literature.
+passages:
+- ref: Gen 6:5-9:17
+  rel: parallel
+  note: Gilgamesh Tablet XI and Atrahasis copies preserved here
+- ref: Gen 1:1-2:3
+  rel: parallel
+  note: Enuma Elish known chiefly from Nineveh copies
+- ref: Prov 25:1
+  rel: practice
+  note: Royal patronage of copying and collecting literature ('men of Hezekiah')
+- ref: Isa 47:13
+  rel: practice
+  note: Astrologers and stargazers; celestial omen series collected at Nineveh
+- ref: Ezra 4:10
+  rel: attests
+  note: Osnappar (Ashurbanipal), the king whose collections these were
+- ref: Nah 2:1-3:19
+  rel: setting
+  note: Oracles on Nineveh, whose destruction in 612 buried the tablets (MT 2:2-3:19)
+related: [ashurbanipal, nineveh, gilgamesh-epic, gilgamesh-flood-tablet, enuma-elish, scribes-and-scribal-education,
+  enuma-anu-enlil, writing-and-literacy]
+location:
+  institution: British Museum, London (bulk of the tablets)
+  accession: null
+media:
+- id: library-of-ashurbanipal
+  role: primary
+external:
+  wikipedia: Library of Ashurbanipal
+  wikidata: Q856544
+editorial:
+  author_notes:
+  - >-
+    The 'library' is a modern label for several collections in the palaces and the Nabu temple;
+    tablets were also seized or copied from Babylonian scholars, especially after 648.
+  - >-
+    George Smith's 1872 identification of the flood story in this material sparked the Babel-Bibel
+    debate; mention this history.
+  - >-
+    The tablets are mostly scholarly and divinatory, not literary; literary texts are a minority.
+  - >-
+    The excavated tablets were mixed with other Kuyunjik finds, so 'library' attributions
+    need care.
+  sources_to_check:
+  - Parpola, "Assyrian Library Records," JNES 42 (1983)
+  image_query: Library of Ashurbanipal tablets British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates from Wikidata Q856544 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 36.3594
+  lon: 43.1528
+  source: wikidata:Q856544

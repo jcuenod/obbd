@@ -1,0 +1,89 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: gath
+title: Gath (Tell eṣ-Ṣafi)
+aliases: [Tell es-Safi, Tel Zafit, Gimti]
+type: site
+cultures: [philistine, canaanite]
+scope: >-
+  Philistine Gath, identified with Tell eṣ-Ṣafi at the edge of the Shephelah, the largest
+  Philistine city in the early Iron Age. Covers its Bronze Age background, its Philistine
+  material culture, the Aramean siege, and its later decline.
+passages:
+- ref: Josh 11:22
+  rel: setting
+  note: Anakim remain in Gaza, Gath and Ashdod
+- ref: 1Sam 5:8-9
+  rel: setting
+  note: The ark brought to Gath; plague follows
+- ref: 1Sam 17:4
+  rel: language
+  disputed: true
+  note: Goliath of Gath; cf. the names ʾLWT and WLT on a sherd from the site
+- ref: 1Sam 21:10-15
+  rel: setting
+  note: David feigns madness before Achish of Gath (MT 21:11-16)
+- ref: 1Sam 27:2-12
+  rel: setting
+  note: David as Achish's vassal at Ziklag
+- ref: 2Sam 15:18
+  rel: setting
+  note: Ittai and the Gittites in David's guard
+- ref: 2Kgs 12:17
+  rel: attests
+  note: Hazael takes Gath; siege trench and late-ninth-century destruction (MT 12:18)
+- ref: Amos 6:2
+  rel: attests
+  note: '''Go down to Gath of the Philistines'', a city already fallen'
+- ref: Mic 1:10
+  rel: setting
+  note: '''Tell it not in Gath'''
+related: [philistines, hazael, ekron, ashdod, champion-combat, khirbet-qeiyafa, horned-altars,
+  sea-peoples]
+media:
+- id: gath
+  role: primary
+external:
+  wikipedia: Tell es-Safi
+  wikidata: Q2402271
+editorial:
+  author_notes:
+  - >-
+    Maeir's long-running excavations (from 1996) have made the identification with Tell eṣ-Ṣafi
+    widely accepted. Gath was the largest Philistine city in the tenth and ninth centuries.
+  - >-
+    A siege trench around the tell and a destruction of c. 830 BCE are attributed to Hazael
+    (2 Kgs 12:17). Gath's absence from the eighth-century lists in Amos 1:6-8 and Zeph 2:4
+    fits its decline.
+  - >-
+    The early Iron IIA sherd with the names ʾLWT and WLT shows names of non-Semitic type comparable
+    to 'Goliath'. It is not a reference to Goliath himself, and the press framing should be
+    corrected.
+  - >-
+    Other finds include a two-horned altar and Philistine temple remains. Amarna-period Gimti
+    (ruler Shuwardata) is probably Gath.
+  sources_to_check:
+  - NEAEHL
+  - Maeir (ed.), Tell es-Safi/Gath I - The 1996-2005 Seasons (2012)
+  image_query: Tell es-Safi Gath excavations
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates from Wikidata Q2402271 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 31.69937
+  lon: 34.84669
+  source: wikidata:Q2402271

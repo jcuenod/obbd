@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ahaz
+file: ahaz.jpg
+title: טביעת חותם המלך חזקיהו.jpg
+caption: >-
+  Clay bulla of Hezekiah 'son of Ahaz, king of Judah', late 8th century BCE (on display at
+  the Israel Museum, Jerusalem).
+description: >-
+  Imprint of the seal (bulla) of Hezekiah, son of Ahaz, king of Judah. On display in the Israel
+  Musuem, Jerusalem. On extended loan from David and Jemima Jeselsohn.
+creator: Tamir Zegman
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Tamir Zegman, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:%D7%98%D7%91%D7%99%D7%A2%D7%AA_%D7%97%D7%95%D7%AA%D7%9D_%D7%94%D7%9E%D7%9C%D7%9A_%D7%97%D7%96%D7%A7%D7%99%D7%94%D7%95.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/8/81/%D7%98%D7%91%D7%99%D7%A2%D7%AA_%D7%97%D7%95%D7%AA%D7%9D_%D7%94%D7%9E%D7%9C%D7%9A_%D7%97%D7%96%D7%A7%D7%99%D7%94%D7%95.jpg
+  sha1: 58415ea9e358c9f00c10557e0f4f681d6726e39f
+  original_size: [757, 543]
+  retrieved: '2026-11-20'
+derivative: null
+size: [757, 543]
+depicts: [ahaz, hezekiah-bulla, seals-and-bullae]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

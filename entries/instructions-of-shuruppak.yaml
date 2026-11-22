@@ -1,0 +1,67 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: instructions-of-shuruppak
+title: Instructions of Shuruppak
+aliases: [Instructions of Šuruppak]
+type: text
+cultures: [sumerian]
+date:
+  from: -2600
+  to: -2500
+  circa: true
+  display: c. 2600–2500 BCE
+scope: >-
+  A Sumerian collection of practical admonitions given by Shuruppak to his son Ziusudra, the
+  flood hero. Attested from Early Dynastic tablets of c. 2500 BCE to Old Babylonian school
+  copies, it is among the oldest surviving works of literature and the earliest instance of
+  the father-to-son instruction genre.
+passages:
+- ref: Prov 1:8
+  rel: form
+  note: Instruction framed as a father's counsel to his son
+- ref: Prov 4:1-4
+  rel: form
+  note: Father passes on teaching received in turn from his own father
+- ref: Prov 6:1-5
+  rel: parallel
+  note: Do not stand surety for another
+- ref: Prov 6:24-29
+  rel: parallel
+  note: Warnings against sexual involvement with another man's wife
+related: [ane-wisdom-literature, instruction-of-amenemope, instruction-of-ptahhotep, eridu-genesis,
+  scribes-and-scribal-education, ahiqar]
+media:
+- id: instructions-of-shuruppak
+  role: primary
+external:
+  wikipedia: Instructions of Shuruppak
+  wikidata: Q3823132
+editorial:
+  author_notes:
+  - >-
+    Earliest copies from Abu Salabikh and Adab (Early Dynastic IIIa); the Old Babylonian version
+    is longer. Alster's edition (2005) is standard.
+  - >-
+    The link to the flood hero Ziusudra frames ancient wisdom as antediluvian, a point of
+    contact with traditions about sages before the flood.
+  - >-
+    Parallels with Proverbs are of genre and common sense (surety, adultery, speech), not
+    of dependence; the father-son frame is pan-Near Eastern (cf. Egyptian instructions, Ahiqar).
+  sources_to_check:
+  - COS 1.176
+  - ETCSL 5.6.1
+  - B. Alster, Wisdom of Ancient Sumer (2005)
+  image_query: Instructions of Shuruppak tablet
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

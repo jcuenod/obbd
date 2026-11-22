@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: hezekiah
+file: hezekiah.jpg
+title: >-
+  Six-sided clay prism, side 1, written on behalf of Sennacherib, king of Assyria, and containing
+  narratives of his military campaigns, 704-681 BC - Oriental Institute Museum, University
+  of Chicago - DSC07599.JPG
+caption: >-
+  Sennacherib's prism, whose annals describe Hezekiah shut up in Jerusalem 'like a bird in
+  a cage', clay, 7th century BCE (Oriental Institute Museum, Chicago).
+description: >-
+  Exhibit in the Oriental Institute Museum, University of Chicago, Chicago, Illinois, USA.
+  This work is old enough so that it is in the public domain. Photography was permitted in
+  the museum without restriction.
+creator: Daderot
+credit_line: Own work
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Daderot. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Six-sided_clay_prism,_side_1,_written_on_behalf_of_Sennacherib,_king_of_Assyria,_and_containing_narratives_of_his_military_campaigns,_704-681_BC_-_Oriental_Institute_Museum,_University_of_Chicago_-_DSC07599.JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/7e/Six-sided_clay_prism%2C_side_1%2C_written_on_behalf_of_Sennacherib%2C_king_of_Assyria%2C_and_containing_narratives_of_his_military_campaigns%2C_704-681_BC_-_Oriental_Institute_Museum%2C_University_of_Chicago_-_DSC07599.JPG
+  sha1: f2cd4f15fbfe0badb8624b777323dbb7c8ccac3c
+  original_size: [3648, 5472]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1067×1600 px
+size: [1067, 1600]
+depicts: [hezekiah, sennacherib-annals]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: gilgamesh-epic
+file: gilgamesh-epic.jpg
+title: Tablet V of the Epic of Gilgamesh.jpg
+caption: >-
+  Old Babylonian clay tablet with part of Tablet V of the Epic of Gilgamesh, 2003-1595 BCE
+  (Sulaymaniyah Museum, Iraq).
+description: >-
+  This is a newly discovered partially broken tablet V of the Epic of Gilgamesh. The tablet
+  dates back to the old Babylonian period, 2003-1595 BCE; Neo-Babylonian period according
+  to the edition in F. Al-Rawi et A. R. George, « Back to the Cedar Forest: The beginning
+  and end of Tablet V of the Standard Babylonian Epic of Gilgameš », Journal of Cuneiform
+  Studies, vol. 66,‎ 2014, pp. 69-90. From Mesopotamia, Iraq. The Sulaymaniyah Museum, Iraq.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tablet_V_of_the_Epic_of_Gilgamesh.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/13/Tablet_V_of_the_Epic_of_Gilgamesh.jpg
+  sha1: 7b62ba69b37bc6e56e36c8c9698e21de37b8fd00
+  original_size: [2705, 3497]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1238×1600 px
+size: [1238, 1600]
+depicts: [gilgamesh-epic]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

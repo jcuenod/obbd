@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: lion-hunt-of-ashurbanipal
+title: Lion Hunt Reliefs of Ashurbanipal
+type: artifact
+cultures: [assyrian]
+date:
+  from: -645
+  to: -635
+  circa: true
+  display: c. 645–635 BCE
+scope: >-
+  The series of gypsum wall reliefs from Ashurbanipal's North Palace at Nineveh showing the
+  king hunting lions released from cages into an arena, a royal ritual expressing the king's
+  role as protector of order against wild chaos.
+passages:
+- ref: 1Sam 17:34-37
+  rel: imagery
+  note: David as shepherd-protector who kills lions and bears
+- ref: Ezek 19:1-9
+  rel: imagery
+  note: Lion cub caught in a pit and net, put in a cage with hooks and taken to the king
+- ref: Nah 2:11-13
+  rel: imagery
+  note: Nineveh as a lions' den destroyed (MT 2:12-14)
+- ref: Amos 3:12
+  rel: imagery
+  note: Shepherd rescuing remnants from the lion's mouth
+- ref: Dan 6:16-24
+  rel: realia
+  note: Captive lions kept in a pit by the king in Babylon (MT 6:17-25)
+- ref: Judg 14:5-6
+  rel: imagery
+  note: Samson kills a lion barehanded
+related: [ashurbanipal, lion-imagery, nineveh, royal-ideology, shepherd-kingship, rassam-cylinder]
+location:
+  institution: British Museum, London
+  accession: null
+media:
+- id: lion-hunt-of-ashurbanipal
+  role: primary
+external:
+  wikipedia: Lion Hunt of Ashurbanipal
+  wikidata: Q27920165
+editorial:
+  author_notes:
+  - >-
+    The hunt was staged with captive lions; the reliefs and inscriptions present it as a royal
+    ritual tied to the king's duty to protect land and people.
+  - >-
+    Ezek 19 reflects actual practices of capturing lions with nets and pits and transporting
+    them in cages, as shown in Assyrian art.
+  - >-
+    Nah 2:11-13 turns the Assyrian royal lion image against Nineveh itself; this is a strong
+    and widely accepted link.
+  - Avoid sentimental readings of the 'dying lioness' slab; focus on royal ideology.
+  sources_to_check:
+  - Barnett, Sculptures from the North Palace of Ashurbanipal at Nineveh (1976)
+  image_query: Lion Hunt of Ashurbanipal British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Dan 6:16-24 note: 'Mesopotamian king' -> 'the king
+    in Babylon'
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

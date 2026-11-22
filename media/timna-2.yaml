@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: timna-2
+file: timna-2.jpg
+title: Egyptian Chariots Timna Valley.jpg
+caption: Rock drawing of Egyptian chariots in the Timna Valley.
+description: This is a rock drawing of Egyptian chariots at Timna Valley
+creator: Garybradski
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Garybradski, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Egyptian_Chariots_Timna_Valley.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/8/85/Egyptian_Chariots_Timna_Valley.jpg
+  sha1: 7a8bb5ca30fc4ad0feeef61cce36a3941d856693
+  original_size: [3036, 4048]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1200×1600 px
+size: [1200, 1600]
+depicts: [timna]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

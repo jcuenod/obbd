@@ -1,0 +1,73 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: sumerian-king-list
+title: Sumerian King List
+aliases: [SKL]
+type: text
+cultures: [sumerian]
+date:
+  from: -2100
+  to: -1800
+  circa: true
+  display: c. 2100–1800 BCE
+scope: >-
+  A Sumerian list of cities and rulers that presents kingship as "descending from heaven"
+  and passing from one city to another. In most versions it begins with antediluvian kings
+  with immensely long reigns and treats the flood as the great epochal break.
+passages:
+- ref: Gen 5:1-32
+  rel: parallel
+  note: Antediluvian line of very long-lived figures ending at the flood
+- ref: Gen 11:10-26
+  rel: parallel
+  note: Post-flood life spans decline, as SKL reigns shrink after the flood
+- ref: Gen 10:1, 32
+  rel: concept
+  note: '''After the flood'' as an epochal marker; SKL: ''after the flood had swept over'''
+- ref: Gen 5:21-24
+  rel: concept
+  disputed: true
+  note: Seventh antediluvian figure; Enmeduranki of Sippar is seventh in some lists
+related: [weld-blundell-prism, genealogies, enmeduranki-and-the-apkallu, eridu-genesis, flood-traditions,
+  royal-annals-and-historiography]
+media:
+- id: sumerian-king-list
+  role: primary
+- id: weld-blundell-prism
+  role: gallery
+external:
+  wikipedia: Sumerian King List
+  wikidata: Q270860
+editorial:
+  author_notes:
+  - >-
+    Composite and ideological: dynasties that were contemporary are listed in succession to
+    model a single legitimate kingship. An Ur III manuscript lacks the antediluvian section,
+    which most think was prefaced later; the Weld-Blundell prism (c. 1800) is the best-known
+    copy.
+  - >-
+    Reigns are given in sexagesimal units (a šar = 3,600 years); the antediluvian section
+    has eight or ten kings depending on the source. Berossus's list of ten antediluvian kings
+    gives the closest numerical analogue to the ten generations of Gen 5.
+  - >-
+    Explanations of the Gen 5 numbers (which differ in MT, SP, and LXX) from Mesopotamian
+    arithmetic are speculative; present the parallel as genre (long-lived ancestors, flood
+    as divider), not dependence.
+  sources_to_check:
+  - T. Jacobsen, The Sumerian King List (Assyriological Studies 11, 1939)
+  - ANET 265-266
+  - J.-J. Glassner, Mesopotamian Chronicles (SBLWAW 19, 2004)
+  image_query: Weld-Blundell Prism Ashmolean
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

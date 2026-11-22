@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: nabataeans-2
+file: nabataeans-2.jpg
+title: Atargatis, Nabatean, c.100 AD, Jordan Archaeological Museum.jpg
+caption: >-
+  Relief bust of Atargatis from the Nabataean temple at Khirbet et-Tannur, c. 100 CE (Jordan
+  Archaeological Museum, Amman).
+description: >-
+  This statue comes from the Nabatean temple at Khirbet Tannur. Atargatis, the "Syrian Goddess"
+  (Lucian, De Syria Dea) was a vegetation goddess, responsible for the fertility of the land,
+  and perhaps the sea as well; her dolphin is a puzzling attribute, which appears on other
+  representations, although not on this one. Here, the goddess emerges from a profusion of
+  vines, fruits, and other vegetation. Her head is crowned by an eagle, symbol of the Edomite
+  god, Qos (Taylor, p. 122).[1]
+creator: Dennis G. Jarvis
+credit_line: https://www.flickr.com/photos/archer10/2217600108/
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: Dennis G. Jarvis, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Atargatis,_Nabatean,_c.100_AD,_Jordan_Archaeological_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/8/8c/Atargatis%2C_Nabatean%2C_c.100_AD%2C_Jordan_Archaeological_Museum.jpg
+  sha1: 53f604800095b8f5a84d995975e597faafa98e87
+  original_size: [2560, 1920]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [nabataeans]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

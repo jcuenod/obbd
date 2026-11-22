@@ -1,0 +1,88 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: esarhaddon-succession-treaty
+title: Esarhaddon's Succession Treaty (Vassal Treaties)
+aliases: [Vassal Treaties of Esarhaddon, VTE, EST, adê of Esarhaddon]
+type: text
+cultures: [assyrian]
+date:
+  from: -672
+  to: -672
+  display: 672 BCE
+scope: >-
+  The loyalty oath (adê) imposed in 672 BCE by Esarhaddon of Assyria on vassals and subjects
+  to secure the succession of Ashurbanipal, known from copies found at Nimrud and Tell Tayinat.
+  Its loyalty clauses and curse sequences are the closest known parallels to Deuteronomy 13
+  and 28.
+passages:
+- ref: Deut 13:1-18
+  rel: parallel
+  note: Duty to report and punish incitement to disloyalty, even by prophets or kin (MT 13:2-19)
+- ref: Deut 28:26-30
+  rel: parallel
+  note: 'Curse sequence: corpses to birds, skin disease, blindness, wife taken (EST §§39-42)'
+- ref: Deut 28:23
+  rel: parallel
+  note: Sky of bronze and earth of iron (EST §§63-64)
+- ref: Deut 6:5
+  rel: language
+  note: Command to 'love' the overlord with all one's heart; 'love Ashurbanipal as yourselves'
+- ref: Deut 12:32
+  rel: parallel
+  note: Do not add to or take from the words (MT 13:1); EST forbids altering the treaty tablet
+- ref: Deut 6:6-9
+  rel: practice
+  disputed: true
+  note: Oath to be passed on to children and descendants
+- ref: 2Kgs 21:1-18
+  rel: setting
+  disputed: true
+  note: Manasseh, an Assyrian vassal under Esarhaddon, probably bound by such oaths
+- ref: Ezek 17:11-21
+  rel: concept
+  note: Breaking a vassal oath sworn in the deity's name as an offence against that deity
+related: [covenant-and-treaty-form, blessings-and-curses, esarhaddon, ashurbanipal, covenant-love-language,
+  oaths-and-oath-formulas, manasseh, sefire-treaties]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Copies found in 1955 in the Nabû temple at Nimrud (sworn by Median rulers) and in 2009
+    at Tell Tayinat in the Syrian west. The Tayinat copy shows western vassals bound by the
+    same text and strengthens (but does not prove) the case that Judah knew it.
+  - >-
+    Many (Otto, Levinson, Steymans) see Deut 13 and 28 as a deliberate, subversive adaptation
+    that transfers loyalty from the Assyrian king to YHWH; Crouch (2014) and others question
+    the criteria for direct dependence. Present it as influential but contested.
+  - >-
+    Moran (CBQ 1963) established 'love' as treaty language for loyalty; the EST loyalty clauses
+    are a key comparandum.
+  - >-
+    Section numbers follow SAA 2 6; check them, since older literature uses line numbers (Wiseman
+    1958).
+  sources_to_check:
+  - S. Parpola and K. Watanabe, Neo-Assyrian Treaties and Loyalty Oaths (SAA 2, 1988), no.
+    6
+  - D. J. Wiseman, 'The Vassal-Treaties of Esarhaddon,' Iraq 20 (1958)
+  - >-
+    J. Lauinger, 'Esarhaddon's Succession Treaty at Tell Tayinat: Text and Commentary,' JCS
+    64 (2012): 87-123
+  - >-
+    H. U. Steymans, Deuteronomium 28 und die adê zur Thronfolgeregelung Asarhaddons (OBO 145,
+    1995)
+  - ANET 534-541
+  image_query: Esarhaddon vassal treaty tablet Nimrud
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

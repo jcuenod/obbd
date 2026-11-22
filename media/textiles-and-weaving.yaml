@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: textiles-and-weaving
+file: textiles-and-weaving.jpg
+title: Yafo-museum-3998.jpg
+caption: Middle Bronze Age II clay loom weights, hung as on a warp-weighted loom (Jaffa Museum).
+description: Weight stones for cloth weaving, Middle Bronze age II, Jaffa museum, Jaffa, Israel.
+creator: Bukvoed
+credit_line: Own work
+license:
+  id: CC-BY-3.0
+  name: CC BY 3.0
+  url: https://creativecommons.org/licenses/by/3.0
+attribution: Bukvoed, CC BY 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Yafo-museum-3998.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/3/3e/Yafo-museum-3998.jpg
+  sha1: 244d4f495063d07b830236e0bbf12b4bbd502002
+  original_size: [1596, 1656]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1542×1600 px
+size: [1542, 1600]
+depicts: [textiles-and-weaving]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

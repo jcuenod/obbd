@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: tutankhamun-anubis-shrine-2
+file: tutankhamun-anubis-shrine-2.jpg
+title: The statue Anubis Egypt.jpg
+caption: The Anubis figure from the shrine on display at the Egyptian Museum, Cairo.
+description: >-
+  One of the masterpieces of the Egyptian Museum - the statue of God Anubis - was found at
+  the king Tutankhamun cemetery.
+creator: Mohamed Khalil
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Mohamed Khalil, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:The_statue_Anubis_Egypt.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/b/b9/The_statue_Anubis_Egypt.jpg
+  sha1: e7bc729ae485488b64ada5b1c44f0ac26dd6521a
+  original_size: [1697, 1234]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1163 px
+size: [1600, 1163]
+depicts: [tutankhamun-anubis-shrine]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

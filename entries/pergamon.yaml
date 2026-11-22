@@ -1,0 +1,65 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: pergamon
+title: Pergamon
+type: site
+cultures: [greek, roman]
+scope: >-
+  Pergamon (Pergamum), the Attalid capital in Mysia and a major Roman city of Asia. It was
+  known for the Great Altar, the Asklepieion, and the province's first temple to Roma and
+  Augustus. It is addressed in Rev 2:12-17 as the place 'where Satan's throne is'.
+passages:
+- ref: Rev 2:12-17
+  rel: setting
+  note: Message to Pergamum; the martyr Antipas
+- ref: Rev 2:13
+  rel: concept
+  disputed: true
+  note: '''Satan''s throne'': imperial temple, Great Altar, Asclepius cult, or Roman judicial
+    seat'
+- ref: Rev 2:14
+  rel: practice
+  note: Eating food sacrificed to idols
+related: [imperial-cult, temple-of-artemis-ephesus, laodicea, satan-the-adversary, corinth]
+media:
+- id: pergamon
+  role: primary
+- id: pergamon-2
+  role: gallery
+external:
+  wikipedia: Pergamon
+  wikidata: Q18986
+  pleiades: '550812'
+editorial:
+  author_notes:
+  - >-
+    Survey the candidates for 'Satan's throne' neutrally. The provincial imperial temple (29
+    BCE; Tacitus, Ann. 4.37) and Pergamon's role as an administrative and judicial centre
+    are most often favoured; the Altar of Zeus identification is popular but unprovable.
+  - The Great Altar is now in the Pergamonmuseum, Berlin.
+  - Pliny's story that parchment was invented at Pergamon (NH 13.70) is partly legendary.
+  sources_to_check:
+  - 'W. Radt, Pergamon: Geschichte und Bauten einer antiken Metropole (1999)'
+  - H. Koester (ed.), Pergamon, Citadel of the Gods (HTS 46, 1998)
+  image_query: Pergamon acropolis Trajaneum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q18986 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 39.12947
+  lon: 27.18412
+  source: wikidata:Q18986

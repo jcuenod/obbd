@@ -1,0 +1,81 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: horned-altars
+title: Horned Altars
+type: realia
+cultures: [hebrew, philistine, canaanite]
+scope: >-
+  Altars with projecting "horns" at the four corners, known from biblical descriptions and
+  from Iron Age examples at Beersheba, Megiddo, Dan, and Ekron. The entry covers the ritual
+  use of the horns in blood rites and as a place of asylum.
+passages:
+- ref: Exod 27:2
+  rel: realia
+  note: Horns on the four corners of the altar of burnt offering
+- ref: Exod 29:12
+  rel: practice
+  note: Blood put on the altar's horns at ordination
+- ref: Exod 30:2-3, 10
+  rel: realia
+  note: Horns of the incense altar, purged annually
+- ref: Lev 4:7, 18, 25, 30, 34
+  rel: practice
+  note: Purification-offering blood daubed on the horns
+- ref: Lev 16:18
+  rel: practice
+  note: Altar's horns purged on the Day of Atonement
+- ref: 1Kgs 1:50-51
+  rel: practice
+  note: Adonijah grasps the horns of the altar for asylum
+- ref: 1Kgs 2:28
+  rel: practice
+  note: Joab flees to the altar's horns
+- ref: Amos 3:14
+  rel: realia
+  note: Horns of the Bethel altar to be cut off
+- ref: Jer 17:1
+  rel: imagery
+  note: Sin engraved on the horns of the altars
+- ref: Ps 118:27
+  rel: practice
+  note: Festal procession 'up to the horns of the altar'
+- ref: Rev 9:13
+  rel: imagery
+  note: Voice from the four horns of the golden altar
+related: [altars, incense-and-incense-altars, asylum-and-cities-of-refuge, beersheba, ekron,
+  megiddo, cult-reforms-archaeology]
+media:
+- id: altars-2
+  role: gallery
+- id: horned-altars
+  role: primary
+- id: horned-altars-2
+  role: gallery
+external:
+  wikipedia: Horned altar
+editorial:
+  author_notes:
+  - >-
+    The Beersheba altar of dressed stones was found dismantled and reused in later walls.
+    Its dismantling is often linked to Hezekiah's reform (2 Kgs 18:4, 22), but that link and
+    the stratigraphy are debated.
+  - >-
+    Small four-horned limestone altars (Megiddo, Ekron, and elsewhere) were probably for incense
+    or other non-animal offerings. Distinguish them from large altars of burnt offering.
+  - >-
+    The original function or symbolism of the horns is unknown. Present the proposals without
+    choosing one.
+  image_query: Beersheba horned altar
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

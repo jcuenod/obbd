@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: olive-oil-production-2
+file: olive-oil-production-2.jpg
+title: Press. Katzrin ancient village 04.jpg
+caption: >-
+  Reconstructed beam press with hanging stone weights in the ancient village at Katzrin, Golan
+  Heights.
+description: Oil press. Katzrin ancient village. Golan Heights.
+creator: Staselnik
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Staselnik, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Press._Katzrin_ancient_village_04.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/4d/Press._Katzrin_ancient_village_04.jpg
+  sha1: 4b673087bf0ffb20c348ccaff46b507b9984e161
+  original_size: [8418, 5747]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1093 px
+size: [1600, 1093]
+depicts: [olive-oil-production]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

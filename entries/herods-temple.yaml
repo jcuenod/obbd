@@ -1,0 +1,92 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: herods-temple
+title: Herod's Temple
+type: site
+cultures: [jewish, roman]
+date:
+  from: -20
+  to: 70
+  circa: true
+  display: c. 20 BCE–70 CE
+scope: >-
+  The Jerusalem temple as rebuilt and its precinct massively enlarged by Herod from c. 20/19
+  BCE until its destruction by Rome in 70 CE. The entry covers the platform, courts, porticoes,
+  and sanctuary as known from Josephus, the Mishnah, and archaeology.
+passages:
+- ref: John 2:20
+  rel: setting
+  note: '''This temple has been under construction for forty-six years'''
+- ref: Mark 11:15-17
+  rel: setting
+  note: Jesus' action against traders in the outer court
+- ref: Mark 13:1-2
+  rel: setting
+  note: Disciples admire the great stones; destruction foretold
+- ref: Luke 1:8-23
+  rel: practice
+  note: Zechariah chosen by lot to offer incense in the sanctuary
+- ref: Acts 3:1-11
+  rel: setting
+  note: The Beautiful Gate and Solomon's Portico
+- ref: John 10:23
+  rel: setting
+  note: Jesus walks in Solomon's Portico at Dedication
+- ref: Acts 21:26-30
+  rel: setting
+  note: Paul seized in the temple; the gates shut
+- ref: Matt 4:5
+  rel: setting
+  note: The 'pinnacle' (pterygion) of the temple
+- ref: Mark 15:38
+  rel: realia
+  note: The curtain of the sanctuary
+related: [temple-mount, temple-warning-inscription, trumpeting-place-inscription, herod-the-great,
+  josephus, arch-of-titus, pool-of-siloam, jerusalem]
+media:
+- id: herods-temple
+  role: primary
+- id: herods-temple-2
+  role: gallery
+external:
+  wikipedia: Second Temple
+  wikidata: Q728428
+  pleiades: '973646718'
+editorial:
+  author_notes:
+  - >-
+    Sources: Josephus (War 5.184-247; Ant. 15.380-425), m. Middot, and archaeology (retaining
+    walls, Robinson's and Wilson's arches, southern steps and Huldah gates, Royal Stoa fragments).
+    Almost nothing of the sanctuary itself survives.
+  - >-
+    Josephus gives conflicting start dates (Herod's 18th year, Ant. 15.380; 15th year, War
+    1.401). Explain the arithmetic behind John 2:20.
+  - >-
+    Coins found under Robinson's Arch show that work on the platform continued well after
+    Herod's death.
+  - Keep a neutral tone on the modern politics of the Temple Mount/Haram al-Sharif.
+  sources_to_check:
+  - 'L. Ritmeyer, The Quest: Revealing the Temple Mount in Jerusalem (2006)'
+  - B. Mazar, The Mountain of the Lord (1975)
+  image_query: Western Wall Herodian masonry
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q728428 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 31.77806
+  lon: 35.23528
+  source: wikidata:Q728428

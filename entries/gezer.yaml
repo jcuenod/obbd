@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: gezer
+title: Gezer
+aliases: [Tel Gezer, Tell el-Jazari, Gazara]
+type: site
+cultures: [canaanite, israelite]
+scope: >-
+  A strategic city at the junction of the Shephelah and the coastal plain on the road to Jerusalem.
+  Covers its Bronze Age city-state, the row of standing stones, its Egyptian connections,
+  the Iron Age gate and the Hellenistic Gazara.
+passages:
+- ref: Josh 10:33
+  rel: setting
+  note: Horam king of Gezer defeated when aiding Lachish
+- ref: Josh 16:10
+  rel: setting
+  note: Canaanites remain in Gezer as forced labour
+- ref: Judg 1:29
+  rel: setting
+  note: Ephraim fails to drive out Gezer's Canaanites
+- ref: Josh 21:21
+  rel: setting
+  note: Gezer as a Levitical city of Ephraim
+- ref: 2Sam 5:25
+  rel: setting
+  note: David strikes the Philistines as far as Gezer
+- ref: 1Kgs 9:15-17
+  rel: attests
+  disputed: true
+  note: Pharaoh captures Gezer as a dowry; Solomon rebuilds it; six-chambered gate
+- ref: 1Macc 13:43-48
+  rel: setting
+  note: Simon captures and purifies Gazara
+related: [gezer-calendar, merneptah-stele, massebot, amarna-letters, low-chronology-debate,
+  diplomatic-marriage, boundary-markers]
+media:
+- id: gezer
+  role: primary
+- id: gezer-2
+  role: gallery
+external:
+  wikipedia: Gezer
+  wikidata: Q1466687
+editorial:
+  author_notes:
+  - >-
+    Macalister's excavations (1902-09) had poor stratigraphic control. Later work by Hebrew
+    Union College (Dever and others) and the Tandy expedition clarified the sequence.
+  - >-
+    The Amarna letters include correspondence from Gezer's rulers, and the Merneptah Stele
+    claims 'Gezer is captured'.
+  - The Middle Bronze 'high place' with ten massebot is a key exhibit for standing stones.
+  - >-
+    The six-chambered gate's Solomonic date and the identity of the pharaoh in 1 Kgs 9:16
+    (often Siamun) are both debated. Give the low chronology view.
+  - >-
+    Hellenistic or Roman rock-cut boundary inscriptions ('boundary of Gezer') confirmed the
+    identification.
+  sources_to_check: [NEAEHL]
+  image_query: Tel Gezer standing stones
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates from Wikidata Q1466687 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 31.85987
+  lon: 34.91964
+  source: wikidata:Q1466687

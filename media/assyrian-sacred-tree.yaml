@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: assyrian-sacred-tree
+file: assyrian-sacred-tree.jpg
+title: >-
+  Ashurnasirpal II performs religious rituals before the sacred tree. From Nimrud, Iraq. 865-860
+  BCE. British Museum.jpg
+caption: >-
+  Ashurnasirpal II, shown twice, before the sacred tree beneath the winged disk, flanked by
+  winged apkallu, throne-room relief from Nimrud, 865–860 BCE (British Museum, London).
+description: >-
+  Ashurnasirpal II performs religious rituals before the sacred tree. He appears twice. Behind
+  him, a human-headed and winged apkallu appears. From the North-West Palace (Throne Room;
+  behind the throne) at Nimrud, Iraq. 865-860 BCE. Gypsum wall relief. British Museum.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Ashurnasirpal_II_performs_religious_rituals_before_the_sacred_tree._From_Nimrud,_Iraq._865-860_BCE._British_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/60/Ashurnasirpal_II_performs_religious_rituals_before_the_sacred_tree._From_Nimrud%2C_Iraq._865-860_BCE._British_Museum.jpg
+  sha1: af541325f708a03b19c38e2704392165359d6c03
+  original_size: [5386, 2841]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×844 px
+size: [1600, 844]
+depicts: [apkallu-reliefs, assyrian-sacred-tree]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

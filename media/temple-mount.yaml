@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: temple-mount
+file: temple-mount.jpg
+title: Jerusalem-2013(2)-Aerial-Temple Mount-(south exposure).jpg
+caption: Aerial view of the Temple Mount (Ḥaram al-Sharif) in Jerusalem from the south.
+description: >-
+  Southern aerial view of the Temple Mount (Hebrew: הַר הַבַּיִת‎, Har HaBáyit, Arabic: الحرم
+  الشريف‎, al-Ḥaram al-Šarīf), showing, Al-Aqsa Mosque (Hebrew: הַר הַבַּיִת‎, Arabic: المسجد
+  الأقصى المبارك‎) in the Old City of Jerusalem (Hebrew: העיר העתיקה‎, Arabic: البلدة القديمة‎).
+  Annotated in the foreground is Al-Aqsa Mosque (Arabic: ٱلْمَسْجِد ٱلْأَقْصَى). Al-Aqsa Mosque
+  is considered to be the third holiest site in Islam after Mecca and Medina. Behind are The
+  Dome of the Rock (Hebrew: כיפת הסלע, Arabic: مسجد قبة الصخرة‎) and to the right, The Dome
+  of the Chain (Arabic: قبة السلسلة, Qubbat al-S
+creator: Godot13
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Godot13, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Jerusalem-2013(2)-Aerial-Temple_Mount-(south_exposure).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/22/Jerusalem-2013%282%29-Aerial-Temple_Mount-%28south_exposure%29.jpg
+  sha1: 15c175c34a52559b28a0f800b9e89b484e868998
+  original_size: [7500, 5632]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1202 px
+size: [1600, 1202]
+depicts: [temple-mount]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

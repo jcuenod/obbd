@@ -1,0 +1,76 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: adoption
+title: Adoption
+type: practice
+cultures: [hebrew, akkadian, hurrian, egyptian, roman]
+scope: >-
+  Adoption and adoption-like legitimation in the Hebrew Bible, the ancient Near Eastern legal
+  evidence for adoption, the royal 'sonship' formulae, and the Greco-Roman background of Paul's
+  metaphor of adoption (huiothesia).
+passages:
+- ref: Gen 15:2-3
+  rel: practice
+  disputed: true
+  note: Eliezer as prospective heir of the childless Abram
+- ref: Gen 48:5-6, 12
+  rel: practice
+  note: Jacob claims Ephraim and Manasseh as his own; removal from his knees
+- ref: Gen 50:23
+  rel: practice
+  disputed: true
+  note: Machir's children born 'on Joseph's knees'
+- ref: Exod 2:10
+  rel: practice
+  note: Moses becomes the son of Pharaoh's daughter
+- ref: Esth 2:7, 15
+  rel: practice
+  note: Mordecai takes the orphaned Esther as his daughter
+- ref: 2Sam 7:14
+  rel: concept
+  note: '''I will be a father to him, and he shall be a son to me'''
+- ref: Ps 2:7
+  rel: concept
+  disputed: true
+  note: '''You are my son; today I have begotten you'' as adoption formula'
+- ref: Gal 4:5
+  rel: concept
+  note: Adoption as children through redemption, in a Roman legal idiom
+- ref: Rom 8:15, 23
+  rel: concept
+  note: Spirit of adoption; adoption as bodily redemption
+related: [code-of-hammurabi, nuzi-texts, king-as-son-of-god, inheritance-and-birthright, surrogacy-and-concubinage,
+  royal-ideology]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The Hebrew Bible has no adoption law and no technical term for it. Whether Israel practised
+    formal adoption is debated; many cases are legitimation within the family (Gen 48) or
+    set in foreign contexts (Egypt, Persia).
+  - >-
+    Cuneiform evidence includes LH §§185-193, many Old Babylonian and Nuzi adoption contracts,
+    and declaratory formulae ('you are my son' / 'you are not my father') used in adoption
+    and disinheritance. These bear on the royal formulae of 2 Sam 7:14 and Ps 2:7.
+  - >-
+    The old view that Gen 15:2-3 reflects Nuzi-style adoption of a slave heir is now widely
+    doubted. Present it as a historical proposal.
+  - >-
+    Pauline huiothesia draws on Greco-Roman adoption (adoptio, adrogatio) rather than Israelite
+    practice.
+  sources_to_check:
+  - Roth, Law Collections from Mesopotamia and Asia Minor (SBLWAW 6, 2nd ed. 1997)
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-1-sol

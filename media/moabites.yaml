@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: moabites
+file: moabites.jpg
+title: Al-Balu' Moabite Stele on display at the Jordan Museum.jpg
+caption: >-
+  The Baluʿa Stele, a basalt relief of a ruler between two deities from Khirbet al-Baluʿa
+  in Moab (Jordan Museum, Amman).
+description: Al-Balu' Moabite Stele on display at the Jordan Museum
+creator: Makeandtoss
+credit_line: Own work
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Makeandtoss. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Al-Balu%27_Moabite_Stele_on_display_at_the_Jordan_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/c/cc/Al-Balu%27_Moabite_Stele_on_display_at_the_Jordan_Museum.jpg
+  sha1: 75da2600f8a0ceffc39bdf5d7f69ba8ba1f12a69
+  original_size: [1536, 2048]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1200×1600 px
+size: [1200, 1600]
+depicts: [moabites]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

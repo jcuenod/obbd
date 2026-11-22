@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: judean-pillar-figurines-2
+file: judean-pillar-figurines-2.jpg
+title: Judaean female figurines - Israel Museum, Jerusalem.jpg
+caption: >-
+  Judean pillar figurines from Jerusalem, Beersheba and Tel Erani, 8th–6th century BCE (Israel
+  Museum, Jerusalem).
+description: Judaean female clay "pillar figurines". Jerusalem, Beer-Sheva, Tel Erani (8th-6th
+  BCE).
+creator: Chamberi
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Chamberi, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Judaean_female_figurines_-_Israel_Museum,_Jerusalem.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/9b/Judaean_female_figurines_-_Israel_Museum%2C_Jerusalem.jpg
+  sha1: 6c7d3eaa6bb04054e42be56a1347ebcaf4f2fe80
+  original_size: [4000, 1700]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×680 px
+size: [1600, 680]
+depicts: [judean-pillar-figurines]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

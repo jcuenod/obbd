@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: canaanites
+file: canaanites.jpg
+title: Enthroned deity MET DP137934.jpg
+caption: >-
+  Canaanite bronze figurine of a seated deity, partly covered in gold foil (Metropolitan Museum
+  of Art, New York).
+description: Canaanite; Sculpture; Metalwork-Sculpture
+creator: null
+credit_line: >-
+  This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum
+  of Art. See the Image and Data Resources Open Access Policy
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Unknown author. CC0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Enthroned_deity_MET_DP137934.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/3/39/Enthroned_deity_MET_DP137934.jpg
+  sha1: 24cee270b69c072057c74b10c9a186dd455c8505
+  original_size: [2680, 3808]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1126×1600 px
+size: [1126, 1600]
+depicts: [canaanites]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

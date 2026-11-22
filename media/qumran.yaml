@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: qumran
+file: qumran.jpg
+title: Qumran caves 1504 (509724995).jpg
+caption: >-
+  Cave 4 at Qumran, cut into the marl terrace, where thousands of scroll fragments were found
+  in 1952.
+description: >-
+  The Scrolls Cave "Bedouins discovered this cave in August 1952. Fourteen thousand fragments
+  of scrolls were unearthed as they sifted through the dust within. Archaeologists, who reached
+  the cave later, uncovered an additional 1,000 fragments. Scholars believe that a Roman soldier
+  who entered the cave in 68 CE tore the scrolls intentionally, and that later, ravages by
+  animals and climate inflicted further damage. As research proceeded, the fragments of these
+  scrolls were pieced together to produce 530 different scrolls. Publication of these scrolls
+  was completed in 2001." from marker Dead Sea
+creator: James Emery from Douglasville, United States
+credit_line: Qumran caves_1504
+license:
+  id: CC-BY-2.0
+  name: CC BY 2.0
+  url: https://creativecommons.org/licenses/by/2.0
+attribution: James Emery from Douglasville, United States, CC BY 2.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Qumran_caves_1504_(509724995).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/0/07/Qumran_caves_1504_%28509724995%29.jpg
+  sha1: a91c1edef5851285ce8f7cae4d33bab79f901b5c
+  original_size: [3264, 2448]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [qumran]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

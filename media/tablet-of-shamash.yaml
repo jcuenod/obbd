@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: tablet-of-shamash
+file: tablet-of-shamash.jpg
+title: Tablet of Shamash.jpg
+caption: >-
+  The Tablet of Shamash from Sippar, showing Nabu-apla-iddina led before the enthroned sun-god,
+  9th century BCE (British Museum).
+description: Photo of the Tablet of Shamash
+creator: Natritmeyer
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Natritmeyer, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tablet_of_Shamash.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/9/90/Tablet_of_Shamash.jpg
+  sha1: d19f8c5a124479389ec0b287406e89558da0434b
+  original_size: [1214, 2048]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 948×1600 px
+size: [948, 1600]
+depicts: [tablet-of-shamash]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

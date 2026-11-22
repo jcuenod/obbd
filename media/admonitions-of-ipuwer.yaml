@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: admonitions-of-ipuwer
+file: admonitions-of-ipuwer.jpg
+title: Papyrus van Ipoewer - Google Art Project.jpg
+caption: >-
+  Papyrus Leiden I 344 recto, the sole copy of the Admonitions of Ipuwer, Nineteenth Dynasty
+  (Rijksmuseum van Oudheden, Leiden).
+description: null
+creator: Unknown – Creator
+credit_line: tAFJ_SPMRYyDLQ at Google Cultural Institute maximum zoom level
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Unknown – Creator. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Papyrus_van_Ipoewer_-_Google_Art_Project.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/c/c8/Papyrus_van_Ipoewer_-_Google_Art_Project.jpg
+  sha1: 45b25d793e9635007820b692b6cbbeb91219ef93
+  original_size: [3229, 2332]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1156 px
+size: [1600, 1156]
+depicts: [admonitions-of-ipuwer]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

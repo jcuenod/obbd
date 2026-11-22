@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: boundary-markers
+file: boundary-markers.jpg
+title: Kudurru - Musée du Louvre Antiquités orientales SB 22.jpg
+caption: >-
+  Kudurru of the Kassite king Meli-Shipak recording a land grant, with divine symbols guarding
+  the boundary, 12th century BCE (Musée du Louvre, Paris, Sb 22).
+description: null
+creator: Shonagon
+credit_line: Own work
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Shonagon. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Kudurru_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_orientales_SB_22.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/2a/Kudurru_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_orientales_SB_22.jpg
+  sha1: ab3fe8bc2346b932ece2f17b935337a523d93d97
+  original_size: [1717, 3460]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 794×1600 px
+size: [794, 1600]
+depicts: [boundary-markers, kudurru]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ashdod
+file: ashdod.jpg
+title: Ashdoda.jpg
+caption: >-
+  The 'Ashdoda', a Philistine terracotta figurine of a seated woman merged with a chair, 12th
+  century BCE, from Tel Ashdod (Israel Museum, Jerusalem).
+description: >-
+  צלמית של אישה שזכתה לכינוי "אשדודה", על שם מקום מציאתה (תל אשדוד), שימשה למטרות פולחן. מוצגת
+  במוזיאון ישראל בירושלים.
+creator: שועל
+credit_line: אני צילמתי
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: שועל, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ashdoda.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/a/a1/Ashdoda.jpg
+  sha1: 0f3c5937137b9bc1868a573198df5846e7b0c066
+  original_size: [2448, 3264]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1200×1600 px
+size: [1200, 1600]
+depicts: [ashdod]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

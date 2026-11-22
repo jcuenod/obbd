@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: first-enoch
+file: first-enoch.png
+title: BL Or 485 f. 102r.png
+caption: Page of a Geʿez (Ethiopic) manuscript of 1 Enoch (British Library, Or. 485, f. 102r).
+description: null
+creator: null
+credit_line: null
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Unknown author. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:BL_Or_485_f._102r.png
+  original_url: https://upload.wikimedia.org/wikipedia/commons/a/a7/BL_Or_485_f._102r.png
+  sha1: 6238a7b8a075d1783165c75cb0bfeddc799636ea
+  original_size: [686, 888]
+  retrieved: '2026-11-20'
+derivative: null
+size: [686, 888]
+depicts: [first-enoch]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: judaea-capta-coins-2
+file: judaea-capta-coins-2.jpg
+title: Vespasien aureus Gallica 22125 revers.jpg
+caption: >-
+  Gold aureus of Vespasian with the reverse legend IVDAEA DEVICTA, Judaea standing beside
+  a palm tree, Rome, c. 80 CE (Bibliothèque nationale de France).
+description: >-
+  Vespasien, aureus. Revers : IVDAEA DEVICTA - La Judée vaincue personnalisée auprès d'un
+  palmier. Or, 6,10 gr. Rome, vers 80 ap.JC. Collection BnF : IMP-9321
+creator: Unknown authorUnknown author
+credit_line: >-
+  This file comes from Gallica Digital Library and is available under the digital ID btv1b104482049
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Unknown authorUnknown author. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Vespasien_aureus_Gallica_22125_revers.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/dd/Vespasien_aureus_Gallica_22125_revers.jpg
+  sha1: 8e101d470ec6947fc51f92ba3ee519f4c4b6eba6
+  original_size: [1919, 1919]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1600 px
+size: [1600, 1600]
+depicts: [judaea-capta-coins]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

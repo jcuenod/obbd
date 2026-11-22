@@ -1,0 +1,69 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: instruction-of-ptahhotep
+title: Instruction of Ptahhotep
+aliases: [Maxims of Ptahhotep, Teaching of Ptahhotep]
+type: text
+cultures: [egyptian]
+date:
+  from: -1950
+  to: -1850
+  circa: true
+  display: c. 1950–1850 BCE
+scope: >-
+  An Egyptian instruction attributed to Ptahhotep, vizier of the Fifth Dynasty king Isesi,
+  but composed in the Middle Kingdom. In 37 maxims a father passes on to his son rules for
+  proper speech, conduct towards superiors, equals, and inferiors, and life in accordance
+  with maat.
+passages:
+- ref: Prov 23:1-3
+  rel: parallel
+  note: 'Dining with a superior: attend to what is set before you'
+- ref: Prov 4:1-9
+  rel: form
+  note: Father's instruction to his son, framed as passed down the generations
+- ref: Prov 7:1-27
+  rel: parallel
+  note: Warning against approaching the women of another man's house (maxim 18)
+- ref: Prov 3:13-15
+  rel: parallel
+  note: Wisdom/good speech more precious than costly stones
+- ref: Eccl 12:1-7
+  rel: parallel
+  note: Portrayal of the decline of old age (Ptahhotep's prologue), typological
+related: [ane-wisdom-literature, instruction-of-amenemope, scribes-and-scribal-education,
+  maat, satire-of-the-trades, eloquent-peasant]
+media:
+- id: instruction-of-ptahhotep
+  role: primary
+external:
+  wikipedia: The Maxims of Ptahhotep
+  wikidata: Q963743
+editorial:
+  author_notes:
+  - >-
+    The attribution to an Old Kingdom vizier is a literary convention. The text is a Middle
+    Kingdom composition, and its fullest copy is Papyrus Prisse (Bibliothèque nationale de
+    France).
+  - >-
+    The comparison with Proverbs concerns genre and topoi (the father-son frame, speech ethics,
+    deference to superiors), not demonstrated dependence. Contrast this with the special case
+    of Amenemope.
+  - >-
+    Explain the place of maat as the ordering principle behind the maxims. This is useful
+    background for the "deed-consequence" debate in Proverbs.
+  sources_to_check: ['AEL 1:61-80', ANET 412-414]
+  image_query: Papyrus Prisse Ptahhotep
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

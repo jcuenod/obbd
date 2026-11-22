@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: judean-pillar-figurines
+title: Judean Pillar Figurines
+aliases: [JPFs]
+type: realia
+cultures: [judahite]
+date:
+  from: -750
+  to: -586
+  circa: true
+  display: c. 750–586 BCE
+scope: >-
+  Small terracotta female figurines with a solid pillar base and hands supporting the breasts,
+  found by the thousand in 8th to early 6th century Judah, especially in Jerusalem households.
+  The entry covers their typology, contexts and the debate over whom or what they represent.
+passages:
+- ref: Jer 7:18
+  rel: practice
+  disputed: true
+  note: Families bake cakes for the Queen of Heaven
+- ref: Jer 44:15-19
+  rel: practice
+  disputed: true
+  note: Women's offerings to the Queen of Heaven, cakes 'in her image'
+- ref: 2Kgs 23:6-7
+  rel: concept
+  disputed: true
+  note: Asherah and women weaving for Asherah in the temple
+- ref: Gen 31:19, 34-35
+  rel: practice
+  disputed: true
+  note: Household images (teraphim) kept by women
+- ref: Deut 4:16
+  rel: polemic
+  disputed: true
+  note: Prohibition of images 'in the likeness of male or female'
+related: [asherah, queen-of-heaven, teraphim, cult-reforms-archaeology, aniconism, amulets,
+  cult-images]
+media:
+- id: asherah
+  role: gallery
+- id: judean-pillar-figurines
+  role: primary
+- id: judean-pillar-figurines-2
+  role: gallery
+external:
+  wikipedia: Judean pillar figure
+  wikidata: Q121289322
+editorial:
+  author_notes:
+  - >-
+    Interpretations include Asherah (Kletter), a generic goddess, votive figures, and healing
+    or apotropaic devices (Darby). Recent work stresses domestic and protective uses rather
+    than 'fertility cult'.
+  - >-
+    The figurines continue up to 586 and were not removed by Josiah's reform. This complicates
+    simple readings of 2 Kgs 23 and of a 'popular religion' versus 'official religion' split.
+  - Most come from fills and refuse, not shrines. Context matters for interpretation.
+  - >-
+    Every biblical link here is inferential. Mark identifications (Asherah, Queen of Heaven,
+    teraphim) as proposals.
+  sources_to_check:
+  - >-
+    Kletter, The Judean Pillar-Figurines and the Archaeology of Asherah (BAR International
+    Series 636, 1996)
+  - Darby, Interpreting Judean Pillar Figurines (2014)
+  - Keel and Uehlinger, Gods, Goddesses, and Images of God in Ancient Israel (1998)
+  image_query: Judean pillar figurine
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

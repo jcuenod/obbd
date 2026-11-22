@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: purple-dye-2
+file: purple-dye-2.jpg
+title: Cuneiform tablet BM62788.jpg
+caption: >-
+  Neo-Babylonian cuneiform tablet from Sippar with instructions for dyeing wool, 600–500 BCE
+  (British Museum).
+description: >-
+  600-500BC cuneiform tablet with instructions for dyeing wool. Found in Sippar, Neo-babylonian
+  period.
+creator: null
+credit_line: Fæ (Own work)
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Unknown author, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cuneiform_tablet_BM62788.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/7/71/Cuneiform_tablet_BM62788.jpg
+  sha1: 080f5d59596dd565e7b96789d324d8df2151f9f6
+  original_size: [1680, 1755]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1532×1600 px
+size: [1532, 1600]
+depicts: [purple-dye]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

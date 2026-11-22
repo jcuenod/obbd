@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: astarte
+file: astarte.jpg
+title: Astarte - 7th cent AD - Museo Arqueológico de Sevilla-2.jpg
+caption: >-
+  Bronze figurine of Astarte, Phoenician, 7th century BCE (Archaeological Museum of Seville).
+description: Astarté. Bronze, 7th century AEC. Archaeological Museum of Seville.
+creator: Ismoon (talk) 21:17, 4 January 2022 (UTC)
+credit_line: >-
+  own work from File:Astarte - 7th cent AD - Museo Arqueológico de Sevilla.jpg with Photoshop
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Ismoon (talk) 21:17, 4 January 2022 (UTC), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Astarte_-_7th_cent_AD_-_Museo_Arqueol%C3%B3gico_de_Sevilla-2.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/d6/Astarte_-_7th_cent_AD_-_Museo_Arqueol%C3%B3gico_de_Sevilla-2.jpg
+  sha1: 0b3eaae25f4cf6ebbda9362e54ba528403f626ed
+  original_size: [1181, 1772]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1066×1600 px
+size: [1066, 1600]
+depicts: [astarte]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

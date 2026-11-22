@@ -1,0 +1,91 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: treatment-of-captives
+title: Treatment of Captives and War Atrocities
+aliases: [War atrocities, Prisoners of war]
+type: practice
+cultures: [assyrian, egyptian, ane]
+scope: >-
+  The treatment of defeated enemies and captives in ancient Near Eastern warfare: mutilation,
+  blinding, impalement, display of bodies, trophy-taking, killing of non-combatants, and enslavement.
+  The entry covers biblical narratives, laws and prophetic oracles alongside Assyrian and
+  Egyptian reliefs and inscriptions.
+passages:
+- ref: Judg 1:6-7
+  rel: practice
+  note: Adoni-bezek's thumbs and big toes cut off
+- ref: Judg 16:21
+  rel: practice
+  note: Samson blinded and set to grind at the mill
+- ref: 1Sam 11:2
+  rel: practice
+  note: Nahash demands to gouge out every right eye
+- ref: 1Sam 18:25-27
+  rel: practice
+  note: Philistine foreskins as trophies; cf. Egyptian counting of hands and phalli
+- ref: 2Sam 8:2
+  rel: practice
+  note: David measures off Moabite captives with a cord, killing two-thirds
+- ref: Josh 10:26
+  rel: practice
+  note: Five kings killed and hung on trees until evening
+- ref: 2Kgs 8:12
+  rel: practice
+  note: Dashing infants, ripping open pregnant women (Hazael)
+- ref: 2Kgs 15:16
+  rel: practice
+  note: Menahem rips open pregnant women at Tiphsah
+- ref: Amos 1:3, 13
+  rel: practice
+  note: Threshing Gilead with iron sledges; ripping open pregnant women
+- ref: 2Kgs 25:7
+  rel: practice
+  note: Zedekiah's sons killed before him; he is blinded and fettered
+- ref: 2Kgs 19:28
+  rel: imagery
+  note: 'Hook in the nose: captive treatment turned against Sennacherib'
+- ref: Isa 20:4
+  rel: practice
+  note: Captives led away naked and barefoot
+- ref: Deut 20:10-14
+  rel: practice
+  note: Terms of surrender; males of resisting towns killed
+- ref: Deut 21:10-14
+  rel: practice
+  note: Captive woman taken as wife
+- ref: Ps 137:9
+  rel: practice
+  note: Dashing little ones against the rock
+related: [lachish-reliefs, medinet-habu-sea-peoples, assyrian-siege-warfare, deportation,
+  crucifixion, herem, smiting-the-enemy-motif, conquest-accounts-and-war-rhetoric]
+media:
+- id: treatment-of-captives
+  role: primary
+- id: treatment-of-captives-2
+  role: gallery
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Assyrian reliefs (impaled Judahites at Lachish) and inscriptions (Ashurnasirpal II's flaying
+    and piles of heads) served as propaganda of terror. Separate rhetoric from routine practice.
+  - >-
+    Egyptian scenes of counting severed hands and phalli (Medinet Habu) illustrate 1 Sam 18:25-27.
+  - On 'ripping open pregnant women' as a stock motif, see M. Cogan, JAOS 103 (1983).
+  - >-
+    Blinding captives for labour (Samson; Zedekiah) is attested in Mesopotamia. Deuteronomy's
+    war laws (Deut 20; 21:10-14) regulate rather than abolish practices.
+  image_query: Lachish relief impalement
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

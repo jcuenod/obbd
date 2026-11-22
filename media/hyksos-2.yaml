@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: hyksos-2
+file: hyksos-2.jpg
+title: >-
+  Painting of foreign delegation in the tomb of Khnumhotep II circa 1900 BCE (Detail mentioning
+  "Abisha the Hyksos" in hieroglyphs).jpg
+caption: >-
+  Abisha, labelled 'ruler of foreign lands' (heqa-khasut, the origin of 'Hyksos'), in the
+  tomb of Khnumhotep II at Beni Hasan, c. 1900 BCE.
+description: >-
+  Painting of foreign delegation in the tomb of Khnumhotep II circa 1900 BCE (detail of "Abisha
+  the Hyksos")
+creator: Macquarie University
+credit_line: >-
+  Benihassan Project Photograph of a 2-Dimentional object which is in the Public Domain, hence
+  PD-Art applies
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Macquarie University. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Painting_of_foreign_delegation_in_the_tomb_of_Khnumhotep_II_circa_1900_BCE_(Detail_mentioning_%22Abisha_the_Hyksos%22_in_hieroglyphs).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/c/cf/Painting_of_foreign_delegation_in_the_tomb_of_Khnumhotep_II_circa_1900_BCE_%28Detail_mentioning_%22Abisha_the_Hyksos%22_in_hieroglyphs%29.jpg
+  sha1: 9cccd75c18d4e06cc56da6db232a5e617c9e939b
+  original_size: [1414, 1574]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1414, 1574]
+depicts: [beni-hasan-asiatics, hyksos]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: sakkut-and-kaiwan
+title: Sakkuth and Kaiwan
+aliases: [Sakkuth, Kaiwan, Kiyyun, Chiun, Rephan]
+type: deity
+cultures: [assyrian, babylonian, israelite]
+scope: >-
+  Sakkuth and Kaiwan, astral deities named in Amos 5:26, generally identified with Mesopotamian
+  SAG.KUD (an epithet of Ninurta) and kayyamānu, the planet Saturn. The entry covers the identifications,
+  the textual tradition (MT, LXX, Acts, CD) and the date of the verse.
+passages:
+- ref: Amos 5:26
+  rel: language
+  note: '''Sakkuth your king and Kaiwan your star-god'', vocalized after šiqqûṣ'
+- ref: Amos 5:25-27
+  rel: polemic
+  note: Images carried into exile 'beyond Damascus'
+- ref: Acts 7:42-43
+  rel: language
+  note: 'Stephen quotes LXX: ''tent of Moloch and the star of Rephan'''
+related: [host-of-heaven, astrology, constellations, gods-of-2-kings-17, septuagint, dead-sea-scrolls]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The MT vowels follow šiqqûṣ ("abomination"); the reconstructed forms Sakkut and Kaiwan
+    are widely accepted.
+  - >-
+    Many scholars take v. 26 as a post-722 addition reflecting Assyrian-period cults (cf.
+    2 Kgs 17:30); others defend it as Amos's own.
+  - >-
+    LXX "Rephan" arises from a misreading of k as r; the Damascus Document (CD VII 14-21)
+    reinterprets the verse as the "booth of the king" and the books of the Torah.
+  sources_to_check: ['S. M. Paul, Amos (Hermeneia, 1991)', 'DDD, s.v. "Sakkuth"; "Kaiwan"']
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

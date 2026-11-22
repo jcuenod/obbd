@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: kudurru
+file: kudurru.jpg
+title: Kudurru Melishipak Louvre Sb23.jpg
+caption: >-
+  Kudurru of the Kassite king Melishipak (1186–1172 BCE): the king presents his daughter to
+  the goddess Nanaya beneath divine symbols (Musée du Louvre, Sb 23).
+description: >-
+  Kudurru (stele) of King Melishipak I (1186–1172 BC): the king presents his daughter to the
+  goddess Nannaya. The crescent moon represents the god Sin, the sun the Shamash and the star
+  the goddess Ishtar. Kassite period, taken to Susa in the 12th century BC as war booty.
+creator: Unknown artistUnknown artist
+credit_line: Jastrow (2005)
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Unknown artistUnknown artist. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Kudurru_Melishipak_Louvre_Sb23.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/e/eb/Kudurru_Melishipak_Louvre_Sb23.jpg
+  sha1: 88287007dc3f7479e8dc4dc799a60a7945633962
+  original_size: [1227, 1488]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1227, 1488]
+depicts: [kudurru]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

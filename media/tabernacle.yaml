@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: tabernacle
+file: tabernacle.jpg
+title: Stiftshuette Modell Timnapark.jpg
+caption: >-
+  Modern full-scale model of the tabernacle and its courtyard in Timna Park, Israel (a reconstruction
+  based on Exodus).
+description: Model of the tabernacle, Israel, Timna Park
+creator: Ruk7
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Ruk7, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Stiftshuette_Modell_Timnapark.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/1/18/Stiftshuette_Modell_Timnapark.jpg
+  sha1: c94034a7d49ecc7172736fb3bb30bb6fba8fdf90
+  original_size: [800, 533]
+  retrieved: '2026-11-20'
+derivative: null
+size: [800, 533]
+depicts: [tabernacle]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

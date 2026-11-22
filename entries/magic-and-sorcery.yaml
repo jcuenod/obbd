@@ -1,0 +1,94 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: magic-and-sorcery
+title: Magic, Sorcery, and Incantation
+aliases: [magic, sorcery, incantation, witchcraft, kĕšāpîm]
+type: practice
+cultures: [ane, mesopotamian, egyptian, hebrew]
+scope: >-
+  A hub entry on ritual means of protecting, healing or harming by spells, objects and rites:
+  Mesopotamian āšipūtu, Egyptian heka, Hittite ritual, the Hebrew vocabulary of sorcery and
+  charming, healing and wonder-working accepted in biblical texts, and magic in the New Testament
+  world. Witchcraft rituals (Maqlû), divination and the Egyptian loanword ḥarṭom have their
+  own entries.
+passages:
+- ref: Exod 7:11, 22; 8:7, 18-19
+  rel: practice
+  note: Egypt's ḥarṭummîm imitate Aaron's signs by 'secret arts' until they fail (MT 8:3,
+    14-15)
+- ref: Exod 22:18
+  rel: practice
+  note: '''You shall not permit a female sorcerer to live'' (MT 22:17)'
+- ref: Deut 18:10-12
+  rel: practice
+  note: Sorcerer (mĕkaššēp) and charmer (ḥōbēr ḥeber) among forbidden practitioners
+- ref: Isa 47:9-13
+  rel: polemic
+  note: Babylon's many sorceries and enchantments cannot save her
+- ref: Ezek 13:17-23
+  rel: practice
+  disputed: true
+  note: Women sew bands and veils to 'hunt lives'
+- ref: Num 5:11-31
+  rel: practice
+  note: Written curses washed into water and drunk by the suspected wife
+- ref: Ps 58:4-5
+  rel: practice
+  note: 'Snake-charming: the deaf adder that will not hear the charmer (MT 58:5-6)'
+- ref: 2Kgs 2:19-22; 4:38-41; 6:1-7
+  rel: practice
+  disputed: true
+  note: Elisha's wonders using salt, flour and a stick; classification as 'magic' debated
+- ref: Acts 8:9-24
+  rel: practice
+  note: Simon 'practised magic' in Samaria and tries to buy the Spirit
+- ref: Acts 19:13-20
+  rel: practice
+  note: >-
+    Exorcists use Jesus' name; magic books worth fifty thousand silver coins burned at Ephesus
+related: [maqlu, shurpu, divination, demons, amulets, egyptian-loanwords, medicine-and-healing,
+  necromancy]
+media:
+- id: magic-and-sorcery
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    'Magic' is a modern etic category. Avoid the old magic-versus-religion dichotomy (Frazer).
+    In Mesopotamia the exorcist's craft (āšipūtu) was legitimate temple scholarship, and only
+    harmful sorcery (kišpū) was condemned. In Egypt heka was a divine power used by priests,
+    especially the lector priest.
+  - >-
+    Biblical texts reject practices mainly by agent and source (Deut 18) and approve comparable
+    acts by prophets (Elisha; the bronze serpent, Num 21:8-9). Explain this logic instead
+    of labelling Israelite religion as anti-magical.
+  - >-
+    Several Hebrew terms (kšp, ḥbr, lḥš, ʿnn, lāṭ/lahaṭ 'secret arts') have uncertain exact
+    meanings. Give cautious glosses. The obscure kĕsātôt and mispāḥôt of Ezek 13:18 are debated.
+  - >-
+    The KJV rendering 'witch' in Exod 22:18 and its role in early modern witch trials is reception
+    history. Do not let it shape the description of the ancient practice.
+  - >-
+    Include material evidence: the Ketef Hinnom amulets, Egyptian amulets and apotropaic wands,
+    Mesopotamian figurines and incantation texts, and later Aramaic incantation bowls (as
+    reception only).
+  sources_to_check:
+  - A. Jeffers, Magic and Divination in Ancient Palestine and Syria (SHANE 8, 1996)
+  - R. Schmitt, Magie im Alten Testament (AOAT 313, 2004)
+  - R. K. Ritner, The Mechanics of Ancient Egyptian Magical Practice (SAOC 54, 1993)
+  - D. Schwemer, Abwehrzauber und Behexung (2007)
+  image_query: Egyptian apotropaic wand
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-1-sol

@@ -1,0 +1,39 @@
+# Replacements for five GFDL-only images (2026-11-21). GFDL requires the full license
+# text to accompany every copy, which is impractical for the site, so GFDL-only files are
+# no longer accepted (tools/obbd/media.py REJECTED_LICENSES; validate.FREE_LICENSES).
+# Media ids are unchanged, so the entries' media lists did not need editing.
+#
+# Replaced:
+#   khnum                         File:Egyptian sculpture IMG 0573.JPG (GFDL 1.2)
+#   samaria-ivories               File:Samuel and Saidye Bronfman Archaeology WingDSCN5098.JPG (GFDL)
+#   ziggurat-2                    File:Choqa Zanbil Darafsh 1 (36).JPG (GFDL)
+#   temple-warning-inscription-2  File:Samuel and Saidye Bronfman Archaeology WingDSCN5007.JPG (GFDL)
+#   uzziah-epitaph                File:Samuel and Saidye Bronfman Archaeology WingDSCN5101.JPG (GFDL): removed, no replacement
+
+khnum:
+  - file: "File:Ram-headed figure of the god Khnum MET LC-30 8 256 EGDP026635.jpg"
+    caption: "Seated ram-headed figure of the god Khnum, faience with a copper-alloy headdress, Dynasty 26, 664–525 BCE (Metropolitan Museum of Art, New York, 30.8.256)."
+    role: gallery
+
+samaria-ivories:
+  # Same plaque as the GFDL photo it replaces, sharper.
+  - file: "File:Furniture Inlay, 9th-8th Century BC (29347044728).jpg"
+    caption: "Ivory furniture inlay showing the goddesses Isis and Nephthys, from Samaria, 9th–8th century BCE (Israel Museum, Jerusalem)."
+    role: primary
+
+ziggurat:
+  - file: "File:Choqa Zanbil 2.jpg"
+    caption: "The Elamite ziggurat of Chogha Zanbil (Dur-Untash), Iran, 13th century BCE."
+    role: gallery
+
+temple-warning-inscription:
+  - file: "File:Jerusalem Temple Warning Inscription fragment.jpg"
+    caption: "Fragment of a second copy of the Temple Warning Inscription (Israel Museum, Jerusalem)."
+    role: gallery
+
+uzziah-epitaph: []
+  # reason: the only free photo on Commons (File:Tsioon Uzia.JPG, PD) is blurry and its
+  # uploader thought it might show a plaster cast; File:The Uzziah inscription (4102981317).jpg
+  # is a scan from Burrows, What Mean These Stones? (1941), so its CC BY tag is not the
+  # scanner's to give. Best route: ask yoav dothan (Commons) to add CC BY-SA 4.0 to
+  # File:Samuel and Saidye Bronfman Archaeology WingDSCN5101.JPG, or upload an own photo.

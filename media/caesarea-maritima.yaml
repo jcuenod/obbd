@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: caesarea-maritima
+file: caesarea-maritima.jpg
+title: Cesarea harbor from above נמל קיסריה במבט על.jpg
+caption: Aerial view of the harbour area of Caesarea Maritima.
+description: >-
+  This is a photo of a place that is recognized as a heritage site by the Council for Conservation
+  of Heritage Sites in Israel.The site's ID in Wiki Loves Monuments photographic competition
+  is
+creator: Ron Gafni - SkyPics
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Ron Gafni - SkyPics, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Cesarea_harbor_from_above_%D7%A0%D7%9E%D7%9C_%D7%A7%D7%99%D7%A1%D7%A8%D7%99%D7%94_%D7%91%D7%9E%D7%91%D7%98_%D7%A2%D7%9C.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/26/Cesarea_harbor_from_above_%D7%A0%D7%9E%D7%9C_%D7%A7%D7%99%D7%A1%D7%A8%D7%99%D7%94_%D7%91%D7%9E%D7%91%D7%98_%D7%A2%D7%9C.jpg
+  sha1: 9f461adc21ef4a903254e7a50b18ab18b9c44c9e
+  original_size: [1500, 1000]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1500, 1000]
+depicts: [caesarea-maritima]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

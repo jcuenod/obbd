@@ -1,0 +1,75 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: imperial-cult
+title: Roman Imperial Cult
+type: practice
+cultures: [roman, greek]
+scope: >-
+  Worship and honours for Roman emperors, living and deified, and for Roma, organized at provincial,
+  civic, and private levels, especially in the Greek East. The entry covers its institutions
+  and monuments and its bearing on Revelation, Acts, and Paul.
+passages:
+- ref: Rev 13:4-18
+  rel: polemic
+  note: Worship of the beast and its image; the mark required for commerce
+- ref: Rev 14:9-11
+  rel: polemic
+  note: Warning against worshipping the beast and its image
+- ref: Rev 2:13
+  rel: setting
+  note: Pergamum, 'where Satan's throne is'
+- ref: Acts 12:21-23
+  rel: event
+  note: Agrippa I hailed as a god and struck down (cf. Ant. 19.343-350)
+- ref: Acts 17:7
+  rel: concept
+  note: Acting against Caesar's decrees by proclaiming another king
+- ref: Mark 12:13-17
+  rel: practice
+  note: Coin bearing Caesar's image and inscription
+- ref: Phil 2:9-11
+  rel: concept
+  disputed: true
+  note: Universal acclamation of Jesus as Lord, with possible counter-imperial resonance
+- ref: 1Pet 2:13-17
+  rel: concept
+  note: Honour the emperor, but fear God
+related: [priene-calendar-inscription, res-gestae, pergamon, temple-of-artemis-ephesus, caesarea-maritima,
+  judaea-capta-coins, king-as-son-of-god]
+media:
+- id: imperial-cult
+  role: primary
+- id: imperial-cult-2
+  role: gallery
+external:
+  wikipedia: Roman imperial cult
+  wikidata: Q1235185
+editorial:
+  author_notes:
+  - >-
+    Distinguish provincial cults (Pergamon 29 BCE; Smyrna under Tiberius; Ephesus Flavian
+    temple of the Sebastoi), civic cults, and private devotion, and divus for deceased emperors
+    versus honours for living ones.
+  - >-
+    Jews were exempt from emperor worship. Sacrifices for (not to) the emperor were offered
+    in the Jerusalem temple until 66 (War 2.197, 409).
+  - >-
+    Systematic persecution under Domitian is now largely doubted. Revelation's critique works
+    within everyday participation in imperial cult (Friesen).
+  sources_to_check:
+  - 'S. R. F. Price, Rituals and Power: The Roman Imperial Cult in Asia Minor (1984)'
+  - S. J. Friesen, Imperial Cults and the Apocalypse of John (2001)
+  image_query: Sebasteion Aphrodisias relief
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

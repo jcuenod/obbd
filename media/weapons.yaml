@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: weapons
+file: weapons.jpg
+title: Khopesh.jpg
+caption: >-
+  Bronze sickle sword (khopesh) with electrum inlays from Shechem, c. 1750 BCE (State Museum
+  of Egyptian Art, Munich).
+description: >-
+  Sickle sword (Khopesh) from Sichem (Nablus); inserts made of electrum, around 1750 BC, state.
+  Museum of Egyptian Art, Munich.
+creator: Dbachmann
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: http://creativecommons.org/licenses/by-sa/3.0/
+attribution: Dbachmann, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Khopesh.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/3/38/Khopesh.jpg
+  sha1: 69d15025750b4bb7dfbde807de4982acb610de1d
+  original_size: [2235, 687]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×492 px
+size: [1600, 492]
+depicts: [weapons]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

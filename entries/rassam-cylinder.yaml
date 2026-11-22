@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: rassam-cylinder
+title: Annals of Ashurbanipal (Rassam Cylinder and Prism C)
+aliases: [Ashurbanipal Prism A]
+type: artifact
+cultures: [assyrian]
+date:
+  from: -643
+  to: -643
+  circa: true
+  display: c. 643 BCE
+scope: >-
+  The ten-sided clay prism of Ashurbanipal found by Hormuzd Rassam at Nineveh in 1878, the
+  fullest edition of his annals, together with the related prism editions of his reign. It
+  narrates the Egyptian campaigns including the sack of Thebes (664/663), the revolt of Shamash-shum-ukin,
+  the destruction of Susa, and the wars against the Arabs.
+passages:
+- ref: Nah 3:8-10
+  rel: event
+  note: The fall of Thebes (No-amon) as a warning to Nineveh
+- ref: Ezra 4:9-10
+  rel: event
+  note: Men of Susa and Elam deported by 'the great and noble Osnappar'
+- ref: 2Kgs 21:1
+  rel: attests
+  note: Manasseh among the western kings aiding the first Egyptian campaign (Prism C)
+- ref: 2Chr 33:11
+  rel: setting
+  disputed: true
+  note: Manasseh brought to Babylon; sometimes linked to the Shamash-shum-ukin revolt
+- ref: Jer 49:28-33
+  rel: setting
+  note: Kedar and the Arabs as targets of Mesopotamian campaigns
+related: [ashurbanipal, nineveh, thebes, susa, manasseh, qedarites-and-arabs, library-of-ashurbanipal,
+  royal-annals-and-historiography]
+location:
+  institution: British Museum, London
+  accession: null
+media:
+- id: rassam-cylinder
+  role: primary
+external:
+  wikipedia: Rassam cylinder
+  wikidata: Q1874834
+editorial:
+  author_notes:
+  - >-
+    Distinguish this object from Sennacherib's Rassam Cylinder (700 BCE), also named after
+    Rassam, which contains the earliest account of the 701 campaign.
+  - >-
+    The list of 22 kings with Manasseh appears in Prism C (and related editions), not in the
+    Rassam Cylinder itself; the entry should explain the edition history of Ashurbanipal's
+    annals.
+  - >-
+    The identification of Osnappar (Ezra 4:10) with Ashurbanipal is the consensus view, supported
+    by the deportations from Susa and Elam after 647/646.
+  - >-
+    Ashurbanipal's annals revise earlier events to suit later circumstances; use the editions
+    comparatively.
+  sources_to_check:
+  - RINAP 5/1 (Novotny and Jeffers 2018)
+  - Borger, Beiträge zum Inschriftenwerk Assurbanipals (1996)
+  image_query: Rassam Cylinder Ashurbanipal British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

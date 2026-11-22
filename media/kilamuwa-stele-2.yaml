@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: kilamuwa-stele-2
+file: kilamuwa-stele-2.jpg
+title: Kilamuwa Stele sketch.jpg
+caption: Drawing of the Kilamuwa stele and inscription from Ausgrabungen in Sendschirli, vol.
+  4.
+description: Sam'al inscriptions from Ausgrabungen in Sendschirli, volume 4
+creator: Felix von Luschan et al
+credit_line: >-
+  Volume 1: Felix von Luschan et al, Ausgrabungen in Sendschirli: Einleitung und Inschriften,
+  Spemann, 1893 Volume 2: Felix von Luschan and Carl Humann and Robert Koldewey, Ausgrabungen
+  in Sendschirli: Ausgrabungsbericht und Architektur, Spemann, 1898 Volume 3: Felix von Luschan,
+  Ausgrabungen in Sendschirli: Thorsculpturen, Georg Reimer, 1902 Volume 4: Felix von Luschan
+  and Gustav Jacoby, Ausgrabungen in Sendschirli, Georg Reimer, 1911
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Felix von Luschan et al. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Kilamuwa_Stele_sketch.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/9/94/Kilamuwa_Stele_sketch.jpg
+  sha1: 3069a44aff61e89ad12bc4cc7a98f1b73630eb6a
+  original_size: [8934, 6892]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1234 px
+size: [1600, 1234]
+depicts: [kilamuwa-stele]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

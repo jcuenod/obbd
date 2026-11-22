@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: new-moon
+title: New Moon Festival
+aliases: [ḥōdeš, Rosh Chodesh]
+type: practice
+cultures: [hebrew, babylonian, ugaritic]
+scope: >-
+  The new-moon day (ḥōdeš) as a cultic and social occasion in Israel, with its offerings,
+  trumpet blasts, feasts, and cessation of trade, and its background in lunar festivals of
+  Mesopotamia and Ugarit.
+passages:
+- ref: 1Sam 20:5, 18, 24-27
+  rel: practice
+  note: New-moon royal meal over two days; David's absence noticed
+- ref: 2Kgs 4:23
+  rel: practice
+  note: 'Neither new moon nor sabbath: occasions for visiting a man of God'
+- ref: Amos 8:5
+  rel: practice
+  note: Grain sales suspended until the new moon is over
+- ref: Hos 2:11
+  rel: practice
+  note: New moons among the festivals YHWH will end; MT 2:13
+- ref: Isa 1:13-14
+  rel: practice
+  note: New moons and appointed feasts rejected without justice
+- ref: Isa 66:23
+  rel: concept
+  note: All flesh to worship 'from new moon to new moon'
+- ref: Num 10:10
+  rel: practice
+  note: Trumpets blown at the beginnings of months
+- ref: Num 28:11-15
+  rel: practice
+  note: New-moon burnt offerings and sin offering
+- ref: Ps 81:3
+  rel: practice
+  note: Shofar at the new moon and at the full moon (keseh); MT 81:4
+- ref: Ezek 46:1, 3, 6-7
+  rel: practice
+  note: Inner gate opened on sabbath and new moon; prince's offerings
+- ref: Col 2:16
+  rel: practice
+  note: New moons and sabbaths in early Christian debate
+related: [calendars-and-month-names, sabbath, sin-moon-god, hemerologies, festivals-agricultural,
+  ugaritic-texts]
+media: []
+external:
+  wikipedia: Rosh Chodesh
+  wikidata: Q913852
+editorial:
+  author_notes:
+  - >-
+    Mesopotamian lunar festivals (the eššēšu festivals on fixed days of the month in Ur III
+    and Old Babylonian sources) and Ugaritic ritual texts prescribing offerings at the new
+    moon provide the comparative frame.
+  - >-
+    The consistent pairing of new moon and sabbath in pre-exilic texts is central to the debate
+    over the origin of the Sabbath (see sabbath). Cross-reference it rather than repeating
+    it.
+  - >-
+    Ps 81:3 keseh ("full moon"; cf. Prov 7:20) has cognates in Phoenician and Syriac (verify).
+    It is useful evidence for full-moon observance alongside the new moon.
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: bull-site-figurine
+file: bull-site-figurine.jpg
+title: Bull statuette-Israel Museum.jpg
+caption: >-
+  The bronze zebu bull figurine from the Bull Site (Dhahrat et-Tawileh), Iron Age I, 12th
+  century BCE, length 17.5 cm (Israel Museum, Jerusalem).
+description: >-
+  Bull statuette, Samaria region, Iron Age I, 12th century BCE, Bronze, H: 12.5; L: 17.5 cm
+creator: Yair Haklai
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Yair Haklai, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Bull_statuette-Israel_Museum.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/b/b7/Bull_statuette-Israel_Museum.jpg
+  sha1: f6c57b0be97b388ea27c1dd58e7d6fc9af54cca4
+  original_size: [2093, 2322]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1442×1600 px
+size: [1442, 1600]
+depicts: [bull-site-figurine]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

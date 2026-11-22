@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: maat
+title: Maat
+aliases: [Ma'at]
+type: concept
+cultures: [egyptian]
+scope: >-
+  The Egyptian concept of right order (truth, justice, and cosmic and social harmony), personified
+  as a goddess with an ostrich feather. The king was charged to "do maat". The entry covers
+  maat as the foundation of kingship, ethics, and the judgment of the dead, and its proposed
+  relevance to biblical ideas of righteousness and to Lady Wisdom.
+passages:
+- ref: Ps 89:14
+  rel: imagery
+  note: Righteousness and justice the foundation of the divine throne; MT 89:15
+- ref: Ps 97:2
+  rel: imagery
+  note: Righteousness and justice the foundation of YHWH's throne
+- ref: Prov 16:12
+  rel: concept
+  note: A throne is established by righteousness
+- ref: Isa 9:7
+  rel: concept
+  note: Davidic throne upheld with justice and righteousness; MT 9:6
+- ref: Prov 8:22-31
+  rel: concept
+  disputed: true
+  note: Personified Wisdom before creation, delighting before God; cf. Maat
+- ref: Prov 3:16
+  rel: imagery
+  disputed: true
+  note: Wisdom holding life and riches in her hands; cf. Maat iconography
+related: [egyptian-kingship, royal-ideology, book-of-the-dead, ane-wisdom-literature, eloquent-peasant,
+  instruction-of-ptahhotep]
+media:
+- id: maat
+  role: primary
+- id: maat-2
+  role: gallery
+external:
+  wikipedia: Maat
+  wikidata: Q170471
+editorial:
+  author_notes:
+  - >-
+    Brunner's proposal that "righteousness and justice are the foundation of your throne"
+    reflects Egyptian throne iconography (the throne base shaped like the maat sign) is widely
+    cited and plausible.
+  - >-
+    Kayatz's thesis that Lady Wisdom in Prov 1-9 is modelled partly on Maat is influential
+    but contested. Alternatives include Isis aretalogies, a Canaanite goddess, or inner-Israelite
+    development.
+  - >-
+    H. H. Schmid's view of ṣedeq/ṣĕdāqâ as "world order" analogous to maat shaped a generation
+    of scholarship and has since been criticised. Present it as part of the history of research.
+  sources_to_check:
+  - Assmann, Ma'at. Gerechtigkeit und Unsterblichkeit im Alten Ägypten (1990)
+  - Kayatz, Studien zu Proverbien 1-9 (1966)
+  - Brunner, 'Gerechtigkeit als Fundament des Thrones', VT 8 (1958)
+  image_query: Maat goddess relief feather
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

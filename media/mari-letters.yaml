@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: mari-letters
+file: mari-letters.jpg
+title: Tablette de Zimrî-Lîm, roi de Mari - Louvre - AO20161.JPG
+caption: >-
+  Tablet of Zimri-Lim, king of Mari, concerning the founding of an ice-house at Terqa, baked
+  clay, c. 1780 BCE (Musée du Louvre, AO 20161).
+description: null
+creator: M0tty
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: M0tty, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Tablette_de_Zimr%C3%AE-L%C3%AEm,_roi_de_Mari_-_Louvre_-_AO20161.JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/b6/Tablette_de_Zimr%C3%AE-L%C3%AEm%2C_roi_de_Mari_-_Louvre_-_AO20161.JPG
+  sha1: af4a1e34deb761fa64073d77d736de1795d2cd44
+  original_size: [3648, 2432]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [mari-letters]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

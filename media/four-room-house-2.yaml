@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: four-room-house-2
+file: four-room-house-2.jpg
+title: Four room house. Israel Museum, Jerusalem.JPG
+caption: >-
+  Cutaway reconstruction drawing of a four-room house displayed at the Israel Museum, Jerusalem.
+description: Four room house. Israel Museum, Jerusalem
+creator: Chamberi
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Chamberi, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Four_room_house._Israel_Museum,_Jerusalem.JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/c/c5/Four_room_house._Israel_Museum%2C_Jerusalem.JPG
+  sha1: e344f56824ab99084bb48b73e9300defa7f4e6a3
+  original_size: [4000, 3000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [four-room-house]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

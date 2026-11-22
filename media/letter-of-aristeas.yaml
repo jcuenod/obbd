@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: letter-of-aristeas
+file: letter-of-aristeas.jpg
+title: Letter of Aristeas (Vat. gr. 747 f. 1r).jpg
+caption: >-
+  Opening of the Greek text of the Letter of Aristeas in Vat. gr. 747, f. 1r (Biblioteca Apostolica
+  Vaticana).
+description: Beginning of the Letter of Aristeas. Biblioteca Apostolica Vaticana, Vat. gr.
+  747, f. 1r
+creator: Unknown authorUnknown author
+credit_line: Biblioteca Apostolica Vaticana Vat. gr. 747
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Unknown authorUnknown author. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Letter_of_Aristeas_(Vat._gr._747_f._1r).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/0/04/Letter_of_Aristeas_%28Vat._gr._747_f._1r%29.jpg
+  sha1: 3091da6b4569274ae07145589e21cf081b77b88f
+  original_size: [869, 249]
+  retrieved: '2026-11-20'
+derivative: null
+size: [869, 249]
+depicts: [letter-of-aristeas]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

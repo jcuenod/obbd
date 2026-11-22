@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: scribes-and-scribal-education
+file: scribes-and-scribal-education.jpg
+title: Egyptian - Scribe Statue of Min-nakht - Walters 22230 - Three Quarter.jpg
+caption: >-
+  Scribe statue of Min-nakht reading a papyrus on his lap, early New Kingdom (Walters Art
+  Museum, Baltimore).
+description: >-
+  Min-nakht is reading the papyrus on his lap. One of the first New Kingdom sculptures of
+  this type, Min-nakht's statue was inspired by early Middle Kingdom style, including his
+  large, prominent ears and his wig. The inscription on the papyrus records Min-nakht's name
+  and his title, royal scribe. On the base is an offering text.
+creator: Anonymous (Egypt)Unknown author
+credit_line: 'Walters Art Museum: Home page Info about artwork'
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Anonymous (Egypt)Unknown author. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Egyptian_-_Scribe_Statue_of_Min-nakht_-_Walters_22230_-_Three_Quarter.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/8/8b/Egyptian_-_Scribe_Statue_of_Min-nakht_-_Walters_22230_-_Three_Quarter.jpg
+  sha1: 4acf625581ecaafae7e56df4dd028adae36166e8
+  original_size: [768, 1108]
+  retrieved: '2026-11-20'
+derivative: null
+size: [768, 1108]
+depicts: [scribes-and-scribal-education]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,68 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: dialogue-of-pessimism
+title: Dialogue of Pessimism
+aliases:
+- Dialogue between a Master and His Slave
+- Pessimistic Dialogue between Master and Servant
+type: text
+cultures: [babylonian, assyrian]
+date:
+  from: -1000
+  to: -700
+  circa: true
+  display: c. 1000–700 BCE
+scope: >-
+  A short Akkadian dialogue in which a master proposes a series of undertakings (dining, hunting,
+  love, sacrifice, lending, public benefaction) and his slave argues equally well for and
+  against each, ending with the question of what is truly good. It is often compared with
+  Qoheleth.
+passages:
+- ref: Eccl 2:1-11
+  rel: parallel
+  note: Testing pleasures and projects, each found empty
+- ref: Eccl 1:2-3
+  rel: concept
+  note: Futility of human undertakings
+- ref: Eccl 2:14-16
+  rel: concept
+  note: Same fate for wise and fool; skulls in the ruin-mounds cannot be told apart
+- ref: Prov 30:4
+  rel: parallel
+  note: '''Who has ascended to heaven?'' as a proverb of human limits'
+- ref: Deut 30:12-13
+  rel: parallel
+  disputed: true
+  note: Who will go up to heaven or cross the sea? (proverbial phrasing)
+related: [ludlul-bel-nemeqi, babylonian-theodicy, ane-wisdom-literature, harpers-songs, dialogue-of-a-man-with-his-ba]
+media: []
+external:
+  wikipedia: Dialogue of Pessimism
+  wikidata: Q5270614
+editorial:
+  author_notes:
+  - >-
+    Genre and tone are debated: satire or parody of courtly advice (Speiser saw comedy), serious
+    pessimism, or a scribal exercise in arguing both sides. The ending (the master proposes
+    to kill the slave, who retorts the master would not outlive him three days) is ambiguous.
+  - >-
+    Qoheleth parallels are thematic (the vanity of pursuits); Qoheleth reaches an ethic of
+    enjoyment (Eccl 9:7-9, cf. Siduri) that the Dialogue lacks. Avoid claims of dependence.
+  - >-
+    Known from first-millennium copies (Assur, Nineveh, Sippar); date of composition uncertain.
+  sources_to_check:
+  - W. G. Lambert, Babylonian Wisdom Literature (1960)
+  - ANET 437-438
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

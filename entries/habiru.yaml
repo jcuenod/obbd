@@ -1,0 +1,102 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: habiru
+title: Habiru (ʿApiru)
+aliases: [ʿApiru, Ḫabiru, SA.GAZ]
+type: people
+cultures: [ane]
+date:
+  from: -1800
+  to: -1100
+  circa: true
+  display: c. 1800–1100 BCE
+scope: >-
+  The ḫabiru/ʿapiru of second-millennium texts from Mesopotamia to Egypt, socially marginal
+  people outside the normal political order, and the long-debated question of their relation
+  to the biblical 'Hebrews' (ʿibrîm).
+passages:
+- ref: Gen 14:13
+  rel: language
+  disputed: true
+  note: '''Abram the Hebrew'''
+- ref: Gen 39:14, 17
+  rel: language
+  disputed: true
+  note: '''A Hebrew'' as a label used by Egyptians'
+- ref: Exod 1:15-19
+  rel: language
+  disputed: true
+  note: The Hebrew midwives
+- ref: Exod 21:2
+  rel: practice
+  disputed: true
+  note: Law of the Hebrew slave; cf. ḫabiru service contracts at Nuzi
+- ref: Deut 15:12
+  rel: practice
+  disputed: true
+  note: Release of a Hebrew man or woman sold into service
+- ref: 1Sam 13:3, 7, 19
+  rel: language
+  disputed: true
+  note: '''Hebrews'' partly distinct from ''Israel'' (13:7); a Philistine label (13:19)'
+- ref: 1Sam 14:21
+  rel: language
+  disputed: true
+  note: Hebrews who had been with the Philistines go over to Israel
+- ref: 1Sam 29:3
+  rel: language
+  disputed: true
+  note: '''What are these Hebrews doing here?'''
+- ref: Jer 34:9, 14
+  rel: practice
+  disputed: true
+  note: Release of Hebrew slaves
+related: [amarna-letters, nuzi-texts, emergence-of-israel, slavery, debt-release, shasu, shechem]
+media:
+- id: amarna-letters
+  role: primary
+- id: habiru
+  role: gallery
+external:
+  wikipedia: ʿApiru
+  wikidata: Q618656
+editorial:
+  author_notes:
+  - >-
+    Ḫabiru/ʿApiru (logogram SA.GAZ) are attested c. 1800-1100 BCE across the Near East as
+    uprooted people, mercenaries, bandits and contract labourers. The term is social, not
+    ethnic.
+  - >-
+    A linguistic connection with ʿibrî is possible but disputed (ʿ-p-r vs. ʿ-b-r). Most scholars
+    reject a simple Habiru = Hebrews equation while allowing some historical or semantic relation.
+  - >-
+    In the Amarna letters rulers accuse rivals (e.g. Labayu of Shechem) of siding with the
+    ʿApiru. Seti I's Beth-shean stele mentions ʿApiru.
+  - >-
+    In the Hebrew Bible, 'Hebrew' is used mostly by or to outsiders and in slave laws, which
+    some see as a trace of the social sense.
+  sources_to_check:
+  - Moran, The Amarna Letters (1992)
+  - >-
+    Na'aman, "Ḫabiru and Hebrews - The Transfer of a Social Term to the Literary Sphere,"
+    JNES 45 (1986)
+  image_query: Amarna letter Abdi-Heba
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: 1Sam 13:3, 19 -> 13:3, 7, 19; note fixed (13:3
+    is Saul's usage, not Philistine)
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,85 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tablet-of-shamash
+title: Tablet of Shamash
+aliases: [Sun-God Tablet, Sippar Sun-God Tablet]
+type: artifact
+cultures: [babylonian]
+date:
+  from: -870
+  to: -870
+  circa: true
+  display: c. 870 BCE
+scope: >-
+  A grey schist tablet from Sippar recording how Nabu-apla-iddina of Babylon (9th century
+  BCE) restored the cult image of the sun-god Shamash. The relief shows the king led before
+  the enthroned Shamash, with a large sun disk on an altar and the shrine resting above the
+  heavenly waters.
+passages:
+- ref: 2Kgs 23:11
+  rel: practice
+  note: Horses and chariots dedicated to the sun removed by Josiah
+- ref: Ezek 8:16
+  rel: practice
+  note: Worship of the sun toward the east in the temple court
+- ref: Ps 84:11
+  rel: imagery
+  note: '''The LORD God is a sun and shield'' (MT 84:12)'
+- ref: Ps 29:10
+  rel: concept
+  note: Deity enthroned over the flood; cf. shrine above the cosmic waters
+- ref: Isa 44:9-20
+  rel: polemic
+  note: Manufacture of a cult image ridiculed
+- ref: Ps 19:4-6
+  rel: imagery
+  note: The sun's course across the heavens (MT 19:5-7)
+related: [shamash, cult-images, mouth-washing-and-opening, winged-sun-disk, prayer-postures,
+  waters-above-and-below, babylonia]
+location:
+  institution: British Museum, London
+  accession: 1881-04-28, 0034a (British Museum)
+media:
+- id: great-hymn-to-shamash
+  role: gallery
+- id: tablet-of-shamash
+  role: primary
+- id: tablet-of-shamash-2
+  role: gallery
+external:
+  wikipedia: Tablet of Shamash
+  wikidata: Q7673457
+editorial:
+  author_notes:
+  - >-
+    Found by Hormuzd Rassam at Sippar (Abu Habbah) in 1881, stored in a clay box with clay
+    impressions of the relief; Woods argues the relief deliberately imitates an older model.
+  - >-
+    The text tells how the original image was lost in the Sutean disturbances and a new one
+    was made after a model was found; key evidence for the making and consecration of cult
+    images (mouth-washing).
+  - >-
+    The presentation scene (king led by an interceding deity) is a classic iconographic type.
+  - >-
+    The sun disk here is not winged; do not use the tablet as direct background for Mal 4:2's
+    'wings'. Shamash as god of justice is the stronger link to solar imagery for YHWH.
+  sources_to_check:
+  - Woods, "The Sun-God Tablet of Nabû-apla-iddina Revisited," JCS 56 (2004)
+  image_query: Tablet of Shamash British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added accession from Wikidata Q7673457 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

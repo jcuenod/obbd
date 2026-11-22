@@ -1,0 +1,87 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: sefire-treaties
+title: Sefire Treaty Inscriptions
+aliases: [Sefire Steles, Sefire Inscriptions]
+type: artifact
+cultures: [aramean]
+date:
+  from: -760
+  to: -740
+  circa: true
+  display: c. 760–740 BCE
+scope: >-
+  Three fragmentary basalt steles from Sefire near Aleppo, recording treaties between Barga'yah,
+  king of KTK, and Mati'el son of Attarsamak, king of Arpad. They are the fullest Aramaic
+  treaty texts, with stipulations, lists of divine witnesses, and vivid curses, some performed
+  by ritual acts.
+passages:
+- ref: Deut 28:38-42
+  rel: parallel
+  note: Curses of crop failure and locusts
+- ref: Jer 34:18-20
+  rel: practice
+  note: 'Calf cut in two in a covenant rite; Sefire I A: ''as this calf is cut in two'''
+- ref: Gen 15:9-17
+  rel: practice
+  note: Animals cut in two in covenant-making
+- ref: Hos 2:3
+  rel: parallel
+  note: Stripping as a covenant curse; cf. the stripped prostitute in Sefire I A (MT 2:5)
+- ref: Mic 1:4
+  rel: imagery
+  note: Melting like wax before fire; cf. the wax-burning curse
+- ref: Isa 34:11-15
+  rel: parallel
+  note: City given over to wild animals and owls
+- ref: Deut 13:6-11
+  rel: practice
+  note: Duty to report and punish those who incite disloyalty (MT 13:7-12)
+- ref: Ezek 17:13-19
+  rel: concept
+  note: Breaking a sworn treaty with an overlord invokes the oath-curses
+- ref: Isa 10:9
+  rel: attests
+  note: Arpad named among conquered Syrian cities
+- ref: 2Kgs 18:34
+  rel: attests
+  note: '''Where are the gods of Hamath and Arpad?'''
+related: [covenant-and-treaty-form, blessings-and-curses, covenant-cutting-ceremony, esarhaddon-succession-treaty,
+  hittite-vassal-treaties, oaths-and-oath-formulas, arameans, aramaic-language]
+media:
+- id: blessings-and-curses
+  role: gallery
+- id: sefire-treaties
+  role: gallery
+external:
+  wikipedia: Sefire steles
+  wikidata: Q7446083
+editorial:
+  author_notes:
+  - >-
+    The identity of Barga'yah and of KTK is unresolved. Present the options without choosing.
+  - >-
+    Sefire is the key Aramaic link in the chain of Hittite, Assyrian (Esarhaddon) and biblical
+    treaty language. Note the term ʿdy (treaty, oaths).
+  - >-
+    The ritual curses ('as this wax is burned', 'as this calf is cut') illustrate simile curses
+    performed with objects. Compare Jer 34:18 and the Esarhaddon Succession Treaty.
+  - Arpad fell to Tiglath-pileser III in 740. This gives the terminus ante quem.
+  sources_to_check:
+  - KAI 222-224
+  - COS 2.82
+  - Fitzmyer, The Aramaic Inscriptions of Sefire (rev. ed. 1995)
+  image_query: Sefire stele Aramaic treaty
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

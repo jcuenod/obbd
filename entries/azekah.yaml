@@ -1,0 +1,88 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: azekah
+title: Azekah (Tel ʿAzeqa)
+aliases: [Tel ʿAzeqa, Tell Zakariya]
+type: site
+cultures: [judahite, canaanite]
+scope: >-
+  Tel ʿAzeqa, a high mound on the north side of the Elah Valley in the Shephelah and a fortified
+  town on Judah's western frontier. The entry covers its biblical references, the mention
+  of Azekah in Lachish Letter 4, the Assyrian 'Azekah Inscription', and the finds of the Lautenschläger
+  Azekah Expedition (from 2012).
+passages:
+- ref: Josh 10:10-11
+  rel: setting
+  note: The Amorite kings pursued as far as Azekah; hailstones on the fleeing army
+- ref: Josh 15:35
+  rel: setting
+  note: Azekah among the Shephelah towns of Judah
+- ref: 1Sam 17:1
+  rel: setting
+  note: The Philistines camp between Socoh and Azekah
+- ref: 2Chr 11:9
+  rel: setting
+  note: Azekah in Rehoboam's list of fortified cities
+- ref: 2Kgs 18:13
+  rel: event
+  disputed: true
+  note: >-
+    Sennacherib takes Judah's fortified cities; the Azekah Inscription is attributed to 701
+    or to Sargon II
+- ref: Jer 34:7
+  rel: event
+  note: Lachish and Azekah the last fortified cities of Judah holding out
+- ref: Neh 11:30
+  rel: setting
+  note: Azekah and its villages resettled by Judahites
+related: [lachish-letters, lachish, sennacherib-campaign-701, sargon-ii-inscriptions, fall-of-jerusalem-587,
+  khirbet-qeiyafa, gath, champion-combat]
+media:
+- id: azekah
+  role: primary
+external:
+  wikipedia: Azekah
+  wikidata: Q723564
+editorial:
+  author_notes:
+  - >-
+    Bliss and Macalister excavated in 1898-99. The Lautenschläger Azekah Expedition (Tel Aviv
+    University and Heidelberg, from 2012) has documented a Late Bronze Age destruction with
+    human remains and Iron Age fortifications. Check the latest publications for the stratigraphy.
+  - >-
+    Lachish Letter 4 ends: 'we are watching for the signals of Lachish ... for we cannot see
+    Azekah.' It is often read as meaning that Azekah had already fallen, consistent with Jer
+    34:7, but it may describe only what was visible from the writer's post. Present both.
+  - >-
+    The Azekah Inscription (two joined British Museum fragments, K 6205 + 82-3-23,131) describes
+    an Assyrian assault on Azekah, 'situated on a mountain ridge'. Na'aman's join and attribution
+    to Sennacherib (701) are widely followed, but some scholars date it to Sargon II's campaign
+    of 712. Do not present either as settled.
+  - >-
+    Azekah, Socoh and Khirbet Qeiyafa frame the Elah Valley. Link the geography of 1 Sam 17
+    without claiming the story as history.
+  sources_to_check:
+  - N. Na'aman, 'Sennacherib's Letter to God on His Campaign to Judah,' BASOR 214 (1974)
+  - KAI 194
+  image_query: Tel Azekah
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates from Wikidata Q723564 (verify).
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 31.70028
+  lon: 34.93583
+  source: wikidata:Q723564

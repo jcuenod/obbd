@@ -1,0 +1,72 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: asylum-and-cities-of-refuge
+title: Asylum and Cities of Refuge
+aliases: [Cities of refuge, Altar asylum, Blood avenger (gōʾēl haddām)]
+type: practice
+cultures: [hebrew, greek]
+scope: >-
+  Biblical provisions protecting an unintentional killer from the blood avenger, first by
+  asylum at the altar and then in designated cities of refuge, with discussion of their literary
+  history and of comparative asylum practices.
+passages:
+- ref: Exod 21:12-14
+  rel: practice
+  note: >-
+    Unintentional killer given 'a place to flee'; deliberate murderer taken even from the
+    altar
+- ref: Num 35:9-34
+  rel: practice
+  note: Six cities of refuge; distinction of intent; release on the high priest's death
+- ref: Deut 4:41-43
+  rel: practice
+  note: 'Three Transjordanian refuge cities: Bezer, Ramoth, Golan'
+- ref: Deut 19:1-13
+  rel: practice
+  note: Refuge cities in the land; elders hand over a deliberate murderer
+- ref: Josh 20
+  rel: practice
+  note: Designation of Kedesh, Shechem, Hebron, Bezer, Ramoth, and Golan
+- ref: 1Kgs 1:50-53
+  rel: practice
+  note: Adonijah seizes the horns of the altar
+- ref: 1Kgs 2:28-34
+  rel: practice
+  note: Joab killed at the altar despite seeking asylum
+- ref: 2Sam 14:4-11
+  rel: practice
+  note: Woman of Tekoa's fictive plea against the blood avenger
+related: [horned-altars, altars, lex-talionis, courts-and-legal-procedure, shechem, hebron]
+media: []
+external:
+  wikipedia: Cities of Refuge
+  wikidata: Q752596
+editorial:
+  author_notes:
+  - >-
+    Many scholars (e.g., Weinfeld, Milgrom) see the refuge cities as a replacement for altar
+    asylum after cult centralisation. The relative dating of the Deuteronomic, Priestly, and
+    Joshua texts is debated.
+  - >-
+    The release of the manslayer at the high priest's death (Num 35:25, 28) is often read
+    as expiatory. Present the main interpretations.
+  - >-
+    Clear ancient Near Eastern parallels to designated refuge cities are lacking. Comparative
+    material is sanctuary asylum (Greek asylia, later Egyptian temple asylum). Avoid overstating
+    similarity.
+  - >-
+    Whether the institution functioned historically, and whether the town lists reflect a
+    monarchic reality (as Albright held) or an ideal, is debated.
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

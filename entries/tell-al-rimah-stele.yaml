@@ -1,0 +1,69 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tell-al-rimah-stele
+title: Tell al-Rimah Stele of Adad-nirari III
+aliases: [Tell al-Rimah stela, Rimah Stele]
+type: artifact
+cultures: [assyrian]
+date:
+  from: -797
+  to: -783
+  circa: true
+  display: c. 797–783 BCE
+scope: >-
+  A stele of the Assyrian king Adad-nirari III and his governor Nergal-ereš found at Tell
+  al-Rimah in northern Iraq in 1967. It records a western campaign in which 'Joash (Iuʾasu)
+  the Samarian' paid tribute, the first mention of Samaria by name in Assyrian royal inscriptions.
+passages:
+- ref: 2Kgs 13:10-13
+  rel: attests
+  note: Jehoash (Joash) son of Jehoahaz, king of Israel
+- ref: 2Kgs 13:5
+  rel: event
+  disputed: true
+  note: YHWH gives Israel a 'saviour' from Aram, often identified with Adad-nirari III
+- ref: 2Kgs 13:22-25
+  rel: setting
+  note: Joash recovers towns from Ben-hadad son of Hazael after Damascus is weakened
+- ref: 1Kgs 16:24
+  rel: attests
+  note: Samaria as Israel's capital, here named in an Assyrian text
+related: [samaria, ben-hadad, hazael, tribute-and-vassalage, damascus, assyria]
+location:
+  institution: Iraq Museum, Baghdad
+  accession: null
+media:
+- id: adad-nirari-iii
+  role: primary
+external:
+  wikipedia: Tell al-Rimah stela
+  wikidata: Q110623733
+editorial:
+  author_notes:
+  - >-
+    Excavated by David Oates and published by Stephanie Page (1968). The campaign is usually
+    dated c. 796 BCE; the inscription's 'in one year' compression of events is debated.
+  - Damascus's king is called Mariʾ ('lord'), probably a title for Ben-hadad son of Hazael.
+  - >-
+    The identification of the 'saviour' of 2 Kgs 13:5 with Adad-nirari III is common but not
+    certain; alternatives include Jeroboam II or Elisha. Mark it as a proposal.
+  - >-
+    The governor Nergal-ereš's name was deliberately erased at some point, an example of damnatio
+    memoriae.
+  sources_to_check:
+  - Page, "A Stela of Adad-nirari III and Nergal-ereš from Tell al Rimah," Iraq 30 (1968)
+  - RIMA 3 (Grayson 1996), Adad-nirari III texts
+  image_query: Tell al-Rimah stele Adad-nirari III
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

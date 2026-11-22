@@ -1,0 +1,60 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: kid-in-mothers-milk
+title: '"Boiling a Kid in Its Mother''s Milk"'
+aliases: [Milk and meat, Kid in its mother's milk]
+type: practice
+cultures: [hebrew, ugaritic]
+scope: >-
+  The thrice-repeated prohibition 'You shall not boil a kid in its mother's milk', its contexts
+  and proposed rationales, and the history of the claim that it targeted a Canaanite rite
+  known from Ugarit. Later rabbinic separation of meat and dairy is mentioned only as reception.
+passages:
+- ref: Exod 23:19
+  rel: practice
+  note: Prohibition appended to the festival and firstfruits law
+- ref: Exod 34:26
+  rel: practice
+  note: Repeated in the 'ritual decalogue'
+- ref: Deut 14:21
+  rel: practice
+  note: Placed among dietary laws after the rule on carcasses
+- ref: Lev 22:28
+  rel: concept
+  note: 'Comparable law: not slaughtering an animal and its young on one day'
+- ref: Deut 22:6-7
+  rel: concept
+  note: 'Comparable law: sparing the mother bird'
+related: [shahar-and-shalim, ugaritic-texts, pig-avoidance, purity-and-impurity, festivals-agricultural,
+  firstfruits-and-firstborn]
+media: []
+external:
+  wikipedia: Milk and meat in Jewish law
+  wikidata: Q2908617
+editorial:
+  author_notes:
+  - >-
+    Correct the widespread misconception. H. L. Ginsberg's restoration of KTU 1.23:14 as 'cook
+    a kid in milk' depends on restored and misread signs and was refuted by R. Ratner and
+    B. Zuckerman, 'A Kid in Milk?' (HUCA 57, 1986). There is no Ugaritic evidence for such
+    a rite.
+  - >-
+    Other rationales: humanitarian or ethical (Philo; compare Lev 22:28; Deut 22:6-7), Milgrom's
+    life–death symbolism, Keel's mother-and-suckling iconography (Das Böcklein in der Milch
+    seiner Mutter, 1980), and Maimonides' 'idolatrous practice' guess.
+  - >-
+    The rabbinic extension to all meat and dairy is a later development and should be described
+    as reception.
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

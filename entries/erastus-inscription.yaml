@@ -1,0 +1,72 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: erastus-inscription
+title: Erastus Inscription (Corinth)
+type: artifact
+cultures: [roman]
+date:
+  from: 1
+  to: 150
+  circa: true
+  display: c. 1–150 CE
+scope: >-
+  Latin inscription set in a paved square east of the theatre at Corinth, recording that Erastus
+  laid the pavement at his own expense in return for his aedileship. Its possible identification
+  with the Erastus of Rom 16:23 is debated.
+passages:
+- ref: Rom 16:23
+  rel: attests
+  disputed: true
+  note: Erastus, 'the city treasurer' (oikonomos tēs poleōs), sends greetings from Corinth
+- ref: Acts 19:22
+  rel: attests
+  disputed: true
+  note: Erastus sent to Macedonia with Timothy
+- ref: 2Tim 4:20
+  rel: attests
+  disputed: true
+  note: Erastus remained in Corinth
+- ref: 1Cor 1:26
+  rel: setting
+  note: '''Not many of you were powerful'': the social level of the Corinthian believers'
+related: [corinth, gallio-inscription, politarch-inscriptions]
+location:
+  institution: In situ, Ancient Corinth
+  accession: null
+media:
+- id: erastus-inscription
+  role: primary
+external:
+  wikipedia: Erastus of Corinth
+  wikidata: Q1348146
+editorial:
+  author_notes:
+  - >-
+    Whether Greek oikonomos tēs poleōs can translate Latin aedilis is disputed (Theissen for;
+    Meggitt and Friesen against).
+  - >-
+    The date is debated: Kent placed it in the mid-1st century CE, while Friesen (2010) argued
+    for the 2nd century. Erastus was also a fairly common name.
+  - >-
+    The identification bears on the 'new consensus' about the social status of Pauline communities.
+    Present it as possible, not proven.
+  sources_to_check:
+  - 'J. H. Kent, Corinth VIII.3: The Inscriptions 1926-1950 (1966), no. 232'
+  - >-
+    S. J. Friesen, 'The Wrong Erastus: Ideology, Archaeology, and Exegesis', in S. J. Friesen,
+    D. N. Schowalter, and J. C. Walters (eds.), Corinth in Context (2010)
+  - G. Theissen, The Social Setting of Pauline Christianity (1982)
+  image_query: Erastus inscription Corinth
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

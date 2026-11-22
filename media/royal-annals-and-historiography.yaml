@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: royal-annals-and-historiography
+file: royal-annals-and-historiography.jpg
+title: Sennacherib annals prism WA 103000.jpg
+caption: >-
+  Octagonal clay prism with the annals of Sennacherib, 694 BCE, from Nineveh (British Museum,
+  London).
+description: >-
+  Clay prism, octagonal, annals of Sennacherib, 694 BC. Found in Nineveh. Record of Sennacherib's
+  campaign, including the capture of Lachish and the siege of Jerusalem in 701 BC. British
+  Museum WA 103000 https://www.britishmuseum.org/collection/object/W_1909-0313-1
+creator: Zunkir
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Zunkir, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sennacherib_annals_prism_WA_103000.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/60/Sennacherib_annals_prism_WA_103000.jpg
+  sha1: 1ce60249818b040f979da912768764109c14956a
+  original_size: [2485, 4646]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 856×1600 px
+size: [856, 1600]
+depicts: [royal-annals-and-historiography]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

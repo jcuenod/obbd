@@ -1,0 +1,93 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: yehud-province
+title: Yehud (Persian Province of Judah)
+aliases: [Yehud Medinata, Persian-period Judah]
+type: people
+cultures: [jewish, persian]
+date:
+  from: -539
+  to: -332
+  circa: true
+  display: c. 539–332 BCE
+scope: >-
+  Judah as a province (mĕdînâ) of the Achaemenid Persian Empire: its extent, administration,
+  governors, economy, and population, as known from Ezra-Nehemiah, Haggai, Zechariah, and
+  Malachi, from seals, coins, and Elephantine documents, and from archaeology.
+passages:
+- ref: Ezra 5:8
+  rel: attests
+  note: '''The province of Judah'' (yĕhûd mĕdîntāʾ)'
+- ref: Ezra 5:14
+  rel: attests
+  note: Sheshbazzar appointed governor (peḥâ)
+- ref: Hag 1:1
+  rel: attests
+  note: Zerubbabel, governor of Judah
+- ref: Neh 5:14-15
+  rel: practice
+  note: Governor's food allowance; burdens imposed by former governors
+- ref: Neh 12:26
+  rel: attests
+  note: Nehemiah the governor and Ezra the priest-scribe
+- ref: Mal 1:8
+  rel: practice
+  note: '''Try presenting that to your governor'''
+- ref: Ezra 7:25-26
+  rel: practice
+  note: Imperial authorisation of the law of God and the law of the king
+- ref: Neh 3:9-18
+  rel: setting
+  note: Districts (pelek) of Yehud in the wall-building list
+- ref: Ezra 2:1-70
+  rel: setting
+  note: List of returnees by family and town
+related: [yehud-seals-and-coins, persia, persian-imperial-authorization, ramat-rahel, mizpah,
+  elephantine-temple-petition, babylonian-exile, samaritan-origins]
+media:
+- id: coinage
+  role: primary
+external:
+  wikipedia: Yehud (Persian province)
+  wikidata: Q592272
+editorial:
+  author_notes:
+  - >-
+    Evidence includes Yehud stamp impressions (yhd/yhwd, some naming governors), 4th-century
+    Yehud coins, the Elephantine petition (407 BCE) to Bagavahya governor of Judah, and the
+    administrative centre at Ramat Raḥel. Mizpah served as the Babylonian-period centre.
+  - >-
+    Population estimates are small (Lipschits about 30,000; Carter lower), and Persian-period
+    Jerusalem was small. State the methods behind the figures.
+  - >-
+    Alt's thesis that Judah was subordinate to Samaria until Nehemiah is largely abandoned
+    in light of governors' seals and bullae.
+  - >-
+    Note the debates over the order and dates of Ezra and Nehemiah (458 vs. 398 for Ezra)
+    and over Persian 'imperial authorisation' of local law (Frei).
+  sources_to_check:
+  - Lipschits and Vanderhooft, The Yehud Stamp Impressions (2011)
+  - Carter, The Emergence of Yehud in the Persian Period (JSOTSup 294, 1999)
+  - Lipschits, The Fall and Rise of Jerusalem (2005)
+  - >-
+    Porten and Yardeni, Textbook of Aramaic Documents from Ancient Egypt, vol. 1 (1986), A4.7
+  image_query: Yehud stamp impression
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Neh 3:1-32 narrowed to Neh 3:9-18 where the pelek
+    districts occur
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

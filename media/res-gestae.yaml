@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: res-gestae
+file: res-gestae.jpg
+title: >-
+  The Temple of Augustus and Rome with the Res Gestae Divi Augusti ("Deeds of the Divine Augustus")
+  inscribed on the walls of the cella, Ancyra, Ankara (Turkey) (26028202241).jpg
+caption: >-
+  The Temple of Augustus and Rome at Ancyra (Ankara), whose walls carry the Monumentum Ancyranum
+  copy of the Res Gestae.
+description: >-
+  The Temple of Augustus and Rome with the Res Gestae Divi Augusti ("Deeds of the Divine Augustus")
+  inscribed on the walls of the cella, Ancyra, Ankara (Turkey)
+creator: Carole Raddato from Frankfurt, Germany
+credit_line: >-
+  The Temple of Augustus and Rome with the Res Gestae Divi Augusti ("Deeds of the Divine Augustus")
+  inscribed on the walls of the cella, Ancyra, Ankara (Turkey)
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: Carole Raddato from Frankfurt, Germany, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:The_Temple_of_Augustus_and_Rome_with_the_Res_Gestae_Divi_Augusti_(%22Deeds_of_the_Divine_Augustus%22)_inscribed_on_the_walls_of_the_cella,_Ancyra,_Ankara_(Turkey)_(26028202241).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/a4/The_Temple_of_Augustus_and_Rome_with_the_Res_Gestae_Divi_Augusti_%28%22Deeds_of_the_Divine_Augustus%22%29_inscribed_on_the_walls_of_the_cella%2C_Ancyra%2C_Ankara_%28Turkey%29_%2826028202241%29.jpg
+  sha1: 377b49f2f2c7c944e117dfa26f278a07b68457a8
+  original_size: [4928, 3264]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1060 px
+size: [1600, 1060]
+depicts: [res-gestae]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

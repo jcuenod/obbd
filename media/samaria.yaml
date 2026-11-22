@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: samaria
+file: samaria.jpg
+title: Drone Aerial View of the Acropolis and Palace Site of King Omri in Samaria Sebastia.jpg
+caption: >-
+  Aerial view of the acropolis of Samaria-Sebaste, with the Roman forum and basilica on the
+  slopes of the royal acropolis.
+description: >-
+  Drone aerial view of the ancient acropolis of Samaria-Sebaste, capturing the ruins of the
+  Roman Forum and Basilica built on the slopes of King Omri's royal palace compound.
+creator: Ywpark2003 Prof. Yong Woo Park
+credit_line: Own work
+license:
+  id: CC-BY-4.0
+  name: CC BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0
+attribution: Ywpark2003 Prof. Yong Woo Park, CC BY 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Drone_Aerial_View_of_the_Acropolis_and_Palace_Site_of_King_Omri_in_Samaria_Sebastia.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/e/e1/Drone_Aerial_View_of_the_Acropolis_and_Palace_Site_of_King_Omri_in_Samaria_Sebastia.jpg
+  sha1: bfa2c50982b346abcc720109cf4041b7acbb0f39
+  original_size: [4056, 2280]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×899 px
+size: [1600, 899]
+depicts: [samaria]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

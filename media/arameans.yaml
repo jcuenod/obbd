@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: arameans
+file: arameans.jpg
+title: F1317 Louvre Stele Si Gabbor AO3027 rwk.jpg
+caption: >-
+  Funerary stele of the priest Si'gabbor with an Aramaic inscription, basalt, 7th century
+  BCE, from Neirab near Aleppo (Musée du Louvre, Paris).
+description: >-
+  This funerary stele has a carved decoration and an inscription in Aramaic. The decoration
+  shows the priest Si`gabbor banqueting in front of an offering table.
+creator: Unknown artistUnknown artist
+credit_line: Mbzt 2017
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Unknown artistUnknown artist, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:F1317_Louvre_Stele_Si_Gabbor_AO3027_rwk.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/0/0d/F1317_Louvre_Stele_Si_Gabbor_AO3027_rwk.jpg
+  sha1: a715b7da131a00235037c01543ea2f014eeac81f
+  original_size: [3234, 5000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1035×1600 px
+size: [1035, 1600]
+depicts: [arameans]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

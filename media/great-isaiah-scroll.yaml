@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: great-isaiah-scroll
+file: great-isaiah-scroll.jpg
+title: Great Isaiah Scroll.jpg
+caption: The Great Isaiah Scroll (1QIsaᵃ) from Qumran Cave 1, photographed in full.
+description: >-
+  Photographic reproduction of the Great Isaiah Scroll, the best preserved of the biblical
+  scrolls found at Qumran. It contains the entire Book of Isaiah in Hebrew, apart from some
+  small damaged parts. This manuscript was probably written by a scribe of the Jewish sect
+  of the Essenes around the second century BC. It is therefore over a thousand years older
+  than the oldest Masoretic manuscripts.
+creator: Photographs by Ardon Bar Hama, author of original document is unknown.
+credit_line: Website of The Israel Museum, Jerusalem, see link.
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: >-
+  Photographs by Ardon Bar Hama, author of original document is unknown.. Public domain, via
+  Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Great_Isaiah_Scroll.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/3/31/Great_Isaiah_Scroll.jpg
+  sha1: 36a74ecc03d22f65c7c8f384e51962bd179212d1
+  original_size: [12540, 3960]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×505 px
+size: [1600, 505]
+depicts: [great-isaiah-scroll]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

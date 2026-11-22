@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: sargon-ii-inscriptions-2
+file: sargon-ii-inscriptions-2.jpg
+title: Inscription of Sargon II of the Inner Court 32.jpg
+caption: Stone slab with a cuneiform inscription of Sargon II (Museo Gregoriano Egizio, Vatican).
+description: Inscription of Sargon II, Museo Gregoriano Egizio
+creator: Wilfredor
+credit_line: Own work
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Wilfredor. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Inscription_of_Sargon_II_of_the_Inner_Court_32.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/bf/Inscription_of_Sargon_II_of_the_Inner_Court_32.jpg
+  sha1: 8a84ae3363ffd25da43c8976c3d856f0534351b9
+  original_size: [4910, 5025]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1563×1600 px
+size: [1563, 1600]
+depicts: [sargon-ii-inscriptions]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

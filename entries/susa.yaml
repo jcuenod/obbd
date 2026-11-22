@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: susa
+title: Susa (Shushan)
+aliases: [Shushan, Shush]
+type: site
+cultures: [elamite, persian]
+scope: >-
+  The Elamite capital in southwestern Iran, later an Achaemenid royal residence where Darius
+  I built a palace and audience hall. Covers its long history, the Mesopotamian monuments
+  taken there as booty, the Achaemenid palace, and its setting in Nehemiah, Esther and Daniel.
+passages:
+- ref: Ezra 4:9
+  rel: setting
+  note: People of Susa (Elamites) among those settled in Samaria
+- ref: Neh 1:1
+  rel: setting
+  note: Nehemiah in Susa the citadel (bîrâ)
+- ref: Esth 1:2-5
+  rel: setting
+  note: Ahasuerus's banquet in Susa the citadel
+- ref: Esth 1:6
+  rel: realia
+  note: 'Palace furnishings: hangings, couches and a mosaic pavement'
+- ref: Esth 2:3-8
+  rel: setting
+  note: Young women gathered to Susa
+- ref: Esth 3:15
+  rel: setting
+  note: '''The city of Susa was thrown into confusion'''
+- ref: Dan 8:2
+  rel: setting
+  note: Daniel's vision at Susa by the Ulai canal
+related: [persia, darius-i, xerxes-i, artaxerxes-i, persepolis, code-of-hammurabi, victory-stele-of-naram-sin,
+  medes]
+media:
+- id: susa
+  role: primary
+- id: susa-2
+  role: gallery
+external:
+  wikipedia: Susa
+  wikidata: Q180773
+  pleiades: '912936'
+editorial:
+  author_notes:
+  - >-
+    French excavations (Dieulafoy from 1884, de Morgan from 1897, and later teams) recovered
+    Mesopotamian monuments, including the Code of Hammurabi stele and Naram-Sin's victory
+    stele, carried off by the Elamite king Shutruk-Nahhunte in the twelfth century.
+  - >-
+    Darius I built a palace and Apadana. The glazed-brick friezes (archers, lions) and the
+    foundation charter (DSf), which lists materials and craftsmen from across the empire,
+    are key evidence.
+  - >-
+    Esther's court details mix authentic Persian colouring with literary invention. Avoid
+    using the palace to 'confirm' the narrative.
+  - The tradition of the 'Tomb of Daniel' at Shush is medieval.
+  sources_to_check:
+  - Perrot (ed.), The Palace of Darius at Susa (2013)
+  image_query: Susa Apadana palace Darius
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q180773 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 32.18944
+  lon: 48.25611
+  source: wikidata:Q180773

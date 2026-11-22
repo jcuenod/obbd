@@ -1,0 +1,95 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: kirta-epic
+title: Kirta Epic
+aliases: [Keret Epic, Legend of Keret, Kirta Legend]
+type: text
+cultures: [ugaritic]
+date:
+  from: -1350
+  to: -1185
+  circa: true
+  display: c. 1350–1185 BCE
+scope: >-
+  The Ugaritic narrative poem (KTU 1.14-1.16) about King Kirta, who loses his family, is instructed
+  by El in a dream to win a new bride by military expedition, obtains heirs, falls mortally
+  ill after failing to keep a vow to Athirat, is healed by El, and is challenged by his son
+  for neglecting justice.
+passages:
+- ref: 1Kgs 3:5-15
+  rel: parallel
+  note: King receives a dream theophany and divine grant (El appears to the weeping Kirta)
+- ref: Gen 15:1-6
+  rel: parallel
+  disputed: true
+  note: Lament over lack of heir answered by divine promise of offspring
+- ref: Job 1:13-19
+  rel: parallel
+  disputed: true
+  note: Successive calamities wipe out the hero's family
+- ref: Job 42:10-17
+  rel: parallel
+  disputed: true
+  note: Restoration of household and new children
+- ref: Deut 20:7; 24:5
+  rel: practice
+  note: >-
+    Betrothed and newlywed men exempt from war; contrast Kirta's levy sending even the bridegroom
+- ref: Deut 23:21-23
+  rel: practice
+  note: Danger of an unfulfilled vow; Kirta's broken vow to Athirat brings illness (MT 23:22-24)
+- ref: 2Sam 15:1-6
+  rel: parallel
+  note: Royal son challenges father for not hearing the people's cases
+- ref: Ps 72:1-4, 12-14
+  rel: concept
+  note: King's duty to judge the widow, orphan and poor
+- ref: Ps 82:6-7
+  rel: parallel
+  disputed: true
+  note: '''Son of El'' who must nevertheless die; cf. ''Shall Kirta, son of El, die?'''
+related: [ugaritic-texts, el, asherah, royal-ideology, king-as-son-of-god, dream-incubation,
+  vows-and-votive-offerings, widow-orphan-sojourner]
+media: []
+external:
+  wikipedia: Legend of Keret
+  wikidata: Q1350857
+editorial:
+  author_notes:
+  - >-
+    Early readings of Kirta as a historical epic of patriarchal migrations (Virolleaud's "Terah",
+    "Zebulun", "Asher", the Negeb) are discredited and should be mentioned only as a historiographical
+    caution.
+  - >-
+    The text is a key witness to Late Bronze royal ideology (king as son of El, guarantor
+    of fertility and justice) and to the tension between sacral kingship and mortality.
+  - >-
+    The siege of Udum follows a six-days-then-the-seventh pattern; useful for seven-day patterns,
+    but avoid claiming dependence for Josh 6.
+  - The story may be incomplete (the ending is lost or the cycle unfinished); say so.
+  sources_to_check:
+  - KTU 1.14-1.16 (= CTA 14-16)
+  - COS 1.102
+  - ANET 142-149
+  - E. L. Greenstein in S. B. Parker (ed.), Ugaritic Narrative Poetry (1997)
+  - N. Wyatt, Religious Texts from Ugarit (2nd ed., 2002)
+  image_query: Kirta tablet Ugarit
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Deut 20:7 extended to Deut 20:7; 24:5 (betrothed
+    vs newlywed); MT note added for Deut 23:21-23
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

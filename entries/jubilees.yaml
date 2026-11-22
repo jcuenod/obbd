@@ -1,0 +1,80 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: jubilees
+title: Book of Jubilees
+aliases: [Book of Jubilees, Little Genesis]
+type: text
+cultures: [jewish]
+date:
+  from: -170
+  to: -150
+  circa: true
+  display: c. 170–150 BCE
+scope: >-
+  A Hebrew retelling of Genesis 1 to Exodus 24, presented as revealed to Moses on Sinai by
+  the Angel of the Presence from the heavenly tablets. It sets history within a chronology
+  of jubilee periods and promotes a 364-day calendar and strict halakha.
+passages:
+- ref: Exod 24:12-18
+  rel: setting
+  note: 'Moses on the mountain forty days: the book''s revelatory frame (Jub 1)'
+- ref: Gen 1:1-2:3
+  rel: parallel
+  note: Creation retold as 22 works culminating in the Sabbath (Jub 2)
+- ref: Exod 31:12-17
+  rel: practice
+  note: Sabbath laws expanded (Jub 2:17-33; 50:6-13)
+- ref: Gen 6:1-4
+  rel: parallel
+  note: Watchers and giants (Jub 5; 7:21-25)
+- ref: Gen 7:11-8:14
+  rel: concept
+  note: Flood chronology read within the 364-day year (Jub 5-6; 6:32-38)
+- ref: Gen 22:1-19
+  rel: parallel
+  note: Prince Mastema instigates the testing of Abraham (Jub 17:15-18:19)
+- ref: Exod 4:24-26
+  rel: parallel
+  note: Mastema, not YHWH, attacks Moses (Jub 48:2-3)
+- ref: Gal 3:19
+  rel: concept
+  note: Law 'ordained through angels'; cf. the Angel of the Presence dictating (Jub 1:27-2:1)
+related: [first-enoch, dead-sea-scrolls, genesis-apocryphon, temple-scroll, calendars-and-month-names,
+  sabbath, satan-the-adversary, demons]
+media: []
+external:
+  wikipedia: Book of Jubilees
+  wikidata: Q843946
+editorial:
+  author_notes:
+  - >-
+    Composed in Hebrew; about fourteen or fifteen copies were found at Qumran. The full text
+    survives in Ge'ez and part in Latin. It is canonical in the Ethiopian church.
+  - 'Dating: usually c. 160-150 BCE (VanderKam). Some argue for a pre-Maccabean date.'
+  - >-
+    Note the calendar polemic (Jub 6:32-38) and its links to Qumran calendrical texts and
+    the Temple Scroll.
+  - >-
+    The demonology (Mastema, the spirits of the giants) reshapes problematic divine actions,
+    a useful comparison with 1 Chr 21:1.
+  sources_to_check:
+  - J. C. VanderKam, The Book of Jubilees (CSCO 510-511, 1989)
+  - J. C. VanderKam, Jubilees, 2 vols. (Hermeneia, 2018)
+  - 'H. Attridge et al., Qumran Cave 4.VIII: Parabiblical Texts, Part 1 (DJD XIII, 1994)'
+  - >-
+    O. S. Wintermute, 'Jubilees', in J. H. Charlesworth (ed.), The Old Testament Pseudepigrapha,
+    vol. 2 (1985)
+  image_query: Book of Jubilees Ethiopic manuscript
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

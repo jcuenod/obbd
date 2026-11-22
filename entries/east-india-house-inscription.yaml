@@ -1,0 +1,72 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: east-india-house-inscription
+title: East India House Inscription of Nebuchadnezzar II
+type: artifact
+cultures: [babylonian]
+date:
+  from: -600
+  to: -562
+  circa: true
+  display: c. 600–562 BCE
+scope: >-
+  A large inscribed stone tablet of Nebuchadnezzar II from Babylon, in archaising script,
+  praising Marduk and Nabu and recording the king's building works in Babylon: its temples,
+  palaces, processional way, and double walls. It is a prime example of the royal building
+  boasts echoed in Daniel.
+passages:
+- ref: Dan 4:30
+  rel: parallel
+  note: King's boast of 'great Babylon, which I have built' (MT 4:27)
+- ref: Jer 51:58
+  rel: realia
+  note: Babylon's broad walls, whose construction the inscription describes
+- ref: Isa 46:1
+  rel: attests
+  note: Bel (Marduk) and Nebo (Nabu), the gods the inscription praises
+related: [nebuchadnezzar-ii, babylon, ishtar-gate, etemenanki, marduk, nabu, temple-building-accounts]
+location:
+  institution: British Museum, London
+  accession: 1938,0520.1 (British Museum)
+media:
+- id: east-india-house-inscription
+  role: primary
+external:
+  wikipedia: East India House Inscription
+  wikidata: Q16834343
+editorial:
+  author_notes:
+  - >-
+    Found at Babylon in the early 19th c. and long held at East India House, London, before
+    passing to the British Museum; verify the acquisition history.
+  - >-
+    The Dan 4:30 echo is of Nebuchadnezzar's building inscriptions generally; his inscriptions
+    are pious, crediting Marduk, so Daniel's portrayal of arrogance reverses their tone.
+  - >-
+    No Nebuchadnezzar building inscription mentions Judah or Jerusalem; avoid implying otherwise.
+  sources_to_check:
+  - S. Langdon, Die neubabylonischen Königsinschriften (VAB 4, 1912)
+  image_query: East India House Inscription British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Jer 51:58 rel setting -> realia (Babylon's walls
+    as structure)
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added accession from Wikidata Q16834343 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: hazor-2
+file: hazor-2.jpg
+title: Hatzor-SolomonicGate.jpg
+caption: The Iron Age city gate at Hazor, often attributed to Solomon.
+description: null
+creator: null
+credit_line: null
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: Unknown author, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Hatzor-SolomonicGate.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/8/88/Hatzor-SolomonicGate.jpg
+  sha1: de40a1b4b7554516803d3f48e5a44e9278295190
+  original_size: [1024, 768]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1024, 768]
+depicts: [hazor]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

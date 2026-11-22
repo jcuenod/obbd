@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: leviathan
+file: leviathan.jpg
+title: A god fighting a seven-headed monster - flash.jpg
+caption: >-
+  Mesopotamian shell inlay showing a god fighting a seven-headed monster (Bible Lands Museum,
+  Jerusalem).
+description: >-
+  A mesopotamian Shell inlay depicting a god fighting a seven-headed monster. The leaf crown
+  of the god hints he is fighting for vegetation. Now in Bible Lands Museum.
+creator: פעמי-עליון
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: פעמי-עליון, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:A_god_fighting_a_seven-headed_monster_-_flash.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/98/A_god_fighting_a_seven-headed_monster_-_flash.jpg
+  sha1: f22a083ad01c6d32d89c00c38defeb1ec67f24f2
+  original_size: [2605, 1559]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×958 px
+size: [1600, 958]
+depicts: [leviathan]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

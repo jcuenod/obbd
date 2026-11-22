@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: jachin-and-boaz
+title: Jachin and Boaz (Temple Pillars)
+aliases: [Boaz and Jachin, Temple pillars]
+type: realia
+cultures: [judahite, phoenician]
+scope: >-
+  The two bronze pillars named Jachin and Boaz that stood at the porch of Solomon's temple,
+  cast by the Tyrian craftsman Hiram. The entry covers their description, function, names,
+  and the freestanding pillars that flanked temple entrances elsewhere in the Levant.
+passages:
+- ref: 1Kgs 7:15-22
+  rel: realia
+  note: >-
+    Hiram casts two bronze pillars with capitals, lattice and pomegranates; named Jachin and
+    Boaz
+- ref: 1Kgs 7:41-42
+  rel: realia
+  note: Summary inventory of pillars, capital bowls, lattices and pomegranates
+- ref: 2Chr 3:15-17
+  rel: realia
+  note: 'Chronicler''s version: pillars of 35 cubits set before the temple'
+- ref: 2Kgs 11:14
+  rel: practice
+  note: Joash stands 'by the pillar, according to custom' at his enthronement
+- ref: 2Kgs 23:3
+  rel: practice
+  note: Josiah stands by the pillar to make the covenant
+- ref: 2Kgs 25:13, 16-17
+  rel: realia
+  note: Babylonians break up the pillars; capital of three cubits
+- ref: Jer 52:17, 20-23
+  rel: realia
+  note: 'Fuller account of the pillars at the destruction: hollow, four fingers thick'
+- ref: Ezek 40:49
+  rel: realia
+  note: Pillars beside the jambs of the vestibule in the visionary temple
+related: [bronze-sea, proto-aeolic-capitals, hiram-of-tyre, temple-building-accounts, massebot,
+  phoenicians, temple-as-cosmos]
+media: []
+external:
+  wikipedia: Boaz and Jachin
+  wikidata: Q379458
+editorial:
+  author_notes:
+  - >-
+    Most scholars take the pillars as freestanding rather than load-bearing. Comparanda: Herodotus
+    2.44 on the two pillars of Melqart's temple at Tyre; the two-columned portico of the ʿAin
+    Dara temple; Iron Age clay shrine models with flanking pillars.
+  - >-
+    The meaning of the names is uncertain: yākîn 'he establishes', bōʿaz 'in strength'. R.
+    B. Y. Scott's proposal that they are the opening words of dynastic oracles or inscriptions
+    is possible but unproven.
+  - >-
+    Explain the dimensional discrepancies (18 cubits in 1 Kgs 7:15 and Jer 52:21 vs 35 in
+    2 Chr 3:15; capitals of 5 vs 3 cubits in 2 Kgs 25:17) without forced harmonization.
+  - >-
+    Note the royal 'standing by the pillar' (2 Kgs 11:14; 23:3) as a ceremonial station. Set
+    aside Masonic and other esoteric interpretations.
+  image_query: Ain Dara temple portico
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

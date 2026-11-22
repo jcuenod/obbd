@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: instructions-of-shuruppak
+file: instructions-of-shuruppak.jpg
+title: >-
+  Instructions of Shurrupak, Sumerian proverb collection, c. 2400 BC - Oriental Institute
+  Museum, University of Chicago - DSC07114.JPG
+caption: >-
+  Clay tablet with the Instructions of Shuruppak, c. 2400 BCE (Oriental Institute Museum,
+  Chicago).
+description: >-
+  Exhibit in the Oriental Institute Museum, University of Chicago, Chicago, Illinois, USA.
+  This work is old enough so that it is in the public domain. Photography was permitted in
+  the museum without restriction. Translation: "Shurrupak gave instructions to his son: /
+  Do not buy an ass which brays too much. / Do not commit rape upon a man's daughter, do not
+  announce it to the courtyard. / Do not answer back against your father, do not raise a 'heavy
+  eye.'".
+creator: Daderot
+credit_line: Own work
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Daderot. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Instructions_of_Shurrupak,_Sumerian_proverb_collection,_c._2400_BC_-_Oriental_Institute_Museum,_University_of_Chicago_-_DSC07114.JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/2b/Instructions_of_Shurrupak%2C_Sumerian_proverb_collection%2C_c._2400_BC_-_Oriental_Institute_Museum%2C_University_of_Chicago_-_DSC07114.JPG
+  sha1: 36cc00fe048a3ce09e2a9c1da90e544da4ea43d7
+  original_size: [3326, 4388]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1213×1600 px
+size: [1213, 1600]
+depicts: [instructions-of-shuruppak]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

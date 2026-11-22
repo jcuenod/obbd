@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ashkelon
+file: ashkelon.jpg
+title: Ashkelon – The Canaanite city gate and ramparts.jpg
+caption: The Middle Bronze Age Canaanite gate and ramparts at Ashkelon, 2000–1550 BCE.
+description: >-
+  Ashkelon – The Canaanite city gate and ramparts - from the middle Canaanite period (2000-1550
+  bc)
+creator: Aaadir
+credit_line: >-
+  Own work - this photograph was originally taken (by image uploader) for http://alamapa.com/location/אשקלון
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Aaadir. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Ashkelon_%E2%80%93_The_Canaanite_city_gate_and_ramparts.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/7b/Ashkelon_%E2%80%93_The_Canaanite_city_gate_and_ramparts.jpg
+  sha1: 20ab5d0a149ebd87513589a237af16c82aab356e
+  original_size: [4032, 3024]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [ashkelon]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

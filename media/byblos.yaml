@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: byblos
+file: byblos.jpg
+title: Byblos ancient ruins, Byblos, Lebanon.jpg
+caption: The archaeological site of Byblos, with Bronze Age remains near the Great Temple.
+description: >-
+  Byblos, Gubal, Lebanon. Continuously inhabited since 5000 BC. The Byblos archaeological
+  site contains the remains of the Great Temple and the Temple of Ba'alat Gebal, both built
+  around 2700 BC, as well as the Temple of the Obelisks, built around 1600 BC.
+creator: Vyacheslav Argenberg
+credit_line: Own work
+license:
+  id: CC-BY-4.0
+  name: CC BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0
+attribution: Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Byblos_ancient_ruins,_Byblos,_Lebanon.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/45/Byblos_ancient_ruins%2C_Byblos%2C_Lebanon.jpg
+  sha1: 602a44c37ea33551526ada0aeb7eed95f8d3ef4d
+  original_size: [4000, 3000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [byblos]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

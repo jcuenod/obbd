@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: iron-technology
+title: Iron Technology and the Philistine Monopoly
+aliases: [Philistine iron monopoly, Iron Age metallurgy]
+type: concept
+cultures: [hebrew, philistine, canaanite]
+scope: >-
+  The introduction and spread of iron-working in the Levant at the transition from the Late
+  Bronze to the Iron Age, and the biblical texts often read as evidence of a Philistine monopoly
+  on iron.
+passages:
+- ref: 1Sam 13:19-22
+  rel: practice
+  note: No smith in Israel; tools sharpened by Philistines
+- ref: 1Sam 13:21
+  rel: language
+  note: Charge of a pim (two-thirds shekel), confirmed by inscribed pim weights
+- ref: Deut 8:9
+  rel: realia
+  note: '''A land whose stones are iron'''
+- ref: Josh 17:16-18
+  rel: realia
+  note: Canaanites of the valleys have iron chariots
+- ref: Judg 1:19
+  rel: realia
+  note: Judah cannot dislodge plain-dwellers with iron chariots
+- ref: Gen 4:22
+  rel: concept
+  note: Tubal-cain, forger of bronze and iron implements
+- ref: Deut 3:11
+  rel: realia
+  disputed: true
+  note: Og's 'iron' bed, perhaps a basalt sarcophagus
+- ref: Deut 4:20
+  rel: imagery
+  note: Egypt as an 'iron-smelter' (kûr habbarzel)
+- ref: 2Sam 12:31
+  rel: realia
+  note: Ammonites set to work with iron picks and axes (sense debated)
+related: [pim-weights, philistines, weapons, copper-production, chariots-and-horses, rephaim]
+media: []
+external:
+  wikipedia: Ferrous metallurgy
+  wikidata: Q2285982
+editorial:
+  author_notes:
+  - >-
+    The 'Philistine iron monopoly' (G. E. Wright, Albright) is not supported by archaeology.
+    Iron-working spread gradually across the Levant from the 12th to 10th centuries, and Philistine
+    sites show no early dominance. Present 1 Sam 13:19-22 as a claim about control of smithing
+    or as a literary motif.
+  - The related myth of a Hittite iron monopoly should also be corrected.
+  - >-
+    Iron becomes the dominant metal for tools and weapons only in Iron IIA (10th-9th centuries).
+    Carburisation into steel appears gradually. Mention excavated smelting and smithing sites
+    (e.g., Tell Hammeh in the Jordan Valley).
+  - >-
+    The pim weight finds settled the reading of 1 Sam 13:21. This is a good example of epigraphy
+    clarifying an obscure Hebrew word.
+  sources_to_check: ['Waldbaum, From Bronze to Iron (1978)']
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

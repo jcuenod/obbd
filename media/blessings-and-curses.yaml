@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: blessings-and-curses
+file: blessings-and-curses.jpg
+title: Sefire Stele 1, Face A (upper portion).jpg
+caption: >-
+  Sefire Stele I, face A (upper part), an Aramaic treaty inscription on basalt with extensive
+  curses, 8th century BCE.
+description: The Aramaic inscription is cut into a basalt stele. There are no word dividers.
+creator: >-
+  Author: ChatGPT; Photo of Sefire Inscription 1, Part A; colorized and modified with ChatGPT;
+  background creation with Adobe PhotoShop, modified by user.
+credit_line: Own work
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: >-
+  Author: ChatGPT; Photo of Sefire Inscription 1, Part A; colorized and modified with ChatGPT;
+  background creation with Adobe PhotoShop, modified by user.. Public domain, via Wikimedia
+  Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sefire_Stele_1,_Face_A_(upper_portion).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/c/cd/Sefire_Stele_1%2C_Face_A_%28upper_portion%29.jpg
+  sha1: 145db105a5ece027a17fcdc63228f345011c7c52
+  original_size: [1927, 1132]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×940 px
+size: [1600, 940]
+depicts: [blessings-and-curses, sefire-treaties]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.
+restrictions: ai

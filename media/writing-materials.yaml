@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: writing-materials
+file: writing-materials.jpg
+title: Ivory writing-board from Nimrud, Iraq, with cuneiform inscriptions. Iraq Museum.jpg
+caption: >-
+  Ivory writing board from Nimrud, outer cover incised with a cuneiform title (Iraq Museum,
+  Baghdad).
+description: >-
+  The outer cover of the ivory writing-boards (6 in number). The surface is incised with 4
+  lines of a cuneiform text, giving the title of the astrological script which was a compilation
+  of omens ordered by king Sargon II (r. 722-705 BC) to be set up in his palace at Khorsabad.
+  From Well AB, North-West Palace at Nimrud, Iraq. Iraq Museum. It reads "‘Palace of Sargon,
+  king of the world, king of Assyria. The series Enuma Anu Enlil, he had written on an ivory
+  board and, placed in his palace at Dur-Sharrukin". Source of transliteration: IVORIES FROM
+  THE NORTH-WEST PALACE (1845-1992) by GEORGINA HERRM
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Ivory_writing-board_from_Nimrud,_Iraq,_with_cuneiform_inscriptions._Iraq_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/7e/Ivory_writing-board_from_Nimrud%2C_Iraq%2C_with_cuneiform_inscriptions._Iraq_Museum.jpg
+  sha1: 9a8feabaca109137b303d21d25ad30dbb9bc5af6
+  original_size: [6016, 4016]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1068 px
+size: [1600, 1068]
+depicts: [writing-materials]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

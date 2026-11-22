@@ -1,0 +1,99 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: babylon
+title: Babylon
+aliases: [Babel, Bābilim, Hillah ruins]
+type: site
+cultures: [babylonian]
+scope: >-
+  The city of Babylon on the Euphrates, capital of Hammurabi's dynasty and of the Neo-Babylonian
+  Empire. Covers the excavated Neo-Babylonian city, its monuments and its symbolic role in
+  the Bible from Genesis to Revelation; the empire is treated in babylonia.
+passages:
+- ref: Gen 10:10
+  rel: setting
+  note: Babel in Nimrod's kingdom
+- ref: Gen 11:1-9
+  rel: setting
+  note: The tower of Babel; name explained by bālal 'confuse', not Akk. bāb-ilim 'gate of
+    god'
+- ref: 2Kgs 24:10-17
+  rel: setting
+  note: Jehoiachin and Jerusalem's elite deported to Babylon
+- ref: 2Kgs 25:27-30
+  rel: attests
+  note: Jehoiachin's release; ration tablets from Babylon's Southern Palace
+- ref: Isa 13-14
+  rel: setting
+  note: Oracle against Babylon and taunt over its king
+- ref: Isa 46:1-2
+  rel: setting
+  note: Bel and Nebo bow down
+- ref: Jer 50-51
+  rel: setting
+  note: Oracles against Babylon
+- ref: Ps 137
+  rel: setting
+  note: '''By the rivers of Babylon'''
+- ref: Dan 4:30
+  rel: attests
+  note: '''Is this not magnificent Babylon, which I have built?'' (Aram. 4:27)'
+- ref: Rev 17-18
+  rel: imagery
+  note: Babylon the great as a cipher for Rome
+related: [etemenanki, ishtar-gate, marduk, nebuchadnezzar-ii, babylonia, ziggurat-and-babel,
+  east-india-house-inscription, jehoiachin-ration-tablets]
+media:
+- id: babylon
+  role: primary
+external:
+  wikipedia: Babylon
+  wikidata: Q5684
+  pleiades: '893951'
+editorial:
+  author_notes:
+  - >-
+    Koldewey's German excavations (1899-1917) exposed mainly the Neo-Babylonian city of Nebuchadnezzar
+    II, including the Ishtar Gate, the Processional Way, the Southern Palace, the foundation
+    of Etemenanki and Esagila. Earlier levels lie below the water table.
+  - >-
+    The 'Hanging Gardens' have not been securely identified. Koldewey's 'vaulted building'
+    is now usually read as a storehouse, where the Jehoiachin ration tablets were found. Dalley
+    has argued for Nineveh.
+  - >-
+    Saddam Hussein's reconstruction damaged the ruins. Babylon was inscribed as a UNESCO World
+    Heritage Site in 2019.
+  - >-
+    In Revelation and 1 Pet 5:13 'Babylon' is code for Rome. Keep the symbolic afterlife distinct
+    from the historical city.
+  sources_to_check:
+  - George, Babylonian Topographical Texts (1992)
+  - Koldewey, The Excavations at Babylon (1914)
+  image_query: Babylon ruins Iraq
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Gen 11:1-9 note corrected (wordplay is on balal,
+    not bab-ilim)
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q5684 (verify).
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 32.5425
+  lon: 44.42111
+  source: wikidata:Q5684

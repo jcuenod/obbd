@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: baal
+file: baal.jpg
+title: Baal Ugarit Louvre AO17329.jpg
+caption: >-
+  Bronze figure of Baal with raised arm, 14th–12th century BCE, from Ugarit (Musée du Louvre,
+  Paris).
+description: >-
+  Figure of Ba'al with raised arm, 14th–12th century BC, found at ancient Ugarit (Ras Shamra
+  site), a city at the far north of the Phoenician coast. Louvre, Paris
+creator: Jastrow
+credit_line: Own work
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Jastrow. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Baal_Ugarit_Louvre_AO17329.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/0/04/Baal_Ugarit_Louvre_AO17329.jpg
+  sha1: b3ce19fb1ef3340aa6fa71aa2cb9d17d6e495806
+  original_size: [900, 1658]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 869×1600 px
+size: [869, 1600]
+depicts: [baal]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

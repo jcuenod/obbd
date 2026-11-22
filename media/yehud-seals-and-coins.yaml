@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: yehud-seals-and-coins
+file: yehud-seals-and-coins.jpg
+title: Yahod.jpg
+caption: Small silver Yehud coin with a lily, Persian period.
+description: מטבע כסף זעיר ממטבעת "יהד" ועליו פרח השושן (תקופה פרסית, נטבע בירושלים)
+creator: Rachelbarkay
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Rachelbarkay, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Yahod.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/2/26/Yahod.jpg
+  sha1: 7a24f102287a8d1d0e08d0c7526b25d69ad691e2
+  original_size: [2171, 2455]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1415×1600 px
+size: [1415, 1600]
+depicts: [yehud-seals-and-coins]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

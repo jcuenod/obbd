@@ -1,0 +1,94 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: megiddo
+title: Megiddo
+aliases: [Tel Megiddo, Tell el-Mutesellim, Armageddon]
+type: site
+cultures: [canaanite, israelite]
+scope: >-
+  The major tell commanding the Wadi Ara pass into the Jezreel Valley, occupied from the Chalcolithic
+  to the Persian period. Covers its Bronze Age city-state, its Iron Age palaces, gates, pillared
+  buildings and water system, and its role in the chronology debate and in the image of Armageddon.
+passages:
+- ref: Josh 12:21
+  rel: setting
+  note: King of Megiddo in the list of defeated kings
+- ref: Judg 1:27
+  rel: setting
+  note: Manasseh fails to dispossess Megiddo
+- ref: Judg 5:19
+  rel: setting
+  note: Kings fight at Taanach by the waters of Megiddo
+- ref: 1Kgs 4:12
+  rel: setting
+  note: Megiddo in Baana's administrative district
+- ref: 1Kgs 9:15
+  rel: attests
+  disputed: true
+  note: Solomon builds Hazor, Megiddo and Gezer; the 'Solomonic' gate debate
+- ref: 1Kgs 10:26
+  rel: realia
+  disputed: true
+  note: Chariot cities; Stratum IVA pillared buildings as stables or storehouses
+- ref: 2Kgs 9:27
+  rel: setting
+  note: Ahaziah flees to Megiddo and dies there
+- ref: 2Kgs 23:29-30
+  rel: setting
+  note: Josiah killed at Megiddo by Pharaoh Neco
+- ref: Zech 12:11
+  rel: setting
+  note: Mourning for Hadad-rimmon in the plain of Megiddo
+- ref: Rev 16:16
+  rel: language
+  note: Armageddon, most likely 'mountain of Megiddo' (Har Megiddo)
+related: [low-chronology-debate, chariots-and-horses, shoshenq-i, josiah, necho-ii, cisterns-and-water-systems,
+  amarna-letters, hazor]
+media:
+- id: megiddo
+  role: primary
+external:
+  wikipedia: Tel Megiddo
+  wikidata: Q208379
+editorial:
+  author_notes:
+  - >-
+    Thutmose III's siege (mid-fifteenth century) is the earliest detailed battle account;
+    Biridiya of Megiddo writes in the Amarna letters.
+  - >-
+    The dating of Strata VA-IVB and IVA, the six-chambered gate and Palaces 1723 and 6000
+    is central to the low chronology debate (Yadin's 'Solomonic' Megiddo vs. Finkelstein and
+    Ussishkin's Omride or later attribution). Do not present the Solomonic attribution as
+    established.
+  - >-
+    The pillared buildings have been read as stables, storehouses or barracks. The Tel Aviv
+    expedition has argued for stables and a horse-training centre in the eighth century.
+  - >-
+    A fragment of a Shoshenq I stele was found in the spoil of the University of Chicago dig
+    (1920s-30s). It is unstratified but confirms the pharaoh's presence.
+  - >-
+    Correct popular 'end-times battlefield' readings. The Hebrew etymology of Armageddon is
+    the usual view but not certain.
+  sources_to_check: [NEAEHL, 'Moran, The Amarna Letters (1992)']
+  image_query: Tel Megiddo aerial view
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates from Wikidata Q208379 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 32.58528
+  lon: 35.18444
+  source: wikidata:Q208379

@@ -1,0 +1,87 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: yhwh-origins
+title: Origins of the Worship of YHWH
+aliases: [origins of Yahweh, Kenite hypothesis, Midianite hypothesis]
+type: concept
+cultures: [hebrew, egyptian, arabian, edomite]
+scope: >-
+  The historical origins of the worship of YHWH: the earliest extrabiblical attestations,
+  biblical traditions of a southern homeland (Sinai, Seir, Edom, Teman, Midian), the Midianite-Kenite
+  hypothesis, and YHWH's relationship to El. The entry covers critical debate without endorsing
+  any one reconstruction.
+passages:
+- ref: Exod 3:13-15
+  rel: concept
+  note: Divine name revealed at Horeb while Moses tends the flock of Jethro, priest of Midian
+- ref: Exod 6:2-3
+  rel: concept
+  note: YHWH unknown by name to the ancestors, who knew El Shaddai
+- ref: Deut 33:2
+  rel: concept
+  note: YHWH comes from Sinai, Seir and Mount Paran
+- ref: Judg 5:4-5
+  rel: concept
+  note: YHWH marches from Seir and Edom; 'the One of Sinai'
+- ref: Hab 3:3, 7
+  rel: concept
+  note: God comes from Teman and Paran; Cushan and Midian tremble
+- ref: Ps 68:7-8
+  rel: concept
+  note: God of Sinai marches through the wilderness (MT 68:8-9)
+- ref: Exod 18:1-12
+  rel: concept
+  note: Jethro, priest of Midian, sacrifices and blesses YHWH
+- ref: Judg 1:16; 4:11
+  rel: attests
+  note: Kenites as kin of Moses' father-in-law
+- ref: Gen 4:26
+  rel: concept
+  note: People begin to call on YHWH's name in primeval times (non-P)
+related: [soleb-shasu-inscription, shasu, midianites-and-kenites, kuntillet-ajrud-inscriptions,
+  el, qos, mesha-stele, divine-warrior]
+media:
+- id: kuntillet-ajrud-inscriptions
+  role: primary
+external:
+  wikipedia: Yahweh
+  wikidata: Q766677
+editorial:
+  author_notes:
+  - >-
+    The earliest possible attestation is the Egyptian toponym "land of the Shasu of Yhw(3)"
+    at Soleb (Amenhotep III) and Amarah West (Ramesses II); its link to the divine name is
+    widely but not universally accepted.
+  - >-
+    Present the Midianite-Kenite hypothesis as influential but debated (Blenkinsopp 2008);
+    recent reconstructions (Römer, Lewis) differ on the southern origin.
+  - >-
+    Kuntillet ʿAjrud's "YHWH of Teman" supports southern associations; the Mesha Stele (9th
+    c.) is the earliest secure mention of YHWH.
+  - >-
+    Flag as fringe or discredited the claims of YHWH at Ebla (ya- names) or in Ugaritic yw
+    (KTU 1.1 IV 14).
+  sources_to_check:
+  - J. Blenkinsopp, "The Midianite-Kenite Hypothesis Revisited," JSOT 33 (2008)
+  - T. Römer, The Invention of God (2015)
+  - T. J. Lewis, The Origin and Character of God (2020)
+  - DDD, s.v. "Yahweh"
+  image_query: Soleb temple Shasu of Yhw inscription
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Exod 3:13-15 note no longer places Horeb in Midian
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

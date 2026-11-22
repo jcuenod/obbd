@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: egyptian-love-poetry
+file: egyptian-love-poetry.jpg
+title: >-
+  Papyrus with some love poems known as 'Songs from the Grove' on the recto and several administrative
+  texts on the verso - Museo Egizio (Turin) C 1966 p01.jpg
+caption: >-
+  The Turin papyrus of love poems known as the "Songs from the Grove", New Kingdom (Museo
+  Egizio, Turin, C 1966).
+description: >-
+  Love poetry was a new genre in Egyptian literature, which started spreading especially from
+  the New Kingdom onward. It was sung or recited to musical accompaniment. This papyrus contains
+  some strophes of the so-called “Songs from the Grove”. A pomegranate tree, a fig tree and
+  a sycamore tree take the floor in turn to praise their qualities or complain about being
+  neglected. The pomegranate tree begins, telling about how useful he is as a hiding place
+  for lovers “intoxicated by wine and must”. The sycamore invites a lady to a party to be
+  held in its shade with other young people and servants. F
+creator: null
+credit_line: Museo Egizio
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Unknown author. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Papyrus_with_some_love_poems_known_as_%27Songs_from_the_Grove%27_on_the_recto_and_several_administrative_texts_on_the_verso_-_Museo_Egizio_(Turin)_C_1966_p01.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/5/50/Papyrus_with_some_love_poems_known_as_%27Songs_from_the_Grove%27_on_the_recto_and_several_administrative_texts_on_the_verso_-_Museo_Egizio_%28Turin%29_C_1966_p01.jpg
+  sha1: a4c11a6f750089d20862b969b2446a57d7010dde
+  original_size: [6692, 3962]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×948 px
+size: [1600, 948]
+depicts: [egyptian-love-poetry]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

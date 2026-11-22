@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: high-places
+title: High Places (Bamot)
+aliases: [bāmôt, bamah]
+type: realia
+cultures: [hebrew, israelite, judahite, moabite]
+scope: >-
+  The bāmâ ("high place"), a local cult place or platform for sacrifice, criticized in the
+  books of Kings and suppressed in the reforms of Hezekiah and Josiah. The entry covers the
+  term's meaning, its Moabite parallel, and the archaeology of Iron Age cult platforms.
+passages:
+- ref: 1Sam 9:12-25
+  rel: practice
+  note: Samuel presides at a sacrifice at the bāmâ with a hall for guests
+- ref: 1Sam 10:5
+  rel: practice
+  note: Prophets descending from the high place
+- ref: 1Kgs 3:2-4
+  rel: practice
+  note: People sacrifice at high places; Gibeon the 'great high place'
+- ref: 1Kgs 11:7
+  rel: practice
+  note: Solomon builds high places for Chemosh and Molek
+- ref: 1Kgs 12:31-32
+  rel: practice
+  note: Jeroboam's houses on high places and non-Levitical priests
+- ref: 2Kgs 18:4, 22
+  rel: practice
+  note: Hezekiah removes the high places
+- ref: 2Kgs 23:8-9, 13, 15
+  rel: practice
+  note: Josiah defiles high places from Geba to Beersheba and at Bethel
+- ref: Jer 7:31
+  rel: practice
+  note: High place of Topheth in the Hinnom valley
+- ref: Ezek 20:29
+  rel: language
+  note: 'Wordplay on bāmâ: ''What is the high place to which you go?'''
+- ref: Num 22:41
+  rel: language
+  note: Bamoth-baal, 'high places of Baal'
+- ref: Amos 7:9
+  rel: practice
+  note: High places of Isaac to be made desolate
+related: [mesha-stele, altars, massebot, cult-reforms-archaeology, dan, josiah, hezekiah,
+  gibeon]
+media:
+- id: high-places
+  role: primary
+external:
+  wikipedia: High place
+  wikidata: Q4144531
+editorial:
+  author_notes:
+  - >-
+    The Mesha Stele (line 3) records Mesha building "this bmt for Chemosh". It is the key
+    extrabiblical attestation of the term.
+  - >-
+    Bāmâ does not necessarily mean a hilltop. High places could be in valleys (Jer 7:31) or
+    at gates (2 Kgs 23:8). The basic sense ("back" or "ridge", hence a raised platform) is
+    debated (Vaughan, 1974; Barrick, 2008).
+  - >-
+    Archaeological identifications (e.g. the Tel Dan platform, often called a "bamah") are
+    interpretive. Present them as such.
+  - >-
+    The negative evaluation is Deuteronomistic and tied to centralization. Before the reforms,
+    high places were normal YHWH sanctuaries.
+  image_query: Tel Dan high place
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

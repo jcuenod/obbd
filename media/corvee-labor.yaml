@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: corvee-labor
+file: corvee-labor.jpg
+title: Mesad Hashavyahu Ostracon in Israel Museum.jpg
+caption: >-
+  The Mesad Hashavyahu (Yavneh-Yam) ostracon, a field worker's petition about his confiscated
+  garment, late 7th century BCE (Israel Museum, Jerusalem).
+description: >-
+  The Yavne-Yam ostracon, also known as the Mesad Hashavyahu ostracon, is an ostracon containing
+  a written appeal by a field worker to the fortress's governor regarding the confiscation
+  of his cloak, which the writer considers to have been unjust. The artefact was found in
+  1960 by Joseph Naveh at Mesad Hashavyahu, near Yavne-Yam. The inscription is known as KAI
+  200. The picture was taken in Israel Museum.
+creator: פעמי-עליון
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: פעמי-עליון, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Mesad_Hashavyahu_Ostracon_in_Israel_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/61/Mesad_Hashavyahu_Ostracon_in_Israel_Museum.jpg
+  sha1: 50d4dd8700ef1b33b33e7619ddd785e8de6036d8
+  original_size: [3872, 4422]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1401×1600 px
+size: [1401, 1600]
+depicts: [corvee-labor, mesad-hashavyahu-ostracon, sabbath, writing-and-literacy]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

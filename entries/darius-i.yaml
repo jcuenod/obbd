@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: darius-i
+title: Darius I
+aliases: [Darius the Great]
+type: person
+cultures: [persian]
+date:
+  from: -522
+  to: -486
+  display: 522–486 BCE
+scope: >-
+  Darius I, Achaemenid king who seized the throne in 522 BCE, suppressed widespread revolts,
+  and reorganized the empire (satrapies, coinage, royal road, Persepolis). The rebuilding
+  of the Jerusalem temple (Haggai, Zechariah, Ezra 5-6) is dated to his reign.
+passages:
+- ref: Ezra 4:5, 24
+  rel: attests
+  note: Temple work halted until Darius's second year
+- ref: Ezra 5:1-6:15
+  rel: event
+  note: Temple rebuilding, Tattenai's inquiry, completion in Darius's sixth year
+- ref: Ezra 6:6-12
+  rel: event
+  note: Darius's decree confirming Cyrus's authorization
+- ref: Hag 1:1, 15; 2:10
+  rel: attests
+  note: Haggai's oracles dated by Darius's second year
+- ref: Zech 1:1, 7; 7:1
+  rel: attests
+  note: Zechariah's oracles dated by Darius's reign
+- ref: Dan 6:1
+  rel: language
+  disputed: true
+  note: 120 satraps under 'Darius the Mede' may echo Darius I's satrapy system (MT 6:2)
+related: [behistun-inscription, persepolis, persepolis-fortification-tablets, tattenai-tablet,
+  susa, persia, udjahorresnet-statue, darius-the-mede]
+media:
+- id: darius-i
+  role: primary
+external:
+  wikipedia: Darius the Great
+  wikidata: Q44387
+editorial:
+  author_notes:
+  - >-
+    Explain the accession crisis of 522 (Behistun) and its relevance to the date-formulas
+    of Haggai and Zechariah (520-518 BCE).
+  - >-
+    Temple completion in Adar of year 6 (515 BCE, Ezra 6:15) is the traditional date. Some
+    scholars (e.g. Edelman) argue for a later completion.
+  - >-
+    Explain that Ezra 4:6-23 (Xerxes, Artaxerxes) is placed out of chronological order before
+    the resumption under Darius.
+  - >-
+    Distinguish Darius I from Darius II (Elephantine documents) and from 'Darius the Persian'
+    in Neh 12:22.
+  sources_to_check:
+  - 'P. Briant, From Cyrus to Alexander: A History of the Persian Empire (2002)'
+  - 'A. Kuhrt, The Persian Empire: A Corpus of Sources from the Achaemenid Period (2007)'
+  image_query: Behistun relief Darius
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

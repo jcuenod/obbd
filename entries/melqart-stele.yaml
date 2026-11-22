@@ -1,0 +1,69 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: melqart-stele
+title: Melqart Stele of Bar-Hadad
+aliases: [Bar-Hadad Inscription, Breij Stele]
+type: artifact
+cultures: [aramean, phoenician]
+date:
+  from: -850
+  to: -800
+  circa: true
+  display: c. 850–800 BCE
+scope: >-
+  A basalt stele found in 1939 at Breij north of Aleppo, showing the god Melqart and dedicated
+  to him by 'Bar-Hadad son of [...], king of [...]'. It is important for Aramean history and
+  for the spread of the Tyrian god Melqart inland. The patronymic and royal title are badly
+  worn.
+passages:
+- ref: 1Kgs 15:18-20
+  rel: attests
+  disputed: true
+  note: Ben-hadad son of Tabrimmon son of Hezion, on Albright's reading of the patronymic
+- ref: 1Kgs 20:1
+  rel: attests
+  disputed: true
+  note: Ben-hadad king of Aram in the Ahab narratives
+- ref: 2Kgs 8:7-9
+  rel: attests
+  disputed: true
+  note: Ben-hadad, sick in Damascus before Hazael's accession
+- ref: 1Kgs 16:31-32
+  rel: setting
+  disputed: true
+  note: Tyrian Baal worship under Ahab and Jezebel; Melqart is often proposed
+related: [ben-hadad, melqart, hazael, damascus, arameans, phoenicians, jezebel]
+location:
+  institution: National Museum of Aleppo
+  accession: null
+media:
+- id: ben-hadad
+  role: gallery
+external:
+  wikipedia: Melqart stele
+  wikidata: Q96392571
+editorial:
+  author_notes:
+  - >-
+    Readings of the patronymic range from 'son of Tab-Rimmon son of Hezion' (Albright, Cross),
+    which matches 1 Kgs 15:18, to readings that make Bar-Hadad a king of Arpad (Pitard 1988).
+    There is no consensus.
+  - Do not use the stele to fix the number or sequence of the biblical Ben-hadads.
+  - >-
+    Its iconography (Melqart with axe and ankh) is useful evidence for Phoenician religious
+    influence in Syria in the 9th century.
+  sources_to_check: [KAI 201, COS 2.33, 'Pitard, BASOR 272 (1988)']
+  image_query: Melqart stele Aleppo
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

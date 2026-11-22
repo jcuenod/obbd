@@ -1,0 +1,69 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: constellations
+title: Constellations in the Hebrew Bible
+type: concept
+cultures: [babylonian, hebrew]
+scope: >-
+  The named stars and constellations in the Hebrew Bible (kîmâ, kĕsîl, ʿāš/ʿayiš, mazzālôt,
+  mazzārôt), problems of their identification, and the background of Mesopotamian star lore
+  and astronomy.
+passages:
+- ref: Job 9:9
+  rel: language
+  note: ʿāš, kĕsîl, kîmâ, and the 'chambers of the south' made by God
+- ref: Job 38:31-33
+  rel: language
+  note: Binding the Pleiades (kîmâ), loosing Orion (kĕsîl), leading out mazzārôt, guiding
+    ʿayiš
+- ref: Amos 5:8
+  rel: language
+  note: The maker of the Pleiades and Orion
+- ref: Isa 13:10
+  rel: language
+  note: Stars and their 'constellations' (kĕsîlêhem) withhold light
+- ref: 2Kgs 23:5
+  rel: practice
+  note: Offerings to sun, moon, the mazzālôt, and the host of heaven
+related: [astrology, host-of-heaven, enuma-anu-enlil, nimrod, cosmology]
+media:
+- id: constellations
+  role: primary
+external:
+  wikipedia: MUL.APIN
+  wikidata: Q83076
+editorial:
+  author_notes:
+  - >-
+    Standard identifications are kîmâ as the Pleiades and kĕsîl ("fool", or a giant) as Orion.
+    ʿāš/ʿayiš is uncertain (Ursa Major, Hyades/Aldebaran, and other proposals). Mazzārôt (Job
+    38:32) and mazzālôt (2 Kgs 23:5) are often linked to Akkadian manzaltu/manzāzu ("station")
+    and taken as zodiacal constellations or lunar stations. Be clear about the uncertainty.
+  - >-
+    MUL.APIN (early first millennium copies) is the key compendium of Babylonian star lore.
+    The zodiac of twelve equal signs developed in Babylonia around the 5th century BCE, so
+    later than most of these biblical texts.
+  - >-
+    The later identification of Orion with Nimrod is post-biblical and should not be read
+    back into the texts.
+  sources_to_check:
+  - Hermann Hunger and David Pingree, MUL.APIN (AfO Beiheft 24, 1989)
+  image_query: MUL.APIN tablet British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: removed Gen 15:5 (no named stars or constellations)
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

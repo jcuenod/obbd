@@ -1,0 +1,57 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: amel-marduk
+title: Amel-Marduk (Evil-merodach)
+aliases: [Evil-merodach]
+type: person
+cultures: [babylonian]
+date:
+  from: -562
+  to: -560
+  display: 562–560 BCE
+scope: >-
+  Son and successor of Nebuchadnezzar II who reigned two years before being murdered by Neriglissar.
+  In his accession year he released the exiled Judahite king Jehoiachin from prison.
+passages:
+- ref: 2Kgs 25:27-30
+  rel: event
+  note: Release of Jehoiachin and his place at the king's table
+- ref: Jer 52:31-34
+  rel: event
+  note: Parallel account of Jehoiachin's release
+- ref: Jer 39:3, 13
+  rel: attests
+  disputed: true
+  note: Nergal-sharezer, often identified with Neriglissar, his murderer and successor
+related: [jehoiachin, jehoiachin-ration-tablets, nebuchadnezzar-ii, babylonian-exile, babylonia]
+media: []
+external:
+  wikipedia: Amel-Marduk
+  wikidata: Q313234
+editorial:
+  author_notes:
+  - >-
+    The Hebrew Evil-merodach is a deformation of Amel-Marduk ('man of Marduk'), possibly a
+    deliberate pun ('fool').
+  - Berossus (via Josephus) describes him as lawless; the Babylonian sources are sparse.
+  - >-
+    The Jehoiachin ration tablets from Nebuchadnezzar's reign show the king already receiving
+    rations before his formal release.
+  - >-
+    Identification of the biblical Nergal-sharezer with the later king Neriglissar is plausible
+    but not certain.
+  sources_to_check:
+  - Sack, Amel-Marduk 562-560 B.C. (AOAT 4, 1972)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

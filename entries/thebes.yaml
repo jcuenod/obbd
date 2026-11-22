@@ -1,0 +1,68 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: thebes
+title: Thebes (No-Amon)
+aliases: [No-Amon, 'No', Waset, Luxor]
+type: site
+cultures: [egyptian]
+scope: >-
+  Thebes (Egyptian Waset; Hebrew Nōʾ ʾĀmôn, "city of Amun"), the religious capital of New
+  Kingdom Egypt in the area of modern Luxor. It includes the temples of Karnak and Luxor on
+  the east bank and the royal tombs and mortuary temples on the west. Its sack by Ashurbanipal
+  in 664/663 BCE is recalled in Nahum.
+passages:
+- ref: Nah 3:8-10
+  rel: event
+  note: Thebes sacked and its people exiled, as a precedent for Nineveh's fall
+- ref: Jer 46:25
+  rel: attests
+  note: Amon of Thebes (Nōʾ) punished with pharaoh and Egypt's gods
+- ref: Ezek 30:14-16
+  rel: attests
+  note: Thebes among the Egyptian cities to be judged
+related: [ashurbanipal, rassam-cylinder, taharqa, cush, memphis, medinet-habu-sea-peoples,
+  tomb-of-rekhmire, bubastite-portal]
+media:
+- id: thebes
+  role: primary
+- id: thebes-2
+  role: gallery
+external:
+  wikipedia: Thebes, Egypt
+  wikidata: Q101583
+  pleiades: '786017'
+editorial:
+  author_notes:
+  - >-
+    Ashurbanipal's annals describe the Assyrian sack of Thebes, which drove out Tantamani.
+    It gives a terminus post quem for Nah 3:8-10, and Nahum's use of it is a key dating argument.
+  - >-
+    Explain that No-Amon renders Egyptian niwt Imn, "city of Amun". Older translations sometimes
+    rendered it "Alexandria" anachronistically.
+  - >-
+    Point readers to related monuments at Thebes, such as the Bubastite Portal, the Medinet
+    Habu reliefs, the Merneptah Stele's findspot, and Rekhmire's tomb.
+  sources_to_check:
+  - Novotny and Jeffers, The Royal Inscriptions of Ashurbanipal (RINAP 5/1, 2018)
+  image_query: Karnak temple Luxor
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q101583 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 25.72056
+  lon: 32.61028
+  source: wikidata:Q101583

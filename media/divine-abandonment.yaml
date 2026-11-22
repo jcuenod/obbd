@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: divine-abandonment
+file: divine-abandonment.jpg
+title: >-
+  Black basalt monument of king Esarhaddon. It narrates Esarhaddon's restoration of Babylon.
+  Circa 670 BCE. From Babylon, Mesopotamia, Iraq. The British Museum, London.jpg
+caption: >-
+  Black basalt monument of Esarhaddon narrating the restoration of Babylon, c. 670 BCE (British
+  Museum).
+description: >-
+  Black basalt monument of king Esarhaddon. It narrates Esarhaddon's restoration of Babylon.
+  Circa 670 BCE. From Babylon, Mesopotamia, Iraq. The British Museum, London.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Black_basalt_monument_of_king_Esarhaddon._It_narrates_Esarhaddon%27s_restoration_of_Babylon._Circa_670_BCE._From_Babylon,_Mesopotamia,_Iraq._The_British_Museum,_London.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/c/c0/Black_basalt_monument_of_king_Esarhaddon._It_narrates_Esarhaddon%27s_restoration_of_Babylon._Circa_670_BCE._From_Babylon%2C_Mesopotamia%2C_Iraq._The_British_Museum%2C_London.jpg
+  sha1: 225e20cb70b6088b583900bba42efc65b1d91bb7
+  original_size: [2848, 4288]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1063×1600 px
+size: [1063, 1600]
+depicts: [divine-abandonment]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

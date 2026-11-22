@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ararat-urartu-2
+file: ararat-urartu-2.jpg
+title: UrartianCaldron02.jpg
+caption: Urartian bronze cauldron (Museum of Anatolian Civilizations, Ankara).
+description: An Urartian cauldron from the Museum of Anatolian civilizations, Ankara.
+creator: EvgenyGenkin
+credit_line: Own work Evgeny Genkin's photo
+license:
+  id: CC-BY-2.5
+  name: CC BY 2.5
+  url: https://creativecommons.org/licenses/by/2.5
+attribution: EvgenyGenkin, CC BY 2.5, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:UrartianCaldron02.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/7/7b/UrartianCaldron02.jpg
+  sha1: 1962fec410914d13e3adb4b55747b123992698e2
+  original_size: [2690, 2503]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1489 px
+size: [1600, 1489]
+depicts: [ararat-urartu]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

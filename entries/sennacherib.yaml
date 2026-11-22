@@ -1,0 +1,69 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: sennacherib
+title: Sennacherib
+type: person
+cultures: [assyrian]
+date:
+  from: -705
+  to: -681
+  display: 705–681 BCE
+scope: >-
+  King of Assyria, son of Sargon II, who campaigned against Judah in 701, destroyed Babylon
+  in 689, rebuilt Nineveh as his capital, and was murdered by one or more of his sons in 681.
+passages:
+- ref: 2Kgs 18:13-19:37
+  rel: event
+  note: Invasion of Judah, siege of Jerusalem, withdrawal
+- ref: Isa 36-37
+  rel: event
+  note: Parallel account of the 701 crisis
+- ref: 2Chr 32:1-23
+  rel: event
+  note: Chronicler's account of the invasion
+- ref: 2Kgs 19:23-24
+  rel: imagery
+  note: Boast of crossing mountains, felling cedars and drying up rivers
+- ref: 2Kgs 18:33-35
+  rel: parallel
+  note: Rabshakeh's rhetoric echoes Assyrian royal ideology
+- ref: 2Kgs 19:37
+  rel: event
+  note: Murder by his sons Adrammelech and Sharezer
+related: [sennacherib-annals, sennacherib-campaign-701, lachish-reliefs, hezekiah, nineveh,
+  esarhaddon, babylonian-chronicles]
+media:
+- id: sennacherib
+  role: primary
+external:
+  wikipedia: Sennacherib
+  wikidata: Q207140
+editorial:
+  author_notes:
+  - >-
+    Machinist's study of Assyrian royal language in First Isaiah is the standard starting
+    point for the boasts in 2 Kgs 19:23-24 and Isa 10.
+  - >-
+    The Babylonian Chronicle dates the murder to 681 and attributes it to 'his son'; the biblical
+    account compresses the interval between 701 and 681.
+  - >-
+    Herodotus 2.141 (mice gnawing bowstrings) is a separate Egyptian tradition sometimes linked
+    to 2 Kgs 19:35; note it without harmonising.
+  sources_to_check:
+  - RINAP 3/1-2 (Grayson and Novotny 2012-2014)
+  - Machinist, "Assyria and Its Image in the First Isaiah," JAOS 103 (1983)
+  - ABC 1
+  image_query: Sennacherib relief Lachish British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

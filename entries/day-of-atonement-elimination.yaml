@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: day-of-atonement-elimination
+title: Day of Atonement and Elimination Rites
+aliases: [Yom Kippur, scapegoat, Azazel]
+type: practice
+cultures: [hittite, hurrian, babylonian, hebrew]
+scope: >-
+  The Day of Atonement ritual of Lev 16, especially the goat sent to Azazel, and related biblical
+  rites of purification and riddance, set against Hittite, Hurrian, Mesopotamian, and Eblaite
+  elimination rituals in which impurity or evil is transferred to a carrier and sent away.
+passages:
+- ref: Lev 16:1-34
+  rel: practice
+  note: Annual purgation of the sanctuary and people
+- ref: Lev 16:8-10, 20-22
+  rel: parallel
+  note: Lots over two goats; sins confessed over one and sent to Azazel in the wilderness
+- ref: Lev 16:14-19
+  rel: practice
+  note: Blood rites purging the sanctuary
+- ref: Lev 14:4-7
+  rel: parallel
+  note: Live bird released into the open field after a skin disease is cured
+- ref: Lev 14:49-53
+  rel: parallel
+  note: Same bird rite for a house
+- ref: Zech 5:5-11
+  rel: parallel
+  note: Wickedness in a basket carried off to Shinar
+- ref: 1Sam 6:1-9
+  rel: parallel
+  disputed: true
+  note: >-
+    Philistines send the ark away with guilt offerings to end a plague; cf. Hittite plague
+    rituals
+- ref: Lev 23:26-32
+  rel: practice
+  note: Day of Atonement as šabbat šabbātôn with self-affliction
+- ref: Heb 9:6-14
+  rel: concept
+  note: High priest's annual entry reinterpreted
+related: [hittite-elimination-rituals, purity-and-impurity, akitu-festival, demons, sacrifice,
+  ebla, lots-and-cleromancy]
+media: []
+external:
+  wikipedia: Scapegoat
+  wikidata: Q245122
+editorial:
+  author_notes:
+  - >-
+    Hittite and Hurrian rituals (e.g. those of Ashella, Uhhamuwa, and Pulisa) send an animal
+    or human substitute, sometimes adorned, into enemy territory to carry away plague. Wright's
+    Disposal of Impurity is the standard comparative study. Two Eblaite texts describe a goat
+    with a silver bracelet sent off to the steppe before a royal wedding (Zatelli, VT 1998).
+  - >-
+    Babylonian kuppuru rites (cognate with Hebrew kipper) include wiping the Ezida shrine
+    with a slaughtered sheep's carcass during the akītu, after which the carcass and the officiants
+    are expelled. This is a close parallel to Lev 16.
+  - >-
+    The meaning of ʿăzāʾzēl is debated. It may be a demon's name (cf. 1 En 8:1; 10:4-8, Asael),
+    "the goat that goes away", or a place name ("rugged cliff"). The demon interpretation
+    is the most common critical view.
+  - >-
+    Milgrom's interpretation of the ḥaṭṭāʾt as a "purification offering" that purges the sanctuary
+    is widely, though not universally, accepted.
+  sources_to_check:
+  - David P. Wright, The Disposal of Impurity (SBLDS 101, 1987)
+  - Jacob Milgrom, Leviticus 1-16 (AB 3, 1991)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ekron-2
+file: ekron-2.jpg
+title: Philistine pottery Drinking bowl.JPG
+caption: Philistine pottery drinking bowl from Tel Miqne-Ekron, 12th century BCE.
+description: >-
+  Philistine pottery קרמיקה פלשתית From Tel Miqne קערת שתייה מהמאה ה-12 לפני הספירה מתל מקנה
+  (עקרון)
+creator: Hanay
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Hanay, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Philistine_pottery_Drinking_bowl.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/e/eb/Philistine_pottery_Drinking_bowl.JPG
+  sha1: f6570308600533c437da9548d3c32885c728243b
+  original_size: [1876, 1808]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1542 px
+size: [1600, 1542]
+depicts: [ekron]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: honey-and-beekeeping
+title: Honey and Beekeeping
+aliases: [Debash, Apiculture]
+type: realia
+cultures: [hebrew]
+scope: >-
+  Honey (dĕbaš) in ancient Israel, including wild bee honey, fruit syrups, and apiculture,
+  with the Iron Age apiary at Tel Reḥov and the formula 'a land flowing with milk and honey'.
+passages:
+- ref: Exod 3:8
+  rel: concept
+  note: '''A land flowing with milk and honey'''
+- ref: Deut 8:8
+  rel: realia
+  note: '''A land of olive trees and honey'', probably date syrup'
+- ref: Deut 32:13
+  rel: imagery
+  note: Honey from the rock
+- ref: Judg 14:8-9
+  rel: realia
+  note: Bees and honey in the lion's carcass
+- ref: 1Sam 14:25-29
+  rel: realia
+  note: Jonathan eats wild honey in the forest
+- ref: Ps 19:10
+  rel: imagery
+  note: Ordinances sweeter than honey (MT 19:11)
+- ref: Prov 24:13
+  rel: realia
+  note: '''Eat honey, for it is good'''
+- ref: Ezek 27:17
+  rel: practice
+  note: Judah and Israel export honey to Tyre
+- ref: 2Chr 31:5
+  rel: practice
+  note: Firstfruits of honey (dĕbaš) with grain, wine, and oil
+- ref: Lev 2:11
+  rel: practice
+  note: Leaven and honey excluded from altar offerings
+- ref: Matt 3:4
+  rel: realia
+  note: John's diet of locusts and wild honey
+related: [agriculture-and-farming, firstfruits-and-firstborn, baal-cycle, hittite-laws, sacrifice]
+media:
+- id: honey-and-beekeeping
+  role: primary
+external:
+  wikipedia: Beekeeping
+  wikidata: Q176353
+editorial:
+  author_notes:
+  - >-
+    The Tel Reḥov apiary (10th-9th centuries, excavated by A. Mazar) is the earliest excavated
+    apiary in the Near East. It had rows of unfired clay cylinder hives, and analysis suggests
+    imported Anatolian bees. Give hive numbers carefully, separating those found from estimates.
+  - >-
+    Dĕbaš can mean bee honey or fruit (date, grape, fig) syrup. Context decides; the seven-species
+    list of Deut 8:8 and the firstfruits in 2 Chr 31:5 favour fruit syrup.
+  - >-
+    Background for the 'milk and honey' formula includes the Ugaritic Baal Cycle ('the wadis
+    run with honey', KTU 1.6 III) and Egyptian descriptions of Canaan (Sinuhe). Beekeeping
+    is attested in Egyptian reliefs and Hittite Laws (beehive theft).
+  image_query: Tel Rehov beehives
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

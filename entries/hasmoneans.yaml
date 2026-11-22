@@ -1,0 +1,101 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: hasmoneans
+title: Hasmonean Dynasty
+aliases: [Hasmonean Dynasty, Maccabees (dynasty), Hasmonaeans]
+type: people
+cultures: [jewish, greek]
+date:
+  from: -152
+  to: -37
+  display: 152–37 BCE
+scope: >-
+  The priestly family of Mattathias, which led the Maccabean revolt and then ruled Judea as
+  high priests (from Jonathan in 152 BCE) and later as kings until Pompey's intervention in
+  63 BCE and the death of Antigonus in 37 BCE. The entry covers their rule, expansion, coinage
+  and ideology, and the opposition they provoked. The revolt itself, to 160 BCE, is treated
+  under maccabean-revolt.
+passages:
+- ref: 1Macc 2:1-5
+  rel: attests
+  note: Mattathias, a priest of the family of Joarib, and his five sons
+- ref: 1Macc 8:17-32
+  rel: event
+  note: Judas's embassy to Rome and treaty of friendship
+- ref: 1Macc 10:18-21
+  rel: event
+  note: >-
+    Alexander Balas makes Jonathan high priest; he dons the vestments at Tabernacles (152
+    BCE)
+- ref: 1Macc 13:41-42
+  rel: event
+  note: '''The yoke of the Gentiles was removed''; documents dated by Simon''s years'
+- ref: 1Macc 14:27-47
+  rel: event
+  note: >-
+    Decree making Simon high priest, commander and ruler 'until a trustworthy prophet should
+    arise'
+- ref: 1Macc 16:11-22
+  rel: event
+  note: Simon murdered at Dok; John Hyrcanus succeeds
+- ref: Dan 11:34
+  rel: event
+  disputed: true
+  note: '''A little help'' for the persecuted, often read as a cool view of the Maccabees'
+- ref: John 4:20
+  rel: setting
+  note: Samaritan worship on Gerizim, whose temple John Hyrcanus destroyed
+related: [maccabean-revolt, antiochus-iv, herod-the-great, jewish-sects, psalms-of-solomon,
+  dead-sea-scrolls, samaritan-origins, coinage]
+media:
+- id: hasmoneans
+  role: primary
+- id: hasmoneans-2
+  role: gallery
+external:
+  wikipedia: Hasmonean dynasty
+  wikidata: Q496922
+editorial:
+  author_notes:
+  - >-
+    The name 'Hasmonean' comes from Josephus (an ancestor Asamonaios) and rabbinic sources,
+    not from 1-2 Maccabees. Rulers: Jonathan (high priest 152), Simon (142-135), John Hyrcanus
+    I (135-104), Aristobulus I (104-103, the first to take the royal title according to Josephus),
+    Alexander Jannaeus (103-76), Salome Alexandra (76-67), then Hyrcanus II and Aristobulus
+    II, Pompey's conquest (63), and Antigonus (40-37).
+  - >-
+    Opposition: a non-Zadokite family held the high priesthood together with civil and later
+    royal power. The Qumran 'Wicked Priest' is often identified with Jonathan or Simon (debated);
+    the Pharisees opposed Jannaeus; Pss. Sol. 17 condemns the Hasmoneans for seizing David's
+    throne. Pesher Nahum's 'Lion of Wrath' who hanged men alive is usually taken as Jannaeus,
+    who crucified 800 opponents (Josephus, Ant. 13.380; verify).
+  - >-
+    Expansion: Idumea and Iturea were annexed and their people circumcised, and Samaria and
+    the Gerizim temple were destroyed. Debate the forced-conversion reading and the date of
+    the destruction (archaeology suggests c. 111-110 BCE). This expansion is the background
+    to a Jewish Galilee in the NT period.
+  - >-
+    1 Maccabees is dynastic history written in favour of the house of Simon. The Danielic
+    'little help' (Dan 11:34) is read by many as reserve toward the militants, but this is
+    contested.
+  - >-
+    Coins: Yehoḥanan the high priest and 'the council (ḥever) of the Jews'; Jannaeus's bilingual
+    'Yehonatan the king / Basileōs Alexandrou'. Who first minted is debated (see coinage).
+  sources_to_check:
+  - J. A. Goldstein, I Maccabees (AB 41, 1976)
+  - 'E. Regev, The Hasmoneans: Ideology, Archaeology, Identity (2013)'
+  - K. Atkinson, A History of the Hasmonean State (2016)
+  image_query: Alexander Jannaeus prutah anchor star
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

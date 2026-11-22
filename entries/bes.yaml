@@ -1,0 +1,65 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: bes
+title: Bes
+aliases: [Bes-image, Bes figures]
+type: deity
+cultures: [egyptian, phoenician, judahite]
+scope: >-
+  The Egyptian protective dwarf god with a lion-like mane, frontal face and feathered crown,
+  guardian of childbirth, sleep and the household against snakes and demons. Bes amulets,
+  figurines and vessels were common in the Iron Age and Persian-period Levant, and Bes-like
+  figures appear in the Kuntillet ʿAjrud drawings.
+passages:
+- ref: Isa 3:18-20
+  rel: realia
+  note: >-
+    Women's ornaments include crescents and amulets (lĕḥāšîm); Bes pendants are among the
+    commonest Iron Age amulets
+- ref: Ps 91:5-6, 13
+  rel: concept
+  disputed: true
+  note: 'Protection from night terrors, plague, lion and serpent: the dangers Bes warded off'
+related: [kuntillet-ajrud-inscriptions, kuntillet-ajrud, amulets, demons, lamashtu-pazuzu-amulets,
+  apotropaic-doorposts-and-thresholds]
+media:
+- id: bes
+  role: primary
+external:
+  wikipedia: Bes
+  wikidata: Q188931
+editorial:
+  author_notes:
+  - >-
+    On Kuntillet ʿAjrud Pithos A, the two standing figures beneath the 'YHWH of Samaria and
+    his asherah' inscription were once identified as YHWH and Asherah (Gilula). Most specialists
+    now see Bes-type figures, and Beck argued that the drawings and the inscription are not
+    one composition. Correct the popular 'portrait of YHWH and his wife'.
+  - >-
+    'Bes' is a convenient modern label for a type. In Egypt the iconography covers several
+    related demon-gods (Aha and others), and the name Bes is late. Explain this briefly.
+  - >-
+    Bes's protective role (childbirth, children, sleep, against snakes) explains his popularity
+    in households and on amulets in Judah and Israel. This shows Egyptian apotropaic imagery
+    used by Judahites without implying worship of Bes as a major deity.
+  - >-
+    Note Persian-period Bes vessels and the large Bes figures in Phoenician and Cypriot contexts.
+  sources_to_check:
+  - P. Beck, 'The Drawings from Ḥorvat Teiman (Kuntillet ʿAjrud),' Tel Aviv 9 (1982)
+  - O. Keel and C. Uehlinger, Gods, Goddesses, and Images of God in Ancient Israel (1998)
+  - V. Dasen, Dwarfs in Ancient Egypt and Greece (1993)
+  - C. Herrmann, Ägyptische Amulette aus Palästina/Israel (OBO 138, 1994)
+  image_query: Bes amulet faience
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

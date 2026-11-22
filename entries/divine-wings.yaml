@@ -1,0 +1,76 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: divine-wings
+title: Divine Wings ("Shadow of Your Wings")
+aliases: [shadow of your wings]
+type: concept
+cultures: [egyptian, ane]
+scope: >-
+  Biblical images of God's protective wings and their background in winged deities, protective
+  goddesses, winged sun discs, and the cherubim whose wings overshadowed the ark.
+passages:
+- ref: Exod 19:4
+  rel: imagery
+  note: '''I bore you on eagles'' wings'''
+- ref: Deut 32:11
+  rel: imagery
+  note: Eagle hovering over its young and bearing them on its pinions
+- ref: Ruth 2:12
+  rel: imagery
+  note: Refuge under YHWH's wings (kĕnāpāyw)
+- ref: Ps 17:8
+  rel: imagery
+  note: '''Hide me in the shadow of your wings'''
+- ref: Ps 36:7
+  rel: imagery
+  note: Refuge in the shadow of your wings, in a temple context; MT 36:8
+- ref: Ps 57:1
+  rel: imagery
+  note: Refuge in the shadow of your wings; MT 57:2
+- ref: Ps 61:4
+  rel: imagery
+  note: Abiding in your tent, refuge under your wings; MT 61:5
+- ref: Ps 91:4
+  rel: imagery
+  note: Covered with his pinions, under his wings
+- ref: Exod 25:20
+  rel: realia
+  note: Cherubim spread their wings over the mercy seat
+- ref: Mal 4:2
+  rel: imagery
+  note: Sun of righteousness with healing in its wings; MT 3:20
+- ref: Matt 23:37
+  rel: imagery
+  note: Hen gathering her brood under her wings
+related: [winged-sun-disk, cherubim, cherub-throne, lmlk-seal-impressions, egyptian-kingship,
+  ark-of-the-covenant]
+media:
+- id: divine-wings
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Two main explanations compete. One reads the image as bird imagery (Deut 32:11; Matt 23:37),
+    the other as an allusion to the temple cherubim (Ps 36; 61 pair wings with temple and
+    tent). Keel and others draw especially on Egyptian protective winged goddesses. Present
+    both.
+  - >-
+    Egyptian iconography of Isis and Nephthys, the vulture goddess Nekhbet, and the winged
+    sun disc above temple doorways is the richest comparative material. Levantine ivories
+    and seals adopted it.
+  - Do not reduce the image to one source. Several image traditions converge.
+  image_query: Isis winged Tutankhamun canopic shrine
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

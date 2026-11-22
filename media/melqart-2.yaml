@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: melqart-2
+file: melqart-2.jpg
+title: TyrianHalfShekel102-101-BNF-Gallica.jpg
+caption: >-
+  Silver half-shekel of Tyre with the head of Melqart-Heracles, 102–101 BCE (Bibliothèque
+  nationale de France).
+description: >-
+  A half-shekel minted at the Phoenician city of Tyre around 102 to 101 BCE, two and a half
+  decades after it regained its independence from the fading Seleucid Empire: "The human-like
+  head is that of Melkarth, the Tyrian deity (often called, slightly misleadingly, the 'Tyrian
+  Hercules'). On the other side of the coin is an eagle with one foot on the prow of a galley.
+  Next to it is a club, which is a symbol of Melkarth." File:C+B-Shekel-FigC-TyrianHalfShekel.PNG
+creator: Unknown authorUnknown author
+credit_line: >-
+  This image comes from Gallica Digital Library and is available under the digital ID https://catalogue.bnf.fr/ark:/12148/cb41794330d
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Unknown authorUnknown author. CC0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:TyrianHalfShekel102-101-BNF-Gallica.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/5/54/TyrianHalfShekel102-101-BNF-Gallica.jpg
+  sha1: 5b2d6b7dca09a86d36d8fcd32a627f453c645404
+  original_size: [837, 406]
+  retrieved: '2026-11-20'
+derivative: null
+size: [837, 406]
+depicts: [melqart, tyrian-shekel]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,93 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: arad-ostraca
+title: Arad Ostraca
+type: artifact
+cultures: [judahite]
+date:
+  from: -605
+  to: -587
+  circa: true
+  display: c. 605–587 BCE
+scope: >-
+  More than a hundred Hebrew ostraca from the Judahite fortress at Arad, with smaller Aramaic
+  and other groups. The best-known group is the archive of Eliashib son of Eshiyahu (early
+  6th century), recording rations of wine, flour and oil for the Kittim and others and military
+  orders about an Edomite threat.
+passages:
+- ref: Obad 10-14
+  rel: setting
+  note: Edom's hostility toward Judah in the last years of the kingdom
+- ref: Ps 137:7
+  rel: setting
+  note: Edom remembered for its part in Jerusalem's fall
+- ref: Ezek 25:12-14
+  rel: setting
+  note: Oracle against Edom for vengeance on Judah
+- ref: Gen 10:4
+  rel: attests
+  note: >-
+    Kittim, who receive rations in the ostraca; probably Greek or Cypriot mercenaries in Judahite
+    service
+- ref: Jer 2:10
+  rel: language
+  note: '''Coasts of Kittim'' as a western people'
+- ref: 1Chr 9:19
+  rel: attests
+  disputed: true
+  note: '''Sons of Korah'' on Arad ostracon 49, perhaps a Levitical family'
+related: [arad, edomites, ostraca, letter-writing-conventions, fall-of-jerusalem-587, qos,
+  writing-and-literacy, cult-reforms-archaeology]
+location:
+  institution: Israel Museum, Jerusalem (many)
+  accession: null
+media:
+- id: arad-ostraca
+  role: primary
+- id: arad-ostraca-2
+  role: gallery
+- id: ostraca
+  role: gallery
+external:
+  wikipedia: Arad ostraca
+  wikidata: Q17636167
+editorial:
+  author_notes:
+  - >-
+    Date given is for the Eliashib archive (Stratum VI). The corpus as a whole runs from the
+    8th (perhaps 9th) century to the Persian and later periods, and Arad's stratigraphy has
+    been revised since Aharoni (Herzog; Singer-Avitz).
+  - >-
+    Arad 24 orders troops to Ramat-negeb 'lest Edom should come there'. Arad 40, earlier,
+    also refers to Edom. These letters support the biblical memory of Edomite hostility, but
+    do not tie it to a specific biblical event.
+  - >-
+    Arad 18 mentions 'the house of YHWH', most likely the Jerusalem temple. Keep it distinct
+    from the Arad shrine, which is treated under arad and cult-reforms-archaeology.
+  - >-
+    The ostraca are important evidence for literacy, administration, and the bureaucratic
+    use of hieratic numerals and measures in Judah.
+  sources_to_check:
+  - COS 3.43
+  - Aharoni, Arad Inscriptions (1981)
+  - Dobbs-Allsopp et al., Hebrew Inscriptions (2005)
+  image_query: Arad ostracon Eliashib
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Gen 10:4 note clarified (Kittim as named in the
+    ostraca)
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

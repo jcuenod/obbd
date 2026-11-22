@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: beth-shemesh
+file: beth-shemesh.jpg
+title: Air Tel Beit Shemesh1.jpg
+caption: >-
+  Aerial view of Tel Beth-shemesh looking west, with rescue excavations beside Route 38 in
+  the foreground.
+description: >-
+  מבט לכיוון מערב. בחלק שקרוב אלינו נראות חפירות ההצלה, במסגרת שדרוג כביש 38. מעבר לכביש מופיע
+  התל המקורי לפני ביצוע עבודות החפירה שבוצעו בצד המזרחי של הכביש.
+creator: Q97498007
+credit_line: צילום רחפן
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Q97498007, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Air_Tel_Beit_Shemesh1.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/d/d7/Air_Tel_Beit_Shemesh1.jpg
+  sha1: 7da08a057d279c0be0c7b6f5a3df6adc7dd7fbbe
+  original_size: [4000, 2250]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×900 px
+size: [1600, 900]
+depicts: [beth-shemesh]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

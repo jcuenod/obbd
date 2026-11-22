@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: petra-and-sela-2
+file: petra-and-sela-2.jpg
+title: Al Deir Petra.JPG
+caption: Ad-Deir ('the Monastery'), a Nabataean rock-cut monument at Petra.
+description: >-
+  Al Deir, "The Monastery", a monument closely resembling Al Khazneh though less ornate. It
+  can be accessed climbing a long flight of stairs carved in the mountain above Petra. A man
+  can be seen at the top of the facade, slightly on the right of the picture.
+creator: Azurfrog
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Azurfrog, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Al_Deir_Petra.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/e/e8/Al_Deir_Petra.JPG
+  sha1: a16df826335dd182dce4222b2c873e1da579dee3
+  original_size: [6000, 4000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [petra-and-sela]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: egyptian-rule-in-canaan
+file: egyptian-rule-in-canaan.jpg
+title: Victory Stela of Seti I - first stela - Beth Shean - 1294 BCE.jpeg
+caption: >-
+  First Beth-Shean stele of Seti I, basalt, commemorating a campaign against rebellious towns
+  near Beth-Shean in his first year, c. 1294 BCE.
+description: >-
+  Basalt, commemorates a successful military operation led by the pharaoh Seti I in the first
+  year of his reign, against rebellious towns in the vicinity of Beth Shean
+creator: Marsupium
+credit_line: Own work
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Marsupium. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Victory_Stela_of_Seti_I_-_first_stela_-_Beth_Shean_-_1294_BCE.jpeg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/38/Victory_Stela_of_Seti_I_-_first_stela_-_Beth_Shean_-_1294_BCE.jpeg
+  sha1: 1169717289979a3a15d01be3f724ae7432d06194
+  original_size: [2448, 3264]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1200×1600 px
+size: [1200, 1600]
+depicts: [egyptian-rule-in-canaan]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

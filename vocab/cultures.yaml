@@ -1,0 +1,35 @@
+# Cultural/regional tags. Use the most specific tag that applies, and add the
+# broader tag only when it adds information (e.g. [assyrian] not
+# [assyrian, mesopotamian]); the build derives the broader region.
+cultures:
+  sumerian:      {label: Sumerian,       region: mesopotamia}
+  akkadian:      {label: Akkadian (Old Akkadian / Old Babylonian), region: mesopotamia}
+  babylonian:    {label: Babylonian,     region: mesopotamia}
+  assyrian:      {label: Assyrian,       region: mesopotamia}
+  mesopotamian:  {label: Mesopotamian (general), region: mesopotamia}
+  amorite:       {label: Amorite / Mari, region: mesopotamia}
+  hurrian:       {label: Hurrian,        region: mesopotamia}
+  egyptian:      {label: Egyptian,       region: egypt}
+  nubian:        {label: Nubian / Kushite, region: egypt}
+  hittite:       {label: Hittite,        region: anatolia}
+  luwian:        {label: Luwian / Neo-Hittite, region: anatolia}
+  urartian:      {label: Urartian,       region: anatolia}
+  ugaritic:      {label: Ugaritic,       region: levant}
+  canaanite:     {label: Canaanite (Bronze Age Levant), region: levant}
+  phoenician:    {label: Phoenician / Punic, region: levant}
+  aramean:       {label: Aramean,        region: levant}
+  israelite:     {label: Israelite (northern kingdom), region: levant}
+  judahite:      {label: Judahite,       region: levant}
+  hebrew:        {label: Hebrew / Israelite (general), region: levant}
+  moabite:       {label: Moabite,        region: levant}
+  ammonite:      {label: Ammonite,       region: levant}
+  edomite:       {label: Edomite,        region: levant}
+  philistine:    {label: Philistine,     region: levant}
+  arabian:       {label: Arabian (Qedarite, South Arabian, Nabataean), region: arabia}
+  persian:       {label: Persian / Achaemenid, region: iran}
+  elamite:       {label: Elamite,        region: iran}
+  greek:         {label: Greek / Hellenistic, region: mediterranean}
+  roman:         {label: Roman,          region: mediterranean}
+  jewish:        {label: Second Temple Jewish, region: levant}
+  christian:     {label: Early Christian, region: mediterranean}
+  ane:           {label: Ancient Near East (pan-regional), region: ane}

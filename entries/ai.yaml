@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ai
+title: Ai (et-Tell)
+aliases: [et-Tell, Aiath, Aija]
+type: site
+cultures: [canaanite]
+scope: >-
+  The site of Ai in the conquest narrative, usually identified with et-Tell east of Bethel.
+  Covers the Early Bronze city, the small Iron I village, the resulting historical and etiological
+  readings of Joshua 7-8, and alternative identifications.
+passages:
+- ref: Gen 12:8; 13:3
+  rel: setting
+  note: Abram's tent between Bethel and Ai
+- ref: Josh 7:2-5
+  rel: setting
+  disputed: true
+  note: Israel's defeat at Ai, 'near Beth-aven, east of Bethel'
+- ref: Josh 8:1-29
+  rel: setting
+  disputed: true
+  note: Ambush and burning of Ai; et-Tell lacks a Late Bronze city
+- ref: Josh 8:28
+  rel: language
+  note: 'hāʿay ''the ruin'': Ai made a ''heap forever'', an etiological note'
+- ref: Isa 10:28
+  rel: setting
+  note: Aiath on the route of the Assyrian advance
+- ref: Ezra 2:28
+  rel: setting
+  note: Men of Bethel and Ai among the returnees
+related: [jericho, bethel, emergence-of-israel, conquest-accounts-and-war-rhetoric, herem]
+media:
+- id: ai
+  role: primary
+external:
+  wikipedia: Ai (Canaan)
+  wikidata: Q403166
+editorial:
+  author_notes:
+  - >-
+    Marquet-Krause (1933-35) and Callaway (1964-72) found a large Early Bronze city destroyed
+    c. 2400 BCE (EB III), a gap of over a millennium, then a small unfortified Iron I village.
+    There was no city for Joshua to conquer.
+  - >-
+    Hence the widespread reading of Josh 7-8 as an etiology of a conspicuous ruin (Alt, Noth).
+    Callaway himself abandoned historicizing solutions.
+  - >-
+    Khirbet el-Maqatir, proposed by Bryant Wood and the Associates for Biblical Research,
+    rests on a conquest date of c. 1400 and is not accepted in mainstream scholarship. Mention
+    it as a minority view.
+  - >-
+    The identification depends on Bethel being Beitin. Other candidates (e.g. Khirbet Haiyan,
+    Khirbet Nisya) have also failed to produce a Late Bronze city.
+  sources_to_check: [NEAEHL]
+  image_query: et-Tell Ai excavations
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates from Wikidata Q403166 (verify).
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 31.91694
+  lon: 35.26111
+  source: wikidata:Q403166

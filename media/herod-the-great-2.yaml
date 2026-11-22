@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: herod-the-great-2
+file: herod-the-great-2.jpg
+title: Herodium from above 2.jpg
+caption: Herodium, Herod's fortified palace and burial site near Bethlehem, from the air.
+description: Herodium
+creator: Asaf T.
+credit_line: >-
+  Source: Hebrew Wikipedia. Then moved to en.wikipedia; description page is/was here. Edited
+  by Xavax 2007-05-10.
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Asaf T.. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Herodium_from_above_2.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/5/5f/Herodium_from_above_2.jpg
+  sha1: fafaa30edebf8296d99c4470f1e5d2b1a75cc12e
+  original_size: [2272, 1704]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [herod-the-great]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

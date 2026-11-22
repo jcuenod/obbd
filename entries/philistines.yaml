@@ -1,0 +1,91 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: philistines
+title: Philistines
+aliases: [Peleset, Pelishtim, Pentapolis]
+type: people
+cultures: [philistine]
+date:
+  from: -1175
+  to: -604
+  circa: true
+  display: c. 1175–604 BCE
+scope: >-
+  The people of the southern coastal plain whose five cities (Gaza, Ashkelon, Ashdod, Ekron,
+  Gath) were Israel's western neighbours and rivals. Covers their Egyptian and Assyrian attestations,
+  Aegean-linked material culture and its development, language and religion, and the biblical
+  portrait.
+passages:
+- ref: Gen 26:1-18
+  rel: setting
+  note: Isaac and Abimelech, 'king of the Philistines' at Gerar (anachronistic)
+- ref: Josh 13:2-3
+  rel: language
+  note: The five 'lords' (sĕrānîm), a title probably of non-Semitic origin
+- ref: Judg 13-16
+  rel: setting
+  note: The Samson cycle
+- ref: 1Sam 4-6
+  rel: setting
+  note: Capture and return of the ark
+- ref: 1Sam 13:19-22
+  rel: realia
+  note: Philistine control of smithing
+- ref: 1Sam 17:4-7
+  rel: realia
+  disputed: true
+  note: Goliath's armour, a mixture of Aegean and other elements
+- ref: 1Sam 31
+  rel: setting
+  note: Saul's death on Gilboa
+- ref: Amos 9:7
+  rel: setting
+  note: Philistines brought from Caphtor
+- ref: Jer 47:4
+  rel: setting
+  note: '''The remnant of the coastland of Caphtor'''
+related: [sea-peoples, medinet-habu-sea-peoples, gath, ekron, ashkelon, ashdod, pig-avoidance,
+  dagon]
+media:
+- id: philistines
+  role: primary
+- id: philistines-2
+  role: gallery
+external:
+  wikipedia: Philistines
+  wikidata: Q193776
+editorial:
+  author_notes:
+  - >-
+    The Peleset appear in Ramesses III's Medinet Habu inscriptions (Year 8). Assyrian texts
+    call them Palastu or Pilistu, the source of the name Palestine.
+  - >-
+    Aegean-style material culture appears from the early twelfth century, including locally
+    made Mycenaean IIIC pottery, hearths, pig consumption and loom weights. This was quickly
+    entangled with local Canaanite culture. Present the aDNA results from Ashkelon (2019)
+    with care.
+  - The 'Philistines' of Gen 21 and 26 are anachronistic.
+  - >-
+    Few Philistine-language texts survive. Names such as Achish (Ikausu) and the title seren
+    (cf. Greek tyrannos) are suggestive. The Ekron inscription is in a Phoenician-type script
+    and language.
+  - >-
+    Goliath's armour has been read as Aegean (Yadin) or as a composite reflecting later, perhaps
+    seventh-century, hoplite equipment (Finkelstein).
+  sources_to_check:
+  - Dothan, The Philistines and Their Material Culture (1982)
+  - Killebrew, Biblical Peoples and Ethnicity (2005)
+  image_query: Medinet Habu Peleset relief
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

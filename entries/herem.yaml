@@ -1,0 +1,81 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: herem
+title: Ḥerem (the Ban)
+aliases: [The ban, Devotion to destruction, Ḥērem]
+type: practice
+cultures: [hebrew, moabite, amorite]
+scope: >-
+  Ḥērem: the devotion of persons or property to the deity, in war by destruction and in sacral
+  law by irrevocable consecration. The entry covers the biblical texts, the Mesha Stele parallel,
+  other partial ancient Near Eastern analogues, and debates about its historicity and ideology.
+passages:
+- ref: Deut 7:1-6
+  rel: practice
+  note: The nations of the land to be devoted; no covenant or intermarriage
+- ref: Deut 20:16-18
+  rel: practice
+  note: In the towns of the land 'let nothing that breathes remain alive'
+- ref: Deut 13:12-18
+  rel: practice
+  note: An apostate Israelite town devoted (MT 13:13-19)
+- ref: Num 21:2-3
+  rel: practice
+  note: Vow of ḥērem and Hormah
+- ref: Josh 6:17-21, 24
+  rel: practice
+  note: Jericho devoted; metals to YHWH's treasury
+- ref: Josh 7:1-26
+  rel: practice
+  note: Achan's violation of the devoted things
+- ref: Josh 8:26-27
+  rel: practice
+  note: Ai devoted, but livestock and spoil allowed
+- ref: 1Sam 15:1-33
+  rel: practice
+  note: Amalek to be devoted; Saul's failure
+- ref: 1Kgs 20:42
+  rel: practice
+  note: Ahab releases 'the man I had devoted to destruction'
+- ref: Lev 27:28-29
+  rel: practice
+  note: Devoted things most holy; devoted persons cannot be ransomed
+- ref: Mic 4:13
+  rel: language
+  note: Devote their gain to YHWH
+related: [mesha-stele, conquest-accounts-and-war-rhetoric, treatment-of-captives, amalekites,
+  jericho, mari-letters, canaanites]
+media:
+- id: herem
+  role: primary
+external:
+  wikipedia: Herem (war or property)
+  wikidata: Q6120248
+editorial:
+  author_notes:
+  - >-
+    Mesha Stele line 17, 'for I had devoted it (hḥrmth) to Ashtar-Chemosh', is the only clear
+    extrabiblical war ḥērem. Mari asakkum (taboo booty) is a partial analogue only.
+  - >-
+    Use P. D. Stern, The Biblical Ḥerem (1991), and Lohfink's TDOT article. Many scholars
+    see Deuteronomy's ḥērem against the Canaanites as programmatic and ideological, written
+    when those peoples no longer existed, but rooted in older war practice.
+  - Distinguish the war ḥērem from the sacral-legal ḥērem of Lev 27 and Num 18:14.
+  - >-
+    Handle the ethical discussion even-handedly. Avoid both apologetic minimizing and anachronistic
+    'genocide' framing without discussion.
+  sources_to_check: [KAI 181 (Mesha Stele), COS 2.23]
+  image_query: Mesha Stele Louvre
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

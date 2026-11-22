@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: hamath
+file: hamath.jpg
+title: >-
+  Slab with Hittite hieroglyphic inscriptions mentioning the activities of king Urhilina and
+  his son. 9th century BC. From Hama. Museum of the Ancient Orient, Istanbul.jpg
+caption: >-
+  Basalt slab from Hama with a Hieroglyphic Luwian inscription of King Urhilina and his son,
+  9th century BCE (Ancient Orient Museum, Istanbul).
+description: >-
+  Basalt slab with Hittite hieroglyphic inscriptions mentioning the activities of king Urhilina
+  and his son. Late Hittite period, 9th century BC. From Hama, in modern-day Syria. Museum
+  of the Ancient Orient, Istanbul.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Slab_with_Hittite_hieroglyphic_inscriptions_mentioning_the_activities_of_king_Urhilina_and_his_son._9th_century_BC._From_Hama._Museum_of_the_Ancient_Orient,_Istanbul.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/3c/Slab_with_Hittite_hieroglyphic_inscriptions_mentioning_the_activities_of_king_Urhilina_and_his_son._9th_century_BC._From_Hama._Museum_of_the_Ancient_Orient%2C_Istanbul.jpg
+  sha1: b79877f25b234aeb285f4dfe648d19b8de614e82
+  original_size: [4510, 4016]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1425 px
+size: [1600, 1425]
+depicts: [hamath]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: timna
+title: Timna
+aliases: [Timna Valley, King Solomon's Mines (popular)]
+type: site
+cultures: [egyptian, edomite]
+scope: >-
+  The copper-mining valley north of Eilat in the southern Arabah. Covers Egyptian New Kingdom
+  mining and the Hathor shrine, the later 'Midianite' phase with its tent shrine and copper
+  snake, and Iron Age smelting.
+passages:
+- ref: Num 21:4-9
+  rel: realia
+  disputed: true
+  note: Bronze serpent; cf. the copper snake from the Timna shrine
+- ref: Exod 26:7-14
+  rel: realia
+  disputed: true
+  note: Tent coverings; textile remains of a tent shrine compared to the tabernacle
+- ref: Gen 36:12, 22, 40
+  rel: language
+  note: Timna as an Edomite (Horite) personal and clan name
+- ref: 1Kgs 7:45-47
+  rel: realia
+  disputed: true
+  note: Solomon's bronze; 'King Solomon's Mines' is a popular misnomer
+related: [copper-production, faynan, midianites-and-kenites, nehushtan, edomites, tabernacle]
+media:
+- id: copper-production
+  role: gallery
+- id: timna
+  role: primary
+- id: timna-2
+  role: gallery
+external:
+  wikipedia: Timna Valley
+  wikidata: Q1973199
+  pleiades: '746825'
+editorial:
+  author_notes:
+  - >-
+    Glueck's 1930s label 'King Solomon's Mines' was overturned by Rothenberg's excavations,
+    which dated much activity to the Egyptian New Kingdom (Seti I to Ramesses V) and uncovered
+    the Hathor shrine.
+  - >-
+    Ben-Yosef's Central Timna Valley Project showed through radiocarbon that smelting peaked
+    in the eleventh to ninth centuries BCE, organized by a local society that left few buildings.
+    He proposes a link to early Edom.
+  - >-
+    Qurayyah painted ('Midianite') pottery and a copper snake with a gilded head come from
+    the post-Egyptian phase of the shrine. Rothenberg's tent-shrine reading and the link to
+    Num 21 are suggestive only.
+  sources_to_check:
+  - Rothenberg, The Egyptian Mining Temple at Timna (1988)
+  image_query: Timna Hathor temple
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q1973199 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 29.78778
+  lon: 34.98889
+  source: wikidata:Q1973199

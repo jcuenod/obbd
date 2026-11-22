@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: bull-iconography
+file: bull-iconography.jpg
+title: Israelite Bronze Bull Statuette, Samaria, Iron Age I, 12th Century BC (43217369651).jpg
+caption: >-
+  Bronze bull figurine from the Samarian hills, Iron Age I, 12th century BCE (Israel Museum,
+  Jerusalem).
+description: >-
+  Israel Museum, Jerusalem, Israel. Complete indexed photo collection at WorldHistoryPics.com
+creator: Gary Todd from Xinzheng, China
+credit_line: Israelite Bronze Bull Statuette, Samaria, Iron Age I, 12th Century BC
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Gary Todd from Xinzheng, China. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Israelite_Bronze_Bull_Statuette,_Samaria,_Iron_Age_I,_12th_Century_BC_(43217369651).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/79/Israelite_Bronze_Bull_Statuette%2C_Samaria%2C_Iron_Age_I%2C_12th_Century_BC_%2843217369651%29.jpg
+  sha1: cabd0f6355aacbd86d3389ffdbd7393a0526d5e0
+  original_size: [6000, 4000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [bull-iconography]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

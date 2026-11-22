@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: maccabean-revolt
+title: Maccabean Revolt
+type: event
+cultures: [jewish, greek]
+date:
+  from: -167
+  to: -160
+  display: 167–160 BCE
+scope: >-
+  The Judean uprising against Seleucid rule and Antiochus IV's religious measures, led by
+  Mattathias and his sons. It saw the temple rededicated in 164 BCE and led ultimately to
+  Hasmonean independence. The entry covers the period to Judas's death in 160 BCE and the
+  sources that narrate it.
+passages:
+- ref: 1Macc 2:1-70
+  rel: event
+  note: Mattathias's revolt at Modein
+- ref: 1Macc 2:29-41
+  rel: practice
+  note: Debate over fighting on the Sabbath
+- ref: 1Macc 4:36-59
+  rel: event
+  note: Purification and rededication of the temple; an eight-day festival
+- ref: 2Macc 10:1-8
+  rel: event
+  note: Rededication celebrated like Sukkot
+- ref: 2Macc 7:1-42
+  rel: event
+  note: Martyrdom of the seven brothers and their mother; hope of resurrection
+- ref: Dan 11:32-35
+  rel: event
+  note: The people who know their God resist; the wise fall; 'a little help'
+- ref: Dan 8:13-14
+  rel: event
+  note: Sanctuary restored after 2,300 evenings and mornings
+- ref: John 10:22-23
+  rel: practice
+  note: Festival of Dedication (Hanukkah) in Jerusalem
+- ref: Heb 11:35-38
+  rel: concept
+  note: Martyrs tortured, refusing release, for a better resurrection
+related: [antiochus-iv, heliodorus-stele, jewish-sects, afterlife-and-resurrection, josephus,
+  sabbath, messianic-expectations]
+media: []
+external:
+  wikipedia: Maccabean Revolt
+  wikidata: Q7930888
+editorial:
+  author_notes:
+  - >-
+    Compare the sources: 1 Maccabees (pro-Hasmonean dynastic history), 2 Maccabees (epitome
+    of Jason of Cyrene; temple and martyr focus), Daniel, and Josephus (Ant. 12-13).
+  - >-
+    Note the problems of Seleucid-era chronology between 1 and 2 Maccabees, and the identity
+    of the Hasideans (1 Macc 2:42; 7:13).
+  - >-
+    Archaeology: the possible identification of the Seleucid Akra (Givati excavations, 2015)
+    is debated.
+  sources_to_check:
+  - J. A. Goldstein, I Maccabees (AB 41, 1976)
+  - J. A. Goldstein, II Maccabees (AB 41A, 1983)
+  - D. R. Schwartz, 2 Maccabees (CEJL, 2008)
+  - 'B. Bar-Kochva, Judas Maccabaeus: The Jewish Struggle against the Seleucids (1989)'
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-1-sol

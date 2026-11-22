@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tree-of-life
+title: Tree of Life
+type: concept
+cultures: [ane, assyrian, egyptian, hebrew]
+scope: >-
+  The tree (or plant) of life in Genesis, wisdom literature, Ezekiel, and Revelation, and
+  the ancient Near Eastern motifs of life-giving plants, sacred trees flanked by animals or
+  genii, and tree goddesses.
+passages:
+- ref: Gen 2:9
+  rel: concept
+  note: Tree of life in the midst of the garden
+- ref: Gen 3:22-24
+  rel: concept
+  note: Access to the tree of life barred by cherubim
+- ref: Prov 3:18
+  rel: imagery
+  note: Wisdom is 'a tree of life to those who lay hold of her'
+- ref: Prov 11:30
+  rel: imagery
+  note: Fruit of the righteous as a tree of life
+- ref: Prov 13:12
+  rel: imagery
+  note: '''A desire fulfilled is a tree of life'''
+- ref: Prov 15:4
+  rel: imagery
+  note: A gentle tongue as a tree of life
+- ref: Ezek 47:12
+  rel: imagery
+  note: Trees by the temple river bearing monthly fruit and healing leaves
+- ref: Rev 22:2, 14
+  rel: imagery
+  note: Tree of life in the new Jerusalem
+- ref: Exod 25:31-36
+  rel: realia
+  note: Lampstand with branches, almond blossoms, and calyxes as a stylized tree
+related: [garden-of-god, assyrian-sacred-tree, asherah, menorah, gilgamesh-epic, adapa, taanach-cult-stand]
+media:
+- id: tree-of-life
+  role: primary
+- id: tree-of-life-2
+  role: gallery
+external:
+  wikipedia: Tree of life (biblical)
+  wikidata: Q4746911
+editorial:
+  author_notes:
+  - >-
+    Mesopotamian literature has life-giving plants rather than a "tree of life" as such (Gilgamesh
+    XI's plant "Old Man Becomes Young", Adapa's bread and water of life). Present these as
+    thematic parallels.
+  - >-
+    The stylized tree flanked by caprids is common in Levantine iconography (Lachish ewer,
+    Kuntillet ʿAjrud pithos A, Taanach stand). Its association with Asherah is widely argued
+    but debated. The Assyrian "sacred tree" has its own entry, and its meaning is uncertain.
+  - >-
+    Mention Egyptian tree goddesses (Nut or Hathor in a sycamore offering water to the deceased)
+    as a separate image complex.
+  - >-
+    Parpola's Kabbalistic interpretation of the Assyrian tree is not mainstream. Leave it
+    out or flag it as such.
+  image_query: Lachish ewer
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

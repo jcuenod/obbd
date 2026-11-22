@@ -1,0 +1,72 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: caiaphas-ossuary
+title: Caiaphas Ossuary
+type: artifact
+cultures: [jewish]
+date:
+  from: 1
+  to: 70
+  circa: true
+  display: c. 1–70 CE
+scope: >-
+  An ornate limestone ossuary from a family tomb discovered in 1990 in Jerusalem's Peace Forest,
+  inscribed 'Yehosef bar Qayafa'. It is widely identified as the ossuary of the high priest
+  Joseph Caiaphas (c. 18-36/37 CE).
+passages:
+- ref: Matt 26:3, 57
+  rel: attests
+  note: Caiaphas the high priest; Josephus names him 'Joseph called Caiaphas'
+- ref: John 11:49-53
+  rel: attests
+  note: Caiaphas counsels that one man die for the people
+- ref: John 18:13-14, 24
+  rel: attests
+  note: Annas, father-in-law of Caiaphas; Jesus sent to Caiaphas
+- ref: Luke 3:2
+  rel: attests
+  note: High priesthood of Annas and Caiaphas
+- ref: Acts 4:6
+  rel: attests
+  note: Annas and Caiaphas at the hearing of Peter and John
+related: [ossuaries, josephus, herods-temple, pilate-stone, jewish-sects, forgeries-in-biblical-archaeology]
+location:
+  institution: Israel Museum, Jerusalem
+  accession: null
+media:
+- id: caiaphas-ossuary
+  role: primary
+- id: caiaphas-ossuary-2
+  role: gallery
+external:
+  wikipedia: Caiaphas ossuary
+  wikidata: Q5017513
+editorial:
+  author_notes:
+  - >-
+    The identification is widely accepted but has been questioned (the spelling Qafa/Qayafa,
+    the modest tomb, the absence of a priestly title). Present it as probable rather than
+    certain.
+  - Note Josephus, Ant. 18.35, 95, and the family name Caiaphas.
+  - >-
+    The 'Miriam daughter of Yeshua son of Caiaphas' ossuary (published 2011) was recovered
+    from looters. Its authenticity is generally accepted, but its context is lost.
+  sources_to_check:
+  - >-
+    L. Y. Rahmani, A Catalogue of Jewish Ossuaries in the Collections of the State of Israel
+    (1994)
+  - Z. Greenhut and R. Reich, reports on the Caiaphas tomb in ʿAtiqot 21 (1992)
+  image_query: Caiaphas ossuary Israel Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

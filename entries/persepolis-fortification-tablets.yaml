@@ -1,0 +1,86 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: persepolis-fortification-tablets
+title: Persepolis Fortification and Treasury Tablets
+type: text
+cultures: [persian, elamite]
+date:
+  from: -509
+  to: -458
+  circa: true
+  display: c. 509–458 BCE
+scope: >-
+  The administrative archives excavated at Persepolis in 1933-34: thousands of Fortification
+  tablets (509-493 BCE, mostly Elamite, some Aramaic) recording rations, travel provisions,
+  and estate management, and the Treasury tablets (492-458 BCE). They are the primary documentary
+  evidence for how the Achaemenid heartland was run.
+passages:
+- ref: Neh 2:7-9
+  rel: practice
+  note: >-
+    Royal letters for safe passage; cf. sealed travel authorizations for rations on royal
+    roads
+- ref: Esth 3:13-15; 8:10, 14
+  rel: practice
+  note: Royal couriers on swift horses; cf. provisions for express messengers
+- ref: Neh 2:8
+  rel: language
+  note: '''Keeper of the king''s park (pardēs)'', a Persian loanword attested in the tablets'
+- ref: Eccl 2:5
+  rel: language
+  note: pardēs 'park', Old Iranian loanword
+- ref: Ezra 6:9-10
+  rel: practice
+  note: Royal provision for sacrifices; tablets record rations for offerings to various gods
+- ref: Neh 5:14-18
+  rel: practice
+  note: The governor's food allowance and table within the ration system
+- ref: Ezra 4:7
+  rel: language
+  note: Aramaic as a language of imperial administration alongside Elamite
+related: [persepolis, darius-i, xerxes-i, persia, aramaic-language, marduka-tablet, roads-and-highways,
+  court-officials]
+media:
+- id: persepolis-fortification-tablets
+  role: primary
+- id: persepolis-fortification-tablets-2
+  role: gallery
+external:
+  wikipedia: Persepolis Administrative Archives
+  wikidata: Q3752162
+editorial:
+  author_notes:
+  - >-
+    Explain the archive's discovery by the Oriental Institute (Chicago), the Persepolis Fortification
+    Archive Project, and the legal dispute and phased return of tablets to Iran.
+  - >-
+    Henkelman's work shows state-funded offerings to Elamite, Iranian, and Babylonian gods.
+    This is useful context for Persian support of local cults, but avoid making it a model
+    of 'tolerance'.
+  - >-
+    Several officials named Marduka appear. The name is common, so do not use these texts
+    to identify Mordecai.
+  - >-
+    The royal courier system also lies behind Greek angareuō 'to compel (service)' (Matt 5:41;
+    27:32), a possible cross-reference.
+  sources_to_check:
+  - R. T. Hallock, Persepolis Fortification Tablets (OIP 92, 1969)
+  - G. G. Cameron, Persepolis Treasury Tablets (OIP 65, 1948)
+  - >-
+    W. F. M. Henkelman, The Other Gods Who Are: Studies in Elamite-Iranian Acculturation Based
+    on the Persepolis Fortification Texts (Achaemenid History 14, 2008)
+  - 'A. Kuhrt, The Persian Empire: A Corpus of Sources from the Achaemenid Period (2007)'
+  image_query: Persepolis Fortification Tablet Elamite
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

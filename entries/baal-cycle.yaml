@@ -1,0 +1,106 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: baal-cycle
+title: Baal Cycle
+aliases: [Baal Epic, Baʿlu Myth, Baal and Anat]
+type: text
+cultures: [ugaritic]
+date:
+  from: -1350
+  to: -1185
+  circa: true
+  display: c. 1350–1185 BCE
+scope: >-
+  The Ugaritic mythological cycle on six tablets (KTU 1.1-1.6) narrating Baal's combat with
+  Yam (Sea), the building of his palace on Mount Zaphon, and his death at the hands of Mot
+  (Death) and return to life and kingship. The entry covers the composition and its biblical
+  comparanda; the deities themselves have their own entries.
+passages:
+- ref: Ps 29
+  rel: parallel
+  note: >-
+    Storm-god hymn: divine assembly, thunderous voice over the waters, Lebanon and Sirion,
+    enthronement
+- ref: Ps 93
+  rel: parallel
+  note: Divine kingship established over the raging floods (neharot)
+- ref: Exod 15:1-18
+  rel: parallel
+  note: Victory at the sea, mountain sanctuary, and eternal kingship in sequence
+- ref: Isa 27:1
+  rel: parallel
+  note: Leviathan the fleeing, twisting serpent; nearly verbatim with KTU 1.5 I 1-3
+- ref: Ps 74:13-14
+  rel: parallel
+  note: Smashing the heads of the sea dragons and Leviathan
+- ref: Ps 48:2
+  rel: language
+  note: Zion as yarkete ṣāpôn, transferring Baal's mountain Zaphon (MT 48:3)
+- ref: Ps 68:4
+  rel: language
+  note: '''Rider on the clouds/steppes'' recalls Baal''s epithet rkb ʿrpt (MT 68:5)'
+- ref: Isa 25:8
+  rel: imagery
+  note: YHWH swallows Death, reversing Mot's all-devouring maw
+- ref: Isa 14:12-15
+  rel: parallel
+  disputed: true
+  note: Failed ascent to the divine mountain; cf. Athtar's failed enthronement on Zaphon
+- ref: Dan 7:9-14
+  rel: parallel
+  disputed: true
+  note: Aged enthroned judge and cloud-riding figure; El and Baal pattern (Emerton)
+- ref: 1Kgs 18:20-40
+  rel: polemic
+  note: YHWH, not Baal, controls rain and fire; mockery of an absent god
+- ref: Deut 14:1
+  rel: practice
+  note: Gashing oneself in mourning; cf. El and Anat lacerate themselves for Baal
+related: [ugaritic-texts, ugarit, baal, chaoskampf, cloud-rider, cosmic-mountain, leviathan,
+  temple-building-accounts]
+media:
+- id: baal-cycle
+  role: primary
+external:
+  wikipedia: Baal Cycle
+  wikidata: Q2735731
+editorial:
+  author_notes:
+  - >-
+    Date refers to the extant tablets, written by the scribe Ilimilku under a King Niqmaddu;
+    whether this is Niqmaddu II (mid-14th c.) or Niqmaddu III (late 13th c.) is debated. The
+    story is older and orally transmitted.
+  - >-
+    The tablet order (especially of KTU 1.1-1.3) and whether the six tablets form one continuous
+    narrative are disputed; present the standard sequence Yam - palace - Mot as conventional,
+    not certain.
+  - >-
+    Avoid the older seasonal-ritual reading (de Moor's agricultural calendar) and the Frazerian
+    "dying and rising god" frame as settled interpretations; both are now widely criticized.
+  - >-
+    The Ps 29 adaptation thesis (Ginsberg, Cross) is mainstream but not unanimous; distinguish
+    shared West Semitic idiom from direct literary dependence throughout.
+  - >-
+    Note the seven-day building of Baal's palace (fire burning six days, completed on the
+    seventh) in connection with seven-day patterns and temple-building accounts.
+  sources_to_check:
+  - KTU 1.1-1.6 (= CTA 1-6)
+  - COS 1.86
+  - ANET 129-142
+  - M. S. Smith in S. B. Parker (ed.), Ugaritic Narrative Poetry (1997)
+  - M. S. Smith and W. T. Pitard, The Ugaritic Baal Cycle, vols. 1-2 (VTSup 55, 114)
+  - N. Wyatt, Religious Texts from Ugarit (2nd ed., 2002)
+  image_query: Baal Cycle tablet Ugarit
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

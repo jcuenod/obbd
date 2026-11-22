@@ -1,0 +1,81 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: papyrus-anastasi
+title: Late Egyptian Miscellanies (Papyri Anastasi)
+aliases: [Late Egyptian Miscellanies, Papyrus Anastasi I, Papyrus Anastasi V, Papyrus Anastasi
+    VI]
+type: text
+cultures: [egyptian]
+date:
+  from: -1220
+  to: -1190
+  circa: true
+  display: c. 1220–1190 BCE
+scope: >-
+  Nineteenth Dynasty scribal papyri (school miscellanies and model letters). P. Anastasi I
+  is a satirical letter testing a scribe's knowledge of Canaanite routes and toponyms. P.
+  Anastasi V and VI include frontier reports on escaped servants and on Shasu of Edom admitted
+  to pasture in the Wadi Tumilat.
+passages:
+- ref: Gen 47:4
+  rel: practice
+  note: Pastoralists admitted to Egyptian territory to keep their flocks alive (P. Anastasi
+    VI)
+- ref: Exod 1:11
+  rel: attests
+  note: Pithom (Pr-Itm of Tjeku) named in P. Anastasi VI
+- ref: Exod 14:5
+  rel: parallel
+  note: Escaped servants pursued past the frontier forts (P. Anastasi V); not the same event
+- ref: Exod 12:37
+  rel: language
+  disputed: true
+  note: Succoth possibly the Egyptian Tjeku (Wadi Tumilat region)
+- ref: Num 13:32-33
+  rel: parallel
+  note: Fearsome giant inhabitants of Canaan's passes (P. Anastasi I)
+related: [shasu, pithom, edomites, exodus-historical-questions, scribes-and-scribal-education,
+  roads-and-highways, slavery]
+location:
+  institution: British Museum, London
+  accession: null
+media: []
+external:
+  wikipedia: Papyrus Anastasi I
+  wikidata: Q552406
+editorial:
+  author_notes:
+  - >-
+    The Shasu of Edom report (P. Anastasi VI) and the runaway report (P. Anastasi V) show
+    routine frontier administration in the eastern Delta. They illustrate the plausibility
+    of the Genesis and Exodus settings but are not evidence for those events.
+  - >-
+    Identifying Succoth with Tjeku and Pithom with Tell er-Retabeh or Tell el-Maskhuta affects
+    the dating of the Exodus geography. See the Pithom entry.
+  - >-
+    P. Anastasi I (Hori's letter to Amenemope) is valuable for Late Bronze Canaanite geography
+    (e.g., Megiddo and its pass, Beth-shean, Joppa) and for Egyptian views of Canaan. Its
+    giant-like Shasu are literary hyperbole.
+  - >-
+    Other miscellanies (e.g., P. Anastasi III and IV, which praise Pi-Ramesses and mention
+    brickmaking) belong in the discussion but are not covered by this entry's title. Mention
+    them as needed.
+  sources_to_check:
+  - Caminos, Late-Egyptian Miscellanies (1954)
+  - ANET 259
+  - ANET 475-479
+  - Fischer-Elfert, Die satirische Streitschrift des Papyrus Anastasi I (1986)
+  image_query: Papyrus Anastasi I British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

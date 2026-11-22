@@ -1,0 +1,73 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ishtar
+title: Ishtar/Inanna
+aliases: [Inanna, Ištar]
+type: deity
+cultures: [mesopotamian, sumerian, assyrian]
+scope: >-
+  Ishtar (Sumerian Inanna), the Mesopotamian goddess of sexual love and war, identified with
+  the planet Venus, with major cults at Uruk, Nineveh and Arbela. The entry covers her mythology
+  and cult and the biblical passages most often discussed in relation to her.
+passages:
+- ref: Jer 7:18
+  rel: concept
+  disputed: true
+  note: Ishtar (šarrat šamê) as the leading candidate for the Queen of Heaven
+- ref: Jer 44:17-19
+  rel: practice
+  disputed: true
+  note: Cakes and libations for the Queen of Heaven; cf. kamānu cakes for Ishtar
+- ref: Ezek 8:14
+  rel: concept
+  note: Weeping for Tammuz, Ishtar's consort
+- ref: Isa 41:8-13
+  rel: form
+  note: '''Fear not'' oracles; cf. Neo-Assyrian oracles of Ishtar of Arbela'
+- ref: Song 4:9-12
+  rel: parallel
+  disputed: true
+  note: '''My sister, my bride''; cf. Inanna-Dumuzi love songs'
+- ref: Esth 2:7
+  rel: language
+  disputed: true
+  note: Esther possibly from Ishtar, or from Persian 'star'
+related: [descent-of-inanna-ishtar, ishtar-gate, queen-of-heaven, tammuz, astarte, sumerian-love-songs,
+  neo-assyrian-prophecies, burney-relief]
+media:
+- id: ishtar
+  role: primary
+- id: neo-assyrian-prophecies
+  role: gallery
+external:
+  wikipedia: Inanna
+  wikidata: Q272523
+editorial:
+  author_notes:
+  - >-
+    Treat Ishtar and Astarte as cognate but distinct; first-millennium Levantine syncretism
+    is plausible but should not be assumed.
+  - >-
+    The Neo-Assyrian prophecies to Esarhaddon from Ishtar of Arbela are the strongest formal
+    parallel to Deutero-Isaiah's salvation oracles.
+  - >-
+    Love-song parallels to the Song of Songs are typological; avoid the older cultic-mythological
+    (sacred-marriage) reading of the Song as consensus.
+  - >-
+    Correct the "temple prostitution" stereotype; Herodotus 1.199 and related claims are widely
+    doubted.
+  sources_to_check: [SAA 9, 'DDD, s.v. "Ishtar"']
+  image_query: Ishtar Akkadian cylinder seal
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

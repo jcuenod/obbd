@@ -1,0 +1,97 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tell-tayinat
+title: Tell Tayinat (Kunulua)
+aliases: [Kunulua, Kullania, Calno, Calneh]
+type: site
+cultures: [luwian, assyrian]
+scope: >-
+  A large mound in the Amuq plain of southern Turkey, ancient Kunulua, capital of the Neo-Hittite
+  kingdom of Patina (Unqi). Tiglath-pileser III conquered it in 738 BCE and it became the
+  Assyrian provincial centre Kullania. It has produced a tripartite temple beside a palace
+  (Building II) and, in a later temple (Building XVI), a copy of Esarhaddon's succession treaty.
+passages:
+- ref: Isa 10:9
+  rel: attests
+  note: '''Is not Calno like Carchemish?'': Kullania, conquered by Tiglath-pileser III in
+    738'
+- ref: Amos 6:2
+  rel: attests
+  note: '''Cross over to Calneh, and see'''
+- ref: 1Kgs 6:2-3
+  rel: realia
+  note: Tripartite temple with porch; Tayinat Building II is a close Iron Age parallel
+- ref: 1Kgs 7:1-12
+  rel: realia
+  note: Temple built within the royal palace complex, as at Tayinat
+- ref: Deut 31:24-26
+  rel: practice
+  note: >-
+    Covenant document deposited in the sanctuary; cf. the treaty tablet found in Building
+    XVI
+- ref: Deut 13:1-18
+  rel: parallel
+  note: >-
+    Loyalty clauses paralleled in the Tayinat copy of Esarhaddon's succession treaty (MT 13:2-19)
+- ref: Deut 28:23
+  rel: parallel
+  note: Sky of bronze and earth of iron, a curse in the treaty
+related: [esarhaddon-succession-treaty, solomons-temple, ain-dara-temple, tiglath-pileser-iii,
+  philistines, covenant-and-treaty-form, carchemish, hamath]
+media:
+- id: tell-tayinat
+  role: primary
+- id: tell-tayinat-2
+  role: gallery
+external:
+  wikipedia: Tell Tayinat
+  wikidata: Q907974
+  pleiades: '913163220'
+editorial:
+  author_notes:
+  - >-
+    Excavated by the University of Chicago's Syrian-Hittite Expedition (1935-1938), which
+    uncovered Building II and the bit-hilani palaces, and since 2004 by the Tayinat Archaeological
+    Project (University of Toronto, T. P. Harrison).
+  - >-
+    The identification of Kunulua/Kullania with biblical Calno (Isa 10:9) and Calneh (Amos
+    6:2) is widely accepted. 'Calneh' in Gen 10:10, set in Shinar, is a separate problem and
+    is often emended. Keep them apart.
+  - >-
+    The treaty tablet (published by Lauinger, 2012) was found in the inner room of a temple,
+    apparently displayed there. Check whether its oath-taker is the Assyrian governor of Kunalia
+    rather than a vassal king; this affects claims about Judah, which was a vassal state.
+  - >-
+    Early Iron Age levels with Aegean-style pottery and Luwian inscriptions of a king Taita
+    of 'Palistin/Walistin' have fed debate over links with the Philistines. Present it as
+    open.
+  sources_to_check:
+  - R. C. Haines, Excavations in the Plain of Antioch II (OIP 95, 1971)
+  - >-
+    J. Lauinger, 'Esarhaddon's Succession Treaty at Tell Tayinat: Text and Commentary,' JCS
+    64 (2012)
+  - >-
+    T. P. Harrison and J. F. Osborne, 'Building XVI and the Neo-Assyrian Sacred Precinct at
+    Tell Tayinat,' JCS 64 (2012)
+  image_query: Tell Tayinat temple excavation
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q907974 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 36.2475
+  lon: 36.37639
+  source: wikidata:Q907974

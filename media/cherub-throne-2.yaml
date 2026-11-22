@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: cherub-throne-2
+file: cherub-throne-2.jpg
+title: Ahiram Sarcophagus 2.jpg
+caption: >-
+  Relief on the sarcophagus of Ahiram of Byblos showing the king on a throne flanked by winged
+  sphinxes (National Museum of Beirut).
+description: Relief on Sarcophagus of Ahiram, King of Byblos (Phoenicia). Beirut National
+  Museum
+creator: O.Mustafin
+credit_line: Own work
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: O.Mustafin. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ahiram_Sarcophagus_2.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/e/ed/Ahiram_Sarcophagus_2.jpg
+  sha1: 9b586dbad88b47a3b255f818a8ead330d7ef9285
+  original_size: [1136, 896]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1136, 896]
+depicts: [ahiram-sarcophagus, cherub-throne]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

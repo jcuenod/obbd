@@ -1,0 +1,84 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: genesis-apocryphon
+title: Genesis Apocryphon (1QapGen)
+aliases: [1QapGen, 1Q20]
+type: artifact
+cultures: [jewish]
+date:
+  from: -25
+  to: 50
+  circa: true
+  display: c. 25 BCE–50 CE
+scope: >-
+  Aramaic retelling of Genesis from Qumran Cave 1, preserving narratives of Lamech and Noah's
+  birth, Noah, and Abram (to Gen 15:4), largely in first-person voice. It is a major example
+  of 'rewritten scripture'. The date given is the copy; composition is probably 3rd-2nd century
+  BCE.
+passages:
+- ref: Gen 5:28-29
+  rel: parallel
+  note: Lamech fears his son was fathered by a Watcher; Bitenosh's oath
+- ref: Gen 6:1-4
+  rel: parallel
+  note: Watchers' transgression presupposed
+- ref: Gen 10:1-32
+  rel: parallel
+  note: Noah's division of the earth among his sons
+- ref: Gen 12:10-20
+  rel: parallel
+  note: Abram's dream, praise of Sarai's beauty, and Pharaoh healed after Abram's prayer
+- ref: Gen 13:14-17
+  rel: parallel
+  note: Abram walks the boundaries of the promised land
+- ref: Gen 14:1-24
+  rel: parallel
+  note: Aramaic retelling of the war of the kings and Melchizedek
+- ref: 1En 106-107
+  rel: parallel
+  note: The miraculous birth of Noah
+- ref: Jub 13
+  rel: parallel
+  note: Shared traditions on Abram's sojourn in Egypt
+- ref: Luke 4:40
+  rel: practice
+  note: Healing by laying on of hands, first attested in Jewish literature at 1QapGen 20:28-29
+related: [dead-sea-scrolls, jubilees, first-enoch, aramaic-language, nephilim, sons-of-god]
+location:
+  institution: Israel Museum, Jerusalem (Shrine of the Book)
+  accession: null
+media:
+- id: genesis-apocryphon
+  role: primary
+external:
+  wikipedia: Genesis Apocryphon
+  wikidata: Q3825474
+editorial:
+  author_notes:
+  - >-
+    Describe the scroll's poor condition and the importance of modern imaging (Machiela's
+    edition).
+  - The relationship to Jubilees and 1 Enoch (shared sources vs. dependence) is debated.
+  - >-
+    Note its value for Middle Aramaic, for Targum studies, and for the language of Jesus'
+    time.
+  sources_to_check:
+  - >-
+    J. A. Fitzmyer, The Genesis Apocryphon of Qumran Cave 1 (1Q20): A Commentary (3rd ed.,
+    2004)
+  - D. A. Machiela, The Dead Sea Genesis Apocryphon (STDJ 79, 2009)
+  - N. Avigad and Y. Yadin, A Genesis Apocryphon (1956)
+  image_query: Genesis Apocryphon scroll
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

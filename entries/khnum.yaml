@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: khnum
+title: Khnum, the Potter God
+aliases: [Khnum, the Potter God]
+type: deity
+cultures: [egyptian]
+scope: >-
+  The ram-headed Egyptian creator god of the First Cataract (Elephantine) and Esna, who shapes
+  humans, and in royal birth scenes the king and his ka, on a potter's wheel. The entry covers
+  his iconography, his cult at Elephantine (beside the Judean temple of YHW), and the potter
+  imagery for divine creation.
+passages:
+- ref: Gen 2:7
+  rel: imagery
+  note: God forms (yāṣar) the human from dust like a potter
+- ref: Ps 139:13-16
+  rel: imagery
+  note: Divine formation of the person in the womb
+- ref: Job 10:8-9
+  rel: imagery
+  note: '''You fashioned me like clay'''
+- ref: Isa 45:9
+  rel: imagery
+  note: Clay may not question the potter
+- ref: Isa 64:8
+  rel: imagery
+  note: We are the clay, you are our potter; MT 64:7
+- ref: Jer 18:1-6
+  rel: imagery
+  note: The divine potter reshapes the vessel
+related: [creation-of-humanity, pottery-and-potters, elephantine, elephantine-temple-petition,
+  egyptian-cosmology, famine-stele, atrahasis]
+media:
+- id: creation-of-humanity
+  role: gallery
+- id: khnum
+  role: gallery
+external:
+  wikipedia: Khnum
+  wikidata: Q183097
+editorial:
+  author_notes:
+  - >-
+    Potter imagery for divine creation is pan-ancient Near Eastern (clay in Atrahasis; Aruru
+    pinching off clay in Gilgamesh). Khnum is one important comparandum, not the source.
+  - >-
+    The royal birth reliefs (Hatshepsut at Deir el-Bahari; Amenhotep III at Luxor) show Khnum
+    shaping the child and its ka. The Roman-period Esna hymns develop his role as universal
+    creator.
+  - >-
+    At Elephantine the Khnum priests were implicated in the destruction of the Judean temple
+    (410 BCE). The suggestion that the conflict concerned sacrifice of rams or lambs (Khnum's
+    sacred animal) is a hypothesis.
+  image_query: Khnum potter's wheel relief
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+- date: '2026-11-21'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Image khnum: replaced GFDL-only File:Egyptian sculpture IMG 0573.JPG with Ram-headed figure
+    of the god Khnum MET LC-30 8 256 EGDP026635.jpg (CC0). GFDL is no longer accepted.

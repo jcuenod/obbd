@@ -1,0 +1,86 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: sidon
+title: Sidon
+aliases: [Ṣidon, Saida]
+type: site
+cultures: [phoenician]
+scope: >-
+  The Phoenician city of Sidon on the Lebanese coast. Covers its Bronze Age remains, its Iron
+  Age history under Assyria, its Persian-period royal dynasty and Eshmun sanctuary, and the
+  use of 'Sidonians' as a general term for Phoenicians.
+passages:
+- ref: Gen 10:15, 19
+  rel: setting
+  note: Sidon as Canaan's firstborn; border of the Canaanites
+- ref: Judg 18:7, 28
+  rel: setting
+  note: Laish lived 'after the manner of the Sidonians'
+- ref: 1Kgs 5:6
+  rel: language
+  note: '''No one among us knows how to cut timber like the Sidonians'' (MT 5:20)'
+- ref: 1Kgs 16:31
+  rel: setting
+  note: Jezebel daughter of Ethbaal, king of the Sidonians
+- ref: 1Kgs 17:9
+  rel: setting
+  note: Zarephath, which belongs to Sidon
+- ref: Isa 23:2-4, 12
+  rel: setting
+  note: Oracle on Sidon's merchants and 'virgin daughter Sidon'
+- ref: Ezek 28:20-23
+  rel: setting
+  note: Oracle against Sidon
+- ref: Matt 15:21
+  rel: setting
+  note: Jesus withdraws to the district of Tyre and Sidon
+- ref: Acts 27:3
+  rel: setting
+  note: Paul allowed to visit friends at Sidon
+related: [phoenicians, eshmunazar-sarcophagus, tyre, jezebel, ahab, astarte, phoenician-seafaring]
+media:
+- id: sidon
+  role: primary
+- id: sidon-2
+  role: gallery
+external:
+  wikipedia: Sidon
+  wikidata: Q163490
+  pleiades: '678393'
+editorial:
+  author_notes:
+  - >-
+    In the Hebrew Bible and in Homer, 'Sidonians' often means Phoenicians in general. Ethbaal
+    (Ittobaal) of 1 Kgs 16:31 was king of Tyre according to Josephus.
+  - >-
+    Sennacherib drove out Luli in 701. Esarhaddon destroyed Sidon c. 677 and founded Kar-Esarhaddon.
+  - >-
+    In the Persian period Sidon flourished under a royal dynasty (sarcophagi of Tabnit and
+    Eshmunazar II). The Eshmun temple at Bustan esh-Sheikh yielded the Bodashtart inscriptions.
+  - >-
+    British Museum excavations at the 'College site' (Doumet-Serhal) have produced important
+    Bronze Age burials.
+  sources_to_check:
+  - Aubet, The Phoenicians and the West (2nd ed., 2001)
+  image_query: Temple of Eshmun Sidon
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q163490 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 33.56056
+  lon: 35.37583
+  source: wikidata:Q163490

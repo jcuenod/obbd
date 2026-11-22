@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: david
+title: 'David: Historical Questions'
+type: person
+cultures: [hebrew]
+date:
+  from: -1010
+  to: -970
+  circa: true
+  display: c. 1010–970 BCE
+scope: >-
+  The historical questions surrounding David: the extrabiblical evidence (the Tel Dan Stele's
+  'House of David', a disputed reading in the Mesha Stele), the archaeology of 10th-century
+  Jerusalem and the Shephelah, and the debate over the scale of his kingdom. It does not cover
+  David's literary portrayal as such.
+passages:
+- ref: 2Sam 7:11-16
+  rel: concept
+  note: Promise of a Davidic house; the dynasty is attested as bytdwd at Tel Dan
+- ref: 2Sam 5:6-10
+  rel: setting
+  note: Capture of Jerusalem and the 'City of David'
+- ref: 2Sam 8:1-14
+  rel: event
+  disputed: true
+  note: David's conquests; their extent is debated
+- ref: 1Sam 17:1-3
+  rel: setting
+  disputed: true
+  note: Elah Valley; the relation of Khirbet Qeiyafa to David's kingdom is debated
+- ref: 1Sam 27:2-7
+  rel: setting
+  note: David as vassal of Achish of Gath; Gath a major Iron IIA city
+- ref: 1Kgs 2:10-11
+  rel: attests
+  note: Forty-year reign and burial in the City of David
+related: [tel-dan-stele, mesha-stele, khirbet-qeiyafa, city-of-david, low-chronology-debate,
+  solomon, jerusalem, emergence-of-israel]
+media:
+- id: aramaic-language
+  role: primary
+external:
+  wikipedia: David
+  wikidata: Q41370
+editorial:
+  author_notes:
+  - >-
+    The Tel Dan Stele (c. 840-800) shows a dynasty named after David about 150 years later.
+    It is the only secure extrabiblical evidence. Mesha line 31 and the Shoshenq list's proposed
+    'heights of David' are disputed readings.
+  - >-
+    Present the positions on 10th-century Judah and Jerusalem: the high chronology (Mazar,
+    Garfinkel), the low chronology (Finkelstein), and modified positions. Cover the Stepped
+    Stone Structure and E. Mazar's 'Large Stone Structure'.
+  - >-
+    Khirbet Qeiyafa: its fortification, the ostracon, and the debate over whether it is Judahite
+    or Philistine-related.
+  - >-
+    Dates are conventional (c. 1010-970) and derived from biblical numbers. Do not imply precision.
+  sources_to_check:
+  - Halpern, David's Secret Demons (2001)
+  - Finkelstein and Silberman, David and Solomon (2006)
+  - 'McKenzie, King David: A Biography (2000)'
+  image_query: Tel Dan Stele Israel Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

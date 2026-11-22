@@ -1,0 +1,81 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ephod
+title: Ephod
+type: realia
+cultures: [hebrew]
+scope: >-
+  The ʾēpôd in its several biblical senses: a linen priestly garment, the high priest's ornate
+  vestment with the breastpiece, an oracular object, and a cult object that could be made
+  of gold. The entry also covers its relation to the clothing of cult statues.
+passages:
+- ref: Exod 28:4-14
+  rel: realia
+  note: High priest's ephod of gold, blue, purple, and crimson, with onyx stones
+- ref: Exod 28:15-30
+  rel: realia
+  note: Breastpiece attached to the ephod, holding the Urim and Thummim
+- ref: 1Sam 2:18
+  rel: realia
+  note: Boy Samuel ministers wearing a linen ephod
+- ref: 1Sam 22:18
+  rel: realia
+  note: Eighty-five priests 'who wore the linen ephod'
+- ref: 2Sam 6:14
+  rel: realia
+  note: David dances before the ark girded with a linen ephod
+- ref: 1Sam 23:6, 9-12
+  rel: practice
+  note: Abiathar brings the ephod; David inquires through it
+- ref: 1Sam 30:7-8
+  rel: practice
+  note: Ephod brought for oracular inquiry
+- ref: 1Sam 14:18
+  rel: practice
+  note: MT 'ark of God', LXX 'ephod', in an oracular context
+- ref: Judg 8:24-27
+  rel: realia
+  note: Gideon makes a gold ephod at Ophrah that becomes a snare
+- ref: Judg 17:5
+  rel: realia
+  note: Micah's ephod and teraphim
+- ref: 1Sam 21:9
+  rel: realia
+  note: Goliath's sword kept behind the ephod at Nob
+- ref: Isa 30:22
+  rel: language
+  note: ʾăpuddâ, the gold plating of cast images
+- ref: Hos 3:4
+  rel: realia
+  note: Without ephod or teraphim
+related: [urim-and-thummim, teraphim, clothing-and-dress, textiles-and-weaving, divination,
+  cult-images]
+media: []
+external:
+  wikipedia: Ephod
+  wikidata: Q1296444
+editorial:
+  author_notes:
+  - >-
+    Distinguish the senses clearly. The linen garment, the high priest's vestment, and the
+    freestanding cult object (Judg 8:27; 17:5) may or may not be the same thing. A common
+    proposal links the cult-object ephod to the garment of a divine image (cf. Isa 30:22).
+  - >-
+    Cognates include Old Assyrian epattum (pl. epadātum), a costly garment, and Ugaritic ipd
+    (verify attestations). These support a basic sense of "garment".
+  - >-
+    The oracular ephod (1 Sam 23; 30) probably carried the lots or Urim and Thummim. Avoid
+    claiming more than the texts support.
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,84 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: city-gates
+title: City Gates and Fortifications
+aliases: [Six-chambered gate, Solomonic gates]
+type: realia
+cultures: [israelite, judahite, canaanite]
+scope: >-
+  Gateways and fortification systems of Bronze and Iron Age cities in the southern Levant
+  (chambered gates, walls, towers, glacis), their archaeology, and their use in biblical texts.
+  Covers the debate over 'Solomonic' six-chamber gates; judicial use of gates is treated under
+  courts-and-legal-procedure.
+passages:
+- ref: 1Kgs 9:15
+  rel: attests
+  disputed: true
+  note: Solomon's building at Hazor, Megiddo, and Gezer, linked by Yadin to six-chamber gates
+- ref: 2Sam 18:24-33
+  rel: realia
+  note: Watchman on the gate roof; chamber over the gate (MT 18:24-19:1)
+- ref: Neh 3:1-32
+  rel: realia
+  note: Rebuilding of Jerusalem's named gates and wall sections
+- ref: Neh 2:13-15
+  rel: realia
+  note: Nehemiah's night inspection of the walls and gates
+- ref: 2Kgs 23:8
+  rel: realia
+  note: High places 'of the gates' at the gate of Joshua; cf. gate shrines at Dan and Lachish
+- ref: Judg 16:3
+  rel: realia
+  note: Samson carries off Gaza's gate doors, posts, and bar
+- ref: Isa 22:9-11
+  rel: realia
+  note: Houses torn down to fortify Jerusalem's wall; reservoir between walls
+- ref: Ps 24:7-10
+  rel: imagery
+  note: Gates commanded to lift their heads for the King of glory
+- ref: 1Kgs 22:10
+  rel: realia
+  note: Kings enthroned at the threshing floor at the entrance of Samaria's gate
+related: [courts-and-legal-procedure, megiddo, hazor, gezer, lachish, dan, low-chronology-debate,
+  cult-reforms-archaeology]
+media:
+- id: city-gates
+  role: primary
+- id: city-gates-2
+  role: gallery
+external:
+  wikipedia: City gate
+  wikidata: Q82117
+editorial:
+  author_notes:
+  - >-
+    Give the typology. Middle Bronze triple-pier gates (e.g., the mudbrick arched gate at
+    Dan) were followed by Iron Age six-, four-, and two-chamber gates.
+  - >-
+    Yadin's attribution of the Hazor, Megiddo, and Gezer six-chamber gates to Solomon (1 Kgs
+    9:15) is the starting point of the tenth-century debate. The same plan also occurs at
+    non-Israelite and later sites (e.g., Ashdod, Lachish), so it cannot serve as a royal 'signature'.
+  - >-
+    Mention gate shrines and cultic installations (Dan's maṣṣebot and podium; the Lachish
+    Level III gate shrine with its toilet, compare 2 Kgs 10:27) as background to 2 Kgs 23:8.
+  - >-
+    Identifications such as Khirbet Qeiyafa's two gates with 'Shaaraim' (1 Sam 17:52) are
+    disputed. Present them as proposals.
+  image_query: six-chambered gate Megiddo
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: 'Passage tags checked against WEB text: 1Kgs 22:10 rel setting -> realia'
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

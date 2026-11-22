@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: chemosh
+file: chemosh.jpg
+title: Warrior Moab Louvre AO5055.jpg
+caption: >-
+  Moabite stele from Shihan showing a warrior with a spear, possibly the god Chemosh (Musée
+  du Louvre, Paris, AO 5055).
+description: Possible depiction of Kamōš as a warrior god on the Shihan stele.
+creator: Jastrow
+credit_line: Own work
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Jastrow. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Warrior_Moab_Louvre_AO5055.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/d/db/Warrior_Moab_Louvre_AO5055.jpg
+  sha1: e71826e8cb823d0c5948e29158294635c8e55105
+  original_size: [1715, 2690]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1020×1600 px
+size: [1020, 1600]
+depicts: [chemosh]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,84 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tribute-and-vassalage
+title: Tribute and Vassalage
+aliases: [Vassalage, Tribute]
+type: practice
+cultures: [assyrian, babylonian, egyptian]
+scope: >-
+  The obligations of vassal kingdoms to imperial overlords (tribute, audience gifts, oaths
+  of loyalty, military service) and the consequences of rebellion. The entry covers the payments
+  and submissions of Israelite and Judahite kings to Assyria, Egypt and Babylon recorded in
+  Kings and in Assyrian inscriptions.
+passages:
+- ref: 2Sam 8:2, 6
+  rel: practice
+  note: Moab and Aram become David's servants bringing tribute (minḥâ)
+- ref: 1Kgs 4:21
+  rel: practice
+  note: Kingdoms bring tribute to Solomon (MT 5:1)
+- ref: 2Kgs 3:4
+  rel: practice
+  note: Mesha's annual tribute of lambs and wool
+- ref: 2Kgs 15:19-20
+  rel: event
+  note: Menahem pays Pul a thousand talents, levied at fifty shekels a man
+- ref: 2Kgs 16:7-8
+  rel: language
+  note: 'Ahaz: ''I am your servant and your son'', with temple silver as šōḥad'
+- ref: 2Kgs 17:3-4
+  rel: event
+  note: Hoshea withholds tribute and appeals to So of Egypt
+- ref: 2Kgs 18:14-16
+  rel: event
+  note: Hezekiah's tribute to Sennacherib; compare the Assyrian figures
+- ref: 2Kgs 23:33-35
+  rel: event
+  note: Neco imposes tribute; Jehoiakim taxes the land
+- ref: 2Kgs 24:1
+  rel: event
+  note: Jehoiakim Nebuchadnezzar's vassal for three years, then rebels
+- ref: Hos 5:13
+  rel: language
+  note: Ephraim sends to 'King Jareb', probably 'the great king'
+- ref: Ezek 17:11-21
+  rel: practice
+  note: Zedekiah's vassal oath and rebellion
+related: [black-obelisk, tiglath-pileser-iii-inscriptions, sennacherib-annals, covenant-and-treaty-form,
+  menahem, ahaz, hezekiah, diplomatic-gift-exchange]
+media:
+- id: prostration-and-obeisance
+  role: primary
+external:
+  wikipedia: Vassal state
+  wikidata: Q1371288
+editorial:
+  author_notes:
+  - >-
+    Assyrian terms: maddattu (regular tribute) versus nāmurtu (audience gift), with the vassal
+    bound by a loyalty oath (adê). Rebellion was oath-breaking and was punished as such.
+  - >-
+    Compare the biblical amounts with the Assyrian ones: Sennacherib lists 800 talents of
+    silver against 300 in 2 Kgs 18:14. Note differing talent standards and propaganda without
+    forcing a harmonization.
+  - >-
+    Assyrian inscriptions list Menahem, Ahaz (Jehoahaz) and Hoshea as tribute-payers, and
+    the Tell al-Rimah stele names Joash of Samaria.
+  - >-
+    Most scholars read Hos 5:13 and 10:6 melek yārēb as malkî rab or a corruption of it, 'great
+    king'.
+  sources_to_check: [RINAP 1 (Tiglath-pileser III), RINAP 3/1 (Sennacherib)]
+  image_query: Black Obelisk Jehu tribute
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ekron
+file: ekron.jpg
+title: JRSLM 300116 Ekron inscription.jpg
+caption: >-
+  The royal dedicatory inscription from Tel Miqne, which confirmed the site's identification
+  as Ekron (Israel Museum, Jerusalem).
+description: >-
+  Royal dedicatory inscription from the Philistine city of Ekron. On display at the Israel
+  Museum in Jerusalem
+creator: Oren Rozen
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Oren Rozen, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:JRSLM_300116_Ekron_inscription.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/2/28/JRSLM_300116_Ekron_inscription.jpg
+  sha1: 00d44fab2bcb4fa3ebd1c36a58df7391a315285c
+  original_size: [2400, 1600]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [ekron, ekron-royal-dedicatory-inscription]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

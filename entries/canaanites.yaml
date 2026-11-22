@@ -1,0 +1,83 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: canaanites
+title: Canaanites
+aliases: [Canaan, Kinaḫḫu, Kinaḫni]
+type: people
+cultures: [canaanite]
+scope: >-
+  The Bronze and early Iron Age population of the southern Levant and the biblical category
+  'Canaanites'. Covers the term in ancient Near Eastern sources, Canaanite material culture,
+  the continuity between Canaanites and early Israel, and the ideological use of the label
+  in the Bible.
+passages:
+- ref: Gen 10:15-19
+  rel: setting
+  note: Canaan's descendants and the borders of Canaanite territory
+- ref: Gen 12:6
+  rel: setting
+  note: '''At that time the Canaanites were in the land'''
+- ref: Gen 15:18-21
+  rel: setting
+  note: List of the peoples of the land
+- ref: Exod 3:8
+  rel: setting
+  note: Canaanites first in the stereotyped list of nations
+- ref: Deut 7:1-5
+  rel: polemic
+  note: Seven nations to be destroyed, with no intermarriage or treaty
+- ref: Judg 1:27-33
+  rel: setting
+  note: Canaanites remain among the tribes
+- ref: Isa 19:18
+  rel: language
+  note: '''The language of Canaan'', i.e. Hebrew'
+- ref: Ezek 16:3
+  rel: setting
+  note: '''Your origin and your birth were in the land of the Canaanites'''
+- ref: Prov 31:24
+  rel: language
+  note: kĕnaʿănî as 'merchant'
+- ref: Matt 15:22
+  rel: setting
+  note: 'The ''Canaanite woman'' (Mark 7:26: Syrophoenician)'
+related: [amarna-letters, ugarit, emergence-of-israel, ethnicity-and-material-culture, herem,
+  table-of-nations, amorites, phoenicians]
+media:
+- id: canaanites
+  role: primary
+external:
+  wikipedia: Canaan
+  wikidata: Q163329
+editorial:
+  author_notes:
+  - >-
+    The term Canaan (Kinaḫḫu, Kinaḫni) appears in Mari, Alalakh (Idrimi), Amarna and Egyptian
+    sources. In the Late Bronze Age Canaan was an Egyptian province.
+  - >-
+    Archaeologically, early Israel emerged largely from within the local population, with
+    continuity in pottery, language and script. In the Bible 'Canaanite' is often an ideological
+    foil rather than an ethnographic description.
+  - >-
+    Ugaritic texts treat a 'man of Canaan' as a foreigner. Be careful about labelling Ugarit
+    'Canaanite'.
+  - >-
+    Ancient DNA (e.g. Agranat-Tamir et al., Cell 2020; verify) shows strong continuity in
+    Bronze Age Levantine populations. The lists of seven nations are stereotyped and not ethnographic.
+  sources_to_check:
+  - Killebrew, Biblical Peoples and Ethnicity (2005)
+  - Moran, The Amarna Letters (1992)
+  image_query: Megiddo ivories Canaanite
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

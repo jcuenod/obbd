@@ -1,0 +1,81 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: pig-avoidance
+title: Pig Avoidance and Food Prohibitions
+aliases: [Pork taboo, Dietary laws, Kashrut origins]
+type: practice
+cultures: [hebrew, philistine, egyptian]
+scope: >-
+  The biblical prohibition of pork within the wider dietary laws, and the zooarchaeological
+  evidence for pig consumption and avoidance in the Iron Age southern Levant. The entry covers
+  the use of pork avoidance as an ethnic marker and as a test of loyalty in the Hellenistic
+  period.
+passages:
+- ref: Lev 11:1-47
+  rel: practice
+  note: Clean and unclean animals
+- ref: Lev 11:7
+  rel: practice
+  note: 'Pig unclean: divided hoof but does not chew the cud'
+- ref: Deut 14:3-21
+  rel: practice
+  note: Dietary laws (Deuteronomic version)
+- ref: Deut 14:8
+  rel: practice
+  note: Pig prohibited
+- ref: Isa 65:4
+  rel: practice
+  note: Eating swine's flesh alongside sitting in tombs
+- ref: Isa 66:3, 17
+  rel: practice
+  note: Swine's blood offering; eating pig and mice in garden rites
+- ref: 1Macc 1:47
+  rel: practice
+  note: Antiochus IV orders the sacrifice of swine
+- ref: 2Macc 6:18-31
+  rel: practice
+  note: Eleazar dies rather than eat pork
+- ref: Mark 5:11-13
+  rel: setting
+  note: Herd of swine in Gentile territory
+- ref: Acts 10:9-16
+  rel: practice
+  note: Peter's vision of unclean animals, applied in Acts to Gentile inclusion
+related: [purity-and-impurity, ethnicity-and-material-culture, philistines, emergence-of-israel,
+  antiochus-iv, maccabean-revolt, kid-in-mothers-milk]
+media: []
+external:
+  wikipedia: Religious restrictions on the consumption of pork
+  wikidata: Q7311393
+editorial:
+  author_notes:
+  - >-
+    Pig bones are rare at Iron I highland sites but common at Philistine coastal sites. Some
+    (e.g. Finkelstein; Hesse and Wapnish) read this as an ethnic marker. Caution is needed:
+    ecology, economy and regional patterns also matter, and pigs appear at some Iron II Israelite
+    sites (Sapir-Hen et al.).
+  - >-
+    Pigs had ambivalent or low status elsewhere in the ancient Near East (Egypt, Mesopotamia,
+    Hittite ritual), so Israelite avoidance was not unique.
+  - >-
+    Survey the explanations (Douglas on classification, M. Harris on ecology, Milgrom on ethics).
+    Reject the trichinosis or hygiene explanation.
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Acts 10:9-16 note no longer claims the vision abolishes
+    food laws
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

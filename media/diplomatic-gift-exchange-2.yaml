@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: diplomatic-gift-exchange-2
+file: diplomatic-gift-exchange-2.jpg
+title: >-
+  Amarna letter. "Message from the king of Alashiya, your brother" to the Pharaoh of Egypt,
+  possibly Akhenaten. C. 1350 BCE. From Tell e-Amarna, Egypt. British Museum.jpg
+caption: >-
+  Amarna letter from the king of Alashiya (Cyprus), "your brother", to the pharaoh, c. 1350
+  BCE (British Museum).
+description: >-
+  Amarna letter. "Message from the king of Alashiya, your brother" to the Pharaoh of Egypt,
+  possibly Akhenaten. Akkadian cuneiform text. The king of Alashiya (Cyprus) sends a large
+  amount of copper and in return requests silver, special oils, and the services of a priest
+  who can read omens. Although referred to as gifts, the exchanges of gifts were economic
+  in nature. Circa 1350 BCE. From Tell e-Amarna, Egypt. British Museum, London. ME 29788.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Amarna_letter._%22Message_from_the_king_of_Alashiya,_your_brother%22_to_the_Pharaoh_of_Egypt,_possibly_Akhenaten._C._1350_BCE._From_Tell_e-Amarna,_Egypt._British_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/5/5e/Amarna_letter._%22Message_from_the_king_of_Alashiya%2C_your_brother%22_to_the_Pharaoh_of_Egypt%2C_possibly_Akhenaten._C._1350_BCE._From_Tell_e-Amarna%2C_Egypt._British_Museum.jpg
+  sha1: 78e78620ea44db11178118eb814b66ac9ae68fe7
+  original_size: [3598, 5012]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1148×1600 px
+size: [1148, 1600]
+depicts: [diplomatic-gift-exchange]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

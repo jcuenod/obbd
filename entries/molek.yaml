@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: molek
+title: Molek (Molech)
+aliases: [Molech, Moloch]
+type: deity
+cultures: [canaanite, phoenician, judahite]
+scope: >-
+  Molek, the recipient of the practice of "making children pass through the fire" condemned
+  in Leviticus, Kings and Jeremiah. The entry covers the debate over whether Molek was a deity
+  (possibly chthonic) or whether *molk* was a sacrificial term, as in Punic inscriptions.
+passages:
+- ref: Lev 18:21
+  rel: practice
+  note: Prohibition of giving offspring 'to Molek'
+- ref: Lev 20:2-5
+  rel: practice
+  note: Death penalty; 'prostituting after Molek' implies a deity
+- ref: 2Kgs 23:10
+  rel: practice
+  note: Josiah defiles Topheth so none may pass a child through fire to Molek
+- ref: Jer 32:35
+  rel: practice
+  note: High places of Baal in the Hinnom valley for passing children to Molek
+- ref: 1Kgs 11:7
+  rel: language
+  note: '''Molech the abomination of the Ammonites'', probably an error for Milcom'
+- ref: Isa 30:33
+  rel: language
+  disputed: true
+  note: Topheth prepared 'for the king' (lammelek)
+- ref: Isa 57:9
+  rel: language
+  disputed: true
+  note: Journeying 'to the king/Molek' with oil
+- ref: Acts 7:43
+  rel: language
+  note: '''Tent of Moloch'' from LXX Amos 5:26'
+related: [child-sacrifice, tophet, milkom, rephaim, gods-of-2-kings-17, phoenicians, chemosh]
+media: []
+external:
+  wikipedia: Moloch
+  wikidata: Q275010
+editorial:
+  author_notes:
+  - >-
+    Present the debate fairly. Eissfeldt (1935) read Punic mlk as a sacrifice type ("as a
+    molk-offering"); Heider and Day defend a deity Molek, citing Lev 20:5 and Ugaritic/Akkadian
+    Malik/mlk, who is linked to the dead and to ʿAshtaroth (KTU 1.100; 1.108).
+  - >-
+    The vocalization mōlek may be a bōšet-style distortion of melek "king"; this is a hypothesis.
+  - >-
+    Whether "pass through the fire" denotes actual immolation or a dedication rite remains
+    debated, though most now accept that some child sacrifice occurred.
+  - >-
+    Correct the popular image of a hollow bronze bull-headed furnace; it derives from medieval
+    Jewish commentary (e.g. Rashi on Jer 7:31) and later art, not ancient evidence.
+  sources_to_check:
+  - G. C. Heider, The Cult of Molek (JSOTSup 43, 1985)
+  - 'J. Day, Molech: A God of Human Sacrifice in the Old Testament (1989)'
+  - DDD, s.v. "Molech"
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

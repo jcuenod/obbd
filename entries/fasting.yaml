@@ -1,0 +1,94 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: fasting
+title: Fasting and Penitential Rites
+aliases: [ṣôm, self-affliction, penitential rites]
+type: practice
+cultures: [hebrew, jewish]
+scope: >-
+  Abstaining from food and drink as a ritual of mourning, petition, penitence and preparation
+  in ancient Israel and early Judaism, usually combined with sackcloth, ashes, weeping and
+  prayer. It covers individual and communal fasts in crisis, the self-affliction of the Day
+  of Atonement, the commemorative fasts for Jerusalem's fall, and fasting in the New Testament.
+  General mourning gestures belong to mourning-rites.
+passages:
+- ref: Lev 16:29-31
+  rel: practice
+  note: >-
+    'Afflict yourselves' (ʿinnâ nepeš) on the Day of Atonement, later understood as fasting;
+    cf. 23:27-32
+- ref: Judg 20:26
+  rel: practice
+  note: Israel weeps and fasts until evening at Bethel before renewed battle
+- ref: 1Sam 7:6
+  rel: practice
+  note: Water poured out, fasting and confession at Mizpah
+- ref: 1Sam 31:13
+  rel: practice
+  note: Men of Jabesh fast seven days after burying Saul
+- ref: 2Sam 12:16-23
+  rel: practice
+  note: David fasts while his child is ill and stops when it dies
+- ref: 1Kgs 21:27-29
+  rel: practice
+  note: Ahab fasts in sackcloth and the disaster is postponed
+- ref: Joel 2:12-17
+  rel: practice
+  note: Sanctify a fast and call a solemn assembly in national crisis
+- ref: Jonah 3:5-9
+  rel: practice
+  note: Ninevites, human and animal, fast in sackcloth by royal decree
+- ref: Isa 58:3-7
+  rel: concept
+  note: 'Prophetic critique: the true fast is to loose the bonds of injustice'
+- ref: Zech 7:3-5; 8:19
+  rel: practice
+  note: Fasts of the fourth, fifth, seventh and tenth months commemorating Jerusalem's fall
+- ref: Esth 4:16
+  rel: practice
+  note: Three-day fast before Esther approaches the king
+- ref: Matt 6:16-18
+  rel: practice
+  note: Fast in secret, not with disfigured faces
+related: [mourning-rites, day-of-atonement-elimination, mesopotamian-lament-prayers, city-laments,
+  fall-of-jerusalem-587, prayer-postures, jewish-sects]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Distinguish the functions: mourning (1 Sam 31:13), petition in crisis (2 Sam 12; Joel
+    2), penitence (1 Sam 7:6; Jonah 3), and preparation for revelation (Dan 9:3; 10:2-3).
+    D. A. Lambert (2016) argues that biblical fasting is a ritual of distress and appeal rather
+    than an expression of inner 'repentance'; note this challenge to the traditional reading.
+  - >-
+    Comparative evidence for communal fasting is thinner outside Israel than for mourning
+    rites. Present it cautiously: Herodotus 2.40 (Egyptians fast before an Isis festival),
+    Herodotus 9.24 (Persians extend mourning to horses and pack animals, often cited for Jonah
+    3:7-8), and Mesopotamian ritual and hemerological food restrictions.
+  - >-
+    'Afflict yourselves' in Lev 16 and 23 is not explicitly fasting. The rabbinic definition
+    (m. Yoma 8:1) adds abstention from washing, anointing, sandals and sex. Keep the ancient
+    text and its later interpretation distinct.
+  - >-
+    Note late Second Temple practice: regular weekly fasts (Luke 18:12; Didache 8:1 contrasts
+    Jewish and Christian fast days) and Mark 2:18-20.
+  sources_to_check:
+  - D. A. Lambert, How Repentance Became Biblical (2016)
+  - >-
+    T. Podella, Ṣôm-Fasten: Kollektive Trauer um den verborgenen Gott im Alten Testament (AOAT
+    224, 1989)
+  - G. A. Anderson, A Time to Mourn, a Time to Dance (1991)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

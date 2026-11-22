@@ -1,0 +1,105 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: gudea-cylinders
+title: Gudea Cylinders
+type: artifact
+cultures: [sumerian]
+date:
+  from: -2140
+  to: -2120
+  circa: true
+  display: c. 2140–2120 BCE
+scope: >-
+  Two large inscribed clay cylinders (A and B) from Girsu recording Gudea's rebuilding of
+  the Eninnu temple of Ningirsu, from the god's dream command through gathering of materials
+  and construction to the dedication festival. They are the longest known Sumerian literary
+  composition and the classic example of the ancient Near Eastern temple-building account.
+passages:
+- ref: 1Kgs 5:1-8:66
+  rel: form
+  note: >-
+    Temple-building account: divine sanction, materials, construction, dedication (MT 5:15-8:66)
+- ref: 1Kgs 5:6-10
+  rel: parallel
+  note: Cedar and other materials brought from distant mountains (MT 5:20-24)
+- ref: Exod 25:8-9
+  rel: concept
+  note: Deity commands a sanctuary and reveals its pattern
+- ref: Exod 35:4-40:38
+  rel: form
+  note: Tabernacle construction narrated as a building account
+- ref: 1Chr 28:11-19
+  rel: concept
+  note: Temple plan delivered to the builder as divinely given
+- ref: 1Kgs 3:5-15
+  rel: practice
+  note: Royal dream revelation at a sanctuary; cf. Gudea's incubation dreams
+- ref: 1Kgs 8:62-66
+  rel: parallel
+  note: Dedication festival of seven (plus seven) days
+- ref: Ezek 40-48
+  rel: concept
+  note: Visionary temple with detailed measurements
+- ref: Hag 2:15-19
+  rel: concept
+  note: >-
+    Crops blessed from the day the temple foundation is laid; cf. Ningirsu's promised abundance
+- ref: Exod 20:24
+  rel: concept
+  note: >-
+    YHWH promises to come and bless where his name is remembered; cf. Ningirsu's promised
+    blessing for the Eninnu
+related: [statue-of-gudea, gudea, temple-building-accounts, dream-incubation, dreams-and-dream-interpretation,
+  temple-as-cosmos, divine-rest]
+location:
+  institution: Musée du Louvre, Paris
+  accession: null
+media:
+- id: gudea-cylinders
+  role: primary
+external:
+  wikipedia: Gudea cylinders
+  wikidata: Q5614563
+editorial:
+  author_notes:
+  - >-
+    Use Hurowitz's analysis of the building-account pattern (decision, divine approval, preparations,
+    construction, dedication, blessing) as the frame for comparison with 1 Kgs 5-8.
+  - >-
+    Cylinder A narrates the dreams, their interpretation by the goddess Nanshe, and the construction;
+    Cylinder B the god's entry and the dedication festival, including a temporary suspension
+    of social hierarchy.
+  - A third cylinder may once have preceded A; mention this as a scholarly proposal only.
+  - >-
+    The pattern is widespread across two millennia; argue for a shared genre, not direct dependence
+    of Kings on a Sumerian text.
+  sources_to_check:
+  - COS 2.155
+  - RIME 3/1 (Edzard 1997)
+  - Hurowitz, I Have Built You an Exalted House (JSOTSup 115, 1992)
+  image_query: Gudea cylinders Louvre
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Exod 20:24 (altar law, weak) replaced by Hag 2:15-19
+    (blessing from temple founding)
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Restored Exod 20:24 (specified by the editor, J. Cuénod) with a corrected note after automated
+    verification removed it.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

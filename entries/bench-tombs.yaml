@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: bench-tombs
+title: Bench Tombs and Burial Practices
+aliases: [Judahite bench tombs, Rock-cut tombs]
+type: realia
+cultures: [judahite]
+scope: >-
+  The rock-cut family tombs of Iron Age Judah, with burial benches, headrests and repositories
+  for bones, and the burial practices and beliefs they reflect. The entry covers biblical
+  burial language, major tomb groups (Jerusalem, Ketef Hinnom, Silwan, Khirbet el-Qom), and
+  grave goods.
+passages:
+- ref: Gen 23:1-20
+  rel: practice
+  note: Abraham buys the cave of Machpelah as a family tomb
+- ref: Gen 25:8-10
+  rel: language
+  note: Abraham 'gathered to his people' and buried in the family cave
+- ref: Gen 49:29-32
+  rel: practice
+  note: Jacob asks to be buried with his ancestors
+- ref: 2Sam 2:32
+  rel: practice
+  note: Asahel buried in his father's tomb at Bethlehem
+- ref: 1Kgs 13:30-31
+  rel: practice
+  note: '''Lay my bones beside his bones'' in the family tomb'
+- ref: 2Kgs 13:21
+  rel: practice
+  note: A corpse thrown into Elisha's grave touches his bones
+- ref: 2Kgs 22:20
+  rel: language
+  note: '''Gathered to your grave in peace'''
+- ref: 2Kgs 23:6, 16
+  rel: practice
+  note: Graves of common people; Josiah takes bones from tombs on the mount
+- ref: Isa 22:16
+  rel: realia
+  note: Shebna hews himself a tomb on the height
+- ref: Jer 26:23
+  rel: practice
+  note: Body thrown into the burial place of the common people
+related: [ketef-hinnom-amulets, royal-steward-inscription, khirbet-el-qom-inscription, care-for-the-dead,
+  mourning-rites, sheol-and-the-netherworld, ossuaries]
+media:
+- id: bench-tombs
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    E. Bloch-Smith, Judahite Burial Practices and Beliefs about the Dead (1992), is the standard
+    synthesis. Typical features are benches with headrests (some in Hathor-wig shape at St.
+    Étienne), a repository pit, and grave goods such as lamps, juglets, jewellery and amulets.
+  - >-
+    The repository of collected bones is often linked to 'gathered to his people/fathers'.
+    The link is plausible but should not be overstated.
+  - >-
+    Bench tombs were for families who could afford rock-cut tombs. Many people were buried
+    in simple graves (Jer 26:23).
+  - >-
+    Distinguish these tombs from the later loculus (kokh) tombs and ossuary burial of the
+    Second Temple period.
+  image_query: Ketef Hinnom burial cave
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

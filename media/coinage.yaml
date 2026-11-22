@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: coinage
+file: coinage.jpg
+title: YHD coins.jpg
+caption: Small silver Yehud coins struck in the province of Judah in the Persian period.
+description: 'Yehud coins: coins minted in provice of Judea during the Persian period.'
+creator: see source
+credit_line: Michael Avi-Yonah (ed.), Sepher Yerushalayim (Vol. I), Jerusalem, 1956
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: see source. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:YHD_coins.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/b/b2/YHD_coins.jpg
+  sha1: a77f10b703a5ef96f5562462c34ed782103f130c
+  original_size: [3246, 2713]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1338 px
+size: [1600, 1338]
+depicts: [coinage, yehud-province, yehud-seals-and-coins]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

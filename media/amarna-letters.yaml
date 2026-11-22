@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: amarna-letters
+file: amarna-letters.jpg
+title: >-
+  One of the Amarna letters. A letter from Abdi-Heba of Jerusalem to the Egyptian Pharaoh
+  Amenhotep III. 1st half of the 14th century BCE. From Tell el-Amarna, Egypt. Vorderasiatisches
+  Museum, Berlin.jpg
+caption: >-
+  Amarna letter from Abdi-Heba of Jerusalem to the pharaoh, clay tablet, 14th century BCE
+  (Vorderasiatisches Museum, Berlin).
+description: >-
+  One of the Amarna letters. A letter from Abdi-Heba of Jerusalem to the Egyptian Pharaoh
+  Amenhotep III. 1st half of the 14th century BCE. Akkadian cuneiform text. From Tell el-Amarna,
+  Egypt. Vorderasiatisches Museum, Berlin.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:One_of_the_Amarna_letters._A_letter_from_Abdi-Heba_of_Jerusalem_to_the_Egyptian_Pharaoh_Amenhotep_III._1st_half_of_the_14th_century_BCE._From_Tell_el-Amarna,_Egypt._Vorderasiatisches_Museum,_Berlin.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/24/One_of_the_Amarna_letters._A_letter_from_Abdi-Heba_of_Jerusalem_to_the_Egyptian_Pharaoh_Amenhotep_III._1st_half_of_the_14th_century_BCE._From_Tell_el-Amarna%2C_Egypt._Vorderasiatisches_Museum%2C_Berlin.jpg
+  sha1: 646c134c2c64bab474e62f4de5249c457a4650c7
+  original_size: [2982, 3799]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1256×1600 px
+size: [1256, 1600]
+depicts: [amarna-letters, habiru]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,84 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: siloam-inscription
+title: Siloam Inscription
+aliases: [Siloam Tunnel Inscription]
+type: artifact
+cultures: [judahite]
+date:
+  from: -700
+  to: -700
+  circa: true
+  display: c. 700 BCE
+scope: >-
+  A six-line Hebrew inscription cut into the wall of the Siloam (Hezekiah's) tunnel in Jerusalem,
+  describing the moment when two teams of tunnellers met. It is the longest monumental Hebrew
+  inscription from the monarchy. The tunnel itself is treated under hezekiahs-tunnel.
+passages:
+- ref: 2Kgs 20:20
+  rel: event
+  note: Hezekiah made the pool and the conduit and brought water into the city
+- ref: 2Chr 32:30
+  rel: event
+  note: Hezekiah channelled the upper Gihon waters down to the west of the City of David
+- ref: 2Chr 32:2-4
+  rel: setting
+  note: Stopping the springs before Sennacherib's invasion
+- ref: Isa 22:9-11
+  rel: setting
+  note: Collecting the waters of the lower pool and building a reservoir
+- ref: Sir 48:17
+  rel: event
+  note: Hezekiah tunnelled the rock with iron and built pools
+- ref: Neh 3:15
+  rel: setting
+  note: Pool of Shelah by the king's garden
+- ref: John 9:7
+  rel: setting
+  note: Pool of Siloam, still fed by the tunnel in the Roman period
+related: [hezekiahs-tunnel, hezekiah, city-of-david, sennacherib-campaign-701, pool-of-siloam,
+  cisterns-and-water-systems, paleo-hebrew-script]
+location:
+  institution: Istanbul Archaeology Museums
+  accession: null
+media:
+- id: siloam-inscription
+  role: primary
+external:
+  wikipedia: Siloam inscription
+  wikidata: Q744869
+editorial:
+  author_notes:
+  - >-
+    Found in 1880 near the tunnel's southern end. It was cut out and broken in 1891 and taken
+    to Constantinople.
+  - >-
+    The inscription names no king and was not placed for display. It celebrates the work and
+    the workers, which is unusual for ANE building inscriptions.
+  - >-
+    The attribution to Hezekiah rests on 2 Kgs 20:20 and 2 Chr 32:30, palaeography, and radiometric
+    dating of the tunnel plaster (c. 700). A Hasmonean dating (Rogerson and Davies 1996) has
+    been rejected. Reich and Shukron's suggestion that the tunnel predates Hezekiah is a minority
+    view.
+  - >-
+    The 'waters of Shiloah' in Isa 8:6 probably refer to the earlier channel (Channel II),
+    not to this tunnel.
+  sources_to_check:
+  - KAI 189
+  - COS 2.28
+  - ANET 321
+  - Dobbs-Allsopp et al., Hebrew Inscriptions (2005)
+  image_query: Siloam inscription Istanbul Archaeology Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

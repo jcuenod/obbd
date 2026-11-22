@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: amorites
+file: amorites.jpg
+title: >-
+  Dinastie amorrite, pittura dell'investitura, dal palazzo di zimri-lim a mari, 2000-1800
+  ac ca., AO 19826.jpg
+caption: >-
+  The Investiture of Zimri-Lim, wall painting from the palace of the Amorite king of Mari,
+  early 2nd millennium BCE (Musée du Louvre, Paris).
+description: Near Eastern Antiquities in the Louvre - Room 227
+creator: Francesco Bini
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Francesco Bini, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Dinastie_amorrite,_pittura_dell%27investitura,_dal_palazzo_di_zimri-lim_a_mari,_2000-1800_ac_ca.,_AO_19826.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/d1/Dinastie_amorrite%2C_pittura_dell%27investitura%2C_dal_palazzo_di_zimri-lim_a_mari%2C_2000-1800_ac_ca.%2C_AO_19826.jpg
+  sha1: 764fb677f8b09c933553798a94b559b1c7a83c47
+  original_size: [5070, 3384]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1068 px
+size: [1600, 1068]
+depicts: [amorites, garden-of-god, mari]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

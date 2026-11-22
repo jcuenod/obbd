@@ -1,0 +1,68 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: sin-moon-god
+title: Sin (Moon God)
+aliases: [Nanna, Suen, Yarikh, moon god of Harran]
+type: deity
+cultures: [mesopotamian, aramean]
+scope: >-
+  Sin (Sumerian Nanna), the Mesopotamian moon god, with major cult centres at Ur and Harran,
+  and the moon god Yarikh of the Levant. The entry covers lunar worship and the biblical references
+  to the moon as an object of cult.
+passages:
+- ref: Gen 11:28, 31
+  rel: setting
+  note: Terah's family linked to Ur and Harran, the two chief cult centres of Sin
+- ref: Deut 4:19
+  rel: polemic
+  note: Moon among the heavenly bodies not to be worshipped
+- ref: 2Kgs 23:5
+  rel: practice
+  note: Josiah suppresses priests who burn incense to the moon (yārēaḥ)
+- ref: Job 31:26-28
+  rel: practice
+  note: The moon 'moving in splendour' as an object of veneration
+- ref: Jer 8:2
+  rel: practice
+  note: Bones spread before sun, moon and host they served
+- ref: Judg 8:21, 26
+  rel: realia
+  note: Crescent ornaments on the Midianite kings' camels
+- ref: Isa 3:18
+  rel: realia
+  note: Crescents (śahărōnîm) among Jerusalem women's ornaments
+related: [harran, ur, nabonidus, verse-account-of-nabonidus, host-of-heaven, new-moon]
+media:
+- id: sin-moon-god
+  role: primary
+external:
+  wikipedia: Sin (mythology)
+  wikidata: Q217420
+editorial:
+  author_notes:
+  - >-
+    Nabonidus's devotion to Sin of Harran is the best-documented first-millennium case; link
+    to the Nabonidus entries and Harran stelae.
+  - >-
+    The Aramean bull-headed moon-god stelae with crescent (e.g. Bethsaida) show a Levantine
+    Harran-type cult; verify details.
+  - >-
+    Correct speculative etymologies (Sinai from Sin; Laban "white" or Jericho from yārēaḥ
+    as evidence of patriarchal moon worship); they are not mainstream.
+  sources_to_check:
+  - O. Keel, Goddesses and Trees, New Moon and Yahweh (JSOTSup 261, 1998)
+  - G. Theuer, Der Mondgott in den Religionen Syrien-Palästinas (OBO 173, 2000)
+  image_query: Nabonidus stele British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

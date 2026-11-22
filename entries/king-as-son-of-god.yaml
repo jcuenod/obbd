@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: king-as-son-of-god
+title: The King as Son of God
+aliases: [Divine sonship of the king]
+type: concept
+cultures: [judahite, egyptian, assyrian]
+scope: >-
+  The designation of the Davidic king as son of YHWH, set against Egyptian claims of the pharaoh's
+  divine birth and Mesopotamian royal language of divine parentage and nursing. The entry
+  covers the adoption model, its texts, and their later messianic reuse.
+passages:
+- ref: Ps 2:7
+  rel: concept
+  note: '''You are my son; today I have begotten you'': installation decree'
+- ref: 2Sam 7:14
+  rel: concept
+  note: '''I will be a father to him, and he shall be a son to me'''
+- ref: 1Chr 17:13
+  rel: concept
+  note: Chronicler's version of the sonship promise
+- ref: Ps 89:26-27
+  rel: concept
+  note: King calls God 'my Father'; made firstborn, highest of kings (MT 89:27-28)
+- ref: Ps 110:3
+  rel: concept
+  disputed: true
+  note: Obscure MT; LXX reads 'from the womb before the morning star I begot you'
+- ref: Isa 9:6
+  rel: concept
+  disputed: true
+  note: Throne names including ʾēl gibbôr 'mighty God' (MT 9:5)
+- ref: Ps 45:6
+  rel: concept
+  disputed: true
+  note: King apparently addressed as 'God' (MT 45:7)
+- ref: Mark 1:11
+  rel: imagery
+  note: Baptismal voice echoes Ps 2:7
+- ref: Heb 1:5
+  rel: concept
+  note: Ps 2:7 and 2 Sam 7:14 applied to Christ
+related: [royal-ideology, egyptian-kingship, messianic-expectations, adoption, sons-of-god,
+  david, shepherd-kingship]
+media:
+- id: king-as-son-of-god
+  role: primary
+external:
+  wikipedia: Son of God
+  wikidata: Q472768
+editorial:
+  author_notes:
+  - >-
+    Egyptian kings were presented as the physical offspring of Amun-Re (divine birth cycles
+    at Deir el-Bahri and Luxor). Mesopotamian kings call themselves children of deities or
+    say goddesses nursed them (e.g. Ashurbanipal).
+  - >-
+    The consensus reads Judahite sonship as adoptive and legal ('today', Ps 2:7) and as covenantal
+    (2 Sam 7:14 includes discipline). Compare adoption formulae.
+  - >-
+    Ps 110:3 and Isa 9:6 involve textual and grammatical cruxes. Proposed comparisons with
+    the Egyptian five-part titulary for Isa 9:6 are debated.
+  - >-
+    Trace the reception in Qumran (4Q174 Florilegium; 4Q246 'Son of God' text) and the New
+    Testament, but keep it distinct from the ancient Near Eastern background.
+  image_query: Hatshepsut divine birth relief Deir el-Bahari
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

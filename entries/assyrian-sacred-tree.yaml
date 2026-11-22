@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: assyrian-sacred-tree
+title: Assyrian Sacred Tree
+type: realia
+cultures: [assyrian]
+scope: >-
+  The stylised tree motif of Middle and Neo-Assyrian art, often flanked by the king, genies
+  or griffins beneath a winged disk, as on the throne-room relief of Ashurnasirpal II at Nimrud.
+  The entry covers its iconography, debated meaning, and comparison with biblical trees and
+  palmette decoration.
+passages:
+- ref: Gen 2:9
+  rel: concept
+  note: Tree of life in the middle of the garden
+- ref: Gen 3:22-24
+  rel: concept
+  note: Tree of life guarded by cherubim
+- ref: Ezek 31:2-9
+  rel: imagery
+  note: Great cedar in the garden of God; 31:3 reads 'Assyria' (often emended 'cypress')
+- ref: Dan 4:10-12
+  rel: imagery
+  note: Nebuchadnezzar's world tree (MT 4:7-9)
+- ref: 1Kgs 6:29, 32, 35
+  rel: realia
+  note: Cherubim, palm trees and flowers carved on temple walls
+- ref: Ezek 41:18-20
+  rel: realia
+  note: Cherubim flanking palm trees in the visionary temple
+- ref: Prov 3:18
+  rel: imagery
+  note: Wisdom as a tree of life
+- ref: Rev 22:2
+  rel: imagery
+  note: Tree of life in the new Jerusalem
+related: [tree-of-life, garden-of-god, cherubim, apkallu-reliefs, winged-sun-disk, asherah,
+  nimrud]
+media:
+- id: assyrian-sacred-tree
+  role: primary
+- id: tree-of-life
+  role: gallery
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The meaning of the motif is debated (fertility, cosmic order, the king as embodiment of
+    order). Parpola's reading of it as a Kabbalah-like 'tree of life' diagram is a minority
+    view and should be presented critically.
+  - >-
+    The Assyrian term for the motif is uncertain; 'sacred tree' is a modern label. Avoid calling
+    it 'the tree of life' as if this were its ancient name.
+  - >-
+    In Ezek 31:3 the MT reads 'Assyria'; some emend to te'ashshur ('cypress'). Note the textual
+    issue.
+  - >-
+    The palmette-and-cherub decoration of 1 Kgs 6 and Ezek 41 reflects a shared Levantine-Mesopotamian
+    iconographic repertoire.
+  sources_to_check:
+  - Parpola, "The Assyrian Tree of Life," JNES 52 (1993)
+  - Keel and Uehlinger, Gods, Goddesses, and Images of God in Ancient Israel (1998)
+  image_query: Ashurnasirpal II sacred tree relief Nimrud British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Ezek 31:2-9 note reworded (MT reading 'Assyria',
+    not a versification note)
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

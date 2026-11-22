@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: corinth
+file: corinth.jpg
+title: CorintoScaviTempioApollo.jpg
+caption: >-
+  The Archaic temple of Apollo at Corinth, which stood above the forum of the Roman colony.
+description: Ancient Corinth, Apollo temple
+creator: MM
+credit_line: Own work
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: MM. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:CorintoScaviTempioApollo.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/4/49/CorintoScaviTempioApollo.jpg
+  sha1: 9e5125b39c73df933a1d9f228e796266fc2c250c
+  original_size: [2048, 1536]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [corinth]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

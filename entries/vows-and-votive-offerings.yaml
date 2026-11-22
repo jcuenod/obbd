@@ -1,0 +1,85 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: vows-and-votive-offerings
+title: Vows and Votive Offerings
+aliases: [Neder]
+type: practice
+cultures: [ane, phoenician, ugaritic]
+scope: >-
+  Conditional promises to a deity (vows) and the offerings, dedications and inscriptions given
+  in fulfilment. The entry covers biblical vow narratives and laws, and their ancient Near
+  Eastern counterparts, especially Ugaritic and Phoenician/Punic votive texts.
+passages:
+- ref: Gen 28:20-22
+  rel: practice
+  note: 'Jacob''s conditional vow at Bethel: ''If God will be with me… then'''
+- ref: Judg 11:30-31
+  rel: practice
+  note: Jephthah's vow
+- ref: 1Sam 1:11
+  rel: practice
+  note: Hannah's vow to dedicate a son
+- ref: 2Sam 15:7-8
+  rel: practice
+  note: Absalom's vow made in Geshur, to be paid in Hebron
+- ref: Lev 27:1-34
+  rel: practice
+  note: Valuation and redemption of vowed persons, animals and property
+- ref: Num 30:1-16
+  rel: practice
+  note: Women's vows and their annulment by father or husband (MT 30:2-17)
+- ref: Deut 23:21-23
+  rel: practice
+  note: Do not delay paying a vow (MT 23:22-24)
+- ref: Lev 7:16
+  rel: practice
+  note: The votive (neder) sacrifice
+- ref: Ps 22:25; 116:14, 18
+  rel: practice
+  note: Paying vows before the congregation (MT 22:26)
+- ref: Jonah 1:16; 2:9
+  rel: practice
+  note: Sailors' and Jonah's vows (MT 2:10)
+- ref: Eccl 5:4-5
+  rel: practice
+  note: Better not to vow than to vow and not pay (MT 5:3-4)
+related: [nazirite-vow, sacrifice, melqart-stele, tophet, kirta-epic, oaths-and-oath-formulas,
+  child-sacrifice]
+media:
+- id: vows-and-votive-offerings
+  role: primary
+- id: vows-and-votive-offerings-2
+  role: gallery
+external:
+  wikipedia: Votive offering
+  wikidata: Q2601788
+editorial:
+  author_notes:
+  - >-
+    Biblical vows are conditional, in the form 'If you… then I will…'. They are paid in thanksgiving
+    contexts (tôdâ psalms) and often in public.
+  - >-
+    Kirta's vow to Asherah of Tyre and Sidon (KTU 1.14 iv), and his illness after failing
+    to keep it, is the classic Ugaritic parallel to Deut 23:21-23 and Eccl 5:4-5.
+  - >-
+    Phoenician and Punic votive inscriptions (Melqart stele, KAI 201; tophet stelae) use the
+    formula 'which X vowed, because he heard his voice'. Relevant to the tophet and child-sacrifice
+    debate.
+  - >-
+    On Num 30, discuss the gendered legal control of women's vows without anachronism. T.
+    Cartledge, Vows in the Hebrew Bible and the Ancient Near East (1992), is a standard study.
+  sources_to_check: [KTU 1.14 iv (Kirta's vow), KAI 201 (Melqart stele)]
+  image_query: Carthage tophet votive stele
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

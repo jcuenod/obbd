@@ -1,0 +1,75 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: satan-the-adversary
+title: The Satan (the Adversary)
+aliases: [haśśāṭān, the accuser]
+type: concept
+cultures: [hebrew, persian, jewish]
+scope: >-
+  The śāṭān ("adversary, accuser") in the Hebrew Bible, from human opponents to the heavenly
+  "satan" of Job and Zechariah, and the emergence of Satan as a proper name and chief of evil
+  powers in the Persian and Hellenistic periods.
+passages:
+- ref: Job 1:6-12; 2:1-7
+  rel: concept
+  note: '''The satan'' among the sons of God tests Job with permission'
+- ref: Zech 3:1-2
+  rel: concept
+  note: The satan accuses the high priest Joshua
+- ref: 1Chr 21:1
+  rel: concept
+  note: Satan (or 'an adversary') incites David; cf. 2 Sam 24:1 (YHWH)
+- ref: Num 22:22, 32
+  rel: language
+  note: YHWH's angel stands as a śāṭān to block Balaam
+- ref: 1Kgs 11:14, 23, 25
+  rel: language
+  note: Hadad and Rezon raised up as political adversaries
+- ref: 1Sam 29:4
+  rel: language
+  note: David as a potential śāṭān in battle
+- ref: Ps 109:6
+  rel: practice
+  note: Accuser at the right hand in a legal setting
+- ref: Wis 2:24
+  rel: concept
+  note: >-
+    Death entered through the devil's envy; probably an early identification of Eden's serpent
+related: [divine-council, sons-of-god, angel-of-yhwh, demons, zoroastrianism, persia]
+media: []
+external:
+  wikipedia: Satan
+  wikidata: Q35230
+editorial:
+  author_notes:
+  - >-
+    In Job and Zechariah haśśāṭān has the article and denotes a role in the heavenly court,
+    not a proper name; 1 Chr 21:1 (no article) is debated as the first proper-name use.
+  - >-
+    The Persian "eyes of the king" informer model (Oppenheim) and Zoroastrian dualism as influences
+    are debated; present them as hypotheses.
+  - >-
+    Correct the misconceptions that the Gen 3 serpent or Isa 14:12 and Ezek 28 refer to Satan
+    in their original contexts.
+  sources_to_check:
+  - 'P. L. Day, An Adversary in Heaven: śāṭān in the Hebrew Bible (HSM 43, 1988)'
+  - 'R. E. Stokes, The Satan: How God''s Executioner Became the Enemy (2019)'
+  - DDD, s.v. "Satan"
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: softened Wis 2:24 note ('first link to Gen 3' overclaimed)
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

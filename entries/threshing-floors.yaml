@@ -1,0 +1,80 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: threshing-floors
+title: Threshing Floors
+aliases: [Goren]
+type: realia
+cultures: [hebrew, ugaritic]
+scope: >-
+  The threshing floor (gōren) as agricultural installation and as a public, judicial, and
+  sacral space, together with threshing and winnowing technology and their figurative use
+  in prophecy and the Gospels.
+passages:
+- ref: Judg 6:37
+  rel: realia
+  note: Gideon's fleece laid on the threshing floor
+- ref: Ruth 3:2-14
+  rel: realia
+  note: Boaz winnowing barley and sleeping at the threshing floor
+- ref: 2Sam 24:18-25
+  rel: setting
+  note: David buys Araunah's threshing floor and builds an altar
+- ref: 2Chr 3:1
+  rel: setting
+  note: Temple built on Ornan's threshing floor on Mount Moriah
+- ref: 1Kgs 22:10
+  rel: setting
+  note: Kings enthroned at the threshing floor at Samaria's gate
+- ref: Deut 25:4
+  rel: practice
+  note: The threshing ox not to be muzzled
+- ref: Isa 28:27-28
+  rel: realia
+  note: Threshing sledge and cart wheel used on different crops
+- ref: Isa 41:15
+  rel: imagery
+  note: Israel made a new threshing sledge with sharp teeth
+- ref: Hos 9:1
+  rel: practice
+  note: '''Prostitute''s pay on all threshing floors'''
+- ref: Mic 4:12-13
+  rel: imagery
+  note: Nations gathered as sheaves; Zion threshes
+- ref: Matt 3:12
+  rel: imagery
+  note: Winnowing fork; clearing the threshing floor
+related: [agriculture-and-farming, aqhat-epic, temple-mount, festivals-agricultural, courts-and-legal-procedure,
+  millstones-and-grinding]
+media:
+- id: threshing-floors
+  role: primary
+external:
+  wikipedia: Threshing floor
+  wikidata: Q1350230
+editorial:
+  author_notes:
+  - >-
+    Threshing floors were public and sacral spaces. At Ugarit, Danel sits by the gate 'on
+    the threshing floor' and judges the widow's and orphan's case (KTU 1.17 V). Compare 1
+    Kgs 22:10 and the temple site in 2 Sam 24 and 2 Chr 3:1.
+  - >-
+    Explain the technology. The threshing sledge (môrag) had stone teeth (2 Sam 24:22; Isa
+    41:15), followed by winnowing with fork and shovel in the evening breeze (Ruth 3:2).
+  - >-
+    Archaeological evidence is slight, since floors were open bedrock or beaten earth. Ethnographic
+    analogies are useful but should be signalled as such.
+  - Note the debated sexual overtones of Ruth 3 and of Hos 9:1.
+  image_query: threshing floor
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: creation-of-humanity
+file: creation-of-humanity.jpg
+title: 26949- Khnum makes man on the potters wheel.jpg
+caption: >-
+  The ram-headed god Khnum fashioning a human figure on the potter's wheel, relief in the
+  temple complex at Dendera.
+description: Dendera Temple complex
+creator: Panegyrics of Granovetter
+credit_line: https://www.flickr.com/photos/37174512@N03/51921579693/
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: Panegyrics of Granovetter, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:26949-_Khnum_makes_man_on_the_potters_wheel.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/f/f7/26949-_Khnum_makes_man_on_the_potters_wheel.jpg
+  sha1: e883bd31a4a2347a28a0fa1cf761e53cc3c029e1
+  original_size: [6551, 4200]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1026 px
+size: [1600, 1026]
+depicts: [creation-of-humanity, khnum, pottery-and-potters]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

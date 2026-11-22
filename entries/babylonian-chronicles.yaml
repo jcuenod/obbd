@@ -1,0 +1,76 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: babylonian-chronicles
+title: Babylonian Chronicles
+aliases: [Neo-Babylonian Chronicle Series, ABC]
+type: text
+cultures: [babylonian]
+date:
+  from: -747
+  to: -150
+  circa: true
+  display: c. 747–150 BCE
+scope: >-
+  The series of terse, year-by-year Babylonian chronicles from the reign of Nabonassar (747)
+  into the Seleucid era, recording royal accessions, campaigns, and cultic events. This hub
+  entry covers the series as a whole; individual chronicles important for biblical history
+  have their own entries.
+passages:
+- ref: 2Kgs 17:3-6
+  rel: event
+  note: Shalmaneser V ravages Šamaraʾin, usually taken as Samaria (ABC 1)
+- ref: 2Kgs 19:37
+  rel: event
+  note: Sennacherib killed by his son in a rebellion (ABC 1)
+- ref: 2Kgs 20:12
+  rel: attests
+  note: Merodach-baladan (Marduk-apla-iddina II) as king of Babylon
+- ref: 2Kgs 23:29
+  rel: event
+  note: Egyptian army marches to aid Assyria at Harran, 609 (ABC 3)
+- ref: Jer 46:2
+  rel: event
+  note: Egypt defeated at Carchemish, 605 (ABC 5)
+- ref: 2Kgs 24:10-17
+  rel: event
+  note: Nebuchadnezzar captures 'the city of Judah', 597, and appoints a new king (ABC 5)
+- ref: Dan 5:30-31
+  rel: event
+  note: Babylon falls to Cyrus's army, 539 (ABC 7) (MT 5:30-6:1)
+related: [nebuchadnezzar-chronicle, fall-of-nineveh-chronicle, nabonidus-chronicle, royal-annals-and-historiography,
+  chronology-of-kings, merodach-baladan, assyrian-eponym-list]
+media:
+- id: babylonian-chronicles
+  role: primary
+external:
+  wikipedia: Babylonian Chronicles
+  wikidata: Q1061346
+editorial:
+  author_notes:
+  - >-
+    Grayson's numbering (ABC 1-7 etc.) and Glassner's differ; give both. The chronicles are
+    generally reliable and record Babylonian setbacks as well as victories.
+  - >-
+    Gaps matter: no chronicle covers 594-557, so there is no Babylonian chronicle of the 587/586
+    destruction of Jerusalem.
+  - >-
+    The Šamaraʾin identification (ABC 1 i 28) is widely accepted and bears on whether Shalmaneser
+    V or Sargon II took Samaria (see fall-of-samaria).
+  sources_to_check:
+  - A. K. Grayson, Assyrian and Babylonian Chronicles (TCS 5, 1975)
+  - J.-J. Glassner, Mesopotamian Chronicles (SBLWAW 19, 2004)
+  - D. J. Wiseman, Chronicles of Chaldaean Kings (626-556 B.C.) in the British Museum (1956)
+  image_query: Babylonian Chronicle tablet British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

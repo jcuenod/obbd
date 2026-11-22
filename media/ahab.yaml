@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ahab
+file: ahab.jpg
+title: Kurkh Monolith.jpg
+caption: >-
+  The Kurkh Monolith of Shalmaneser III, which names 'Ahab the Israelite' among the coalition
+  at Qarqar in 853 BCE (British Museum, London).
+description: Kurkh-Monolith im British Museum
+creator: DrMaWo
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: DrMaWo, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Kurkh_Monolith.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/9/9e/Kurkh_Monolith.jpg
+  sha1: 92ca2a650b003796c5a8355dbf0fd2e287718c4f
+  original_size: [1663, 3929]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 677×1600 px
+size: [677, 1600]
+depicts: [ahab, battle-of-qarqar, kurkh-monoliths]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

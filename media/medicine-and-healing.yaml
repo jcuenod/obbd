@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: medicine-and-healing
+file: medicine-and-healing.jpg
+title: Edwin Smith Papyrus v2.jpg
+caption: The Edwin Smith surgical papyrus, hieratic, c. 1600 BCE (New York Academy of Medicine).
+description: >-
+  The Edwin Smith papyrus, the world's oldest surviving surgical document. Written in hieratic
+  script in ancient Egypt around 1600 B.C., the text describes anatomical observations and
+  the examination, diagnosis, treatment, and prognosis of 48 types of medical problems in
+  exquisite detail. Among the treatments described are closing wounds with sutures, preventing
+  and curing infection with honey and moldy bread, stopping bleeding with raw meat, and immobilization
+  of head and spinal cord injuries. Translated in 1930, the document reveals the sophistication
+  and practicality of ancient Egyptian medic
+creator: Jeff Dahl
+credit_line: Edited version of Image:EdSmPaPlateVIandVIIPrintsx.jpg
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Jeff Dahl. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Edwin_Smith_Papyrus_v2.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/b/b4/Edwin_Smith_Papyrus_v2.jpg
+  sha1: 51553861ce770023d084174689090b9b3ab52846
+  original_size: [2550, 1954]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1226 px
+size: [1600, 1226]
+depicts: [medicine-and-healing]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

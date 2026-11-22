@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: galilee-boat
+file: galilee-boat.jpg
+title: JesusBoat.jpg
+caption: >-
+  The Sea of Galilee Boat, a 1st-century BCE to 1st-century CE wooden fishing boat, on its
+  display frame (Yigal Allon Centre, Kibbutz Ginosar).
+description: >-
+  The Sea of Galilee Boat or "Jesus Boat" on a metal frame in the Yigal Alon Museum in Kibbutz
+  Ginosar, Tiberias, Israel
+creator: Travellers & Tinkers
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Travellers & Tinkers, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:JesusBoat.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/d/d8/JesusBoat.jpg
+  sha1: d7e2a19efdddedaa973eebe56f2ba8f7843e29dc
+  original_size: [3716, 2908]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1253 px
+size: [1600, 1253]
+depicts: [galilee-boat]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

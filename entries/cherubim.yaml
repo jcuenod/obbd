@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: cherubim
+title: Cherubim
+aliases: [cherub, kərûbîm]
+type: concept
+cultures: [hebrew, phoenician, assyrian]
+scope: >-
+  The cherubim, winged composite guardian creatures of the Hebrew Bible who guard Eden, flank
+  the ark, bear YHWH's throne and decorate the sanctuary. The entry covers their ANE iconographic
+  background in winged sphinxes and guardian figures.
+passages:
+- ref: Gen 3:24
+  rel: concept
+  note: Cherubim and flaming sword guard the way to the tree of life
+- ref: Exod 25:18-22
+  rel: realia
+  note: Two golden cherubim over the mercy seat
+- ref: 1Kgs 6:23-28
+  rel: realia
+  note: Two olivewood cherubim ten cubits high in the inner sanctuary
+- ref: 1Sam 4:4
+  rel: imagery
+  note: YHWH 'enthroned on the cherubim'
+- ref: Ps 18:10
+  rel: imagery
+  note: YHWH rides on a cherub and flies (MT 18:11; 2 Sam 22:11)
+- ref: Ezek 1:5-14
+  rel: imagery
+  note: Four living creatures with four faces and wings
+- ref: Ezek 10:1-22
+  rel: imagery
+  note: Living creatures identified as cherubim beneath the throne-chariot
+- ref: Ezek 28:14-16
+  rel: concept
+  note: Guardian cherub on the holy mountain of God
+- ref: Ezek 41:18-20
+  rel: realia
+  note: Carved cherubim with human and lion faces alternating with palms
+related: [cherub-throne, lamassu, ahiram-sarcophagus, samaria-ivories, ark-of-the-covenant,
+  ezekiel-throne-chariot, garden-of-god, seraphim]
+media:
+- id: cherubim
+  role: primary
+- id: lamassu
+  role: gallery
+external:
+  wikipedia: Cherub
+  wikidata: Q185569
+editorial:
+  author_notes:
+  - >-
+    Mainstream view identifies the cherub with the Levantine winged sphinx (lion body, human
+    head, wings), as on the Ahiram sarcophagus throne and Megiddo and Samaria ivories.
+  - Etymology from Akkadian kāribu/kurību (intercessory genius) is common but debated.
+  - Correct the later image of cherubs as winged infants (Renaissance putti).
+  - >-
+    Ezekiel's cherubim combine several iconographic types (Assyrian lamassu, four-winged genii,
+    atlas figures); see the throne-chariot entry.
+  sources_to_check:
+  - O. Keel and C. Uehlinger, Gods, Goddesses, and Images of God in Ancient Israel (1998)
+  - >-
+    A. Wood, Of Wings and Wheels: A Synthetic Study of the Biblical Cherubim (BZAW 385, 2008)
+  - DDD, s.v. "Cherubim"
+  image_query: Phoenician ivory winged sphinx
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

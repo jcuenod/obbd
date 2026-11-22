@@ -1,0 +1,71 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tablet-of-destinies
+title: Tablet of Destinies and the Book of Life
+aliases: [ṭuppi šīmāti, Book of Life]
+type: concept
+cultures: [babylonian, mesopotamian]
+scope: >-
+  The Mesopotamian Tablet of Destinies, the emblem of supreme cosmic authority seized by Marduk
+  in Enuma Elish and stolen by Anzu, together with the related idea of divine scribes (especially
+  Nabu) writing the fates. The entry also covers the biblical "book of life" and heavenly
+  books.
+passages:
+- ref: Exod 32:32-33
+  rel: concept
+  note: Divine book from which names may be blotted out
+- ref: Ps 69:28
+  rel: concept
+  note: '''Book of the living'' (MT 69:29)'
+- ref: Ps 139:16
+  rel: concept
+  note: Days of life written beforehand in God's book
+- ref: Isa 4:3
+  rel: concept
+  note: Those recorded for life in Jerusalem
+- ref: Mal 3:16
+  rel: concept
+  note: Book of remembrance written before YHWH
+- ref: Dan 7:10
+  rel: concept
+  note: Books opened in the heavenly court
+- ref: Dan 12:1
+  rel: concept
+  note: Those written in the book will be delivered
+- ref: Rev 20:12
+  rel: concept
+  note: Books opened and the dead judged; the book of life
+related: [enuma-elish, divine-council, akitu-festival, nabu, marduk, writing-and-literacy]
+media: []
+external:
+  wikipedia: Tablet of Destinies
+  wikidata: Q1168893
+editorial:
+  author_notes:
+  - >-
+    Distinguish the Tablet of Destinies (Enuma Elish I-IV; the Anzu myth), an emblem of power
+    over the cosmos, from registers of individuals; the closer analogue to the 'book of life'
+    is Nabu as scribe of destinies and the fixing of fates at the akītu festival.
+  - >-
+    Biblical heavenly books also draw on administrative practice (citizen rolls, Ezek 13:9;
+    Isa 4:3) and records of deeds (Mal 3:16; Dan 7:10); S. Paul (1973) remains the standard
+    survey.
+  - >-
+    Correct the popular claim that the biblical book of life is simply derived from the Tablet
+    of Destinies.
+  sources_to_check:
+  - 'S. M. Paul, ''Heavenly Tablets and the Book of Life,'' JANESCU 5 (1973): 345-353'
+  - 'A. R. George, ''Sennacherib and the Tablet of Destinies,'' Iraq 48 (1986): 133-146'
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

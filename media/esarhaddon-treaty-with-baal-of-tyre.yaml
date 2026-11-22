@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: esarhaddon-treaty-with-baal-of-tyre
+file: esarhaddon-treaty-with-baal-of-tyre.png
+title: Treaty of Esarhaddon with Baal of Tyre (K 3500 + K 4444 + K 10235).png
+caption: >-
+  Hand copy of the treaty of Esarhaddon with Baal of Tyre (K 3500 + K 4444 + K 10235), as
+  published by Hugo Winkler in 1898.
+description: >-
+  Treaty of Esarhaddon with Baal of Tyre (K 3500 + K 4444 + K 10235), transcription as published
+  by Hugo Winkler in 1898
+creator: w:Hugo Winckler
+credit_line: Altorientalische Forschunge, II ("Ancient Near Eastern Studies"), 1898
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: w:Hugo Winckler. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Treaty_of_Esarhaddon_with_Baal_of_Tyre_(K_3500_%2B_K_4444_%2B_K_10235).png
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/c/c8/Treaty_of_Esarhaddon_with_Baal_of_Tyre_%28K_3500_%2B_K_4444_%2B_K_10235%29.png
+  sha1: 8aa0ad86164a42067b8c84fa29aa3b752fbffe9c
+  original_size: [954, 509]
+  retrieved: '2026-11-20'
+derivative: null
+size: [954, 509]
+depicts: [esarhaddon-treaty-with-baal-of-tyre]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

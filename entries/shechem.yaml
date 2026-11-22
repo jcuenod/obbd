@@ -1,0 +1,81 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: shechem
+title: Shechem (Tell Balata)
+aliases: [Tell Balata, Sekmem, Sychar]
+type: site
+cultures: [canaanite, israelite]
+scope: >-
+  The city in the pass between Mounts Gerizim and Ebal, a Bronze Age city-state and early
+  Israelite political and covenant centre. Covers its Middle Bronze fortifications and fortress
+  temple, its Amarna-period ruler Labayu, and its Iron Age and Hellenistic phases.
+passages:
+- ref: Gen 12:6-7
+  rel: setting
+  note: Oak of Moreh; Abram's altar
+- ref: Gen 33:18-20
+  rel: setting
+  note: Jacob buys land and builds an altar, El-Elohe-Israel
+- ref: Gen 34
+  rel: setting
+  note: Dinah and the Shechemites
+- ref: Josh 24:1-28
+  rel: setting
+  note: Covenant assembly; stone set up under the oak
+- ref: Judg 9:4, 46-49
+  rel: attests
+  disputed: true
+  note: Temple of Baal-berith / El-berith and 'Tower of Shechem'; the MB fortress temple
+- ref: 1Kgs 12:1, 25
+  rel: setting
+  note: Rehoboam's assembly; Jeroboam fortifies Shechem
+- ref: John 4:5
+  rel: setting
+  note: Sychar, near the field Jacob gave Joseph
+related: [mount-gerizim, baal-berith, amarna-letters, massebot, covenant-and-treaty-form,
+  samaritan-origins, execration-texts, habiru]
+media:
+- id: shechem
+  role: primary
+- id: shechem-2
+  role: gallery
+external:
+  wikipedia: Shechem
+  wikidata: Q7951237
+  pleiades: '678403'
+editorial:
+  author_notes:
+  - >-
+    Shechem appears in the Execration Texts and the Khu-Sebek stele (Middle Bronze). Labayu
+    of Shechem is prominent in the Amarna letters (EA 252-254; verify), where rivals accuse
+    him of handing land to the ʿApiru.
+  - >-
+    Sellin's German excavations and G. E. Wright's Drew-McCormick expedition identified a
+    massive fortress (migdal) temple and a large massebah, which Wright linked to Judg 9.
+    Whether the temple remained in use into Iron I is debated.
+  - >-
+    The Hellenistic city has been linked with the Samaritan community. It was destroyed by
+    John Hyrcanus in the late second century BCE.
+  sources_to_check: [NEAEHL, 'Moran, The Amarna Letters (1992)']
+  image_query: Tell Balata Shechem fortress temple
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q7951237 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 32.21361
+  lon: 35.28194
+  source: wikidata:Q7951237

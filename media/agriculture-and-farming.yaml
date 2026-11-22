@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: agriculture-and-farming
+file: agriculture-and-farming.jpg
+title: >-
+  The Gezer Calendar tablet, early iron age, 10th century BCE, Museum of Archaeology, Istanbul,
+  Turkey.jpg
+caption: >-
+  The Gezer Calendar, a limestone tablet listing the months of the agricultural year, 10th
+  century BCE (Istanbul Archaeology Museums).
+description: >-
+  The Gezer Calendar tablet is one of the earliest Hebrew texts. The so-called "Calendar"
+  narrates the agricultural phases of a year in puzzles, using a poetic language. Early Iron
+  Age, 10th century BCE. From Gezer, in modern-day State of Israel. Museum of Archaeology,
+  Istanbul, Turkey.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:The_Gezer_Calendar_tablet,_early_iron_age,_10th_century_BCE,_Museum_of_Archaeology,_Istanbul,_Turkey.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/dc/The_Gezer_Calendar_tablet%2C_early_iron_age%2C_10th_century_BCE%2C_Museum_of_Archaeology%2C_Istanbul%2C_Turkey.jpg
+  sha1: 287d271ff0f6b5ccc878dc22c78a39feb502e90d
+  original_size: [3438, 3983]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1381×1600 px
+size: [1381, 1600]
+depicts: [agriculture-and-farming, festivals-agricultural, gezer-calendar]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

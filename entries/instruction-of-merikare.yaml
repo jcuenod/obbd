@@ -1,0 +1,86 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: instruction-of-merikare
+title: Instruction for Merikare
+aliases: [Teaching for King Merikare, Instruction Addressed to King Merikare]
+type: text
+cultures: [egyptian]
+date:
+  from: -2050
+  to: -1900
+  circa: true
+  display: c. 2050–1900 BCE
+scope: >-
+  A Middle Egyptian royal instruction set in the Herakleopolitan period, in which an elder
+  king advises his son Merikare on ruling, justice, rebels, the eastern frontier and the judgment
+  of the dead. It ends with a hymn to the creator who made the world for humankind, "his images
+  who came from his body".
+passages:
+- ref: Gen 1:26-27
+  rel: concept
+  note: Humans as the creator's images; cf. 'his images who came from his body'
+- ref: Ps 8:5-8
+  rel: concept
+  note: >-
+    Humans given rule over animals, birds and fish; cf. sky, earth and food made 'for their
+    sake' (MT 8:6-9)
+- ref: Gen 2:7
+  rel: concept
+  note: Breath of life placed in human nostrils; cf. 'he made breath for their noses to live'
+- ref: Prov 15:8; 21:3, 27
+  rel: concept
+  note: >-
+    The upright's character preferred to the wicked's sacrifice; cf. 'the loaf of the upright
+    over the ox of the evildoer'
+- ref: Prov 25:15
+  rel: concept
+  note: Patient speech persuades a ruler; cf. 'speech is stronger than all fighting'
+- ref: Prov 16:12
+  rel: concept
+  note: A throne established by righteousness; cf. 'do maat, that you may endure on earth'
+- ref: 1Kgs 2:1-9
+  rel: form
+  note: A dying king instructs his successor, including how to deal with rivals
+related: [maat, egyptian-kingship, image-of-god, creation-of-humanity, ane-wisdom-literature,
+  instruction-of-ptahhotep, book-of-the-dead]
+media: []
+external:
+  wikipedia: Teaching for King Merykara
+  wikidata: Q7691303
+editorial:
+  author_notes:
+  - >-
+    The text is attributed to a Herakleopolitan king (traditionally Khety) but was probably
+    composed in the late First Intermediate Period or early 12th Dynasty. The main manuscripts
+    (P. Hermitage 1116A, P. Moscow, P. Carlsberg VI) are 18th Dynasty. Say this in the article.
+  - >-
+    The closing hymn ('well tended is humankind, the cattle of god') is the strongest Egyptian
+    parallel to Gen 1:26-28 and Ps 8. Note the difference: in Merikare all humans are the
+    god's images, whereas in Egyptian royal ideology the king is the image par excellence.
+    Compare this with the biblical democratization of the image.
+  - >-
+    The saying preferring the upright's character to the wicked's offering is a good comparandum
+    for prophetic and sapiential critiques of sacrifice (Prov 21:3; 1 Sam 15:22; Hos 6:6).
+    Treat it as typological.
+  - >-
+    The weighing-of-the-heart imagery sometimes cited for Prov 16:2 belongs to the Book of
+    the Dead rather than to Merikare, which speaks of a tribunal of the dead. Do not conflate
+    them.
+  sources_to_check:
+  - AEL 1:97-109
+  - ANET 414-418
+  - J. F. Quack, Studien zur Lehre für Merikare (GOF IV/23, 1992)
+  image_query: Papyrus Hermitage 1116A
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

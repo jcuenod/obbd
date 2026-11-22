@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: joseph-story-egyptian-background
+file: joseph-story-egyptian-background.jpg
+title: Model granary with workers and a scribe, wood - Museo Egizio Turin S 8651 p01.jpg
+caption: >-
+  Egyptian wooden model of a granary with workers and a scribe (Museo Egizio, Turin, S 8651).
+description: null
+creator: null
+credit_line: Museo Egizio
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Unknown author. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Model_granary_with_workers_and_a_scribe,_wood_-_Museo_Egizio_Turin_S_8651_p01.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/df/Model_granary_with_workers_and_a_scribe%2C_wood_-_Museo_Egizio_Turin_S_8651_p01.jpg
+  sha1: 95c73455c430f57ade57f8731343da93cfabb6a7
+  original_size: [5921, 4705]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1272 px
+size: [1600, 1272]
+depicts: [joseph-story-egyptian-background]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

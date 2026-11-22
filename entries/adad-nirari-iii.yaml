@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: adad-nirari-iii
+title: Adad-nirari III
+type: person
+cultures: [assyrian]
+date:
+  from: -811
+  to: -783
+  display: 811–783 BCE
+scope: >-
+  King of Assyria (811-783 BCE), son of Šamši-Adad V and Sammu-ramat. His western campaigns
+  around 805-796 broke the power of Aram-Damascus and received tribute from Joash of Samaria,
+  Tyre, Sidon, Edom and Philistia, which helps explain Israel's recovery under Joash and Jeroboam
+  II. The Tell al-Rimah stele has its own entry.
+passages:
+- ref: 2Kgs 13:5
+  rel: event
+  disputed: true
+  note: >-
+    YHWH gives Israel a 'saviour' from Aram's oppression; often identified with Adad-nirari
+    III
+- ref: 2Kgs 13:10-13
+  rel: attests
+  note: Jehoash (Joash) of Israel, 'Iuʾasu the Samarian' on the Tell al-Rimah stele
+- ref: 2Kgs 13:22-25
+  rel: setting
+  note: Joash recovers towns from Ben-hadad son of Hazael after Damascus is weakened
+- ref: 2Kgs 14:25-28
+  rel: setting
+  note: Jeroboam II restores Israel's border from Lebo-hamath, after Aram's decline
+related: [tell-al-rimah-stele, ben-hadad, hazael, damascus, samaria, tribute-and-vassalage,
+  assyria]
+media:
+- id: adad-nirari-iii
+  role: primary
+- id: adad-nirari-iii-2
+  role: gallery
+external:
+  wikipedia: Adad-nirari III
+  wikidata: Q313127
+editorial:
+  author_notes:
+  - >-
+    The main western sources are the Calah (Nimrud) slab, which lists Tyre, Sidon, 'the land
+    of Omri', Edom and Philistia; the Saba'a stele, which records tribute from Mariʾ of Damascus;
+    and the Tell al-Rimah stele, which names Joash. They compress several campaigns, so the
+    date of Joash's tribute (often 796) is debated.
+  - >-
+    Identifying the 'saviour' of 2 Kgs 13:5 with Adad-nirari III is common but not certain.
+    Alternatives include Jeroboam II (2 Kgs 14:27) and Elisha.
+  - >-
+    Sammu-ramat, his mother, held unusual prominence in his early reign (e.g. the Pazarcık
+    stele). The Greek Semiramis legend draws loosely on her. Keep the historical queen and
+    the legend apart.
+  - >-
+    A dedication on Nabu statues from Nimrud ('Trust in Nabu, do not trust in another god')
+    has been read as a monotheistic reform. That reading is not accepted. It is a devotional
+    formula in a polytheistic setting.
+  sources_to_check:
+  - >-
+    A. K. Grayson, Assyrian Rulers of the Early First Millennium BC II (858-745 BC) (RIMA
+    3, 1996)
+  - ANET 281-282
+  image_query: Adad-nirari III stele
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-1-sol

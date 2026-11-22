@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: bubastite-portal
+file: bubastite-portal.jpg
+title: Karnak Tempel 19.jpg
+caption: >-
+  Part of Shoshenq I's relief at Karnak, with rows of name-rings of captured towns from his
+  Levantine campaign.
+description: >-
+  The Relief of Shoshenq I's campaign list at the southern exterior walls of the temple of
+  Karnak, north of Luxor, Egypt.
+creator: Olaf Tausch
+credit_line: Own work
+license:
+  id: CC-BY-3.0
+  name: CC BY 3.0
+  url: https://creativecommons.org/licenses/by/3.0
+attribution: Olaf Tausch, CC BY 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Karnak_Tempel_19.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/e/eb/Karnak_Tempel_19.jpg
+  sha1: 2d1c85f91af5368944e13a39bcf2a46370742310
+  original_size: [3128, 4170]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1200×1600 px
+size: [1200, 1600]
+depicts: [bubastite-portal, shoshenq-i]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

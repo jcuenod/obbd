@@ -1,0 +1,86 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: temple-mount
+title: Temple Mount (Mount Moriah/Zion)
+aliases: [Mount Moriah, Mount Zion, Haram al-Sharif, Har ha-Bayit]
+type: site
+cultures: [judahite, jewish]
+scope: >-
+  The hill north of the City of David on which the First and Second Temples stood, and the
+  platform Herod enlarged. Covers biblical traditions about the site (Moriah, Araunah's threshing
+  floor, Zion), what can and cannot be known archaeologically, and the Herodian platform.
+passages:
+- ref: Gen 22:2
+  rel: setting
+  disputed: true
+  note: '''Land of Moriah'' of Abraham''s test, equated with the temple hill only later (2
+    Chr 3:1)'
+- ref: 2Sam 24:18-25
+  rel: setting
+  note: David buys Araunah's threshing floor and builds an altar
+- ref: 2Chr 3:1
+  rel: setting
+  note: Solomon builds on Mount Moriah at Ornan's threshing floor
+- ref: 1Kgs 6
+  rel: setting
+  note: Construction of Solomon's temple
+- ref: Ps 2:6
+  rel: concept
+  note: Zion, YHWH's holy hill, where the king is installed
+- ref: Isa 2:2-4
+  rel: concept
+  note: Mountain of YHWH's house raised above the hills (cf. Mic 4:1-3)
+- ref: Ezra 3:8-13
+  rel: setting
+  note: Foundation of the Second Temple
+- ref: Mark 13:1-2
+  rel: setting
+  note: Disciples admire the Herodian temple's great stones
+related: [jerusalem, city-of-david, herods-temple, cosmic-mountain, temple-as-cosmos, threshing-floors,
+  temple-warning-inscription, trumpeting-place-inscription]
+media:
+- id: temple-mount
+  role: primary
+external:
+  wikipedia: Temple Mount
+  wikidata: Q193163
+editorial:
+  author_notes:
+  - >-
+    No excavation has taken place on the platform. The First Temple has not been located archaeologically,
+    and finds from the Temple Mount Sifting Project come from unstratified spoil.
+  - >-
+    The present platform is largely Herodian. Proposed earlier phases (e.g. the 'seam' in
+    the eastern wall; Ritmeyer's square pre-Herodian platform) are debated.
+  - >-
+    The identification of Moriah with the temple hill is late (Chronicles, then Josephus).
+    'Zion' first names the City of David stronghold (2 Sam 5:7) and later shifts to the temple
+    hill and, later still, to the Western Hill.
+  - >-
+    The site is a live religious and political flashpoint (Haram al-Sharif). Use neutral language
+    and both names.
+  sources_to_check:
+  - NEAEHL
+  - Ritmeyer, The Quest - Revealing the Temple Mount in Jerusalem (2006)
+  image_query: Temple Mount Jerusalem aerial
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates from Wikidata Q193163 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 31.77778
+  lon: 35.23556
+  source: wikidata:Q193163

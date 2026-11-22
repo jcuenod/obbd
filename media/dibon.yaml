@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: dibon
+file: dibon.jpg
+title: Dhiban.jpg
+caption: The mound of ancient Dibon with modern Dhiban behind it, looking south (2004).
+description: >-
+  modern Dhiban with ancient Dhiban in the foreground, looking south. Photo taken June, 2004
+creator: Bporter615 at English Wikipedia
+credit_line: Transferred from en.wikipedia to Commons by Hardscarf using CommonsHelper.
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Bporter615 at English Wikipedia. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Dhiban.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/e/e0/Dhiban.jpg
+  sha1: 80779b94ec1a0e69e679d3dd61a5e4dafdbf2dfd
+  original_size: [947, 710]
+  retrieved: '2026-11-20'
+derivative: null
+size: [947, 710]
+depicts: [dibon]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

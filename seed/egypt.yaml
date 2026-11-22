@@ -1,0 +1,1788 @@
+# Seed entries for the Egypt domain (Egyptian texts, artefacts, sites, rulers, and
+# Egyptian-background concepts). Order follows seed/master.txt.
+
+- id: merneptah-stele
+  aliases: [Israel Stele, Victory Stele of Merneptah]
+  cultures: [egyptian]
+  date: [-1208]
+  circa: true
+  scope: >-
+    The granite victory stele of Merneptah, dated to his fifth regnal year and found by
+    Petrie in 1896 in the king's mortuary temple at western Thebes. Most of the text
+    celebrates victory over the Libyans; its closing lines name Canaan, Ashkelon, Gezer,
+    Yanoam, and "Israel", the earliest certain extrabiblical occurrence of the name.
+  passages:
+    - "Judg 1:27-36 | setting | Israel in Canaan alongside unconquered Canaanite towns, Gezer among them (1:29)"
+    - "Gen 32:28 | language | The name Israel; the stele's ysrỉꜣr is its earliest attestation"
+    - "Josh 10:33 | attests | Gezer as a Canaanite city-state with its own king"
+    - "Josh 16:10 | attests | Canaanites remain in Gezer"
+    - "1Kgs 9:16 | attests | Gezer, later captured by a pharaoh and given as dowry"
+  related: [merneptah, emergence-of-israel, gezer, ashkelon, canaanites, exodus-historical-questions, ethnicity-and-material-culture]
+  wikipedia: Merneptah Stele
+  image: Merneptah Stele Egyptian Museum Cairo
+  location: Egyptian Museum, Cairo
+  author_notes:
+    - Explain the determinatives. Ashkelon, Gezer, and Yanoam carry the city/foreign-land sign, while Israel carries the sign for a people. Most scholars infer a group not (yet) organised as a territorial state, but do not press this too hard, since scribal determinatives can be inconsistent.
+    - The reading "Israel" is near-universally accepted. Alternatives such as "Jezreel" are minority views. Locating this Israel (central hill country, Jezreel, or Transjordan) and reading "his seed is not" (grain or offspring?) are both debated. The phrase is a stock formula of defeat.
+    - The stele gives a terminus ante quem (c. 1208) for a group called Israel in Canaan. It says nothing about an exodus and does not identify that group with later biblical Israel's full tribal structure.
+    - Mention the Karnak "Ashkelon wall" reliefs that Yurco assigned to Merneptah and proposed as depicting Israelites. That identification is contested; Rainey, for example, read the relevant figures as Shasu. Mention the Berlin pedestal relief (Görg, van der Veen et al.) as a debated possible earlier occurrence of the name.
+    - The stele was carved on the back of a reused stele of Amenhotep III.
+  sources_to_check:
+    - COS 2.6
+    - AEL 2:73-78
+    - ANET 376-378
+
+- id: bubastite-portal
+  aliases: [Shoshenq I topographical list, Shishak relief]
+  cultures: [egyptian]
+  date: [-925]
+  circa: true
+  scope: >-
+    The gateway and adjoining relief of Shoshenq I in the first court of the Amun
+    temple at Karnak. The relief shows the king smiting Asiatics and Amun leading rows
+    of name-rings of captured towns in Palestine. It is the Egyptian record of the
+    campaign remembered in Kings and Chronicles as Shishak's invasion.
+  passages:
+    - "1Kgs 14:25-26 | event | Shishak's campaign in Rehoboam's fifth year; temple and palace treasures taken"
+    - "2Chr 12:2-9 | event | Chronicler's expanded account of Shishak's invasion"
+    - "2Chr 12:4 | event | 'Fortified cities of Judah' taken; the preserved list names few Judahite highland towns"
+    - "1Kgs 11:40 | attests | Jeroboam's refuge with Shishak"
+    - "Josh 17:11 | attests | Beth-shean, Taanach, and Megiddo, all named in the list"
+    - "1Kgs 12:25 | attests | Penuel, fortified by Jeroboam, appears in the list; the campaign also struck Israel"
+  related: [shoshenq-i, megiddo, gibeon, arad, low-chronology-debate, chronology-of-kings, jerusalem]
+  wikipedia: Bubastite Portal
+  image: Bubastite Portal Karnak Shoshenq relief
+  location: In situ, Karnak temple, Luxor
+  author_notes:
+    - Jerusalem does not appear in the preserved list, although parts of the list are lost. Present the usual explanations (payment of tribute, as in 1 Kgs 14:26; damage to the list; Jerusalem not targeted) without choosing one dogmatically.
+    - Scholars debate whether the order of name-rings can be read as an itinerary (Mazar, Kitchen, Na'aman) or reflects separate columns and scribal conventions (K. A. Wilson). Present the route reconstruction as hypothetical.
+    - The campaign is a key synchronism for Israelite chronology (c. 925), but its absolute date depends on Third Intermediate Period chronology. Destruction layers attributed to Shoshenq figure in the low-chronology debate.
+    - A fragment of a Shoshenq stele found at Megiddo confirms an Egyptian presence there.
+    - Breasted's reading of one name as "the Field of Abram" is uncertain. Do not build on it.
+  sources_to_check:
+    - Ritner, The Libyan Anarchy (SBL Writings from the Ancient World, 2009)
+    - Kitchen, The Third Intermediate Period in Egypt (1100-650 BC)
+    - Wilson, The Campaign of Pharaoh Shoshenq I into Palestine (2005)
+
+- id: great-hymn-to-the-aten
+  aliases: [Hymn to the Aten, Hymn to the Aton]
+  cultures: [egyptian]
+  date: [-1353, -1336]
+  circa: true
+  scope: >-
+    The longest hymn of the Amarna period, inscribed in the tomb of Ay at Amarna. It
+    praises the sun disk (Aten) as sole creator and sustainer of all life, with
+    Akhenaten as its unique intermediary. The entry covers its contents, its place in
+    Atenist religion, and its long-noted resemblance to Psalm 104.
+  passages:
+    - "Ps 104:20-23 | parallel | Darkness brings out the lions; at sunrise people go out to their work"
+    - "Ps 104:24 | parallel | 'How manifold are your works' (Aten hymn: 'How many are your deeds')"
+    - "Ps 104:25-26 | parallel | The sea, its creatures, and ships as part of the created order"
+    - "Ps 104:27-30 | parallel | All creatures depend on the deity for food and breath; life when he gives, death when he withdraws"
+    - "Ps 145:15-16 | concept | All living things look to the deity for their food"
+  related: [akhenaten, egyptian-cosmology, creation-accounts, amarna-letters, egyptian-kingship, leviathan]
+  wikipedia: Great Hymn to the Aten
+  image: Great Hymn to the Aten tomb of Ay Amarna
+  author_notes:
+    - The Ps 104 parallels are widely accepted, but direct dependence is unlikely given the chronological gap and the suppression of Atenism. Most scholars posit a shared tradition of Egyptian solar hymnody (also found in Amun hymns), possibly reaching Israel through Canaanite or Phoenician mediation.
+    - Ps 104 also draws on West Semitic storm-god imagery (vv. 3-4, 7-9). The Egyptian comparison accounts for only part of the psalm.
+    - Present Atenism as an exclusive cult centred on the king and the sun disk. Scholars debate whether to call it monotheism. Freud's thesis that Mosaic monotheism derives from Atenism (Moses and Monotheism) is not accepted.
+    - The text survives chiefly in Ay's tomb (Amarna Tomb 25), now damaged. Earlier copies, such as Bouriant's and Davies', preserve readings now lost.
+  sources_to_check:
+    - COS 1.28
+    - AEL 2:96-100
+    - ANET 369-371
+
+- id: instruction-of-amenemope
+  aliases: [Teaching of Amenemope, Wisdom of Amenemope]
+  cultures: [egyptian]
+  date: [-1250, -1100]
+  circa: true
+  scope: >-
+    A New Kingdom Egyptian instruction in thirty numbered chapters, from a father to
+    his son, that praises the "silent" self-controlled man over the "heated" man. Its
+    close correspondences with Prov 22:17-24:22 are the clearest case of literary
+    dependence of a biblical text on an Egyptian one.
+  passages:
+    - "Prov 22:17-24:22 | parallel | 'Words of the wise' section; dependence on Amenemope is the consensus"
+    - "Prov 22:20 | language | 'Thirty (sayings)', usually emended from šlšwm; cf. Amenemope's thirty chapters"
+    - "Prov 22:22 | parallel | Do not rob the poor (Amenemope ch. 2)"
+    - "Prov 22:24-25 | parallel | Avoid the hot-tempered man (Amenemope chs. 9-10)"
+    - "Prov 22:28 | parallel | Do not remove the ancient boundary (Amenemope ch. 6); cf. 23:10-11"
+    - "Prov 22:29 | parallel | The skilled scribe/official will serve before kings (Amenemope ch. 30)"
+    - "Prov 23:1-3 | parallel | Conduct when eating before a ruler (Amenemope ch. 23)"
+    - "Prov 23:4-5 | parallel | Riches sprout wings and fly away (Amenemope ch. 7)"
+    - "Prov 15:16-17 | parallel | 'Better' sayings: little with contentment over wealth with strife (Amenemope ch. 6)"
+    - "Jer 17:5-8 | parallel | Two trees contrasting the ungodly and the trusting (Amenemope ch. 4); cf. Ps 1:3"
+  related: [ane-wisdom-literature, instruction-of-ptahhotep, boundary-markers, scribes-and-scribal-education, maat, satire-of-the-trades]
+  wikipedia: Instruction of Amenemope
+  image: Instruction of Amenemope papyrus British Museum
+  author_notes:
+    - Erman (1924) first drew the comparison. The once-argued reverse dependence (Amenemope on Proverbs) is now abandoned. Mediation through scribal training, or through an Aramaic or Phoenician intermediary, remains debated.
+    - The parallels cluster in Prov 22:17-23:11 and thin out afterwards. Proverbs adapts rather than translates, adding YHWH-centred motivations (22:19, 23). Whether the section really divides into thirty sayings is disputed.
+    - The main manuscript is P. British Museum EA 10474, with further witnesses on tablets and ostraca. A Ramesside composition date is usual; the very late (Saite) date once proposed has been abandoned.
+    - Use the case to explain how Israelite scribes engaged international wisdom.
+  sources_to_check:
+    - COS 1.47
+    - AEL 2:146-163
+    - ANET 421-425
+    - Laisney, L'Enseignement d'Aménémopé (2007)
+
+- id: instruction-of-ptahhotep
+  aliases: [Maxims of Ptahhotep, Teaching of Ptahhotep]
+  cultures: [egyptian]
+  date: [-1950, -1850]
+  circa: true
+  scope: >-
+    An Egyptian instruction attributed to Ptahhotep, vizier of the Fifth Dynasty king
+    Isesi, but composed in the Middle Kingdom. In 37 maxims a father passes on to his
+    son rules for proper speech, conduct towards superiors, equals, and inferiors, and
+    life in accordance with maat.
+  passages:
+    - "Prov 23:1-3 | parallel | Dining with a superior: attend to what is set before you"
+    - "Prov 4:1-9 | form | Father's instruction to his son, framed as passed down the generations"
+    - "Prov 7:1-27 | parallel | Warning against approaching the women of another man's house (maxim 18)"
+    - "Prov 3:13-15 | parallel | Wisdom/good speech more precious than costly stones"
+    - "Eccl 12:1-7 | parallel | Portrayal of the decline of old age (Ptahhotep's prologue), typological"
+  related: [ane-wisdom-literature, instruction-of-amenemope, scribes-and-scribal-education, maat, satire-of-the-trades, eloquent-peasant]
+  wikipedia: The Maxims of Ptahhotep
+  image: Papyrus Prisse Ptahhotep
+  author_notes:
+    - The attribution to an Old Kingdom vizier is a literary convention. The text is a Middle Kingdom composition, and its fullest copy is Papyrus Prisse (Bibliothèque nationale de France).
+    - The comparison with Proverbs concerns genre and topoi (the father-son frame, speech ethics, deference to superiors), not demonstrated dependence. Contrast this with the special case of Amenemope.
+    - Explain the place of maat as the ordering principle behind the maxims. This is useful background for the "deed-consequence" debate in Proverbs.
+  sources_to_check:
+    - AEL 1:61-80
+    - ANET 412-414
+
+- id: satire-of-the-trades
+  aliases: [Instruction of Dua-Khety, Instruction of Khety]
+  cultures: [egyptian]
+  date: [-1950, -1850]
+  circa: true
+  scope: >-
+    A Middle Kingdom instruction in which Khety, son of Duauf, takes his son to the
+    scribal school and lampoons the hardships of other occupations to show the
+    superiority of the scribe's profession. It was widely copied as a New Kingdom
+    school text.
+  passages:
+    - "Sir 38:24-34 | parallel | Farmer, artisan, smith, and potter absorbed in toil, without leisure for wisdom"
+    - "Sir 39:1-11 | parallel | The scribe who studies the law and serves among rulers"
+  related: [scribes-and-scribal-education, ane-wisdom-literature, writing-and-literacy, instruction-of-amenemope]
+  wikipedia: The Satire of the Trades
+  image: Satire of the Trades papyrus Sallier British Museum
+  author_notes:
+    - The Ben Sira parallel is widely acknowledged. Whether it reflects direct knowledge of the Egyptian text (plausible in Ptolemaic Egypt-Judea contacts) or a shared scribal topos is debated.
+    - Note the difference in tone. The Egyptian text is satirical and exaggerated, while Ben Sira acknowledges that artisans sustain the city (Sir 38:32-34).
+    - The text is a key source for Egyptian scribal self-understanding and education. It is preserved mainly in New Kingdom copies (e.g., P. Sallier II and P. Anastasi VII) and many ostraca, and its text is often corrupt.
+  sources_to_check:
+    - AEL 1:184-192
+    - ANET 432-434
+
+- id: admonitions-of-ipuwer
+  aliases: [Ipuwer Papyrus, Dialogue of Ipuwer and the Lord of All]
+  cultures: [egyptian]
+  date: [-1850, -1650]
+  circa: true
+  scope: >-
+    A fragmentary Egyptian poem, preserved in a single Nineteenth Dynasty papyrus
+    (P. Leiden I 344 recto), in which the sage Ipuwer laments a land overturned:
+    social order inverted, the poor made rich, and foreigners in Egypt. It ends by
+    reproaching the "Lord of All". The entry also addresses the popular, scholarly
+    rejected claim that it records the biblical plagues.
+  passages:
+    - "Exod 7:20-21 | imagery | 'The river is blood' (Ipuwer 2.10), a shared image; not a record of the same event"
+    - "Prov 30:21-23 | parallel | The world turned upside down: the slave who becomes king"
+    - "Eccl 10:5-7 | parallel | Social inversion: slaves on horseback, princes walking"
+    - "Isa 24:1-3 | parallel | Upheaval levelling master and slave, mistress and maid"
+    - "Ps 44:23-24 | parallel | Reproach of an inactive deity: 'Is he asleep?'; MT 44:24-25"
+  related: [ten-plagues-and-egyptian-gods, exodus-historical-questions, prophecy-of-neferti, ane-wisdom-literature, dialogue-of-a-man-with-his-ba, city-laments]
+  wikipedia: Ipuwer Papyrus
+  image: Ipuwer papyrus Leiden
+  author_notes:
+    - The papyrus is a Nineteenth Dynasty copy; the composition is now usually dated to the late Middle Kingdom (Enmarch). It is a literary "chaos description" sharing topoi with Neferti, not an eyewitness account of the First Intermediate Period, as older scholarship held.
+    - Address the plague connection directly. It was popularised by Velikovsky (Ages in Chaos, 1952) and repeated in later popular works and documentaries. Scholars reject it for several reasons. The genre is a lament topos. The date is centuries before any proposed exodus. The text has no departing Semitic group. And the shared phrases (blood in the river, lamentation in the land) are stock images.
+    - Present the genuine comparative value. The world-upside-down topos parallels Proverbs, Qoheleth, and prophetic oracles, and the closing reproach of the creator is relevant to biblical theodicy and lament.
+    - Whether the "Lord of All" addressed at the end is the creator god or the king is debated. Both the beginning and the end of the text are lost.
+  sources_to_check:
+    - AEL 1:149-163
+    - ANET 441-444
+    - Enmarch, A World Upturned (2008)
+
+- id: dialogue-of-a-man-with-his-ba
+  aliases: [Dispute between a Man and His Ba, Debate between a Man and His Soul, Dispute over Suicide]
+  cultures: [egyptian]
+  date: [-1900, -1800]
+  circa: true
+  scope: >-
+    A Middle Kingdom poetic dialogue (P. Berlin 3024, beginning lost) between a man
+    weary of life and his ba. The man contemplates death as release. The ba urges him
+    to forget care and enjoy life, and warns that funerary provision gives no
+    certainty. The entry covers its themes of despair, death-wish, and carpe diem.
+  passages:
+    - "Job 3:20-23 | parallel | Longing for death that does not come, by one bitter in soul"
+    - "Eccl 4:2-3 | parallel | The dead (or unborn) more fortunate than the living"
+    - "Eccl 9:7-10 | parallel | The ba's counsel to 'follow the happy day' and forget care"
+    - "Ps 12:1-2 | parallel | 'To whom can I speak today?': lament over universal faithlessness; MT 12:2-3"
+    - "Mic 7:2-6 | parallel | The faithful have vanished; neighbours and kin cannot be trusted"
+  related: [harpers-songs, ane-wisdom-literature, afterlife-and-resurrection, dialogue-of-pessimism, ludlul-bel-nemeqi, babylonian-theodicy]
+  wikipedia: Dispute Between a Man and His Ba
+  image: Papyrus Berlin 3024 Dispute between a man and his Ba
+  author_notes:
+    - The comparisons with Job and Qoheleth are typological (shared reflection on despair and death), not genetic.
+    - Interpretation is contested. Some see a debate about suicide, others about the value of funerary provision and the afterlife. Translations of key passages differ considerably (compare Lichtheim, Parkinson, Allen).
+    - The man's four poems ("Death is before me today...", "To whom can I speak today?") are among the finest Egyptian lyric. Quote them in a recent translation.
+  sources_to_check:
+    - AEL 1:163-169
+    - ANET 405-407
+    - Allen, The Debate between a Man and His Soul (2011)
+
+- id: harpers-songs
+  aliases: [Songs of the Harper, Harper's Song]
+  cultures: [egyptian]
+  scope: >-
+    Egyptian songs, attributed to harpers at funerary banquets and attested from the
+    Middle Kingdom to the Late Period in tombs and papyri. One group, notably the
+    "Song from the Tomb of King Intef" (P. Harris 500), doubts the afterlife's
+    certainty and urges enjoyment of life. The entry covers this sceptical group and
+    the more traditional songs that answer it.
+  passages:
+    - "Eccl 9:7-10 | parallel | Eat, drink, wear fresh garments and oil, enjoy your wife; no work in Sheol"
+    - "Eccl 2:24 | parallel | Nothing better than to eat, drink, and find enjoyment"
+    - "Eccl 3:19-22 | concept | Uncertainty about what follows death; enjoy one's portion"
+    - "Job 7:9-10 | concept | No one returns from the grave (Intef song: none comes back to tell)"
+    - "Isa 22:13 | parallel | 'Let us eat and drink, for tomorrow we die', here condemned by the prophet"
+  related: [dialogue-of-a-man-with-his-ba, ane-wisdom-literature, gilgamesh-epic, care-for-the-dead, sheol-and-the-netherworld, musical-instruments]
+  wikipedia: Harper's Songs
+  image: Blind harper relief Paatenemheb Leiden
+  author_notes:
+    - Put the Qoheleth parallel alongside Siduri's advice in the Old Babylonian Gilgamesh (Meyer tablet). The carpe diem motif is international.
+    - The sceptical songs belong to tomb and banquet contexts, and New Kingdom harpers' songs sometimes reject their scepticism. Do not present Egyptian culture as generally doubting the afterlife.
+    - Composition dates vary across the corpus. The Intef song claims Middle Kingdom origin but survives in New Kingdom copies (P. Harris 500; the tomb of Paatenemheb).
+  sources_to_check:
+    - AEL 1:194-197
+    - ANET 467
+    - Lichtheim, 'The Songs of the Harpers', JNES 4 (1945)
+
+- id: tale-of-two-brothers
+  aliases: [Papyrus D'Orbiney, Story of Anubis and Bata]
+  cultures: [egyptian]
+  date: [-1200]
+  circa: true
+  scope: >-
+    A Late Egyptian tale preserved in Papyrus D'Orbiney (Nineteenth Dynasty, late
+    13th century BCE). The wife of the elder brother Anubis tries to seduce the younger
+    brother Bata, then falsely accuses him. A long mythological sequel follows. Its
+    opening episode is the classic comparandum for Potiphar's wife.
+  passages:
+    - "Gen 39:7-20 | parallel | Married woman's rebuffed advance on a young man, false accusation, husband's rage"
+  related: [story-of-sinuhe, egyptian-loanwords, dreams-and-dream-interpretation, famine-stele]
+  wikipedia: Tale of Two Brothers
+  image: Papyrus D'Orbiney British Museum
+  author_notes:
+    - The "Potiphar's wife" motif (the Phaedra/Bellerophon type) is widespread. Present the parallel as a shared folktale motif, not evidence of literary dependence.
+    - Do not use the tale to date the Joseph story. The Joseph story's Egyptian colour is variously dated (Ramesside to Saite/Persian), and that debate rests on other evidence.
+    - The papyrus (British Museum) is a scribal copy with a colophon naming the scribe Ennana. The tale's second half (Bata's heart in the cedar, his transformations) relates to the myths of Bata and Anubis at Saka.
+  sources_to_check:
+    - AEL 2:203-211
+    - ANET 23-25
+
+- id: story-of-sinuhe
+  aliases: [Tale of Sinuhe]
+  cultures: [egyptian]
+  date: [-1920, -1850]
+  circa: true
+  scope: >-
+    A Middle Kingdom narrative poem in autobiographical form. On the death of Amenemhat
+    I, the courtier Sinuhe flees Egypt and prospers among Asiatic chieftains in Retenu.
+    He defeats a local champion and finally returns to Egypt to be buried there by the
+    king's favour. It was the most widely copied work of Egyptian literature.
+  passages:
+    - "Exod 2:15-22 | parallel | Flight from pharaoh, welcome by a foreign chief, marriage to his daughter"
+    - "1Kgs 11:17-22 | parallel | Political refugee (Hadad) prospers abroad and longs to return home"
+    - "Deut 8:7-9 | parallel | 'Good land' of Yaa: figs, grapes, wine, honey, oil, barley, emmer"
+    - "Num 13:23-27 | parallel | Fruitfulness of Canaan described to an outside audience"
+    - "1Sam 17:4-54 | parallel | Single combat with a 'strong man of Retenu'; victor uses the champion's own weapon"
+    - "Gen 47:29-30 | concept | Wish not to be buried abroad but in one's homeland"
+    - "Gen 29:1 | language | Qedem ('the East'), Sinuhe's refuge region; cf. 'people of the east'"
+  related: [champion-combat, amorites, hospitality, beni-hasan-asiatics, execration-texts, care-for-the-dead]
+  wikipedia: Story of Sinuhe
+  image: Sinuhe ostracon Ashmolean
+  author_notes:
+    - Sinuhe is a literary work (a fictional autobiography), not a travel report. Use it cautiously as evidence for Middle Bronze Age Levantine society, and avoid the older habit of using it to "confirm" the patriarchal lifestyle.
+    - The champion combat with David and Goliath is a standard comparison. Note the differences in weapons and narrative function, and see the separate entry on champion combat.
+    - Toponyms (Retenu, Qedem, Byblos, Yaa) and the Amorite name of Sinuhe's patron (Ammunenshi) are valuable for the Middle Bronze Levant. The location of Yaa is unknown.
+    - Major manuscripts are P. Berlin 3022 and 10499, plus a large Ashmolean ostracon among many New Kingdom ostraca.
+  sources_to_check:
+    - AEL 1:222-235
+    - ANET 18-22
+    - Parkinson, The Tale of Sinuhe and Other Ancient Egyptian Poems (1997)
+
+- id: report-of-wenamun
+  aliases: [Story of Wenamun, Journey of Wen-Amon, Papyrus Moscow 120]
+  cultures: [egyptian]
+  date: [-1050, -950]
+  circa: true
+  scope: >-
+    A Late Egyptian narrative, preserved on a papyrus now in Moscow. Wenamun, an
+    official of Amun's temple at Thebes, travels to Byblos to buy cedar for the god's
+    barque. On the way he is robbed at Dor, a town of the Tjeker, and he is treated
+    with disdain by Zakar-Baal of Byblos. It shows Egypt's weakened standing in the
+    Levant at the end of the Late Bronze Age.
+  passages:
+    - "1Kgs 5:6-11 | practice | Cedar from Lebanon for a temple, paid for in goods; MT 5:20-25"
+    - "1Kgs 5:18 | attests | Gebalites (men of Byblos) prepare timber and stone; MT 5:32"
+    - "Ezek 27:9 | attests | Gebal (Byblos) as a shipbuilding and caulking centre"
+    - "1Sam 10:5-13 | practice | Ecstatic seized by the god during an offering at Byblos delivers a message"
+    - "Josh 17:11 | attests | Dor, ruled in the report by the Tjeker (Sikils), a Sea People"
+  related: [byblos, phoenician-seafaring, sea-peoples, prophecy-in-the-ane, tanis, diplomatic-gift-exchange, hiram-of-tyre]
+  wikipedia: Story of Wenamun
+  image: Wenamun papyrus Pushkin Museum
+  author_notes:
+    - Most Egyptologists now read Wenamun as a literary composition in the form of an official report (Baines, Schipper), not an actual dispatch. Even so, it reflects real political conditions of the late 20th-21st Dynasties (Smendes at Tanis, Herihor at Thebes).
+    - The narrative is set in "year 5" of the "Renaissance era" under Ramesses XI (c. 1075). The papyrus and its composition are later (Twenty-first or early Twenty-second Dynasty). Say which date is meant.
+    - The Byblian ecstatic is one of the earliest pieces of evidence for West Semitic prophetic possession. Compare Mari and the biblical bands of prophets.
+    - Zakar-Baal's insistence on commercial payment rather than tribute illustrates the trade relations behind 1 Kgs 5 (Solomon and Hiram).
+  sources_to_check:
+    - AEL 2:224-230
+    - ANET 25-29
+    - Schipper, Die Erzählung des Wenamun (2005)
+
+- id: famine-stele
+  aliases: [Famine Stela]
+  cultures: [egyptian]
+  date: [-250, -150]
+  circa: true
+  scope: >-
+    A Ptolemaic-period rock inscription on Sehel Island near Aswan, set in the reign of
+    Djoser (Third Dynasty). It tells of seven years of low Nile floods and famine, the
+    king's consultation of Imhotep, and a dream in which Khnum promises renewed
+    inundation. In gratitude Djoser grants revenues to Khnum's temple.
+  passages:
+    - "Gen 41:25-36 | parallel | Seven years of famine tied to the Nile and announced in a royal dream"
+    - "Gen 41:1-8 | parallel | Troubled pharaoh seeks an interpreter (cf. Djoser and Imhotep)"
+    - "Gen 47:22, 26 | practice | Temple land and grain levies in Egypt; cf. the stele's grant to Khnum"
+  related: [khnum, nile, dreams-and-dream-interpretation, dream-stele, elephantine]
+  wikipedia: Famine Stela
+  image: Famine Stela Sehel Island
+  location: In situ, Sehel Island, Aswan
+  author_notes:
+    - The stele is a Ptolemaic composition (probably 2nd century BCE) with an Old Kingdom setting. It is likely a priestly text supporting the Khnum temple's claims to revenue, possibly against the claims of Isis of Philae. It is not evidence for a historical famine under Djoser.
+    - Because it postdates Genesis, it cannot be its source. The parallel reflects a shared tradition of seven-year famines and Nile failure. Compare also seven-year cycles of plenty and dearth in Mesopotamian and Ugaritic texts.
+    - Do not use the stele to argue for the historicity of Joseph's famine. Use it to illustrate Egyptian anxieties about the inundation.
+  sources_to_check:
+    - AEL 3:94-103
+    - ANET 31-32
+
+- id: dream-stele
+  aliases: [Sphinx Stele, Dream Stela of Thutmose IV]
+  cultures: [egyptian]
+  date: [-1400]
+  circa: true
+  scope: >-
+    A granite stele set up between the paws of the Great Sphinx at Giza in year 1 of
+    Thutmose IV. It tells how the prince, resting in the Sphinx's shadow, dreamed that
+    the god Horemakhet-Khepri-Re-Atum promised him the kingship if he cleared the
+    encroaching sand. It is an example of royal legitimation through a divine dream.
+  passages:
+    - "1Kgs 3:5-15 | parallel | Deity appears to a young king in a dream, grants rule and gifts; he wakes"
+    - "2Sam 7:1-17 | form? | Königsnovelle (royal novella) proposed as model for royal-divine communication"
+    - "Gen 28:10-22 | parallel | Sleep at a sacred place brings a divine promise, followed by a vow"
+    - "Gen 41:1-7 | concept | Royal dreams as divine communication"
+  related: [dreams-and-dream-interpretation, dream-incubation, royal-ideology, egyptian-kingship, solomon, famine-stele]
+  wikipedia: Dream Stele
+  image: Dream Stele Sphinx Giza
+  location: In situ, Great Sphinx, Giza
+  author_notes:
+    - Explain the political function. Thutmose IV may not have been the designated heir, and the stele legitimates his accession (debated).
+    - Siegfried Herrmann's thesis that 1 Kgs 3 and 2 Sam 7 follow the Egyptian Königsnovelle is influential but contested. Present it as a hypothesis.
+    - The Gibeon dream (1 Kgs 3) is often discussed as incubation. Note the uncertainty, and compare Mesopotamian royal dreams (e.g., Gudea) as well as Egyptian ones.
+    - The lower part of the stele is damaged.
+
+- id: book-of-the-dead
+  aliases: [Spells for Going Forth by Day]
+  cultures: [egyptian]
+  date: [-1550, -50]
+  circa: true
+  scope: >-
+    The modern name for a corpus of nearly two hundred Egyptian funerary spells,
+    written on papyri and other burial equipment from the New Kingdom to the Roman
+    period, to guide and protect the deceased. Spell 125, with the judgment and
+    weighing of the heart and the "negative confession", matters most for biblical
+    studies.
+  passages:
+    - "Job 31:5-40 | form | Oath of clearance listing wrongs not committed; cf. Spell 125's declarations of innocence"
+    - "Job 31:6 | imagery | 'Let me be weighed in a just balance'"
+    - "Prov 16:2; 21:2; 24:12 | imagery | YHWH 'weighs' spirits/hearts; cf. weighing of the heart"
+    - "Ps 24:3-6 | parallel | Qualifications for entering the holy place: clean hands, pure heart"
+    - "Ps 15:1-5 | parallel | Entrance requirements stated as moral conduct"
+    - "Deut 26:13-14 | form? | Declaration of ritual innocence regarding the tithe, compared with the negative confession"
+    - "Dan 5:27 | imagery? | 'Weighed on the scales and found wanting'"
+  related: [maat, afterlife-and-resurrection, mummification, care-for-the-dead, amulets, sheol-and-the-netherworld, hardening-of-the-heart]
+  wikipedia: Book of the Dead
+  image: Papyrus of Ani weighing of the heart
+  author_notes:
+    - The comparisons are typological. Israelite texts lack a post-mortem judgment of the dead comparable to Spell 125, and the entrance liturgies (Pss 15; 24) concern access to the temple, not the afterlife.
+    - The image of YHWH weighing hearts (Proverbs) is widely linked to Egyptian iconography, which circulated in the Levant on scarabs and other objects. Note this mediation.
+    - Explain that "Book of the Dead" is a modern label. Each papyrus was a selection of spells, and there was no canonical sequence before the Saite recension.
+    - Popular descriptions of it as an "Egyptian Bible" are misleading.
+  sources_to_check:
+    - ANET 34-36
+    - AEL 2:119-132
+    - Allen, The Book of the Dead or Going Forth by Day (1974)
+    - Faulkner, The Ancient Egyptian Book of the Dead (ed. Andrews, 1985)
+
+- id: shabaka-stone
+  aliases: [Memphite Theology]
+  cultures: [egyptian, nubian]
+  date: [-716, -702]
+  circa: true
+  scope: >-
+    A basalt slab inscribed under the Kushite king Shabaka. It claims to copy a
+    worm-eaten ancient document, and it preserves the "Memphite Theology", in which
+    Ptah creates the gods and all things through his heart (thought) and tongue
+    (command). It is a standard comparandum for creation by divine word.
+  passages:
+    - "Gen 1:3-31 | concept | Creation by divine utterance ('And God said... and it was so')"
+    - "Ps 33:6-9 | concept | By the word of the LORD the heavens were made; he spoke and it came to be"
+    - "Ps 148:5 | concept | He commanded and they were created"
+    - "Gen 2:1-3 | parallel? | Ptah 'rested/was satisfied' (ḥtp) after making all things"
+    - "John 1:1-3 | concept? | Creative word (logos) as agent of creation"
+  related: [egyptian-cosmology, creation-accounts, divine-rest, cush, memphis]
+  wikipedia: Shabaka Stone
+  image: Shabaka Stone British Museum
+  location: British Museum, London
+  author_notes:
+    - The date of composition is debated. Older scholarship (Breasted, Sethe) took the text as Old Kingdom. Most now consider it a Twenty-fifth Dynasty archaising composition (Junge), though some argue for a Ramesside date.
+    - Creation through authoritative utterance (Hu) and perception (Sia) is older in Egypt (e.g., the Coffin Texts), so the motif does not depend on dating this text early.
+    - Treat the Gen 2:2 "rest" parallel cautiously. It depends on translating ḥtp as "rest" rather than "be satisfied".
+    - The stone's centre is worn because it was later reused as a millstone, and much of the text is damaged.
+  sources_to_check:
+    - COS 1.15
+    - AEL 1:51-57
+    - ANET 4-6
+
+- id: egyptian-love-poetry
+  aliases: [Egyptian love songs]
+  cultures: [egyptian]
+  date: [-1300, -1100]
+  circa: true
+  scope: >-
+    Some fifty New Kingdom (Ramesside) love songs in several collections: P. Chester
+    Beatty I, P. Harris 500, a Turin papyrus, and the Cairo Love Songs on a vase from
+    Deir el-Medina. In them young lovers address each other as "brother" and "sister",
+    praise each other's bodies, and suffer lovesickness. They are the closest ancient
+    comparanda for the Song of Songs.
+  passages:
+    - "Song 4:9-12 | language | 'My sister, my bride' as lovers' address; cf. Egyptian snt 'sister'"
+    - "Song 4:1-7 | form | Descriptive praise of the beloved's body (waṣf); cf. P. Chester Beatty I"
+    - "Song 2:5; 5:8 | parallel | Lovesickness that only the beloved can cure"
+    - "Song 4:12-5:1 | imagery | The beloved as a garden with fruit and spices"
+    - "Song 5:2-6 | parallel | Lover at the door of the beloved's house"
+  related: [sumerian-love-songs, sacred-marriage, marriage-and-bride-price, harpers-songs]
+  wikipedia: null
+  image: Papyrus Chester Beatty I love songs
+  author_notes:
+    - Build on Fox's comparative study (1985). The parallels are generic and stylistic. No direct dependence is claimed, and several centuries separate the corpora.
+    - The Egyptian songs are secular entertainment, not cult texts, which weighs against cultic (sacred-marriage) readings of the Song of Songs. Present the Mesopotamian love lyrics as a separate comparandum.
+    - The "sister/brother" address is a convention of lovers' language and does not imply siblings.
+  sources_to_check:
+    - Fox, The Song of Songs and the Ancient Egyptian Love Songs (1985)
+    - AEL 2:181-193
+
+- id: eloquent-peasant
+  aliases: [Tale of the Eloquent Peasant, Khunanup]
+  cultures: [egyptian]
+  date: [-1900, -1800]
+  circa: true
+  scope: >-
+    A Middle Kingdom tale in which a peasant (Khunanup), robbed by a subordinate
+    official, makes nine eloquent petitions for justice to the high steward
+    Rensi. The king prolongs the peasant's ordeal so as to enjoy his speeches. The
+    petitions are a major Egyptian meditation on maat, justice, and the duties of
+    officials.
+  passages:
+    - "Exod 23:6-8 | concept | Do not pervert justice for the poor; bribes blind officials"
+    - "Lev 19:15 | concept | Impartial judgment, favouring neither poor nor great"
+    - "Amos 5:7-15 | concept | Indictment of those who turn justice to wormwood and oppress the poor at the gate"
+    - "Prov 16:11 | imagery | Honest balance and scales belong to the LORD; cf. official as 'balance'"
+    - "Ps 68:5 | imagery | Father of orphans, protector of widows; MT 68:6"
+    - "Job 29:12-17 | parallel | Ideal official who rescues the poor, orphan, and widow"
+    - "Luke 18:1-8 | parallel | Persistent petitioner and a judge who delays (typological)"
+  related: [maat, widow-orphan-sojourner, courts-and-legal-procedure, ane-wisdom-literature, weights-and-silver-money, instruction-of-ptahhotep]
+  wikipedia: The Eloquent Peasant
+  image: Eloquent Peasant papyrus Berlin
+  author_notes:
+    - The petitions use images that recur in biblical justice language, such as the official as balance, steering-oar, and father to the orphan and husband to the widow. Present these as a shared ancient Near Eastern ethic of protecting the weak, not as borrowing.
+    - The frame narrative's irony (justice delayed for the sake of eloquence) is debated. Some read it as a reflection on rhetoric, others on the king's ultimate justice.
+    - Manuscripts are Middle Kingdom papyri in Berlin and London. Cite Parkinson's edition and translation.
+  sources_to_check:
+    - AEL 1:169-184
+    - ANET 407-410
+    - Parkinson, The Tale of the Eloquent Peasant (1991)
+
+- id: prophecy-of-neferti
+  aliases: [Prophecy of Neferti, Prophecy of Nefer-rohu]
+  cultures: [egyptian]
+  date: [-1940, -1900]
+  circa: true
+  scope: >-
+    A Twelfth Dynasty literary text set at the court of the Fourth Dynasty king
+    Sneferu. The sage Neferti foretells chaos in Egypt (the Nile dried up, Asiatics in
+    the Delta, social and family breakdown) and then the coming of a saviour king,
+    "Ameny", who will restore order. It is political literature legitimating
+    Amenemhat I.
+  passages:
+    - "Dan 11:2-45 | form | History presented as prediction from a fictive earlier vantage point (ex eventu)"
+    - "1Kgs 13:2 | form | Prophecy naming a future king generations in advance"
+    - "Isa 11:1-9 | parallel | Expected just king who restores order after calamity (typological)"
+    - "Isa 19:5-8 | imagery | Nile dried up, fishermen and the economy ruined"
+    - "Mic 7:6 | parallel | Family turned against itself as a sign of social collapse"
+  related: [admonitions-of-ipuwer, prophecy-in-the-ane, egyptian-kingship, messianic-expectations, nile, royal-ideology]
+  wikipedia: Prophecy of Neferti
+  image: Papyrus Hermitage 1116B Neferti
+  author_notes:
+    - Neferti is not prophecy in the Israelite sense. It is royal propaganda using vaticinium ex eventu, which is useful for discussing ex eventu prediction in Daniel and in the Akkadian "prophecies" (Uruk, Marduk, Shulgi texts).
+    - The chaos description shares topoi with Ipuwer (the land overturned) and is not historical evidence for First Intermediate Period disorder.
+    - The text mentions the "Walls of the Ruler", a fortification line against Asiatics on the eastern Delta frontier. Some link Hebrew Shur ("wall"; Gen 16:7; Exod 15:22) to such frontier works. Treat this as a hypothesis.
+    - The main manuscript is P. Hermitage 1116B (Eighteenth Dynasty), with many ostraca and tablets.
+  sources_to_check:
+    - AEL 1:139-145
+    - ANET 444-446
+
+- id: execration-texts
+  aliases: [Egyptian Execration Texts, Ächtungstexte]
+  cultures: [egyptian]
+  date: [-1950, -1750]
+  circa: true
+  scope: >-
+    Middle Kingdom ritual texts cursing enemies of Egypt: foreign rulers and peoples in
+    Nubia, Libya, and the Levant, along with rebellious Egyptians. They were written on
+    pottery bowls and clay figurines of bound captives, which were then smashed or
+    buried. They are a major source for Middle Bronze Age Levantine place names and
+    Amorite personal names.
+  passages:
+    - "Josh 10:1 | attests | Jerusalem: 'Rushalimum', with its rulers, is named in the texts"
+    - "Jer 19:10-11 | practice | Smashing a jar as a symbolic act enacting a city's destruction"
+    - "Ps 2:9 | imagery | Nations dashed in pieces like a potter's vessel"
+    - "Num 22:6 | practice | Commissioned ritual cursing of an enemy people"
+  related: [jerusalem, blessings-and-curses, amorites, pottery-and-potters, canaanites, story-of-sinuhe]
+  wikipedia: Execration texts
+  image: Execration figurine Egyptian Middle Kingdom
+  author_notes:
+    - Describe the main groups. Sethe published inscribed bowls in Berlin (1926). Posener published inscribed figurines from Saqqara, now in Brussels (1940); they are generally somewhat later. The Mirgissa deposit in Nubia preserves the full ritual context, including a human sacrifice.
+    - The identification of Rushalimum with Jerusalem is widely accepted and makes this the earliest mention of the city. Other Levantine identifications (e.g., Ashkelon, Shechem) should be checked individually, as some readings are debated.
+    - The ritual logic (breaking an inscribed object to break the enemy) illuminates prophetic sign-acts (Jer 19) and royal imagery (Ps 2:9). Do not overstate direct influence.
+  sources_to_check:
+    - ANET 328-329
+    - Ritner, The Mechanics of Ancient Egyptian Magical Practice (1993)
+
+- id: amarna-letters
+  aliases: [El-Amarna tablets, Amarna correspondence]
+  cultures: [egyptian, canaanite]
+  date: [-1360, -1332]
+  circa: true
+  scope: >-
+    About 380 cuneiform tablets, mostly letters in Akkadian, found at Akhetaten
+    (el-Amarna). They hold the diplomatic correspondence of Amenhotep III, Akhenaten,
+    and their immediate successors with the great powers and with vassal rulers of
+    Canaan. They are the main written source for Late Bronze Age Canaan.
+  passages:
+    - "Josh 10:1-5 | attests | Jerusalem ruled by a king; Abdi-Heba's letters (EA 285-290)"
+    - "2Sam 5:6-9 | setting | Jerusalem as an established highland city-state long before David"
+    - "Judg 9:1-6 | setting | Shechem as a highland power base; cf. Labayu and his sons (EA 252-254)"
+    - "Josh 11:10 | attests | Hazor as a leading Canaanite city; its ruler corresponds with Egypt"
+    - "Gen 33:3 | practice | Bowing seven times; cf. 'seven times and seven times I fall' formula"
+    - "1Sam 14:21 | language? | ʿApiru as a social category; relation to 'Hebrews' (ʿibrîm) debated"
+    - "1Kgs 20:32-33 | practice | 'Brother' as the term for royal treaty partners"
+    - "Isa 19:18 | language | 'Language of Canaan': Canaanite glosses and grammar in the letters"
+  related: [habiru, jerusalem, shechem, akhenaten, brotherhood-language, diplomatic-gift-exchange, prostration-and-obeisance, letter-writing-conventions]
+  wikipedia: Amarna letters
+  image: Amarna letter Abdi-Heba cuneiform tablet
+  location: Chiefly Vorderasiatisches Museum, Berlin; British Museum, London; Egyptian Museum, Cairo
+  author_notes:
+    - Two kinds of letter need distinguishing. The "international" letters (Babylon, Mitanni, Hatti, Assyria, Alashiya, Arzawa) use brotherhood language and gift exchange. The vassal letters from Canaan use servile formulae.
+    - The ʿApiru (Habiru) appear as social outsiders and mercenaries, not an ethnic group. A link with ʿibrî ("Hebrew") is possible linguistically but debated, and should not be equated with the Israelite conquest, an equation earlier scholarship sometimes made.
+    - Abdi-Heba's letters show a Jerusalem ruler in the 14th century. The size of Late Bronze Jerusalem is archaeologically elusive, so treat claims about the city's scale cautiously.
+    - The Canaanite glosses and the hybrid Akkadian of the Canaanite scribes are key evidence for the prehistory of Hebrew (Rainey).
+    - EA numbering follows Knudtzon. Cite Moran's translation and Rainey's edition.
+  sources_to_check:
+    - Moran, The Amarna Letters (1992)
+    - Rainey, The El-Amarna Correspondence (2015)
+    - ANET 483-490
+
+- id: papyrus-anastasi
+  aliases: [Late Egyptian Miscellanies, Papyrus Anastasi I, Papyrus Anastasi V, Papyrus Anastasi VI]
+  cultures: [egyptian]
+  date: [-1220, -1190]
+  circa: true
+  scope: >-
+    Nineteenth Dynasty scribal papyri (school miscellanies and model letters). P.
+    Anastasi I is a satirical letter testing a scribe's knowledge of Canaanite routes
+    and toponyms. P. Anastasi V and VI include frontier reports on escaped servants
+    and on Shasu of Edom admitted to pasture in the Wadi Tumilat.
+  passages:
+    - "Gen 47:4 | practice | Pastoralists admitted to Egyptian territory to keep their flocks alive (P. Anastasi VI)"
+    - "Exod 1:11 | attests | Pithom (Pr-Itm of Tjeku) named in P. Anastasi VI"
+    - "Exod 14:5 | parallel | Escaped servants pursued past the frontier forts (P. Anastasi V); not the same event"
+    - "Exod 12:37 | language? | Succoth possibly the Egyptian Tjeku (Wadi Tumilat region)"
+    - "Num 13:32-33 | parallel | Fearsome giant inhabitants of Canaan's passes (P. Anastasi I)"
+  related: [shasu, pithom, edomites, exodus-historical-questions, scribes-and-scribal-education, roads-and-highways, slavery]
+  wikipedia: Papyrus Anastasi I
+  image: Papyrus Anastasi I British Museum
+  location: British Museum, London
+  author_notes:
+    - The Shasu of Edom report (P. Anastasi VI) and the runaway report (P. Anastasi V) show routine frontier administration in the eastern Delta. They illustrate the plausibility of the Genesis and Exodus settings but are not evidence for those events.
+    - Identifying Succoth with Tjeku and Pithom with Tell er-Retabeh or Tell el-Maskhuta affects the dating of the Exodus geography. See the Pithom entry.
+    - P. Anastasi I (Hori's letter to Amenemope) is valuable for Late Bronze Canaanite geography (e.g., Megiddo and its pass, Beth-shean, Joppa) and for Egyptian views of Canaan. Its giant-like Shasu are literary hyperbole.
+    - Other miscellanies (e.g., P. Anastasi III and IV, which praise Pi-Ramesses and mention brickmaking) belong in the discussion but are not covered by this entry's title. Mention them as needed.
+  sources_to_check:
+    - Caminos, Late-Egyptian Miscellanies (1954)
+    - ANET 259
+    - ANET 475-479
+    - Fischer-Elfert, Die satirische Streitschrift des Papyrus Anastasi I (1986)
+
+- id: tomb-of-rekhmire
+  aliases: [TT100, Rekhmire brickmaking scene]
+  cultures: [egyptian]
+  date: [-1450, -1420]
+  circa: true
+  scope: >-
+    The Theban tomb (TT100) of Rekhmire, vizier under Thutmose III and Amenhotep II.
+    Its paintings show foreign captives making mud bricks under overseers for the
+    temple of Amun, foreign tribute bearers, and craft production. Its inscriptions
+    include the "Duties of the Vizier" and the "Installation of the Vizier".
+  passages:
+    - "Exod 1:13-14 | realia | Forced labour in mortar and brick"
+    - "Exod 5:6-19 | realia | Brick production with straw, daily quotas, and beating overseers"
+    - "Gen 41:40-43 | practice | The vizier's office, second only to pharaoh; investiture and authority"
+    - "Ps 72:10-11 | imagery | Foreign delegations bringing tribute to the king"
+  related: [corvee-labor, slavery, court-officials, tribute-and-vassalage, thebes, exodus-historical-questions]
+  wikipedia: TT100
+  image: Rekhmire tomb brickmaking painting
+  location: In situ, Theban necropolis (Sheikh Abd el-Qurna), Luxor
+  author_notes:
+    - The brickmakers are captives brought for Amun's temple works, not Israelites. The scene shows that Exod 1 and 5 describe realistic Egyptian practice, but cannot establish the historicity of the oppression.
+    - Brick quotas are also known from the Louvre Leather Roll (year 5 of Ramesses II), and complaints about lacking men and straw from Ramesside miscellanies. Verify exact references before citing.
+    - The "Duties of the Vizier" is important background for Joseph's portrayal as second to pharaoh. The text probably goes back to an earlier (Middle Kingdom) original (van den Boorn).
+  sources_to_check:
+    - Davies, The Tomb of Rekh-mi-Rēʿ at Thebes (1943)
+    - van den Boorn, The Duties of the Vizier (1988)
+
+- id: beni-hasan-asiatics
+  aliases: [Aamu of Beni Hasan, Khnumhotep II Asiatics, Abisha caravan]
+  cultures: [egyptian, canaanite]
+  date: [-1890]
+  circa: true
+  scope: >-
+    A wall painting in the rock-cut tomb of the nomarch Khnumhotep II at Beni Hasan,
+    dated to year 6 of Senusret II. It shows a group of 37 Asiatics (Aamu) led by
+    Abisha, "ruler of a foreign land", bringing galena (eye paint). Men, women,
+    children, and donkeys appear, with patterned garments, weapons, a lyre, and
+    bellows.
+  passages:
+    - "Gen 12:10 | setting | West Semitic groups going down into Egypt in the Middle Bronze Age"
+    - "Gen 46:5-7 | setting | Family group with livestock and goods entering Egypt"
+    - "Gen 43:11 | practice | Products of the land brought as a gift to an Egyptian official"
+    - "Gen 4:21 | realia | Portable lyre carried by the Asiatic group"
+    - "Gen 37:3 | realia? | Patterned garments; meaning of kĕtōnet passîm uncertain"
+  related: [hyksos, amorites, clothing-and-dress, donkeys-and-royal-mounts, musical-instruments, story-of-sinuhe, textiles-and-weaving]
+  wikipedia: Khnumhotep II
+  image: Beni Hasan Asiatics Khnumhotep tomb painting
+  location: In situ, tomb BH 3, Beni Hasan
+  author_notes:
+    - Abisha's title, ḥqꜣ ḫꜣswt ("ruler of foreign lands"), is the term from which "Hyksos" derives. This makes the scene important for Hyksos origins.
+    - The scene records a trading or diplomatic delegation bringing galena, not a famine migration. Avoid presenting it as a picture of the patriarchs.
+    - The garment comparison with Joseph's robe is popular but uncertain. Passîm may mean "long-sleeved" or "ankle-length" rather than "many-coloured". Mark it as illustrative only.
+    - The bellows on a donkey has prompted proposals of itinerant metalworkers (cf. Kenites). Treat these as speculative.
+  sources_to_check:
+    - Newberry, Beni Hasan, Part I (1893)
+    - Kamrin, 'The Aamu of Shu in the Tomb of Khnumhotep II at Beni Hassan', Journal of Ancient Egyptian Interconnections 1 (2009)
+
+- id: medinet-habu-sea-peoples
+  aliases: [Medinet Habu reliefs, Sea Peoples reliefs of Ramesses III]
+  cultures: [egyptian]
+  date: [-1177]
+  circa: true
+  scope: >-
+    Reliefs and inscriptions on the mortuary temple of Ramesses III at Medinet Habu
+    (western Thebes) commemorating his year 8 land and sea battles against a coalition
+    of "Sea Peoples". The coalition includes the Peleset (Philistines), Tjeker,
+    Shekelesh, Denyen, and Weshesh. The reliefs depict their ships, dress, weapons, and
+    ox-carts carrying families.
+  passages:
+    - "Amos 9:7 | attests | Philistines brought from Caphtor"
+    - "Jer 47:4 | attests | Philistines as 'the remnant of the coastland of Caphtor'"
+    - "Deut 2:23 | attests | Caphtorim from Caphtor settle in the southern coastal plain"
+    - "Judg 13:1 | setting | Philistine dominance in the period after their settlement"
+    - "1Sam 17:4-7 | realia? | Philistine champion's panoply compared with the reliefs' warrior equipment"
+    - "1Sam 18:25-27 | practice | Counting severed body parts of slain enemies (cf. Libyan war scenes)"
+  related: [sea-peoples, philistines, thebes, ekron, ashdod, ashkelon, treatment-of-captives, weapons]
+  wikipedia: Medinet Habu
+  image: Medinet Habu Sea Peoples relief
+  location: In situ, Medinet Habu, western Thebes, Luxor
+  author_notes:
+    - The identification Peleset = Philistines is generally accepted, as is the Aegean/Cypriot cultural background shown by Philistine material culture (Mycenaean IIIC pottery and other features). Caphtor is usually identified with Crete or the Aegean.
+    - The reliefs are ideological. Scholars debate whether the land and sea battles were single events and where they took place (Delta, Djahy), and whether "invasion" or gradual migration within a wider systems collapse better describes the period.
+    - The severed hands and phalli are counted in the scenes of the Libyan wars at Medinet Habu, not the Sea Peoples scenes. Keep the distinction clear.
+    - Goliath's armour (1 Sam 17) is a composite, and its correlation with the Medinet Habu warriors (feathered headdresses, round shields) is loose. Hence the relation is marked as disputed.
+  sources_to_check:
+    - ANET 262-263
+    - Epigraphic Survey, Medinet Habu I. Earlier Historical Records of Ramses III (1930)
+    - Edgerton and Wilson, Historical Records of Ramses III (1936)
+
+- id: narmer-palette
+  cultures: [egyptian]
+  date: [-3100]
+  circa: true
+  scope: >-
+    A ceremonial siltstone palette from Hierakonpolis showing King Narmer, wearing the
+    crowns of Upper and Lower Egypt, smiting a kneeling enemy with a mace, inspecting
+    decapitated foes, and (as a bull) breaking a city wall. It is the earliest
+    full-scale example of the "smiting pharaoh" and of the conqueror treading on
+    enemies, motifs that persisted for three millennia.
+  passages:
+    - "Josh 10:24 | practice | Victors place their feet on the necks of defeated kings"
+    - "Ps 110:1 | imagery | Enemies made a footstool beneath the king's feet"
+    - "Ps 110:5-6 | imagery | The king shatters heads on the day of wrath"
+    - "Ps 68:21 | imagery | God shatters the heads of his enemies; MT 68:22"
+    - "Deut 33:17 | imagery | Ruler as a wild bull goring the peoples"
+  related: [smiting-the-enemy-motif, egyptian-kingship, tutankhamun-footstool, footstool, bull-iconography, royal-ideology, treatment-of-captives]
+  wikipedia: Narmer Palette
+  image: Narmer Palette Egyptian Museum Cairo
+  location: Egyptian Museum, Cairo
+  author_notes:
+    - Scholars debate whether the palette records an actual unification or is an ideological and ritual image. Present both views.
+    - The relevance to the Bible is iconographic and long-term. The smiting-king and enemies-underfoot motifs reached the Levant through scarabs, stelae (e.g., Beth-shean), and Egyptian imperial art. Do not imply Israelite authors knew this object.
+    - Keel's work on the iconography of the Psalms is the standard entry point.
+  sources_to_check:
+    - Keel, The Symbolism of the Biblical World (1978)
+    - Wilkinson, Early Dynastic Egypt (1999)
+
+- id: soleb-shasu-inscription
+  aliases: [Shasu of YHW, Land of the Shasu of Yhw]
+  cultures: [egyptian]
+  date: [-1390, -1352]
+  circa: true
+  scope: >-
+    Topographical lists of Amenhotep III at his Nubian temple of Soleb, and a later
+    Ramesside copy at Amarah West. Among several "lands of the Shasu" they name
+    tꜣ šꜣsw yhwꜣ, "the land of the Shasu of Yhw". Many scholars take this as the
+    earliest occurrence of the divine name YHWH, used as a toponym or tribal name in
+    the southern Transjordan/Edom region.
+  passages:
+    - "Exod 3:13-15 | language? | Divine name YHWH; Yhw(ꜣ) as possibly its earliest attestation"
+    - "Deut 33:2 | setting | YHWH comes from Sinai and Seir; Shasu lands lie in this southern region"
+    - "Judg 5:4-5 | setting | YHWH marches out from Seir and the region of Edom"
+    - "Hab 3:3 | setting | God comes from Teman, the Holy One from Mount Paran"
+  related: [yhwh-origins, shasu, midianites-and-kenites, edomites, kuntillet-ajrud-inscriptions, papyrus-anastasi]
+  wikipedia: Soleb
+  image: Soleb temple Amenhotep III columns
+  location: In situ, Soleb, Sudan (Amarah West copy also in Sudan)
+  author_notes:
+    - The setting tags are geographical. The Shasu lists include Seir and point to the southern region named in the "YHWH from the south" texts. That holds whether or not Yhw is the divine name.
+    - Whether yhwꜣ is a place, a tribe, or a deity's name, and whether it is related to YHWH at all, is debated. The identification is widely regarded as plausible, but do not present it as proven.
+    - The evidence supports, but does not prove, southern-origin hypotheses (the Kenite-Midianite hypothesis). Mention Kuntillet ʿAjrud's "YHWH of Teman".
+    - The Amarah West list (Ramesses II) probably copies the Soleb list. Earlier claims that the Soleb list attests "Yahweh" as a deity worshipped in Egypt are unfounded.
+  sources_to_check:
+    - Giveon, Les bédouins Shosou des documents égyptiens (1971)
+    - Adrom and Müller, 'The Tetragrammaton in Egyptian Sources - Facts and Fiction', in The Origins of Yahwism (BZAW 484, 2017)
+
+- id: kadesh-battle-reliefs
+  aliases: [Qadesh reliefs, Poem and Bulletin of Ramesses II]
+  cultures: [egyptian]
+  date: [-1274, -1250]
+  circa: true
+  scope: >-
+    Reliefs and accompanying texts (the "Poem" and the "Bulletin") commemorating
+    Ramesses II's battle against the Hittites at Kadesh on the Orontes in his year 5.
+    They were carved on several temples, including Abu Simbel, Luxor, Karnak, the
+    Ramesseum, and Abydos. They depict the Egyptian camp, the royal tent, the
+    chariot battle, and the king's rescue by Amun.
+  passages:
+    - "Num 2:1-34 | parallel? | Rectangular war camp with central royal tent; cf. Israel's camp around the tabernacle"
+    - "Exod 26:15-33 | realia? | Tabernacle proportions compared with the pharaoh's reception tent and throne room"
+    - "Exod 14:13-14 | concept | Deity fights for his own when human forces fail"
+    - "Ps 18:6-19 | concept | King in distress cries to his god and is rescued; MT 18:7-20"
+  related: [ramesses-ii, hittites-and-hethites, egyptian-hittite-peace-treaty, tabernacle, chariots-and-horses, divine-warrior, royal-annals-and-historiography, conquest-accounts-and-war-rhetoric]
+  wikipedia: Battle of Kadesh
+  image: Battle of Kadesh relief Abu Simbel
+  location: In situ, Abu Simbel, Luxor, Karnak, the Ramesseum, and Abydos
+  author_notes:
+    - The battle was at best a stalemate, despite the Egyptian victory claims. It was followed years later by the Egyptian-Hittite treaty (year 21).
+    - Homan's comparison of the camp and royal tent with the tabernacle and Israel's camp is suggestive but debated, so it is marked contested. Note that P's tabernacle texts are generally dated much later.
+    - The Poem's portrayal of the abandoned king rescued by Amun is useful for comparing ancient Near Eastern royal war accounts and divine intervention (cf. Younger on conquest accounts).
+  sources_to_check:
+    - COS 2.5
+    - AEL 2:57-72
+    - Kitchen, Ramesside Inscriptions, Translated and Annotated, vol. 2 (1996)
+    - Homan, To Your Tents, O Israel! (2002)
+
+- id: tutankhamun-anubis-shrine
+  aliases: [Anubis Shrine]
+  cultures: [egyptian]
+  date: [-1323]
+  circa: true
+  scope: >-
+    A gilded wooden chest from the Treasury of Tutankhamun's tomb (KV62), surmounted by
+    a recumbent black jackal of Anubis and mounted on a sledge with carrying poles. It
+    is one of the clearest physical comparanda for a portable sacred chest carried on
+    poles.
+  passages:
+    - "Exod 25:10-15 | realia | Gilded wooden chest with rings and carrying poles"
+    - "Num 4:5-6 | practice | Holy chest covered and carried on poles by designated bearers"
+    - "1Chr 15:15 | practice | Levites carry the ark on their shoulders with poles"
+    - "2Sam 6:13 | practice | Ark carried in procession by bearers"
+    - "Josh 3:3-6 | practice | Priests bear the ark at the head of a procession"
+  related: [ark-of-the-covenant, tabernacle, cherubim, tutankhamun-footstool, cult-images, care-for-the-dead]
+  wikipedia: Anubis Shrine
+  image: Anubis shrine Tutankhamun
+  author_notes:
+    - The comparison is typological. Portable chests and shrines carried on poles were common in Egypt (e.g., processional barque shrines). The Anubis shrine is one well-preserved example among many.
+    - Note the differences. The Anubis shrine bears a divine image, while the ark bears no image and the cherubim flank an empty space (cherub throne).
+    - The pentateuchal ark descriptions (Exod 25; Num 4) are generally assigned to P. Discuss the implications for the dating of the comparison.
+    - Many Tutankhamun objects have recently moved from the Egyptian Museum (Tahrir) to the Grand Egyptian Museum in Giza. Verify the current location before stating it.
+  sources_to_check:
+    - Reeves, The Complete Tutankhamun (1990)
+    - Hoffmeier, Ancient Israel in Sinai (2005)
+
+- id: tutankhamun-footstool
+  aliases: [Footstools of Tutankhamun]
+  cultures: [egyptian]
+  date: [-1323]
+  circa: true
+  scope: >-
+    Footstools from Tutankhamun's tomb (KV62) decorated with bound foreign captives,
+    Asiatic and Nubian, and the "Nine Bows" (Egypt's traditional enemies), so that the
+    king symbolically trod on his enemies whenever he was seated. They illustrate the
+    biblical image of enemies as a footstool.
+  passages:
+    - "Ps 110:1 | imagery | 'Until I make your enemies your footstool'"
+    - "Josh 10:24 | practice | Feet on the necks of defeated kings"
+    - "1Kgs 5:3 | imagery | Enemies put under the soles of the king's feet; MT 5:17"
+    - "Isa 66:1 | imagery | Earth as YHWH's footstool"
+    - "1Chr 28:2 | realia | Ark as the 'footstool of our God'"
+  related: [footstool, narmer-palette, smiting-the-enemy-motif, egyptian-kingship, cherub-throne, royal-ideology]
+  wikipedia: null
+  image: Tutankhamun footstool bound captives
+  author_notes:
+    - The same motif appears on Tutankhamun's sandals, walking sticks, and throne. Present the footstools as part of a coherent iconography of royal domination.
+    - Ps 110 is often read against Egyptian royal ideology (the king enthroned at the god's right hand, enemies underfoot). Note that Neo-Assyrian parallels are also invoked.
+    - Many Tutankhamun objects have recently moved to the Grand Egyptian Museum in Giza. Verify locations before stating them.
+  sources_to_check:
+    - Keel, The Symbolism of the Biblical World (1978)
+    - Reeves, The Complete Tutankhamun (1990)
+
+- id: egyptian-cosmology
+  aliases: [Egyptian creation myths]
+  cultures: [egyptian]
+  scope: >-
+    Ancient Egyptian conceptions of the origin and structure of the world: the
+    primeval waters (Nun), the emergence of the primeval mound, and the separation of
+    sky (Nut) from earth (Geb) by Shu. The entry also covers the complementary
+    Heliopolitan, Hermopolitan, Memphite, and Theban creation traditions and their use
+    as comparanda for biblical cosmology.
+  passages:
+    - "Gen 1:2 | concept | Dark, formless primeval waters before creation; cf. Nun and the Hermopolitan Ogdoad"
+    - "Gen 1:6-8 | concept | Separation of the waters and the sky; cf. Shu lifting Nut from Geb"
+    - "Gen 1:9-10 | concept | Dry land emerging from the waters; cf. the primeval mound"
+    - "Job 26:7-11 | concept | Horizon drawn on the waters; pillars of heaven"
+    - "Ps 19:4-6 | imagery | The sun's daily course across the sky; MT 19:5-7"
+    - "Gen 1:26-27 | concept | Humans as the deity's image (Merikare: humankind as the creator's images)"
+  related: [creation-accounts, cosmology, firmament, waters-above-and-below, shabaka-stone, great-hymn-to-the-aten, khnum, tehom]
+  wikipedia: Ancient Egyptian creation myths
+  image: Nut Geb Shu papyrus Greenfield
+  author_notes:
+    - Egyptian cosmogonies coexisted as complementary accounts, not rival dogmas. Present them by tradition (Heliopolis, Hermopolis, Memphis, Thebes) with their main sources (Pyramid Texts, Coffin Texts, Memphite Theology).
+    - The Gen 1 comparisons (watery precreation, separation, emergence of land, creation by word) are commonly noted. Some scholars (e.g., Hoffmeier, Currid) stress Egyptian over Mesopotamian background, but most treat both as comparanda without direct dependence.
+    - Egyptian creation lacks a creation-by-combat myth comparable to Enuma Elish, though the sun god's daily combat with Apophis offers a partial analogue.
+    - The Instruction for Merikare's passage on humankind as the god's images is relevant to the imago Dei discussion.
+  sources_to_check:
+    - Allen, Genesis in Egypt (1988)
+    - AEL 1:97-109
+    - Hornung, Conceptions of God in Ancient Egypt (1982)
+
+- id: khnum
+  aliases: [Khnum, the Potter God]
+  cultures: [egyptian]
+  scope: >-
+    The ram-headed Egyptian creator god of the First Cataract (Elephantine) and Esna,
+    who shapes humans, and in royal birth scenes the king and his ka, on a potter's
+    wheel. The entry covers his iconography, his cult at Elephantine (beside the
+    Judean temple of YHW), and the potter imagery for divine creation.
+  passages:
+    - "Gen 2:7 | imagery | God forms (yāṣar) the human from dust like a potter"
+    - "Ps 139:13-16 | imagery | Divine formation of the person in the womb"
+    - "Job 10:8-9 | imagery | 'You fashioned me like clay'"
+    - "Isa 45:9 | imagery | Clay may not question the potter"
+    - "Isa 64:8 | imagery | We are the clay, you are our potter; MT 64:7"
+    - "Jer 18:1-6 | imagery | The divine potter reshapes the vessel"
+  related: [creation-of-humanity, pottery-and-potters, elephantine, elephantine-temple-petition, egyptian-cosmology, famine-stele, atrahasis]
+  wikipedia: Khnum
+  image: Khnum potter's wheel relief
+  author_notes:
+    - Potter imagery for divine creation is pan-ancient Near Eastern (clay in Atrahasis; Aruru pinching off clay in Gilgamesh). Khnum is one important comparandum, not the source.
+    - The royal birth reliefs (Hatshepsut at Deir el-Bahari; Amenhotep III at Luxor) show Khnum shaping the child and its ka. The Roman-period Esna hymns develop his role as universal creator.
+    - At Elephantine the Khnum priests were implicated in the destruction of the Judean temple (410 BCE). The suggestion that the conflict concerned sacrifice of rams or lambs (Khnum's sacred animal) is a hypothesis.
+
+- id: maat
+  aliases: [Ma'at]
+  cultures: [egyptian]
+  scope: >-
+    The Egyptian concept of right order (truth, justice, and cosmic and social
+    harmony), personified as a goddess with an ostrich feather. The king was charged to
+    "do maat". The entry covers maat as the foundation of kingship, ethics, and the
+    judgment of the dead, and its proposed relevance to biblical ideas of
+    righteousness and to Lady Wisdom.
+  passages:
+    - "Ps 89:14 | imagery | Righteousness and justice the foundation of the divine throne; MT 89:15"
+    - "Ps 97:2 | imagery | Righteousness and justice the foundation of YHWH's throne"
+    - "Prov 16:12 | concept | A throne is established by righteousness"
+    - "Isa 9:7 | concept | Davidic throne upheld with justice and righteousness; MT 9:6"
+    - "Prov 8:22-31 | concept? | Personified Wisdom before creation, delighting before God; cf. Maat"
+    - "Prov 3:16 | imagery? | Wisdom holding life and riches in her hands; cf. Maat iconography"
+  related: [egyptian-kingship, royal-ideology, book-of-the-dead, ane-wisdom-literature, eloquent-peasant, instruction-of-ptahhotep]
+  wikipedia: Maat
+  image: Maat goddess relief feather
+  author_notes:
+    - Brunner's proposal that "righteousness and justice are the foundation of your throne" reflects Egyptian throne iconography (the throne base shaped like the maat sign) is widely cited and plausible.
+    - Kayatz's thesis that Lady Wisdom in Prov 1-9 is modelled partly on Maat is influential but contested. Alternatives include Isis aretalogies, a Canaanite goddess, or inner-Israelite development.
+    - H. H. Schmid's view of ṣedeq/ṣĕdāqâ as "world order" analogous to maat shaped a generation of scholarship and has since been criticised. Present it as part of the history of research.
+  sources_to_check:
+    - Assmann, Ma'at. Gerechtigkeit und Unsterblichkeit im Alten Ägypten (1990)
+    - Kayatz, Studien zu Proverbien 1-9 (1966)
+    - Brunner, 'Gerechtigkeit als Fundament des Thrones', VT 8 (1958)
+
+- id: egyptian-kingship
+  aliases: [Pharaonic kingship, Divine kingship in Egypt]
+  cultures: [egyptian]
+  scope: >-
+    The ideology of Egyptian kingship. The pharaoh was the incarnation of Horus, son of
+    Re, guarantor of maat, sole mediator between gods and people, and victor over
+    chaos and foreign enemies. The entry covers its expression in titulary,
+    iconography, and ritual, and its influence on and contrast with Israelite royal
+    ideology.
+  passages:
+    - "Ps 2:7 | concept | Divine sonship of the king: 'You are my son; today I have begotten you'"
+    - "Ps 110:1-4 | concept | King enthroned at the deity's right hand; priest-king"
+    - "Isa 9:6 | form? | Throne names compared with the Egyptian royal titulary; MT 9:5"
+    - "2Kgs 11:12 | practice? | Coronation with crown and 'testimony' (ʿēdût), likened to an Egyptian royal protocol"
+    - "Ezek 29:3 | polemic | Pharaoh claims 'My Nile is my own; I made it for myself'"
+    - "Ezek 32:2 | imagery | Pharaoh as lion and sea-dragon"
+    - "Exod 5:2 | polemic | Pharaoh: 'Who is the LORD, that I should heed him?'"
+  related: [king-as-son-of-god, royal-ideology, maat, narmer-palette, mighty-hand-outstretched-arm, ramesses-ii, ten-plagues-and-egyptian-gods]
+  wikipedia: Pharaoh
+  image: Khafre enthroned statue Horus falcon Egyptian Museum
+  author_notes:
+    - Scholars debate in what sense pharaoh was "divine" (the office versus the person; Posener, Frankfort, and later nuancing). Avoid simplistic "god-king" language.
+    - Israelite royal sonship (Ps 2; 2 Sam 7:14) is usually read as adoptive, unlike Egyptian physical-mythological sonship. Whether the closest background is Egyptian or Neo-Assyrian is debated.
+    - Von Rad's "royal protocol" (ʿēdût = Egyptian nḫbt) and Alt's linking of Isa 9:6 with the fivefold titulary are classic proposals that remain contested. Hence they are marked as disputed.
+    - Biblical depictions of pharaoh (Exodus; Ezek 29-32) are polemical portraits, drawn in part from Egyptian royal self-presentation.
+  sources_to_check:
+    - Frankfort, Kingship and the Gods (1948)
+    - O'Connor and Silverman (eds.), Ancient Egyptian Kingship (1995)
+    - von Rad, 'Das judäische Königsritual', TLZ 72 (1947)
+
+- id: mighty-hand-outstretched-arm
+  cultures: [egyptian, hebrew]
+  scope: >-
+    The biblical formula for the exodus, "with a mighty hand and an outstretched arm",
+    and related arm-and-hand idioms of YHWH's power. It has been proposed as a polemical
+    appropriation of Egyptian royal epithets celebrating pharaoh's strong arm. The entry
+    covers the formula's distribution and the proposed Egyptian, and wider ancient Near
+    Eastern, background.
+  passages:
+    - "Exod 6:6 | polemic? | Redemption 'with an outstretched arm' against pharaoh"
+    - "Deut 4:34; 5:15; 26:8 | language | 'Mighty hand and outstretched arm' as Deuteronomic exodus formula"
+    - "Jer 32:21 | language | The formula in a prayer recalling the exodus"
+    - "Ps 136:12 | language | 'With a strong hand and an outstretched arm'"
+    - "Exod 15:6 | imagery | YHWH's right hand shatters the enemy"
+    - "Ezek 20:33-34 | language | The formula turned in judgment against Israel itself"
+  related: [egyptian-kingship, divine-warrior, smiting-the-enemy-motif, exodus-historical-questions, amarna-letters, ten-plagues-and-egyptian-gods]
+  wikipedia: null
+  image: Ramesses II smiting enemies relief
+  author_notes:
+    - Hoffmeier and Görg have argued that the formula appropriates Egyptian royal epithets (e.g., the king as "strong of arm", ḫpš), and the polemical reading is plausible. But "strong arm" language is also found in Akkadian and in the Amarna letters (Abdi-Heba refers to the king's strong arm; verify the EA references). The background is not exclusively Egyptian.
+    - The full formula is characteristic of Deuteronomy and Deuteronomistic texts (Deut; Jer; 1 Kgs 8:42; Ps 136). Note what this implies for the date of the polemic.
+    - Show how the idiom works in the plague narrative's contest between YHWH's arm and pharaoh's (cf. Ezek 30:21-25, where pharaoh's arm is broken).
+  sources_to_check:
+    - Hoffmeier, 'The Arm of God versus the Arm of Pharaoh in the Exodus Narratives', Biblica 67 (1986)
+
+- id: hardening-of-the-heart
+  aliases: [Hardening of Pharaoh's heart]
+  cultures: [egyptian, hebrew]
+  scope: >-
+    The motif in Exod 4-14 of pharaoh's heart being made "strong" (ḥzq), "heavy"
+    (kbd), or "hard" (qšh), whether by YHWH or by pharaoh himself. The entry covers the
+    proposal that the "heavy heart" plays on the Egyptian judgment scene, where the
+    deceased's heart is weighed against maat.
+  passages:
+    - "Exod 4:21 | concept | YHWH announces he will make pharaoh's heart strong (ḥzq)"
+    - "Exod 7:14 | polemic? | Pharaoh's heart is 'heavy' (kābēd); proposed play on the Egyptian weighing of the heart"
+    - "Exod 8:15 | language | Pharaoh makes his own heart heavy (hikbîd); MT 8:11"
+    - "Exod 9:34 | language | Pharaoh again makes his heart heavy after the hail"
+    - "Exod 10:1 | language | YHWH has made pharaoh's heart heavy"
+    - "Exod 14:4, 17 | language | YHWH 'gains glory' (ʾikkābĕdâ, root kbd) over pharaoh"
+    - "Prov 21:2 | concept | YHWH weighs the heart"
+  related: [book-of-the-dead, ten-plagues-and-egyptian-gods, egyptian-kingship, maat, exodus-historical-questions, mighty-hand-outstretched-arm]
+  wikipedia: null
+  image: Papyrus of Ani weighing of the heart
+  author_notes:
+    - The three verbs are unevenly distributed. Source critics usually assign ḥzq to P and kbd to J, with qšh rare (Exod 7:3). Mention the source-critical patterns briefly.
+    - The Egyptian background (a heart heavy with wrongdoing fails the weighing; Currid, Hoffmeier) is a proposal, not a consensus. Present it as an attractive but debated reading.
+    - The wordplay on kbd ("heavy" heart; YHWH "gains glory") is secure in the Hebrew and does not depend on the Egyptian proposal.
+    - Theological debates (divine determinism versus pharaoh's agency) lie outside the background scope. Note them only briefly.
+  sources_to_check:
+    - Currid, Ancient Egypt and the Old Testament (1997)
+
+- id: ten-plagues-and-egyptian-gods
+  aliases: [Plagues of Egypt]
+  cultures: [egyptian, hebrew]
+  scope: >-
+    The biblical claim that the exodus plagues were YHWH's "judgments on all the gods
+    of Egypt" (Exod 12:12; Num 33:4), and modern attempts to correlate individual
+    plagues with particular Egyptian deities or natural phenomena. The entry assesses
+    what Egyptian evidence can and cannot support.
+  passages:
+    - "Exod 12:12 | polemic | YHWH will execute judgments on all the gods of Egypt"
+    - "Num 33:4 | polemic | YHWH executed judgments on their gods"
+    - "Exod 7:8-13 | polemic | Aaron's staff-serpent swallows the magicians' staffs"
+    - "Exod 8:18-19 | polemic | Magicians fail: 'This is the finger of God'; MT 8:14-15"
+    - "Exod 7:14-24 | polemic? | Nile turned to blood, read as an affront to the deified inundation (Hapi)"
+    - "Exod 10:21-23 | polemic? | Darkness over Egypt, read as defeat of the sun god Re"
+    - "Isa 19:1 | polemic | The idols of Egypt tremble before YHWH"
+    - "Jer 46:25 | polemic | Punishment on Amon of Thebes, pharaoh, and Egypt's gods"
+  related: [exodus-historical-questions, egyptian-kingship, hardening-of-the-heart, admonitions-of-ipuwer, nile, divine-warrior, mighty-hand-outstretched-arm, thebes]
+  wikipedia: Plagues of Egypt
+  image: null
+  author_notes:
+    - The text itself makes the polemic claim only in general terms (Exod 12:12; Num 33:4) and in the contest with the magicians. The popular one-to-one schema (frogs = Heqet, cattle = Apis or Hathor, darkness = Re, and so on) is a homiletic construct. Several of its identifications rest on minor or misdescribed deities. Present it as such.
+    - Naturalistic sequences explaining the plagues (Hort's algal-bloom chain; the Thera eruption) and the Ipuwer correlation are speculative or rejected. Mention them as popular explanations, not scholarly consensus.
+    - Source criticism finds interwoven J and P plague cycles, and Pss 78:43-51 and 105:27-36 give different lists and orders. These literary questions matter for any "historical" correlation.
+    - Contest-of-magicians scenes fit Egyptian literary tradition (e.g., the Westcar tales of lector-priests). This is a firmer Egyptian background than the deity schema.
+  sources_to_check:
+    - Hoffmeier, Israel in Egypt (1997)
+    - Propp, Exodus 1-18 (Anchor Bible 2, 1999)
+    - Currid, Ancient Egypt and the Old Testament (1997)
+
+- id: egyptian-loanwords
+  cultures: [egyptian, hebrew]
+  scope: >-
+    Egyptian loanwords and personal names in the Hebrew Bible, concentrated in the
+    Joseph and exodus narratives and in technical vocabulary (measures, materials,
+    writing, the Nile). The entry covers their identification, their use as evidence
+    for the date and setting of biblical texts, and the limits of that use.
+  passages:
+    - "Exod 2:3 | language | tēbâ (chest), gōmeʾ (papyrus), sûp (reeds), yĕʾōr (Nile): Egyptian loans"
+    - "Exod 2:10 | language | Moses: Egyptian ms(i) 'born of' (cf. Thutmose); Hebrew folk etymology from mšh"
+    - "Exod 6:25 | language | Phinehas from Egyptian pꜣ-nḥsy 'the Nubian'"
+    - "1Sam 1:3 | language | Hophni and Phinehas, Egyptian names among Shiloh's priests (Hophni less certain)"
+    - "Gen 41:8 | language | ḥarṭummîm 'magicians' from Egyptian ḥry-tp (chief lector priest); also Exod 7:11"
+    - "Gen 41:42 | language | šēš 'fine linen' from Egyptian šs"
+    - "Gen 41:43 | language? | ʾabrēk: Egyptian or Akkadian (abarakku) etymology debated"
+    - "Gen 41:45 | language | Zaphenath-paneah, Asenath, Potiphera: Egyptian name types"
+    - "Gen 41:2 | language | ʾāḥû 'reed-grass' from Egyptian ꜣḫ-w"
+    - "Exod 29:40 | language | hîn liquid measure from Egyptian hnw"
+  related: [exodus-historical-questions, nile, yam-suph, court-officials, weights-and-silver-money, divination]
+  wikipedia: null
+  image: null
+  author_notes:
+    - Explain the dating debate. Redford argued that the Joseph-story names (Potiphera, Asenath, Zaphenath-paneah) are most typical of the Saite period (7th-6th centuries). Kitchen and Hoffmeier argue for earlier attestations. Present both sides with the evidence.
+    - Loanwords show contact, but most could have entered Hebrew at many periods. Do not use them alone to date a text.
+    - Moses' name is probably Egyptian. Exod 2:10's explanation is a Hebrew wordplay, not the historical etymology.
+    - Distinguish true loanwords (tēbâ, gōmeʾ, hîn, ʾêpâ) from Egyptian personal and place names transmitted in Hebrew.
+  sources_to_check:
+    - Lambdin, 'Egyptian Loan Words in the Old Testament', JAOS 73 (1953)
+    - Muchiki, Egyptian Proper Names and Loanwords in North-West Semitic (1999)
+    - Noonan, Non-Semitic Loanwords in the Hebrew Bible (2019)
+
+- id: mummification
+  aliases: [Embalming]
+  cultures: [egyptian]
+  scope: >-
+    Egyptian practices of preserving the body for the afterlife: evisceration,
+    desiccation in natron, anointing, and wrapping, with the associated mourning
+    period. The entry covers the embalming of Jacob and Joseph in Genesis, and the
+    contrast with Israelite and later Jewish burial customs.
+  passages:
+    - "Gen 50:2-3 | practice | Physicians embalm Jacob: forty days for embalming, seventy days of Egyptian mourning"
+    - "Gen 50:26 | practice | Joseph embalmed and placed in a coffin in Egypt"
+    - "Exod 13:19 | practice | Joseph's bones carried out of Egypt for burial in the homeland"
+    - "2Chr 16:14 | practice | Asa laid on a bier filled with spices: Judahite practice without mummification"
+    - "John 19:39-40 | practice | Jewish burial with spices and linen wrappings, in contrast to Egyptian embalming"
+  related: [care-for-the-dead, book-of-the-dead, mourning-rites, bench-tombs, afterlife-and-resurrection, sheol-and-the-netherworld]
+  wikipedia: Mummy
+  image: Anubis tending mummy tomb painting
+  author_notes:
+    - Compare the 40 and 70 days of Gen 50:3 with Herodotus (70 days in natron) and with Egyptian texts that put about 70 days between death and burial. The biblical figures do not match any single source exactly, so do not force harmonisation.
+    - In Gen 50:2 the embalmers are called "physicians" (rōpĕʾîm). This is often noted as an unusual detail.
+    - Jacob and Joseph are the only Israelites said to be embalmed, a deliberate Egyptian touch in the narrative. Israelite practice favoured bench tombs and secondary burial of bones.
+    - Avoid popular claims that particular mummies are those of biblical figures.
+  sources_to_check:
+    - Herodotus, Histories 2.86-89
+    - Diodorus Siculus, Library of History 1.91
+    - Ikram and Dodson, The Mummy in Ancient Egypt (1998)
+
+- id: circumcision
+  cultures: [egyptian, hebrew, ane]
+  scope: >-
+    The practice of circumcision in the ancient Near East: Egyptian evidence from the
+    Old Kingdom onward, West Semitic and biblical evidence, and its absence among the
+    Philistines and Mesopotamians. The entry also covers its transformation in Israel
+    into an infant covenant sign.
+  passages:
+    - "Gen 17:9-14 | practice | Circumcision on the eighth day as covenant sign"
+    - "Gen 34:13-24 | practice | Circumcision demanded of the men of Shechem"
+    - "Exod 4:24-26 | practice | Zipporah circumcises with a flint: 'bridegroom of blood'"
+    - "Josh 5:2-9 | practice | Flint knives; the 'disgrace of Egypt' rolled away"
+    - "Jer 9:25-26 | attests | Egypt, Judah, Edom, Ammon, Moab, and desert peoples as circumcised; MT 9:24-25"
+    - "Judg 14:3 | practice | Philistines as 'the uncircumcised'"
+    - "Ezek 32:19 | concept | Egypt consigned to lie among the uncircumcised in the netherworld"
+  related: [philistines, purity-and-impurity, edomites, ammonites, moabites, sea-peoples]
+  wikipedia: History of circumcision
+  image: Ankhmahor tomb circumcision relief Saqqara
+  author_notes:
+    - The Egyptian evidence includes the Sixth Dynasty relief in the tomb of Ankhmahor at Saqqara and the First Intermediate Period stela of Uha (a group circumcision). Egyptian practice may not have been universal, and its form is debated.
+    - Herodotus (2.104) claims the Syrians of Palestine learned circumcision from the Egyptians. Present this as Herodotus's view, not fact.
+    - Israel is distinctive in performing the rite on infants (Gen 17, P) rather than at puberty or marriage. Exod 4:24-26 and Gen 34 may preserve older associations with marriage.
+    - The meaning of "the disgrace of Egypt" (Josh 5:9) and the translation of Jer 9:25-26 ("circumcised yet uncircumcised"?) are both debated. Ezekiel's consignment of Egypt to the uncircumcised is a deliberate insult.
+  sources_to_check:
+    - Herodotus, Histories 2.104
+
+- id: nile
+  aliases: [Yeor, Inundation]
+  cultures: [egyptian]
+  scope: >-
+    The Nile river and its annual inundation, the basis of Egyptian agriculture,
+    economy, and cosmology. The entry covers the Nile in the Joseph and exodus
+    narratives, in prophetic oracles against Egypt, and as a contrast with
+    rain-dependent Canaan.
+  passages:
+    - "Gen 41:1-4 | setting | Pharaoh's dream: cows coming up from the Nile"
+    - "Exod 1:22 | setting | Hebrew boys to be thrown into the Nile"
+    - "Exod 7:14-25 | setting | First plague: the Nile turned to blood"
+    - "Deut 11:10-11 | concept | Egypt irrigated 'by foot' versus Canaan watered by rain from heaven"
+    - "Isa 19:5-10 | imagery | The Nile dried up: fishermen and flax-workers ruined"
+    - "Jer 46:7-8 | imagery | Egypt rising like the Nile in flood"
+    - "Ezek 29:3-10 | polemic | Pharaoh as dragon in his streams, claiming to have made the Nile"
+    - "Amos 8:8; 9:5 | imagery | The land rises and sinks like the Nile"
+    - "Gen 2:13 | setting? | Gihon 'around the whole land of Cush', sometimes identified with the Nile"
+  related: [egyptian-cosmology, yam-suph, famine-stele, ten-plagues-and-egyptian-gods, cush, egyptian-loanwords, agriculture-and-farming, garden-of-god]
+  wikipedia: Nile
+  image: Nile river Luxor
+  author_notes:
+    - Hebrew yĕʾōr derives from Egyptian itrw ("river"). Šîḥôr (Isa 23:3; Jer 2:18) denotes a Nile branch or waterway in the eastern Delta.
+    - The inundation was deified as Hapi. Nile failure meant famine, which provides the background for Genesis 41 and the Famine Stele.
+    - The "Brook of Egypt" (naḥal miṣrayim, Num 34:5) is generally identified with the Wadi el-ʿArish, not the Nile. This is a common confusion.
+  sources_to_check:
+    - Herodotus, Histories 2.19-34
+
+- id: yam-suph
+  aliases: [Red Sea, Reed Sea, Sea of Reeds]
+  cultures: [egyptian, hebrew]
+  scope: >-
+    The Hebrew yam sûp, traditionally the "Red Sea" (following the Septuagint's
+    erythra thalassa) and often rendered "Reed Sea". It names the sea of the exodus
+    crossing as well as the Gulfs of Suez and Aqaba. The entry covers the term's
+    meaning, its biblical uses, and the debate over the crossing's location.
+  passages:
+    - "Exod 13:18 | setting | Israel led by the wilderness road toward the Yam Suph"
+    - "Exod 14:2 | setting | Camp near Pi-hahiroth, Migdol, and Baal-zephon by the sea"
+    - "Exod 15:4 | setting | Pharaoh's officers sunk in the Yam Suph"
+    - "Exod 15:22 | setting | From the Yam Suph into the wilderness of Shur"
+    - "Num 33:8-11 | setting | Itinerary: sea crossing (v. 8), later a camp by the Yam Suph (vv. 10-11)"
+    - "Exod 10:19 | setting | West wind drives the locusts into the Yam Suph"
+    - "1Kgs 9:26 | setting | Ezion-geber on the shore of the Yam Suph (Gulf of Aqaba)"
+    - "Exod 2:3 | language | sûp 'reeds' (Egyptian ṯwf), the basis of the 'Reed Sea' rendering"
+    - "Jonah 2:5 | language | sûp as seaweed in the deep; MT 2:6"
+    - "Isa 51:10 | imagery | Drying up the sea and the great deep: crossing as victory over chaos"
+  related: [exodus-historical-questions, egyptian-loanwords, chaoskampf, pi-ramesses, pithom, kadesh-barnea]
+  wikipedia: Yam Suph
+  image: Great Bitter Lake Egypt
+  author_notes:
+    - The "Reed Sea" rendering rests on sûp = Egyptian ṯwf (papyrus or reeds). But several passages clearly mean the Gulf of Suez or the Gulf of Aqaba (1 Kgs 9:26), so "Red Sea" is not simply a mistranslation. Batto argued for a mythic "Sea of End/Extinction" reading.
+    - Candidate crossing sites include the Lake Menzaleh/Ballah area, Lake Timsah, the Bitter Lakes, and the Gulf of Suez. Hoffmeier's palaeo-environmental work on the northern Sinai lagoons is relevant. No location can be confirmed.
+    - The P strand of Exod 14 speaks only of "the sea". The term Yam Suph appears in the Song of the Sea and in itinerary and Deuteronomistic texts.
+    - Popular claims of a Gulf of Aqaba crossing at Nuweiba with "chariot wheels" on the seabed (Ron Wyatt and successors) are pseudo-archaeology. Mention them only as misconceptions.
+  sources_to_check:
+    - Batto, 'The Reed Sea. Requiescat in Pace', JBL 102 (1983)
+    - Hoffmeier, Ancient Israel in Sinai (2005)
+
+- id: exodus-historical-questions
+  aliases: [Historicity of the Exodus, Date of the Exodus]
+  cultures: [egyptian, hebrew]
+  scope: >-
+    The historical questions raised by the exodus narrative: Semites in Egypt, the
+    oppression, the date and route, the numbers involved, and the relation to the
+    emergence of Israel in Canaan. The entry assesses the Egyptian and archaeological
+    evidence and the range of scholarly positions, from a non-historical cultural
+    memory to a small-group exodus to traditional early or late dates.
+  passages:
+    - "Exod 1:8-11 | setting | New king; Hebrew labour on the store cities Pithom and Raamses"
+    - "Exod 12:37-41 | setting | Departure from Rameses; 600,000 men on foot; 430 years in Egypt"
+    - "Num 33:1-49 | setting | Wilderness itinerary from Rameses"
+    - "1Kgs 6:1 | setting | 480 years from the exodus to the temple: basis of the 15th-century date"
+    - "Judg 11:26 | setting | 300 years in Heshbon, cited for the early date"
+    - "Exod 15:1-18 | setting | Song of the Sea; its archaic date is debated"
+    - "Hos 11:1 | concept | Exodus as a foundational memory in eighth-century northern prophecy"
+    - "Amos 9:7 | concept | Exodus set alongside other peoples' migrations (Philistines, Arameans)"
+  related: [hyksos, merneptah-stele, pi-ramesses, pithom, ramesses-ii, yam-suph, emergence-of-israel, papyrus-anastasi]
+  wikipedia: The Exodus
+  image: null
+  author_notes:
+    - Consensus position. No Egyptian source mentions Israelites in Egypt, their enslavement, or an exodus. A departure of 600,000 men plus dependants is demographically and logistically impossible. Most critical scholars regard the narrative as a later composition, which may preserve memories of smaller movements and of Egyptian domination in Canaan.
+    - Lay out the range of views. (a) A cultural memory built from Hyksos expulsions, Egyptian control of Canaan, and Semites in the Delta (Redford, Assmann). (b) A small group's exodus (often linked to the Levites) later generalised (Friedman, Hendel). (c) A 13th-century Ramesside exodus (Kitchen, Hoffmeier). (d) A 15th-century exodus based on 1 Kgs 6:1, a minority view largely confined to conservative scholarship, with archaeological difficulties.
+    - The Egyptian local colour (Raamses, Pithom, Egyptian names, frontier forts) spans several periods, and its dating is disputed. The Merneptah Stele sets a terminus ante quem (c. 1208) for Israel in Canaan.
+    - Sinai and Kadesh-barnea lack Late Bronze evidence for a large wilderness population. Mention the debates about the archaeological visibility of nomads.
+    - Flag popular misconceptions, such as Ipuwer as plague record, Thera as the cause of the plagues, Red Sea chariot-wheel finds, and claims about Ramesses II's mummy.
+  sources_to_check:
+    - Levy, Schneider, and Propp (eds.), Israel's Exodus in Transdisciplinary Perspective (2015)
+    - Redford, Egypt, Canaan, and Israel in Ancient Times (1992)
+    - Hoffmeier, Israel in Egypt (1997)
+
+- id: hyksos
+  cultures: [egyptian, canaanite]
+  date: [-1650, -1550]
+  circa: true
+  scope: >-
+    The foreign, largely West Semitic rulers of Egypt's Fifteenth Dynasty, who
+    governed northern Egypt from Avaris in the Second Intermediate Period until their
+    expulsion by Ahmose. The entry covers their origins and their culture at Tell
+    el-Dabʿa. It also covers the long tradition, beginning with Manetho and Josephus,
+    of linking them with Joseph and the exodus.
+  passages:
+    - "Exod 1:11 | setting | Raamses region: Ramesside Pi-Ramesses adjoined the former Hyksos capital Avaris"
+    - "Gen 47:11 | setting? | Joseph's family settled in the eastern Delta, a region long home to Asiatics"
+    - "Gen 41:39-43 | setting? | A Semite's rise at court, often linked to a Hyksos-era setting since Josephus"
+    - "Exod 1:8 | setting? | 'A new king who did not know Joseph', linked by some to the post-Hyksos New Kingdom"
+  related: [avaris, exodus-historical-questions, josephus, beni-hasan-asiatics, amorites, canaanites, pi-ramesses]
+  wikipedia: Hyksos
+  image: Hyksos scarab
+  author_notes:
+    - Hyksos derives from Egyptian ḥqꜣw ḫꜣswt, "rulers of foreign lands". Josephus's "shepherd kings" etymology is wrong.
+    - Current evidence (Bietak's excavations; isotope studies) points to a gradual rise of Levantine-origin groups in the eastern Delta, not a sudden invasion. Their material culture is Middle Bronze Levantine.
+    - Josephus, quoting Manetho, equated the Hyksos expulsion with the exodus (Against Apion 1). Some modern scholars (e.g., Redford) see Hyksos memories as one strand behind the exodus tradition. Others reject any link, since the c. 1550 expulsion does not fit the narrative's Ramesside colour. Present this as debated.
+    - Avoid popular claims that particular Hyksos-era officials or statues at Avaris are Joseph.
+  sources_to_check:
+    - Josephus, Against Apion 1.73-105
+    - Bietak, Avaris. The Capital of the Hyksos (1996)
+    - Oren (ed.), The Hyksos. New Historical and Archaeological Perspectives (1997)
+
+- id: cush
+  aliases: [Kush, Nubia, Ethiopia (biblical), Twenty-fifth Dynasty]
+  cultures: [nubian]
+  date: [-744, -656]
+  circa: true
+  scope: >-
+    Kush, the Nile valley south of Egypt (Nubia, in modern Sudan), and especially its
+    Napatan kings who ruled Egypt as the Twenty-fifth Dynasty and confronted Assyria in
+    the Levant. The entry covers biblical Cush in prophecy and narrative. It does not
+    cover the Midianite "Cushan" (Hab 3:7) except as a source of confusion.
+  passages:
+    - "Isa 18:1-7 | setting | Oracle on the land of whirring wings, its tall envoys in papyrus vessels"
+    - "Isa 20:1-6 | event | Isaiah's sign against Egypt and Cush during the Ashdod revolt (c. 712-711)"
+    - "2Kgs 19:9 | event | Tirhakah king of Cush marches against Sennacherib"
+    - "Nah 3:9 | setting | Cush and Egypt as the strength of Thebes"
+    - "Zeph 2:12 | setting | Oracle against the Cushites"
+    - "Jer 13:23 | imagery | 'Can Cushites change their skin?'"
+    - "Amos 9:7 | concept | Israel no different to YHWH than the Cushites"
+    - "Num 12:1 | attests? | Moses' Cushite wife: Nubian or Midianite (cf. Cushan, Hab 3:7) debated"
+    - "Acts 8:27 | attests | Official of the Candace (kandake), queen of Meroitic Kush"
+  related: [taharqa, shabaka-stone, sennacherib-campaign-701, thebes, table-of-nations, sargon-ii-inscriptions, ashdod, eunuchs]
+  wikipedia: Kingdom of Kush
+  image: Dukki Gel Kushite kings statues Kerma
+  author_notes:
+    - Biblical Cush is usually Nubia. The Greek and English "Ethiopia" does not refer to modern Ethiopia, though Gen 10:7-8 and some passages may reflect other "Cushes" (Arabian; Kassite Kush, linked to Nimrod).
+    - Kushite chronology has been revised. The Tang-i Var inscription of Sargon II and recent studies (e.g., Payraudeau) favour placing Shebitku before Shabaka. This affects the 701 campaign and the role of Taharqa.
+    - Sargon II's inscriptions report that Yamani of Ashdod fled to Kush and was extradited. This provides the setting for Isa 20.
+    - Isa 18 probably reflects Kushite diplomacy in Hezekiah's reign. Treat any precise dating as hypothetical.
+  sources_to_check:
+    - Török, The Kingdom of Kush (1997)
+    - Morkot, The Black Pharaohs (2000)
+    - Eide, Hägg, Pierce, and Török (eds.), Fontes Historiae Nubiorum, vol. 1 (1994)
+
+- id: avaris
+  aliases: [Tell el-Dabʿa, Hut-waret]
+  cultures: [egyptian, canaanite]
+  scope: >-
+    The site of Tell el-Dabʿa in the eastern Nile Delta, identified with Avaris. From
+    the late Middle Kingdom it was home to a large Asiatic (Levantine) population, and
+    it was the capital of the Hyksos Fifteenth Dynasty. In the New Kingdom it hosted
+    Thutmoside palaces with Minoan-style frescoes and later became part of
+    Pi-Ramesses.
+  passages:
+    - "Exod 1:11 | setting | Raamses region: Avaris lies within the area of Ramesside Pi-Ramesses"
+    - "Gen 47:11 | setting? | 'Land of Rameses': eastern Delta settlement of Asiatic pastoralists"
+    - "Gen 45:10 | setting? | Goshen, generally located in the eastern Delta"
+  related: [hyksos, pi-ramesses, exodus-historical-questions, beni-hasan-asiatics, tanis, amorites]
+  wikipedia: Avaris
+  image: Tell el-Daba Avaris excavation
+  author_notes:
+    - Manfred Bietak's excavations (from 1966) identified the site and documented Levantine-style houses, tombs (including donkey burials), and temples. They show long-term Asiatic presence before and during Hyksos rule.
+    - Rohl's and others' identification of an Asiatic official's tomb and statue at Avaris as Joseph's is not accepted by scholars. Mention it as a popular misconception.
+    - The location of Goshen is not securely fixed (Wadi Tumilat or the wider eastern Delta). Hence the disputed tags.
+  sources_to_check:
+    - Bietak, Avaris. The Capital of the Hyksos (1996)
+
+- id: pi-ramesses
+  aliases: [Per-Ramesses, Qantir, Raamses, Rameses]
+  cultures: [egyptian]
+  scope: >-
+    The Delta residence city founded under Seti I and Ramesses II at Qantir, adjacent
+    to Avaris. It was the capital of the Ramesside kings until the shifting Pelusiac
+    Nile branch led to its abandonment in the 11th century BCE. Its monuments were
+    then moved to Tanis and Bubastis. It is usually identified with biblical Raamses
+    or Rameses.
+  passages:
+    - "Exod 1:11 | attests | Raamses, a store city built by Hebrew labour"
+    - "Exod 12:37 | setting | Departure from Rameses to Succoth"
+    - "Num 33:3, 5 | setting | The itinerary begins at Rameses"
+    - "Gen 47:11 | language | 'Land of Rameses' in the Joseph story, a Ramesside-era name"
+  related: [ramesses-ii, avaris, tanis, exodus-historical-questions, pithom, papyrus-anastasi, hyksos]
+  wikipedia: Pi-Ramesses
+  image: Qantir Pi-Ramesses excavation
+  author_notes:
+    - Ramesside monuments found at Tanis once led Montet to identify Tanis with Pi-Ramesses. The Qantir identification (Bietak; Pusch's excavations and magnetometry) is now standard.
+    - Scholars disagree on what the name "Raamses" implies. Some take it as pointing to a Ramesside setting for the oppression tradition. Others (e.g., Redford) note that the name and the Ramesside cults survived into the first millennium, so the detail need not date the narrative early.
+    - Egyptian scribal compositions praising Pi-Ramesses (Ramesside miscellanies) are useful comparanda for the city's fame.
+  sources_to_check:
+    - Bietak, Avaris. The Capital of the Hyksos (1996)
+    - Hoffmeier, Israel in Egypt (1997)
+
+- id: pithom
+  aliases: [Per-Atum, Pr-Itm]
+  cultures: [egyptian]
+  scope: >-
+    The store city of Exod 1:11, from Egyptian Pr-Itm, "House of Atum", located in the
+    Wadi Tumilat in the eastern Delta. The entry covers the competing identifications,
+    Tell el-Maskhuta and Tell er-Retabeh, and what each implies for dating the exodus
+    tradition.
+  passages:
+    - "Exod 1:11 | attests | Pithom, a store city built by Hebrew labour"
+    - "Exod 12:37 | setting? | Succoth (perhaps Egyptian Tjeku) in the Wadi Tumilat, near Pithom"
+    - "Gen 46:28-29 | setting? | LXX places the meeting of Joseph and Jacob at Heroönpolis, in the Pithom area"
+  related: [pi-ramesses, papyrus-anastasi, exodus-historical-questions, necho-ii, egyptian-loanwords, avaris]
+  wikipedia: Pithom
+  image: Tell el-Maskhuta
+  author_notes:
+    - Naville (1883) identified Tell el-Maskhuta as Pithom from inscriptions naming Pr-Itm. Holladay's excavations found that the site was founded in the Saite period (c. 610, linked to Necho II's canal) after a Middle Bronze occupation, with no New Kingdom phase.
+    - Tell er-Retabeh has a Ramesside fortress. Some (Kitchen, Hoffmeier) identify it with New Kingdom Pithom, with the name later transferred to Maskhuta. Recent excavations at Retabeh are relevant.
+    - Redford argued that Exod 1:11 reflects first-millennium (Saite) geography. Present the dating implications even-handedly.
+    - Pr-Itm of Tjeku appears in P. Anastasi VI (late 13th century).
+  sources_to_check:
+    - Holladay, Cities of the Delta III. Tell el-Maskhuta (1982)
+    - Redford, 'Exodus I 11', VT 13 (1963)
+
+- id: thebes
+  aliases: [No-Amon, "No", Waset, Luxor]
+  cultures: [egyptian]
+  scope: >-
+    Thebes (Egyptian Waset; Hebrew Nōʾ ʾĀmôn, "city of Amun"), the religious capital of
+    New Kingdom Egypt in the area of modern Luxor. It includes the temples of Karnak
+    and Luxor on the east bank and the royal tombs and mortuary temples on the west.
+    Its sack by Ashurbanipal in 664/663 BCE is recalled in Nahum.
+  passages:
+    - "Nah 3:8-10 | event | Thebes sacked and its people exiled, as a precedent for Nineveh's fall"
+    - "Jer 46:25 | attests | Amon of Thebes (Nōʾ) punished with pharaoh and Egypt's gods"
+    - "Ezek 30:14-16 | attests | Thebes among the Egyptian cities to be judged"
+  related: [ashurbanipal, rassam-cylinder, taharqa, cush, memphis, medinet-habu-sea-peoples, tomb-of-rekhmire, bubastite-portal]
+  wikipedia: Thebes, Egypt
+  image: Karnak temple Luxor
+  author_notes:
+    - Ashurbanipal's annals describe the Assyrian sack of Thebes, which drove out Tantamani. It gives a terminus post quem for Nah 3:8-10, and Nahum's use of it is a key dating argument.
+    - Explain that No-Amon renders Egyptian niwt Imn, "city of Amun". Older translations sometimes rendered it "Alexandria" anachronistically.
+    - Point readers to related monuments at Thebes, such as the Bubastite Portal, the Medinet Habu reliefs, the Merneptah Stele's findspot, and Rekhmire's tomb.
+  sources_to_check:
+    - Novotny and Jeffers, The Royal Inscriptions of Ashurbanipal (RINAP 5/1, 2018)
+
+- id: memphis
+  aliases: [Noph, Moph, Men-nefer, Mit Rahina]
+  cultures: [egyptian]
+  scope: >-
+    Memphis (Egyptian Mn-nfr; Hebrew Nōp/Mōp), at the apex of the Delta near modern
+    Mit Rahina. It was Egypt's principal administrative capital through much of its
+    history and the cult centre of Ptah. The entry covers its prominence in prophetic
+    oracles and its Judean diaspora community.
+  passages:
+    - "Isa 19:13 | attests | The princes of Memphis deluded"
+    - "Jer 2:16 | attests | The people of Memphis and Tahpanhes have shaved Judah's head"
+    - "Jer 44:1 | attests | Judeans living in Memphis, Migdol, Tahpanhes, and Pathros"
+    - "Jer 46:14, 19 | attests | Memphis to become a waste"
+    - "Hos 9:6 | attests | Memphis (Mōp) will bury them"
+    - "Ezek 30:13, 16 | polemic | Idols and images of Memphis destroyed"
+  related: [shabaka-stone, thebes, tanis, apries, elephantine, esarhaddon, cult-images]
+  wikipedia: Memphis, Egypt
+  image: Memphis Mit Rahina Ramesses II colossus
+  author_notes:
+    - Hebrew nōp and the Hosean variant mōp derive from Mn-nfr. Note the variation.
+    - Esarhaddon captured Memphis in 671. The city was later a Persian administrative centre with Carian, Phoenician, and Judean residents.
+    - Point to the Memphite Theology (Shabaka Stone) for Ptah theology.
+
+- id: tanis
+  aliases: [Zoan, San el-Hagar, Djanet]
+  cultures: [egyptian]
+  scope: >-
+    Tanis (Egyptian Djanet; Hebrew Zōʿan, modern San el-Hagar) in the north-eastern
+    Delta, capital of the Twenty-first and Twenty-second Dynasties. It was built
+    largely with monuments brought from Pi-Ramesses, and Montet found intact royal
+    tombs there. In the Bible Zoan is the seat of pharaoh's counsellors and the scene
+    of the exodus wonders.
+  passages:
+    - "Num 13:22 | attests | Hebron built seven years before Zoan in Egypt"
+    - "Ps 78:12, 43 | setting | 'The fields of Zoan' as the scene of the exodus wonders"
+    - "Isa 19:11, 13 | attests | The princes of Zoan as pharaoh's foolish counsellors"
+    - "Isa 30:4 | attests | Judah's envoys at Zoan and Hanes"
+    - "Ezek 30:14 | attests | Zoan to be set on fire"
+  related: [pi-ramesses, report-of-wenamun, shoshenq-i, memphis, thebes, hebron, exodus-historical-questions]
+  wikipedia: Tanis
+  image: Tanis San el-Hagar ruins
+  author_notes:
+    - Tanis rose to prominence only from the late 11th century, under Smendes (see Wenamun). Ps 78's placing of the exodus wonders "in the fields of Zoan" therefore reflects first-millennium geography.
+    - The Ramesside monuments at Tanis were moved from Pi-Ramesses. Explain how they misled earlier identifications.
+    - Montet's discovery (1939-1940) of the royal tombs (Psusennes I, Shoshenq II) is important for Third Intermediate Period chronology.
+    - The film image of Tanis as the Ark's resting place is fiction. Mention it only if useful for readers.
+  sources_to_check:
+    - Kitchen, The Third Intermediate Period in Egypt (1100-650 BC)
+
+- id: ramesses-ii
+  aliases: [Rameses the Great, Ramses II, Usermaatre Setepenre]
+  cultures: [egyptian]
+  date: [-1279, -1213]
+  circa: true
+  scope: >-
+    Third king of the Nineteenth Dynasty, whose 66-year reign saw the Battle of Kadesh,
+    the Egyptian-Hittite peace treaty, a Hittite diplomatic marriage, and vast building
+    projects, including the Delta capital Pi-Ramesses. He is popularly cast as the
+    pharaoh of the exodus, an identification the entry examines critically.
+  passages:
+    - "Exod 1:11 | setting? | Store city 'Raamses' (Pi-Ramesses), often linked to Ramesses II as the oppressor"
+    - "Exod 12:37 | setting? | Departure from Rameses"
+    - "Gen 47:11 | language | 'Land of Rameses': the king's name used as a toponym"
+  related: [pi-ramesses, kadesh-battle-reliefs, egyptian-hittite-peace-treaty, exodus-historical-questions, merneptah, hittites-and-hethites, diplomatic-marriage, egyptian-kingship]
+  wikipedia: Ramesses II
+  image: Younger Memnon Ramesses II British Museum
+  author_notes:
+    - Use the conventional dates of c. 1279-1213 (Kitchen, Shaw). Older handbooks give 1290-1224 or 1304-1237, and differences in chronology affect older scholarship's synchronisms.
+    - The identification with the exodus pharaoh rests mainly on Exod 1:11 and is reinforced by popular culture (DeMille's The Ten Commandments; The Prince of Egypt). No Egyptian evidence connects him with Israelites. Present it as a hypothesis held by those who accept a 13th-century exodus.
+    - Claims that his mummy shows drowning or salt deposits are popular myths.
+    - Cover Kadesh (year 5), the treaty with Hattusili III (year 21), and the marriage to a Hittite princess as international background for the Late Bronze Levant.
+  sources_to_check:
+    - Kitchen, Pharaoh Triumphant (1982)
+    - Kitchen, Ramesside Inscriptions, Translated and Annotated, vol. 2 (1996)
+
+- id: merneptah
+  aliases: [Merenptah]
+  cultures: [egyptian]
+  date: [-1213, -1203]
+  circa: true
+  scope: >-
+    Thirteenth son and successor of Ramesses II. He repelled a Libyan invasion
+    supported by Sea Peoples in his year 5 and claimed victories in Canaan. His
+    "Israel Stele" contains the earliest certain extrabiblical mention of Israel.
+  passages:
+    - "Josh 10:33 | attests | Gezer: Merneptah styles himself 'subduer of Gezer'"
+    - "Josh 15:9 | attests? | 'Waters of Nephtoah', possibly 'the well of Merneptah' of Egyptian texts"
+    - "Judg 1:27-36 | setting | Canaan with Israel present among unconquered city-states (Merneptah Stele)"
+  related: [merneptah-stele, ramesses-ii, sea-peoples, emergence-of-israel, gezer, exodus-historical-questions]
+  wikipedia: Merneptah
+  image: Merneptah statue
+  author_notes:
+    - Scholars debate whether Merneptah actually campaigned in Canaan or whether the stele's coda is rhetorical. The "subduer of Gezer" epithet (Amada inscription) and the Karnak reliefs reassigned to him by Yurco are adduced in support.
+    - He was once a popular candidate for exodus pharaoh. The stele shows Israel already in Canaan by his year 5, which rules out its being a group still in Egypt.
+    - The Nephtoah identification rests on the "wells of Merneptah" in the Ramesside miscellanies (P. Anastasi III). It is plausible but debated.
+  sources_to_check:
+    - COS 2.6
+    - AEL 2:73-78
+
+- id: shoshenq-i
+  aliases: [Shishak, Sheshonq I, Sheshonk I]
+  cultures: [egyptian]
+  date: [-945, -924]
+  circa: true
+  scope: >-
+    Founder of the Libyan Twenty-second Dynasty and biblical Shishak. He sheltered
+    Jeroboam and, late in his reign, campaigned in Judah and Israel. The Bubastite
+    Portal at Karnak and a stele fragment from Megiddo commemorate the campaign.
+  passages:
+    - "1Kgs 11:40 | attests | Jeroboam flees to Shishak, king of Egypt"
+    - "1Kgs 14:25-26 | event | Shishak comes against Jerusalem in Rehoboam's fifth year and takes the treasures"
+    - "2Chr 12:2-9 | event | Chronicler's expanded account of the invasion"
+    - "2Chr 12:3 | attests | Libyans, Sukkiim, and Cushites in Shishak's army"
+  related: [bubastite-portal, megiddo, solomon, chronology-of-kings, low-chronology-debate, tanis, jerusalem]
+  wikipedia: Shoshenq I
+  image: Shoshenq I relief Karnak
+  author_notes:
+    - The equation Shishak = Shoshenq I is accepted almost universally. Revisionist denials (Velikovsky; Rohl's New Chronology) are not accepted by scholars.
+    - The campaign (c. 925) is a principal synchronism for the chronology of the divided monarchy. Its absolute date depends on Egyptian Third Intermediate Period chronology, so note the uncertainty of several years.
+    - The Megiddo stele fragment, found in the Chicago excavations, confirms his presence at Megiddo. Its stratigraphic context is poor.
+    - Sukkiim is often linked to the Egyptian tktn (Libyan auxiliaries or scouts). This is plausible but not certain.
+  sources_to_check:
+    - Ritner, The Libyan Anarchy (SBL Writings from the Ancient World, 2009)
+    - Kitchen, The Third Intermediate Period in Egypt (1100-650 BC)
+
+- id: necho-ii
+  aliases: [Neco, Nekau II, Pharaoh Neco]
+  cultures: [egyptian]
+  date: [-610, -595]
+  circa: true
+  scope: >-
+    Saite (Twenty-sixth Dynasty) pharaoh. He supported the collapsing Assyrian state
+    against Babylon, killed Josiah at Megiddo in 609, controlled Judah briefly, and
+    was defeated by Nebuchadnezzar at Carchemish in 605.
+  passages:
+    - "2Kgs 23:29-30 | event | Josiah killed by Neco at Megiddo as Neco goes up to the king of Assyria"
+    - "2Chr 35:20-24 | event | Chronicler's version: Neco warns Josiah; battle at Megiddo"
+    - "2Kgs 23:33-35 | event | Neco deposes Jehoahaz, installs Eliakim/Jehoiakim, imposes tribute"
+    - "2Chr 36:3-4 | event | Parallel account of Jehoahaz's deposition"
+    - "Jer 46:2 | event | Neco's army defeated at Carchemish in Jehoiakim's fourth year"
+    - "2Kgs 24:7 | event | Egypt no longer comes out of its land after Babylon's conquests"
+    - "Jer 47:1 | event? | Pharaoh's attack on Gaza, possibly Neco's (cf. Herodotus's Kadytis)"
+  related: [josiah, battle-of-carchemish, megiddo, fall-of-nineveh-chronicle, nebuchadnezzar-chronicle, mesad-hashavyahu-ostracon, pithom]
+  wikipedia: Necho II
+  image: Necho II statue
+  author_notes:
+    - The Babylonian Chronicle shows Egypt aiding Assyria in 610-609 (Harran). This supports reading 2 Kgs 23:29 as "went up to" (aid) the king of Assyria, not "against" (KJV).
+    - Whether Josiah died in battle (Chronicles) or was executed at a meeting (a possible reading of Kings) is debated.
+    - Herodotus (2.158-159) reports Neco's Nile-Red Sea canal and a victory at "Magdolos" and capture of "Kadytis". The identifications (Migdol or Megiddo; Gaza or Kadesh) are debated.
+    - Saite involvement in the Levant (Greek mercenaries; cf. Mesad Hashavyahu) provides wider context.
+  sources_to_check:
+    - Grayson, Assyrian and Babylonian Chronicles (1975), Chronicles 3 and 5
+    - Herodotus, Histories 2.158-159
+
+- id: taharqa
+  aliases: [Tirhakah, Taharqo]
+  cultures: [nubian, egyptian]
+  date: [-690, -664]
+  circa: true
+  scope: >-
+    Kushite pharaoh of the Twenty-fifth Dynasty, a major builder in Egypt and Nubia.
+    He fought the Assyrians and lost Memphis to Esarhaddon in 671. In Kings and Isaiah
+    he is named as "Tirhakah king of Cush", marching against Sennacherib in 701, a
+    reference central to debates on that campaign's chronology.
+  passages:
+    - "2Kgs 19:9 | event | Tirhakah king of Cush marches against Sennacherib; title 'king' anachronistic for 701"
+    - "Isa 37:9 | event | Parallel report of Tirhakah's advance"
+    - "2Kgs 18:21 | setting | The Rabshakeh mocks reliance on Egypt, a 'broken reed'"
+  related: [cush, sennacherib-campaign-701, sennacherib-annals, esarhaddon, hezekiah, thebes, ashurbanipal]
+  wikipedia: Taharqa
+  image: Sphinx of Taharqa British Museum
+  author_notes:
+    - Taharqa reigned from c. 690, so calling him "king" in 701 is anachronistic. The options are prolepsis by a later narrator, his role as a prince commanding under his predecessor (the Kawa stelae report him coming north as a youth), or the largely abandoned two-campaign theory.
+    - The revised Kushite chronology (Shebitku before Shabaka) makes his presence in Egypt by 701 more plausible. Explain the state of the question.
+    - Sennacherib's annals report an Egyptian-Kushite force defeated at Eltekeh (701).
+    - Esarhaddon's Zincirli (Sam'al) stele depicts a kneeling figure usually identified as Taharqa's son Ushanahuru. It shows Assyrian propaganda against the Kushites.
+  sources_to_check:
+    - Leichty, The Royal Inscriptions of Esarhaddon (RINAP 4, 2011)
+    - Kitchen, The Third Intermediate Period in Egypt (1100-650 BC)
+
+- id: apries
+  aliases: [Hophra, Wahibre]
+  cultures: [egyptian]
+  date: [-589, -570]
+  circa: true
+  scope: >-
+    Saite pharaoh (biblical Hophra) who supported Zedekiah's revolt against Babylon.
+    His army briefly relieved the siege of Jerusalem in 588. He was overthrown by
+    Amasis after a failed Libyan expedition. He is the target of Jeremiah's and
+    Ezekiel's oracles against Egypt.
+  passages:
+    - "Jer 44:30 | event | Pharaoh Hophra to be given into the hands of his enemies"
+    - "Jer 37:5-11 | event | Pharaoh's army advances; the Babylonians lift the siege of Jerusalem temporarily"
+    - "Ezek 17:15-17 | event | Zedekiah's appeal to Egypt for horses and troops"
+    - "Ezek 29:1-16 | polemic | Oracle against pharaoh, the great dragon of the Nile"
+    - "Ezek 30:20-26 | event | Pharaoh's arm broken: failure of the Egyptian relief"
+  related: [fall-of-jerusalem-587, lachish-letters, nebuchadnezzar-ii, mighty-hand-outstretched-arm, memphis, nile]
+  wikipedia: Apries
+  image: Apries statue
+  author_notes:
+    - Hebrew ḥopraʿ renders Egyptian Wꜣḥ-ib-rʿ (Wahibre). Jer 44:30 is the only verse that names him. The other pharaohs of Jer 37 and Ezek 29-32 are identified with him by date.
+    - Herodotus (2.161-169) describes his Phoenician campaigns, his deposition by Amasis, and his death. The Elephantine stele of Amasis gives the Egyptian perspective.
+    - Lachish Letter 3 (a commander going down to Egypt) is often linked to Judah's diplomacy with Egypt in this period.
+    - Judean refugees in Egypt (Jer 43-44) lived under his rule.
+  sources_to_check:
+    - Herodotus, Histories 2.161-169
+
+- id: akhenaten
+  aliases: [Amenhotep IV, Akhenaton]
+  cultures: [egyptian]
+  date: [-1353, -1336]
+  circa: true
+  scope: >-
+    Eighteenth Dynasty pharaoh who promoted the exclusive worship of the sun disk
+    (Aten), founded a new capital at Akhetaten (Amarna), and suppressed the cult of
+    Amun. His reign is documented in the Amarna Letters, and he is a perennial figure
+    in debates about the origins of monotheism.
+  passages:
+    - "Ps 104:20-30 | parallel | Great Hymn to the Aten, composed under Akhenaten, parallels the creation psalm"
+    - "Deut 6:4 | concept? | Exclusive devotion to one deity; Atenism as a comparandum, not a source"
+    - "Josh 10:1 | setting | Jerusalem's ruler writes to Akhenaten (Abdi-Heba, EA 285-290)"
+  related: [great-hymn-to-the-aten, amarna-letters, egyptian-kingship, yhwh-origins, habiru, tutankhamun-footstool]
+  wikipedia: Akhenaten
+  image: Akhenaten colossal statue Karnak
+  author_notes:
+    - Present the debate over whether Atenism was monotheism, henotheism, or a royal cult. It centred on the king and royal family, without ethical or covenantal dimensions comparable to Israelite Yahwism.
+    - Freud's derivation of Mosaic monotheism from Atenism (Moses and Monotheism, 1939) and later popular variants are not supported. Assmann's work on "Moses the Egyptian" deals with cultural memory, not a historical link.
+    - Regnal dates are conventional (c. 1353-1336). Amarna chronology, including a possible coregency with Amenhotep III, is debated.
+    - After his death his monuments were dismantled and his name was suppressed. This is relevant to how his religion could, or could not, have been transmitted.
+  sources_to_check:
+    - Hornung, Akhenaten and the Religion of Light (1999)
+    - Assmann, Moses the Egyptian (1997)
+    - Moran, The Amarna Letters (1992)
+
+- id: egyptian-rule-in-canaan
+  aliases: [Egyptian empire in Canaan, New Kingdom imperialism in the Levant]
+  cultures: [egyptian, canaanite]
+  date: [-1550, -1130]
+  circa: true
+  scope: >-
+    Egyptian imperial control of Canaan in the New Kingdom, from the 18th-Dynasty conquests to
+    the withdrawal under the later Ramessides. It covers vassal city-states and Egyptian
+    commissioners (Amarna period), garrisons and administrative centres (Gaza, Jaffa,
+    Beth-shean), the Ways of Horus, and the intensified Ramesside presence that overlapped
+    with the earliest Israel.
+  passages:
+    - "Judg 1:27-29 | setting | Beth-shean, Megiddo and Gezer, centres of Egyptian control or vassal city-states, remain unconquered"
+    - "Josh 17:11-16 | setting | Canaanites with iron chariots hold Beth-shean and the Jezreel valley"
+    - "Exod 13:17 | setting | 'Way of the land of the Philistines', the fortified Egyptian military road across north Sinai"
+    - "Num 34:1-12 | setting? | Borders of 'the land of Canaan' compared with the Egyptian province of Canaan"
+    - "Josh 15:9; 18:15 | language? | 'Waters of Nephtoah', often explained as 'wells of Merneptah'"
+    - "Gen 10:6 | concept? | Canaan as brother of Egypt (Mizraim) among the sons of Ham, perhaps reflecting Egyptian hegemony"
+  related: [amarna-letters, merneptah-stele, beth-shean, gaza, emergence-of-israel, canaanites, habiru, exodus-historical-questions]
+  wikipedia: null
+  image: Seti I stele Beth Shean
+  author_notes:
+    - "Outline the phases: 18th-Dynasty conquest and the vassal system (Thutmose III's Megiddo campaign; the Amarna letters with their commissioners, rabiṣu), then the 19th-20th-Dynasty intensification with garrisons, 'governors' residencies' and Egyptian-style material culture (Beth-shean, Tel Aphek, Tel Mor, Deir el-Balah, Tell el-Farʿah South), then withdrawal by about the reign of Ramesses VI."
+    - "Key monuments: Seti I's stelae from Beth-shean, the Karnak reliefs of the Ways of Horus, the Merneptah Stele (Ashkelon, Gezer, Yanoam, Israel), and Ramesses III and VI objects from Beth-shean and Megiddo."
+    - Stress that the Hebrew Bible is almost silent about Egyptian rule in Canaan, even though it overlapped with Israel's emergence. Explain the scholarly debate over why (memory, genre, the date of the texts).
+    - The 'Nephtoah = Merneptah' and Num 34 'Egyptian province' proposals (Naʾaman and others) are serious but not certain; present them as such.
+    - Distinguish Egyptianization by local elites (Higginbotham) from direct Egyptian occupation; both models are in use.
+  sources_to_check:
+    - D. B. Redford, Egypt, Canaan, and Israel in Ancient Times (1992)
+    - "E. F. Morris, The Architecture of Imperialism (PdÄ 22, 2005)"
+    - "C. R. Higginbotham, Egyptianization and Elite Emulation in Ramesside Palestine (CHANE 2, 2000)"
+    - W. L. Moran, The Amarna Letters (1992)
+
+- id: joseph-story-egyptian-background
+  aliases: [Joseph narrative and Egypt, Joseph novella]
+  cultures: [egyptian, hebrew]
+  scope: >-
+    The Egyptian colouring of the Joseph story (Gen 37-50): court titles and customs, dreams
+    and their interpreters, investiture, famine and grain storage, land tenure, embalming and
+    the ideal lifespan of 110 years. It covers the debate over what this colouring implies
+    for the story's date and genre. Individual Egyptian words and names are treated under
+    egyptian-loanwords.
+  passages:
+    - "Gen 37:25-28 | realia | Ishmaelite caravan with camels carrying gum, balm and resin to Egypt"
+    - "Gen 39:7-20 | parallel | Potiphar's wife; cf. the Tale of Two Brothers"
+    - "Gen 40:1-23 | practice | Dreams of Pharaoh's chief cupbearer and chief baker"
+    - "Gen 41:1-36 | practice | Pharaoh's dreams, the failed magicians (ḥarṭummîm), and Joseph's interpretation"
+    - "Gen 41:42-45 | practice | Investiture with signet, linen and gold collar; Egyptian name and marriage into the priesthood of On"
+    - "Gen 43:32 | practice | Egyptians will not eat with Hebrews"
+    - "Gen 46:34 | practice? | 'Every shepherd is abhorrent to the Egyptians' (no clear Egyptian evidence)"
+    - "Gen 47:1-11 | setting | Herders settled in Goshen, 'the land of Rameses'; cf. Papyrus Anastasi VI"
+    - "Gen 47:13-26 | practice | Crown acquires the land; one-fifth of the harvest due; priestly land exempt"
+    - "Gen 50:2-3, 26 | practice | Embalming by physicians; seventy days of mourning; death at 110 years"
+  related: [egyptian-loanwords, tale-of-two-brothers, famine-stele, dreams-and-dream-interpretation, mummification, papyrus-anastasi, hyksos, camels-and-domestication]
+  wikipedia: null
+  image: Egyptian granary model
+  author_notes:
+    - "Present the dating debate fairly. Redford (1970) argued that the Egyptian details fit the Saite and Persian periods best (name types, titles, Goshen); Kitchen and Hoffmeier argue for New Kingdom or earlier parallels. Many scholars now see a late monarchic or Persian-period composition by authors familiar with Egypt."
+    - "Several details are anachronistic for any 2nd-millennium setting: the 'land of Rameses' (Gen 47:11), camels in the incense trade (Gen 37:25), and Philistines elsewhere in Genesis. Point these out without overstating the conclusion."
+    - Treat the story's genre (court tale or diaspora novella, compared with Esther and Dan 1-6; von Rad's wisdom reading) as part of the background, since the Egyptian setting serves the plot.
+    - "There is no Egyptian record of Joseph. Identifications with Imhotep, Amenhotep son of Hapu or a Hyksos-era vizier, and the medieval idea that the pyramids were Joseph's granaries, are not supported; mention them only as misconceptions. Asiatics did rise high at the Egyptian court (e.g. the chancellor Bay), which is a fair typological point."
+  sources_to_check:
+    - "D. B. Redford, A Study of the Biblical Story of Joseph (VTSup 20, 1970)"
+    - J. Vergote, Joseph en Égypte (1959)
+    - J. K. Hoffmeier, Israel in Egypt (1996)
+    - K. A. Kitchen, On the Reliability of the Old Testament (2003)
+
+- id: instruction-of-merikare
+  aliases: [Teaching for King Merikare, Instruction Addressed to King Merikare]
+  cultures: [egyptian]
+  date: [-2050, -1900]
+  circa: true
+  scope: >-
+    A Middle Egyptian royal instruction set in the Herakleopolitan period, in which an elder
+    king advises his son Merikare on ruling, justice, rebels, the eastern frontier and the
+    judgment of the dead. It ends with a hymn to the creator who made the world for humankind,
+    "his images who came from his body".
+  passages:
+    - "Gen 1:26-27 | concept | Humans as the creator's images; cf. 'his images who came from his body'"
+    - "Ps 8:5-8 | concept | Humans given rule over animals, birds and fish; cf. sky, earth and food made 'for their sake' (MT 8:6-9)"
+    - "Gen 2:7 | concept | Breath of life placed in human nostrils; cf. 'he made breath for their noses to live'"
+    - "Prov 15:8; 21:3, 27 | concept | The upright's character preferred to the wicked's sacrifice; cf. 'the loaf of the upright over the ox of the evildoer'"
+    - "Prov 25:15 | concept | Patient speech persuades a ruler; cf. 'speech is stronger than all fighting'"
+    - "Prov 16:12 | concept | A throne established by righteousness; cf. 'do maat, that you may endure on earth'"
+    - "1Kgs 2:1-9 | form | A dying king instructs his successor, including how to deal with rivals"
+  related: [maat, egyptian-kingship, image-of-god, creation-of-humanity, ane-wisdom-literature, instruction-of-ptahhotep, book-of-the-dead]
+  wikipedia: Teaching for King Merykara
+  image: Papyrus Hermitage 1116A
+  author_notes:
+    - The text is attributed to a Herakleopolitan king (traditionally Khety) but was probably composed in the late First Intermediate Period or early 12th Dynasty. The main manuscripts (P. Hermitage 1116A, P. Moscow, P. Carlsberg VI) are 18th Dynasty. Say this in the article.
+    - "The closing hymn ('well tended is humankind, the cattle of god') is the strongest Egyptian parallel to Gen 1:26-28 and Ps 8. Note the difference: in Merikare all humans are the god's images, whereas in Egyptian royal ideology the king is the image par excellence. Compare this with the biblical democratization of the image."
+    - The saying preferring the upright's character to the wicked's offering is a good comparandum for prophetic and sapiential critiques of sacrifice (Prov 21:3; 1 Sam 15:22; Hos 6:6). Treat it as typological.
+    - The weighing-of-the-heart imagery sometimes cited for Prov 16:2 belongs to the Book of the Dead rather than to Merikare, which speaks of a tribunal of the dead. Do not conflate them.
+  sources_to_check:
+    - AEL 1:97-109
+    - ANET 414-418
+    - J. F. Quack, Studien zur Lehre für Merikare (GOF IV/23, 1992)
+
+- id: tahpanhes
+  aliases: [Daphnae, Tell Defenneh, Tell Dafana, Tehaphnehes]
+  cultures: [egyptian, judahite, greek]
+  scope: >-
+    A Saite-period fortress town on the eastern edge of the Nile Delta (Tell Defenneh), the
+    Greek Daphnae where Psammetichus I stationed a frontier garrison. Jeremiah places Judean
+    refugees there after the murder of Gedaliah, and it stands for Egypt in several prophetic
+    oracles.
+  passages:
+    - "Jer 2:16 | setting | People of Memphis and Tahpanhes have broken the crown of your head"
+    - "Jer 43:7-9 | setting | Judean refugees with Jeremiah reach Tahpanhes; stones hidden at the entrance of Pharaoh's palace"
+    - "Jer 43:10-13 | event? | Nebuchadnezzar to set his throne there; cf. his campaign against Egypt in 568/567"
+    - "Jer 44:1 | setting | Judeans living at Migdol, Tahpanhes, Memphis and Pathros"
+    - "Jer 46:14 | setting | Proclaim in Migdol, Memphis and Tahpanhes"
+    - "Ezek 30:18 | setting | At Tehaphnehes the day shall be dark when Egypt's yokes are broken"
+  related: [apries, memphis, elephantine, fall-of-jerusalem-587, nebuchadnezzar-ii, babylonian-exile, queen-of-heaven]
+  wikipedia: Tahpanhes
+  image: Tell Defenneh
+  author_notes:
+    - Petrie excavated the site in 1886 and called the main fortress building 'Qasr Bint el-Yehudi' ('palace of the Jew's daughter'), linking it to Jer 43. The local name and Petrie's identification of the brick pavement of Jer 43:9 are not evidence. Recent British Museum work (Leclère and Spencer) has reinterpreted the site.
+    - "Herodotus (2.30, 2.154) mentions the garrison at Daphnae and Greek mercenaries in the eastern Delta. Abundant East Greek pottery shows a mixed population. This context of foreign soldiers and refugees suits Jer 43-44."
+    - "Do not confuse the place with Queen Tahpenes (1 Kgs 11:19-20), wife of a pharaoh in Solomon's time. The names are only similar."
+    - The fragmentary Babylonian text on Nebuchadnezzar's 37th year (BM 33041) attests a campaign against Amasis but gives little detail; Jer 43:10-13 cannot be matched to it closely.
+  sources_to_check:
+    - "W. M. F. Petrie, Tanis II: Nebesheh (Am) and Defenneh (Tahpanhes) (1888)"
+    - "F. Leclère and J. Spencer, Tell Dafana Reconsidered: The Archaeology of an Egyptian Frontier Town (BMRP 199, 2014)"
+
+- id: demotic-wisdom
+  aliases: [Instruction of Ankhsheshonqy, Onchsheshonqy, Papyrus Insinger, Great Demotic Wisdom Book]
+  cultures: [egyptian]
+  date: [-400, 100]
+  circa: true
+  scope: >-
+    Late Egyptian wisdom in the Demotic script, chiefly the Instruction of Ankhsheshonqy (with
+    its frame story of a priest writing maxims for his son from prison) and the "Great
+    Demotic Wisdom Book" of Papyrus Insinger. Their one-line sayings and reflections on fate
+    and divine retribution make them contemporaries and comparanda of Ecclesiastes, Ben Sira
+    and late Proverbs.
+  passages:
+    - "Prov 10:1-22:16 | form | Collections of self-contained one-line sayings, the format of Ankhsheshonqy"
+    - "Eccl 11:1 | parallel | 'Send out your bread upon the waters'; cf. Ankhsheshonqy 'Do a good deed and throw it in the river'"
+    - "Eccl 9:11 | concept? | Time and chance happen to all; cf. Demotic fate (šꜣy) and fortune"
+    - "Sir 11:14 | concept | Good and bad, poverty and wealth come from the Lord; cf. Papyrus Insinger's refrains"
+    - "Tob 4:3-19 | form | A father's instructions to his son in a moment of crisis; cf. Ankhsheshonqy's frame"
+  related: [ane-wisdom-literature, ahiqar, ben-sira, instruction-of-amenemope, instruction-of-ptahhotep, scribes-and-scribal-education]
+  wikipedia: Instruction of Ankhsheshonq
+  image: Papyrus Insinger Leiden
+  author_notes:
+    - "Manuscripts: Ankhsheshonqy is P. British Museum EA 10508 (Ptolemaic, probably 1st c. BCE); Papyrus Insinger is in Leiden (1st c. CE), with parallel copies elsewhere. Composition dates are uncertain (Late Period to Ptolemaic). Give manuscript and composition dates separately."
+    - "Lichtheim (1983) stressed that the Demotic texts share an 'international' wisdom culture with Greek gnomic literature, Ahiqar and Ben Sira. Sanders (1983) argued that Ben Sira knew a version of Papyrus Insinger's teaching. Present this as a proposal."
+    - The Eccl 11:1 and Ankhsheshonqy parallel is the most often quoted. Check the column and line reference in Lichtheim's translation before citing it.
+    - "Note differences from earlier Egyptian instructions: monostich sayings, a peasant and village setting in Ankhsheshonqy, and Insinger's paradoxes on fate and fortune, which echo Qohelet's questions."
+  sources_to_check:
+    - "AEL 3:159-217"
+    - "M. Lichtheim, Late Egyptian Wisdom Literature in the International Context (OBO 52, 1983)"
+    - "J. T. Sanders, Ben Sira and Demotic Wisdom (SBLMS 28, 1983)"
+    - "S. R. K. Glanville, The Instructions of ʿOnchsheshonqy (Catalogue of Demotic Papyri in the British Museum 2, 1955)"
+
+# ---------------------------------------------------------------- ugarit-and-deities

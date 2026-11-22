@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: temple-as-cosmos
+file: temple-as-cosmos.jpg
+title: Nut at Dendera Nut Chapel ceiling.jpg
+caption: >-
+  Ptolemaic ceiling relief of the sky goddess Nut swallowing and bearing the sun, Nut chapel
+  of the temple of Hathor at Dendera.
+description: >-
+  Ptolemaic depiction of Goddess Nut at Dendera, Egypt. This relief is located on the ceiling
+  of Nut Chapel. It shows as Nut swallows Re (the Sun) every evening, and bore again every
+  morning.
+creator: HoremWeb
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: HoremWeb, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Nut_at_Dendera_Nut_Chapel_ceiling.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/43/Nut_at_Dendera_Nut_Chapel_ceiling.jpg
+  sha1: ff534f095ca3f1d711e5ef3c9a91ec012937d30e
+  original_size: [3264, 2448]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [temple-as-cosmos]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

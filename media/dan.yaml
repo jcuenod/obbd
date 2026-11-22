@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: dan
+file: dan.jpg
+title: Tel Dan Canaanite Gate.JPG
+caption: The Middle Bronze Age mud-brick arched gate of Laish at Tel Dan.
+description: Front view of the Middle Bronze II mud brick gate at area K in Tel Dan
+creator: Ani Nimi
+credit_line: Own work
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Ani Nimi. CC0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tel_Dan_Canaanite_Gate.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/8/8d/Tel_Dan_Canaanite_Gate.JPG
+  sha1: 12b843326af752385261d43f366ce477679a8262
+  original_size: [4000, 3000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [dan]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

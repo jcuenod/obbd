@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: emergence-of-israel
+title: Emergence of Israel in Canaan
+aliases: [Israelite settlement, Conquest models, Ethnogenesis of Israel]
+type: concept
+cultures: [hebrew, canaanite, egyptian]
+scope: >-
+  Scholarly reconstruction of the origins of Israel in Canaan at the end of the Late Bronze
+  Age and in Iron I, set against the biblical conquest and settlement accounts. Covers the
+  main explanatory models and the archaeological and Egyptian evidence.
+passages:
+- ref: Josh 1-12
+  rel: event
+  note: Conquest narrative of rapid, comprehensive campaigns
+- ref: Josh 11:10-13
+  rel: event
+  note: Hazor alone burned; cf. destruction of Late Bronze Hazor (date and agent debated)
+- ref: Josh 8:28
+  rel: event
+  disputed: true
+  note: Ai made 'a heap forever'; et-Tell was unoccupied in Late Bronze
+- ref: Judg 1:19, 21, 27-35
+  rel: event
+  note: Incomplete, piecemeal occupation with Canaanite enclaves
+- ref: Judg 5:14-18
+  rel: setting
+  note: Tribal coalition in the Song of Deborah
+- ref: Josh 24:1-28
+  rel: concept
+  note: Shechem assembly; ancestors 'served other gods'
+- ref: Deut 26:5
+  rel: concept
+  note: '''A wandering Aramean was my ancestor'''
+- ref: Ezek 16:3
+  rel: concept
+  note: Jerusalem's Amorite father and Hittite mother
+related: [merneptah-stele, habiru, shasu, ai, jericho, hazor, ethnicity-and-material-culture,
+  exodus-historical-questions]
+media:
+- id: emergence-of-israel
+  role: primary
+external:
+  wikipedia: Israelites
+  wikidata: Q51669
+editorial:
+  author_notes:
+  - >-
+    The Merneptah Stele (ca. 1208 BCE) is the earliest attestation of 'Israel', written with
+    the determinative for a people, in Canaan.
+  - >-
+    Present the models. They are Albright's unified conquest, Alt and Noth's peaceful infiltration,
+    the Mendenhall-Gottwald peasant revolt, and indigenous emergence or ethnogenesis (Finkelstein,
+    Dever, Faust, Killebrew). Current consensus favours a largely indigenous origin with diverse
+    elements, including some groups from outside Canaan.
+  - >-
+    Survey data show a wave of small Iron I highland villages. Their interpretation (sedentarising
+    pastoralists, displaced lowlanders) is debated.
+  - >-
+    Jericho and Ai are standard problem cases for the conquest model. Hazor's destruction
+    is real but its agent and date are disputed.
+  sources_to_check:
+  - Finkelstein, The Archaeology of the Israelite Settlement (1988)
+  - Dever, Who Were the Early Israelites and Where Did They Come From? (2003)
+  - Killebrew, Biblical Peoples and Ethnicity (2005)
+  image_query: Merneptah Stele Israel
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,83 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tithes
+title: Tithes
+aliases: [Tithe, Maʿaśer]
+type: practice
+cultures: [hebrew, ugaritic, babylonian]
+scope: >-
+  The tenth of produce and livestock given to sanctuary, priests, Levites, the poor or the
+  king. The entry covers the varied biblical tithe laws and narratives, and the royal and
+  temple tithes of Ugarit and Neo-Babylonian Mesopotamia.
+passages:
+- ref: Gen 14:20
+  rel: practice
+  note: Abram gives Melchizedek a tenth of everything
+- ref: Gen 28:22
+  rel: practice
+  note: Jacob vows a tenth at Bethel
+- ref: 1Sam 8:15, 17
+  rel: practice
+  note: The king will take a tenth of grain, vineyards and flocks
+- ref: Amos 4:4
+  rel: practice
+  note: Bringing tithes to Bethel
+- ref: Lev 27:30-33
+  rel: practice
+  note: Tithes of produce and the tenth animal under the rod
+- ref: Num 18:21-32
+  rel: practice
+  note: Tithe given to the Levites; Levites' tithe to the priests
+- ref: Deut 14:22-29
+  rel: practice
+  note: Tithe eaten at the chosen place; third-year tithe for Levite, alien, orphan, widow
+- ref: Deut 26:12-15
+  rel: practice
+  note: Declaration at the third-year tithe
+- ref: 2Chr 31:4-12
+  rel: practice
+  note: Hezekiah organizes tithes and storerooms
+- ref: Neh 10:37-39; 13:10-13
+  rel: practice
+  note: Tithes for the Levites and the temple storehouses (MT 10:38-40)
+- ref: Mal 3:8-10
+  rel: practice
+  note: '''Bring the full tithe into the storehouse'''
+- ref: Tob 1:6-8
+  rel: practice
+  note: Second Temple practice of multiple tithes
+- ref: Matt 23:23
+  rel: practice
+  note: Tithing mint, dill and cumin
+related: [firstfruits-and-firstborn, vows-and-votive-offerings, widow-orphan-sojourner, sacrifice,
+  ugarit, bethel, yehud-province]
+media: []
+external:
+  wikipedia: Tithe
+  wikidata: Q184664
+editorial:
+  author_notes:
+  - >-
+    Ugaritic administrative texts record a royal tithe (maʿšr). The Neo-Babylonian temple
+    tithe (ešrû) at Eanna (Uruk) and Ebabbar (Sippar) is richly documented (M. Jursa, Der
+    Tempelzehnt in Babylonien, AOAT 254, 1998).
+  - >-
+    The tithe was both a royal tax and a cultic due (1 Sam 8:15, 17; Bethel as royal sanctuary).
+    Note the debate over which came first.
+  - >-
+    Explain the tension between Deut 14 (tithe eaten by the offerer at the sanctuary) and
+    Num 18 (tithe given to the Levites), and later harmonizations into first, second and poor
+    tithes (Tobit; Jubilees; rabbinic law).
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,83 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: nebuchadnezzar-ii
+title: Nebuchadnezzar II
+aliases: [Nebuchadrezzar, Nabû-kudurri-uṣur II]
+type: person
+cultures: [babylonian]
+date:
+  from: -605
+  to: -562
+  display: 605–562 BCE
+scope: >-
+  The second and greatest king of the Neo-Babylonian dynasty, victor at Carchemish, conqueror
+  of Jerusalem in 597 and 587/586, and rebuilder of Babylon. He is the dominant foreign king
+  in Kings, Jeremiah, Ezekiel and Daniel.
+passages:
+- ref: 2Kgs 24:1-17
+  rel: event
+  note: Jehoiakim's submission and revolt; capture of Jerusalem in 597
+- ref: 2Kgs 25:1-21
+  rel: event
+  note: Siege and destruction of Jerusalem in 587/586
+- ref: Jer 46:2
+  rel: event
+  note: Victory over Necho at Carchemish in Jehoiakim's fourth year
+- ref: Jer 27:6
+  rel: concept
+  note: '''Nebuchadnezzar my servant'' as YHWH''s instrument'
+- ref: Ezek 26:7-14
+  rel: event
+  note: Prophesied siege of Tyre
+- ref: Ezek 29:17-20
+  rel: event
+  note: Egypt given as wages for the fruitless siege of Tyre
+- ref: Dan 4:28-33
+  rel: parallel
+  disputed: true
+  note: Boast and madness; widely thought to be transferred from Nabonidus (MT 4:25-30)
+- ref: Dan 1:1-2
+  rel: setting
+  note: Exile of Judean youths; date problem of Jehoiakim's third year
+related: [nebuchadnezzar-chronicle, east-india-house-inscription, battle-of-carchemish, fall-of-jerusalem-587,
+  ishtar-gate, babylon, jehoiachin, babylonian-exile]
+media:
+- id: nebuchadnezzar-ii
+  role: primary
+- id: nebuchadnezzar-ii-2
+  role: gallery
+external:
+  wikipedia: Nebuchadnezzar II
+  wikidata: Q12591
+editorial:
+  author_notes:
+  - >-
+    The form Nebuchadrezzar (Jeremiah, Ezekiel) is closer to Akkadian Nabû-kudurri-uṣur; Nebuchadnezzar
+    is a dissimilated form.
+  - >-
+    His inscriptions are almost all building texts; military history comes mainly from the
+    Babylonian Chronicles, which break off after 594.
+  - >-
+    Daniel's portrayal draws on Nabonidus traditions (4Q242) and is historically problematic;
+    distinguish the literary figure from the historical king.
+  - >-
+    The 13-year siege of Tyre is reported by Josephus (citing Phoenician records); Ezekiel
+    acknowledges its limited success.
+  sources_to_check:
+  - ABC 5
+  - Wiseman, Nebuchadrezzar and Babylon (1985)
+  - Langdon, Die neubabylonischen Königsinschriften (VAB 4, 1912)
+  image_query: Nebuchadnezzar II Tower of Babel stele
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

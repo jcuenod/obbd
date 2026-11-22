@@ -1,0 +1,76 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: statue-of-gudea
+title: Statues of Gudea
+type: artifact
+cultures: [sumerian]
+date:
+  from: -2140
+  to: -2120
+  circa: true
+  display: c. 2140–2120 BCE
+scope: >-
+  The diorite statues of Gudea, ruler of Lagash in the Neo-Sumerian period, many inscribed
+  with building and dedicatory texts addressed to Ningirsu and other gods. Statue B, seated
+  with a temple ground-plan and measuring rule on his lap, presents the ruler as the god-chosen
+  shepherd and temple builder. The cylinders and Gudea's career are treated in separate entries.
+passages:
+- ref: Exod 25:9, 40
+  rel: concept
+  note: Divinely revealed sanctuary plan (tabnît); cf. the plan on Statue B's lap
+- ref: 1Chr 28:11-19
+  rel: concept
+  note: David hands Solomon the temple plan received 'in writing from the hand of the LORD'
+- ref: Ezek 40:1-4
+  rel: concept
+  note: Visionary temple measured by a figure holding a measuring reed
+- ref: Ezek 34:1-24
+  rel: imagery
+  note: Ruler as shepherd chosen by the deity to care for the people
+- ref: Ps 78:70-72
+  rel: imagery
+  note: Divine choice of a shepherd-ruler
+related: [gudea, gudea-cylinders, shepherd-kingship, temple-building-accounts, prayer-postures,
+  royal-ideology]
+location:
+  institution: >-
+    Musée du Louvre, Paris (Statue B and most excavated statues); others in various collections
+  accession: null
+media:
+- id: statue-of-gudea
+  role: primary
+- id: gudea
+  role: gallery
+external:
+  wikipedia: Statues of Gudea
+  wikidata: Q7604514
+editorial:
+  author_notes:
+  - >-
+    Distinguish the statues excavated at Tello (ancient Girsu) by de Sarzec from 1877 onward
+    from the unprovenanced statues that later reached the market, some of doubtful authenticity.
+  - >-
+    Gudea's absolute dates vary by chronology (often c. 2140-2120 or slightly later); his
+    reign probably overlapped the early Ur III dynasty. Give a range, not a single year.
+  - >-
+    The clasped-hands posture is a standard Mesopotamian gesture of prayer and attentiveness,
+    useful for discussing prayer postures.
+  - >-
+    Stress that the comparison with biblical temple plans is typological; no direct influence
+    on Exodus or Ezekiel is claimed.
+  sources_to_check:
+  - RIME 3/1 (Edzard, Gudea and His Dynasty, 1997)
+  image_query: Gudea statue B Louvre
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

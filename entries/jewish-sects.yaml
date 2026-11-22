@@ -1,0 +1,71 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: jewish-sects
+title: Pharisees, Sadducees, and Essenes
+type: concept
+cultures: [jewish]
+scope: >-
+  The Jewish groups of the late Second Temple period: chiefly the Pharisees, Sadducees, and
+  Essenes, along with Josephus's 'Fourth Philosophy'. The entry covers how they are presented
+  in Josephus, the Dead Sea Scrolls, the New Testament, and rabbinic literature, and the methodological
+  problems of reconstructing them.
+passages:
+- ref: Matt 3:7
+  rel: attests
+  note: Pharisees and Sadducees coming to John's baptism
+- ref: Mark 7:1-13
+  rel: practice
+  note: Pharisaic 'tradition of the elders' and handwashing
+- ref: Mark 12:18-27
+  rel: concept
+  note: Sadducees deny the resurrection
+- ref: Acts 23:6-8
+  rel: concept
+  note: Sadducees deny resurrection, angels, and spirits; Pharisees affirm them
+- ref: Acts 5:34
+  rel: attests
+  note: Gamaliel, a Pharisee and teacher of the law
+- ref: Acts 15:5
+  rel: language
+  note: '''The sect (hairesis) of the Pharisees'', Josephus''s term for the schools'
+- ref: Phil 3:5
+  rel: attests
+  note: 'Paul: ''as to the law, a Pharisee'''
+- ref: Matt 23:1-36
+  rel: polemic
+  note: Woes against scribes and Pharisees; a polemical portrayal
+related: [community-rule, josephus, dead-sea-scrolls, qumran, messianic-expectations, stone-vessels-and-mikvaot,
+  afterlife-and-resurrection, synagogues]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Josephus frames the groups as Greek-style 'philosophies' (War 2.119-166; Ant. 13.171-173;
+    18.11-25). Account for this Hellenizing lens.
+  - >-
+    The majority view identifies the Qumran yaḥad as Essene or Essene-related. Essenes also
+    lived in towns (Philo, Josephus).
+  - >-
+    Avoid equating Pharisees with later rabbis, and avoid reading Matt 23 as neutral description.
+    Sadducees are known almost only through hostile sources.
+  - Note that 'scribes' and 'Herodians' are not sects in the same sense.
+  sources_to_check:
+  - A. J. Saldarini, Pharisees, Scribes and Sadducees in Palestinian Society (1988)
+  - S. Mason, Flavius Josephus on the Pharisees (1991)
+  - >-
+    E. Schürer, G. Vermes, F. Millar, and M. Goodman, The History of the Jewish People in
+    the Age of Jesus Christ, vol. 2 (1979)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

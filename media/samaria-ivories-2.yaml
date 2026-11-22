@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: samaria-ivories-2
+file: samaria-ivories-2.jpg
+title: Furniture Inlays, Samaria, 9th-8th Century BC (41408597500).jpg
+caption: >-
+  Carved ivory furniture inlays from Samaria, 9th–8th century BCE (Israel Museum, Jerusalem).
+description: Jerusalem
+creator: Gary Todd from Xinzheng, China
+credit_line: Furniture Inlays, Samaria, 9th-8th Century BC
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Gary Todd from Xinzheng, China. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Furniture_Inlays,_Samaria,_9th-8th_Century_BC_(41408597500).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/a3/Furniture_Inlays%2C_Samaria%2C_9th-8th_Century_BC_%2841408597500%29.jpg
+  sha1: 94e78bffb8eecaae51c99a53e964a834957cb317
+  original_size: [6000, 4000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [samaria-ivories]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

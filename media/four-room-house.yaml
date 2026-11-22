@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: four-room-house
+file: four-room-house.jpg
+title: >-
+  Israelite house mockup, Iron Age, 1200-586 BC - Harvard Semitic Museum - Cambridge, MA -
+  DSC06022.jpg
+caption: >-
+  Modern model of an Iron Age Israelite pillared house, showing the pillared ground floor
+  and upper storey (Harvard Semitic Museum, Cambridge, MA).
+description: >-
+  Exhibit in the Harvard Semitic Museum, Harvard University - Cambridge, Massachusetts, USA.
+creator: Daderot
+credit_line: Own work
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Daderot. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Israelite_house_mockup,_Iron_Age,_1200-586_BC_-_Harvard_Semitic_Museum_-_Cambridge,_MA_-_DSC06022.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/38/Israelite_house_mockup%2C_Iron_Age%2C_1200-586_BC_-_Harvard_Semitic_Museum_-_Cambridge%2C_MA_-_DSC06022.jpg
+  sha1: 3f7d5def1cc800f47be4e0600db527839d9f22c5
+  original_size: [5472, 3648]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [four-room-house]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

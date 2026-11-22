@@ -1,0 +1,80 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: bronze-sea
+title: The Bronze Sea
+aliases: [Molten Sea, the Sea]
+type: realia
+cultures: [hebrew, phoenician, assyrian]
+scope: >-
+  The large cast-bronze basin called "the sea" (hayyām), set on twelve bronze oxen in the
+  court of Solomon's temple. The entry covers its dimensions, function, symbolism, and ancient
+  Near Eastern analogues such as Mesopotamian apsû basins.
+passages:
+- ref: 1Kgs 7:23-26
+  rel: realia
+  note: Cast sea ten cubits across on twelve oxen, holding 2,000 baths
+- ref: 1Kgs 7:39
+  rel: realia
+  note: Sea placed at the southeast corner of the house
+- ref: 2Chr 4:2-6, 10
+  rel: realia
+  note: Sea for the priests to wash in; 3,000 baths
+- ref: 1Chr 18:8
+  rel: realia
+  note: Bronze for the sea from Hadadezer's cities
+- ref: 2Kgs 16:17
+  rel: realia
+  note: Ahaz removes the sea from the bronze oxen
+- ref: 2Kgs 25:13, 16
+  rel: realia
+  note: Sea broken up by the Babylonians
+- ref: Jer 52:17, 20
+  rel: realia
+  note: Sea and twelve oxen taken as bronze
+- ref: Exod 30:17-21
+  rel: practice
+  note: Tabernacle basin for priestly washing
+- ref: Rev 4:6
+  rel: imagery
+  note: Sea of glass before the heavenly throne
+related: [temple-as-cosmos, waters-above-and-below, cult-stands, jachin-and-boaz, tehom, chaoskampf,
+  hiram-of-tyre, bull-iconography]
+media:
+- id: bronze-sea
+  role: primary
+- id: bronze-sea-2
+  role: gallery
+external:
+  wikipedia: Molten Sea
+  wikidata: Q3306192
+editorial:
+  author_notes:
+  - >-
+    Many scholars interpret the sea as cosmological symbolism (the subdued waters or the life-giving
+    deep) in light of Mesopotamian apsû basins in temples. The stone basin from the Assur
+    temple with fish-garbed figures is a frequent comparandum. The Chronicler gives it a practical
+    function (washing).
+  - >-
+    The capacity figures differ (2,000 baths in 1 Kgs 7:26; 3,000 in 2 Chr 4:5). Note this
+    without harmonizing.
+  - >-
+    The ratio of diameter (10 cubits) to circumference (30 cubits) is often discussed as an
+    "approximation of π". Treat this briefly as reception. It is not a central scholarly issue.
+  - >-
+    The twelve oxen in groups of three facing the four directions relate to bull iconography
+    and cosmic orientation. Ahaz's removal of the oxen (2 Kgs 16:17) is usually read as paying
+    tribute to Assyria.
+  image_query: Assur temple cult basin Pergamon Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

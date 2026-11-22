@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: cyrus-cylinder
+file: cyrus-cylinder.jpg
+title: Cyrus Cylinder front.jpg
+caption: The Cyrus Cylinder, clay, Babylon, after 539 BCE (British Museum, London).
+description: Front of the Cyrus Cylinder. Can be seen in The British Museum
+creator: Prioryman
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Prioryman, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cyrus_Cylinder_front.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/e/e5/Cyrus_Cylinder_front.jpg
+  sha1: 1d6f8f19670e6a2681d0cd6a59ba1b6557d758de
+  original_size: [2968, 1788]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×964 px
+size: [1600, 964]
+depicts: [cyrus-cylinder]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

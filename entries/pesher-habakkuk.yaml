@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: pesher-habakkuk
+title: Pesher Habakkuk (1QpHab)
+aliases: [1QpHab, Habakkuk Commentary]
+type: artifact
+cultures: [jewish]
+date:
+  from: -30
+  to: 1
+  circa: true
+  display: c. 30 BCE–1 CE
+scope: >-
+  The continuous commentary (pesher) on Habakkuk 1-2 from Qumran Cave 1. It interprets the
+  prophet's words as referring to the community's own history: the Teacher of Righteousness,
+  the Wicked Priest, the Man of the Lie, and the Kittim (Romans).
+passages:
+- ref: Hab 1:1-2:20
+  rel: form
+  note: Running pesher on Habakkuk 1-2; chapter 3 is not included
+- ref: Hab 1:6
+  rel: language
+  note: The Chaldeans reinterpreted as the Kittim, i.e. the Romans (1QpHab 2:10-15)
+- ref: Hab 2:2-3
+  rel: concept
+  note: Prophet ignorant of the end; the Teacher given 'all the mysteries' (1QpHab 7:1-14)
+- ref: Hab 2:4
+  rel: concept
+  note: The righteous live by faithfulness to the Teacher (1QpHab 7:17-8:3)
+- ref: Hab 2:15
+  rel: concept
+  note: Wicked Priest confronts the Teacher on his Day of Atonement (1QpHab 11:2-8)
+- ref: Rom 1:17
+  rel: concept
+  note: Contemporary eschatological reading of Hab 2:4
+- ref: Heb 10:37-38
+  rel: concept
+  note: Delay of the vision and Hab 2:3-4 applied to the community
+- ref: Acts 2:16-21
+  rel: form
+  note: '''This is what was spoken by the prophet'': a fulfilment hermeneutic comparable to
+    pesher'
+related: [dead-sea-scrolls, qumran, jewish-sects, community-rule, war-scroll, maccabean-revolt]
+location:
+  institution: Israel Museum, Jerusalem (Shrine of the Book)
+  accession: null
+media:
+- id: pesher-habakkuk
+  role: primary
+external:
+  wikipedia: Habakkuk Commentary
+  wikidata: Q3490992
+editorial:
+  author_notes:
+  - >-
+    Survey identifications of the Wicked Priest (Jonathan or Simon Maccabee most often; the
+    Groningen hypothesis of several priests). Stress their uncertainty.
+  - Kittim = Romans is widely accepted (e.g. sacrificing to their standards, 1QpHab 6:3-5).
+  - >-
+    The absence of Hab 3 is not evidence that the chapter did not yet exist; the pesher's
+    scope may simply have been chapters 1-2.
+  - >-
+    Note that the Tetragrammaton is written in paleo-Hebrew script within the square-script
+    text.
+  sources_to_check:
+  - 'M. P. Horgan, Pesharim: Qumran Interpretations of Biblical Books (CBQMS 8, 1979)'
+  - W. H. Brownlee, The Midrash Pesher of Habakkuk (1979)
+  - M. Burrows (ed.), The Dead Sea Scrolls of St. Mark's Monastery, vol. 1 (1950)
+  image_query: Pesher Habakkuk scroll
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

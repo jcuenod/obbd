@@ -1,0 +1,83 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: lion-imagery
+title: Lion Imagery
+type: concept
+cultures: [ane]
+scope: >-
+  The lion as an image of deity, king, tribe and enemy in the Hebrew Bible, against the ancient
+  Near Eastern iconography of royal lion hunts, lion-guarded thrones and gates, and lion-associated
+  deities. The entry covers metaphor and material culture. Composite lion-creatures belong
+  elsewhere.
+passages:
+- ref: Gen 49:9
+  rel: imagery
+  note: Judah as a lion's whelp
+- ref: Num 23:24; 24:9
+  rel: imagery
+  note: Israel rising like a lion in Balaam's oracles
+- ref: Amos 1:2
+  rel: imagery
+  note: YHWH roars from Zion
+- ref: Amos 3:8, 12
+  rel: imagery
+  note: '''The lion has roared''; remnants rescued from the lion''s mouth'
+- ref: Hos 5:14; 13:7-8
+  rel: imagery
+  note: YHWH as a lion tearing his people
+- ref: Isa 31:4
+  rel: imagery
+  note: YHWH like a lion over its prey, undeterred by shepherds
+- ref: Ezek 19:1-9
+  rel: imagery
+  note: Judah's princes as lion cubs caught in nets and pits (royal hunt)
+- ref: Nah 2:11-13
+  rel: imagery
+  note: Nineveh as a lions' den (MT 2:12-14)
+- ref: Prov 19:12; 20:2
+  rel: imagery
+  note: The king's wrath like a lion's growl
+- ref: 1Kgs 10:19-20
+  rel: realia
+  note: Lions flanking Solomon's throne and steps
+- ref: Ps 22:13, 21
+  rel: imagery
+  note: Enemies as ravening lions (MT 22:14, 22)
+- ref: Rev 5:5
+  rel: imagery
+  note: The Lion of the tribe of Judah
+related: [lion-hunt-of-ashurbanipal, seal-of-shema, ishtar-gate, lamassu, royal-ideology,
+  divine-warrior, composite-beasts-daniel]
+media:
+- id: lion-imagery
+  role: primary
+external:
+  wikipedia: Cultural depictions of lions
+  wikidata: Q2053334
+editorial:
+  author_notes:
+  - >-
+    B. A. Strawn (What Is Stronger than a Lion?, 2005) shows that the lion stands for both
+    threat and power and is applied to gods, kings and enemies alike.
+  - >-
+    Royal lion hunts (Assyrian reliefs; Ezek 19) express the king as protector against chaos.
+    Lion-flanked thrones and gates are standard royal display.
+  - >-
+    Lions lived in the Iron Age Levant, so the imagery also reflects a real pastoral danger
+    (Amos 3:12, cf. Exod 22:13; 1 Sam 17:34-37).
+  - >-
+    Distinguish ancient usage from the later 'Lion of Judah' tradition (Ethiopian royal ideology).
+  image_query: Seal of Shema servant of Jeroboam lion
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: amarna-letters-2
+file: amarna-letters-2.jpg
+title: Five Amarna letters on display at the British Museum, LondonA.jpg
+caption: Five Amarna letters on display at the British Museum, London.
+description: Five Amarna letters on display (G57/dc8) at the British Museum, London.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Five_Amarna_letters_on_display_at_the_British_Museum,_LondonA.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/d3/Five_Amarna_letters_on_display_at_the_British_Museum%2C_LondonA.jpg
+  sha1: 0f5799261f896e56ca010a762d72d4e733036209
+  original_size: [3074, 3004]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1563 px
+size: [1600, 1563]
+depicts: [amarna-letters]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

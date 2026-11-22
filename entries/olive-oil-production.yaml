@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: olive-oil-production
+title: Olive Oil Production
+aliases: [Olive press, Oil industry]
+type: realia
+cultures: [hebrew, philistine]
+scope: >-
+  The cultivation of olives and the production, uses, and trade of olive oil in the Iron Age
+  and later Levant, including press technology, the Ekron oil industry, and the oil used in
+  cult, food, lighting, and anointing.
+passages:
+- ref: Exod 27:20
+  rel: realia
+  note: '''Pure oil of beaten olives'' (šemen zayit zāk kātît) for the lamp'
+- ref: Deut 8:8
+  rel: realia
+  note: Land of olive trees (zêt šemen)
+- ref: Deut 24:20
+  rel: practice
+  note: Olive tree not beaten twice; gleanings for the vulnerable
+- ref: Judg 9:8-9
+  rel: imagery
+  note: Olive tree declines kingship for its oil
+- ref: Mic 6:15
+  rel: realia
+  note: Treading olives without anointing with the oil
+- ref: 1Kgs 5:11
+  rel: practice
+  note: Solomon pays Hiram in wheat and fine oil (MT 5:25)
+- ref: Hos 2:8
+  rel: concept
+  note: Grain, wine, and oil given by YHWH, not Baal (MT 2:10)
+- ref: Ps 104:15
+  rel: realia
+  note: Oil to make the face shine
+- ref: Matt 26:36
+  rel: language
+  note: Gethsemane, Aramaic 'oil press'
+related: [ekron, samaria-ostraca, oil-lamps, winepresses, agriculture-and-farming, ekron-royal-dedicatory-inscription]
+media:
+- id: olive-oil-production
+  role: primary
+- id: olive-oil-production-2
+  role: gallery
+external:
+  wikipedia: Olive oil extraction
+  wikidata: Q2641560
+editorial:
+  author_notes:
+  - >-
+    Ekron (Tel Miqne) in the 7th century had more than 100 olive presses, the largest known
+    Iron Age oil centre, flourishing under Assyrian hegemony (Gitin). Its integration into
+    the imperial economy is debated.
+  - >-
+    The Samaria ostraca record deliveries of 'washed' or refined oil (šmn rḥṣ) and wine. They
+    are evidence for administrative collection, though their exact function is disputed.
+  - >-
+    Explain the technology. Olives were crushed in a basin and pressed in a beam press with
+    stone weights, later supplemented by screw presses and the rotary crushing mill in the
+    Hellenistic-Roman period. 'Beaten' oil (kātît) was the highest grade.
+  sources_to_check:
+  - >-
+    Frankel, Wine and Oil Production in Antiquity in Israel and Other Mediterranean Countries
+    (1999)
+  image_query: olive press Ekron
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

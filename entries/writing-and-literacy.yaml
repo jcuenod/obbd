@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: writing-and-literacy
+title: Writing and Literacy in Ancient Israel
+aliases: [Literacy in ancient Israel]
+type: concept
+cultures: [judahite, israelite, hebrew]
+scope: >-
+  The extent and nature of literacy in ancient Israel and Judah, assessed from biblical references
+  to writing and reading and from inscriptions, ostraca and abecedaries. The entry covers
+  the debate between minimalist and maximalist estimates and the distinction between scribal
+  and functional literacy.
+passages:
+- ref: Judg 8:14
+  rel: practice
+  disputed: true
+  note: A young man of Succoth writes down the officials' names; scope debated
+- ref: Deut 6:9; 11:20
+  rel: practice
+  note: Writing on doorposts and gates
+- ref: Deut 17:18-19
+  rel: practice
+  note: The king to write and read a copy of the law
+- ref: Deut 27:2-8
+  rel: practice
+  note: Law written on plastered stones; cf. the Deir ʿAlla plaster text
+- ref: Num 5:23
+  rel: practice
+  note: Curses written in a book and washed into water
+- ref: Isa 8:1
+  rel: practice
+  note: Write on a large tablet in common characters
+- ref: Isa 29:11-12
+  rel: concept
+  note: 'Sealed book: one who can read and one who cannot'
+- ref: Hab 2:2
+  rel: practice
+  note: Write the vision plainly so a runner may read it
+- ref: Job 31:35
+  rel: practice
+  note: '''Here is my signature (tāw)''; written indictment'
+related: [scribes-and-scribal-education, lachish-letters, arad-ostraca, izbet-sartah-abecedary,
+  khirbet-qeiyafa, deir-alla-inscription, paleo-hebrew-script, ostraca]
+media:
+- id: corvee-labor
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    In Lachish letter 3, the officer Hoshayahu protests that no one has ever had to read a
+    letter to him. The letter is central to debates over non-elite literacy.
+  - >-
+    Positions: Rollston (literacy largely confined to trained scribes and elites) versus Millard
+    and others (wider functional literacy). A 2016 computational handwriting study of the
+    Arad ostraca (Faigenbaum-Golovin et al., PNAS) argued for many writers c. 600 BCE, and
+    its method has been debated.
+  - >-
+    Schniedewind (How the Bible Became a Book, 2004) argues for a sharp rise in writing in
+    the 8th and 7th centuries. The epigraphic record supports a late-Iron-Age peak.
+  - >-
+    The 10th-century Khirbet Qeiyafa ostracon is disputed in both language and script and
+    should not be overused.
+  image_query: Tel Zayit abecedary
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

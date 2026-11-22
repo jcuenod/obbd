@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: great-hymn-to-the-aten
+file: great-hymn-to-the-aten.jpg
+title: Great Hymn to the Aten from Ay’s EA25 tomb.jpg
+caption: The Great Hymn to the Aten carved beside the doorway of the tomb of Ay (Amarna tomb
+  25).
+description: >-
+  This is an excellent view of Akhenaten's Great Hymn to the Aten at the Right side doorway
+  of Ay's EA25 South Tomb at Amarna. Ay's tomb is notable for featuring the longest and most
+  detailed surviving copy of the Great Hymn to the Aten, written to the sun-disk deity Aten
+  out of all the Amarna tombs. Ay, who later became pharaoh himself and succeeded Akhenaten's
+  son Tutankhamun to the throne built his first tomb (EA25) at Amarna when he was still a
+  nobleman and held the titles of “God's Father,”, “Overseeer of Horses,” as well as the “Fan
+  Bearer on the Right Hand of the King.” Ay furthermore ser
+creator: Tobeytravels
+credit_line: https://www.flickr.com/photos/tobeyfootsteps/52774854233/
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: Tobeytravels, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Great_Hymn_to_the_Aten_from_Ay%E2%80%99s_EA25_tomb.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/b8/Great_Hymn_to_the_Aten_from_Ay%E2%80%99s_EA25_tomb.jpg
+  sha1: c9ab9d20dd630a815e8045e98371162ac0dfeb5f
+  original_size: [4000, 3000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [great-hymn-to-the-aten]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

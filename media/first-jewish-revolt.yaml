@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: first-jewish-revolt
+file: first-jewish-revolt.jpg
+title: Spoils from Jerusalem - Arch of Titus - Rome 2008.jpg
+caption: >-
+  Relief on the Arch of Titus in Rome showing the spoils of the Jerusalem temple, including
+  the menorah, carried in Titus's triumph.
+description: Imagens de Aparecida
+creator: José Luiz
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: José Luiz, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Spoils_from_Jerusalem_-_Arch_of_Titus_-_Rome_2008.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/41/Spoils_from_Jerusalem_-_Arch_of_Titus_-_Rome_2008.jpg
+  sha1: bc584f1cbe3569cc47e4d4085c24e1e855897bd6
+  original_size: [2048, 1360]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1063 px
+size: [1600, 1063]
+depicts: [first-jewish-revolt]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

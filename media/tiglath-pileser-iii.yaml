@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: tiglath-pileser-iii
+file: tiglath-pileser-iii.jpg
+title: Tilglath pileser iii.jpg
+caption: >-
+  Tiglath-pileser III on a gypsum wall relief from his Central Palace at Nimrud, 8th century
+  BCE (British Museum).
+description: >-
+  Gypsum wall panel relief: the king, Tiglath-Pileser III, wears a long full beard, a moustache,
+  and carefully curled hair. His high crown is decorated with three bands which are ornamented
+  with rosettes. The ornamented ends of the lowest band hang down his back. His garment has
+  a fringed border decorated with rosettes alternating with concentric squares. His earring
+  is of a common type; on his wrist he wears a four-fold bracelet with a many-petalled rosette
+  in the middle. In his raised right hand he holds a staff; his left hand is no longer preserved.
+  The panel contains an inscription. (Descrip
+creator: Unknown artistUnknown artist
+credit_line: See below
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Unknown artistUnknown artist. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tilglath_pileser_iii.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/8/88/Tilglath_pileser_iii.jpg
+  sha1: 1380f4d38ba7b1ea210595f19fe2c66f54920fde
+  original_size: [2328, 2307]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1586 px
+size: [1600, 1586]
+depicts: [tiglath-pileser-iii]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

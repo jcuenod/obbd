@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: yam-suph
+file: yam-suph.jpg
+title: Gulf of Suez from orbit 2007.JPG
+caption: >-
+  The Gulf of Suez (left) and Gulf of Aqaba (right) on either side of the Sinai Peninsula,
+  seen from orbit; both gulfs are called yam sûp in the Bible.
+description: A picture taken from orbit of the Gulf of Suez.
+creator: NASA
+credit_line: >-
+  http://city.jsc.nasa.gov/scripts/sseop/photo.pl?mission=ISS016&roll=E&frame=8810 Levels
+  fixed and cropped in GIMP.
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: NASA. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Gulf_of_Suez_from_orbit_2007.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/8/85/Gulf_of_Suez_from_orbit_2007.JPG
+  sha1: 3de735a75cd6bd5421e66be3ed2b51b5d79d345f
+  original_size: [1596, 1048]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1596, 1048]
+depicts: [yam-suph]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

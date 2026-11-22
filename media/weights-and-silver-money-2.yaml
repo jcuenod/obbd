@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: weights-and-silver-money-2
+file: weights-and-silver-money-2.jpg
+title: Eastern Hacksilber from the Levant 425-420 BCE.jpg
+caption: Hacksilber from the Levant, c. 425–420 BCE.
+description: Eastern Hacksilber from the Levant 425-420 BCE
+creator: CNG
+credit_line: CNG Coins Coin from CNG coins. Used with permission (CNG coin [1]). Coin [2]
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: http://creativecommons.org/licenses/by-sa/3.0/
+attribution: CNG, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Eastern_Hacksilber_from_the_Levant_425-420_BCE.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/c/cf/Eastern_Hacksilber_from_the_Levant_425-420_BCE.jpg
+  sha1: 791b25489f236e6a596b4a1d1f71a37d6f770168
+  original_size: [800, 490]
+  retrieved: '2026-11-20'
+derivative: null
+size: [800, 490]
+depicts: [weights-and-silver-money]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

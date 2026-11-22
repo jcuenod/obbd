@@ -1,0 +1,73 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: stone-vessels-and-mikvaot
+title: Stone Vessels and Ritual Baths (Miqva'ot)
+type: realia
+cultures: [jewish]
+date:
+  from: -150
+  to: 135
+  circa: true
+  display: c. 150 BCE–135 CE
+scope: >-
+  Stepped immersion pools (miqvaʾot) and chalk-stone vessels, the two main archaeological
+  markers of Jewish purity practice in the late Second Temple period. The entry covers their
+  chronology, distribution, and halakhic rationale.
+passages:
+- ref: John 2:6
+  rel: realia
+  note: Six stone water jars 'for the Jewish rites of purification'
+- ref: Mark 7:1-5
+  rel: practice
+  note: Washing of hands, cups, pots, and bronze vessels
+- ref: Matt 23:25-26
+  rel: practice
+  note: Cleaning the outside of the cup and dish
+- ref: John 3:25
+  rel: practice
+  note: Dispute about purification
+- ref: Lev 11:32-33
+  rel: concept
+  note: Defiled earthen vessels must be broken; stone was held not to contract impurity
+- ref: Lev 15:13, 16, 18
+  rel: practice
+  note: Bathing in water after bodily discharges
+related: [purity-and-impurity, pool-of-siloam, pool-of-bethesda, qumran, jewish-sects, synagogues,
+  magdala-stone]
+media:
+- id: stone-vessels-and-mikvaot
+  role: primary
+- id: stone-vessels-and-mikvaot-2
+  role: gallery
+external:
+  wikipedia: Mikveh
+  wikidata: Q211351
+editorial:
+  author_notes:
+  - >-
+    Stone vessels: chalk workshops near Jerusalem (e.g. Ḥizma, Mount Scopus) and in Galilee
+    (Reina, ʿEinot Amitai). Their distribution marks Jewish settlement; the rationale appears
+    later in m. Kelim 10:1 and m. Parah 3:2.
+  - >-
+    Miqvaʾot appear from the late 2nd or early 1st century BCE. Do not read later rabbinic
+    specifications (40 seʾahs, ʾotsar) back into all early pools.
+  - >-
+    John 2:6's 'two or three measures' (metrētai) per jar fits the large lathe-turned stone
+    jars known archaeologically.
+  sources_to_check:
+  - 'J. Magness, Stone and Dung, Oil and Spit: Jewish Daily Life in the Time of Jesus (2011)'
+  - 'Y. Adler, The Origins of Judaism: An Archaeological-Historical Reappraisal (2022)'
+  image_query: Herodian stone vessels Jerusalem
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

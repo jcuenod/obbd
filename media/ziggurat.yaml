@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ziggurat
+file: ziggurat.jpg
+title: Ancient ziggurat at Ali Air Base Iraq 2005.jpg
+caption: >-
+  The restored ziggurat of Ur with its triple stairway, built by Ur-Nammu in the late 3rd
+  millennium BCE.
+description: Ancient ziggurat at Ali Air Base Iraq
+creator: en:User:Hardnfast
+credit_line: 'en-WP: http://en.wikipedia.org/wiki/Image:Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg'
+license:
+  id: CC-BY-3.0
+  name: CC BY 3.0
+  url: https://creativecommons.org/licenses/by/3.0
+attribution: en:User:Hardnfast, CC BY 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/93/Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg
+  sha1: 0d28db261f2a8f9f33127d4d8b1083ef6632578c
+  original_size: [2576, 1932]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [ziggurat]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

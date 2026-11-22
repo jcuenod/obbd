@@ -1,0 +1,72 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: bozrah
+title: Bozrah (Buseirah)
+aliases: [Buseirah, Busayra]
+type: site
+cultures: [edomite]
+scope: >-
+  The Edomite capital at Buseirah in southern Jordan, a major centre in the eighth to sixth
+  centuries BCE. Covers its acropolis buildings, its relation to Assyrian hegemony, and its
+  role in prophetic oracles against Edom. Bostra in Syria is a different place.
+passages:
+- ref: Gen 36:33
+  rel: setting
+  note: Jobab son of Zerah of Bozrah, king of Edom
+- ref: Isa 34:6
+  rel: setting
+  note: YHWH's sacrifice in Bozrah, slaughter in Edom
+- ref: Isa 63:1
+  rel: imagery
+  note: The divine warrior comes from Bozrah in crimsoned garments
+- ref: Jer 49:13, 22
+  rel: setting
+  note: Bozrah to become a horror and a desolation
+- ref: Amos 1:12
+  rel: setting
+  note: Fire on Teman to devour Bozrah's strongholds
+related: [edomites, qos, faynan, petra-and-sela, assyria, divine-warrior]
+media:
+- id: bozrah
+  role: primary
+- id: bozrah-2
+  role: gallery
+external:
+  wikipedia: Busaira, Jordan
+  wikidata: Q4952895
+editorial:
+  author_notes:
+  - >-
+    Crystal Bennett's excavations (1971-80) uncovered monumental acropolis buildings of the
+    eighth or seventh to sixth centuries BCE in Assyrian-influenced style. Little earlier
+    material was found.
+  - >-
+    Edomite kings (Qaus-malaka, Qaus-gabri) appear in Assyrian sources as vassals. Bozrah's
+    floruit fits this period, which supports dating the prophetic references to it.
+  - >-
+    The 'kings of Edom' list in Gen 36 raises questions of dating against the late flourishing
+    of Bozrah. Link to faynan for the early-Edom debate.
+  sources_to_check:
+  - Bienkowski (ed.), Busayra - Excavations by Crystal-M. Bennett 1971-1980 (2002)
+  image_query: Buseirah Jordan excavations
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates from Wikidata Q4952895 (verify).
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 30.74584
+  lon: 35.60392
+  source: wikidata:Q4952895

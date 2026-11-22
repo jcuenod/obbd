@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: mummification-2
+file: mummification-2.jpg
+title: Ramses I Mummy.jpg
+caption: The mummy attributed to Ramesses I (Luxor Museum).
+description: >-
+  Photograph of Ramses I's mummy taken at the Luxor Museum in Luxor Museum, Egypt. July 2016.
+  Taken with a Panasonic camera.
+creator: Alyssa Bivins
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Alyssa Bivins, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ramses_I_Mummy.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/7/72/Ramses_I_Mummy.jpg
+  sha1: 2f1ee48b3d4d37089fe7b9f4f0eac50b423ce420
+  original_size: [4000, 3000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [mummification]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

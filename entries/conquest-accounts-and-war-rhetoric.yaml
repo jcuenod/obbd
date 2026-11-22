@@ -1,0 +1,73 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: conquest-accounts-and-war-rhetoric
+title: Conquest Accounts and ANE War Rhetoric
+aliases: [Conquest accounts]
+type: concept
+cultures: [assyrian, egyptian, moabite, hittite]
+scope: >-
+  The conventions of ancient Near Eastern military reports (stereotyped formulae, hyperbole,
+  totalizing claims, divine intervention) and their bearing on the conquest narratives of
+  Joshua and related texts. The historical and archaeological question of Israel's origins
+  is covered in a separate entry.
+passages:
+- ref: Josh 10:11
+  rel: parallel
+  note: Hailstones from heaven as divine weapons in battle
+- ref: Josh 10:12-14
+  rel: parallel
+  disputed: true
+  note: Sun and moon stand still; celestial-omen interpretations debated
+- ref: Josh 10:28-43
+  rel: form
+  note: 'Stereotyped summary: took, struck with the sword, left no survivor'
+- ref: Josh 11:16-23
+  rel: form
+  note: Totalizing summary of the conquest
+- ref: Josh 13:1-7
+  rel: concept
+  note: '''Very much of the land still remains to be possessed'''
+- ref: Josh 21:43-45
+  rel: form
+  note: Complete conquest and rest from enemies
+- ref: Judg 1:1-36
+  rel: concept
+  note: List of unconquered cities in tension with Joshua's summaries
+- ref: Exod 14:13-14
+  rel: concept
+  note: '''YHWH will fight for you'': the deity as main combatant'
+- ref: Deut 20:1-20
+  rel: practice
+  note: Deuteronomic laws of warfare
+related: [herem, mesha-stele, merneptah-stele, sennacherib-annals, emergence-of-israel, divine-warrior,
+  treatment-of-captives, kadesh-battle-reliefs]
+media:
+- id: conquest-accounts-and-war-rhetoric
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    K. L. Younger, Ancient Conquest Accounts (JSOTSup 98, 1990), shows that Joshua's syntagms
+    and hyperbole match Assyrian, Hittite and Egyptian reports. Examples: Merneptah's 'Israel
+    is laid waste, his seed is not' and Mesha's 'Israel has utterly perished forever'.
+  - >-
+    The rhetorical comparison does not by itself settle historical or ethical questions. Do
+    not use it to dismiss the texts' violence or to defend their historicity.
+  - >-
+    Archaeological consensus (Jericho, Ai) does not support a large-scale 13th-century military
+    conquest. Refer to the emergence-of-israel entry and do not argue the case here.
+  image_query: Merneptah Stele
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

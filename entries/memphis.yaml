@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: memphis
+title: Memphis (Noph)
+aliases: [Noph, Moph, Men-nefer, Mit Rahina]
+type: site
+cultures: [egyptian]
+scope: >-
+  Memphis (Egyptian Mn-nfr; Hebrew Nōp/Mōp), at the apex of the Delta near modern Mit Rahina.
+  It was Egypt's principal administrative capital through much of its history and the cult
+  centre of Ptah. The entry covers its prominence in prophetic oracles and its Judean diaspora
+  community.
+passages:
+- ref: Isa 19:13
+  rel: attests
+  note: The princes of Memphis deluded
+- ref: Jer 2:16
+  rel: attests
+  note: The people of Memphis and Tahpanhes have broken (or shaved) the crown of Judah's head
+- ref: Jer 44:1
+  rel: attests
+  note: Judeans living in Memphis, Migdol, Tahpanhes, and Pathros
+- ref: Jer 46:14, 19
+  rel: attests
+  note: Memphis to become a waste
+- ref: Hos 9:6
+  rel: attests
+  note: Memphis (Mōp) will bury them
+- ref: Ezek 30:13, 16
+  rel: polemic
+  note: Idols and images of Memphis destroyed
+related: [shabaka-stone, thebes, tanis, apries, elephantine, esarhaddon, cult-images]
+media:
+- id: memphis
+  role: primary
+external:
+  wikipedia: Memphis, Egypt
+  wikidata: Q5715
+  pleiades: '736963'
+editorial:
+  author_notes:
+  - Hebrew nōp and the Hosean variant mōp derive from Mn-nfr. Note the variation.
+  - >-
+    Esarhaddon captured Memphis in 671. The city was later a Persian administrative centre
+    with Carian, Phoenician, and Judean residents.
+  - Point to the Memphite Theology (Shabaka Stone) for Ptah theology.
+  image_query: Memphis Mit Rahina Ramesses II colossus
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Jer 2:16 note corrected to match Hebrew (broken/shaved
+    crown)
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q5715 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 29.84467
+  lon: 31.25092
+  source: wikidata:Q5715

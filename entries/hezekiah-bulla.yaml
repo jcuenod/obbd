@@ -1,0 +1,66 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: hezekiah-bulla
+title: Bulla of Hezekiah
+type: artifact
+cultures: [judahite]
+date:
+  from: -727
+  to: -698
+  circa: true
+  display: c. 727–698 BCE
+scope: >-
+  A clay seal impression reading 'Belonging to Hezekiah [son of] Ahaz, king of Judah', with
+  a two-winged sun disk flanked by ankh signs. It was found in 2009 in the Ophel excavations
+  in Jerusalem and published in 2015. It is the first impression of a Judahite king's seal
+  from a controlled excavation.
+passages:
+- ref: 2Kgs 18:1
+  rel: attests
+  note: Hezekiah son of Ahaz, king of Judah
+- ref: 1Kgs 21:8
+  rel: practice
+  note: Royal seal used to authenticate documents
+- ref: Mal 4:2
+  rel: imagery
+  note: '''Sun of righteousness'' with healing in its wings (MT 3:20)'
+- ref: Ps 84:11
+  rel: imagery
+  note: YHWH as sun and shield (MT 84:12)
+related: [hezekiah, winged-sun-disk, seals-and-bullae, ahaz, lmlk-seal-impressions, jerusalem,
+  forgeries-in-biblical-archaeology]
+media:
+- id: ahaz
+  role: gallery
+external:
+  wikipedia: King Hezekiah bulla
+  wikidata: Q55616034
+editorial:
+  author_notes:
+  - >-
+    Emphasise provenance. Similar Hezekiah bullae with a winged scarab, and an Ahaz bulla,
+    are known from the antiquities market. Their authenticity cannot be checked in the same
+    way.
+  - >-
+    The change from the winged scarab (on unprovenanced bullae and lmlk handles) to the winged
+    sun disk is relevant to debates about royal iconography and its possible Assyrianising
+    or Egyptianising character.
+  - >-
+    A bulla found nearby (published 2018) reads Yeshaʿyahu followed by nbʾ[...]. 'Isaiah the
+    prophet' is one possible reading. It is debated, and should be treated separately and
+    cautiously.
+  sources_to_check: ['Deutsch, Messages from the Past (1999)']
+  image_query: King Hezekiah bulla Ophel
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

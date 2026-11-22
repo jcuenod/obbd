@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ane-wisdom-literature
+file: ane-wisdom-literature.jpg
+title: Papyrus with the Instruction of Amenemope.jpg
+caption: >-
+  Papyrus with the Instruction of Amenemope, copied by the scribe Senu, Third Intermediate
+  Period (British Museum, London).
+description: >-
+  Papyrus with the Instruction of Amenemope, copied by the scribe Senu, son of Pemu. The papyrus
+  dates to the Third Intermediate Period (1077-664 BC). It was discovered at Thebes, and was
+  purchased by the British Museum through Wallis Budge in 1888.
+creator: Senu, son of Pemu
+credit_line: https://www.britishmuseum.org/collection/image/1613226425
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Senu, son of Pemu. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Papyrus_with_the_Instruction_of_Amenemope.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/77/Papyrus_with_the_Instruction_of_Amenemope.jpg
+  sha1: 2b0b19d009a6ebf1c5f90eef65cae0b9578bb131
+  original_size: [2196, 1068]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×778 px
+size: [1600, 778]
+depicts: [ane-wisdom-literature, instruction-of-amenemope]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

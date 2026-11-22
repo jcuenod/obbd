@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: hezekiahs-tunnel
+file: hezekiahs-tunnel.jpg
+title: Siloam22.jpg
+caption: The rock-cut channel of Hezekiah's Tunnel under the City of David, Jerusalem.
+description: Hezekiah's Tunnel נקבת השילוח
+creator: Tamar Hayardeni תמר הירדני
+credit_line: My own work יצרתי בעצמי
+license:
+  id: CC-BY-3.0
+  name: CC BY 3.0
+  url: https://creativecommons.org/licenses/by/3.0
+attribution: Tamar Hayardeni תמר הירדני, CC BY 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Siloam22.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/5/58/Siloam22.jpg
+  sha1: 3b658f4914ac2aebbe9373309769d4025ad378b3
+  original_size: [675, 900]
+  retrieved: '2026-11-20'
+derivative: null
+size: [675, 900]
+depicts: [hezekiahs-tunnel]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: eloquent-peasant
+file: eloquent-peasant.jpg
+title: Papyrus Berlin 10499 (recto).jpg
+caption: >-
+  Papyrus Berlin 10499 (Papyrus Ramesseum A), a Middle Kingdom hieratic manuscript containing
+  the Eloquent Peasant and the Story of Sinuhe.
+description: null
+creator: Unknown authorUnknown author
+credit_line: 'SMB-digital : Bild'
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Unknown authorUnknown author, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Papyrus_Berlin_10499_(recto).jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/2/22/Papyrus_Berlin_10499_%28recto%29.jpg
+  sha1: 2cc6ce23db965195d8063d61c6c25f1f9dcf4861
+  original_size: [4000, 519]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×208 px
+size: [1600, 208]
+depicts: [eloquent-peasant]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

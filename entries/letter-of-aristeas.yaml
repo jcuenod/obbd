@@ -1,0 +1,76 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: letter-of-aristeas
+title: Letter of Aristeas
+aliases: [Pseudo-Aristeas, Aristeas to Philocrates]
+type: text
+cultures: [jewish, greek]
+date:
+  from: -200
+  to: -100
+  circa: true
+  display: c. 200–100 BCE
+scope: >-
+  A Greek Jewish work presented as a letter by a courtier of Ptolemy II Philadelphus. It narrates
+  the translation of the Jewish Law into Greek by seventy-two Jerusalem elders, with a description
+  of Jerusalem and its temple, an apologetic account of the food laws, and a symposium.
+passages:
+- ref: Neh 8:1-8
+  rel: parallel
+  note: >-
+    Public reading and acceptance of the Law, a model for the translation's reception (Arist.
+    308-311)
+- ref: Exod 24:7
+  rel: parallel
+  note: People's assent to the book of the covenant
+- ref: Deut 4:2
+  rel: concept
+  note: No adding or subtracting; curse on altering the translation (Arist. 311)
+- ref: Lev 11:1-47
+  rel: practice
+  note: Allegorical defence of the food laws (Arist. 128-171)
+- ref: Exod 25:23-30
+  rel: realia
+  note: Ptolemy's gift of a table for the temple (Arist. 51-82)
+- ref: Exod 28:2-43
+  rel: realia
+  note: The high priest Eleazar's vestments described (Arist. 96-99)
+related: [septuagint, josephus, purity-and-impurity, pig-avoidance, jerusalem]
+media:
+- id: letter-of-aristeas
+  role: primary
+- id: letter-of-aristeas-2
+  role: gallery
+external:
+  wikipedia: Letter of Aristeas
+  wikidata: Q615046
+editorial:
+  author_notes:
+  - >-
+    Pseudepigraphic. Most scholars date it c. 150-100 BCE; some argue earlier. It shows anachronisms
+    (e.g. Demetrius of Phalerum's role).
+  - >-
+    Distinguish the legend (72 translators in 72 days; later the miraculous agreement in Philo,
+    Mos. 2.25-44) from the probable historical kernel: a 3rd-century Alexandrian translation
+    of the Pentateuch.
+  - >-
+    Josephus paraphrases much of it (Ant. 12.11-118). Present debates on its purpose (apologetic,
+    defence of the translation's authority against revisions).
+  sources_to_check:
+  - B. G. Wright III, The Letter of Aristeas (CEJL, 2015)
+  - >-
+    R. J. H. Shutt, 'Letter of Aristeas', in J. H. Charlesworth (ed.), The Old Testament Pseudepigrapha,
+    vol. 2 (1985)
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-1-sol

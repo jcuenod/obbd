@@ -1,0 +1,69 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: omri
+title: Omri
+type: person
+cultures: [israelite]
+date:
+  from: -882
+  to: -871
+  circa: true
+  display: c. 882–871 BCE
+scope: >-
+  Omri, king of Israel and founder of the Omride dynasty, considered in the light of extrabiblical
+  evidence. Kings treats his reign briefly, but the Mesha Stele names him as the conqueror
+  of Moab, and Assyrian scribes called Israel 'the House of Omri' (Bīt-Ḫumri) for over a century.
+passages:
+- ref: 1Kgs 16:15-28
+  rel: attests
+  note: Omri's rise from army commander, civil war with Tibni, and reign
+- ref: 1Kgs 16:24
+  rel: setting
+  note: Omri buys the hill of Samaria and founds his capital
+- ref: 2Kgs 3:4-5
+  rel: event
+  note: Moab tributary to Israel, as the Mesha Stele says Omri subdued it
+- ref: 2Kgs 8:26
+  rel: attests
+  note: Athaliah, 'daughter' (granddaughter) of Omri, links the dynasty to Judah
+- ref: Mic 6:16
+  rel: attests
+  note: '''The statutes of Omri'' as a byword for apostasy'
+related: [mesha-stele, samaria, ahab, jezebel, jehu, black-obelisk, tirzah, chronology-of-kings]
+media:
+- id: omri
+  role: primary
+- id: jehu
+  role: gallery
+external:
+  wikipedia: Omri
+  wikidata: Q313221
+editorial:
+  author_notes:
+  - >-
+    Contrast the Deuteronomistic brevity (a few verses, judged evil) with Omri's international
+    standing in Moabite and Assyrian sources.
+  - >-
+    Assyrian usage of 'House of Omri' even for Jehu ('son of Omri' on the Black Obelisk) reflects
+    how the dynastic name stood for the state, not genealogy.
+  - >-
+    Discuss the archaeology of the Omride building programme (Samaria, Jezreel; possibly Megiddo
+    and Hazor). Finkelstein's low chronology re-dates some 'Solomonic' structures to the Omrides.
+  - >-
+    Regnal dates follow Tadmor/Cogan (c. 882-871). Thiele has 885-874. The overlap with Tibni
+    (1 Kgs 16:21-23) complicates the twelve-year total.
+  sources_to_check: [KAI 181, 'Cogan, I Kings (AB 10, 2001)']
+  image_query: Mesha Stele Louvre
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

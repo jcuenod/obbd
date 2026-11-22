@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: tell-qasile-ostracon
+file: tell-qasile-ostracon.jpg
+title: Qassila 115.jpg
+caption: >-
+  The first two Hebrew ostraca found at Tell Qasile, including the 'Gold of Ophir' ostracon,
+  on exhibition in Tel Aviv.
+description: תל קסילה שני החרסים הראשונים שנמצאו בתל בתערוכת 20,000 שנות ניסטוריה לתל אביב
+creator: Ori~
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Ori~, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Qassila_115.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/0/02/Qassila_115.jpg
+  sha1: 2b1c6aa1a86ea475106097b6ea956cb51120d378
+  original_size: [1638, 594]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×580 px
+size: [1600, 580]
+depicts: [tell-qasile-ostracon]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

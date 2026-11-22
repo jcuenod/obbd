@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: chaoskampf
+file: chaoskampf.png
+title: Chaos Monster and Sun God.png
+caption: >-
+  A god armed with thunderbolts pursuing a winged monster, 19th-century engraving of a relief
+  from Nimrud, published in A. H. Layard's Monuments of Nineveh, Second Series (1853).
+description: "Black and white crop of full engraving plate scan - from Plate 5 of the work\
+  \ \"A second series of the monuments of Nineveh: including bas-reliefs from the Palace of\
+  \ Sennacherib and bronzes from the ruins of Nimroud ; from drawings made on the spot, during\
+  \ a second expedition to Assyria\" (AH Layard). The image depicts Ninurta (on the right)\
+  \ battling Anzû. The description given in the text of the work of the plate reads: PLATE\
+  \ V BAS-RELIEFS AT AN ENTRANCE TO A SMALL TEMPLE (NIMROUD) Part of one side of the entrance\
+  \ near which stood the bas-relief of the King last described. The group is believed "
+creator: editor Austen Henry Layard , drawing by L. Gruner
+credit_line: '''Monuments of Nineveh, Second Series'' plate 5, London, J. Murray, 1853'
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: editor Austen Henry Layard , drawing by L. Gruner. Public domain, via Wikimedia
+  Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Chaos_Monster_and_Sun_God.png
+  original_url: https://upload.wikimedia.org/wikipedia/commons/c/c3/Chaos_Monster_and_Sun_God.png
+  sha1: 5e4d2a68abfe86ec30cd6d314e83108d2a396fcc
+  original_size: [2012, 1484]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1180 px
+size: [1600, 1180]
+depicts: [chaoskampf]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

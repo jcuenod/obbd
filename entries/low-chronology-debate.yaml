@@ -1,0 +1,80 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: low-chronology-debate
+title: The Tenth-Century Debate (High and Low Chronology)
+aliases: [Low Chronology, United Monarchy debate, Tenth-century debate]
+type: concept
+cultures: [israelite, judahite]
+scope: >-
+  The debate over the dating of Iron I-IIA strata in the southern Levant and its consequences
+  for the historicity and scale of the united monarchy of David and Solomon. Covers Yadin's
+  'Solomonic' synthesis, Finkelstein's Low Chronology, Mazar's Modified Conventional Chronology,
+  and the role of radiocarbon dating.
+passages:
+- ref: 1Kgs 9:15-19
+  rel: attests
+  disputed: true
+  note: Solomon's building at Jerusalem, Hazor, Megiddo, and Gezer
+- ref: 1Kgs 4:7-19
+  rel: setting
+  disputed: true
+  note: Solomon's twelve administrative districts
+- ref: 1Kgs 10:14-29
+  rel: concept
+  note: Portrait of Solomon's wealth and trade
+- ref: 2Sam 5:6-12
+  rel: event
+  disputed: true
+  note: David takes Jerusalem; Hiram builds his house
+- ref: 2Sam 8:1-14
+  rel: event
+  disputed: true
+  note: David's conquests and garrisons
+- ref: 1Kgs 14:25-26
+  rel: event
+  note: Shishak's campaign, used to anchor 10th-century destruction layers
+- ref: 1Sam 17:1-2
+  rel: setting
+  note: Valley of Elah, setting near Khirbet Qeiyafa
+related: [solomon, david, khirbet-qeiyafa, megiddo, hazor, gezer, city-gates, bubastite-portal]
+media:
+- id: low-chronology-debate
+  role: primary
+external:
+  wikipedia: Kingdom of Israel (united monarchy)
+  wikidata: Q3185305
+editorial:
+  author_notes:
+  - >-
+    Yadin assigned Megiddo VA-IVB, Hazor X, and Gezer VIII to Solomon on the basis of 1 Kgs
+    9:15. Finkelstein's Low Chronology (1996) lowers the Iron I/IIA transition by about 75-100
+    years and attributes these strata to the 9th-century Omrides. Mazar's Modified Conventional
+    Chronology has Iron IIA spanning about 980-840.
+  - >-
+    Radiocarbon programmes (Tel Reḥov, Megiddo, Khirbet Qeiyafa, Faynan) have narrowed the
+    gap. The debate now concerns decades and the interpretation of social complexity, not
+    centuries.
+  - >-
+    Contested finds include Khirbet Qeiyafa (Judahite fortress under David per Garfinkel,
+    or a non-Judahite or Saulide site) and the Large Stone Structure and Stepped Stone Structure
+    in Jerusalem ('David's palace' per E. Mazar).
+  - >-
+    The Shishak (Shoshenq I) campaign list, with the problem of linking specific destructions
+    to it, is central.
+  sources_to_check:
+  - Finkelstein and Mazar, The Quest for the Historical Israel (2007)
+  - Levy and Higham (eds.), The Bible and Radiocarbon Dating (2005)
+  image_query: Khirbet Qeiyafa
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

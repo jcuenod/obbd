@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: hebron
+file: hebron.jpg
+title: Cave of the Patriarchs, Hebron 2007.jpg
+caption: The Herodian enclosure over the Cave of Machpelah (Cave of the Patriarchs), Hebron.
+description: Hebron.
+creator: eman
+credit_line: Own work
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: eman. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cave_of_the_Patriarchs,_Hebron_2007.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/e/eb/Cave_of_the_Patriarchs%2C_Hebron_2007.jpg
+  sha1: a7e14df50d2b9281b3cfaa328f1ee9c83abd31ac
+  original_size: [1281, 959]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1281, 959]
+depicts: [hebron]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

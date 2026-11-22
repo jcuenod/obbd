@@ -1,0 +1,75 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: samaria-papyri
+title: Samaria Papyri (Wadi Daliyeh)
+aliases: [Wadi Daliyeh papyri]
+type: text
+cultures: [persian, hebrew]
+date:
+  from: -375
+  to: -335
+  circa: true
+  display: c. 375–335 BCE
+scope: >-
+  Fourth-century BCE Aramaic legal papyri (mostly slave-sale deeds) and sealings from Samaria,
+  found in 1962 in a cave in Wadi ed-Daliyeh with the remains of refugees. The refugees probably
+  fled Alexander's reprisals of 332/331 BCE. The papyri attest governors of Samaria from the
+  house of Sanballat.
+passages:
+- ref: Neh 2:10, 19
+  rel: attests
+  note: A later governor named as 'son of Sanballat', on a bulla and in a deed
+- ref: Neh 13:28
+  rel: setting
+  note: Sanballat's family as a continuing ruling house in Samaria
+- ref: 2Kgs 17:24-41
+  rel: setting
+  note: Mostly Yahwistic personal names in 4th-century Samaria; bears on the polemical portrait
+- ref: Lev 25:44-46
+  rel: practice
+  note: Chattel slavery and slave sales among Samarians
+- ref: Jer 32:9-14
+  rel: practice
+  note: Sealed legal deeds with bullae
+related: [sanballat, samaritan-origins, samaria, mount-gerizim, sealed-deeds, slavery, seals-and-bullae]
+media:
+- id: samaria-papyri
+  role: primary
+external:
+  wikipedia: Wadi Daliyeh
+  wikidata: Q7959212
+editorial:
+  author_notes:
+  - >-
+    Present F. M. Cross's papponymy reconstruction (Sanballat I-III), which links the papyri
+    to Josephus, Ant. 11.302-347. Note J. Dušek's critique, which removes the need for a Sanballat
+    III.
+  - >-
+    The latest dated deed is from 335 BCE. The connection with Alexander and Samaria's revolt
+    (Curtius Rufus 4.8.9-11) is an inference from the cave context.
+  - >-
+    Use the onomastics (Yahwistic, Aramaic, and other names) cautiously in Samaritan-origins
+    discussions.
+  sources_to_check:
+  - >-
+    D. M. Gropp et al., Wadi Daliyeh II: The Samaria Papyri from Wadi Daliyeh (DJD XXVIII,
+    2001)
+  - 'M. J. W. Leith, Wadi Daliyeh I: The Wadi Daliyeh Seal Impressions (DJD XXIV, 1997)'
+  - P. W. Lapp and N. L. Lapp (eds.), Discoveries in the Wâdī ed-Dâliyeh (AASOR 41, 1974)
+  - >-
+    J. Dušek, Les manuscrits araméens du Wadi Daliyeh et la Samarie vers 450-332 av. J.-C.
+    (2007)
+  image_query: Wadi Daliyeh papyrus Samaria
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

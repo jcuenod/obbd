@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: first-enoch-2
+file: first-enoch-2.jpg
+title: P. Chester Beatty XII, leaf 3, verso.jpg
+caption: >-
+  Leaf of the Greek Chester Beatty–Michigan papyrus containing part of the Epistle of Enoch.
+description: >-
+  The back side of P.Mich.inv. 5552, showing portions of the Book of Enoch in Greek. This
+  manuscript is part of the Chester Beatty Papyri, & is the 3rd leaf of the surviving manuscript,
+  which also contained an unknown Christian homily attributed to Melito of Sardis. Most likely
+  originated in Egypt. Currently housed in:
+creator: Unknown authorUnknown author
+credit_line: University of Michigan, Ann Arbor Library
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Unknown authorUnknown author. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:P._Chester_Beatty_XII,_leaf_3,_verso.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/7c/P._Chester_Beatty_XII%2C_leaf_3%2C_verso.jpg
+  sha1: eae73ddbc6ae922dd317f84137d6620ddc25dc15
+  original_size: [3735, 5976]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1000×1600 px
+size: [1000, 1600]
+depicts: [first-enoch]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

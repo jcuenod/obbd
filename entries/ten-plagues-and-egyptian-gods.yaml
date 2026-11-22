@@ -1,0 +1,80 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ten-plagues-and-egyptian-gods
+title: The Plagues and the Gods of Egypt
+aliases: [Plagues of Egypt]
+type: concept
+cultures: [egyptian, hebrew]
+scope: >-
+  The biblical claim that the exodus plagues were YHWH's "judgments on all the gods of Egypt"
+  (Exod 12:12; Num 33:4), and modern attempts to correlate individual plagues with particular
+  Egyptian deities or natural phenomena. The entry assesses what Egyptian evidence can and
+  cannot support.
+passages:
+- ref: Exod 12:12
+  rel: polemic
+  note: YHWH will execute judgments on all the gods of Egypt
+- ref: Num 33:4
+  rel: polemic
+  note: YHWH executed judgments on their gods
+- ref: Exod 7:8-13
+  rel: polemic
+  note: Aaron's staff-serpent swallows the magicians' staffs
+- ref: Exod 8:18-19
+  rel: polemic
+  note: 'Magicians fail: ''This is the finger of God''; MT 8:14-15'
+- ref: Exod 7:14-24
+  rel: polemic
+  disputed: true
+  note: Nile turned to blood, read as an affront to the deified inundation (Hapi)
+- ref: Exod 10:21-23
+  rel: polemic
+  disputed: true
+  note: Darkness over Egypt, read as defeat of the sun god Re
+- ref: Isa 19:1
+  rel: polemic
+  note: The idols of Egypt tremble before YHWH
+- ref: Jer 46:25
+  rel: polemic
+  note: Punishment on Amon of Thebes, pharaoh, and Egypt's gods
+related: [exodus-historical-questions, egyptian-kingship, hardening-of-the-heart, admonitions-of-ipuwer,
+  nile, divine-warrior, mighty-hand-outstretched-arm, thebes]
+media: []
+external:
+  wikipedia: Plagues of Egypt
+  wikidata: Q184569
+editorial:
+  author_notes:
+  - >-
+    The text itself makes the polemic claim only in general terms (Exod 12:12; Num 33:4) and
+    in the contest with the magicians. The popular one-to-one schema (frogs = Heqet, cattle
+    = Apis or Hathor, darkness = Re, and so on) is a homiletic construct. Several of its identifications
+    rest on minor or misdescribed deities. Present it as such.
+  - >-
+    Naturalistic sequences explaining the plagues (Hort's algal-bloom chain; the Thera eruption)
+    and the Ipuwer correlation are speculative or rejected. Mention them as popular explanations,
+    not scholarly consensus.
+  - >-
+    Source criticism finds interwoven J and P plague cycles, and Pss 78:43-51 and 105:27-36
+    give different lists and orders. These literary questions matter for any "historical"
+    correlation.
+  - >-
+    Contest-of-magicians scenes fit Egyptian literary tradition (e.g., the Westcar tales of
+    lector-priests). This is a firmer Egyptian background than the deity schema.
+  sources_to_check:
+  - Hoffmeier, Israel in Egypt (1997)
+  - Propp, Exodus 1-18 (Anchor Bible 2, 1999)
+  - Currid, Ancient Egypt and the Old Testament (1997)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

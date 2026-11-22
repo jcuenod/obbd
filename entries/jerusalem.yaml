@@ -1,0 +1,101 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: jerusalem
+title: Jerusalem
+aliases: [Urusalim, Salem, Zion, Aelia Capitolina]
+type: site
+cultures: [judahite, canaanite, jewish]
+scope: >-
+  The city of Jerusalem from its Bronze Age beginnings to the Roman period, treated as an
+  archaeological site and as the political and cultic centre of Judah. Detailed treatment
+  of the southeastern ridge, the temple platform and the water systems is left to the entries
+  on the City of David, the Temple Mount and Hezekiah's Tunnel.
+passages:
+- ref: Gen 14:18
+  rel: setting
+  disputed: true
+  note: Melchizedek king of Salem, traditionally Jerusalem (cf. Ps 76:2 [MT 76:3])
+- ref: Josh 10:1-5
+  rel: setting
+  note: Adoni-zedek of Jerusalem leads the southern coalition
+- ref: Josh 15:63
+  rel: setting
+  note: Jebusites of Jerusalem not dispossessed
+- ref: 2Sam 5:6-10
+  rel: setting
+  note: David takes the stronghold of Zion and makes it his capital
+- ref: 1Kgs 6-8
+  rel: setting
+  note: Solomon's temple and palace complex
+- ref: Isa 22:9-11
+  rel: attests
+  note: Houses torn down to fortify the wall; cf. the 'Broad Wall' on the Western Hill
+- ref: 2Kgs 18:13-19:37
+  rel: setting
+  note: Jerusalem besieged but not taken by Sennacherib (701 BCE)
+- ref: 2Kgs 25:8-10
+  rel: attests
+  note: Babylonian burning of the city; 586 destruction layers across the City of David
+- ref: Neh 2:11-3:32
+  rel: setting
+  note: Nehemiah's inspection and rebuilding of the walls
+- ref: Ps 48
+  rel: concept
+  note: Zion as the inviolable city of God
+related: [city-of-david, temple-mount, hezekiahs-tunnel, amarna-letters, sennacherib-campaign-701,
+  fall-of-jerusalem-587, herods-temple, yehud-province]
+media:
+- id: jerusalem
+  role: primary
+- id: jerusalem-2
+  role: gallery
+external:
+  wikipedia: Jerusalem
+  wikidata: Q1218
+  pleiades: '687928'
+editorial:
+  author_notes:
+  - >-
+    The Amarna letters of Abdi-Heba of Urusalim (EA 285-290; verify range) show a Late Bronze
+    city-state, though architecture of that period is scarce on the ground. The Execration
+    Texts may name the city earlier (reading debated).
+  - >-
+    The size and status of tenth-century Jerusalem is one of the sharpest debates in the field
+    (E. Mazar and others vs. Finkelstein and the low chronology). Present the evidence and
+    both readings; do not treat either as settled.
+  - >-
+    The late eighth-century expansion onto the Western Hill (Avigad's Broad Wall) is widely
+    linked to population influx after 722 and to Hezekiah's preparations. Population estimates
+    vary widely.
+  - >-
+    Keep this entry a synthesis; detailed stratigraphy belongs in city-of-david, temple-mount
+    and herods-temple. Note the political sensitivity of excavation in East Jerusalem neutrally.
+  sources_to_check: [NEAEHL, 'Moran, The Amarna Letters (1992)']
+  image_query: Jerusalem Old City from Mount of Olives
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: 2Kgs 25:8-17 narrowed to 25:8-10 (burning of the
+    city)
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q1218 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 31.77668
+  lon: 35.23416
+  source: wikidata:Q1218

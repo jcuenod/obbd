@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: honey-and-beekeeping
+file: honey-and-beekeeping.jpg
+title: Gathering Honey, Tomb of Rekhmire MET 30.4.88 EGDP013036.jpg
+caption: >-
+  Modern facsimile of a scene of gathering honey from hives, tomb of Rekhmire (TT 100), Thebes,
+  15th century BCE (Metropolitan Museum of Art, New York).
+description: Facsimile, Rekhmire (TT 100), beekeeping
+creator: Nina M. Davies
+credit_line: >-
+  This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum
+  of Art. See the Image and Data Resources Open Access Policy
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Nina M. Davies. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Gathering_Honey,_Tomb_of_Rekhmire_MET_30.4.88_EGDP013036.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/21/Gathering_Honey%2C_Tomb_of_Rekhmire_MET_30.4.88_EGDP013036.jpg
+  sha1: 2e6105f75a0e42e7c9163a0a0184cddc702bd04b
+  original_size: [2000, 1547]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1238 px
+size: [1600, 1238]
+depicts: [honey-and-beekeeping]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

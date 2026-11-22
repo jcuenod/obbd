@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: babylonian-map-of-the-world
+file: babylonian-map-of-the-world.jpg
+title: Map of the World from Sippar, Iraq, 6th century BCE. British Museum.jpg
+caption: >-
+  The Babylonian Map of the World, clay tablet, probably from Sippar, 6th century BCE (British
+  Museum, London).
+description: >-
+  Map of the World from Sippar (Tell Abu Habba), Iraq, 6th century BCE. On display at the
+  British Museum in London.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Map_of_the_World_from_Sippar,_Iraq,_6th_century_BCE._British_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/1b/Map_of_the_World_from_Sippar%2C_Iraq%2C_6th_century_BCE._British_Museum.jpg
+  sha1: 3d81cf107431771c9248472a060cb3e0bd7aae11
+  original_size: [3562, 3870]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1473×1600 px
+size: [1473, 1600]
+depicts: [babylonian-map-of-the-world]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

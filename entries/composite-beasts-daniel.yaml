@@ -1,0 +1,65 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: composite-beasts-daniel
+title: Composite Beasts in Daniel and Mesopotamian Iconography
+type: concept
+cultures: [jewish, mesopotamian]
+scope: >-
+  The hybrid creatures of Daniel's visions (winged lion, bear, four-headed leopard, iron-toothed
+  beast, ram, and goat) and their possible backgrounds. The entry covers Mesopotamian composite
+  iconography, anomalous-birth omens (Šumma izbu), astral geography, and West Semitic sea-chaos
+  myth.
+passages:
+- ref: Dan 7:2-8
+  rel: imagery
+  note: Four hybrid beasts rising from the stirred-up sea
+- ref: Dan 7:4
+  rel: imagery
+  note: Lion with eagle's wings; cf. Mesopotamian winged lions
+- ref: Dan 8:3-12
+  rel: imagery
+  note: Two-horned ram and one-horned goat; astral-geographic readings proposed
+- ref: Ezek 1:5-14
+  rel: imagery
+  note: Composite living creatures in prophetic vision
+- ref: Rev 13:1-2
+  rel: imagery
+  note: Composite sea beast reworking Dan 7
+related: [four-kingdoms-schema, lamassu, ishtar-gate, chaoskampf, leviathan, lion-imagery,
+  apkallu-reliefs]
+media:
+- id: composite-beasts-daniel
+  role: primary
+- id: composite-beasts-daniel-2
+  role: gallery
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Present the main proposals: Šumma izbu omens of anomalous births (Porter 1983); Mesopotamian
+    glyptic and monumental hybrids; Cumont's astral geography for the ram and goat; Canaanite
+    sea-chaos background (Gunkel, Emerton, Collins).
+  - >-
+    Avoid one-to-one mapping between Daniel's beasts and specific reliefs. The 2nd-century
+    author more likely drew on a broad, mediated stock of motifs.
+  - >-
+    Note how the hybrid, monstrous form serves the theological evaluation of empires as chaotic.
+  sources_to_check:
+  - >-
+    P. A. Porter, Metaphors and Monsters: A Literary-Critical Study of Daniel 7 and 8 (ConBOT
+    20, 1983)
+  - J. J. Collins, Daniel (Hermeneia, 1993)
+  image_query: Mushhushshu Ishtar Gate relief
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

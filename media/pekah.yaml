@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: pekah
+file: pekah.jpg
+title: Tiglath-Pileser, 728 BCE, Nimrud, Central Palace, British Museum.jpg
+caption: >-
+  Tiglath-pileser III, who claims that the Israelites overthrew Pekah, relief from the Central
+  Palace at Nimrud (British Museum).
+description: Tiglath-Pileser, 728 BCE, Nimrud, Central Palace, British Museum
+creator: SpeakingArch
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: SpeakingArch, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Tiglath-Pileser,_728_BCE,_Nimrud,_Central_Palace,_British_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/e/e0/Tiglath-Pileser%2C_728_BCE%2C_Nimrud%2C_Central_Palace%2C_British_Museum.jpg
+  sha1: f7f91c099791c4ef0ce54de7f45294e41ae1b798
+  original_size: [735, 742]
+  retrieved: '2026-11-20'
+derivative: null
+size: [735, 742]
+depicts: [pekah, tiglath-pileser-iii]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

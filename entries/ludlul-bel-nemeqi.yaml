@@ -1,0 +1,86 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ludlul-bel-nemeqi
+title: Ludlul bēl nēmeqi (Poem of the Righteous Sufferer)
+aliases: [Poem of the Righteous Sufferer, I Will Praise the Lord of Wisdom, Babylonian Job]
+type: text
+cultures: [babylonian]
+date:
+  from: -1300
+  to: -1100
+  circa: true
+  display: c. 1300–1100 BCE
+scope: >-
+  A Middle Babylonian poem in which Šubši-mešrê-Šakkan, a high official abandoned by his gods,
+  describes social ruin and bodily affliction before Marduk restores him. Framed as praise
+  of Marduk, it is the fullest Mesopotamian treatment of the righteous sufferer.
+passages:
+- ref: Job 19:13-22
+  rel: parallel
+  note: Sufferer shunned by kin, friends, and servants
+- ref: Job 7:3-5, 13-14
+  rel: parallel
+  note: Nights of misery, terrifying dreams, wasting body
+- ref: Job 42:10-17
+  rel: parallel
+  note: Restoration once the deity relents
+- ref: Job 11:7-8
+  rel: concept
+  note: Divine will inscrutable to humans ('Who can learn the way of a god?')
+- ref: Job 5:17-18
+  rel: concept
+  note: The god who strikes also heals
+- ref: Ps 38:2-11
+  rel: parallel
+  note: Illness as divine anger; body wasting, friends stand aloof (MT 38:3-12)
+- ref: Ps 22:6-8, 14-17
+  rel: parallel
+  note: Mockery and bodily disintegration of the sufferer (MT 22:7-9, 15-18)
+- ref: Ps 30
+  rel: form
+  note: Thanksgiving for rescue from near-death, praising the god who wounds and heals
+related: [babylonian-theodicy, sumerian-man-and-his-god, ane-wisdom-literature, marduk, mesopotamian-lament-prayers,
+  dialogue-of-pessimism]
+media:
+- id: ludlul-bel-nemeqi
+  role: primary
+external:
+  wikipedia: Ludlul bēl nēmeqi
+  wikidata: Q1406929
+editorial:
+  author_notes:
+  - >-
+    Generally dated to the Kassite period (the sufferer bears a Kassite-era name); four (or
+    five) tablets, edited by Lambert (1960) and newly by Annus and Lenzi (2010) and Oshima
+    (2014).
+  - >-
+    Formally a hymn of thanksgiving, not a dialogue: it shares motifs with Job but is closer
+    in form to biblical thanksgiving psalms. The label 'Babylonian Job' is misleading.
+  - >-
+    The sufferer does not know his offence and protests his piety, yet the poem never accuses
+    Marduk; contrast Job's challenge to God.
+  - >-
+    No direct literary dependence of Job on Ludlul is demonstrable; present the parallels
+    as a shared ANE discourse on undeserved suffering.
+  sources_to_check:
+  - W. G. Lambert, Babylonian Wisdom Literature (1960)
+  - >-
+    A. Annus and A. Lenzi, Ludlul bēl nēmeqi: The Standard Babylonian Poem of the Righteous
+    Sufferer (SAACT 7, 2010)
+  - T. Oshima, Babylonian Poems of Pious Sufferers (2014)
+  - COS 1.153
+  - ANET 434-437
+  image_query: Ludlul bel nemeqi tablet
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

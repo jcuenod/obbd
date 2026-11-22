@@ -1,0 +1,87 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: medinet-habu-sea-peoples
+title: Medinet Habu Sea Peoples Reliefs
+aliases: [Medinet Habu reliefs, Sea Peoples reliefs of Ramesses III]
+type: artifact
+cultures: [egyptian]
+date:
+  from: -1177
+  to: -1177
+  circa: true
+  display: c. 1177 BCE
+scope: >-
+  Reliefs and inscriptions on the mortuary temple of Ramesses III at Medinet Habu (western
+  Thebes) commemorating his year 8 land and sea battles against a coalition of "Sea Peoples".
+  The coalition includes the Peleset (Philistines), Tjeker, Shekelesh, Denyen, and Weshesh.
+  The reliefs depict their ships, dress, weapons, and ox-carts carrying families.
+passages:
+- ref: Amos 9:7
+  rel: attests
+  note: Philistines brought from Caphtor
+- ref: Jer 47:4
+  rel: attests
+  note: Philistines as 'the remnant of the coastland of Caphtor'
+- ref: Deut 2:23
+  rel: attests
+  note: Caphtorim from Caphtor settle in the southern coastal plain
+- ref: Judg 13:1
+  rel: setting
+  note: Philistine dominance in the period after their settlement
+- ref: 1Sam 17:4-7
+  rel: realia
+  disputed: true
+  note: Philistine champion's panoply compared with the reliefs' warrior equipment
+- ref: 1Sam 18:25-27
+  rel: practice
+  note: Counting severed body parts of slain enemies (cf. Libyan war scenes)
+related: [sea-peoples, philistines, thebes, ekron, ashdod, ashkelon, treatment-of-captives,
+  weapons]
+location:
+  institution: In situ, Medinet Habu, western Thebes, Luxor
+  accession: null
+media:
+- id: medinet-habu-sea-peoples
+  role: primary
+- id: medinet-habu-sea-peoples-2
+  role: gallery
+- id: philistines-2
+  role: gallery
+external:
+  wikipedia: Medinet Habu
+  wikidata: Q932622
+editorial:
+  author_notes:
+  - >-
+    The identification Peleset = Philistines is generally accepted, as is the Aegean/Cypriot
+    cultural background shown by Philistine material culture (Mycenaean IIIC pottery and other
+    features). Caphtor is usually identified with Crete or the Aegean.
+  - >-
+    The reliefs are ideological. Scholars debate whether the land and sea battles were single
+    events and where they took place (Delta, Djahy), and whether "invasion" or gradual migration
+    within a wider systems collapse better describes the period.
+  - >-
+    The severed hands and phalli are counted in the scenes of the Libyan wars at Medinet Habu,
+    not the Sea Peoples scenes. Keep the distinction clear.
+  - >-
+    Goliath's armour (1 Sam 17) is a composite, and its correlation with the Medinet Habu
+    warriors (feathered headdresses, round shields) is loose. Hence the relation is marked
+    as disputed.
+  sources_to_check:
+  - ANET 262-263
+  - Epigraphic Survey, Medinet Habu I. Earlier Historical Records of Ramses III (1930)
+  - Edgerton and Wilson, Historical Records of Ramses III (1936)
+  image_query: Medinet Habu Sea Peoples relief
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

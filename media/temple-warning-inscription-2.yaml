@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: temple-warning-inscription-2
+file: temple-warning-inscription-2.jpg
+title: Jerusalem Temple Warning Inscription fragment.jpg
+caption: Fragment of a second copy of the Temple Warning Inscription (Israel Museum, Jerusalem).
+description: >-
+  Jerusalem Temple Warning Inscription This is one of two pieces of identical stones, which
+  survived from the destruction of the Jerusalem Temple by the Roman Emperor Titus in 70 CE.
+  It was set at the gate leading to the inner court, and the inscription reads (in Greek)
+  "No alien may enter within the barrier and wall around the Temple. Whoever is caught [violating
+  this] is alone responsible for the death [-penalty] which follows." Herodian Period, 37-34
+  BCE. From Jerusalem, in modern-day State of Israel. (The Israel Museum, Jerusalem). <a href="https://en.wikipedia.org/wiki/Temple_Warning_inscri
+creator: Andrey Zeigarnik from Raanana, Israel
+credit_line: 8V2A3050
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: Andrey Zeigarnik from Raanana, Israel, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Jerusalem_Temple_Warning_Inscription_fragment.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/d1/Jerusalem_Temple_Warning_Inscription_fragment.jpg
+  sha1: 6b0adce71dd13893326470a03c8c4f5c5cc8a366
+  original_size: [4480, 6403]
+  retrieved: '2026-11-21'
+derivative: Downscaled to 1120×1600 px
+size: [1120, 1600]
+depicts: [temple-warning-inscription]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

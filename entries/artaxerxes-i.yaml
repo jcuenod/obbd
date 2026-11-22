@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: artaxerxes-i
+title: Artaxerxes I
+type: person
+cultures: [persian]
+date:
+  from: -465
+  to: -424
+  display: 465–424 BCE
+scope: >-
+  Artaxerxes I Longimanus, Achaemenid king in whose twentieth year Nehemiah was sent to Jerusalem.
+  He is also the probable (but debated) king of Ezra's mission and of the correspondence in
+  Ezra 4:7-23.
+passages:
+- ref: Ezra 4:7-23
+  rel: attests
+  note: Correspondence with Artaxerxes halts the rebuilding of Jerusalem's walls
+- ref: Ezra 7:1-26
+  rel: attests
+  disputed: true
+  note: Ezra sent in Artaxerxes's seventh year (458 if Artaxerxes I; 398 if Artaxerxes II)
+- ref: Neh 2:1-8
+  rel: attests
+  note: Nehemiah, royal cupbearer, commissioned in the twentieth year (445 BCE)
+- ref: Neh 5:14
+  rel: attests
+  note: Nehemiah governor from the twentieth to the thirty-second year
+- ref: Neh 13:6
+  rel: attests
+  note: Nehemiah returns to the king in the thirty-second year (433 BCE)
+- ref: Ezra 6:14
+  rel: attests
+  note: Artaxerxes listed with Cyrus and Darius as patrons of the temple
+related: [persia, yehud-province, elephantine-temple-petition, susa, persian-imperial-authorization,
+  xerxes-i, sanballat, darius-i]
+media:
+- id: artaxerxes-i
+  role: primary
+- id: artaxerxes-i-2
+  role: gallery
+external:
+  wikipedia: Artaxerxes I
+  wikidata: Q189689
+editorial:
+  author_notes:
+  - >-
+    Lay out the Ezra-Nehemiah chronology debate: Ezra in 458 (Artaxerxes I), 398 (Artaxerxes
+    II), or 428 (emended 'thirty-seventh year').
+  - >-
+    Nehemiah under Artaxerxes I is secured by the Elephantine temple petition (Sanballat's
+    sons active in 407; Johanan high priest).
+  - >-
+    Context: the Egyptian revolt of Inaros (c. 460-454) and Megabyzus's revolt. Hoglund's
+    thesis that these explain Persian interest in Judah's fortification is debated.
+  sources_to_check:
+  - >-
+    K. G. Hoglund, Achaemenid Imperial Administration in Syria-Palestine and the Missions
+    of Ezra and Nehemiah (SBLDS 125, 1992)
+  - 'P. Briant, From Cyrus to Alexander: A History of the Persian Empire (2002)'
+  image_query: Tomb of Artaxerxes I Naqsh-e Rostam
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

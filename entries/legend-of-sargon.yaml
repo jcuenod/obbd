@@ -1,0 +1,62 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: legend-of-sargon
+title: Birth Legend of Sargon of Akkad
+aliases: [Sargon Birth Legend]
+type: text
+cultures: [assyrian, babylonian]
+date:
+  from: -720
+  to: -650
+  circa: true
+  display: c. 720–650 BCE
+scope: >-
+  A first-millennium Akkadian text in which Sargon of Akkad recounts his secret birth to a
+  high priestess, his exposure in a reed basket sealed with bitumen on the Euphrates, his
+  rescue by a water-drawer, and his rise to kingship through Ishtar's love.
+passages:
+- ref: Exod 2:1-10
+  rel: parallel
+  note: Infant placed in a reed basket sealed with bitumen, set on the river, rescued and
+    raised
+- ref: Exod 2:3
+  rel: language
+  note: >-
+    Papyrus basket coated with bitumen and pitch, as Sargon's 'basket of rushes' sealed with
+    bitumen
+related: [sargon-of-akkad, sargon-ii, exodus-historical-questions, royal-ideology]
+media:
+- id: legend-of-sargon
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Known from Neo-Assyrian and Neo-Babylonian copies; many date its composition to Sargon
+    II's reign (721-705), when a usurper bearing the old king's name had reason to celebrate
+    him. This matters for dating Exod 2 (Redford, Otto argue for 7th-c. dependence).
+  - >-
+    The exposed-hero motif is widespread (Lewis collected dozens of tales: Cyrus, Romulus,
+    etc.); a motif parallel is not by itself proof of borrowing.
+  - >-
+    Differences: Moses' mother and sister act to save him, he is raised at the Egyptian court,
+    and his name has an Egyptian etymology.
+  sources_to_check:
+  - B. Lewis, The Sargon Legend (ASOR Diss. Series 4, 1980)
+  - J. G. Westenholz, Legends of the Kings of Akkade (1997)
+  - COS 1.133
+  - ANET 119
+  image_query: Sargon birth legend tablet British Museum
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-1-sol

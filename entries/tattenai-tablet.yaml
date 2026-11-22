@@ -1,0 +1,60 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tattenai-tablet
+title: Tattannu (Tattenai) Tablet
+type: artifact
+cultures: [babylonian, persian]
+date:
+  from: -502
+  to: -502
+  display: 502 BCE
+scope: >-
+  A Babylonian cuneiform legal tablet dated to year 20 of Darius I (502 BCE) that names Tattannu,
+  governor (pīḫatu) of Ebir-nāri ('Across the River'), through one of his servants acting
+  as witness. It attests the official whom Ezra 5-6 calls Tattenai.
+passages:
+- ref: Ezra 5:3, 6
+  rel: attests
+  note: Tattenai, governor of Beyond the River, investigates the temple rebuilding
+- ref: Ezra 6:6, 13
+  rel: attests
+  note: Darius's reply addressed to Tattenai, who complies
+- ref: Ezra 4:10-11, 16-17
+  rel: language
+  note: '''Beyond the River'' (ʿăbar nahărāʾ) = Akkadian Ebir-nāri as a provincial name'
+- ref: Neh 2:7, 9
+  rel: language
+  note: '''Governors of Beyond the River'''
+related: [darius-i, yehud-province, persia, persian-imperial-authorization, letter-writing-conventions]
+media: []
+external:
+  wikipedia: Tattenai
+  wikidata: Q1641601
+editorial:
+  author_notes:
+  - >-
+    In 502 BCE Ebir-nāri still formed part of a combined satrapy with Babylon. Tattannu was
+    subordinate to the satrap; explain the later division of the satrapy.
+  - >-
+    The tablet confirms the name and office, not the authenticity of the Aramaic correspondence
+    in Ezra 5-6, which remains debated.
+  - >-
+    Verify the tablet's current museum and publication history (first identified by A. Ungnad
+    and discussed by Olmstead) before citing them.
+  sources_to_check:
+  - >-
+    M. W. Stolper, 'The Governor of Babylon and Across-the-River in 486 B.C.', JNES 48 (1989)
+  image_query: Tattenai cuneiform tablet
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

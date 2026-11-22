@@ -1,0 +1,73 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: beth-shemesh
+title: Beth-shemesh
+aliases: [Tel Beth-Shemesh, Tell er-Rumeileh, Ir-shemesh]
+type: site
+cultures: [judahite, canaanite]
+scope: >-
+  The town in the Sorek Valley on the border between Judah and Philistia. Covers its Late
+  Bronze and Iron Age strata, its role in discussions of ethnic boundaries, and the Iron II
+  water reservoir and industry.
+passages:
+- ref: Josh 15:10
+  rel: setting
+  note: Beth-shemesh on Judah's northern border
+- ref: Josh 21:16
+  rel: setting
+  note: Levitical city
+- ref: 1Sam 6:9-21
+  rel: setting
+  note: The ark returned from the Philistines by way of Beth-shemesh
+- ref: 1Kgs 4:9
+  rel: setting
+  note: Beth-shemesh in Ben-deker's district
+- ref: 2Kgs 14:11-13
+  rel: setting
+  note: Jehoash of Israel defeats Amaziah at Beth-shemesh
+- ref: 2Chr 28:18
+  rel: setting
+  note: Philistines take Beth-shemesh under Ahaz
+related: [philistines, ark-of-the-covenant, pig-avoidance, ethnicity-and-material-culture,
+  cisterns-and-water-systems, ekron]
+media:
+- id: beth-shemesh
+  role: primary
+external:
+  wikipedia: Tel Beit Shemesh
+  wikidata: Q12412084
+editorial:
+  author_notes:
+  - >-
+    Excavated by Mackenzie (1911-12), Grant (1928-33) and Bunimovitz and Lederman (from 1990).
+    Very low pig frequencies at Iron I Beth-shemesh, compared with nearby Philistine sites,
+    are central to the debate on ethnic boundaries and pig avoidance.
+  - >-
+    The Iron II town had a large cruciform rock-cut reservoir and industrial installations.
+    It was destroyed, probably in 701, and largely abandoned afterwards.
+  - >-
+    The name ('house of the sun') suggests a solar cult in origin, but there is no direct
+    evidence for one at the site. Do not confuse it with Beth-shemesh in Naphtali (Judg 1:33).
+  sources_to_check: [NEAEHL]
+  image_query: Tel Beth Shemesh
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates from Wikidata Q12412084 (verify).
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 31.75062
+  lon: 34.97474
+  source: wikidata:Q12412084

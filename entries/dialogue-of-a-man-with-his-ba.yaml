@@ -1,0 +1,72 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: dialogue-of-a-man-with-his-ba
+title: Dialogue of a Man with His Ba
+aliases: [Dispute between a Man and His Ba, Debate between a Man and His Soul, Dispute over
+    Suicide]
+type: text
+cultures: [egyptian]
+date:
+  from: -1900
+  to: -1800
+  circa: true
+  display: c. 1900–1800 BCE
+scope: >-
+  A Middle Kingdom poetic dialogue (P. Berlin 3024, beginning lost) between a man weary of
+  life and his ba. The man contemplates death as release. The ba urges him to forget care
+  and enjoy life, and warns that funerary provision gives no certainty. The entry covers its
+  themes of despair, death-wish, and carpe diem.
+passages:
+- ref: Job 3:20-23
+  rel: parallel
+  note: Longing for death that does not come, by one bitter in soul
+- ref: Eccl 4:2-3
+  rel: parallel
+  note: The dead (or unborn) more fortunate than the living
+- ref: Eccl 9:7-10
+  rel: parallel
+  note: The ba's counsel to 'follow the happy day' and forget care
+- ref: Ps 12:1-2
+  rel: parallel
+  note: '''To whom can I speak today?'': lament over universal faithlessness; MT 12:2-3'
+- ref: Mic 7:2-6
+  rel: parallel
+  note: The faithful have vanished; neighbours and kin cannot be trusted
+related: [harpers-songs, ane-wisdom-literature, afterlife-and-resurrection, dialogue-of-pessimism,
+  ludlul-bel-nemeqi, babylonian-theodicy]
+media:
+- id: dialogue-of-a-man-with-his-ba
+  role: primary
+external:
+  wikipedia: Dispute Between a Man and His Ba
+  wikidata: Q560165
+editorial:
+  author_notes:
+  - >-
+    The comparisons with Job and Qoheleth are typological (shared reflection on despair and
+    death), not genetic.
+  - >-
+    Interpretation is contested. Some see a debate about suicide, others about the value of
+    funerary provision and the afterlife. Translations of key passages differ considerably
+    (compare Lichtheim, Parkinson, Allen).
+  - >-
+    The man's four poems ("Death is before me today...", "To whom can I speak today?") are
+    among the finest Egyptian lyric. Quote them in a recent translation.
+  sources_to_check:
+  - AEL 1:163-169
+  - ANET 405-407
+  - Allen, The Debate between a Man and His Soul (2011)
+  image_query: Papyrus Berlin 3024 Dispute between a man and his Ba
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

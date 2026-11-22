@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: dor-2
+file: dor-2.jpg
+title: תל דור.JPG
+caption: Archaeological remains at Tel Dor.
+description: Archeological remains at Tel Dor, Israel
+creator: Ariel Gera אריאל גרא
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Ariel Gera אריאל גרא, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:%D7%AA%D7%9C_%D7%93%D7%95%D7%A8.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/4/4e/%D7%AA%D7%9C_%D7%93%D7%95%D7%A8.JPG
+  sha1: 8378e72428cdb7923946d5212ffeb5070b03bdba
+  original_size: [4000, 3000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [dor]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

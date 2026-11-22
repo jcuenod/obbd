@@ -1,0 +1,1676 @@
+# Seed entries for the mesopotamian-texts domain (incl. Hittite, Nuzi, Emar, Ahiqar).
+# See docs/seed-guide.md. Master order is preserved.
+
+- id: atrahasis
+  aliases: ["Atra-ḫasīs", "Atram-ḫasīs", "Babylonian Flood Story"]
+  cultures: [akkadian, babylonian, assyrian]
+  date: [-1700, -1600]
+  circa: true
+  scope: >-
+    The Old Babylonian epic of human origins and the flood, named after its
+    hero ("exceedingly wise"). It narrates the creation of humans to relieve the
+    gods' labour, the gods' repeated attempts to curb humanity, and the flood
+    survived by Atrahasis; it is the closest Mesopotamian analogue to the
+    sequence of Gen 1-9 as a whole.
+  passages:
+    - "Gen 6:5-9:17 | parallel | Gods resolve to destroy humanity by flood; hero warned, builds boat, saves family and animals"
+    - "Gen 2:7 | parallel | Humans formed from clay, mixed in Atrahasis with a slain god's flesh and blood"
+    - "Gen 2:5, 15 | concept | Humans created to work the ground; in Atrahasis to take over the gods' toil"
+    - "Gen 8:20-21 | parallel | Post-flood sacrifice; the hungry gods gather like flies at the offering"
+    - "Gen 1:28 | concept? | Blessing to multiply set against the gods' annoyance at human 'noise' (overpopulation?)"
+    - "Gen 9:1, 7 | concept? | Renewed fertility mandate contrasts with post-flood limits on births in Atrahasis"
+    - "Gen 1:1-9:17 | parallel | Shared macro-sequence: creation, human multiplication, crisis, flood, new order"
+  related: [gilgamesh-epic, eridu-genesis, flood-traditions, creation-of-humanity, gilgamesh-flood-tablet, care-and-feeding-of-the-gods, enuma-elish]
+  wikipedia: Atra-Hasis
+  image: Atrahasis tablet British Museum
+  author_notes:
+    - "Main witness: a three-tablet Old Babylonian copy by the scribe Ipiq-Aya dated to the reign of Ammi-ṣaduqa (17th c. BCE); later fragments from Ugarit and Neo-Assyrian Nineveh show a long transmission. Gilgamesh XI's flood account draws on this tradition."
+    - "The cause of the flood (the gods' disturbance by human rigmu/ḫubūru, 'noise') is read as overpopulation (Kilmer, Moran, Frymer-Kensky) or as rebellion/unrest (e.g. Oden); present both and link to the post-flood measures (barren women, a demon who snatches infants, cultic celibates)."
+    - "Genesis moralises the cause (violence and corruption, Gen 6:11-13) and has one God who both judges and saves; most scholars posit shared Mesopotamian tradition rather than copying of this text, with debate over the date and channel of transmission and over Priestly vs. non-Priestly strands."
+    - "Tablet I: Enki and the mother goddess (Nintu/Mami) mix clay with the flesh and blood of the slain god We-ila, whose 'ghost' (eṭemmu) remains in humans; useful for Gen 2:7 but distinct from the 'image of God' idea of Gen 1:26-27."
+  sources_to_check:
+    - "W. G. Lambert and A. R. Millard, Atra-ḫasīs: The Babylonian Story of the Flood (1969)"
+    - COS 1.130
+    - ANET 104-106
+
+- id: gilgamesh-epic
+  aliases: ["Gilgamesh Epic", "Ša naqba īmuru (He who saw the Deep)", "Bilgames"]
+  cultures: [babylonian, akkadian, sumerian]
+  date: [-1800, -1100]
+  circa: true
+  scope: >-
+    The Mesopotamian epic of Gilgamesh, king of Uruk, from the Sumerian Bilgames
+    poems through the Old Babylonian epic to the Standard Babylonian version.
+    It covers Gilgamesh's friendship with Enkidu, the quest for immortality, and
+    Utnapishtim's flood narrative in Tablet XI; the Nineveh flood tablet has its
+    own entry.
+  passages:
+    - "Gen 6:5-9:17 | parallel | Tablet XI: Utnapishtim's flood, the closest ANE parallel in plot and detail"
+    - "Gen 6:14-16 | parallel | Boat built to divine specifications and sealed with pitch (Heb. kōper, Akk. kupru)"
+    - "Gen 8:4 | parallel | Vessel comes to rest on a mountain (Nimush vs. the mountains of Ararat)"
+    - "Gen 8:6-12 | parallel | Birds sent out to test for dry land (dove, swallow, raven)"
+    - "Gen 8:20-21 | parallel | Sacrifice on landing; gods smell the sweet savour and gather like flies"
+    - "Gen 9:12-17 | imagery? | Goddess's lapis-lazuli fly necklace as flood memorial, compared with the bow"
+    - "Gen 3:22-24 | concept | Immortality lost: plant of rejuvenation snatched by a serpent; tree of life barred"
+    - "Gen 3:5-7 | parallel? | Enkidu, after sexual initiation, becomes 'wise, like a god' and leaves the animals"
+    - "Eccl 9:7-9 | parallel | Siduri's advice (OB version): eat, rejoice, wear clean clothes, cherish wife and child"
+    - "Eccl 4:9-12 | parallel? | Two better than one; 'a triple-ply rope' (Sumerian Gilgamesh and Huwawa)"
+  related: [gilgamesh-flood-tablet, atrahasis, flood-traditions, tree-of-life, library-of-ashurbanipal, ane-wisdom-literature, megiddo]
+  wikipedia: Epic of Gilgamesh
+  image: Epic of Gilgamesh cuneiform tablet
+  author_notes:
+    - "Distinguish the Sumerian Bilgames poems, the Old Babylonian epic (c. 18th c.), the Middle Babylonian forms, and the Standard Babylonian eleven-tablet epic attributed to Sîn-lēqi-unninni, whose main copies come from 7th-c. Nineveh; Tablet XII is a translation of a Sumerian poem appended later. A Late Bronze Age fragment from Megiddo shows circulation in the Levant."
+    - "Tablet XI adapts the Atrahasis flood; its parallels with Gen 6-9 (birds, mountain landing, sacrifice) are the closest of any ANE text, and most scholars infer a Mesopotamian source tradition behind Genesis, while the route and date of transmission remain debated."
+    - "Siduri's carpe diem speech survives only in the Old Babylonian Sippar tablet, not in the Standard version; the Eccl 9:7-9 parallel is widely accepted, though direct dependence is debated."
+    - "The name Gilgamesh survives in the Qumran Book of Giants (4Q530), useful for the afterlife of Mesopotamian lore in Second Temple Judaism."
+    - "Avoid treating Gilgamesh as a 'fall' story: the serpent and the plant concern rejuvenation, and the epic's ethos (accept mortality, enjoy life, fame through building) differs from Gen 3."
+  sources_to_check:
+    - "A. R. George, The Babylonian Gilgamesh Epic: Introduction, Critical Edition and Cuneiform Texts (2003)"
+    - "J. H. Tigay, The Evolution of the Gilgamesh Epic (1982)"
+    - ANET 72-99
+
+- id: gilgamesh-flood-tablet
+  aliases: ["Flood Tablet", "Tablet XI of the Epic of Gilgamesh", "K.3375"]
+  cultures: [assyrian, babylonian]
+  date: [-700, -600]
+  circa: true
+  scope: >-
+    The Neo-Assyrian clay tablet from Ashurbanipal's libraries at Nineveh that
+    preserves Tablet XI of the Standard Babylonian Gilgamesh epic, including
+    Utnapishtim's flood story. Its identification by George Smith in 1872 made
+    the Babylonian flood narrative famous and launched the modern comparison of
+    Genesis with cuneiform literature.
+  passages:
+    - "Gen 6:5-9:17 | parallel | Flood narrative whose 1872 discovery first exposed the Genesis-Babylon parallel"
+    - "Gen 8:4 | parallel | Boat grounds on Mount Nimush; ark rests on the mountains of Ararat"
+    - "Gen 8:6-12 | parallel | Dove, swallow, and raven released to find dry land"
+    - "Gen 8:20-21 | parallel | Offering after the flood; gods smell the sweet savour"
+  related: [gilgamesh-epic, atrahasis, library-of-ashurbanipal, flood-traditions, nineveh, ashurbanipal]
+  wikipedia: Gilgamesh flood myth
+  image: Flood Tablet Gilgamesh British Museum
+  location: British Museum, London
+  author_notes:
+    - "George Smith announced the identification to the Society of Biblical Archaeology in December 1872; the Daily Telegraph then funded his 1873 Nineveh expedition, which recovered further flood fragments. Verify details against museum and George's accounts."
+    - "Present it as one 7th-c. manuscript among several witnesses to Tablet XI, not as 'the original' flood story; the tradition goes back to Old Babylonian Atrahasis."
+    - "Its reception history (Smith, Delitzsch's 'Babel und Bibel' lectures of 1902) is part of the story and shows how such finds were used both to defend and to relativise Genesis."
+  sources_to_check:
+    - "A. R. George, The Babylonian Gilgamesh Epic (2003)"
+
+- id: enuma-elish
+  aliases: ["Babylonian Epic of Creation", "When on High"]
+  cultures: [babylonian]
+  date: [-1400, -1100]
+  circa: true
+  scope: >-
+    The seven-tablet Babylonian epic of Marduk's victory over Tiamat (the
+    primeval sea), his creation of the ordered cosmos from her body, the making
+    of humans, and the building of Babylon. It was recited at the New Year
+    (akītu) festival and is the classic text for the "chaos combat" background of
+    biblical creation imagery.
+  passages:
+    - "Gen 1:2 | language | Hebrew tĕhôm cognate with Tiamat (tiāmtum, 'sea'), though not a deity in Genesis"
+    - "Gen 1:6-8 | concept | Marduk splits Tiamat to make sky and earth, barring her waters; cf. the firmament"
+    - "Gen 1:14-18 | concept | Marduk sets up stars, moon, and calendar after his victory (Tablet V)"
+    - "Gen 1:26-27 | concept | Humans made from rebel god Qingu's blood to bear the gods' labour; contrast Gen 1"
+    - "Job 38:8-11 | concept | Sea confined by bars and doors; Marduk posts guards so her waters cannot escape"
+    - "Ps 74:12-17 | imagery | God's victory over sea and dragons tied to ordering day, night, and seasons"
+    - "Ps 89:9-12 | imagery | Ruling the raging sea, crushing Rahab, founding heaven and earth (MT 89:10-13)"
+    - "Job 26:12-13 | imagery | God stills the sea, strikes Rahab; his wind clears the heavens"
+    - "Isa 51:9-10 | imagery | YHWH's arm cut Rahab, pierced the dragon, and dried up the sea"
+    - "Gen 11:3-4 | parallel? | Gods mould bricks for a year to build Babylon and Esagil (Tablet VI)"
+  related: [chaoskampf, tehom, creation-accounts, marduk, akitu-festival, firmament, rahab-sea-monster, tablet-of-destinies]
+  wikipedia: Enūma Eliš
+  image: Enuma Elish tablet British Museum
+  author_notes:
+    - "Gunkel's Schöpfung und Chaos (1895) and the Babel-Bible controversy made Enuma Elish central to Genesis study; since Heidel (1951) and Lambert (1965) most scholars caution against reading Gen 1 as an adaptation of it. Lambert argued the sea-combat motif may be West Semitic in origin (cf. the Baal cycle and the Mari letter on Adad's weapons against the Sea)."
+    - "Real points of contact: tĕhôm/tiāmtum (a shared Semitic word, not a borrowed divine name; Tsumura), the division of waters to form sky and earth, and the setting of celestial bodies. Combat-myth language is much stronger in the Psalms, Job, and Isaiah than in Gen 1."
+    - "Date of composition is debated (Old Babylonian, Kassite, or the reign of Nebuchadnezzar I, c. 1100, favoured by Lambert); almost all copies are first-millennium. An Assyrian version substitutes Ashur for Marduk."
+    - "Popular claims that the seven tablets mirror the seven days of Gen 1 should be treated as coincidence, not evidence."
+  sources_to_check:
+    - "W. G. Lambert, Babylonian Creation Myths (2013)"
+    - "P. Talon, The Standard Babylonian Creation Myth Enūma Eliš (SAACT 4, 2005)"
+    - COS 1.111
+    - ANET 60-72, 501-503
+    - "A. Heidel, The Babylonian Genesis (2nd ed., 1951)"
+
+- id: eridu-genesis
+  aliases: ["Sumerian Flood Story", "Ziusudra story", "Deluge tablet"]
+  cultures: [sumerian]
+  date: [-1700, -1600]
+  circa: true
+  scope: >-
+    A fragmentary Sumerian narrative, preserved chiefly on one Old Babylonian
+    tablet from Nippur, of the creation of humans and animals, the founding of
+    the first cities, and a flood survived by King Ziusudra, who is then granted
+    eternal life. "Eridu Genesis" is Thorkild Jacobsen's name for his
+    reconstruction.
+  passages:
+    - "Gen 6:5-9:17 | parallel | Ziusudra, warned by Enki, survives a seven-day flood in a great boat"
+    - "Gen 8:20-21 | parallel | Hero sacrifices an ox and sheep after the flood"
+    - "Gen 4:17 | concept? | First cities founded before the flood (Eridu, Bad-tibira, Larak, Sippar, Shuruppak)"
+    - "Gen 5:24 | concept? | Flood hero granted 'life like a god' and settled in Dilmun; cf. Enoch taken by God"
+    - "Gen 1:1-9:17 | form? | Jacobsen's reconstructed sequence of creation, first cities, and flood"
+  related: [atrahasis, gilgamesh-epic, sumerian-king-list, flood-traditions, enki-and-ninhursag, creation-accounts]
+  wikipedia: Eridu Genesis
+  image: Sumerian flood story tablet Nippur
+  author_notes:
+    - "The main tablet (Nippur, c. 1600 BCE) is badly broken; Jacobsen's title and his creation-cities-flood outline (JBL 1981) are reconstructions. Civil's edition in Lambert and Millard (1969) calls it 'The Sumerian Flood Story'. Do not overstate what is preserved."
+    - "Ziusudra is the Sumerian counterpart of Atrahasis and Utnapishtim (Berossus's Xisouthros); in the Instructions of Shuruppak he is Shuruppak's son."
+    - "Unlike Noah, the flood hero receives immortality; the 'first cities before the flood' tradition is shared with the Sumerian King List."
+  sources_to_check:
+    - COS 1.158
+    - ANET 42-44
+    - "T. Jacobsen, 'The Eridu Genesis,' JBL 100 (1981): 513-529"
+
+- id: sumerian-king-list
+  aliases: [SKL]
+  cultures: [sumerian]
+  date: [-2100, -1800]
+  circa: true
+  scope: >-
+    A Sumerian list of cities and rulers that presents kingship as "descending
+    from heaven" and passing from one city to another. In most versions it
+    begins with antediluvian kings with immensely long reigns and treats the
+    flood as the great epochal break.
+  passages:
+    - "Gen 5:1-32 | parallel | Antediluvian line of very long-lived figures ending at the flood"
+    - "Gen 11:10-26 | parallel | Post-flood life spans decline, as SKL reigns shrink after the flood"
+    - "Gen 10:1, 32 | concept | 'After the flood' as an epochal marker; SKL: 'after the flood had swept over'"
+    - "Gen 5:21-24 | concept? | Seventh antediluvian figure; Enmeduranki of Sippar is seventh in some lists"
+  related: [weld-blundell-prism, genealogies, enmeduranki-and-the-apkallu, eridu-genesis, flood-traditions, royal-annals-and-historiography]
+  wikipedia: Sumerian King List
+  image: Weld-Blundell Prism Ashmolean
+  author_notes:
+    - "Composite and ideological: dynasties that were contemporary are listed in succession to model a single legitimate kingship. An Ur III manuscript lacks the antediluvian section, which most think was prefaced later; the Weld-Blundell prism (c. 1800) is the best-known copy."
+    - "Reigns are given in sexagesimal units (a šar = 3,600 years); the antediluvian section has eight or ten kings depending on the source. Berossus's list of ten antediluvian kings gives the closest numerical analogue to the ten generations of Gen 5."
+    - "Explanations of the Gen 5 numbers (which differ in MT, SP, and LXX) from Mesopotamian arithmetic are speculative; present the parallel as genre (long-lived ancestors, flood as divider), not dependence."
+  sources_to_check:
+    - "T. Jacobsen, The Sumerian King List (Assyriological Studies 11, 1939)"
+    - ANET 265-266
+    - "J.-J. Glassner, Mesopotamian Chronicles (SBLWAW 19, 2004)"
+
+- id: enki-and-ninhursag
+  cultures: [sumerian]
+  date: [-1800]
+  circa: true
+  scope: >-
+    A Sumerian myth set in the pure land of Dilmun, which Enki provides with
+    fresh water, followed by Enki's serial impregnations, his eating of plants
+    that the mother goddess Ninhursag has made, her curse, and his healing by
+    goddesses born to cure each ailing body part, among them Ninti.
+  passages:
+    - "Gen 2:8-14 | concept | Pristine land (Dilmun) watered by a god; cf. Eden and its rivers"
+    - "Gen 2:6 | parallel? | Fresh water rising from the earth to irrigate the land"
+    - "Isa 11:6-9 | imagery | Paradisal land where the lion does not kill and the wolf does not seize the lamb"
+    - "Isa 65:25 | imagery | Wolf and lamb at peace in the renewed creation"
+    - "Gen 3:6, 17-19 | parallel? | Eating plants reserved by the deity incurs a curse"
+    - "Gen 2:21-22 | parallel? | Ninti, 'lady of the rib' / 'lady who makes live' (Kramer); widely cited, doubtful"
+  related: [garden-of-god, eridu-genesis, creation-of-humanity, adapa, tree-of-life]
+  wikipedia: Enki and Ninhursag
+  image: Enki and Ninhursag tablet Penn Museum
+  author_notes:
+    - "Kramer's rib proposal rests on Sumerian ti = 'rib' and 'to live'; the pun does not work in Hebrew (ṣēlāʿ vs. ḥawwâ), so any link is at best indirect. Present it as a famous but doubtful suggestion, not as an established source of Gen 2."
+    - "Dilmun (historically linked to Bahrain) is a pristine but initially waterless land; the myth is largely about fertility, not about a 'fall'. Avoid the older label 'Sumerian paradise myth' without qualification."
+    - "The animal-peace lines (lion, wolf, lamb) are the most secure point of contact and concern prophetic imagery rather than Gen 2-3."
+    - "There is no dedicated English Wikipedia article; the title given is a redirect to a section of the Ninhursag article."
+  sources_to_check:
+    - ANET 37-41
+    - ETCSL 1.1.1
+    - "P. Attinger, 'Enki et Ninḫursaĝa,' ZA 74 (1984)"
+
+- id: adapa
+  aliases: ["Adapa and the South Wind"]
+  cultures: [babylonian]
+  date: [-1400]
+  circa: true
+  scope: >-
+    The Akkadian myth of Adapa, sage of Eridu, who breaks the wing of the South
+    Wind, is summoned before Anu, and on Ea's advice refuses the "bread of life"
+    and "water of life" offered him, thereby forfeiting immortality for himself
+    (and perhaps humankind).
+  passages:
+    - "Gen 3:22-24 | parallel | A human forfeits immortality offered by the high god's food and drink"
+    - "Gen 3:4-5 | parallel? | Ambiguous divine counsel: Ea's warning proves misleading (or a test)"
+    - "Gen 5:21-24 | parallel? | A wise antediluvian figure brought up to heaven before the high god"
+  related: [enmeduranki-and-the-apkallu, tree-of-life, amarna-letters, garden-of-god, afterlife-and-resurrection]
+  wikipedia: Adapa
+  image: Adapa myth tablet Amarna
+  author_notes:
+    - "Oldest Akkadian manuscript: a tablet from 14th-c. Amarna used in Egyptian scribal training; other fragments are Neo-Assyrian, and a Sumerian Adapa composition is known from the Old Babylonian period. Izre'el's edition (2001) is standard."
+    - "Interpretive crux: did Ea deceive Adapa, or protect him from what he believed was the food of death? Unlike Gen 3, Adapa obeys his god; the loss of immortality is not disobedience."
+    - "The proposed Adam/Adapa etymology is not accepted as a linguistic link; mention it only as a popular claim."
+    - "In later tradition Adapa is identified with the first apkallu, Uan (Berossus's Oannes); see the apkallu entry."
+  sources_to_check:
+    - "S. Izre'el, Adapa and the South Wind: Language Has the Power of Life and Death (2001)"
+    - ANET 101-103
+
+- id: enmerkar-and-the-lord-of-aratta
+  cultures: [sumerian]
+  date: [-2100, -1800]
+  circa: true
+  scope: >-
+    A Sumerian epic poem about the contest between Enmerkar of Uruk and the lord
+    of the distant land of Aratta, notable for the "spell of Nudimmud" passage
+    on a time when all humanity spoke one language, and for its tale of the
+    invention of writing on clay.
+  passages:
+    - "Gen 11:1-9 | parallel? | 'Spell of Nudimmud': once all people addressed Enlil in one tongue; Enki alters speech"
+    - "Gen 10:10 | setting | Uruk (Erech), Enmerkar's city, in Nimrod's kingdom"
+  related: [ziggurat-and-babel, writing-and-literacy, sumerian-king-list, nimrod]
+  wikipedia: Enmerkar and the Lord of Aratta
+  image: Enmerkar and the Lord of Aratta tablet
+  author_notes:
+    - "Kramer (JAOS 1968) read the Nudimmud spell as a lost golden age of one language ended by Enki's confusion of tongues; Alster and Vanstiphout read it as a future-oriented incantation in which Enki will unify speech (or as acknowledging existing diversity). Present it as debated; do not call it a 'Sumerian Tower of Babel'."
+    - "There is no tower in the text; the Babel connection lies only in the one-language motif."
+    - "Enmerkar is in the Sumerian King List as a king of Uruk; the poem is preserved in Old Babylonian copies and probably composed in the Ur III period."
+  sources_to_check:
+    - COS 1.170
+    - ETCSL 1.8.2.3
+    - "H. Vanstiphout, Epics of Sumerian Kings (SBLWAW 20, 2003)"
+    - "S. N. Kramer, 'The Babel of Tongues: A Sumerian Version,' JAOS 88 (1968): 108-111"
+
+- id: enmeduranki-and-the-apkallu
+  aliases: ["Apkallū", "Seven Sages", "Enmeduranna"]
+  cultures: [babylonian, mesopotamian]
+  scope: >-
+    The Mesopotamian traditions of the seven antediluvian sages (apkallū) who
+    brought the arts of civilisation to humankind, and of Enmeduranki, the
+    antediluvian king of Sippar to whom the gods revealed the secrets of
+    divination. These form the main background proposed for the figure of Enoch
+    and for the Watchers' teaching in 1 Enoch.
+  passages:
+    - "Gen 5:21-24 | parallel | Seventh antediluvian who 'walked with God'; Enmeduranki, seventh king, admitted to divine secrets"
+    - "Gen 4:17-22 | concept | Antediluvian culture-bringers (city, herding, music, metalwork); cf. the sages' civilising role"
+    - "Gen 6:1-4 | concept? | Mighty men of old; post-flood apkallū of partly divine descent"
+    - "1En 6:1-8:4 | parallel | Watchers teach forbidden arts: metallurgy, cosmetics, spells, astrology"
+    - "1En 72-82 | concept | Enoch receives celestial and calendrical knowledge, cf. Enmeduranki's divinatory lore"
+    - "Jub 4:17-19 | concept | Enoch first to learn writing and record the signs of heaven"
+  related: [apkallu-reliefs, adapa, sumerian-king-list, first-enoch, nephilim, divination, extispicy]
+  wikipedia: Apkallu
+  image: null
+  author_notes:
+    - "Key sources: Lambert's edition of the Enmeduranki text (JCS 21, 1967); the Bīt mēseri incantation series listing the sages, including Utuabzu 'who ascended to heaven' (Borger 1974); the Seleucid 'Uruk List of Kings and Sages'; and Berossus on Oannes and the sages."
+    - "The Enoch-Enmeduranki/Utuabzu connection is widely accepted (VanderKam, Kvanvig) as reflecting Judean contact with Babylonian scholarly lore in the exilic to Hellenistic periods; specifics of transmission are debated."
+    - "The sages' role is positive in Mesopotamia, while 1 Enoch makes the Watchers' teaching illicit; this inversion is often read as polemic (Kvanvig; Annus)."
+  sources_to_check:
+    - "W. G. Lambert, 'Enmeduranki and Related Matters,' JCS 21 (1967): 126-138"
+    - "R. Borger, 'Die Beschwörungsserie Bīt mēseri und die Himmelfahrt Henochs,' JNES 33 (1974): 183-196"
+    - "J. C. VanderKam, Enoch and the Growth of an Apocalyptic Tradition (CBQMS 16, 1984)"
+    - "H. S. Kvanvig, Roots of Apocalyptic (WMANT 61, 1988)"
+
+- id: descent-of-inanna-ishtar
+  aliases: ["Inanna's Descent to the Netherworld", "Descent of Ishtar", "Ishtar's Descent"]
+  cultures: [sumerian, babylonian, assyrian]
+  date: [-1800]
+  circa: true
+  scope: >-
+    The Sumerian myth of Inanna's descent to the netherworld, her death, revival,
+    and the consignment of Dumuzi as her substitute, and its shorter Akkadian
+    adaptation (Ishtar's Descent). The texts are key sources for Mesopotamian
+    netherworld imagery and the cult of Dumuzi/Tammuz.
+  passages:
+    - "Ezek 8:14 | practice | Women weeping for Tammuz (Dumuzi) at the temple gate"
+    - "Job 10:21-22 | imagery | Land of gloom and deep darkness from which none return"
+    - "Job 7:9-10 | concept | One who goes down to Sheol does not come up (Akk. 'land of no return')"
+    - "Isa 14:9-11 | imagery | Shades of the dead roused; maggots and worms as bed and covering"
+    - "Isa 38:10 | imagery | Gates of Sheol; the netherworld has seven gates in the Descent"
+    - "Job 38:17 | imagery | Gates of death and of deep darkness"
+  related: [tammuz, ishtar, sheol-and-the-netherworld, mourning-rites, afterlife-and-resurrection, sumerian-love-songs]
+  wikipedia: Descent of Inanna into the Underworld
+  image: Descent of Ishtar tablet British Museum
+  author_notes:
+    - "Distinguish the Old Babylonian Sumerian poem (c. 400 lines) from the much shorter Akkadian versions of the Middle and Neo-Assyrian periods; Dumuzi's role as substitute became clear only with the publication of related Sumerian texts in the 1950s."
+    - "Frazer's 'dying and rising god' model for Tammuz is now widely criticised (J. Z. Smith; M. S. Smith), though Mettinger argues for a qualified version; Ezek 8:14 attests ritual mourning, not necessarily a resurrection myth."
+    - "Ezek 8:14 is the only explicit biblical reference to Tammuz; the Babylonian month name Duʾūzu survives as the Jewish month Tammuz."
+    - "The netherworld descriptions (dust as food, darkness, no return) are general Mesopotamian imagery; claim shared cultural conception, not literary dependence."
+  sources_to_check:
+    - COS 1.108
+    - ANET 52-57, 106-109
+    - ETCSL 1.4.1
+    - "P. Lapinkivi, The Neo-Assyrian Myth of Ištar's Descent and Resurrection (SAACT 6, 2010)"
+
+- id: ludlul-bel-nemeqi
+  aliases: ["Poem of the Righteous Sufferer", "I Will Praise the Lord of Wisdom", "Babylonian Job"]
+  cultures: [babylonian]
+  date: [-1300, -1100]
+  circa: true
+  scope: >-
+    A Middle Babylonian poem in which Šubši-mešrê-Šakkan, a high official
+    abandoned by his gods, describes social ruin and bodily affliction before
+    Marduk restores him. Framed as praise of Marduk, it is the fullest
+    Mesopotamian treatment of the righteous sufferer.
+  passages:
+    - "Job 19:13-22 | parallel | Sufferer shunned by kin, friends, and servants"
+    - "Job 7:3-5, 13-14 | parallel | Nights of misery, terrifying dreams, wasting body"
+    - "Job 42:10-17 | parallel | Restoration once the deity relents"
+    - "Job 11:7-8 | concept | Divine will inscrutable to humans ('Who can learn the way of a god?')"
+    - "Job 5:17-18 | concept | The god who strikes also heals"
+    - "Ps 38:2-11 | parallel | Illness as divine anger; body wasting, friends stand aloof (MT 38:3-12)"
+    - "Ps 22:6-8, 14-17 | parallel | Mockery and bodily disintegration of the sufferer (MT 22:7-9, 15-18)"
+    - "Ps 30 | form | Thanksgiving for rescue from near-death, praising the god who wounds and heals"
+  related: [babylonian-theodicy, sumerian-man-and-his-god, ane-wisdom-literature, marduk, mesopotamian-lament-prayers, dialogue-of-pessimism]
+  wikipedia: Ludlul bēl nēmeqi
+  image: Ludlul bel nemeqi tablet
+  author_notes:
+    - "Generally dated to the Kassite period (the sufferer bears a Kassite-era name); four (or five) tablets, edited by Lambert (1960) and newly by Annus and Lenzi (2010) and Oshima (2014)."
+    - "Formally a hymn of thanksgiving, not a dialogue: it shares motifs with Job but is closer in form to biblical thanksgiving psalms. The label 'Babylonian Job' is misleading."
+    - "The sufferer does not know his offence and protests his piety, yet the poem never accuses Marduk; contrast Job's challenge to God."
+    - "No direct literary dependence of Job on Ludlul is demonstrable; present the parallels as a shared ANE discourse on undeserved suffering."
+  sources_to_check:
+    - "W. G. Lambert, Babylonian Wisdom Literature (1960)"
+    - "A. Annus and A. Lenzi, Ludlul bēl nēmeqi: The Standard Babylonian Poem of the Righteous Sufferer (SAACT 7, 2010)"
+    - "T. Oshima, Babylonian Poems of Pious Sufferers (2014)"
+    - COS 1.153
+    - ANET 434-437
+
+- id: babylonian-theodicy
+  cultures: [babylonian]
+  date: [-1100, -900]
+  circa: true
+  scope: >-
+    An acrostic dialogue poem of 27 eleven-line stanzas between a sufferer and a
+    friend on why the pious suffer and the wicked prosper. The acrostic spells
+    out the author's name, Saggil-kīnam-ubbib, and the poem is the closest
+    Mesopotamian formal analogue to the dialogue of Job.
+  passages:
+    - "Job 3-31 | form | Alternating dialogue between sufferer and friend(s) on divine justice"
+    - "Job 21:7-16 | concept | Prosperity of the wicked versus suffering of the pious"
+    - "Ps 73:2-14 | concept | Envy at the prosperity of the wicked; is piety in vain?"
+    - "Jer 12:1-2 | concept | Why does the way of the guilty prosper?"
+    - "Eccl 8:14 | concept | The righteous treated as the wicked deserve, and vice versa"
+    - "Job 4:17-19; 15:14-16 | concept | Humans inherently flawed; the gods made humans prone to falsehood"
+    - "Ps 119 | form | Acrostic composition (the Theodicy spells the author's name, not the alphabet)"
+  related: [ludlul-bel-nemeqi, dialogue-of-pessimism, ane-wisdom-literature, sumerian-man-and-his-god, scribes-and-scribal-education]
+  wikipedia: Babylonian Theodicy
+  image: Babylonian Theodicy tablet British Museum
+  author_notes:
+    - "The acrostic yields roughly 'I, Saggil-kīnam-ubbib, the incantation priest, am adorant of the god and the king'; a later tradition places this scholar under Nebuchadnezzar I or Adad-apla-iddina (c. 11th c.)."
+    - "Resolution differs from Job: the friend finally concedes that the gods gave humans a propensity to lie and wrong, and the sufferer appeals for mercy; there is no theophany."
+    - "The dialogue form and arguments are the closest Mesopotamian analogue to Job 3-31, but the relationship is generic; avoid claims of dependence."
+  sources_to_check:
+    - "W. G. Lambert, Babylonian Wisdom Literature (1960)"
+    - "T. Oshima, Babylonian Poems of Pious Sufferers (2014)"
+    - COS 1.154
+    - ANET 438-440
+
+- id: dialogue-of-pessimism
+  aliases: ["Dialogue between a Master and His Slave", "Pessimistic Dialogue between Master and Servant"]
+  cultures: [babylonian, assyrian]
+  date: [-1000, -700]
+  circa: true
+  scope: >-
+    A short Akkadian dialogue in which a master proposes a series of
+    undertakings (dining, hunting, love, sacrifice, lending, public benefaction)
+    and his slave argues equally well for and against each, ending with the
+    question of what is truly good. It is often compared with Qoheleth.
+  passages:
+    - "Eccl 2:1-11 | parallel | Testing pleasures and projects, each found empty"
+    - "Eccl 1:2-3 | concept | Futility of human undertakings"
+    - "Eccl 2:14-16 | concept | Same fate for wise and fool; skulls in the ruin-mounds cannot be told apart"
+    - "Prov 30:4 | parallel | 'Who has ascended to heaven?' as a proverb of human limits"
+    - "Deut 30:12-13 | parallel? | Who will go up to heaven or cross the sea? (proverbial phrasing)"
+  related: [ludlul-bel-nemeqi, babylonian-theodicy, ane-wisdom-literature, harpers-songs, dialogue-of-a-man-with-his-ba]
+  wikipedia: Dialogue of Pessimism
+  image: null
+  author_notes:
+    - "Genre and tone are debated: satire or parody of courtly advice (Speiser saw comedy), serious pessimism, or a scribal exercise in arguing both sides. The ending (the master proposes to kill the slave, who retorts the master would not outlive him three days) is ambiguous."
+    - "Qoheleth parallels are thematic (the vanity of pursuits); Qoheleth reaches an ethic of enjoyment (Eccl 9:7-9, cf. Siduri) that the Dialogue lacks. Avoid claims of dependence."
+    - "Known from first-millennium copies (Assur, Nineveh, Sippar); date of composition uncertain."
+  sources_to_check:
+    - "W. G. Lambert, Babylonian Wisdom Literature (1960)"
+    - ANET 437-438
+
+- id: sumerian-man-and-his-god
+  aliases: ["A Man and His God", "Sumerian Job"]
+  cultures: [sumerian]
+  date: [-1800]
+  circa: true
+  scope: >-
+    A Sumerian poem in which a young man afflicted by illness and social
+    rejection laments to his personal god, confesses his sins, and is restored.
+    It is the earliest known treatment of the righteous-sufferer theme.
+  passages:
+    - "Job 19:13-19 | parallel | Sufferer estranged from friends and kin"
+    - "Job 14:4 | concept | 'Never has a sinless child been born to its mother'; no one is clean"
+    - "Ps 51:5 | concept | Sinful from birth (MT 51:7)"
+    - "Ps 32:3-5 | concept | Confession of sin leads to the god's turning and healing"
+    - "Ps 6 | form | Individual lament of the sick sufferer pleading with the deity"
+    - "Job 42:10-12 | parallel | God hears the plea and restores the sufferer"
+  related: [ludlul-bel-nemeqi, babylonian-theodicy, mesopotamian-lament-prayers, ane-wisdom-literature]
+  wikipedia: null
+  image: null
+  author_notes:
+    - "Kramer's 1955 publication ('Man and His God: A Sumerian Variation on the Job Motif', VTSup 3) introduced it to biblical studies; the standard English translation is Klein's in COS."
+    - "Unlike Job, the sufferer assumes his own guilt and is restored after confession; it is a didactic lament-and-thanksgiving, closer to the penitential psalms than to Job's protest of innocence."
+    - "Old Babylonian copies (Nippur); composition perhaps Ur III. The 'no sinless child' line is the most quoted parallel."
+    - "Do not confuse it with the Akkadian Old Babylonian 'Dialogue between a Man and His God', a different text (which has its own Wikipedia article)."
+  sources_to_check:
+    - COS 1.179
+    - ANET 589-591
+
+- id: instructions-of-shuruppak
+  aliases: ["Instructions of Šuruppak"]
+  cultures: [sumerian]
+  date: [-2600, -2500]
+  circa: true
+  scope: >-
+    A Sumerian collection of practical admonitions given by Shuruppak to his son
+    Ziusudra, the flood hero. Attested from Early Dynastic tablets of c. 2500 BCE
+    to Old Babylonian school copies, it is among the oldest surviving works of
+    literature and the earliest instance of the father-to-son instruction genre.
+  passages:
+    - "Prov 1:8 | form | Instruction framed as a father's counsel to his son"
+    - "Prov 4:1-4 | form | Father passes on teaching received in turn from his own father"
+    - "Prov 6:1-5 | parallel | Do not stand surety for another"
+    - "Prov 6:24-29 | parallel | Warnings against sexual involvement with another man's wife"
+  related: [ane-wisdom-literature, instruction-of-amenemope, instruction-of-ptahhotep, eridu-genesis, scribes-and-scribal-education, ahiqar]
+  wikipedia: Instructions of Shuruppak
+  image: Instructions of Shuruppak tablet
+  author_notes:
+    - "Earliest copies from Abu Salabikh and Adab (Early Dynastic IIIa); the Old Babylonian version is longer. Alster's edition (2005) is standard."
+    - "The link to the flood hero Ziusudra frames ancient wisdom as antediluvian, a point of contact with traditions about sages before the flood."
+    - "Parallels with Proverbs are of genre and common sense (surety, adultery, speech), not of dependence; the father-son frame is pan-Near Eastern (cf. Egyptian instructions, Ahiqar)."
+  sources_to_check:
+    - COS 1.176
+    - ETCSL 5.6.1
+    - "B. Alster, Wisdom of Ancient Sumer (2005)"
+
+- id: city-laments
+  aliases: ["Lament for Ur", "Lamentation over the Destruction of Sumer and Ur", "Lament for Nippur", "Lament for Eridu", "Lament for Uruk"]
+  cultures: [sumerian]
+  date: [-2000, -1900]
+  circa: true
+  scope: >-
+    The five Sumerian city laments composed after the collapse of the Ur III
+    state (c. 2004 BCE), mourning the destruction of cities and temples by divine
+    decree, the gods' abandonment of their shrines, and the hope of restoration.
+    The entry also notes the later balag and eršemma liturgical laments.
+  passages:
+    - "Lam 1-5 | form | Communal lament over a destroyed city and sanctuary"
+    - "Lam 1:1-2, 16 | imagery | City personified as a weeping woman; cf. the goddess weeping for her city"
+    - "Lam 2:1-8 | concept | The deity as enemy who destroys his own city and temple"
+    - "Ezek 10:18-19; 11:22-23 | concept | Divine abandonment of the temple before its destruction"
+    - "Ps 74:1-11 | form | Communal lament over a desecrated, burned sanctuary"
+    - "Ps 79:1-4 | form | Lament over a defiled temple and unburied dead"
+    - "Jer 48 | form? | Oracle against Moab drawing on city-lament motifs (Dobbs-Allsopp)"
+  related: [fall-of-jerusalem-587, mesopotamian-lament-prayers, ur, mourning-rites, cult-images, babylonian-exile]
+  wikipedia: Lament for Ur
+  image: Lament for Ur tablet
+  author_notes:
+    - "The classic laments (Ur; Sumer and Ur; Nippur; Eridu; Uruk) are Isin-period compositions tied to temple rebuilding; the first-millennium balag and eršemma laments provide a possibly more direct chronological bridge to Lamentations."
+    - "McDaniel (1968) doubted direct influence on Lamentations; Dobbs-Allsopp (1993) argued for a native Israelite city-lament genre with comparable motifs. Present the comparison as generic and typological."
+    - "Divine abandonment of a city is a widespread Mesopotamian theme (also in Esarhaddon's Babylon inscriptions and the Marduk Prophecy) relevant to Ezekiel's departing glory (Block; Bodi)."
+  sources_to_check:
+    - COS 1.166
+    - ANET 455-463, 611-619
+    - "P. Michalowski, The Lamentation over the Destruction of Sumer and Ur (1989)"
+    - "F. W. Dobbs-Allsopp, Weep, O Daughter of Zion (BibOr 44, 1993)"
+
+- id: mesopotamian-lament-prayers
+  aliases: ["Šuila prayers", "Prayers of the lifted hand", "Eršaḫunga", "Penitential psalms (Mesopotamian)"]
+  cultures: [babylonian, assyrian, sumerian]
+  scope: >-
+    Individual prayers of complaint, petition, and penitence from Mesopotamia,
+    above all the Akkadian šuilla ("raising of the hand") incantation-prayers and
+    the bilingual eršaḫunga ("lament to appease the heart"). They are the main
+    comparative corpus for the biblical individual and penitential laments.
+  passages:
+    - "Ps 6 | form | Lament of the sick: plea that divine anger cease"
+    - "Ps 13:1-2 | language | 'How long?' (Akk. adi mati) formula of lament (MT 13:2-3)"
+    - "Ps 38 | form | Penitential lament linking illness to sin"
+    - "Ps 51 | form | Penitential prayer confessing sin and seeking cleansing"
+    - "Ps 130 | form | Penitential plea from the depths for forgiveness"
+    - "Ps 143:2 | concept | No one living is righteous before the deity"
+    - "Ps 19:12 | concept | Forgiveness sought for hidden or unknown faults (MT 19:13)"
+    - "Ps 141:2 | practice | Lifting of hands in prayer; šu-ila means 'raised hand'"
+    - "Ps 88 | form | Lament from the edge of death"
+  related: [sumerian-man-and-his-god, ludlul-bel-nemeqi, prayer-postures, city-laments, ishtar, prostration-and-obeisance]
+  wikipedia: null
+  image: null
+  author_notes:
+    - "Distinguish šuilla (incantation-prayers recited by the āšipu within rituals), eršaḫunga (penitential, Sumerian with Akkadian glosses), dingiršadabba, and the communal balag/eršemma laments."
+    - "Classic comparative study: Widengren (1937); see also Mayer (1976) on the form of the 'Gebetsbeschwörungen' and Lenzi (ed. 2011) for an introduction with translations."
+    - "Key differences: Mesopotamian prayers are embedded in ritual and magic, address many deities, and rely on the personal god's intercession; motifs such as unknown sin and 'how long?' are shared."
+    - "The 'Prayer of Lamentation to Ishtar' (ANET 383-385) is the most-quoted example and can anchor the article."
+  sources_to_check:
+    - ANET 383-385
+    - "A. Lenzi (ed.), Reading Akkadian Prayers and Hymns: An Introduction (2011)"
+    - "G. Widengren, The Accadian and Hebrew Psalms of Lamentation as Religious Documents (1937)"
+    - "W. Mayer, Untersuchungen zur Formensprache der babylonischen 'Gebetsbeschwörungen' (1976)"
+
+- id: legend-of-sargon
+  aliases: ["Sargon Birth Legend"]
+  cultures: [assyrian, babylonian]
+  date: [-720, -650]
+  circa: true
+  scope: >-
+    A first-millennium Akkadian text in which Sargon of Akkad recounts his
+    secret birth to a high priestess, his exposure in a reed basket sealed with
+    bitumen on the Euphrates, his rescue by a water-drawer, and his rise to
+    kingship through Ishtar's love.
+  passages:
+    - "Exod 2:1-10 | parallel | Infant placed in a reed basket sealed with bitumen, set on the river, rescued and raised"
+    - "Exod 2:3 | language | Papyrus basket coated with bitumen and pitch, as Sargon's 'basket of rushes' sealed with bitumen"
+  related: [sargon-of-akkad, sargon-ii, exodus-historical-questions, royal-ideology]
+  wikipedia: null
+  image: Sargon birth legend tablet British Museum
+  author_notes:
+    - "Known from Neo-Assyrian and Neo-Babylonian copies; many date its composition to Sargon II's reign (721-705), when a usurper bearing the old king's name had reason to celebrate him. This matters for dating Exod 2 (Redford, Otto argue for 7th-c. dependence)."
+    - "The exposed-hero motif is widespread (Lewis collected dozens of tales: Cyrus, Romulus, etc.); a motif parallel is not by itself proof of borrowing."
+    - "Differences: Moses' mother and sister act to save him, he is raised at the Egyptian court, and his name has an Egyptian etymology."
+  sources_to_check:
+    - "B. Lewis, The Sargon Legend (ASOR Diss. Series 4, 1980)"
+    - "J. G. Westenholz, Legends of the Kings of Akkade (1997)"
+    - COS 1.133
+    - ANET 119
+
+- id: maqlu
+  aliases: ["Maqlû", "Burning"]
+  cultures: [assyrian, babylonian]
+  date: [-900, -600]
+  circa: true
+  scope: >-
+    The nine-tablet Akkadian anti-witchcraft ceremony ("Burning") performed by
+    the exorcist (āšipu) over one night, in which figurines of the witch are
+    burned and her spells returned upon her. It is the principal Mesopotamian
+    source on how witchcraft (kišpū) was conceived and countered.
+  passages:
+    - "Exod 22:18 | practice | Prohibition of the female sorcerer (mĕkaššēpâ; cf. Akk. kaššāptu, 'witch') (MT 22:17)"
+    - "Deut 18:10-11 | practice | Forbidden diviners and sorcerers, incl. the mĕkaššēp"
+    - "Mic 5:12 | language | YHWH will cut off sorceries (kĕšāpîm) (MT 5:11)"
+    - "Isa 47:9, 12 | language | Babylon's many sorceries and spells"
+    - "Nah 3:4 | imagery | Nineveh as a harlot and mistress of sorceries"
+    - "Ezek 13:17-23 | practice? | Women's binding bands and veils to 'hunt lives': harmful magic"
+  related: [divination, demons, lamashtu-pazuzu-amulets, necromancy, amulets, mouth-washing-and-opening]
+  wikipedia: Maqlû
+  image: null
+  author_notes:
+    - "Abusch's edition (2016) and studies reconstruct the ceremony's growth from a shorter rite; it was performed at the end of the month Abu."
+    - "In Mesopotamia witchcraft (kišpū) was illicit harmful magic, while the āšipu's counter-magic was legitimate state-sanctioned expertise. Biblical law rejects a wider range of practices, so do not equate the categories."
+    - "The root kšp is shared by Hebrew and Akkadian; note the lexical link without assuming identical practices."
+  sources_to_check:
+    - "T. Abusch, The Magical Ceremony Maqlû: A Critical Edition (2016)"
+    - "T. Abusch and D. Schwemer, Corpus of Mesopotamian Anti-Witchcraft Rituals (2011-)"
+
+- id: enuma-anu-enlil
+  aliases: ["Enūma Anu Enlil", "EAE"]
+  cultures: [babylonian, assyrian]
+  date: [-1200, -650]
+  circa: true
+  scope: >-
+    The canonical Babylonian series of about seventy tablets of celestial omens
+    (lunar, solar, meteorological, and planetary) used by court scholars to
+    interpret signs in the sky for king and state. It is the chief background for
+    biblical references to Babylonian star-gazers and portents in the heavens.
+  passages:
+    - "Isa 47:13 | practice | Babylon's star-gazers who divide the heavens and forecast by the new moons"
+    - "Jer 10:2 | concept | 'Do not be dismayed at the signs of the heavens' as the nations are"
+    - "Dan 2:2, 10 | practice | Babylonian court experts (magicians, enchanters, Chaldeans) consulted by the king"
+    - "Amos 8:9 | imagery? | Sun set at noon, darkness by day: eclipse as ominous portent"
+    - "Matt 2:1-2 | practice | Magi from the east read a star as the sign of a royal birth"
+  related: [astrology, divination, constellations, host-of-heaven, extispicy, library-of-ashurbanipal]
+  wikipedia: Enuma Anu Enlil
+  image: Venus tablet of Ammisaduqa British Museum
+  author_notes:
+    - "Omens go back to the Old Babylonian period (the Venus Tablet of Ammi-ṣaduqa is EAE 63); the series was standardised in the late second millennium; main copies are 7th-c. Nineveh."
+    - "Celestial divination concerned king and land, not individual horoscopes, which appear only from the late 5th c. BCE. Neo-Assyrian scholars' reports and letters (SAA 8, SAA 10) show the series in use, including the substitute-king ritual after eclipses."
+    - "Biblical polemic against astral divination is concentrated in exilic and later texts (Deutero-Isaiah, Daniel); avoid reading 'astrology' anachronistically into earlier passages."
+  sources_to_check:
+    - "H. Hunger, Astrological Reports to Assyrian Kings (SAA 8, 1992)"
+    - "S. Parpola, Letters from Assyrian and Babylonian Scholars (SAA 10, 1993)"
+    - "E. Reiner and D. Pingree, Babylonian Planetary Omens (1975-2005)"
+    - "F. Rochberg, The Heavenly Writing (2004)"
+
+- id: neo-assyrian-prophecies
+  cultures: [assyrian]
+  date: [-681, -650]
+  circa: true
+  scope: >-
+    The corpus of about thirty prophetic oracles, chiefly from prophets of
+    Ishtar of Arbela, delivered to Esarhaddon and Ashurbanipal and preserved on
+    archival collection tablets and reports from Nineveh. They are the closest
+    ANE parallel to the "fear not" salvation oracles of Isaiah 40-55.
+  passages:
+    - "Isa 41:10 | form | 'Fear not, for I am with you': salvation oracle (cf. Akk. lā tapallaḫ)"
+    - "Isa 41:13-14 | form | 'Fear not, worm Jacob, I will help you'"
+    - "Isa 43:1-5 | form | 'Fear not, for I have redeemed you; I am with you'"
+    - "Isa 44:2 | imagery | Deity who formed the addressee in the womb; Ishtar as the king's midwife and nurse"
+    - "Isa 66:12-13 | imagery | Carried on the hip and comforted like a nursing child"
+    - "2Sam 7:8-16 | concept | Divine promise of protection and lasting rule to the chosen king"
+    - "Jer 36:1-4 | practice | Oracles written down and collected for preservation"
+  related: [prophecy-in-the-ane, mari-letters, esarhaddon, ishtar, ashurbanipal, esarhaddon-succession-treaty]
+  wikipedia: null
+  image: null
+  author_notes:
+    - "SAA 9 gathers about 29 oracles on 11 tablets; prophets (raggimu/raggintu, maḫḫû) include women and persons of ambiguous gender. Collection tablets (e.g. SAA 9 1-3) show oracles being edited and archived, relevant to the formation of prophetic books."
+    - "The 'fear not' oracle (Begrich's Heilsorakel) is best paralleled here and in royal inscriptions (e.g. Zakkur); Deutero-Isaiah transfers the royal oracle to the people."
+    - "Much of the content legitimates Esarhaddon's contested succession, hence the links with the succession treaty."
+  sources_to_check:
+    - "S. Parpola, Assyrian Prophecies (SAA 9, 1997)"
+    - "M. Nissinen, Prophets and Prophecy in the Ancient Near East (SBLWAW 12, 2003; 2nd ed. 2019)"
+
+- id: mari-letters
+  aliases: ["Mari texts", "Mari tablets", "Royal Archives of Mari"]
+  cultures: [amorite]
+  date: [-1810, -1761]
+  circa: true
+  scope: >-
+    The roughly 20,000 cuneiform tablets from the palace of Mari (Tell Hariri,
+    Syria), mainly letters and administrative texts from the reigns of
+    Yasmah-Addu and Zimri-Lim before Hammurabi's conquest. They are a major
+    source for Amorite tribal society, treaty ritual, and above all prophecy
+    outside Israel.
+  passages:
+    - "Deut 13:1-5 | practice | Prophets and dreamers whose words must be checked (MT 13:2-6)"
+    - "Deut 18:15-22 | practice | Prophets alongside diviners; testing a prophet's word"
+    - "1Kgs 22:5-28 | practice | Several prophets consulted before war; conflicting oracles"
+    - "2Sam 7:8-16 | concept | Oracle legitimating a king and his house (Adad of Aleppo to Zimri-Lim)"
+    - "Ps 89:25 | imagery | King's hand set on Sea; Adad gives Zimri-Lim the weapons he used against the Sea (MT 89:26)"
+    - "Gen 15:9-10, 17 | practice | Covenant ratified by killing an animal ('killing a donkey foal')"
+    - "Josh 7:1, 10-26 | practice? | Taboo (asakkum) on booty reserved for god or king; cf. Achan and ḥērem"
+    - "Exod 30:11-16 | practice? | Census involving ritual purification and danger (Speiser)"
+    - "Gen 35:18 | language? | Binu-yamina, 'sons of the right/south' tribal group; cf. Benjamin"
+  related: [prophecy-in-the-ane, mari, covenant-cutting-ceremony, herem, amorites, neo-assyrian-prophecies, dreams-and-dream-interpretation, chaoskampf]
+  wikipedia: Mari texts
+  image: Mari tablet Zimri-Lim letter
+  author_notes:
+    - "About 50 letters report oracles of āpilum ('answerer'), muḫḫûm ('ecstatic'), and others, many published in ARM 26. Officials sometimes sent the prophet's hair and garment hem so the message could be checked by extispicy."
+    - "The Adad of Aleppo letter (A.1968), in which the god gives Zimri-Lim the weapons he used against Têmtum (Sea), is key for the royal chaoskampf of Ps 89 and for Lambert's case that the combat myth is West Semitic."
+    - "Older 'Mari and the patriarchs' comparisons (tribal terms, gôy/gāyum, nāweh, ḥērem/asakkum, census) should be nuanced; Fleming (2004) offers a recent treatment of Mari tribal politics."
+    - "The Binu-yamina reading (formerly 'Benjaminites') is onomastic; do not imply a historical link with Israel's Benjamin."
+  sources_to_check:
+    - "J.-M. Durand, Archives épistolaires de Mari I/1 (ARM 26/1, 1988)"
+    - "M. Nissinen, Prophets and Prophecy in the Ancient Near East (SBLWAW 12, 2003; 2nd ed. 2019)"
+    - "W. Heimpel, Letters to the King of Mari (2003)"
+    - "A. Malamat, Mari and the Bible (1998)"
+    - "D. E. Fleming, Democracy's Ancient Ancestors: Mari and Early Collective Governance (2004)"
+
+- id: nuzi-texts
+  aliases: ["Nuzi tablets", "Nuzi archives"]
+  cultures: [hurrian]
+  date: [-1450, -1340]
+  circa: true
+  scope: >-
+    The several thousand Akkadian tablets, mostly private family archives, from
+    Nuzi (Yorghan Tepe) in the Hurrian kingdom of Arrapha. In the mid-twentieth
+    century they were used to argue that the patriarchal narratives reflect
+    second-millennium customs; that use has since been heavily revised.
+  passages:
+    - "Gen 16:1-4 | practice | Marriage contract obliging a childless wife to provide a slave woman for bearing children"
+    - "Gen 30:1-13 | practice | Rachel and Leah give their maids to Jacob as surrogates"
+    - "Gen 29:24, 29 | practice | Slave women given to a bride as part of the marriage"
+    - "Gen 15:2-3 | practice? | Childless man's heir from outside the family, displaced if a natural son is born"
+    - "Gen 31:19, 30-35 | practice? | Household gods linked to family headship or inheritance in Nuzi wills (disputed)"
+    - "Gen 25:29-34 | practice? | Transfer of inheritance shares between brothers for goods"
+    - "Exod 21:2-6 | practice? | Ḫapiru entering service contracts; compared with the law of the 'Hebrew' slave"
+  related: [hurrians-and-horites, adoption, surrogacy-and-concubinage, teraphim, inheritance-and-birthright, habiru]
+  wikipedia: Nuzi
+  image: Nuzi tablet
+  author_notes:
+    - "Speiser and Gordon used Nuzi to date the patriarchs to the second millennium; Thompson (1974), Van Seters (1975), and Selman (1980) showed that many parallels were misread or are attested across periods. Present Nuzi as illustrating customary law, not as dating evidence."
+    - "Speiser's 'wife-sister' adoption theory for Gen 12, 20, and 26 is now rejected; mention it as a historiographical misconception."
+    - "The household-gods-and-inheritance thesis for Rachel's theft (Gen 31) was challenged by Greenberg (1962) and others; keep it as a debated option."
+    - "Surrogacy clauses are also known from Old Babylonian and Neo-Assyrian contracts, which weakens any Nuzi-specific claim."
+  sources_to_check:
+    - "M. P. Maidman, Nuzi Texts and Their Uses as Historical Evidence (SBLWAW 18, 2010)"
+    - "T. L. Thompson, The Historicity of the Patriarchal Narratives (BZAW 133, 1974)"
+    - "J. Van Seters, Abraham in History and Tradition (1975)"
+    - "M. J. Selman, 'Comparative Customs and the Patriarchal Age,' in Essays on the Patriarchal Narratives (ed. A. R. Millard and D. J. Wiseman, 1980)"
+    - ANET 219-220
+
+- id: emar-texts
+  aliases: ["Emar archives", "Meskene tablets"]
+  cultures: [amorite, hurrian, hittite]
+  date: [-1300, -1185]
+  circa: true
+  scope: >-
+    The Late Bronze Age tablets from Emar (Tell Meskene) on the Middle
+    Euphrates, a Syrian city under Hittite overlordship. They include an
+    unusual archive of local ritual texts (priestess installations, the zukru
+    festival) and legal documents on inheritance and the household gods.
+  passages:
+    - "Lev 8:1-36 | practice | Multi-day installation of cult personnel with anointing of the head and offerings"
+    - "Num 27:1-11 | practice | Daughters as heirs; Emar wills legally designate daughters as 'male and female'"
+    - "Gen 31:19, 30-35 | practice? | Inheritance linked to custody of the household gods (ilānu) and care of the dead"
+    - "Gen 28:18-22 | practice | Standing stones (sikkānu) anointed with oil in local cult"
+    - "Lev 23:4-8 | practice? | zukru festival beginning on the 15th of the first month for seven days"
+  related: [inheritance-and-birthright, teraphim, massebot, festivals-agricultural, care-for-the-dead, hittites-and-hethites]
+  wikipedia: Emar
+  image: Emar tablet
+  author_notes:
+    - "Excavated 1972-76 by a French team before flooding by the Tabqa dam; many further tablets appeared on the antiquities market, so flag provenance problems."
+    - "The ritual archive from a diviner's house gives rare insight into West Semitic civic cult; Fleming's comparisons with Priestly ritual (installation, festival calendar) are suggestive and should not be pressed into claims of influence."
+    - "The 'gods and the dead' (ilānū u mētū) in wills are central to debates on teraphim and ancestor cult (van der Toorn)."
+  sources_to_check:
+    - "D. Arnaud, Recherches au pays d'Aštata: Emar VI (1985-87)"
+    - "D. E. Fleming, The Installation of Baal's High Priestess at Emar (HSS 42, 1992)"
+    - "D. E. Fleming, Time at Emar (2000)"
+
+- id: code-of-hammurabi
+  aliases: ["Laws of Hammurabi", "LH", "Hammurabi stele"]
+  cultures: [babylonian, akkadian]
+  date: [-1755, -1750]
+  circa: true
+  scope: >-
+    The diorite stele inscribed with the laws of Hammurabi of Babylon, about 282
+    casuistic provisions framed by a prologue and epilogue on the king's divine
+    commission to establish justice. It is the most extensive ANE law collection
+    and the standard comparandum for the Covenant Code.
+  passages:
+    - "Exod 21:23-25 | parallel | Talion for bodily injury among free persons (LH §§196-201)"
+    - "Exod 21:28-32 | parallel | Ox known to gore kills a person; owner liable (LH §§250-252)"
+    - "Exod 21:22 | parallel | Striking a pregnant woman causing miscarriage (LH §§209-214)"
+    - "Exod 21:2-6 | practice | Time-limited debt servitude (LH §117: three years; Exodus: six)"
+    - "Exod 21:15 | parallel | Son who strikes his father (LH §195)"
+    - "Exod 22:10-13 | parallel | Herdsman cleared by oath or evidence of losses to predators (LH §266) (MT 22:9-12)"
+    - "Deut 19:16-19 | parallel | False accuser suffers the penalty he sought (LH §§1-4)"
+    - "Gen 16:1-6 | practice | Slave woman bears for a childless wife, then claims equality (LH §§144-146)"
+    - "Num 5:11-31 | practice | Wife suspected of adultery submitted to an ordeal (LH §§131-132)"
+    - "Ps 72:1-4, 12-14 | concept | King as guarantor of justice for the weak, widow, and orphan"
+  related: [hammurabi, ane-law-collections, lex-talionis, goring-ox, laws-of-eshnunna, shepherd-kingship, shamash, susa]
+  wikipedia: Code of Hammurabi
+  image: Code of Hammurabi stele Louvre
+  location: Musée du Louvre, Paris
+  author_notes:
+    - "Found at Susa in 1901-02 by the French expedition; it had been carried off as booty by the Elamite king Shutruk-Nahhunte in the 12th c. The relief shows Hammurabi before Shamash. Fragments of other stelae and many manuscript copies exist; the text was copied in scribal schools for over a millennium."
+    - "Nature debated: legislation vs. a royal apologia or 'scientific' compilation of exemplary verdicts (Kraus, Bottéro, Westbrook); it is rarely if ever cited in court records."
+    - "Covenant Code relationship: shared legal-scribal tradition (Paul, Westbrook) vs. direct literary dependence on LH in the Neo-Assyrian period (Wright 2009). Present the range; Wright's thesis is influential but contested."
+    - "Contrasts worth drawing: social stratification (awīlum, muškēnum, wardum), vicarious punishment (§§116, 210, 230; cf. Exod 21:31, Deut 24:16), and divine vs. royal authorship of law."
+  sources_to_check:
+    - "M. T. Roth, Law Collections from Mesopotamia and Asia Minor (2nd ed., SBLWAW 6, 1997)"
+    - COS 2.131
+    - ANET 163-180
+    - "D. P. Wright, Inventing God's Law (2009)"
+    - "M. E. J. Richardson, Hammurabi's Laws: Text, Translation and Glossary (2000)"
+
+- id: laws-of-ur-nammu
+  aliases: ["Code of Ur-Nammu", "LU"]
+  cultures: [sumerian]
+  date: [-2112, -2047]
+  circa: true
+  scope: >-
+    The oldest known law collection, in Sumerian, attributed to Ur-Nammu or his
+    son Shulgi of the Third Dynasty of Ur. A prologue on royal justice for the
+    weak is followed by casuistic laws that, notably, use monetary compensation
+    for bodily injury.
+  passages:
+    - "Exod 22:22-24 | concept | Protection of widow and orphan as a royal/divine duty (prologue) (MT 22:21-23)"
+    - "Exod 21:18-25 | parallel | Bodily injury: LU sets fixed silver payments where Exodus has compensation and talion"
+    - "Num 5:11-31 | practice | River ordeal for a wife accused of adultery (LU §14)"
+    - "Deut 22:25-27 | parallel | Rape of a betrothed young woman is a capital offence (LU §6)"
+    - "Deut 25:13-16 | concept | Royal standardisation of weights and measures (prologue)"
+  related: [ane-law-collections, widow-orphan-sojourner, trial-by-ordeal, weights-and-silver-money, laws-of-lipit-ishtar, code-of-hammurabi]
+  wikipedia: Code of Ur-Nammu
+  image: Code of Ur-Nammu tablet Istanbul
+  author_notes:
+    - "Attribution to Ur-Nammu (2112-2095) or Shulgi is debated; manuscripts come from Nippur, Ur, and Sippar, with a fuller unprovenanced manuscript published by Civil (2011)."
+    - "Monetary compensation for injury in the earliest law and talion in later Babylonian and biblical law reverse the old evolutionary assumption that talion is 'primitive' (Finkelstein; discuss rather than adjudicate)."
+    - "Section numbers differ between editions; check them against Roth."
+  sources_to_check:
+    - "M. T. Roth, Law Collections from Mesopotamia and Asia Minor (2nd ed., 1997)"
+    - COS 2.153
+    - ANET 523-525
+
+- id: laws-of-lipit-ishtar
+  aliases: ["Code of Lipit-Ishtar", "LL"]
+  cultures: [sumerian]
+  date: [-1934, -1924]
+  circa: true
+  scope: >-
+    The Sumerian law collection of Lipit-Ishtar, king of Isin, reconstructed
+    from Old Babylonian school copies. It is the earliest well-preserved example
+    of the prologue-laws-epilogue frame later used by Hammurabi, with an
+    epilogue of blessings and curses.
+  passages:
+    - "Lev 26:3-39 | form | Law collection concluding with blessings and curses"
+    - "Deut 28 | form | Blessings and curses following a law corpus"
+    - "Exod 21:22 | parallel | Fine for causing a woman's miscarriage"
+    - "Exod 22:14-15 | parallel | Liability for injury to a hired or borrowed ox (MT 22:13-14)"
+    - "Judg 11:1-2 | practice | Status of a prostitute's son; LL §27 makes him heir, Jephthah is expelled"
+  related: [ane-law-collections, laws-of-ur-nammu, code-of-hammurabi, blessings-and-curses, inheritance-and-birthright]
+  wikipedia: Code of Lipit-Ishtar
+  image: Lipit-Ishtar law code tablet
+  author_notes:
+    - "The frame (gods call the king; laws; curses on anyone who defaces the stele) predates Hammurabi and is often compared with the hortatory endings of the Covenant Code (Exod 23:20-33) and Holiness Code (Lev 26), which however are divine speech rather than royal self-praise."
+    - "The text is reconstructed from many fragmentary copies, and the assignment of some provisions (e.g. on miscarriage) to LL rather than to Sumerian school exercises should be checked against Roth."
+  sources_to_check:
+    - "M. T. Roth, Law Collections from Mesopotamia and Asia Minor (2nd ed., 1997)"
+    - COS 2.154
+    - ANET 159-161
+
+- id: laws-of-eshnunna
+  aliases: ["LE", "Code of Eshnunna"]
+  cultures: [akkadian]
+  date: [-1800, -1760]
+  circa: true
+  scope: >-
+    An Old Babylonian Akkadian law collection from the kingdom of Eshnunna,
+    known chiefly from two tablets found at Tell Harmal. It contains the closest
+    verbal parallel to any biblical law, the ruling on an ox that gores another
+    ox.
+  passages:
+    - "Exod 21:35 | parallel | Ox gores ox: owners divide the live ox and the carcass (LE §53), nearly verbatim"
+    - "Exod 21:28-32 | parallel | Owner warned of a goring ox pays when it kills a person (LE §§54-55)"
+    - "Exod 22:2-3 | parallel | Thief in a house at night may be killed; by day penalty differs (LE §§12-13) (MT 22:1-2)"
+    - "Exod 22:7-8 | practice | Lost deposit: depositary clears himself by oath before the god (LE §§36-37) (MT 22:6-7)"
+    - "Deut 22:25-27 | parallel | Rape of a betrothed girl: death for the man (LE §26)"
+    - "Deut 22:8 | practice | Owner liable for deaths from a known structural hazard (LE §58: tottering wall)"
+  related: [goring-ox, code-of-hammurabi, ane-law-collections, oaths-and-oath-formulas, laws-of-lipit-ishtar]
+  wikipedia: Laws of Eshnunna
+  image: Laws of Eshnunna tablet
+  author_notes:
+    - "Two tablets from Tell Harmal (Shaduppum) excavated in 1945-49 (Goetze's edition 1956) plus a fragment from Tell Haddad; usually dated a generation or two before Hammurabi, possibly to Dadusha's reign."
+    - "LE §53 and Exod 21:35 are the most celebrated verbal parallel in ANE law (Yaron; Jackson; Westbrook). Most explain it by shared legal-scribal tradition rather than Israelite access to Eshnunna; Wright posits mediation through LH."
+    - "The day/night burglar distinction (§§12-13) is another strong parallel and illustrates shared casuistic reasoning."
+  sources_to_check:
+    - "M. T. Roth, Law Collections from Mesopotamia and Asia Minor (2nd ed., 1997)"
+    - COS 2.130
+    - ANET 161-163
+    - "R. Yaron, The Laws of Eshnunna (2nd ed., 1988)"
+
+- id: middle-assyrian-laws
+  aliases: ["MAL", "Assyrian Laws"]
+  cultures: [assyrian]
+  date: [-1400, -1076]
+  circa: true
+  scope: >-
+    The Middle Assyrian law tablets from Assur, above all Tablet A on offences
+    by and against women, marriage, widowhood, and veiling, together with
+    tablets on property and other matters. They offer the closest ANE parallels
+    to several laws in Deuteronomy 22 and 25.
+  passages:
+    - "Deut 25:11-12 | parallel | Woman who injures a man's testicles in a fight is mutilated (MAL A §8)"
+    - "Deut 25:5-10 | practice | Widow given to her late husband's brother or father-in-law"
+    - "Deut 22:22 | parallel | Adulterers caught in the act both liable to death (MAL A §§13-15)"
+    - "Deut 22:23-27 | parallel | Consent and location in judging sexual assault (MAL A §12)"
+    - "Deut 22:28-29 | parallel | Violator of an unbetrothed virgin pays her father and must marry her (MAL A §55)"
+    - "Exod 22:16-17 | parallel | Seducer pays and may marry the girl at the father's discretion (MAL A §56) (MT 22:15-16)"
+    - "Gen 38:14-15 | practice | Veiling regulated by status; prostitutes forbidden to veil (MAL A §40)"
+    - "Exod 21:22-25 | parallel | Penalties for causing a miscarriage (MAL A §§21, 50-52)"
+    - "Deut 25:1-3 | practice | Flogging with a fixed number of blows; Deut caps it at forty"
+  related: [levirate-marriage, ane-law-collections, marriage-and-bride-price, code-of-hammurabi, hittite-laws, assyria]
+  wikipedia: null
+  image: Middle Assyrian laws tablet Assur
+  author_notes:
+    - "Excavated at Assur in the German campaigns (1903-14); the copies date to about the reign of Tiglath-pileser I (late 12th-11th c.), the composition probably earlier (14th c.). Penalties are notably harsh and corporal."
+    - "Levirate provisions are spread over several sections of Tablet A (c. §§30, 33, 43; verify against Roth). They differ from Deut 25:5-10, where the aim is to preserve the deceased's name and the brother may refuse."
+    - "MAL A §40 requires wives and daughters to veil and forbids prostitutes and slave women to do so; Gen 38:15 (Tamar veiled, taken for a prostitute) shows the Israelite custom cannot simply be equated. Gen 24:65 can be added."
+    - "No dedicated English Wikipedia article exists; the broader article 'Assyrian law' covers it."
+  sources_to_check:
+    - "M. T. Roth, Law Collections from Mesopotamia and Asia Minor (2nd ed., 1997)"
+    - COS 2.132
+    - ANET 180-188
+    - "G. R. Driver and J. C. Miles, The Assyrian Laws (1935)"
+
+- id: hittite-laws
+  aliases: ["HL", "Laws of the Hittites"]
+  cultures: [hittite]
+  date: [-1650, -1500]
+  circa: true
+  scope: >-
+    The Hittite law collection of about 200 provisions on two tablets, composed
+    in the Old Hittite period and recopied with revisions into the 13th century.
+    It is notable for recording changes of penalty over time and for its
+    regulation of sexual offences.
+  passages:
+    - "Lev 18:23 | parallel | Bestiality forbidden; HL distinguishes animals (cattle, sheep, pig, dog vs. horse, mule)"
+    - "Lev 20:15-16 | parallel | Bestiality as a capital offence (HL §§187-188, 199-200)"
+    - "Lev 18:6-18 | parallel | Prohibited sexual unions with close relatives (HL §§189-195)"
+    - "Deut 25:5-10 | practice | Widow married by the deceased's brother, then his father (HL §193)"
+    - "Gen 38:8-26 | practice | Levirate duty passing from brothers to the father-in-law (HL §193)"
+    - "Deut 22:23-27 | parallel | Woman seized in the mountains is innocent; in the house, culpable (HL §197)"
+    - "Exod 21:22 | parallel | Compensation for causing a woman's miscarriage (HL §§17-18)"
+    - "Deut 21:1-9 | practice | Body found in open country: distance measured to the nearest town, which is liable"
+  related: [levirate-marriage, ane-law-collections, middle-assyrian-laws, hittites-and-hethites, purity-and-impurity]
+  wikipedia: Hittite laws
+  image: Hittite laws cuneiform tablet
+  author_notes:
+    - "The formula 'formerly they did X, now they do Y' documents legal reform, rare in ANE law. Penalties are largely compensatory; death is reserved mainly for certain sexual offences (ḫurkel) and challenges to authority."
+    - "The unsolved-homicide parallel to Deut 21:1-9 comes from a late version of HL §6 (Hoffner's numbering); verify against Hoffner (1997)."
+    - "Keep the Anatolian Hittites distinct from the 'sons of Heth' of Gen 23 and other biblical 'Hittites' (see hittites-and-hethites)."
+  sources_to_check:
+    - "H. A. Hoffner Jr., The Laws of the Hittites: A Critical Edition (1997)"
+    - "M. T. Roth, Law Collections from Mesopotamia and Asia Minor (2nd ed., 1997)"
+    - COS 2.19
+    - ANET 188-197
+
+- id: edict-of-ammi-saduqa
+  aliases: ["Ammi-ṣaduqa's Edict", "mīšarum edict"]
+  cultures: [akkadian, babylonian]
+  date: [-1646]
+  circa: true
+  scope: >-
+    The best-preserved Old Babylonian mīšarum ("equity") decree, issued by
+    Ammi-ṣaduqa of Babylon, probably at his accession. It cancelled consumer
+    debts and arrears and released persons in debt bondage, while excluding
+    commercial loans and house-born slaves, and is the main ANE analogue to
+    biblical debt-release and jubilee laws.
+  passages:
+    - "Lev 25:8-17 | practice | Proclamation of release (dĕrôr, cognate with Akk. andurārum) in the jubilee year"
+    - "Lev 25:39-46 | practice | Release of indebted kin but not chattel slaves; the edict also excludes house-born slaves"
+    - "Deut 15:1-11 | practice | Periodic remission of debts; foreigners excepted, as the edict excepts commercial loans"
+    - "Jer 34:8-22 | practice | King's ad hoc proclamation of release, then revoked"
+    - "Neh 5:1-13 | practice | Governor's cancellation of debts and pledges in a crisis"
+    - "Isa 61:1-2 | language | 'Proclaim liberty (dĕrôr) to the captives'"
+    - "Ezek 46:17 | language | 'Year of liberty' (šĕnat dĕrôr) when gifted land reverts"
+  related: [debt-release, sabbatical-year, slavery, hammurabi, widow-orphan-sojourner, land-redemption]
+  wikipedia: null
+  image: Ammi-saduqa edict tablet
+  author_notes:
+    - "Mīšarum acts were proclaimed by several Old Babylonian kings (Hammurabi included), usually at accession; Ammi-ṣaduqa's (mid-17th c.) is best preserved. Finkelstein (1961) and Kraus (1984) are foundational."
+    - "Biblical law turns an ad hoc royal act into a fixed cycle (seventh and fiftieth years) under divine authority (Weinfeld). Whether the jubilee was ever practised is debated."
+    - "The andurārum/dĕrôr equation is secure; Neo-Assyrian andurāru decrees show the institution's persistence into the first millennium."
+  sources_to_check:
+    - "F. R. Kraus, Königliche Verfügungen in altbabylonischer Zeit (1984)"
+    - "J. J. Finkelstein, 'Ammiṣaduqa's Edict and the Babylonian Law Codes,' JCS 15 (1961): 91-104"
+    - "M. Weinfeld, Social Justice in Ancient Israel and in the Ancient Near East (1995)"
+    - ANET 526-528
+
+- id: esarhaddon-succession-treaty
+  aliases: ["Vassal Treaties of Esarhaddon", "VTE", "EST", "adê of Esarhaddon"]
+  cultures: [assyrian]
+  date: [-672]
+  scope: >-
+    The loyalty oath (adê) imposed in 672 BCE by Esarhaddon of Assyria on
+    vassals and subjects to secure the succession of Ashurbanipal, known from
+    copies found at Nimrud and Tell Tayinat. Its loyalty clauses and curse
+    sequences are the closest known parallels to Deuteronomy 13 and 28.
+  passages:
+    - "Deut 13:1-18 | parallel | Duty to report and punish incitement to disloyalty, even by prophets or kin (MT 13:2-19)"
+    - "Deut 28:26-30 | parallel | Curse sequence: corpses to birds, skin disease, blindness, wife taken (EST §§39-42)"
+    - "Deut 28:23 | parallel | Sky of bronze and earth of iron (EST §§63-64)"
+    - "Deut 6:5 | language | Command to 'love' the overlord with all one's heart; 'love Ashurbanipal as yourselves'"
+    - "Deut 12:32 | parallel | Do not add to or take from the words (MT 13:1); EST forbids altering the treaty tablet"
+    - "Deut 6:6-9 | practice? | Oath to be passed on to children and descendants"
+    - "2Kgs 21:1-18 | setting? | Manasseh, an Assyrian vassal under Esarhaddon, probably bound by such oaths"
+    - "Ezek 17:11-21 | concept | Breaking a vassal oath sworn in the deity's name as an offence against that deity"
+  related: [covenant-and-treaty-form, blessings-and-curses, esarhaddon, ashurbanipal, covenant-love-language, oaths-and-oath-formulas, manasseh, sefire-treaties]
+  wikipedia: null
+  image: Esarhaddon vassal treaty tablet Nimrud
+  author_notes:
+    - "Copies found in 1955 in the Nabû temple at Nimrud (sworn by Median rulers) and in 2009 at Tell Tayinat in the Syrian west. The Tayinat copy shows western vassals bound by the same text and strengthens (but does not prove) the case that Judah knew it."
+    - "Many (Otto, Levinson, Steymans) see Deut 13 and 28 as a deliberate, subversive adaptation that transfers loyalty from the Assyrian king to YHWH; Crouch (2014) and others question the criteria for direct dependence. Present it as influential but contested."
+    - "Moran (CBQ 1963) established 'love' as treaty language for loyalty; the EST loyalty clauses are a key comparandum."
+    - "Section numbers follow SAA 2 6; check them, since older literature uses line numbers (Wiseman 1958)."
+  sources_to_check:
+    - "S. Parpola and K. Watanabe, Neo-Assyrian Treaties and Loyalty Oaths (SAA 2, 1988), no. 6"
+    - "D. J. Wiseman, 'The Vassal-Treaties of Esarhaddon,' Iraq 20 (1958)"
+    - "J. Lauinger, 'Esarhaddon's Succession Treaty at Tell Tayinat: Text and Commentary,' JCS 64 (2012): 87-123"
+    - "H. U. Steymans, Deuteronomium 28 und die adê zur Thronfolgeregelung Asarhaddons (OBO 145, 1995)"
+    - ANET 534-541
+
+- id: hittite-vassal-treaties
+  cultures: [hittite]
+  date: [-1400, -1200]
+  circa: true
+  scope: >-
+    The Late Bronze Age treaties by which Hittite great kings bound subordinate
+    rulers. They typically include a preamble, historical prologue, stipulations,
+    provisions for deposit and public reading, divine witnesses, and curses and
+    blessings. Since Mendenhall (1954) they have been central to the comparison
+    of covenant forms in Exodus, Deuteronomy, and Joshua.
+  passages:
+    - "Exod 20:2 | form | Self-identification of the overlord with his past benefaction (historical prologue)"
+    - "Exod 20:1-17 | form? | Decalogue read as treaty stipulations of exclusive loyalty (Mendenhall)"
+    - "Deut 1:6-3:29 | form | Historical review of the relationship before the stipulations"
+    - "Josh 24:1-28 | form | Covenant ceremony: history, stipulations, witnesses, written record"
+    - "Deut 31:9-13, 24-26 | practice | Document deposited in the sanctuary and periodically read aloud"
+    - "Exod 25:16 | practice | Covenant document ('testimony') placed in the ark"
+    - "Deut 28 | form | Blessings and curses as treaty sanctions"
+    - "Deut 30:19 | form | Heaven and earth invoked as witnesses, as at the end of Hittite divine-witness lists"
+  related: [covenant-and-treaty-form, blessings-and-curses, esarhaddon-succession-treaty, egyptian-hittite-peace-treaty, covenant-lawsuit, sefire-treaties, hittites-and-hethites]
+  wikipedia: null
+  image: Bronze tablet Hattusa treaty
+  author_notes:
+    - "Mendenhall, Baltzer, McCarthy, and Kitchen argued that the Hittite form matches the Sinai/Deuteronomy covenant and supports an early date. Most now find Deuteronomy's closest analogues in 7th-c. Neo-Assyrian oaths, yet Hittite features (historical prologue, blessings) remain; Berman revives the Hittite comparison."
+    - "Representative texts: Šuppiluliuma I with Aziru of Amurru; Muršili II with Tuppi-Teššub; the bronze tablet of Tudḫaliya IV with Kurunta (found at Ḫattuša in 1986)."
+    - "Treat the Decalogue-as-treaty idea as contested; the analogy holds better for Deuteronomy as a whole."
+  sources_to_check:
+    - "G. Beckman, Hittite Diplomatic Texts (2nd ed., SBLWAW 7, 1999)"
+    - "D. J. McCarthy, Treaty and Covenant (rev. ed., AnBib 21A, 1978)"
+    - "K. A. Kitchen and P. J. N. Lawrence, Treaty, Law and Covenant in the Ancient Near East (2012)"
+    - ANET 203-205
+
+- id: egyptian-hittite-peace-treaty
+  aliases: ["Treaty of Kadesh", "Silver Treaty"]
+  cultures: [hittite, egyptian]
+  date: [-1259]
+  circa: true
+  scope: >-
+    The parity treaty concluded about 1259 BCE between Ramesses II of Egypt and
+    Ḫattušili III of Ḫatti, preserved in Akkadian cuneiform tablets from Ḫattuša
+    and in hieroglyphic versions at Karnak and the Ramesseum. It sets out
+    non-aggression, mutual defence, support for succession, and extradition of
+    fugitives between "brothers".
+  passages:
+    - "1Kgs 5:12 | form | Parity treaty between equal kings (Solomon and Hiram) (MT 5:26)"
+    - "1Kgs 9:13 | language | 'My brother' as diplomatic address between allied kings"
+    - "1Kgs 20:32-34 | language | Ahab calls Ben-hadad 'my brother' and concludes a treaty"
+    - "Amos 1:9 | language | 'Covenant of brothers' (bĕrît ʾaḥîm) between states"
+    - "1Kgs 2:39-40 | practice? | Fugitive slaves recovered from a neighbouring king (cf. extradition clauses)"
+    - "Deut 23:15-16 | practice? | Ban on returning a fugitive slave, against treaty extradition norms (MT 23:16-17)"
+    - "1Kgs 3:1 | practice | Diplomatic marriage sealing an alliance with Egypt"
+  related: [ramesses-ii, brotherhood-language, diplomatic-marriage, covenant-and-treaty-form, hittite-vassal-treaties, kadesh-battle-reliefs, hiram-of-tyre]
+  wikipedia: Egyptian–Hittite peace treaty
+  image: Egyptian-Hittite peace treaty Istanbul Archaeology Museum
+  location: Istanbul Archaeology Museums (cuneiform tablet); hieroglyphic versions in situ at Karnak and the Ramesseum
+  author_notes:
+    - "Dated to Ramesses II's year 21, some 15 years after Kadesh; the original silver tablets are lost. Each version presents the other side as seeking peace, which is useful for discussing royal propaganda."
+    - "A parity treaty, unlike the vassal treaties used in covenant-form debates. Its clauses on extradition with amnesty for returned fugitives and on support for the legitimate heir are frequently discussed."
+    - "Popular claims (e.g. 'the world's first peace treaty', the replica at the United Nations) need careful phrasing; earlier treaties exist."
+    - "A royal marriage of Ramesses II to a Hittite princess followed about 13 years later; use it for the diplomatic-marriage link."
+  sources_to_check:
+    - "G. Beckman, Hittite Diplomatic Texts (2nd ed., 1999), no. 15"
+    - "E. Edel, Der Vertrag zwischen Ramses II. von Ägypten und Ḫattušili III. von Ḫatti (1997)"
+    - ANET 199-203
+
+- id: plague-prayers-of-mursili
+  aliases: ["Plague Prayers of Muršili II"]
+  cultures: [hittite]
+  date: [-1320, -1300]
+  circa: true
+  scope: >-
+    Prayers of the Hittite king Muršili II asking the gods to end a plague that
+    had ravaged Ḫatti for some twenty years. Oracles had traced it to his
+    father's breach of an oath sworn to Egypt and to neglected offerings; the
+    king confesses inherited guilt and offers restitution.
+  passages:
+    - "2Sam 21:1-14 | parallel | Disaster traced by oracle to a predecessor's broken oath; expiation by the king"
+    - "Josh 9:15-20 | concept | Oath sworn by the gods binds later generations"
+    - "2Sam 24:10-17 | parallel | King confesses guilt and pleads for the plague to stop"
+    - "Lam 5:7 | concept | Children bear the sins of the fathers ('the father's sin comes upon the son')"
+    - "Ezek 18:2 | concept | Sour-grapes proverb on inherited guilt, rejected by Ezekiel"
+  related: [oaths-and-oath-formulas, divination, hittite-vassal-treaties, apology-of-hattusili, sacrifice, hittites-and-hethites]
+  wikipedia: null
+  image: null
+  author_notes:
+    - "The plague began under Šuppiluliuma I, reportedly spread by Egyptian prisoners; oracles pointed to the breach of the Kuruštama treaty with Egypt and neglected offerings to the Mala (Euphrates) river."
+    - "Malamat (VT 5, 1955) drew the classic comparison with 2 Sam 21; the parallel concerns the theology of causality and oath-breaking, not literary dependence."
+    - "The prayers argue like a legal plea (arkuwar) before divine judges; useful for comparing biblical intercession and confession."
+  sources_to_check:
+    - "I. Singer, Hittite Prayers (SBLWAW 11, 2002)"
+    - COS 1.60
+    - ANET 394-396
+    - "A. Malamat, 'Doctrines of Causality in Hittite and Biblical Historiography: A Parallel,' VT 5 (1955): 1-12"
+
+- id: apology-of-hattusili
+  aliases: ["Apology of Ḫattušili III", "Autobiography of Hattusili"]
+  cultures: [hittite]
+  date: [-1267, -1237]
+  circa: true
+  scope: >-
+    The self-justifying account by which Ḫattušili III, who deposed his nephew
+    Urḫi-Teššub, presents his rise as guided by the goddess Šaušga (Ishtar) of
+    Šamuḫa and his seizure of the throne as forced and lawful. It is the
+    standard example of the ANE royal "apology" genre compared with the story of
+    David's rise.
+  passages:
+    - "1Sam 16-31 | form | History of David's rise as a royal apology for a usurper"
+    - "2Sam 1:1-5:10 | form | Continuation of David's rise, defending him against charges of usurpation"
+    - "1Sam 18:12-16 | concept | Divine favour and military success legitimate the rising hero"
+    - "2Sam 3:28-39 | concept | Protestation of innocence in the deaths of rivals"
+    - "1Sam 24:1-22 | concept? | Restraint toward the reigning king before taking power (MT 24:2-23)"
+    - "1Kgs 1-2 | form? | Account justifying a contested succession"
+  related: [david, royal-ideology, ishtar, royal-annals-and-historiography, plague-prayers-of-mursili, hittites-and-hethites]
+  wikipedia: null
+  image: null
+  author_notes:
+    - "Hoffner (1975) and McCarter (JBL 1980) set out the genre comparison; Knapp (2015) widens it to first-millennium apologies (e.g. Esarhaddon's Nineveh A, Kilamuwa), which narrows the chronological gap with Samuel."
+    - "The comparison concerns genre and propaganda, not Hittite literary influence on Samuel."
+    - "The Edict of Telipinu (an earlier Hittite succession text) is also compared with 1 Kgs 1-2; note it if the article treats succession narratives."
+  sources_to_check:
+    - COS 1.77
+    - "H. Otten, Die Apologie Hattusilis III (StBoT 24, 1981)"
+    - "P. K. McCarter Jr., 'The Apology of David,' JBL 99 (1980): 489-504"
+    - "A. Knapp, Royal Apologetic in the Ancient Near East (WAWSup 4, 2015)"
+
+- id: hittite-instructions-temple-officials
+  aliases: ["Instructions for Priests and Temple Officials", "CTH 264"]
+  cultures: [hittite]
+  date: [-1400, -1200]
+  circa: true
+  scope: >-
+    A Hittite instruction text regulating the conduct of priests and temple
+    personnel: purity before handling divine food, nightly guard of the temple,
+    prompt delivery of offerings, and penalties for misappropriation. Milgrom
+    used it extensively for the Priestly legislation on sanctuary service.
+  passages:
+    - "Num 18:1-7 | practice | Priests and Levites guard the sanctuary; an encroaching outsider is put to death"
+    - "Num 3:38 | practice | Guard stations at the sanctuary; outsider who approaches is killed"
+    - "Lev 22:1-9 | practice | Personnel in a state of impurity may not touch holy food"
+    - "Lev 15:16-18 | practice | Bathing after sexual intercourse before contact with the holy"
+    - "1Sam 21:4-5 | practice | Abstinence from women required to eat holy bread (MT 21:5-6)"
+    - "1Sam 2:12-17 | practice | Personnel misappropriating offerings due to the deity"
+    - "Exod 22:29-30 | practice | Offerings and firstlings must not be delayed (MT 22:28-29)"
+  related: [purity-and-impurity, tithes, firstfruits-and-firstborn, care-and-feeding-of-the-gods, sacrifice, hittites-and-hethites]
+  wikipedia: null
+  image: null
+  author_notes:
+    - "Milgrom (Studies in Levitical Terminology I, 1970) used the text's guard duty for the Priestly šāmar mišmeret and the death penalty for encroachment; the parallel is widely cited."
+    - "The text compares gods to human masters ('Is the mind of man and god different?'), an explicit statement of the 'care and feeding of the gods' model; contrast biblical polemic (Ps 50:12-13)."
+    - "Copies are from the 13th c.; composition may be earlier. See Taggar-Cohen (2006) and Miller (2013)."
+  sources_to_check:
+    - COS 1.83
+    - ANET 207-210
+    - "J. Milgrom, Studies in Levitical Terminology I (1970)"
+    - "J. L. Miller, Royal Hittite Instructions and Related Administrative Texts (SBLWAW 31, 2013)"
+    - "A. Taggar-Cohen, Hittite Priesthood (THeth 26, 2006)"
+
+- id: hittite-elimination-rituals
+  cultures: [hittite, luwian, hurrian]
+  date: [-1400, -1200]
+  circa: true
+  scope: >-
+    Hittite-archive rituals, many of Luwian or Hurro-Kizzuwatnean origin, that
+    remove plague, impurity, or evil by transferring it to a carrier (a ram, a
+    ewe, a donkey, a bird, a mouse, or a human substitute) that is driven away to
+    enemy territory or the wild. They are the principal comparanda for the
+    biblical scapegoat and bird rites.
+  passages:
+    - "Lev 16:8-10, 20-22 | parallel | Live animal carries evil away to a remote place (Ashella, Uhhamuwa ram rites)"
+    - "Lev 14:4-7, 49-53 | practice | Live bird released into the open field to remove impurity"
+    - "Zech 5:5-11 | concept | Personified wickedness carried off to a foreign land (Shinar)"
+    - "1Sam 6:1-12 | practice? | Philistines send plague-related objects away on a driverless cart"
+  related: [day-of-atonement-elimination, purity-and-impurity, demons, maqlu, sacrifice, hittites-and-hethites]
+  wikipedia: null
+  image: null
+  author_notes:
+    - "Key texts: Ashella (CTH 394) and Uhhamuwa (CTH 410), both Arzawan, against army plague; Pulisa (CTH 407) with a human substitute; Kizzuwatna rites with birds. Earlier, a third-millennium Ebla ritual sends a goat to the steppe (Zatelli)."
+    - "Wright (1987) and Janowski and Wilhelm (1993) trace the carrier rite to a north Syrian/south Anatolian milieu. Differences: the Hittite carrier goes to the enemy, the biblical goat to Azazel in the wilderness, and the laying on of hands is not part of the Hittite rites."
+    - "Avoid presenting Lev 16 as borrowed from a specific Hittite text; the consensus is a shared regional ritual type."
+  sources_to_check:
+    - "D. P. Wright, The Disposal of Impurity: Elimination Rites in the Bible and in Hittite and Mesopotamian Literature (SBLDS 101, 1987)"
+    - "B. Janowski and G. Wilhelm, 'Der Bock, der die Sünden hinausträgt,' in Religionsgeschichtliche Beziehungen zwischen Kleinasien, Nordsyrien und dem Alten Testament (OBO 129, 1993)"
+
+- id: ahiqar
+  aliases: ["Ahikar", "Words of Ahiqar", "Story of Ahikar"]
+  cultures: [aramean, assyrian]
+  date: [-700, -500]
+  circa: true
+  scope: >-
+    The tale of Ahiqar, wise counsellor of the Assyrian kings Sennacherib and
+    Esarhaddon, betrayed by his adopted nephew Nadin and later vindicated,
+    combined with a collection of Aramaic proverbs. The earliest copy is the
+    late-5th-century Elephantine papyrus; the work circulated widely in later
+    languages and is named in Tobit.
+  passages:
+    - "Tob 1:21-22 | attests | Ahikar as Tobit's nephew and chief cupbearer and administrator under Esarhaddon"
+    - "Tob 14:10 | attests | Nadab's treachery against Ahikar as a moral example"
+    - "Tob 2:10; 11:18 | attests | Ahikar supports Tobit and attends his son's wedding"
+    - "Prov 23:13-14 | parallel | Do not withhold the rod from a child; he will not die"
+    - "Prov 25:15 | parallel | A soft tongue breaks bones"
+    - "Dan 6 | form | Wise courtier at a foreign court, falsely accused, condemned, and vindicated"
+    - "Matt 24:45-51 | parallel? | Wicked servant who abuses fellow servants and is punished (cf. Nadin)"
+  related: [elephantine-papyri, ane-wisdom-literature, esarhaddon, aramaic-language, court-officials, instruction-of-amenemope]
+  wikipedia: Story of Ahikar
+  image: Ahiqar papyrus Elephantine
+  author_notes:
+    - "The Elephantine papyrus (written over a customs account from Xerxes' reign, c. 475) has the narrative in Imperial Aramaic and proverbs probably older, in a western Aramaic dialect (Lindenberger)."
+    - "A Seleucid tablet from Uruk lists the scholar Aba-enlil-dari 'whom the Arameans call Aḫuqar' under Esarhaddon, so the figure may have a historical kernel; do not overstate this."
+    - "Later Syriac, Armenian, Arabic, and other versions, and the Greek Life of Aesop, reworked the story; distinguish them from the Aramaic text when citing proverbs."
+    - "Ahiqar is a key witness to the courtier-tale genre (Joseph, Daniel, Esther) and to the shared international wisdom culture."
+  sources_to_check:
+    - TAD C1.1
+    - "J. M. Lindenberger, The Aramaic Proverbs of Ahiqar (1983)"
+    - ANET 427-430
+
+- id: babylonian-chronicles
+  aliases: ["Neo-Babylonian Chronicle Series", "ABC"]
+  cultures: [babylonian]
+  date: [-747, -150]
+  circa: true
+  scope: >-
+    The series of terse, year-by-year Babylonian chronicles from the reign of
+    Nabonassar (747) into the Seleucid era, recording royal accessions,
+    campaigns, and cultic events. This hub entry covers the series as a whole;
+    individual chronicles important for biblical history have their own entries.
+  passages:
+    - "2Kgs 17:3-6 | event | Shalmaneser V ravages Šamaraʾin, usually taken as Samaria (ABC 1)"
+    - "2Kgs 19:37 | event | Sennacherib killed by his son in a rebellion (ABC 1)"
+    - "2Kgs 20:12 | attests | Merodach-baladan (Marduk-apla-iddina II) as king of Babylon"
+    - "2Kgs 23:29 | event | Egyptian army marches to aid Assyria at Harran, 609 (ABC 3)"
+    - "Jer 46:2 | event | Egypt defeated at Carchemish, 605 (ABC 5)"
+    - "2Kgs 24:10-17 | event | Nebuchadnezzar captures 'the city of Judah', 597, and appoints a new king (ABC 5)"
+    - "Dan 5:30-31 | event | Babylon falls to Cyrus's army, 539 (ABC 7) (MT 5:30-6:1)"
+  related: [nebuchadnezzar-chronicle, fall-of-nineveh-chronicle, nabonidus-chronicle, royal-annals-and-historiography, chronology-of-kings, merodach-baladan, assyrian-eponym-list]
+  wikipedia: Babylonian Chronicles
+  image: Babylonian Chronicle tablet British Museum
+  author_notes:
+    - "Grayson's numbering (ABC 1-7 etc.) and Glassner's differ; give both. The chronicles are generally reliable and record Babylonian setbacks as well as victories."
+    - "Gaps matter: no chronicle covers 594-557, so there is no Babylonian chronicle of the 587/586 destruction of Jerusalem."
+    - "The Šamaraʾin identification (ABC 1 i 28) is widely accepted and bears on whether Shalmaneser V or Sargon II took Samaria (see fall-of-samaria)."
+  sources_to_check:
+    - "A. K. Grayson, Assyrian and Babylonian Chronicles (TCS 5, 1975)"
+    - "J.-J. Glassner, Mesopotamian Chronicles (SBLWAW 19, 2004)"
+    - "D. J. Wiseman, Chronicles of Chaldaean Kings (626-556 B.C.) in the British Museum (1956)"
+
+- id: nebuchadnezzar-chronicle
+  aliases: ["ABC 5", "BM 21946", "Jerusalem Chronicle"]
+  cultures: [babylonian]
+  scope: >-
+    The Babylonian chronicle tablet covering the first years of Nebuchadnezzar
+    II (605-594 BCE), including the battle of Carchemish and the capture of "the
+    city of Judah" on 2 Adar of his seventh year (March 597). It provides the
+    most precise extra-biblical date in the history of Judah.
+  passages:
+    - "2Kgs 24:10-17 | event | Capture of Jerusalem (March 597), king seized, 'a king of his own choice' appointed"
+    - "2Chr 36:10 | event | Jehoiachin taken to Babylon; Zedekiah made king"
+    - "Jer 46:2 | event | Egyptian army routed at Carchemish in Nebuchadnezzar's accession year (605)"
+    - "Jer 47:5-7 | event | Ashkelon captured and sacked (Kislev 604)"
+    - "2Kgs 24:1 | event | Costly Babylonian-Egyptian clash of 601, likely context of Jehoiakim's revolt"
+    - "Dan 1:1-2 | event? | 605 campaign in Hatti, sometimes linked to Daniel's 'third year of Jehoiakim' siege"
+  related: [babylonian-chronicles, nebuchadnezzar-ii, jehoiachin, battle-of-carchemish, fall-of-jerusalem-587, jehoiachin-ration-tablets, ashkelon]
+  wikipedia: Nebuchadnezzar Chronicle
+  image: Nebuchadnezzar Chronicle BM 21946 British Museum
+  location: British Museum, London
+  author_notes:
+    - "Published by Wiseman (1956). Neither Jehoiachin nor Zedekiah is named; the city is 'the city of Judah' (URU ia-a-ḫu-du)."
+    - "Use it for the chronology of 597 (Babylonian year 7, cf. Jer 52:28) against 2 Kgs 24:12 ('eighth year'), and for accession-year reckoning."
+    - "The chronicle does not mention a siege of Jerusalem in 605, so Dan 1:1-2 remains historically problematic; present this neutrally."
+    - "The tablet's own date of writing is uncertain; do not assign it a firm date."
+  sources_to_check:
+    - "A. K. Grayson, Assyrian and Babylonian Chronicles (1975), Chronicle 5"
+    - "D. J. Wiseman, Chronicles of Chaldaean Kings (1956)"
+
+- id: fall-of-nineveh-chronicle
+  aliases: ["ABC 3", "Gadd Chronicle"]
+  cultures: [babylonian]
+  scope: >-
+    The Babylonian chronicle tablet covering Nabopolassar's years 10-17 (616-609
+    BCE). It records the capture of Nineveh by the Babylonians and Medes in 612,
+    the Assyrian rump state at Harran, and the Egyptian intervention on Assyria's
+    side in 609.
+  passages:
+    - "Nah 2:1-3:19 | event | Oracle on Nineveh's fall, which the chronicle dates to 612 (MT 2:2-3:19)"
+    - "Zeph 2:13-15 | event | Prophecy that Nineveh will become a desolation"
+    - "2Kgs 23:29 | event | Necho marches 'to the king of Assyria' (to aid him) in 609; Josiah killed"
+  related: [nineveh, babylonian-chronicles, josiah, necho-ii, medes, assyria, harran]
+  wikipedia: null
+  image: Fall of Nineveh Chronicle British Museum
+  location: British Museum, London
+  author_notes:
+    - "Published by C. J. Gadd (1923). Nineveh fell in the month Abu (July-August) 612 to Nabopolassar and the Median king (Umakištar/Cyaxares); Assur-uballiṭ II continued at Harran until 610/609."
+    - "The chronicle clarifies 2 Kgs 23:29: Necho went to help Assyria, not to fight it (contrast older translations' 'against')."
+    - "The chronicle says nothing of a flood breaching Nineveh's walls (Diodorus); be cautious about reading Nah 2:6 as eyewitness detail."
+    - "The date of Nahum relative to 612 is debated."
+  sources_to_check:
+    - "A. K. Grayson, Assyrian and Babylonian Chronicles (1975), Chronicle 3"
+    - "C. J. Gadd, The Fall of Nineveh (1923)"
+
+- id: nabonidus-chronicle
+  aliases: ["ABC 7"]
+  cultures: [babylonian]
+  scope: >-
+    The Babylonian chronicle of Nabonidus's reign (556-539 BCE), recording his
+    long residence at Tayma, the crown prince's presence in Babylonia, the
+    neglect of the New Year festival, and Cyrus's conquest of Babylon in 539.
+  passages:
+    - "Dan 5:30-31 | event | Babylon taken by Cyrus's army under Ugbaru without battle, October 539 (MT 5:30-6:1)"
+    - "Dan 5:1 | attests | Crown prince (Belshazzar, unnamed) in Babylonia while Nabonidus stayed at Tayma"
+    - "Isa 45:1-2 | event | Cyrus's conquests; gates opened before him"
+    - "Isa 46:1-2 | practice | Gods of Babylonian cities brought into Babylon before the Persian advance"
+  related: [nabonidus, belshazzar, cyrus-the-great, fall-of-babylon-539, cyrus-cylinder, darius-the-mede, verse-account-of-nabonidus, akitu-festival]
+  wikipedia: Nabonidus Chronicle
+  image: Nabonidus Chronicle British Museum
+  location: British Museum, London
+  author_notes:
+    - "Key entries: battle at Opis; Sippar taken without battle; Babylon entered by Ugbaru (Gubaru), governor of Gutium, on 16 Tashritu; Cyrus enters on 3 Arahsamnu (late October 539)."
+    - "The prince is called mār šarri ('son of the king'), not king, which bears on Daniel's portrayal of Belshazzar as king and son of Nebuchadnezzar."
+    - "Relevant to the 'Darius the Mede' problem: no such figure appears, though Gubaru appoints governors. Present the identifications proposed in the literature neutrally."
+    - "The supposed reference to Lydia in 547 rests on a damaged sign; avoid citing it as certain."
+  sources_to_check:
+    - "A. K. Grayson, Assyrian and Babylonian Chronicles (1975), Chronicle 7"
+    - ANET 305-307
+
+- id: verse-account-of-nabonidus
+  cultures: [babylonian]
+  date: [-538]
+  circa: true
+  scope: >-
+    A Babylonian poem composed after Cyrus's conquest that denounces Nabonidus
+    for impiety, his promotion of the moon god Sin, his absence at Tayma, and his
+    neglect of Marduk's festival, while presenting Cyrus as restorer of proper
+    cult. It shows that Belshazzar was entrusted with kingship.
+  passages:
+    - "Dan 5:1-2 | attests | Nabonidus 'entrusted the kingship' to his eldest son (Belshazzar) before going to Tayma"
+    - "Dan 5:7, 16, 29 | attests? | 'Third ruler in the kingdom' may reflect Belshazzar's co-regency"
+    - "Dan 4:28-33 | parallel? | A Babylonian king estranged from his capital; Nabonidus tradition behind Dan 4 (MT 4:25-30)"
+    - "Isa 45:1-7 | concept | Cyrus presented as the deity's chosen restorer"
+  related: [nabonidus, belshazzar, cyrus-cylinder, cyrus-the-great, prayer-of-nabonidus, nabonidus-chronicle, persian-imperial-authorization]
+  wikipedia: Verse Account of Nabonidus
+  image: Verse Account of Nabonidus British Museum
+  author_notes:
+    - "Pro-Persian propaganda by Babylonian (Marduk) priests; read alongside the Cyrus Cylinder. Its picture of Nabonidus as impious and deranged is polemical, not neutral history."
+    - "The Daniel 4 connection: 4QPrNab (Prayer of Nabonidus) attests a seven-year illness of Nabonidus at Tayma, which suggests that Dan 4 transfers a Nabonidus tradition to Nebuchadnezzar. This is widely held; details are debated."
+    - "'Entrusted the kingship' does not make Belshazzar formally king (New Year rites lapsed); relevant to Daniel's title 'king'."
+    - "The Wikipedia title is a redirect to a section of 'Cylinders of Nabonidus'; there is no standalone article."
+  sources_to_check:
+    - ANET 312-315
+    - "H. Schaudig, Die Inschriften Nabonids von Babylon und Kyros' des Großen (AOAT 256, 2001)"
+
+- id: nabonidus-cylinders
+  aliases: ["Cylinders of Nabonidus", "Nabonidus Cylinder from Ur", "Nabonidus Cylinder from Sippar"]
+  cultures: [babylonian]
+  date: [-555, -540]
+  circa: true
+  scope: >-
+    Clay foundation cylinders of Nabonidus, last king of Babylon, recording his
+    restoration of temples. They include the Ur cylinders on the ziggurat of Sin,
+    which end with a prayer for his eldest son Belshazzar, and the Sippar
+    cylinder on the rebuilding of the Ehulhul temple of Sin at Harran.
+  passages:
+    - "Dan 5:1-2 | attests | Belshazzar (Bēl-šarra-uṣur), eldest son of Nabonidus, named in a royal prayer"
+    - "Dan 7:1; 8:1 | attests | Belshazzar as ruler in Babylon"
+    - "Dan 5:2, 11, 18, 22 | attests | Daniel calls Belshazzar Nebuchadnezzar's 'son'; the inscriptions name Nabonidus"
+    - "Gen 11:31-32 | setting | Harran and its moon-god temple, rebuilt by Nabonidus"
+  related: [nabonidus, belshazzar, sin-moon-god, harran, ur, ziggurat, verse-account-of-nabonidus]
+  wikipedia: Cylinders of Nabonidus
+  image: Nabonidus cylinder Ur British Museum
+  location: British Museum, London (Ur and Sippar cylinders); other copies elsewhere
+  author_notes:
+    - "Discovered at Ur in the 1850s; the prayer for Belshazzar answered 19th-c. scepticism about his existence. The 'son of Nebuchadnezzar' language in Dan 5 may be a dynastic idiom or reflect later tradition; present the options."
+    - "The Sippar cylinder narrates a dream in which Marduk orders the Harran temple rebuilt and mentions Cyrus's defeat of Astyages; useful for Nabonidus's devotion to Sin."
+    - "Nabonidus's antiquarian interest (searching for older foundation deposits, e.g. Naram-Sin's) is a distinctive feature of these texts."
+    - "Do not confuse with the Cyrus Cylinder."
+  sources_to_check:
+    - "H. Schaudig, Die Inschriften Nabonids von Babylon und Kyros' des Großen (AOAT 256, 2001)"
+
+- id: jehoiachin-ration-tablets
+  aliases: ["Jehoiachin's Rations Tablets", "Babylonian ration lists"]
+  cultures: [babylonian]
+  date: [-595, -570]
+  circa: true
+  scope: >-
+    Administrative cuneiform tablets from Nebuchadnezzar II's palace in Babylon
+    listing oil rations for foreign dependants. They include "Yaʾukin, king of
+    the land of Yahudu", his five sons, and other Judeans, and are direct
+    evidence for the exiled king's maintenance at the Babylonian court.
+  passages:
+    - "2Kgs 25:27-30 | attests | Jehoiachin, king of Judah, maintained at the Babylonian court with an allowance"
+    - "Jer 52:31-34 | attests | Jehoiachin's regular allowance from the king of Babylon"
+    - "2Kgs 24:12, 15 | attests | Jehoiachin and his household taken to Babylon in 597"
+    - "1Chr 3:17-18 | attests | Sons of Jehoiachin; the tablets list five sons of the king of Judah"
+    - "Ezek 1:2 | setting | Exilic dating by King Jehoiachin's exile"
+  related: [jehoiachin, babylonian-exile, nebuchadnezzar-ii, amel-marduk, babylon, nebuchadnezzar-chronicle]
+  wikipedia: Jehoiachin's Rations Tablets
+  image: Jehoiachin ration tablet Pergamon Museum
+  location: Vorderasiatisches Museum, Berlin
+  author_notes:
+    - "Excavated in the Southern Palace at Babylon by Koldewey's expedition and published by Weidner (1939). One relevant text is dated to Nebuchadnezzar's 13th year (592/591); verify the date range of the group."
+    - "The tablets predate Amel-Marduk's release of Jehoiachin (2 Kgs 25:27; 562) by about three decades and show he was provisioned and still titled 'king' early in his exile; discuss how this fits 'released from prison'."
+    - "Other recipients (from Ashkelon, Egypt, Ionia, Lydia, etc.) illustrate the cosmopolitan court of Babylon."
+  sources_to_check:
+    - "E. F. Weidner, 'Jojachin, König von Juda, in babylonischen Keilschrifttexten,' in Mélanges syriens offerts à M. René Dussaud (1939), 2:923-935"
+    - ANET 308
+
+- id: al-yahudu-tablets
+  aliases: ["Āl-Yāhūdu tablets", "Judean exile tablets", "By the Rivers of Babylon tablets"]
+  cultures: [babylonian, judahite]
+  date: [-572, -477]
+  circa: true
+  scope: >-
+    Some two hundred cuneiform legal and administrative tablets from the
+    settlements of Āl-Yāhūdu ("Judahtown"), Našar, and Bīt-Abī-râm in the
+    Nippur region. They document Judean deportees and their descendants as
+    land-holding tenants over several generations, bearing many Yahwistic names.
+  passages:
+    - "Jer 29:4-7 | setting | Exiles told to build houses, plant gardens, marry, and seek the city's welfare"
+    - "Ezek 3:15 | setting | Judean community at Tel-abib by the river Chebar: exiles settled in rural communities"
+    - "Ezek 1:1-3 | setting | Judean exiles by the Chebar canal in Babylonia"
+    - "Ps 137:1 | setting | 'By the rivers of Babylon': Judeans in the canal landscape of central Babylonia"
+    - "Ezra 2:59 | setting | Exile settlements with Babylonian place names (Tel-melah, Tel-harsha, Cherub, Addan, Immer)"
+    - "Ezra 2:1-2 | language | Yahwistic names among deportees and returnees"
+  related: [babylonian-exile, murashu-archive, deportation, jehoiachin-ration-tablets, yehud-province, forgeries-in-biblical-archaeology]
+  wikipedia: Al-Yahudu Tablets
+  image: Al-Yahudu tablet
+  author_notes:
+    - "Unprovenanced: the tablets surfaced on the antiquities market (mostly in the David Sofer collection; exhibited at the Bible Lands Museum, Jerusalem, 2015). Flag the ethical and provenance issues explicitly."
+    - "The earliest tablet is dated 572 (Nebuchadnezzar's 33rd year); the town name shows deportees settled as a group. Judeans appear in the land-for-service (ḫaṭru) system; Yahwistic names are written with -yāma/-yāḫu and Yāhû-."
+    - "They show integration without loss of identity and continuity long after 539, which complicates a simple 'return' narrative (Alstola 2020)."
+  sources_to_check:
+    - "L. E. Pearce and C. Wunsch, Documents of Judean Exiles and West Semites in Babylonia in the Collection of David Sofer (CUSAS 28, 2014)"
+    - "T. Alstola, Judeans in Babylonia: A Study of Deportees in the Sixth and Fifth Centuries BCE (CHANE 109, 2020)"
+
+- id: murashu-archive
+  aliases: ["Murašû archive", "Murashu Sons"]
+  cultures: [babylonian, persian]
+  date: [-454, -404]
+  circa: true
+  scope: >-
+    The business archive of the Murašû family firm of Nippur under Artaxerxes I
+    and Darius II, recording the management and financing of land-for-service
+    holdings. It names the Kebar canal and includes West Semitic, among them
+    Judean, clients, and is a key source for Persian-period Babylonia.
+  passages:
+    - "Ezek 1:1, 3; 3:15 | setting | Kebar canal (nār kabari) near Nippur, named in Murašû texts"
+    - "Neh 5:4 | practice | Borrowing against fields and vineyards to pay the king's tax"
+    - "Ezra 4:13 | practice | Persian levies (tribute, poll-tax, land-tax) on imperial subjects"
+    - "Ezra 8:15-17 | setting | Judean communities remaining in Babylonia under Persian rule"
+  related: [al-yahudu-tablets, babylonian-exile, persia, artaxerxes-i, yehud-province, weights-and-silver-money]
+  wikipedia: Murashu family
+  image: Murashu archive tablet Penn Museum
+  author_notes:
+    - "Several hundred tablets found at Nippur by the University of Pennsylvania expedition (1893); dates run 454-404. The firm leased and financed ḫaṭru holdings of military colonists who owed service and taxes (Stolper)."
+    - "Yahwistic names appear among the clients (Coogan; Zadok); Judeans appear as ordinary participants in the regional economy. Avoid fixed counts unless verified."
+    - "The Kebar canal identification links Ezekiel's setting to the Nippur region (also attested in the Āl-Yāhūdu corpus)."
+  sources_to_check:
+    - "M. W. Stolper, Entrepreneurs and Empire: The Murašû Archive, the Murašû Firm, and Persian Rule in Babylonia (1985)"
+    - "M. D. Coogan, West Semitic Personal Names in the Murašû Documents (HSM 7, 1976)"
+    - "R. Zadok, The Jews in Babylonia during the Chaldean and Achaemenian Periods (1979)"
+
+- id: east-india-house-inscription
+  cultures: [babylonian]
+  date: [-600, -562]
+  circa: true
+  scope: >-
+    A large inscribed stone tablet of Nebuchadnezzar II from Babylon, in
+    archaising script, praising Marduk and Nabu and recording the king's
+    building works in Babylon: its temples, palaces, processional way, and
+    double walls. It is a prime example of the royal building boasts echoed in
+    Daniel.
+  passages:
+    - "Dan 4:30 | parallel | King's boast of 'great Babylon, which I have built' (MT 4:27)"
+    - "Jer 51:58 | setting | Babylon's broad walls, whose construction the inscription describes"
+    - "Isa 46:1 | attests | Bel (Marduk) and Nebo (Nabu), the gods the inscription praises"
+  related: [nebuchadnezzar-ii, babylon, ishtar-gate, etemenanki, marduk, nabu, temple-building-accounts]
+  wikipedia: East India House Inscription
+  image: East India House Inscription British Museum
+  location: British Museum, London
+  author_notes:
+    - "Found at Babylon in the early 19th c. and long held at East India House, London, before passing to the British Museum; verify the acquisition history."
+    - "The Dan 4:30 echo is of Nebuchadnezzar's building inscriptions generally; his inscriptions are pious, crediting Marduk, so Daniel's portrayal of arrogance reverses their tone."
+    - "No Nebuchadnezzar building inscription mentions Judah or Jerusalem; avoid implying otherwise."
+  sources_to_check:
+    - "S. Langdon, Die neubabylonischen Königsinschriften (VAB 4, 1912)"
+
+- id: tablet-of-destinies
+  aliases: ["ṭuppi šīmāti", "Book of Life"]
+  cultures: [babylonian, mesopotamian]
+  scope: >-
+    The Mesopotamian Tablet of Destinies, the emblem of supreme cosmic
+    authority seized by Marduk in Enuma Elish and stolen by Anzu, together with
+    the related idea of divine scribes (especially Nabu) writing the fates. The
+    entry also covers the biblical "book of life" and heavenly books.
+  passages:
+    - "Exod 32:32-33 | concept | Divine book from which names may be blotted out"
+    - "Ps 69:28 | concept | 'Book of the living' (MT 69:29)"
+    - "Ps 139:16 | concept | Days of life written beforehand in God's book"
+    - "Isa 4:3 | concept | Those recorded for life in Jerusalem"
+    - "Mal 3:16 | concept | Book of remembrance written before YHWH"
+    - "Dan 7:10 | concept | Books opened in the heavenly court"
+    - "Dan 12:1 | concept | Those written in the book will be delivered"
+    - "Rev 20:12 | concept | Books opened and the dead judged; the book of life"
+  related: [enuma-elish, divine-council, akitu-festival, nabu, marduk, writing-and-literacy]
+  wikipedia: Tablet of Destinies
+  image: null
+  author_notes:
+    - "Distinguish the Tablet of Destinies (Enuma Elish I-IV; the Anzu myth), an emblem of power over the cosmos, from registers of individuals; the closer analogue to the 'book of life' is Nabu as scribe of destinies and the fixing of fates at the akītu festival."
+    - "Biblical heavenly books also draw on administrative practice (citizen rolls, Ezek 13:9; Isa 4:3) and records of deeds (Mal 3:16; Dan 7:10); S. Paul (1973) remains the standard survey."
+    - "Correct the popular claim that the biblical book of life is simply derived from the Tablet of Destinies."
+  sources_to_check:
+    - "S. M. Paul, 'Heavenly Tablets and the Book of Life,' JANESCU 5 (1973): 345-353"
+    - "A. R. George, 'Sennacherib and the Tablet of Destinies,' Iraq 48 (1986): 133-146"
+
+- id: akkadian-prophecies
+  aliases: [Akkadian apocalypses, Marduk Prophecy, Šulgi Prophecy, Uruk Prophecy, Dynastic Prophecy, literary predictive texts]
+  cultures: [babylonian, assyrian]
+  date: [-1100, -300]
+  circa: true
+  scope: >-
+    A small group of Akkadian literary texts (the Marduk and Šulgi Prophecies, the Uruk
+    Prophecy, the Dynastic Prophecy, and "Text A") that survey a series of unnamed future
+    reigns as good or bad and usually climax in a restoring king. They are vaticinia ex
+    eventu written to legitimate a ruler or cult, and they are the main Mesopotamian
+    comparanda for the historical reviews in Daniel. Oracles of actual prophets belong to
+    neo-assyrian-prophecies and mari-letters.
+  passages:
+    - "Dan 11:2-45 | form | Succession of unnamed kings 'arising' as a history disguised as prediction"
+    - "Dan 8:23-25 | form | Ex eventu portrait of a coming king, cast in the future tense"
+    - "Dan 2:36-45 | parallel? | Sequence of empires; the Dynastic Prophecy runs from Assyria to the Macedonians"
+    - "Ezek 43:1-5 | parallel | Deity returns to his temple after departing; cf. the Marduk Prophecy's return from exile"
+    - "Ezek 10:18-19; 11:22-23 | parallel | Departure of the god from his city, as Marduk 'goes' to Hatti, Assyria and Elam"
+  related: [four-kingdoms-schema, prophecy-of-neferti, divine-abandonment, marduk, prophecy-in-the-ane, neo-assyrian-prophecies, babylonian-chronicles]
+  wikipedia: null
+  image: null
+  author_notes:
+    - "The texts are not prophecy in the sense of oracles delivered by prophets. They are scribal compositions that use predictive language (often in the omen style 'a prince will arise and rule for N years'). Grayson's label 'literary predictive texts' and Hallo's 'Akkadian apocalypses' are both found; explain why neither label is perfect."
+    - "Give the dates and agenda of each text separately. The Marduk Prophecy (copies from Assur and Nineveh) recounts the god's absences in Hatti, Assyria and Elam and predicts the king who will bring him back, probably Nebuchadnezzar I (12th c.). The Uruk Prophecy (late copy from Uruk) ends with a king from Uruk, often taken as Nebuchadnezzar II. The Dynastic Prophecy (Hellenistic) covers the fall of Assyria to the defeat of Darius III."
+    - Lambert (1978) and others saw these texts as one background for Jewish apocalyptic, especially Dan 8 and 11. Present this as a typological and generic comparison, not as proof of direct literary dependence.
+    - Note the shared logic with the Egyptian Prophecy of Neferti, a much older example of vaticinium ex eventu.
+  sources_to_check:
+    - "A. K. Grayson and W. G. Lambert, 'Akkadian Prophecies,' JCS 18 (1964)"
+    - A. K. Grayson, Babylonian Historical-Literary Texts (1975)
+    - "H. Hunger and S. A. Kaufman, 'A New Akkadian Prophecy Text,' JAOS 95 (1975)"
+    - "R. Borger, 'Gott Marduk und Gott-König Šulgi als Propheten,' BiOr 28 (1971)"
+    - W. G. Lambert, The Background of Jewish Apocalyptic (1978)
+    - Tremper Longman III, Fictional Akkadian Autobiography (1991)
+    - "M. Neujahr, Predicting the Past in the Ancient Near East (BJS 354, 2012)"
+
+- id: erra-and-ishum
+  aliases: [Erra Epic, Poem of Erra, Erra and Ishum]
+  cultures: [babylonian]
+  date: [-1100, -700]
+  circa: true
+  scope: >-
+    An Akkadian poem in five tablets in which the plague and war god Erra persuades Marduk
+    to leave his throne, then devastates Babylon and other cities without distinguishing the
+    righteous from the wicked until his vizier Išum calms him. The poem explains a period of
+    Babylonian disorder as divine anger, and copies were used as amulets against plague.
+  passages:
+    - "Ezek 9:1-11 | parallel? | Divine executioners slaughter the city; the prophet's intercession (v. 8) compared with Išum's"
+    - "Ezek 21:3-5 | parallel | YHWH's drawn sword cuts off righteous and wicked alike (MT 21:8-10)"
+    - "Ezek 21:9-17 | imagery | Song of the sword sharpened and polished for slaughter (MT 21:14-22)"
+    - "Ezek 8:12; 9:9 | concept | 'YHWH has forsaken the land': divine absence precedes disaster"
+    - "Gen 18:23-25 | concept | 'Will you sweep away the righteous with the wicked?'"
+    - "Hab 3:5 | imagery | Pestilence (Deber) and plague (Resheph) march with the divine warrior"
+    - "2Kgs 17:30 | attests | Nergal, with whom Erra is identified, worshipped by the people of Cuth"
+  related: [divine-abandonment, marduk, resheph, babylon, divine-warrior, gods-of-2-kings-17, amulets, akkadian-prophecies]
+  wikipedia: null
+  image: Erra and Ishum amulet tablet
+  author_notes:
+    - "The colophon credits Kabti-ilani-Marduk, who claims the poem was revealed to him in a night vision. The date is debated: proposals range from the 11th to the 8th century (Lambert favoured the 8th). Copies are mostly 1st-millennium. Present the range."
+    - Bodi (1991) argued that Ezekiel knew and adapted the poem (Ezek 7, 9, 21, and the departure of the deity). The thematic parallels are widely acknowledged, but direct dependence is debated. Treat it as a proposal.
+    - "Explain the poem's theology. Marduk's absence from his throne, not his destruction, lets chaos loose, and an intercessor (Išum) limits divine wrath. Both points bear on Ezekiel and on the divine-abandonment motif."
+    - Check the line numbers for the 'righteous and unrighteous' passage (Tablet IV) against Cagni's edition before quoting it.
+  sources_to_check:
+    - L. Cagni, The Poem of Erra (SANE 1/3, 1977)
+    - D. Bodi, The Book of Ezekiel and the Poem of Erra (OBO 104, 1991)
+    - S. Dalley, Myths from Mesopotamia (rev. ed. 2000)
+    - B. R. Foster, Before the Muses (3rd ed. 2005)
+
+- id: shurpu
+  aliases: [Šurpu, Burning]
+  cultures: [babylonian, assyrian]
+  date: [-1400, -1000]
+  circa: true
+  scope: >-
+    The Akkadian incantation series Šurpu ("Burning"), a ritual of the exorcist (āšipu) that
+    frees a sufferer from a curse or ban (māmītu) incurred through offences he may not know
+    he committed. Its long catalogues of possible sins, ritual and ethical, are the main
+    Mesopotamian parallel to biblical concern with unwitting and hidden sin. The
+    anti-witchcraft ceremony Maqlû has its own entry.
+  passages:
+    - "Lev 4:2, 13-14 | concept | Sin committed unwittingly (bišgāgâ) that later becomes known"
+    - "Lev 5:1-6 | concept | Guilt incurred through unnoticed impurity, an ignored adjuration, or a rash oath; confession required"
+    - "Lev 5:17-19 | concept | Guilt offering for an offence committed without knowing"
+    - "Ps 19:12 | concept | 'Who can detect their errors? Clear me from hidden faults' (MT 19:13)"
+    - "Deut 27:15-26 | parallel | Curses on secret offences: parents dishonoured, boundaries moved, neighbour's wife"
+    - "Job 31:5-34 | form? | Oath of clearance listing possible offences; cf. Šurpu II's catalogue"
+    - "Ezek 18:5-9 | form? | Catalogue of ethical and cultic acts defining the righteous man"
+  related: [maqlu, mesopotamian-lament-prayers, book-of-the-dead, magic-and-sorcery, oaths-and-oath-formulas, purity-and-impurity, boundary-markers]
+  wikipedia: Šurpu
+  image: null
+  author_notes:
+    - "Tablet II lists offences that may have caused the sufferer's affliction, mixing ethical wrongs (false scales, moving a boundary, entering a neighbour's house and approaching his wife, saying 'yes' for 'no', despising parents) with ritual faults. Quote from Reiner's edition and check line numbers."
+    - "The ritual (peeling an onion, unravelling wool, stripping dates and burning them) enacts the dissolving of the curse. Distinguish this ritual logic from the biblical sacrificial remedy for unwitting sin in Lev 4-5."
+    - Composition is usually placed in the Middle Babylonian period; most copies are Neo-Assyrian and later. Say this in the article.
+    - Compare and contrast with the Egyptian 'negative confession' (Book of the Dead 125) and Job 31. These are distinct genres with overlapping catalogues, not one form.
+  sources_to_check:
+    - "E. Reiner, Šurpu: A Collection of Sumerian and Akkadian Incantations (AfO Beiheft 11, 1958)"
+    - "K. van der Toorn, Sin and Sanction in Israel and Mesopotamia (SSN 22, 1985)"
+
+- id: great-hymn-to-shamash
+  aliases: [Šamaš Hymn, Hymn to the Sun God]
+  cultures: [babylonian, assyrian]
+  scope: >-
+    A 200-line Akkadian hymn praising Šamaš as the sun who lights and surveys the whole world,
+    protects travellers and the needy, and punishes the unjust judge, the bribe-taker and the
+    merchant with false weights. It is the fullest Mesopotamian statement of the sun god as
+    all-seeing guardian of justice. The god himself is treated under shamash.
+  passages:
+    - "Ps 19:1-6 | imagery | The sun's circuit from end to end of heaven; nothing hidden from its heat (MT 19:2-7)"
+    - "Ps 19:7-11 | concept | Sun hymn joined to praise of torah; cf. the sun god as guardian of justice (MT 19:8-12)"
+    - "Ps 139:7-12 | concept | No escape from the deity's sight in heaven, Sheol, sea, or darkness"
+    - "Ps 33:13-15 | concept | YHWH looks down from heaven and sees all humankind"
+    - "Job 34:21-22 | concept | No darkness where evildoers may hide from God's eyes"
+    - "Deut 25:13-16 | practice | Two kinds of weights forbidden; cf. the hymn's curse on the dishonest merchant"
+    - "Prov 11:1; 20:10, 23 | concept | False balances and differing weights an abomination to YHWH"
+    - "Exod 23:8 | practice | Bribes blind officials; cf. Šamaš punishing the judge who takes a bribe"
+    - "Mal 4:2 | imagery | Sun of righteousness rising with healing in its wings (MT 3:20)"
+  related: [shamash, tablet-of-shamash, justice-and-righteousness, code-of-hammurabi, weights-and-silver-money, great-hymn-to-the-aten, mesopotamian-lament-prayers]
+  wikipedia: null
+  image: null
+  author_notes:
+    - "The main copies are from Ashurbanipal's library at Nineveh (7th c.), with others from elsewhere. Composition is probably earlier but cannot be dated closely, which is why no date is given here."
+    - "Sarna's study of Ps 19 against sun-god literature (1967) is the classic case: the joining of solar praise (vv. 1-6) and torah (vv. 7-14) makes sense against Šamaš as lord of light and of justice. Do not claim that Ps 19:1-6 was a hymn to the sun god."
+    - Note the hymn's social range (merchants, travellers, fishermen, the captive, the sick), which gives a concrete picture of what 'justice' meant in daily life.
+    - Distinguish this hymn from the Egyptian Great Hymn to the Aten, often cited for Ps 104. The two are frequently confused in popular literature.
+  sources_to_check:
+    - W. G. Lambert, Babylonian Wisdom Literature (1960), 121-138
+    - ANET 387-389
+    - B. R. Foster, Before the Muses (3rd ed. 2005)
+
+- id: esarhaddon-treaty-with-baal-of-tyre
+  aliases: [Treaty of Esarhaddon with Baal of Tyre, SAA 2 5]
+  cultures: [assyrian, phoenician]
+  date: [-681, -669]
+  circa: true
+  scope: >-
+    A fragmentary Neo-Assyrian treaty imposed by Esarhaddon on Baal (Baʿalu), king of Tyre. It
+    regulates Tyre's trade, ports and shipwrecks under Assyrian supervision and ends with
+    curses invoking Assyrian gods together with Bethel, Anat-Bethel, Baal-shamayin,
+    Baal-malage, Baal-saphon, Melqart, Eshmun and Astarte. It is the only surviving Assyrian
+    treaty with a Phoenician city.
+  passages:
+    - "Ezek 27:25-36 | imagery | Tyre as a laden ship wrecked by the east wind in the heart of the seas; cf. the storm-god curse on Tyre's ships"
+    - "Ps 48:7 | imagery | The east wind shatters the ships of Tarshish (MT 48:8)"
+    - "Ezek 27:12-25 | setting | Tyre's trading partners and goods, the commerce the treaty regulates"
+    - "Amos 1:9 | practice | Tyre condemned for forgetting the 'covenant of brothers'"
+    - "1Kgs 5:12 | practice | Treaty (bĕrît) between Hiram of Tyre and Solomon (MT 5:26)"
+    - "2Kgs 21:1 | setting | Manasseh, listed with Baal of Tyre among Esarhaddon's western vassals"
+    - "Jer 48:13 | language? | Bethel as a divine name; the treaty invokes Bethel and Anat-Bethel"
+    - "Dan 9:27; 11:31; 12:11 | language | 'Abomination that desolates', widely read as a pun on Baal-shamem, a god invoked in the curses"
+  related: [esarhaddon, tyre, melqart, esarhaddon-succession-treaty, covenant-and-treaty-form, blessings-and-curses, phoenician-seafaring, esarhaddon-prisms]
+  wikipedia: null
+  image: Esarhaddon treaty Baal of Tyre tablet
+  location: British Museum, London
+  author_notes:
+    - The date within Esarhaddon's reign is uncertain; a date soon after the destruction of Sidon (677/676) is often proposed. Ashurbanipal later besieged Baal (Rassam Cylinder), so the treaty did not secure lasting loyalty.
+    - "The trade clauses are the most informative part: they name ports and routes (Akko, Dor, the Philistine coast, Byblos, the Lebanon) and specify that the cargo of a Tyrian ship wrecked on Assyrian-controlled coast belongs to the king while the crew is spared. Explain what this shows about Assyrian economic interest in Phoenician trade."
+    - The curse list is valuable evidence for the Phoenician pantheon in the 7th century, including the first-millennium god Bethel. Do not overstate links to Jer 48:13, where the reading of Bethel as a god is debated.
+    - The tablet is badly broken, so translations differ in restorations. Quote from SAA 2 and mark restorations.
+  sources_to_check:
+    - "S. Parpola and K. Watanabe, Neo-Assyrian Treaties and Loyalty Oaths (SAA 2, 1988), no. 5"
+    - ANET 533-534
+
+# ---------------------------------------------------------------- mesopotamian-artifacts

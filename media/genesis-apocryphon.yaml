@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: genesis-apocryphon
+file: genesis-apocryphon.jpg
+title: Genesis apocryphon.jpg
+caption: The Genesis Apocryphon (1QapGen) from Qumran Cave 1, unrolled for study.
+description: >-
+  Genesis Apocryphon. 13 inches in length; 2.75 inches in width; widest point in the middle.
+creator: Geza Vermes
+credit_line: http://www.imj.org.il/images/news/all/10/members1-large.jpg
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Geza Vermes, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Genesis_apocryphon.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/0/0d/Genesis_apocryphon.jpg
+  sha1: 64976ee8a0f6aea2b920c17ee7d445c12254e54f
+  original_size: [600, 411]
+  retrieved: '2026-11-20'
+derivative: null
+size: [600, 411]
+depicts: [genesis-apocryphon]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

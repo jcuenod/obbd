@@ -1,0 +1,84 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: erra-and-ishum
+title: Erra and Išum
+aliases: [Erra Epic, Poem of Erra, Erra and Ishum]
+type: text
+cultures: [babylonian]
+date:
+  from: -1100
+  to: -700
+  circa: true
+  display: c. 1100–700 BCE
+scope: >-
+  An Akkadian poem in five tablets in which the plague and war god Erra persuades Marduk to
+  leave his throne, then devastates Babylon and other cities without distinguishing the righteous
+  from the wicked until his vizier Išum calms him. The poem explains a period of Babylonian
+  disorder as divine anger, and copies were used as amulets against plague.
+passages:
+- ref: Ezek 9:1-11
+  rel: parallel
+  disputed: true
+  note: >-
+    Divine executioners slaughter the city; the prophet's intercession (v. 8) compared with
+    Išum's
+- ref: Ezek 21:3-5
+  rel: parallel
+  note: YHWH's drawn sword cuts off righteous and wicked alike (MT 21:8-10)
+- ref: Ezek 21:9-17
+  rel: imagery
+  note: Song of the sword sharpened and polished for slaughter (MT 21:14-22)
+- ref: Ezek 8:12; 9:9
+  rel: concept
+  note: '''YHWH has forsaken the land'': divine absence precedes disaster'
+- ref: Gen 18:23-25
+  rel: concept
+  note: '''Will you sweep away the righteous with the wicked?'''
+- ref: Hab 3:5
+  rel: imagery
+  note: Pestilence (Deber) and plague (Resheph) march with the divine warrior
+- ref: 2Kgs 17:30
+  rel: attests
+  note: Nergal, with whom Erra is identified, worshipped by the people of Cuth
+related: [divine-abandonment, marduk, resheph, babylon, divine-warrior, gods-of-2-kings-17,
+  amulets, akkadian-prophecies]
+media:
+- id: erra-and-ishum
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The colophon credits Kabti-ilani-Marduk, who claims the poem was revealed to him in a
+    night vision. The date is debated: proposals range from the 11th to the 8th century (Lambert
+    favoured the 8th). Copies are mostly 1st-millennium. Present the range.
+  - >-
+    Bodi (1991) argued that Ezekiel knew and adapted the poem (Ezek 7, 9, 21, and the departure
+    of the deity). The thematic parallels are widely acknowledged, but direct dependence is
+    debated. Treat it as a proposal.
+  - >-
+    Explain the poem's theology. Marduk's absence from his throne, not his destruction, lets
+    chaos loose, and an intercessor (Išum) limits divine wrath. Both points bear on Ezekiel
+    and on the divine-abandonment motif.
+  - >-
+    Check the line numbers for the 'righteous and unrighteous' passage (Tablet IV) against
+    Cagni's edition before quoting it.
+  sources_to_check:
+  - L. Cagni, The Poem of Erra (SANE 1/3, 1977)
+  - D. Bodi, The Book of Ezekiel and the Poem of Erra (OBO 104, 1991)
+  - S. Dalley, Myths from Mesopotamia (rev. ed. 2000)
+  - B. R. Foster, Before the Muses (3rd ed. 2005)
+  image_query: Erra and Ishum amulet tablet
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

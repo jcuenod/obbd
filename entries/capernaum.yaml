@@ -1,0 +1,85 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: capernaum
+title: Capernaum
+aliases: [Kefar Naḥum, Tell Hum]
+type: site
+cultures: [jewish, roman]
+scope: >-
+  The fishing village on the northwest shore of the Sea of Galilee that served as the base
+  of Jesus' Galilean ministry. Covers the village houses, the 'House of Peter' and later church,
+  and the white limestone synagogue and its basalt foundations.
+passages:
+- ref: Matt 4:13
+  rel: setting
+  note: Jesus settles in Capernaum by the sea
+- ref: Mark 1:21-34
+  rel: setting
+  note: Teaching in the synagogue; healing at Simon's house
+- ref: Mark 2:1-12
+  rel: realia
+  note: Paralytic lowered through the roof; cf. basalt houses with light roofs
+- ref: Matt 9:1
+  rel: setting
+  note: Capernaum as Jesus' 'own town'
+- ref: Luke 7:1-10
+  rel: attests
+  disputed: true
+  note: Centurion who 'built our synagogue'; basalt foundations beneath the later synagogue
+- ref: Matt 17:24
+  rel: setting
+  note: Temple tax collected at Capernaum
+- ref: Matt 11:23
+  rel: setting
+  note: Woe on Capernaum
+- ref: John 6:24-59
+  rel: setting
+  note: Bread of life discourse in the Capernaum synagogue
+related: [synagogues, galilee-boat, magdala-stone, stone-vessels-and-mikvaot, roads-and-highways]
+media:
+- id: capernaum
+  role: primary
+- id: capernaum-2
+  role: gallery
+external:
+  wikipedia: Capernaum
+  wikidata: Q59174
+  pleiades: '678231'
+editorial:
+  author_notes:
+  - >-
+    The Franciscans (Corbo, Loffreda) excavated the western part of the site and the Greek
+    Orthodox the eastern part. Capernaum was a modest village of perhaps 1,000-1,500 people.
+  - >-
+    The white limestone synagogue dates to the fourth or fifth century CE (dating debated).
+    It stands on basalt walls and a floor that some date to the first century and identify
+    with the synagogue of Luke 7:5. This is possible, not proven.
+  - >-
+    The 'House of Peter' was a house venerated from an early date, then enclosed (fourth century)
+    and replaced by an octagonal church (fifth century). The identification with Peter rests
+    on tradition and graffiti and should be presented with caution.
+  sources_to_check:
+  - Reed, Archaeology and the Galilean Jesus (2000)
+  - NEAEHL
+  image_query: Capernaum synagogue
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q59174 (verify).
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 32.88111
+  lon: 35.575
+  source: wikidata:Q59174

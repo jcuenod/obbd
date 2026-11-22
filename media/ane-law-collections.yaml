@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ane-law-collections
+file: ane-law-collections.jpg
+title: P1050763 Louvre code Hammurabi face rwk.JPG
+caption: The stele of the Laws of Hammurabi, basalt, 18th century BCE (Musée du Louvre, Paris).
+description: Code de Hammurabi, roi de Babylone ; face avant.
+creator: Mbzt
+credit_line: Own work
+license:
+  id: CC-BY-3.0
+  name: CC BY 3.0
+  url: https://creativecommons.org/licenses/by/3.0
+attribution: Mbzt, CC BY 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:P1050763_Louvre_code_Hammurabi_face_rwk.JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/64/P1050763_Louvre_code_Hammurabi_face_rwk.JPG
+  sha1: 3569b5f8fd2930881a8fd8452f658fb86dc3e323
+  original_size: [1215, 2000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 972×1600 px
+size: [972, 1600]
+depicts: [ane-law-collections, code-of-hammurabi, goring-ox, lex-talionis]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

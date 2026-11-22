@@ -1,0 +1,89 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: aqhat-epic
+title: Aqhat Epic
+aliases: [Tale of Aqhat, Legend of Danel, Aqhatu Legend]
+type: text
+cultures: [ugaritic]
+date:
+  from: -1350
+  to: -1185
+  circa: true
+  display: c. 1350–1185 BCE
+scope: >-
+  The Ugaritic narrative poem (KTU 1.17-1.19) about the just patriarch-king Danel, the divinely
+  granted birth of his son Aqhat, Aqhat's refusal of the goddess Anat's offer of immortality
+  in exchange for his bow, his murder, the ensuing drought, and his sister Pughat's revenge.
+  The end of the story is lost.
+passages:
+- ref: Ezek 14:14, 20; 28:3
+  rel: attests
+  note: Danel (Ketiv dnʾl) as proverbial ancient righteous and wise man
+- ref: Jub 4:20
+  rel: attests
+  note: Danel named as father-in-law of Enoch
+- ref: Gen 18:1-8
+  rel: parallel
+  note: 'Hospitality to a divine visitor: Danel and Danatiya feed Kothar-wa-Hasis'
+- ref: Gen 15:1-6
+  rel: parallel
+  note: Childless patriarch receives divine promise of a son
+- ref: 1Sam 1:9-20
+  rel: parallel
+  disputed: true
+  note: Childless petitioner at a sanctuary is granted a son
+- ref: Isa 1:17
+  rel: language
+  note: Judging the cause of widow and orphan; cf. Danel's justice at the gate
+- ref: Isa 51:17-18
+  rel: parallel
+  note: A son's duty to take a drunken parent by the hand
+- ref: 2Sam 18:18
+  rel: practice
+  note: Son raising a memorial stele for his father; cf. the duties of the ideal son
+- ref: 2Sam 1:21
+  rel: parallel
+  note: Curse withholding dew and rain from a place of death (KTU 1.19 I)
+related: [ugaritic-texts, anat, rephaim, hospitality, widow-orphan-sojourner, courts-and-legal-procedure,
+  care-for-the-dead, dream-incubation]
+media:
+- id: aqhat-epic
+  role: primary
+external:
+  wikipedia: Tale of Aqhat
+  wikidata: Q59924856
+editorial:
+  author_notes:
+  - >-
+    Present the identification of Ezekiel's Danel (with Noah and Job, all non-Israelite ancients)
+    with the Ugaritic Danel as the majority view (e.g. J. Day, VT 30, 1980); it is not the
+    Daniel of the book of Daniel.
+  - >-
+    The list of a son's filial duties (KTU 1.17 I, repeated) is a key source for family religion
+    and care of the dead; note the debated meaning of skn ilib ("stele of the ancestral god/divine
+    ancestor").
+  - >-
+    Danel's seven-day ritual before the gods is often read as dream incubation; flag the debate.
+  - >-
+    Anat's offer of immortality and Aqhat's reply that mortals must die bear on ANE views
+    of death and the gods; avoid reading the story as a fertility allegory.
+  sources_to_check:
+  - KTU 1.17-1.19 (= CTA 17-19)
+  - COS 1.103
+  - ANET 149-155
+  - S. B. Parker (ed.), Ugaritic Narrative Poetry (1997)
+  - N. Wyatt, Religious Texts from Ugarit (2nd ed., 2002)
+  image_query: Aqhat tablet Ugarit
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

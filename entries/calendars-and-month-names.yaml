@@ -1,0 +1,90 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: calendars-and-month-names
+title: Calendars and Month Names
+type: concept
+cultures: [hebrew, babylonian, phoenician, jewish]
+scope: >-
+  The lunisolar calendars of Israel and its neighbours: early Canaanite/Phoenician month names
+  (Abib, Ziv, Ethanim, Bul), ordinal numbering of months, the adoption of Babylonian month
+  names after the exile, intercalation, and the spring and autumn new year. The entry also
+  covers the 364-day calendar of some Second Temple groups.
+passages:
+- ref: Exod 12:2
+  rel: practice
+  note: This month to be the first of the months (spring reckoning)
+- ref: Exod 13:4
+  rel: language
+  note: '''Month of Abib'' (ripening ears of grain)'
+- ref: Deut 16:1
+  rel: language
+  note: Passover in the month of Abib
+- ref: 1Kgs 6:1, 37-38
+  rel: language
+  note: Ziv as the second month and Bul as the eighth; dates of temple construction
+- ref: 1Kgs 8:2
+  rel: language
+  note: Ethanim, the seventh month
+- ref: Exod 23:16
+  rel: practice
+  note: Ingathering 'at the end of the year' (autumn reckoning)
+- ref: Exod 34:22
+  rel: practice
+  note: Ingathering 'at the turn of the year'
+- ref: Esth 3:7
+  rel: language
+  note: Babylonian month names Nisan and Adar
+- ref: Neh 1:1
+  rel: language
+  note: Chislev
+- ref: Neh 2:1
+  rel: language
+  note: Nisan
+- ref: Zech 1:7
+  rel: language
+  note: Shebat, glossed as the eleventh month
+related: [gezer-calendar, new-moon, festivals-agricultural, hemerologies, jubilees, first-enoch,
+  akitu-festival, elephantine-papyri]
+media:
+- id: calendars-and-month-names
+  role: primary
+external:
+  wikipedia: Hebrew calendar
+  wikidata: Q44722
+editorial:
+  author_notes:
+  - >-
+    The early month names (Abib, Ziv, Ethanim, Bul) are paralleled in Phoenician inscriptions.
+    Ordinal numbering predominates in Priestly texts. Babylonian names (Nisan, Sivan, Elul,
+    Tishri, Chislev, Tebeth, Shebat, Adar, and others) appear only in exilic and postexilic
+    books.
+  - >-
+    Whether pre-exilic Israel used an autumn or a spring new year is debated (Exod 23:16;
+    34:22 versus Exod 12:2). Present the evidence, including the possibility of both civil
+    and cultic reckonings.
+  - >-
+    Babylonian intercalation (a second Adar or Elul) became regularized in the Persian period.
+    The Elephantine double-dated papyri are key evidence for Jewish use of the Babylonian
+    calendar.
+  - >-
+    The 364-day calendar of 1 Enoch 72-82, Jubilees, and Qumran texts belongs to Second Temple
+    debates. Mention it with cross-references.
+  sources_to_check:
+  - Mark E. Cohen, The Cultic Calendars of the Ancient Near East (1993)
+  - Sacha Stern, Calendar and Community (2001)
+  - >-
+    Richard A. Parker and Waldo H. Dubberstein, Babylonian Chronology 626 B.C.-A.D. 75 (1956)
+  image_query: Gezer calendar
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

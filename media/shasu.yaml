@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: shasu
+file: shasu.jpg
+title: Ramesses III captive tile from Medinet Habu.jpg
+caption: Faience tile showing a Shasu captive, from the temple of Ramesses III at Medinet
+  Habu.
+description: >-
+  Ramesses III's Shasu prisoner faience tile from his temple at Medinet Habu. Its catalogue
+  number is J 36457g. This faience tile is today located at the Egyptian Museum in Cairo.
+creator: Sarah C. Murray
+credit_line: https://www.flickr.com/photos/sarah_c_murray/51413769590/
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: Sarah C. Murray, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ramesses_III_captive_tile_from_Medinet_Habu.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/a0/Ramesses_III_captive_tile_from_Medinet_Habu.jpg
+  sha1: 35fd220fa0b04064309d071db7bc56e6a7b08eb0
+  original_size: [5504, 8256]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1067×1600 px
+size: [1067, 1600]
+depicts: [shasu]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

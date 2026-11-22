@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: omri
+file: omri.jpg
+title: F4171 Louvre stele de Mesha AO5066 rwk.jpg
+caption: >-
+  The Mesha Stele, whose inscription names Omri king of Israel as the oppressor of Moab (Musée
+  du Louvre, Paris).
+description: Mesha stele.
+creator: Mbzt
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Mbzt, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:F4171_Louvre_stele_de_Mesha_AO5066_rwk.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/c/c5/F4171_Louvre_stele_de_Mesha_AO5066_rwk.jpg
+  sha1: 93ffbe5b4d2a0a9ae9378b89045bfe9f90cfc047
+  original_size: [3547, 5500]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1032×1600 px
+size: [1032, 1600]
+depicts: [omri]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

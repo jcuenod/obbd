@@ -1,0 +1,91 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: city-of-david
+title: City of David
+aliases: [Ophel, Stronghold of Zion, Wadi Hilweh ridge]
+type: site
+cultures: [judahite, canaanite]
+scope: >-
+  The narrow southeastern ridge of Jerusalem above the Gihon spring, the core of the Bronze
+  and Iron Age city. Covers its fortifications, the Stepped Stone Structure and Large Stone
+  Structure, the spring installations, and the Iron Age houses and bullae; the tunnel and
+  the temple platform have their own entries.
+passages:
+- ref: 2Sam 5:7-9
+  rel: setting
+  note: >-
+    David takes the stronghold of Zion, 'the city of David', and builds from the Millo inward
+- ref: 2Sam 5:8
+  rel: realia
+  disputed: true
+  note: Joab's ascent by the ṣinnôr, often linked to Warren's Shaft (now doubted)
+- ref: 1Kgs 1:33-45
+  rel: setting
+  note: Solomon anointed at the Gihon spring
+- ref: 1Kgs 2:10
+  rel: setting
+  note: David buried in the city of David
+- ref: 2Chr 32:30
+  rel: setting
+  note: Gihon's upper outlet channelled to the west side of the city of David
+- ref: Neh 3:15-16
+  rel: setting
+  note: Pool of Shelah, king's garden, and stairs down from the city of David
+- ref: Jer 36:10-12
+  rel: attests
+  note: >-
+    Gemariah son of Shaphan; bulla of Gemaryahu son of Shaphan from the 'House of the Bullae'
+- ref: Jer 38:1
+  rel: attests
+  note: Jehucal son of Shelemiah and Gedaliah son of Pashhur named on bullae from the site
+related: [jerusalem, temple-mount, hezekiahs-tunnel, pool-of-siloam, bullae-of-jeremiah-era-officials,
+  low-chronology-debate, david, cisterns-and-water-systems]
+media:
+- id: jerusalem-2
+  role: gallery
+external:
+  wikipedia: City of David (archaeological site)
+  wikidata: Q1177750
+  pleiades: '714055238'
+editorial:
+  author_notes:
+  - >-
+    The Stepped Stone Structure and E. Mazar's Large Stone Structure are dated anywhere from
+    Iron I to Iron IIA. Whether they form one tenth-century complex (a 'palace of David')
+    is contested; give the range of views.
+  - >-
+    Reich and Shukron showed that the massive spring tower and pool fortifications are Middle
+    Bronze Age, and that Warren's Shaft could not have been used as a water shaft in the Bronze
+    Age. This undercuts the classic link with 2 Sam 5:8.
+  - >-
+    Shiloh's Area G houses (House of Ahiel, Burnt Room, House of the Bullae) preserve the
+    586 destruction. The bullae corpus is the main epigraphic link to Jeremiah's officials.
+  - >-
+    The excavations' sponsorship and their setting in the Silwan neighbourhood are politically
+    contested. Mention this neutrally.
+  sources_to_check:
+  - NEAEHL
+  - Shiloh, Excavations at the City of David I (Qedem 19, 1984)
+  - Reich, Excavating the City of David (2011)
+  image_query: City of David Stepped Stone Structure
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q1177750 (verify).
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 31.77304
+  lon: 35.23481
+  source: wikidata:Q1177750

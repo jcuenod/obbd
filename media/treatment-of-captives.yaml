@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: treatment-of-captives
+file: treatment-of-captives.jpg
+title: Capture of Lachish - exiles and executions.jpg
+caption: >-
+  Judean captives led away and prisoners executed after the fall of Lachish, relief from Sennacherib's
+  palace at Nineveh, c. 700 BCE (British Museum).
+description: >-
+  Bas-relief from the south-west palace of Nineveh, on the taking of Lachish. After the capture
+  of Lachish: Assyrian soldiers carry off Judeans prisoners are taken into exile with their
+  goods and animals, and other troopers execute prisoners by flaying them alive. Panels 9-10
+  in Room XXXVI, c. 700-692 BC.
+creator: Zunkir
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Zunkir, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Capture_of_Lachish_-_exiles_and_executions.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/aa/Capture_of_Lachish_-_exiles_and_executions.jpg
+  sha1: b0376a8139e19c1f42cfeddd9bcb916c7380e9bc
+  original_size: [5352, 4000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1196 px
+size: [1600, 1196]
+depicts: [lachish-reliefs, treatment-of-captives]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

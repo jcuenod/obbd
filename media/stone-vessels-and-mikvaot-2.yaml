@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: stone-vessels-and-mikvaot-2
+file: stone-vessels-and-mikvaot-2.jpg
+title: Qumran L-71 pool.jpg
+caption: Stepped pool (Locus 71) at Qumran.
+description: The Locus 71 Pool at Qumran.
+creator: XKV8R (talk)
+credit_line: 'Own work (Original text: I (XKV8R (talk)) created this work entirely by myself.)'
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: XKV8R (talk), CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Qumran_L-71_pool.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/9/90/Qumran_L-71_pool.jpg
+  sha1: 7b0fc5b1a2f749e005fd937eab2da0757e9f6b14
+  original_size: [1200, 783]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1200, 783]
+depicts: [stone-vessels-and-mikvaot]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

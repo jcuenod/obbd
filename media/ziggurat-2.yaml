@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ziggurat-2
+file: ziggurat-2.jpg
+title: Choqa Zanbil 2.jpg
+caption: The Elamite ziggurat of Chogha Zanbil (Dur-Untash), Iran, 13th century BCE.
+description: Choqa Zanbil, Ziggurat, Dur Untash, 13th century BC
+creator: ninara
+credit_line: 'Flickr: IMG_3465'
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: ninara, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Choqa_Zanbil_2.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/f/f5/Choqa_Zanbil_2.jpg
+  sha1: a6de4bc1fbcf264a1c20ce0b4dd52a4f00b873e7
+  original_size: [2784, 1856]
+  retrieved: '2026-11-21'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [ziggurat]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

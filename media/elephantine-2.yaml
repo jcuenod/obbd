@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: elephantine-2
+file: elephantine-2.jpg
+title: KhnoumTempleElephantine.jpg
+caption: Ruins at the southern end of Elephantine island, site of the temple of Khnum.
+description: >-
+  Ruins of the temple of Khnum, southern point of the island of Elephantine. Only the imprint
+  on the ground remains quite visible. Some elements of the temple were re-installed.
+creator: Claude Valette
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Claude Valette, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:KhnoumTempleElephantine.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/9/92/KhnoumTempleElephantine.jpg
+  sha1: 4af59a1bb0d70a4dc9416b24332ec205224150d0
+  original_size: [1024, 768]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1024, 768]
+depicts: [elephantine]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

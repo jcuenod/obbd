@@ -1,0 +1,90 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ekron-royal-dedicatory-inscription
+title: Ekron Royal Dedicatory Inscription
+aliases: [Ekron Inscription]
+type: artifact
+cultures: [philistine]
+date:
+  from: -675
+  to: -650
+  circa: true
+  display: c. 675–650 BCE
+scope: >-
+  A limestone block found in 1996 in the main temple complex at Tel Miqne-Ekron, recording
+  that Achish (ʾkyš) son of Padi, ruler of Ekron, built the temple for the goddess PTGYH.
+  It confirms the identification of the site and names two Ekronite kings known from Assyrian
+  records.
+passages:
+- ref: Josh 13:3
+  rel: setting
+  note: Ekron among the five Philistine cities
+- ref: 2Kgs 18:8
+  rel: setting
+  note: Hezekiah's Philistine campaign; Sennacherib names Padi of Ekron, held in Jerusalem
+- ref: 1Sam 21:10-15
+  rel: language
+  note: Achish, a Philistine royal name, here borne by a king of Gath (MT 21:11-16)
+- ref: 1Kgs 2:39-40
+  rel: language
+  note: Achish son of Maacah, king of Gath
+- ref: 1Sam 29:3-4
+  rel: language
+  note: śārê pĕlištîm; cf. the title śr ('ruler') of Ekron
+- ref: Num 6:24
+  rel: parallel
+  note: '''May she bless him and keep him'': a blessing formula shared with the Priestly Blessing'
+- ref: 2Kgs 1:2-3
+  rel: setting
+  note: Ekron's god in Kings is Baal-zebub; the inscription names the goddess PTGYH
+- ref: Zeph 2:4
+  rel: setting
+  note: Oracle on Ekron in the 7th century
+related: [ekron, philistines, sennacherib-campaign-701, esarhaddon-prisms, gath, baal-zebub,
+  sea-peoples]
+location:
+  institution: Israel Museum, Jerusalem
+  accession: IAA 1997-2912
+media:
+- id: ekron
+  role: gallery
+- id: ekron-royal-dedicatory-inscription
+  role: primary
+external:
+  wikipedia: Ekron Royal Dedicatory Inscription
+  wikidata: Q1974858
+editorial:
+  author_notes:
+  - >-
+    ʾkyš is the Ikausu of Ekron in Esarhaddon's and Ashurbanipal's vassal lists, and Padi
+    appears in Sennacherib's annals. This anchors the inscription in the early 7th century.
+  - >-
+    The biblical Achish of Gath (David's era) is not the same person. The link is onomastic:
+    Achish is probably a non-Semitic (Aegean or Anatolian) name that the Philistine royal
+    houses kept using.
+  - >-
+    The language is Phoenician-like Northwest Semitic. Proposed meanings of PTGYH include
+    a Greek Potnia (or Pythogaia). The reading and identity remain open.
+  - >-
+    Set it in the context of 7th-century Ekron as a major olive-oil production centre under
+    Assyrian hegemony.
+  sources_to_check: ['Gitin, Dothan and Naveh, IEJ 47 (1997)', COS 2.42, 'Aḥituv, Echoes from
+      the Past (2008)']
+  image_query: Ekron Royal Dedicatory Inscription Israel Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added accession from Wikidata Q1974858 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

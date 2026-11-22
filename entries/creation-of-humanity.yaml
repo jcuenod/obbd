@@ -1,0 +1,81 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: creation-of-humanity
+title: Creation of Humanity
+type: concept
+cultures: [ane]
+scope: >-
+  Ancient Near Eastern accounts of how and why humans were made: from clay, divine blood,
+  or tears; shaped by a potter god; and created to relieve the gods of labour. Covers the
+  comparative background of Gen 1:26-28 and 2:7 and related poetic texts.
+passages:
+- ref: Gen 2:7
+  rel: parallel
+  note: >-
+    Human formed from dust of the ground and animated by divine breath; cf. clay and divine
+    blood in Atrahasis
+- ref: Gen 2:15
+  rel: concept
+  note: Human placed to till and keep the garden; contrast humans created to bear the gods'
+    toil
+- ref: Gen 1:26-28
+  rel: concept
+  note: Humanity created in the divine image to rule
+- ref: Gen 2:21-22
+  rel: parallel
+  disputed: true
+  note: Woman built from the man's side; 'rib' wordplay with Enki and Ninhursag is contested
+- ref: Job 10:8-9
+  rel: imagery
+  note: '''You fashioned me like clay'''
+- ref: Job 33:6
+  rel: imagery
+  note: '''I too was formed from a piece of clay'''
+- ref: Isa 64:8
+  rel: imagery
+  note: '''We are the clay, and you are our potter''; MT 64:7'
+- ref: Jer 18:1-6
+  rel: imagery
+  note: Potter and clay
+- ref: Ps 8:3-8
+  rel: concept
+  note: Humans made a little lower than God, crowned to rule; MT 8:4-9
+- ref: Rom 9:20-21
+  rel: imagery
+  note: Potter's right over the clay
+related: [atrahasis, enuma-elish, khnum, image-of-god, creation-accounts, enki-and-ninhursag,
+  pottery-and-potters]
+media:
+- id: creation-of-humanity
+  role: primary
+external:
+  wikipedia: Creation of life from clay
+  wikidata: Q5183471
+editorial:
+  author_notes:
+  - >-
+    Atrahasis I narrates the mixing of clay with the flesh and blood of a slain god (We-ila)
+    so that humans bear the labour of the gods. Enuma Elish VI has humans made from Kingu's
+    blood for the same purpose. Contrast Gen 2:15, where humans tend God's garden, and Gen
+    1:28, where they receive dominion.
+  - >-
+    Egyptian images include Khnum shaping humans on a potter's wheel and humans arising from
+    the tears of the creator (a wordplay on rmṯ "people" and rmyt "tears"). The Instruction
+    for Merikare calls humans the god's "cattle" and his images.
+  - >-
+    The Sumerian "rib" pun (ti = "rib" and "life") in Enki and Ninhursag, proposed as background
+    to Gen 2:21-22, is widely repeated but contested. Mark it as such.
+  image_query: Khnum potter's wheel relief
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

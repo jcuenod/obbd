@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: cyrus-the-great-2
+file: cyrus-the-great-2.jpg
+title: I am Cyrus, Achaemenid King - Pasargady01.jpg
+caption: >-
+  Trilingual inscription 'I, Cyrus, the king, the Achaemenid' in Old Persian, Elamite and
+  Akkadian, from Palace P at Pasargadae.
+description: >-
+  'I, Cyrus, the King, the Achaemenian'. The trilingual CMa inscription from Palace P, Pasargadae,
+  in Old Persian, Elamite and Akkadian languages. the Persian inscription: "𐎠𐎭𐎶𐏐𐎤𐎢𐎽𐎢𐏁𐏐𐎧𐏁𐎠𐎹
+  / 𐎰𐎡𐎰*𐏐𐏃𐎧𐎠𐎶𐎴𐎡𐏁𐎡𐎹" * It seems that the last 𐎰 in 𐎧𐏁𐎠𐎹𐎰𐎡𐎰 should be 𐎹.
+creator: Truth Seeker (fawiki); Dmk121;
+credit_line: null
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Truth Seeker (fawiki); Dmk121;, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:I_am_Cyrus,_Achaemenid_King_-_Pasargady01.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/b6/I_am_Cyrus%2C_Achaemenid_King_-_Pasargady01.jpg
+  sha1: 2052989c7a76f30d77aafba79e28bd8d406b309d
+  original_size: [3200, 1460]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×730 px
+size: [1600, 730]
+depicts: [cyrus-the-great]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

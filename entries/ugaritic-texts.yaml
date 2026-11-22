@@ -1,0 +1,84 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ugaritic-texts
+title: Ugaritic Texts (Corpus)
+type: text
+cultures: [ugaritic]
+date:
+  from: -1400
+  to: -1185
+  circa: true
+  display: c. 1400–1185 BCE
+scope: >-
+  The texts written in the alphabetic cuneiform script found from 1929 at Ras Shamra (Ugarit)
+  and Ras Ibn Hani, including myths, epics, rituals, letters and administrative records of
+  the 14th and 13th centuries. This entry covers the corpus and its significance for Hebrew
+  language, poetry and religion. Individual compositions have their own entries.
+passages:
+- ref: Ps 29
+  rel: parallel
+  note: Hymn to the storm god's voice; widely compared with Baal hymnody
+- ref: Ps 92:9
+  rel: parallel
+  note: '''Your enemies, O YHWH'', a staircase tricolon matching KTU 1.2 IV (MT 92:10)'
+- ref: Isa 27:1
+  rel: parallel
+  note: Leviathan the fleeing and twisting serpent, as Lotan in the Baal Cycle
+- ref: Ps 68:4
+  rel: language
+  note: '''Rider on the clouds'', Baal''s epithet rkb ʿrpt (MT 68:5)'
+- ref: Ps 82:1
+  rel: concept
+  note: God presiding in the divine council
+- ref: Prov 26:23
+  rel: language
+  note: kspsgym 'like glaze', clarified by Ugaritic spsg
+- ref: Ezek 14:14, 20; 28:3
+  rel: attests
+  disputed: true
+  note: Danel the righteous; cf. Dnil in the Aqhat epic
+- ref: 2Sam 1:21
+  rel: language
+  disputed: true
+  note: Emendation of 'fields of offerings' after an Ugaritic phrase
+related: [ugarit, baal-cycle, aqhat-epic, kirta-epic, el, baal, leviathan, divine-council]
+media:
+- id: baal-cycle
+  role: primary
+external:
+  wikipedia: Ugaritic texts
+  wikidata: Q60791511
+editorial:
+  author_notes:
+  - >-
+    Explain the 30-sign alphabetic cuneiform, the abecedaries, and the multilingual archive
+    (Akkadian, Hurrian, Hittite).
+  - >-
+    Correct the old misconception that KTU 1.23 contains 'cooking a kid in its mother's milk'
+    (Exod 23:19). The reading has been abandoned.
+  - >-
+    Warn against 'pan-Ugaritism' (e.g. Dahood's Psalms commentary). Lexical comparisons need
+    checking case by case.
+  - >-
+    Ugarit is a Late Bronze Age north Syrian city, not 'Canaanite religion' in general. The
+    gap of several centuries before most biblical texts must be acknowledged.
+  sources_to_check:
+  - KTU3, Dietrich, Loretz and Sanmartín (2013)
+  - COS 1.86
+  - Parker (ed.), Ugaritic Narrative Poetry (SBLWAW 9, 1997)
+  - Pardee, Ritual and Cult at Ugarit (SBLWAW 10, 2002)
+  - Smith and Pitard, The Ugaritic Baal Cycle (1994-2009)
+  image_query: Ugaritic alphabet tablet Ras Shamra
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

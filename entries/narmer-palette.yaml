@@ -1,0 +1,80 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: narmer-palette
+title: Narmer Palette
+type: artifact
+cultures: [egyptian]
+date:
+  from: -3100
+  to: -3100
+  circa: true
+  display: c. 3100 BCE
+scope: >-
+  A ceremonial siltstone palette from Hierakonpolis showing King Narmer, wearing the crowns
+  of Upper and Lower Egypt, smiting a kneeling enemy with a mace, inspecting decapitated foes,
+  and (as a bull) breaking a city wall. It is the earliest full-scale example of the "smiting
+  pharaoh" and of the conqueror treading on enemies, motifs that persisted for three millennia.
+passages:
+- ref: Josh 10:24
+  rel: practice
+  note: Victors place their feet on the necks of defeated kings
+- ref: Ps 110:1
+  rel: imagery
+  note: Enemies made a footstool beneath the king's feet
+- ref: Ps 110:5-6
+  rel: imagery
+  note: Kings and heads shattered (māḥaṣ) on the day of wrath; the smiting motif
+- ref: Ps 68:21
+  rel: imagery
+  note: God shatters the heads of his enemies; MT 68:22
+- ref: Deut 33:17
+  rel: imagery
+  note: Ruler as a wild bull goring the peoples
+related: [smiting-the-enemy-motif, egyptian-kingship, tutankhamun-footstool, footstool, bull-iconography,
+  royal-ideology, treatment-of-captives]
+location:
+  institution: Egyptian Museum, Cairo
+  accession: null
+media:
+- id: smiting-the-enemy-motif
+  role: gallery
+- id: narmer-palette
+  role: primary
+- id: narmer-palette-2
+  role: gallery
+external:
+  wikipedia: Narmer Palette
+  wikidata: Q368138
+editorial:
+  author_notes:
+  - >-
+    Scholars debate whether the palette records an actual unification or is an ideological
+    and ritual image. Present both views.
+  - >-
+    The relevance to the Bible is iconographic and long-term. The smiting-king and enemies-underfoot
+    motifs reached the Levant through scarabs, stelae (e.g., Beth-shean), and Egyptian imperial
+    art. Do not imply Israelite authors knew this object.
+  - Keel's work on the iconography of the Psalms is the standard entry point.
+  sources_to_check:
+  - Keel, The Symbolism of the Biblical World (1978)
+  - Wilkinson, Early Dynastic Egypt (1999)
+  image_query: Narmer Palette Egyptian Museum Cairo
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Ps 110:5-6 note no longer assigns the smiting to
+    the king
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,75 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: sacred-marriage
+title: Sacred Marriage (Hieros Gamos)
+aliases: [hieros gamos]
+type: practice
+cultures: [sumerian, babylonian, assyrian, greek]
+scope: >-
+  The idea of a ritual marriage between deities, or between a king and a goddess, attested
+  in Sumerian royal hymns and later Mesopotamian divine-marriage rites, and its proposed relevance
+  to biblical marriage metaphors and the Song of Songs.
+passages:
+- ref: Hos 2:14-23
+  rel: imagery
+  note: YHWH woos and betroths Israel; 'my husband' not 'my Baal'; MT 2:16-25
+- ref: Jer 2:2
+  rel: imagery
+  note: Israel's devotion as a bride
+- ref: Ezek 16:8
+  rel: imagery
+  note: YHWH enters into covenant with Jerusalem as his bride
+- ref: Isa 62:4-5
+  rel: imagery
+  note: Land called 'Married'; God rejoices over Zion as bridegroom
+- ref: Song 1-8
+  rel: parallel
+  disputed: true
+  note: Cultic hieros gamos readings of the Song (Meek; Pope) are a minority view
+- ref: Ezek 8:14
+  rel: practice
+  note: Women weeping for Tammuz (Dumuzi)
+- ref: Rev 21:2, 9
+  rel: imagery
+  note: New Jerusalem as the bride of the Lamb
+related: [sumerian-love-songs, tammuz, ishtar, cultic-prostitution, egyptian-love-poetry,
+  baal]
+media:
+- id: sacred-marriage
+  role: primary
+external:
+  wikipedia: Hieros gamos
+  wikidata: Q1334402
+editorial:
+  author_notes:
+  - >-
+    The key Sumerian evidence is royal hymns (e.g. Iddin-Dagan A, Shulgi hymns) describing
+    the king's union with Inanna. Whether this involved a human sexual rite or was symbolic
+    or performed with statues is debated (Cooper; Lapinkivi, The Sumerian Sacred Marriage,
+    SAAS 15, 2004).
+  - >-
+    First-millennium rites of divine marriage (e.g. Nabu and Tashmetu) involved statues and
+    a bedchamber, not human couples.
+  - >-
+    Avoid the older "fertility cult" model linking sacred marriage, sacred prostitution, and
+    Canaanite religion. It has been largely abandoned. The biblical marriage metaphor is better
+    explained by covenant and family law.
+  - >-
+    The Warka Vase scene is often but not universally interpreted as a sacred-marriage procession.
+    Say so if it is used as an illustration.
+  sources_to_check:
+  - Martti Nissinen and Risto Uro, eds., Sacred Marriages (2008)
+  image_query: Warka Vase
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

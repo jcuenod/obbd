@@ -1,0 +1,67 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ophir
+title: Ophir
+aliases: [Gold of Ophir]
+type: site
+cultures: [arabian]
+scope: >-
+  The unlocated land famed for fine gold, reached by Solomon's and Hiram's Red Sea fleet.
+  Covers the biblical evidence, the Tell Qasile ostracon, and the proposed locations.
+passages:
+- ref: Gen 10:29
+  rel: setting
+  note: Ophir among the sons of Joktan, with South Arabian names
+- ref: 1Kgs 9:26-28
+  rel: setting
+  note: Solomon and Hiram's fleet sails from Ezion-geber to Ophir
+- ref: 1Kgs 10:11
+  rel: realia
+  note: Gold, almug wood and precious stones from Ophir
+- ref: 1Kgs 22:48
+  rel: setting
+  note: Jehoshaphat's ships fail to reach Ophir (MT 22:49)
+- ref: 1Chr 29:4
+  rel: realia
+  note: Gold of Ophir given for the temple
+- ref: Job 28:16
+  rel: language
+  note: '''Gold of Ophir'' as a byword for the finest gold'
+- ref: Ps 45:9
+  rel: imagery
+  note: The queen in gold of Ophir (MT 45:10)
+- ref: Isa 13:12
+  rel: imagery
+  note: Humans made rarer than the gold of Ophir
+related: [tell-qasile-ostracon, sheba, tarshish, phoenician-seafaring, hiram-of-tyre, solomon,
+  diplomatic-gift-exchange]
+media: []
+external:
+  wikipedia: Ophir
+  wikidata: Q914073
+editorial:
+  author_notes:
+  - >-
+    The location is unknown. Candidates include southwestern Arabia, the Horn of Africa (linked
+    with Egyptian Punt) and India (LXX Sōphira; Josephus). No archaeological identification
+    exists.
+  - >-
+    The Tell Qasile ostracon ('gold of Ophir to Beth-horon, 30 shekels'; eighth century) shows
+    that 'Ophir gold' was a recognized grade or origin of gold.
+  - >-
+    Nineteenth-century identifications of Ophir with Great Zimbabwe, and later ones with the
+    Americas, are colonial-era or fringe curiosities. Mention them only as misconceptions.
+  image_query: Tell Qasile ostracon gold of Ophir
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

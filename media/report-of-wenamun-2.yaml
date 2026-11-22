@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: report-of-wenamun-2
+file: report-of-wenamun-2.png
+title: Wenamun-papyrus.png
+caption: >-
+  Part of the first page of Papyrus Moscow 120 with the beginning of the Report of Wenamun.
+description: >-
+  Photo of a part of the first page of Papyrus Moscow 120, which contains the history of Wenamun
+creator: Ancient Egyptian Writer
+credit_line: >-
+  M. Коростовцев: Путeшecтвиe Ун-Амуна в Библ. 1960 (M. Korostovtsev: Die Reise des Wenamun
+  nach Byblos, 1960), S. 135
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Ancient Egyptian Writer. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Wenamun-papyrus.png
+  original_url: https://upload.wikimedia.org/wikipedia/commons/1/13/Wenamun-papyrus.png
+  sha1: 8c42c8cd2584d8c4a73b90df9bdb8623453d4049
+  original_size: [2168, 1604]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1184 px
+size: [1600, 1184]
+depicts: [report-of-wenamun]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

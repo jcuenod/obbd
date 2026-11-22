@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: statue-of-gudea
+file: statue-of-gudea.jpg
+title: Gudea, statue dédiée au dieu Ningirsu (Louvre, AO 2).jpg
+caption: >-
+  Statue B of Gudea, 'the architect with plan', diorite statue dedicated to Ningirsu, Neo-Sumerian
+  period (Musée du Louvre, Paris, AO 2).
+description: >-
+  Gudea, prince of Lagash, statue named "the architect with map", dedicated to the god Ningirsu.
+  (Louvre museum, Paris, France).
+creator: Tangopaso
+credit_line: Own work
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Tangopaso. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Gudea,_statue_d%C3%A9di%C3%A9e_au_dieu_Ningirsu_(Louvre,_AO_2).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/2b/Gudea%2C_statue_d%C3%A9di%C3%A9e_au_dieu_Ningirsu_%28Louvre%2C_AO_2%29.jpg
+  sha1: 4c6c9016748398208418c058b2ff787d91bb1054
+  original_size: [2112, 2816]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1200×1600 px
+size: [1200, 1600]
+depicts: [statue-of-gudea]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

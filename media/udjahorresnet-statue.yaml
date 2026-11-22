@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: udjahorresnet-statue
+file: udjahorresnet-statue.jpg
+title: >-
+  Statue of Egyptian Chief Physician Udjaḥorresnet, Dynasty 27, 525-404 BC (48464817136).jpg
+caption: >-
+  Naophorous statue of Udjahorresnet, green basalt, Twenty-seventh Dynasty (Gregorian Egyptian
+  Museum, Vatican Museums).
+description: >-
+  Gregorian Egyptian Museum, Vatican Museums, Vatican City, Rome, Italy. Complete indexed
+  photo collection at WorldHistoryPics.com.
+creator: Gary Todd from Xinzheng, China
+credit_line: Statue of Egyptian Chief Physician Udjaḥorresnet, Dynasty 27, 525-404 BC
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Gary Todd from Xinzheng, China. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Statue_of_Egyptian_Chief_Physician_Udja%E1%B8%A5orresnet,_Dynasty_27,_525-404_BC_(48464817136).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/bc/Statue_of_Egyptian_Chief_Physician_Udja%E1%B8%A5orresnet%2C_Dynasty_27%2C_525-404_BC_%2848464817136%29.jpg
+  sha1: bb231400b8a660a1033342d5543dce92c34931c6
+  original_size: [4000, 6000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1067×1600 px
+size: [1067, 1600]
+depicts: [udjahorresnet-statue]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

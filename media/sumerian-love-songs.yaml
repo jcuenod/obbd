@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: sumerian-love-songs
+file: sumerian-love-songs.jpg
+title: A Love Song of Shu-Sin (Shu-Suen B) – Istanbul 2461 cropped.jpg
+caption: >-
+  Cuneiform tablet with a Sumerian love song for King Shu-Sin (Shu-Suen B), Ur III period
+  (Museum of the Ancient Orient, Istanbul).
+description: A cuneiform tablet (L.2461) on display at the Istanbul Museum of the Ancient
+  Orient.
+creator: Andriy Makukha (Amakuha)
+credit_line: This image has been extracted from another file
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Andriy Makukha (Amakuha). CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:A_Love_Song_of_Shu-Sin_(Shu-Suen_B)_%E2%80%93_Istanbul_2461_cropped.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/8/8d/A_Love_Song_of_Shu-Sin_%28Shu-Suen_B%29_%E2%80%93_Istanbul_2461_cropped.jpg
+  sha1: 44694aaad921ad944fc6ee38488fd630a118e1ae
+  original_size: [1384, 2416]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 917×1600 px
+size: [917, 1600]
+depicts: [sumerian-love-songs]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

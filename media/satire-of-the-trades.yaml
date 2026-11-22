@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: satire-of-the-trades
+file: satire-of-the-trades.jpg
+title: >-
+  Hieratic ostracon inscribed with the so-called 'Satire of the Trades' on both sides, limestone
+  - Museo Egizio, Turin S 6378 p01.jpg
+caption: >-
+  Limestone ostracon inscribed in hieratic on both sides with the Satire of the Trades (Museo
+  Egizio, Turin, S 6378).
+description: null
+creator: null
+credit_line: Museo Egizio
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Unknown author. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Hieratic_ostracon_inscribed_with_the_so-called_%27Satire_of_the_Trades%27_on_both_sides,_limestone_-_Museo_Egizio,_Turin_S_6378_p01.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/4f/Hieratic_ostracon_inscribed_with_the_so-called_%27Satire_of_the_Trades%27_on_both_sides%2C_limestone_-_Museo_Egizio%2C_Turin_S_6378_p01.jpg
+  sha1: dc3847b9db59189d81ca1e96689751d6b903e382
+  original_size: [5291, 4544]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1374 px
+size: [1600, 1374]
+depicts: [satire-of-the-trades]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

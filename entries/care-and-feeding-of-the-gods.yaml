@@ -1,0 +1,80 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: care-and-feeding-of-the-gods
+title: Care and Feeding of the Gods
+type: concept
+cultures: [ane, babylonian, egyptian, hittite]
+scope: >-
+  Daily temple service in which cult images were fed, clothed, washed, and entertained, especially
+  in Mesopotamia and Egypt, and the biblical traces of this idiom (sacrifices as God's "food",
+  the table and bread of the Presence) alongside its critique.
+passages:
+- ref: Ps 50:12-13
+  rel: polemic
+  note: '''If I were hungry, I would not tell you... Do I eat the flesh of bulls?'''
+- ref: Deut 32:37-38
+  rel: polemic
+  note: Gods 'who ate the fat of their sacrifices and drank the wine of their libations'
+- ref: Bel 1-22
+  rel: polemic
+  note: Bel's daily provisions exposed as eaten by the priests
+- ref: Lev 3:11, 16
+  rel: language
+  note: Well-being offering as 'food' (leḥem) by fire to YHWH
+- ref: Lev 21:6, 8
+  rel: language
+  note: Priests offer 'the food of their God'
+- ref: Num 28:2
+  rel: language
+  note: '''My offering, the food for my offerings by fire'''
+- ref: Gen 8:21
+  rel: concept
+  note: YHWH smells the pleasing odour (rêaḥ nîḥōaḥ)
+- ref: Exod 25:30
+  rel: practice
+  note: Bread of the Presence regularly set on the table
+- ref: Lev 24:5-9
+  rel: practice
+  note: Twelve loaves set out each sabbath and eaten by priests
+- ref: Ezek 44:7
+  rel: language
+  note: '''When you offer to me my food, the fat and the blood'''
+- ref: Mal 1:7, 12
+  rel: language
+  note: '''The LORD''s table'''
+- ref: Isa 65:11
+  rel: practice
+  note: Table set for Gad (Fortune) and cups for Meni (Destiny)
+related: [sacrifice, cult-images, hittite-instructions-temple-officials, mouth-washing-and-opening,
+  divine-rest, queen-of-heaven, incense-and-incense-altars]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Oppenheim's chapter "The Care and Feeding of the Gods" (Ancient Mesopotamia, 1964) gave
+    the topic its name. Late Babylonian ritual texts from Uruk prescribe the daily meals of
+    Anu and other gods.
+  - >-
+    The divine meal was redistributed afterwards to the king, priests, and temple personnel.
+    This is relevant to priestly portions in Lev 6-7.
+  - >-
+    The Hebrew Bible keeps food language for offerings while also rejecting the idea that
+    God needs feeding (Ps 50). Present this as tension within the tradition, not a simple
+    Israelite-versus-pagan contrast.
+  - >-
+    The Hittite Instructions for Temple Officials stress the purity of those preparing the
+    gods' bread. This is a useful comparison for priestly purity rules.
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

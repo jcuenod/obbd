@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: baal-with-thunderbolt
+file: baal-with-thunderbolt.jpg
+title: Stèle de Baal au foudre - Musée du Louvre Antiquités orientales AO 15775.jpg
+caption: The Baal with Thunderbolt stele, limestone, from Ugarit (Musée du Louvre, Paris).
+description: Stèle de Baal au foudre - Musée du Louvre Antiquités orientales AO 15775
+creator: Shonagon
+credit_line: Own work
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Shonagon. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:St%C3%A8le_de_Baal_au_foudre_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_orientales_AO_15775.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/c/c4/St%C3%A8le_de_Baal_au_foudre_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_orientales_AO_15775.jpg
+  sha1: 11d108e6726cd0ac6863be98b25d3af840b8206b
+  original_size: [4100, 9513]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 690×1600 px
+size: [690, 1600]
+depicts: [baal-with-thunderbolt, divine-warrior]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

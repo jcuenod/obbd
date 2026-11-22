@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: lion-hunt-of-ashurbanipal
+file: lion-hunt-of-ashurbanipal.jpg
+title: >-
+  Assyrian king Ashurbanipal on his horse thrusting a spear onto a lion’s head. Alabaster
+  bas-relief from Nineveh, dating back to 645-635 BCE and is currently housed in the British
+  Museum, London.jpg
+caption: >-
+  Ashurbanipal on horseback spearing a lion, gypsum relief from the North Palace at Nineveh,
+  c. 645–635 BCE (British Museum).
+description: >-
+  Assyrian king Ashurbanipal on his horse thrusting a spear onto a lion’s head. Alabaster
+  bas-relief from the North Palace at Nineveh, Mesopotamia, modern-day Iraq. Neo-Assyrian
+  Period, 645-635 BCE. Currently housed in the British Museum in London.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Assyrian_king_Ashurbanipal_on_his_horse_thrusting_a_spear_onto_a_lion%E2%80%99s_head._Alabaster_bas-relief_from_Nineveh,_dating_back_to_645-635_BCE_and_is_currently_housed_in_the_British_Museum,_London.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/94/Assyrian_king_Ashurbanipal_on_his_horse_thrusting_a_spear_onto_a_lion%E2%80%99s_head._Alabaster_bas-relief_from_Nineveh%2C_dating_back_to_645-635_BCE_and_is_currently_housed_in_the_British_Museum%2C_London.jpg
+  sha1: 60b8c09251f1dc381f0c24de0cb64a21fe4d77dd
+  original_size: [6016, 3787]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1008 px
+size: [1600, 1008]
+depicts: [lion-hunt-of-ashurbanipal]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

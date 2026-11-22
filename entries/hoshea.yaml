@@ -1,0 +1,68 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: hoshea
+title: Hoshea
+type: person
+cultures: [israelite]
+date:
+  from: -732
+  to: -724
+  circa: true
+  display: c. 732–724 BCE
+scope: >-
+  Hoshea son of Elah, last king of Israel, placed on the throne under Assyrian patronage after
+  Pekah's overthrow. He later withheld tribute from Shalmaneser V, sought help from Egypt,
+  and was imprisoned before the fall of Samaria.
+passages:
+- ref: 2Kgs 15:30
+  rel: event
+  note: Hoshea kills Pekah; Tiglath-pileser claims to have installed him
+- ref: 2Kgs 17:1-6
+  rel: event
+  note: Vassalage, revolt, appeal to 'So, king of Egypt', imprisonment and siege
+- ref: 2Kgs 17:4
+  rel: attests
+  disputed: true
+  note: '''So'' king of Egypt; identity (Osorkon IV, or the city of Sais) debated'
+- ref: 2Kgs 18:9-11
+  rel: event
+  note: Siege and capture of Samaria
+- ref: Hos 7:11
+  rel: setting
+  note: Ephraim calling to Egypt and going to Assyria
+- ref: Hos 12:1
+  rel: setting
+  note: Treaty with Assyria while oil is carried to Egypt (MT 12:2)
+related: [shalmaneser-v, fall-of-samaria, tiglath-pileser-iii-inscriptions, sargon-ii-inscriptions,
+  pekah, samaria, deportation, tribute-and-vassalage]
+media: []
+external:
+  wikipedia: Hoshea
+  wikidata: Q319038
+editorial:
+  author_notes:
+  - >-
+    Tiglath-pileser III records receiving Hoshea's tribute. Hoshea's capture (c. 724) preceded
+    the fall of Samaria, so the kingdom fell without a king.
+  - >-
+    Whether Shalmaneser V or Sargon II took Samaria (722 or 720) bears on 2 Kgs 17:6. See
+    fall-of-samaria.
+  - >-
+    Identify 'So' cautiously. The main proposals are Osorkon IV, a reading of Sais as a place
+    name, and Tefnakht.
+  sources_to_check:
+  - Tadmor and Yamada, RINAP 1 (2011)
+  - Cogan and Tadmor, II Kings (AB 11, 1988)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,84 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: samaritan-origins
+title: 'Samaritans: Origins'
+aliases: [Samaritans, Samarians]
+type: people
+cultures: [israelite, jewish, persian, greek]
+scope: >-
+  The origins of the Samaritan community centred on Mount Gerizim, from the population of
+  the Assyrian and Persian province of Samaria to the parting of Samaritans and Jews in the
+  Hellenistic period. Covers biblical polemic, epigraphic and archaeological evidence, and
+  later Jewish and New Testament perspectives.
+passages:
+- ref: 2Kgs 17:24-41
+  rel: polemic
+  note: Judahite account of foreign resettlement and mixed worship in Samaria
+- ref: Ezra 4:1-5
+  rel: event
+  note: '''Adversaries'' offer to help build the temple and are rebuffed'
+- ref: Ezra 4:10
+  rel: attests
+  note: Peoples settled in Samaria by Osnappar (Ashurbanipal)
+- ref: Neh 2:10, 19
+  rel: attests
+  note: Sanballat the Horonite opposes Nehemiah
+- ref: Neh 13:28
+  rel: event
+  note: High priest's grandson, son-in-law of Sanballat, expelled
+- ref: Sir 50:25-26
+  rel: polemic
+  note: '''The foolish people that live in Shechem'''
+- ref: 2Macc 6:2
+  rel: event
+  note: Gerizim temple renamed for Zeus the Friend of Strangers
+- ref: John 4:9, 20
+  rel: practice
+  note: Jews and Samaritans; worship 'on this mountain'
+- ref: Luke 10:33
+  rel: concept
+  note: The Samaritan as unexpected neighbour
+related: [mount-gerizim, samaria-papyri, sanballat, elephantine-temple-petition, samaria,
+  fall-of-samaria, deportation, yehud-province]
+media:
+- id: samaritan-origins
+  role: primary
+external:
+  wikipedia: Samaritans
+  wikidata: Q182651
+editorial:
+  author_notes:
+  - >-
+    Distinguish Samarians (inhabitants of the province of Samaria) from Samaritans (the Gerizim-centred
+    religious community). 2 Kgs 17 is polemical. Assyrian deportations were partial, and much
+    of the northern Yahwistic population remained.
+  - >-
+    Magen dates the first Gerizim sanctuary to the mid-5th century BCE. John Hyrcanus destroyed
+    it around 111-110 BCE. Josephus's story of Sanballat and Manasseh in Alexander's time
+    (Ant. 11.302-347) conflates traditions.
+  - >-
+    Yahwistic names in the Samaria papyri, the Elephantine letter to Delaiah and Shelemiah
+    sons of Sanballat, the Gerizim inscriptions, and the Delos inscriptions ('Israelites who
+    offer to holy Argarizein') show a shared Israelite identity.
+  - >-
+    Current scholarship (Knoppers, Pummer) replaces a single 'schism' with a gradual parting
+    culminating in the 2nd century BCE.
+  sources_to_check:
+  - Knoppers, Jews and Samaritans (2013)
+  - 'Pummer, The Samaritans: A Profile (2016)'
+  - Magen, Misgav, and Tsfania, Mount Gerizim Excavations I (2004)
+  - 'Gropp, Wadi Daliyeh II: The Samaria Papyri from Wadi Daliyeh (DJD 28, 2001)'
+  image_query: Mount Gerizim temple ruins
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

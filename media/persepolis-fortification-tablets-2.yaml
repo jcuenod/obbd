@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: persepolis-fortification-tablets-2
+file: persepolis-fortification-tablets-2.jpg
+title: PTF 1208-101.jpg
+caption: >-
+  Persepolis Fortification tablet Fort. 1208-101, an administrative text written in Old Persian.
+description: An Old Persian administrative clay tablet
+creator: اردشیر خسروی
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: اردشیر خسروی, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:PTF_1208-101.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/4/4f/PTF_1208-101.jpg
+  sha1: 5a5fa13751f382770b3ef027d92198b20df1046f
+  original_size: [1758, 1798]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1564×1600 px
+size: [1564, 1600]
+depicts: [persepolis-fortification-tablets]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

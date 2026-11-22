@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: tablet-of-shamash-2
+file: tablet-of-shamash-2.jpg
+title: Tablet of shamash impression.jpg
+caption: >-
+  Fired clay cover of the Tablet of Shamash, added by Nabopolassar and found with the tablet.
+description: >-
+  Fired clay cover of the Tablet of Shamash, originally made by Nabu-apla-iddina, broken and
+  replaced by Nabopolassar. Found alongside the tablet.
+creator: Natritmeyer
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Natritmeyer, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tablet_of_shamash_impression.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/7/72/Tablet_of_shamash_impression.jpg
+  sha1: 4a9cdf5d1e965ab92d5293cd5c469887674e0e65
+  original_size: [2048, 1423]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1112 px
+size: [1600, 1112]
+depicts: [tablet-of-shamash]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

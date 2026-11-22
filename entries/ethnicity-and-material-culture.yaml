@@ -1,0 +1,76 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ethnicity-and-material-culture
+title: Ethnicity and Material Culture in Iron Age Israel
+aliases: [Ethnic markers, Pots and peoples]
+type: concept
+cultures: [hebrew, philistine, canaanite]
+scope: >-
+  The methodological debate over whether, and how, ethnic identities such as 'Israelite' and
+  'Philistine' can be detected in Iron Age material culture. Covers proposed markers (house
+  plans, pottery, foodways, circumcision, language) and the biblical construction of ethnic
+  boundaries.
+passages:
+- ref: Judg 14:3
+  rel: concept
+  note: '''Uncircumcised Philistines'' as an ethnic boundary'
+- ref: 1Sam 17:26
+  rel: concept
+  note: Goliath as 'this uncircumcised Philistine'
+- ref: 1Sam 18:25-27
+  rel: concept
+  note: Philistine foreskins as bride-price trophy
+- ref: Gen 17:10-14
+  rel: practice
+  note: Circumcision as covenant sign
+- ref: Lev 11:7
+  rel: practice
+  note: Pig prohibited; cf. scarcity of pig bones at highland sites
+- ref: Deut 14:8
+  rel: practice
+  note: Pig prohibited
+- ref: Judg 12:5-6
+  rel: language
+  note: 'Shibboleth: dialect as an ethnic marker'
+- ref: Neh 13:23-24
+  rel: language
+  note: Children speaking 'Ashdodite' rather than 'Judean'
+related: [four-room-house, pig-avoidance, circumcision, philistines, emergence-of-israel,
+  pottery-and-potters, sea-peoples]
+media:
+- id: ethnicity-and-material-culture
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Proposed Israelite markers are the four-room house, collared-rim pithoi, scarcity of pig
+    bones, little decorated or imported pottery, and circumcision (archaeologically invisible).
+    Faust treats these as boundary markers against Philistines. Finkelstein stresses pig avoidance.
+  - >-
+    Counter-arguments are that collared-rim jars and pillared houses occur outside the Israelite
+    highlands, and that environment and economy can explain foodways. Ethnicity is situational
+    and constructed (Barth), not given.
+  - >-
+    Philistine markers include Aegean-style pottery, hearths, cooking jugs, spool-shaped loom
+    weights, and pork consumption in early phases.
+  - >-
+    Warn against both essentialism ('pots = people') and denying any ethnic signal in material
+    culture.
+  sources_to_check:
+  - Faust, Israel's Ethnogenesis (2006)
+  - Killebrew, Biblical Peoples and Ethnicity (2005)
+  image_query: collared-rim jar
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

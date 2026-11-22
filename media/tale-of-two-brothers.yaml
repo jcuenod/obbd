@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: tale-of-two-brothers
+file: tale-of-two-brothers.jpg
+title: Tale of two brothers.jpg
+caption: >-
+  Sheet from Papyrus D'Orbiney with the Tale of Two Brothers, end of the Nineteenth Dynasty
+  (British Museum).
+description: >-
+  Sheet from the Tale of Two Brothers, Papyrus D'Orbine Sheet from the Tale of Two Brothers,
+  Papyrus D'Orbiney. From Egypt. End of the 19th Dynasty
+creator: ancient Egyptian
+credit_line: >-
+  http://www.britishmuseum.org/explore/highlights/highlight_objects/aes/s/sheet_from_the_tale_of_two_bro.aspx
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: ancient Egyptian. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tale_of_two_brothers.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/f/fc/Tale_of_two_brothers.jpg
+  sha1: 5e0bc033ac4d13f4c7140212f79af3189b0a5768
+  original_size: [600, 526]
+  retrieved: '2026-11-20'
+derivative: null
+size: [600, 526]
+depicts: [tale-of-two-brothers]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

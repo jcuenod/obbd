@@ -1,0 +1,71 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: emar-texts
+title: Emar Texts
+aliases: [Emar archives, Meskene tablets]
+type: text
+cultures: [amorite, hurrian, hittite]
+date:
+  from: -1300
+  to: -1185
+  circa: true
+  display: c. 1300–1185 BCE
+scope: >-
+  The Late Bronze Age tablets from Emar (Tell Meskene) on the Middle Euphrates, a Syrian city
+  under Hittite overlordship. They include an unusual archive of local ritual texts (priestess
+  installations, the zukru festival) and legal documents on inheritance and the household
+  gods.
+passages:
+- ref: Lev 8:1-36
+  rel: practice
+  note: Multi-day installation of cult personnel with anointing of the head and offerings
+- ref: Num 27:1-11
+  rel: practice
+  note: Daughters as heirs; Emar wills legally designate daughters as 'male and female'
+- ref: Gen 31:19, 30-35
+  rel: practice
+  disputed: true
+  note: Inheritance linked to custody of the household gods (ilānu) and care of the dead
+- ref: Gen 28:18-22
+  rel: practice
+  note: Standing stones (sikkānu) anointed with oil in local cult
+- ref: Lev 23:4-8
+  rel: practice
+  disputed: true
+  note: zukru festival beginning on the 15th of the first month for seven days
+related: [inheritance-and-birthright, teraphim, massebot, festivals-agricultural, care-for-the-dead,
+  hittites-and-hethites]
+media: []
+external:
+  wikipedia: Emar
+  wikidata: Q1196243
+editorial:
+  author_notes:
+  - >-
+    Excavated 1972-76 by a French team before flooding by the Tabqa dam; many further tablets
+    appeared on the antiquities market, so flag provenance problems.
+  - >-
+    The ritual archive from a diviner's house gives rare insight into West Semitic civic cult;
+    Fleming's comparisons with Priestly ritual (installation, festival calendar) are suggestive
+    and should not be pressed into claims of influence.
+  - >-
+    The 'gods and the dead' (ilānū u mētū) in wills are central to debates on teraphim and
+    ancestor cult (van der Toorn).
+  sources_to_check:
+  - 'D. Arnaud, Recherches au pays d''Aštata: Emar VI (1985-87)'
+  - D. E. Fleming, The Installation of Baal's High Priestess at Emar (HSS 42, 1992)
+  - D. E. Fleming, Time at Emar (2000)
+  image_query: Emar tablet
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

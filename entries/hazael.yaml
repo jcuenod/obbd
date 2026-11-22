@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: hazael
+title: Hazael
+type: person
+cultures: [aramean]
+date:
+  from: -842
+  to: -800
+  circa: true
+  display: c. 842–800 BCE
+scope: >-
+  Hazael, king of Aram-Damascus, who seized the throne c. 842 and made Damascus the dominant
+  power in the southern Levant. He is attested in Shalmaneser III's annals (as 'son of nobody'),
+  probably as the author of the Tel Dan Stele, and in booty inscriptions on ivory and bronze.
+passages:
+- ref: 1Kgs 19:15-17
+  rel: attests
+  note: Elijah commissioned to anoint Hazael over Aram
+- ref: 2Kgs 8:7-15
+  rel: event
+  note: Hazael's usurpation after Ben-hadad's death
+- ref: 2Kgs 8:28-29
+  rel: event
+  note: War with Joram and Ahaziah at Ramoth-gilead
+- ref: 2Kgs 10:32-33
+  rel: event
+  note: Conquest of Israelite Transjordan
+- ref: 2Kgs 12:17-18
+  rel: event
+  note: Capture of Gath; Jerusalem buys him off (MT 12:18-19)
+- ref: 2Kgs 13:3, 22
+  rel: event
+  note: Oppression of Israel under Jehoahaz
+- ref: Amos 1:3-4
+  rel: attests
+  note: Fire on 'the house of Hazael'
+related: [tel-dan-stele, ben-hadad, damascus, jehu, shalmaneser-iii, gath, black-obelisk,
+  arameans]
+media:
+- id: hazael
+  role: primary
+- id: aramaic-language
+  role: gallery
+external:
+  wikipedia: Hazael
+  wikidata: Q127170
+editorial:
+  author_notes:
+  - >-
+    Shalmaneser III calls him 'son of a nobody', implying a usurper. This fits 2 Kgs 8:7-15.
+    The Tel Dan Stele's mention of the speaker's father as king is a tension to discuss.
+  - >-
+    Booty inscriptions ('that which Hadad gave our lord Hazael'), on a horse frontlet and
+    blinker found at Samos and Eretria and on Arslan Tash ivories, show his reach and how
+    his loot later circulated.
+  - >-
+    The siege works and destruction at Tell eṣ-Ṣafi (Gath) are commonly tied to 2 Kgs 12:17.
+    Present this as a strong correlation, not a proof.
+  sources_to_check: [KAI 310, COS 2.39, 'Grayson, RIMA 3 (1996)']
+  image_query: Tel Dan Stele Israel Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

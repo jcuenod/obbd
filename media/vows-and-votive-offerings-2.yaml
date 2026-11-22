@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: vows-and-votive-offerings-2
+file: vows-and-votive-offerings-2.jpg
+title: Carthago exhibition - Stele Depicting an Elephant (49340683656) (cropped).jpg
+caption: >-
+  Limestone stele with a votive dedication to Baal Hammon from the tophet of Carthage, 2nd
+  century BCE.
+description: >-
+  With a votive inscription (dedication to Baal Hammon). From Carthage, tophet, limestone,
+  2nd Century BC.
+creator: Jamie Heath
+credit_line: Stele Depicting an Elephant
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: Jamie Heath, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Carthago_exhibition_-_Stele_Depicting_an_Elephant_(49340683656)_(cropped).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/17/Carthago_exhibition_-_Stele_Depicting_an_Elephant_%2849340683656%29_%28cropped%29.jpg
+  sha1: f49ff2bd9dc12b1460f7e969d7b2ea2384c5d1ef
+  original_size: [1912, 3462]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 884×1600 px
+size: [884, 1600]
+depicts: [vows-and-votive-offerings]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

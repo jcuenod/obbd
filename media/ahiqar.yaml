@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ahiqar
+file: ahiqar.jpg
+title: >-
+  Papyrus narrating the story of the wise chancellor Ahiqar. Aramaic script. 5th century BCE.
+  From Elephantine, Egypt. Neues Museum.jpg
+caption: >-
+  Aramaic papyrus with the story of Ahiqar, ink on papyrus, 5th century BCE, from Elephantine
+  (Neues Museum, Berlin).
+description: >-
+  Papyrus narrating the story of the wise chancellor Ahiqar. Aramaic script. 5th century BCE.
+  From Elephantine, Egypt. Black ink on papyrus. It was displayed at the Neues Museum in Berlin,
+  Germany, Exhibition of "Cinderella, Sindbad & Sinuhe, Arab-German Storytelling Traditions",
+  April 18, 2019, to August 18, 2019. State Museums in Berlin, Egyptian Museum and Papyrus
+  Collection (Staatliche Museen zu Berlin, Ägyptisches Museum und Papyrussammlung), P13446/G.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Papyrus_narrating_the_story_of_the_wise_chancellor_Ahiqar._Aramaic_script._5th_century_BCE._From_Elephantine,_Egypt._Neues_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/7f/Papyrus_narrating_the_story_of_the_wise_chancellor_Ahiqar._Aramaic_script._5th_century_BCE._From_Elephantine%2C_Egypt._Neues_Museum.jpg
+  sha1: f28abf001990f8655d50011a3a445e2d09833d60
+  original_size: [5550, 2818]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×813 px
+size: [1600, 813]
+depicts: [ahiqar, aramaic-language, elephantine-papyri]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

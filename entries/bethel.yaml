@@ -1,0 +1,87 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: bethel
+title: Bethel
+aliases: [Beitin, Luz, Beth-aven]
+type: site
+cultures: [israelite]
+scope: >-
+  The town north of Jerusalem associated with Jacob and with Jeroboam's royal sanctuary, usually
+  identified with Beitin. Covers the identification, the excavations and their reappraisal,
+  and the biblical prominence of the Bethel sanctuary.
+passages:
+- ref: Gen 12:8
+  rel: setting
+  note: Abram's altar between Bethel and Ai
+- ref: Gen 28:10-22
+  rel: setting
+  note: Jacob's dream; stone pillar; 'house of God'
+- ref: Gen 35:1-15
+  rel: setting
+  note: Jacob builds an altar at Bethel
+- ref: Judg 20:18, 26-28
+  rel: setting
+  note: The ark at Bethel; Israel inquires of God
+- ref: 1Kgs 12:28-33
+  rel: setting
+  note: Jeroboam's golden calf and royal sanctuary
+- ref: 1Kgs 13:1-5
+  rel: setting
+  note: Man of God from Judah denounces the Bethel altar
+- ref: 2Kgs 23:15-20
+  rel: setting
+  note: Josiah destroys the Bethel altar
+- ref: Amos 7:10-13
+  rel: setting
+  note: 'Amaziah: ''it is the king''s sanctuary'''
+- ref: Hos 10:5
+  rel: setting
+  note: '''Calf of Beth-aven'', Hosea''s pejorative for Bethel'
+- ref: Jer 48:13
+  rel: language
+  disputed: true
+  note: Bethel possibly as a divine name, as in Elephantine and Assyrian sources
+related: [bull-iconography, massebot, high-places, cult-reforms-archaeology, ai, dan, el]
+media:
+- id: bethel
+  role: primary
+external:
+  wikipedia: Bethel
+  wikidata: Q3876767
+editorial:
+  author_notes:
+  - >-
+    The identification with Beitin (Robinson; Albright and Kelso's excavations 1934 and 1954-60)
+    is standard. Alternatives such as el-Bireh are not accepted.
+  - >-
+    Kelso's results were poorly published. Finkelstein and Singer-Avitz's reappraisal (2009)
+    found limited Iron IIA-B and little Babylonian or Persian occupation, which matters for
+    theories of Bethel as an exilic-period scribal centre.
+  - >-
+    No sanctuary remains have been identified, so the location of Jeroboam's temple is unknown.
+  - >-
+    The deity Bethel (Bayt-il) in Esarhaddon's treaty with Baal of Tyre and at Elephantine
+    bears on Jer 48:13. Mark this as possible, not certain.
+  sources_to_check: [NEAEHL]
+  image_query: Beitin Bethel archaeological site
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates from Wikidata Q3876767 (verify).
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 31.92278
+  lon: 35.24139
+  source: wikidata:Q3876767

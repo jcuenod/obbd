@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: chariots-and-horses
+file: chariots-and-horses.jpg
+title: >-
+  Assyrian war chariot dating back to the reign of Ashurnasirpal II, 865-860 BCE. Detail of
+  a gypsum wall relief from Nimrud, Iraq, currently housed in the British Museum.jpg
+caption: >-
+  Assyrian war chariot, detail of a gypsum wall relief of Ashurnasirpal II from Nimrud, 865–860
+  BCE (British Museum, London).
+description: >-
+  Assyrian war chariot dating back to the reign of Ashurnasirpal II, 865-860 BCE. Detail of
+  a gypsum wall relief from the North-West Palace (Room B, panel 13) at Nimrud (Kalhu), modern-day
+  Iraq, currently housed in the British Museum, London.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Assyrian_war_chariot_dating_back_to_the_reign_of_Ashurnasirpal_II,_865-860_BCE._Detail_of_a_gypsum_wall_relief_from_Nimrud,_Iraq,_currently_housed_in_the_British_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/f/f3/Assyrian_war_chariot_dating_back_to_the_reign_of_Ashurnasirpal_II%2C_865-860_BCE._Detail_of_a_gypsum_wall_relief_from_Nimrud%2C_Iraq%2C_currently_housed_in_the_British_Museum.jpg
+  sha1: 3f5e252283aa59cb84266a999e3ea4f7253a9e97
+  original_size: [4288, 2848]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1063 px
+size: [1600, 1063]
+depicts: [chariots-and-horses]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

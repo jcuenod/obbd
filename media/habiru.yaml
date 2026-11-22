@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: habiru
+file: habiru.jpg
+title: Idrimi of Alalakh.jpg
+caption: >-
+  Statue of Idrimi of Alalakh, whose inscription tells of his years among the Habiru (British
+  Museum, London).
+description: Photo of a statue of Idrimi of Alalakh in the british museam
+creator: geni
+credit_line: Photo by user:geni
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: geni, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Idrimi_of_Alalakh.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/0/04/Idrimi_of_Alalakh.jpg
+  sha1: a00978aff38af172d45ff411f93ace0aef6d52fc
+  original_size: [3000, 3681]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1304×1600 px
+size: [1304, 1600]
+depicts: [habiru]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: battle-of-carchemish
+file: battle-of-carchemish.jpg
+title: >-
+  The cuneiform inscription highlights the conquest of Jerusalem and the surrender of Jehoiakim,
+  king of Judah, in 597 BCE. From Babylon, Iraq.jpg
+caption: >-
+  The Neo-Babylonian chronicle for 605–594 BCE, which opens with Nebuchadnezzar's defeat of
+  the Egyptian army at Carchemish (British Museum, London).
+description: >-
+  Neo-Babylonian Chronicle for years 605-594 BCE. This is an official document which chronicles
+  some events (during the years 605 to 595 BCE) in the reign of king Nebuchadnezzar II (r.
+  605-562 BCE). The cuneiform inscription highlights the conquest of Jerusalem and the surrender
+  of Jehoiakim, king of Judah, in 597 BCE. Clay tablet, made c. 550-400 BCE. From Babylon,
+  Iraq. British Museum.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:The_cuneiform_inscription_highlights_the_conquest_of_Jerusalem_and_the_surrender_of_Jehoiakim,_king_of_Judah,_in_597_BCE._From_Babylon,_Iraq.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/27/The_cuneiform_inscription_highlights_the_conquest_of_Jerusalem_and_the_surrender_of_Jehoiakim%2C_king_of_Judah%2C_in_597_BCE._From_Babylon%2C_Iraq.jpg
+  sha1: da6c196735b5b5ddb5ab09bebe9db182ced09a00
+  original_size: [2749, 3088]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1424×1600 px
+size: [1424, 1600]
+depicts: [battle-of-carchemish, fall-of-jerusalem-587, nebuchadnezzar-chronicle]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

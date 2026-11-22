@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: caiaphas-ossuary-2
+file: caiaphas-ossuary-2.jpg
+title: Drawing of the Inscription on the Ossuary of of the high priest Caiaphas P1180854.JPG
+caption: Drawing of the inscription on the Caiaphas ossuary, as displayed in the Israel Museum.
+description: >-
+  Ossuary of of the high priest, Joseph Caiaphas, was found in Jerusalem in 1990. The Israel
+  Museum, jerusalem
+creator: deror_avi
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: deror_avi, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Drawing_of_the_Inscription_on_the_Ossuary_of_of_the_high_priest_Caiaphas_P1180854.JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/5/58/Drawing_of_the_Inscription_on_the_Ossuary_of_of_the_high_priest_Caiaphas_P1180854.JPG
+  sha1: c92f08e9d7cc4d08dd661cf2307f1b354fbe67c3
+  original_size: [747, 658]
+  retrieved: '2026-11-20'
+derivative: null
+size: [747, 658]
+depicts: [caiaphas-ossuary]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

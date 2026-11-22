@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: lamashtu-pazuzu-amulets
+file: lamashtu-pazuzu-amulets.jpg
+title: Plaque against Lamashtu-AO 22205-IMG 9971-gradient.jpg
+caption: >-
+  Bronze plaque against Lamashtu, with Pazuzu's head and body framing the scene, Neo-Assyrian
+  period (Musée du Louvre, AO 22205).
+description: null
+creator: Rama
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0 fr
+  url: https://creativecommons.org/licenses/by-sa/3.0/fr/deed.en
+attribution: Rama, CC BY-SA 3.0 fr, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Plaque_against_Lamashtu-AO_22205-IMG_9971-gradient.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/f/f4/Plaque_against_Lamashtu-AO_22205-IMG_9971-gradient.jpg
+  sha1: 779b6ebba5e753cb9416f9347a522226f00b2890
+  original_size: [8000, 8000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1600 px
+size: [1600, 1600]
+depicts: [lamashtu-pazuzu-amulets]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

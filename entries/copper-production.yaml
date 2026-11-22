@@ -1,0 +1,73 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: copper-production
+title: Copper Mining and Metallurgy
+aliases: [Bronze metallurgy, King Solomon's Mines]
+type: concept
+cultures: [edomite, egyptian, canaanite]
+scope: >-
+  Copper mining, smelting, and bronze-working in the southern Levant and its neighbours, with
+  focus on the Aravah sites of Timna and Faynan, and the biblical texts on metal resources,
+  casting, and smelting imagery.
+passages:
+- ref: Deut 8:9
+  rel: realia
+  note: '''From whose hills you may mine copper'''
+- ref: Num 21:4-9
+  rel: realia
+  note: Bronze serpent; cf. copper snake from the Timna Hathor shrine
+- ref: Num 33:42-43
+  rel: setting
+  note: Punon (Faynan) as a wilderness station
+- ref: 2Sam 8:13-14
+  rel: setting
+  note: Davidic garrisons in Edom, the copper-producing region
+- ref: 1Kgs 7:13-47
+  rel: realia
+  note: Hiram's bronze castings for the temple
+- ref: 1Kgs 7:46
+  rel: realia
+  note: Casting in clay ground between Succoth and Zarethan
+- ref: 1Chr 18:8
+  rel: realia
+  note: Bronze taken from Hadadezer's cities for temple vessels
+- ref: Job 28:1-11
+  rel: realia
+  note: 'Mining poem: shafts, ore, and smelted copper'
+- ref: Ezek 22:18-22
+  rel: imagery
+  note: Israel as dross of silver, bronze, tin, iron, and lead in the furnace
+related: [timna, faynan, nehushtan, edomites, bronze-sea, jachin-and-boaz, iron-technology]
+media:
+- id: copper-production
+  role: primary
+- id: copper-production-2
+  role: gallery
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Timna had Egyptian New Kingdom mining expeditions with a Hathor shrine (and copper snake),
+    and intensive Iron Age smelting (11th-9th centuries) by local groups. Faynan (Khirbat
+    en-Nahas) shows large-scale 10th-century production (Levy, Najjar, Ben-Yosef).
+  - >-
+    'King Solomon's Mines' (Glueck) is a popular label with no evidence for Israelite control.
+    Present the current debate over a complex, partly nomadic Edomite polity in the 11th-9th
+    centuries. Ben-Yosef argues that archaeology is biased towards architecture.
+  - >-
+    Biblical nĕḥōšet covers both copper and bronze. Note tin sourcing and Cypriot (Alashiya)
+    copper in the Late Bronze trade (Amarna letters, Uluburun wreck).
+  image_query: Timna copper mines
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

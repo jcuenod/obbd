@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "OBBD contributors",
+  "type": "object",
+  "required": [
+    "contributors"
+  ],
+  "properties": {
+    "contributors": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "kind",
+          "name",
+          "can_approve"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "kind": {
+            "enum": [
+              "person",
+              "ai",
+              "bot"
+            ]
+          },
+          "name": {
+            "type": "string"
+          },
+          "credentials": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "orcid": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "areas": {
+            "type": "array"
+          },
+          "can_approve": {
+            "type": "boolean"
+          },
+          "roles": {
+            "type": "array"
+          },
+          "note": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

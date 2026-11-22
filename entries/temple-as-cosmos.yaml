@@ -1,0 +1,81 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: temple-as-cosmos
+title: Temple as Microcosm
+aliases: [temple as microcosm]
+type: concept
+cultures: [ane, egyptian, babylonian, hebrew]
+scope: >-
+  The idea that temples were built and decorated as models of the cosmos or of primeval creation,
+  and the biblical correspondences between creation and the construction of the tabernacle
+  and temple.
+passages:
+- ref: Exod 39:32, 43
+  rel: parallel
+  note: Work 'finished' and Moses sees and blesses it; cf. Gen 1:31-2:3
+- ref: Exod 40:33-34
+  rel: parallel
+  note: '''Moses finished the work''; the glory fills the tabernacle'
+- ref: Exod 25:1-31:17
+  rel: parallel
+  disputed: true
+  note: >-
+    Seven divine speeches culminating in the Sabbath (Exod 31:12-17); creation pattern debated
+- ref: Ps 78:69
+  rel: concept
+  note: Sanctuary built 'like the high heavens, like the earth'
+- ref: Isa 66:1
+  rel: concept
+  note: Heaven as throne, earth as footstool, relativizing the temple
+- ref: 1Kgs 8:27
+  rel: concept
+  note: Heaven cannot contain God, much less the temple
+- ref: 1Kgs 7:23-26
+  rel: realia
+  note: Bronze 'sea' in the temple court
+- ref: 1Kgs 6:29
+  rel: realia
+  note: Garden decoration of cherubim, palms, and flowers
+- ref: Ezek 47:1-12
+  rel: concept
+  note: Temple as source of life-giving waters
+- ref: Heb 8:5
+  rel: concept
+  note: Earthly sanctuary as copy and shadow of the heavenly one
+related: [temple-building-accounts, cosmic-mountain, garden-of-god, bronze-sea, tabernacle,
+  etemenanki, divine-rest, egyptian-cosmology]
+media:
+- id: temple-as-cosmos
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Mesopotamian temple names express cosmic roles. Examples are E-temen-anki ("House, foundation
+    platform of heaven and earth") at Babylon and Dur-an-ki ("bond of heaven and earth") for
+    Nippur. Egyptian temples represent the primeval mound, with papyrus columns and star-studded
+    ceilings.
+  - >-
+    The verbal links between Gen 1:1-2:3 and Exod 39-40 (finishing the work, seeing, blessing)
+    are widely accepted (Blenkinsopp; Weinfeld). The seven-speech structure of Exod 25-31
+    as a creation pattern (Kearney) is more speculative.
+  - >-
+    Josephus (Ant. 3.180-187) and Philo explicitly read the tabernacle cosmologically. Use
+    them as reception, not as evidence for the original design.
+  - >-
+    Avoid maximal claims that every temple feature has a cosmic referent. Levenson, "The Temple
+    and the World" (JR 1984), is a balanced starting point.
+  image_query: Dendera temple astronomical ceiling
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,96 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: amarna-letters
+title: Amarna Letters
+aliases: [El-Amarna tablets, Amarna correspondence]
+type: text
+cultures: [egyptian, canaanite]
+date:
+  from: -1360
+  to: -1332
+  circa: true
+  display: c. 1360–1332 BCE
+scope: >-
+  About 380 cuneiform tablets, mostly letters in Akkadian, found at Akhetaten (el-Amarna).
+  They hold the diplomatic correspondence of Amenhotep III, Akhenaten, and their immediate
+  successors with the great powers and with vassal rulers of Canaan. They are the main written
+  source for Late Bronze Age Canaan.
+passages:
+- ref: Josh 10:1-5
+  rel: attests
+  note: Jerusalem ruled by a king; Abdi-Heba's letters (EA 285-290)
+- ref: 2Sam 5:6-9
+  rel: setting
+  note: Jerusalem as an established highland city-state long before David
+- ref: Judg 9:1-6
+  rel: setting
+  note: Shechem as a highland power base; cf. Labayu and his sons (EA 252-254)
+- ref: Josh 11:10
+  rel: attests
+  note: Hazor as a leading Canaanite city; its ruler corresponds with Egypt
+- ref: Gen 33:3
+  rel: practice
+  note: Bowing seven times; cf. 'seven times and seven times I fall' formula
+- ref: 1Sam 14:21
+  rel: language
+  disputed: true
+  note: ʿApiru as a social category; relation to 'Hebrews' (ʿibrîm) debated
+- ref: 1Kgs 20:32-33
+  rel: practice
+  note: '''Brother'' as the term for royal treaty partners'
+- ref: Isa 19:18
+  rel: language
+  note: '''Language of Canaan'': Canaanite glosses and grammar in the letters'
+related: [habiru, jerusalem, shechem, akhenaten, brotherhood-language, diplomatic-gift-exchange,
+  prostration-and-obeisance, letter-writing-conventions]
+location:
+  institution: Chiefly Vorderasiatisches Museum, Berlin; British Museum, London; Egyptian
+    Museum, Cairo
+  accession: null
+media:
+- id: amarna-letters
+  role: primary
+- id: amarna-letters-2
+  role: gallery
+- id: letter-writing-conventions
+  role: gallery
+- id: shechem-2
+  role: gallery
+external:
+  wikipedia: Amarna letters
+  wikidata: Q235502
+editorial:
+  author_notes:
+  - >-
+    Two kinds of letter need distinguishing. The "international" letters (Babylon, Mitanni,
+    Hatti, Assyria, Alashiya, Arzawa) use brotherhood language and gift exchange. The vassal
+    letters from Canaan use servile formulae.
+  - >-
+    The ʿApiru (Habiru) appear as social outsiders and mercenaries, not an ethnic group. A
+    link with ʿibrî ("Hebrew") is possible linguistically but debated, and should not be equated
+    with the Israelite conquest, an equation earlier scholarship sometimes made.
+  - >-
+    Abdi-Heba's letters show a Jerusalem ruler in the 14th century. The size of Late Bronze
+    Jerusalem is archaeologically elusive, so treat claims about the city's scale cautiously.
+  - >-
+    The Canaanite glosses and the hybrid Akkadian of the Canaanite scribes are key evidence
+    for the prehistory of Hebrew (Rainey).
+  - EA numbering follows Knudtzon. Cite Moran's translation and Rainey's edition.
+  sources_to_check:
+  - Moran, The Amarna Letters (1992)
+  - Rainey, The El-Amarna Correspondence (2015)
+  - ANET 483-490
+  image_query: Amarna letter Abdi-Heba cuneiform tablet
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

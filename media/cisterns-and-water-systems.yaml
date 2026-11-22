@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: cisterns-and-water-systems
+file: cisterns-and-water-systems.jpg
+title: Tel Megiddo water system 01.jpg
+caption: >-
+  The shaft of the Iron Age water system at Tel Megiddo, which led down to a tunnel reaching
+  the spring.
+description: >-
+  The Tel Megiddo water system consists of a square shaft 35 metres deep, the bottom of which
+  opens into a tunnel bored through rock for 100 metres to a pool of water.
+creator: Immanuel Giel
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Immanuel Giel, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tel_Megiddo_water_system_01.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/0/0d/Tel_Megiddo_water_system_01.jpg
+  sha1: c180ef331dbec50a1a3ca0f9d88c4c4c4343164d
+  original_size: [3072, 2304]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [cisterns-and-water-systems]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

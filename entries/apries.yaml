@@ -1,0 +1,67 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: apries
+title: Apries (Hophra)
+aliases: [Hophra, Wahibre]
+type: person
+cultures: [egyptian]
+date:
+  from: -589
+  to: -570
+  circa: true
+  display: c. 589–570 BCE
+scope: >-
+  Saite pharaoh (biblical Hophra) who supported Zedekiah's revolt against Babylon. His army
+  briefly relieved the siege of Jerusalem in 588. He was overthrown by Amasis after a failed
+  Libyan expedition. He is the target of Jeremiah's and Ezekiel's oracles against Egypt.
+passages:
+- ref: Jer 44:30
+  rel: event
+  note: Pharaoh Hophra to be given into the hands of his enemies
+- ref: Jer 37:5-11
+  rel: event
+  note: Pharaoh's army advances; the Babylonians lift the siege of Jerusalem temporarily
+- ref: Ezek 17:15-17
+  rel: event
+  note: Zedekiah's appeal to Egypt for horses and troops
+- ref: Ezek 29:1-16
+  rel: polemic
+  note: Oracle against pharaoh, the great dragon of the Nile
+- ref: Ezek 30:20-26
+  rel: event
+  note: 'Pharaoh''s arm broken: failure of the Egyptian relief'
+related: [fall-of-jerusalem-587, lachish-letters, nebuchadnezzar-ii, mighty-hand-outstretched-arm,
+  memphis, nile]
+media:
+- id: apries
+  role: primary
+external:
+  wikipedia: Apries
+  wikidata: Q349291
+editorial:
+  author_notes:
+  - >-
+    Hebrew ḥopraʿ renders Egyptian Wꜣḥ-ib-rʿ (Wahibre). Jer 44:30 is the only verse that names
+    him. The other pharaohs of Jer 37 and Ezek 29-32 are identified with him by date.
+  - >-
+    Herodotus (2.161-169) describes his Phoenician campaigns, his deposition by Amasis, and
+    his death. The Elephantine stele of Amasis gives the Egyptian perspective.
+  - >-
+    Lachish Letter 3 (a commander going down to Egypt) is often linked to Judah's diplomacy
+    with Egypt in this period.
+  - Judean refugees in Egypt (Jer 43-44) lived under his rule.
+  sources_to_check: ['Herodotus, Histories 2.161-169']
+  image_query: Apries statue
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: baal-with-thunderbolt
+title: Baal with Thunderbolt Stele
+aliases: [Baal au foudre, Baal Stele]
+type: artifact
+cultures: [ugaritic]
+date:
+  from: -1500
+  to: -1200
+  circa: true
+  display: c. 1500–1200 BCE
+scope: >-
+  A limestone relief stele found in 1932 near the Temple of Baal at Ugarit, showing the storm
+  god striding in the smiting pose, brandishing a club and holding a spear or lightning-shaft
+  that sprouts vegetation, with a small figure (probably the king) beneath his arm.
+passages:
+- ref: Ps 29:3-9
+  rel: imagery
+  note: YHWH's thundering voice over the waters, shaking forests and wilderness
+- ref: Ps 18:13-14
+  rel: imagery
+  note: Thunder and lightning as the deity's arrows (MT 18:14-15)
+- ref: Ps 77:17-18
+  rel: imagery
+  note: Thunder, flashing arrows and lightning at the sea (MT 77:18-19)
+- ref: Hab 3:11
+  rel: imagery
+  note: Light of the divine arrows, gleam of the flashing spear
+- ref: Zech 9:14
+  rel: imagery
+  note: YHWH's arrow going forth like lightning
+- ref: Job 37:2-5
+  rel: imagery
+  note: God's voice thunders; lightning to the ends of the earth
+related: [baal, baal-cycle, ugarit, hadad-rimmon, smiting-the-enemy-motif, divine-warrior]
+location:
+  institution: Musée du Louvre, Paris
+  accession: AO 15775 (Department of Near Eastern Antiquities of the Louvre)
+media:
+- id: baal-with-thunderbolt
+  role: primary
+- id: cloud-rider
+  role: gallery
+external:
+  wikipedia: Baal with Thunderbolt
+  wikidata: Q3501413
+editorial:
+  author_notes:
+  - >-
+    Dating ranges from the 15th to the 13th century BCE in the literature; give a range and
+    explain the basis. Verify the Louvre inventory number (commonly given as AO 15775).
+  - >-
+    The wavy lines beneath the god's feet are often read as mountains and/or sea; present
+    as interpretation.
+  - >-
+    The spear-shaft as lightning-and-vegetation links storm and fertility; useful for explaining
+    why Baal's rain is at stake in 1 Kgs 17-18.
+  - >-
+    Connect to the Egyptian and Levantine "smiting god" figurine type, and to Hadad iconography
+    further north.
+  sources_to_check:
+  - I. Cornelius, The Iconography of the Canaanite Gods Reshef and Baʿal (OBO 140, 1994)
+  - M. Yon, The City of Ugarit at Tell Ras Shamra (2006)
+  image_query: Baal with Thunderbolt Louvre
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added accession from Wikidata Q3501413 (verify).
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

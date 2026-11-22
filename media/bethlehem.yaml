@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: bethlehem
+file: bethlehem.jpg
+title: Church of the Nativity (7703592746).jpg
+caption: The Church of the Nativity, Bethlehem, seen from Manger Square.
+description: Church of the Nativity
+creator: Neil Ward
+credit_line: Church of the Nativity
+license:
+  id: CC-BY-2.0
+  name: CC BY 2.0
+  url: https://creativecommons.org/licenses/by/2.0
+attribution: Neil Ward, CC BY 2.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Church_of_the_Nativity_(7703592746).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/61/Church_of_the_Nativity_%287703592746%29.jpg
+  sha1: d001c6d97af5fa90ce099c23dacbc560f3dd614f
+  original_size: [4288, 2848]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1063 px
+size: [1600, 1063]
+depicts: [bethlehem]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

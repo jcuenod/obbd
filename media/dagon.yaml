@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: dagon
+file: dagon.jpg
+title: Stele dedicace Dagan Ras Shamra AO19931.jpg
+caption: >-
+  Stele with an alphabetic cuneiform dedication to Dagan from Ugarit (Ras Shamra) (Musée du
+  Louvre, Paris, AO 19931).
+description: >-
+  Sandstone stele bearing an ugaritic alphabetical cuneiform inscription, dedication to the
+  god Dagan in connection with a sacrifice to the deceased of the royal line. 13th century
+  BC. Ugarit (Ras Shamra), "temple of Dagan". Louvre Museum AO19931 https://collections.louvre.fr/ark:/53355/cl010144640
+creator: Zunkir
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Zunkir, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Stele_dedicace_Dagan_Ras_Shamra_AO19931.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/3e/Stele_dedicace_Dagan_Ras_Shamra_AO19931.jpg
+  sha1: 350c4abd17ccfdd2bd389acccc7b2a0d3dd71074
+  original_size: [3114, 5821]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 856×1600 px
+size: [856, 1600]
+depicts: [dagon]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

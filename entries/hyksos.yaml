@@ -1,0 +1,76 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: hyksos
+title: Hyksos
+type: people
+cultures: [egyptian, canaanite]
+date:
+  from: -1650
+  to: -1550
+  circa: true
+  display: c. 1650–1550 BCE
+scope: >-
+  The foreign, largely West Semitic rulers of Egypt's Fifteenth Dynasty, who governed northern
+  Egypt from Avaris in the Second Intermediate Period until their expulsion by Ahmose. The
+  entry covers their origins and their culture at Tell el-Dabʿa. It also covers the long tradition,
+  beginning with Manetho and Josephus, of linking them with Joseph and the exodus.
+passages:
+- ref: Exod 1:11
+  rel: setting
+  note: 'Raamses region: Ramesside Pi-Ramesses adjoined the former Hyksos capital Avaris'
+- ref: Gen 47:11
+  rel: setting
+  disputed: true
+  note: Joseph's family settled in the eastern Delta, a region long home to Asiatics
+- ref: Gen 41:39-43
+  rel: setting
+  disputed: true
+  note: A Semite's rise at court, often linked to a Hyksos-era setting since Josephus
+- ref: Exod 1:8
+  rel: setting
+  disputed: true
+  note: '''A new king who did not know Joseph'', linked by some to the post-Hyksos New Kingdom'
+related: [avaris, exodus-historical-questions, josephus, beni-hasan-asiatics, amorites, canaanites,
+  pi-ramesses]
+media:
+- id: hyksos
+  role: primary
+- id: hyksos-2
+  role: gallery
+external:
+  wikipedia: Hyksos
+  wikidata: Q192319
+editorial:
+  author_notes:
+  - >-
+    Hyksos derives from Egyptian ḥqꜣw ḫꜣswt, "rulers of foreign lands". Josephus's "shepherd
+    kings" etymology is wrong.
+  - >-
+    Current evidence (Bietak's excavations; isotope studies) points to a gradual rise of Levantine-origin
+    groups in the eastern Delta, not a sudden invasion. Their material culture is Middle Bronze
+    Levantine.
+  - >-
+    Josephus, quoting Manetho, equated the Hyksos expulsion with the exodus (Against Apion
+    1). Some modern scholars (e.g., Redford) see Hyksos memories as one strand behind the
+    exodus tradition. Others reject any link, since the c. 1550 expulsion does not fit the
+    narrative's Ramesside colour. Present this as debated.
+  - >-
+    Avoid popular claims that particular Hyksos-era officials or statues at Avaris are Joseph.
+  sources_to_check:
+  - Josephus, Against Apion 1.73-105
+  - Bietak, Avaris. The Capital of the Hyksos (1996)
+  - Oren (ed.), The Hyksos. New Historical and Archaeological Perspectives (1997)
+  image_query: Hyksos scarab
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

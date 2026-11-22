@@ -1,0 +1,63 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: cultic-prostitution
+title: '"Cultic Prostitution" (qedeshah): A Contested Category'
+aliases: [sacred prostitution, temple prostitution, qedeshah]
+type: practice
+cultures: [hebrew, babylonian, ugaritic, greek]
+scope: >-
+  The once-standard view that ancient Near Eastern and Canaanite temples employed "sacred
+  prostitutes", the biblical terms qādēš and qĕdēšâ on which it was partly based, and the
+  present scholarly consensus that the category is largely unsupported by primary evidence.
+passages:
+- ref: Gen 38:15, 21-22
+  rel: language
+  note: Tamar called zônâ by Judah, and qĕdēšâ in Hirah's inquiry
+- ref: Deut 23:17-18
+  rel: language
+  note: No qĕdēšâ or qādēš in Israel; 'fee of a prostitute' and 'wages of a dog'; MT 23:18-19
+- ref: Hos 4:13-14
+  rel: polemic
+  note: Men 'sacrifice with qĕdēšôt' in parallel with prostitutes
+- ref: 1Kgs 14:24
+  rel: language
+  note: qādēš personnel 'in the land'
+- ref: 1Kgs 15:12
+  rel: language
+  note: Asa expels the qĕdēšîm
+- ref: 2Kgs 23:7
+  rel: language
+  note: Houses of the qĕdēšîm in the temple where women wove for Asherah
+related: [ishtar, asherah, sacred-marriage, astarte, ugaritic-texts, cult-reforms-archaeology]
+media: []
+external:
+  wikipedia: Sacred prostitution
+  wikidata: Q1413317
+editorial:
+  author_notes:
+  - >-
+    The present consensus is sceptical (Westenholz, HTR 82, 1989; Budin, The Myth of Sacred
+    Prostitution in Antiquity, 2008). Akkadian qadištu designates a class of women with cultic
+    and social roles (e.g. wet-nursing and midwifery), not prostitutes. Ugaritic qdšm are
+    a class of temple personnel listed alongside priests.
+  - >-
+    Herodotus 1.199 (Babylonian women and Mylitta) is the main classical source. It is widely
+    regarded as unreliable or misunderstood. Treat Lucian and Strabo similarly.
+  - >-
+    In biblical texts, the parallel of qĕdēšâ with zônâ (Gen 38; Hos 4; Deut 23) is the main
+    basis for the older view. Explain it as polemical association, not documentation of a
+    sexual cult.
+  - Note that translations such as NRSV "temple prostitute" perpetuate the older view.
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

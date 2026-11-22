@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: nazirite-vow
+title: Nazirite Vow
+aliases: [Nazirite, Nazarite]
+type: practice
+cultures: [hebrew, jewish]
+scope: >-
+  The Nazirite (nāzîr, 'consecrated, separated'): abstinence from wine and grape products,
+  uncut hair, and avoidance of corpse impurity, either for a set period or for life. The entry
+  covers the Priestly law, the lifelong Nazirites of narrative, Second Temple practice, and
+  hair-offering parallels.
+passages:
+- ref: Num 6:1-21
+  rel: practice
+  note: 'Temporary vow: no grape products, no razor, no corpse contact; hair burned at completion'
+- ref: Judg 13:4-7
+  rel: practice
+  note: Samson a Nazirite from the womb; mother abstains
+- ref: Judg 16:17
+  rel: practice
+  note: '''A razor has never come upon my head'''
+- ref: 1Sam 1:11
+  rel: practice
+  note: No razor on Samuel's head; 4QSamᵃ and LXX make him a Nazirite
+- ref: Amos 2:11-12
+  rel: practice
+  note: Nazirites raised up by YHWH and made to drink wine
+- ref: Jer 35:6-10
+  rel: practice
+  disputed: true
+  note: 'Rechabites'' abstinence from wine: a comparable but distinct institution'
+- ref: 1Macc 3:49
+  rel: practice
+  note: Nazirites who had completed their days brought to Mizpah
+- ref: Luke 1:15
+  rel: practice
+  disputed: true
+  note: John not to drink wine or strong drink
+- ref: Acts 18:18
+  rel: practice
+  note: Paul cuts his hair at Cenchreae because of a vow
+- ref: Acts 21:23-26
+  rel: practice
+  note: Paul pays for four men completing a vow
+related: [vows-and-votive-offerings, purity-and-impurity, mourning-rites, sacrifice, jewish-sects,
+  josephus]
+media: []
+external:
+  wikipedia: Nazirite
+  wikidata: Q834316
+editorial:
+  author_notes:
+  - >-
+    Num 6 is usually read as a Priestly regulation of a temporary vow. The lifelong, charismatic
+    Nazirite of Samson and Samuel is probably older.
+  - >-
+    The hair offering at the end of the vow has parallels in Syrian and Greek sanctuary practice
+    (e.g. Lucian, De Dea Syria). Present these as typological parallels.
+  - >-
+    Note the textual evidence: 4QSamᵃ at 1 Sam 1:22 adds that Samuel will be a nāzîr forever.
+  - >-
+    The Mishnah tractate Nazir and Josephus attest that the practice continued in the Second
+    Temple period.
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

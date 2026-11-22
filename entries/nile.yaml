@@ -1,0 +1,83 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: nile
+title: The Nile and the Inundation
+aliases: [Yeor, Inundation]
+type: site
+cultures: [egyptian]
+scope: >-
+  The Nile river and its annual inundation, the basis of Egyptian agriculture, economy, and
+  cosmology. The entry covers the Nile in the Joseph and exodus narratives, in prophetic oracles
+  against Egypt, and as a contrast with rain-dependent Canaan.
+passages:
+- ref: Gen 41:1-4
+  rel: setting
+  note: 'Pharaoh''s dream: cows coming up from the Nile'
+- ref: Exod 1:22
+  rel: setting
+  note: Hebrew boys to be thrown into the Nile
+- ref: Exod 7:14-25
+  rel: setting
+  note: 'First plague: the Nile turned to blood'
+- ref: Deut 11:10-11
+  rel: concept
+  note: Egypt irrigated 'by foot' versus Canaan watered by rain from heaven
+- ref: Isa 19:5-10
+  rel: imagery
+  note: 'The Nile dried up: fishermen and flax-workers ruined'
+- ref: Jer 46:7-8
+  rel: imagery
+  note: Egypt rising like the Nile in flood
+- ref: Ezek 29:3-10
+  rel: polemic
+  note: Pharaoh as dragon in his streams, claiming to have made the Nile
+- ref: Amos 8:8; 9:5
+  rel: imagery
+  note: The land rises and sinks like the Nile
+- ref: Gen 2:13
+  rel: setting
+  disputed: true
+  note: Gihon 'around the whole land of Cush', sometimes identified with the Nile
+related: [egyptian-cosmology, yam-suph, famine-stele, ten-plagues-and-egyptian-gods, cush,
+  egyptian-loanwords, agriculture-and-farming, garden-of-god]
+media:
+- id: nile
+  role: primary
+external:
+  wikipedia: Nile
+  wikidata: Q3392
+  pleiades: '727172'
+editorial:
+  author_notes:
+  - >-
+    Hebrew yĕʾōr derives from Egyptian itrw ("river"). Šîḥôr (Isa 23:3; Jer 2:18) denotes
+    a Nile branch or waterway in the eastern Delta.
+  - >-
+    The inundation was deified as Hapi. Nile failure meant famine, which provides the background
+    for Genesis 41 and the Famine Stele.
+  - >-
+    The "Brook of Egypt" (naḥal miṣrayim, Num 34:5) is generally identified with the Wadi
+    el-ʿArish, not the Nile. This is a common confusion.
+  sources_to_check: ['Herodotus, Histories 2.19-34']
+  image_query: Nile river Luxor
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q3392 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 15.64014
+  lon: 32.5055
+  source: wikidata:Q3392

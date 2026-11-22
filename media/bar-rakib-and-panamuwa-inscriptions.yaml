@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: bar-rakib-and-panamuwa-inscriptions
+file: bar-rakib-and-panamuwa-inscriptions.jpg
+title: Pergamon Museum King Barrakib and scribe from Sam'al aka Zincirli 7980.jpg
+caption: >-
+  Basalt orthostat of King Bar-Rakib enthroned before his scribe, with a short inscription,
+  Samʾal (Zincirli), c. 730 BCE (Pergamon Museum, Berlin).
+description: >-
+  A royal scribe with writing board and stylus case in front of his King Barrakib. Basalt,
+  Sam'al / Zincirli ca. 730 BC.
+creator: Dosseman
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Dosseman, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Pergamon_Museum_King_Barrakib_and_scribe_from_Sam%27al_aka_Zincirli_7980.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/60/Pergamon_Museum_King_Barrakib_and_scribe_from_Sam%27al_aka_Zincirli_7980.jpg
+  sha1: 2485564d2906cd48682a3811c56e6450e482b858
+  original_size: [4816, 7472]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1031×1600 px
+size: [1031, 1600]
+depicts: [bar-rakib-and-panamuwa-inscriptions]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

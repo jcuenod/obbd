@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+# OBBD command-line tool wrapper. See tools/obbd/__main__.py or ./obbd --help
+here="$(cd "$(dirname "$0")" && pwd)"
+PYTHONPATH="$here/tools${PYTHONPATH:+:$PYTHONPATH}" exec python3 -m obbd "$@"

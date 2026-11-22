@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: clothing-and-dress
+file: clothing-and-dress.jpg
+title: Black Obelisk side 4 Jewish delegation.jpg
+caption: >-
+  Israelite tribute bearers in long fringed garments and pointed caps on the Black Obelisk
+  of Shalmaneser III, c. 840 BCE (British Museum, London).
+description: Black Obelisk side 4 Israelite delegation
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: This image has been extracted from another file
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Black_Obelisk_side_4_Jewish_delegation.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/d4/Black_Obelisk_side_4_Jewish_delegation.jpg
+  sha1: 1b0a5944b38b301108f27cf4a1db7f2795777c66
+  original_size: [1160, 770]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1160, 770]
+depicts: [black-obelisk, clothing-and-dress]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

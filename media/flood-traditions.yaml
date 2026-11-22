@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: flood-traditions
+file: flood-traditions.jpg
+title: British Museum Flood Tablet 1.jpg
+caption: Tablet XI of the Gilgamesh Epic, the "Flood Tablet", from Nineveh (British Museum).
+description: >-
+  "The Flood Tablet. This is perhaps the most famous of all cuneiform tablets. It is the eleventh
+  tablet of the Gilgamesh Epic, and describes how the gods sent a flood to destroy the world.
+  Like Noah, Utnapishtim was forewarned and built an ark to house and preserve living things.
+  After the flood he sent out birds to look for dry land. ME K 3375." In the British Museum.
+creator: Photograph by Mike Peel (www.mikepeel.net).
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Photograph by Mike Peel (www.mikepeel.net)., CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:British_Museum_Flood_Tablet_1.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/5/5b/British_Museum_Flood_Tablet_1.jpg
+  sha1: dee62eb65baaf1730a7a1e2035b1f6548a91ab65
+  original_size: [2493, 2686]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1485×1600 px
+size: [1485, 1600]
+depicts: [flood-traditions, gilgamesh-flood-tablet]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

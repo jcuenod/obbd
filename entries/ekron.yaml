@@ -1,0 +1,85 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ekron
+title: Ekron (Tel Miqne)
+aliases: [Tel Miqne, Khirbet el-Muqanna]
+type: site
+cultures: [philistine]
+scope: >-
+  The northernmost city of the Philistine pentapolis at Tel Miqne. Covers its Iron I Philistine
+  foundation, its seventh-century olive oil industry under Assyrian rule, the royal dedicatory
+  inscription, and its destruction by Babylon.
+passages:
+- ref: Josh 13:3
+  rel: setting
+  note: Ekron, the northern border of Philistine territory
+- ref: Josh 15:45-46
+  rel: setting
+  note: Ekron in Judah's allotment
+- ref: 1Sam 5:10-12
+  rel: setting
+  note: The ark sent to Ekron; outcry of the city
+- ref: 1Sam 6:16-17
+  rel: setting
+  note: Lords of the Philistines return to Ekron; list of five cities
+- ref: 1Sam 7:14
+  rel: setting
+  note: Towns from Ekron to Gath restored to Israel
+- ref: 2Kgs 1:2-16
+  rel: setting
+  note: Ahaziah consults Baal-zebub, god of Ekron
+- ref: Amos 1:8
+  rel: setting
+  note: Oracle against Ekron
+- ref: Zeph 2:4
+  rel: language
+  note: 'Wordplay: ''Ekron shall be uprooted'''
+- ref: Zech 9:5-7
+  rel: setting
+  note: Ekron to become like the Jebusites
+related: [ekron-royal-dedicatory-inscription, philistines, olive-oil-production, baal-zebub,
+  sennacherib-campaign-701, gath, ashdod]
+media:
+- id: ekron
+  role: primary
+- id: ekron-2
+  role: gallery
+external:
+  wikipedia: Ekron
+  wikidata: Q1323557
+  pleiades: '687888'
+editorial:
+  author_notes:
+  - >-
+    The 1996 royal dedicatory inscription naming ʾkyš (Achish/Ikausu) son of Padi, ruler of
+    Ekron, confirmed the Tel Miqne identification. Padi is also known from Sennacherib's annals.
+  - >-
+    Iron I Philistine levels (Dothan and Gitin, 1981-96) include locally made Aegean-style
+    pottery and hearths.
+  - >-
+    The seventh-century industrial zone, with over 100 olive presses, is a showcase of the
+    Assyrian-era economy. The city was destroyed by Nebuchadnezzar c. 604-603.
+  - Cross-refer baal-zebub for the 'lord of flies' / Baal-zebul polemical deformation.
+  sources_to_check: [NEAEHL]
+  image_query: Tel Miqne Ekron olive oil press
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q1323557 (verify).
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 31.77889
+  lon: 34.85111
+  source: wikidata:Q1323557

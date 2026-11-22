@@ -1,0 +1,92 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: blessings-and-curses
+title: Treaty Blessings and Curses
+aliases: [Treaty curses, Futility curses]
+type: concept
+cultures: [assyrian, aramean, hittite, babylonian]
+scope: >-
+  The blessings and curses that sanction treaties, law collections and royal inscriptions,
+  and their biblical counterparts in Lev 26, Deut 27–28 and prophetic judgment oracles. The
+  entry covers specific parallels and the genre of the 'futility curse'.
+passages:
+- ref: Lev 26:3-45
+  rel: form
+  note: Blessings and curses closing the Holiness Code; iron sky, bronze earth (26:19)
+- ref: Deut 27:11-26
+  rel: form
+  note: Twelve curses with the people's 'Amen', pronounced at Gerizim and Ebal
+- ref: Deut 28:1-68
+  rel: form
+  note: Blessings and extended curses sanctioning the covenant
+- ref: Deut 28:23
+  rel: parallel
+  note: 'Sky of bronze, earth of iron: closely paralleled in the Esarhaddon Succession Treaty'
+- ref: Josh 8:30-35
+  rel: practice
+  note: Blessings and curses read at Mount Ebal
+- ref: Jer 11:1-8
+  rel: concept
+  note: '''Cursed be anyone who does not heed the words of this covenant'''
+- ref: Hos 4:10
+  rel: form
+  note: 'Futility curse: eat but not be satisfied'
+- ref: Amos 5:11
+  rel: form
+  note: 'Futility curse: build houses but not live in them'
+- ref: Zeph 2:13-15
+  rel: form
+  note: City turned into a haunt of wild animals; cf. Sefire curses
+- ref: Zech 5:1-4
+  rel: imagery
+  note: 'Flying scroll: the curse entering the houses of thieves and perjurers'
+- ref: Mal 2:2
+  rel: concept
+  note: YHWH will curse the priests' blessings
+- ref: Gal 3:10-13
+  rel: concept
+  note: Paul cites Deut 27:26 on the curse of the law
+related: [covenant-and-treaty-form, esarhaddon-succession-treaty, sefire-treaties, tell-fekheriye-statue,
+  code-of-hammurabi, oaths-and-oath-formulas, mount-ebal-altar]
+media:
+- id: blessings-and-curses
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Standard studies: D. R. Hillers, Treaty-Curses and the Old Testament Prophets (1964);
+    H. U. Steymans on Deut 28 and the Esarhaddon Succession Treaty (OBO 145, 1995).
+  - >-
+    Futility curses ('sow but not reap'; ewes suckling a lamb that is not satisfied) appear
+    in the Tell Fekheriye and Sefire inscriptions, as well as in prophetic oracles.
+  - >-
+    Other curse traditions: the Hammurabi epilogue, kudurru curses, and tomb-inscription curses
+    (Ahiram, Eshmunazar).
+  - >-
+    Explain the performative function of curses and the debate over whether prophets drew
+    directly on treaty texts or on a shared curse repertoire.
+  sources_to_check:
+  - SAA 2 6 (Esarhaddon's Succession Treaty)
+  - KAI 222 (Sefire I)
+  - KAI 309 (Tell Fekheriye)
+  image_query: Sefire stele
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Deut 27:11-26 note corrected (Gerizim and Ebal,
+    not Shechem)
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

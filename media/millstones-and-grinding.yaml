@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: millstones-and-grinding
+file: millstones-and-grinding.jpg
+title: Ancient egyptian statuette of a woman grinding grain 1.jpg
+caption: >-
+  Limestone statuette of a woman grinding grain on a saddle quern, from Giza, Fifth Dynasty
+  (Museum of Fine Arts, Boston).
+description: >-
+  Statuette of a woman grinding grain; Limestone; from Giza, Egypt (G 2415), found in 1921;
+  mid- to late Dynasty 5 (reigns of Niussera to Unis, 2420-2323 B.C.); acc. 21.2601.
+creator: Marcus Cyron
+credit_line: Pictures taken by Uploader
+license:
+  id: CC-BY-3.0
+  name: CC BY 3.0
+  url: https://creativecommons.org/licenses/by/3.0
+attribution: Marcus Cyron, CC BY 3.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Ancient_egyptian_statuette_of_a_woman_grinding_grain_1.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/6/64/Ancient_egyptian_statuette_of_a_woman_grinding_grain_1.jpg
+  sha1: 16d55d909c2c349d78d87ba2bf50284072c3f375
+  original_size: [3872, 2592]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1071 px
+size: [1600, 1071]
+depicts: [millstones-and-grinding]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

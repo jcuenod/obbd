@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: sheba
+title: Sheba (Saba)
+aliases: [Saba, Sabaeans, Queen of the South]
+type: people
+cultures: [arabian]
+date:
+  from: -800
+  to: 275
+  circa: true
+  display: c. 800 BCE–275 CE
+scope: >-
+  The South Arabian kingdom of Saba centred on Marib in Yemen, a major supplier of frankincense
+  and myrrh, and its portrayal in the Bible, above all in the visit of the queen of Sheba.
+  Covers Sabaean history and inscriptions in outline and distinguishes Sheba from Seba and
+  North Arabian groups.
+passages:
+- ref: Gen 10:7, 28
+  rel: setting
+  note: Sheba as both a Cushite and a Joktanite name
+- ref: 1Kgs 10:1-13
+  rel: setting
+  note: The queen of Sheba's visit to Solomon
+- ref: Job 1:15
+  rel: setting
+  note: Sabeans raid Job's herds
+- ref: Job 6:19
+  rel: setting
+  note: '''The caravans of Sheba'''
+- ref: Ps 72:10, 15
+  rel: setting
+  note: Kings of Sheba bring gifts; gold of Sheba
+- ref: Isa 60:6
+  rel: realia
+  note: Camels from Sheba bringing gold and frankincense
+- ref: Jer 6:20
+  rel: realia
+  note: Frankincense from Sheba
+- ref: Ezek 27:22-23
+  rel: setting
+  note: Merchants of Sheba trade spices, gems and gold with Tyre
+- ref: Matt 12:42
+  rel: setting
+  note: The 'queen of the South' at the judgment
+related: [incense-trade, camels-and-domestication, qedarites-and-arabs, ophir, diplomatic-gift-exchange,
+  solomon, cush]
+media:
+- id: sheba
+  role: primary
+external:
+  wikipedia: Sheba
+  wikidata: Q216068
+editorial:
+  author_notes:
+  - >-
+    Saba was centred at Marib (great dam, temples of Almaqah such as Awwam and Barʾan). Assyrian
+    texts mention Sabaeans under Tiglath-pileser III, Itʾamar the Sabaean under Sargon II,
+    and Karibʾil under Sennacherib.
+  - >-
+    Sabaean monumental inscriptions begin around the eighth century BCE (the chronology is
+    still debated). No queen of Saba is known from inscriptions. The visit story may reflect
+    later (eighth to seventh century) trade realities. Present the debate, not a verdict.
+  - >-
+    Distinguish Sheba (Saba) from Seba (Gen 10:7; Isa 43:3; 45:14), possibly in Africa, and
+    note the North Arabian Sabaeans of Job. The Ethiopian Kebra Nagast tradition is a later
+    reception.
+  sources_to_check: ['Retsö, The Arabs in Antiquity (2003)']
+  image_query: Marib Temple of Awwam
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

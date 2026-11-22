@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: prayer-postures
+file: prayer-postures.jpg
+title: Worshipper Larsa Louvre AO15704.jpg
+caption: >-
+  The 'Worshipper of Larsa', a bronze and gold statuette of a kneeling man with his hand raised
+  before his face, Old Babylonian period (Musée du Louvre, Paris).
+description: Amorites' God
+creator: Marie-Lan Nguyen
+credit_line: Own work
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Marie-Lan Nguyen. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Worshipper_Larsa_Louvre_AO15704.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/6/60/Worshipper_Larsa_Louvre_AO15704.jpg
+  sha1: 30a99160f08aa659d75462f8eebc77fc5bbf8f66
+  original_size: [4004, 6000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1068×1600 px
+size: [1068, 1600]
+depicts: [prayer-postures]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

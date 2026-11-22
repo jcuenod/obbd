@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: assyria
+file: assyria.jpg
+title: Alabaster Stela of the Asirian King Ashurnasirpal II (884-859 BC) - British Museum.jpg
+caption: >-
+  Alabaster stele of the Assyrian king Ashurnasirpal II (884–859 BCE) (British Museum, London).
+description: Alabaster Stela of the Asirian King Ashurnasirpal II (884-859 BC) - British Museum
+creator: Andres Rueda
+credit_line: Alabaster Stela of the Asirian King Ashurnasirpal II (884-859 BC) - British Museum
+license:
+  id: CC-BY-2.0
+  name: CC BY 2.0
+  url: https://creativecommons.org/licenses/by/2.0
+attribution: Andres Rueda, CC BY 2.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Alabaster_Stela_of_the_Asirian_King_Ashurnasirpal_II_(884-859_BC)_-_British_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/c/c7/Alabaster_Stela_of_the_Asirian_King_Ashurnasirpal_II_%28884-859_BC%29_-_British_Museum.jpg
+  sha1: 38e248db8180a60a6731bb74e4ed5c918b4fdb45
+  original_size: [1588, 2655]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 957×1600 px
+size: [957, 1600]
+depicts: [assyria]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

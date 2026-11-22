@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: tomb-of-rekhmire
+file: tomb-of-rekhmire.jpg
+title: Brickmakers, Tomb of Rekhmire MET DT10882.jpg
+caption: >-
+  Brickmakers, a modern painted facsimile of a scene in the tomb of Rekhmire (TT100), Thebes
+  (Metropolitan Museum of Art, New York).
+description: Facsimile, Rekhmire (TT 100), brickmaking
+creator: Nina M. Davies
+credit_line: >-
+  This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum
+  of Art. See the Image and Data Resources Open Access Policy
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Nina M. Davies. CC0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Brickmakers,_Tomb_of_Rekhmire_MET_DT10882.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/0/02/Brickmakers%2C_Tomb_of_Rekhmire_MET_DT10882.jpg
+  sha1: 51d47b6dcd9f560fd9bbc39e3a9fa63bbf6c0d3c
+  original_size: [3811, 2716]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1140 px
+size: [1600, 1140]
+depicts: [tomb-of-rekhmire]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

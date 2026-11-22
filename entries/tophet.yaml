@@ -1,0 +1,66 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tophet
+title: Tophet
+aliases: [Topheth]
+type: site
+cultures: [judahite, phoenician]
+scope: >-
+  Topheth, the cult place in the Valley of Hinnom outside Jerusalem associated with burning
+  children, and by extension the modern scholarly term "tophet" for Phoenician-Punic sacred
+  precincts with urn burials of infants and animals (Carthage, Motya, Tharros, Sulcis).
+passages:
+- ref: 2Kgs 23:10
+  rel: setting
+  note: Josiah defiles Topheth in the valley of Ben-hinnom
+- ref: Jer 7:31-32
+  rel: setting
+  note: High place of Topheth; the valley renamed 'valley of Slaughter'
+- ref: Jer 19:6, 11-14
+  rel: setting
+  note: Topheth as burial place; Jerusalem's houses to be defiled like Topheth
+- ref: Isa 30:33
+  rel: language
+  note: >-
+    'His burning place (topteh) has long been prepared; it is made ready for the king (lammelek)'
+- ref: Josh 15:8
+  rel: setting
+  note: Valley of the son of Hinnom on Judah's boundary
+- ref: Mark 9:43-48
+  rel: concept
+  note: Gehenna as place of unquenchable fire
+related: [child-sacrifice, molek, jerusalem, josiah, phoenicians, sheol-and-the-netherworld]
+media:
+- id: tophet
+  role: primary
+- id: tophet-2
+  role: gallery
+external:
+  wikipedia: Tophet
+  wikidata: Q1298788
+editorial:
+  author_notes:
+  - >-
+    The vocalization tōpet is often explained as a deliberate distortion with the vowels of
+    bōšet ("shame"), from a word meaning "hearth" or "fireplace" (cf. Aramaic). Present this
+    as the common proposal.
+  - >-
+    The Jerusalem Topheth has not been located archaeologically. The application of "tophet"
+    to Punic sanctuaries is modern scholarly usage.
+  - >-
+    Trace the line from the Hinnom valley to Gehenna as a place of eschatological punishment
+    (1 En 27; NT) briefly, with cross-reference.
+  image_query: Tophet of Salammbo Carthage
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

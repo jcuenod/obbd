@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: khirbet-qeiyafa
+file: khirbet-qeiyafa.jpg
+title: View of Khirbet Qeiyafa.jpg
+caption: General view of the excavated ruins of Khirbet Qeiyafa above the Elah Valley.
+description: General view of archaeological ruin, Khirbet Qeiyafa
+creator: Davidbena
+credit_line: Own work
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Davidbena. CC0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:View_of_Khirbet_Qeiyafa.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/a/aa/View_of_Khirbet_Qeiyafa.jpg
+  sha1: a9d15f8b6fab1c09c9b3fa654fcbd1f6fc119dbc
+  original_size: [3648, 2432]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1067 px
+size: [1600, 1067]
+depicts: [khirbet-qeiyafa]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: millstones-and-grinding-2
+file: millstones-and-grinding-2.jpg
+title: Millstone, cone shaped.jpg
+caption: >-
+  Basalt rotary mill from Capernaum: the hourglass-shaped upper runner (left) and the conical
+  lower bed-stone (right).
+description: >-
+  Millstone made of basalt - Capernaum. on the right the cone bed ston, on the left the runner
+  רחיים - מימין האיצטרוביל (השכב), משמאל הקלת
+creator: Eitan Ferman
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Eitan Ferman, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Millstone,_cone_shaped.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/6/6b/Millstone%2C_cone_shaped.jpg
+  sha1: fed2a02a491ab72c38b2b77c7cc0997f39fa6138
+  original_size: [1155, 593]
+  retrieved: '2026-11-20'
+derivative: null
+size: [1155, 593]
+depicts: [millstones-and-grinding]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

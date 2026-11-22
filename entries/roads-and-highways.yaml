@@ -1,0 +1,75 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: roads-and-highways
+title: The King's Highway and the Way of the Sea
+aliases: [King's Highway, Way of the Sea, Via Maris, Ways of Horus]
+type: site
+cultures: [hebrew, egyptian, edomite, moabite]
+scope: >-
+  The principal long-distance routes of the southern Levant: the coastal route ('way of the
+  sea', later Via Maris), with its Sinai section the 'Ways of Horus', and the Transjordanian
+  King's Highway. Covers biblical references to roads, caravans, and travel, and how ancient
+  routes are reconstructed.
+passages:
+- ref: Num 20:17
+  rel: setting
+  note: Israel asks to pass through Edom on 'the King's Highway'
+- ref: Num 21:22
+  rel: setting
+  note: Same request to Sihon of the Amorites
+- ref: Deut 2:27
+  rel: setting
+  note: '''I will travel only along the road'''
+- ref: Isa 9:1
+  rel: setting
+  note: '''The way of the sea'' in Galilee (MT 8:23), source of the name Via Maris'
+- ref: Exod 13:17
+  rel: setting
+  note: Avoiding 'the way of the land of the Philistines' (cf. Ways of Horus)
+- ref: Gen 37:25
+  rel: setting
+  note: Ishmaelite caravan from Gilead down to Egypt
+- ref: Judg 5:6
+  rel: setting
+  note: Caravans ceased and travellers kept to byways
+- ref: Jer 31:21
+  rel: imagery
+  note: '''Set up road markers for yourself'''
+- ref: Isa 40:3
+  rel: imagery
+  note: A highway in the desert for YHWH
+related: [incense-trade, edomites, moabites, papyrus-anastasi, camels-and-domestication, petra-and-sela,
+  gaza]
+media:
+- id: roads-and-highways
+  role: primary
+external:
+  wikipedia: King's Highway (ancient)
+  wikidata: Q545941
+editorial:
+  author_notes:
+  - >-
+    'Via Maris' is a medieval Latin label derived from Isa 9:1, not an ancient name for the
+    coastal highway. Use it only as a modern convention.
+  - >-
+    Egyptian sources illuminate the North Sinai 'Ways of Horus' (Seti I's Karnak reliefs;
+    Papyrus Anastasi I), with excavated forts such as Tell el-Borg and Tjaru.
+  - >-
+    Derek hammelek (Num 20:17) may be generic ('the royal road') rather than a proper name.
+    The later Roman Via Nova Traiana followed the plateau route.
+  sources_to_check:
+  - Dorsey, The Roads and Highways of Ancient Israel (1991)
+  image_query: King's Highway Jordan
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

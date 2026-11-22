@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: babylonian-exile
+file: babylonian-exile.jpg
+title: >-
+  Clay tablet. The Akkadian cuneiform inscription lists certain rations and mentions the name
+  of Jeconiah (Jehoiachin), King of Judah and the Babylonian captivity. From Babylon, Iraq.
+  C. 580 BCE. Vorderasiatisches Museum, Berlin.jpg
+caption: >-
+  Ration tablet from Babylon naming Jehoiachin, king of Judah, c. 580 BCE (Vorderasiatisches
+  Museum, Berlin).
+description: >-
+  Clay tablet. The Akkadian cuneiform inscription lists certain rations and mentions the name
+  of Jeconiah (Jehoiachin), King of Judah (in modern-day Israel), and the Babylonian captivity.
+  From Babylon, Iraq. Neo-Babylonian period, reign of Nebuchadnezzar II, c. 580 BCE. Vorderasiatisches
+  Museum, Berlin.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Clay_tablet._The_Akkadian_cuneiform_inscription_lists_certain_rations_and_mentions_the_name_of_Jeconiah_(Jehoiachin),_King_of_Judah_and_the_Babylonian_captivity._From_Babylon,_Iraq._C._580_BCE._Vorderasiatisches_Museum,_Berlin.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/c/cc/Clay_tablet._The_Akkadian_cuneiform_inscription_lists_certain_rations_and_mentions_the_name_of_Jeconiah_%28Jehoiachin%29%2C_King_of_Judah_and_the_Babylonian_captivity._From_Babylon%2C_Iraq._C._580_BCE._Vorderasiatisches_Museum%2C_Berlin.jpg
+  sha1: c61ce1113fe6bbc7ffe0255caca08554698c1d4f
+  original_size: [3379, 2913]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1379 px
+size: [1600, 1379]
+depicts: [babylonian-exile, jehoiachin, jehoiachin-ration-tablets]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

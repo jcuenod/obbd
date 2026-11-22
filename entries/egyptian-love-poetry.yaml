@@ -1,0 +1,66 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: egyptian-love-poetry
+title: Egyptian Love Poetry
+aliases: [Egyptian love songs]
+type: text
+cultures: [egyptian]
+date:
+  from: -1300
+  to: -1100
+  circa: true
+  display: c. 1300–1100 BCE
+scope: >-
+  Some fifty New Kingdom (Ramesside) love songs in several collections: P. Chester Beatty
+  I, P. Harris 500, a Turin papyrus, and the Cairo Love Songs on a vase from Deir el-Medina.
+  In them young lovers address each other as "brother" and "sister", praise each other's bodies,
+  and suffer lovesickness. They are the closest ancient comparanda for the Song of Songs.
+passages:
+- ref: Song 4:9-12
+  rel: language
+  note: '''My sister, my bride'' as lovers'' address; cf. Egyptian snt ''sister'''
+- ref: Song 4:1-7
+  rel: form
+  note: Descriptive praise of the beloved's body (waṣf); cf. P. Chester Beatty I
+- ref: Song 2:5; 5:8
+  rel: parallel
+  note: Lovesickness that only the beloved can cure
+- ref: Song 4:12-5:1
+  rel: imagery
+  note: The beloved as a garden with fruit and spices
+- ref: Song 5:2-6
+  rel: parallel
+  note: Lover at the door of the beloved's house
+related: [sumerian-love-songs, sacred-marriage, marriage-and-bride-price, harpers-songs]
+media:
+- id: egyptian-love-poetry
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Build on Fox's comparative study (1985). The parallels are generic and stylistic. No direct
+    dependence is claimed, and several centuries separate the corpora.
+  - >-
+    The Egyptian songs are secular entertainment, not cult texts, which weighs against cultic
+    (sacred-marriage) readings of the Song of Songs. Present the Mesopotamian love lyrics
+    as a separate comparandum.
+  - >-
+    The "sister/brother" address is a convention of lovers' language and does not imply siblings.
+  sources_to_check:
+  - Fox, The Song of Songs and the Ancient Egyptian Love Songs (1985)
+  - AEL 2:181-193
+  image_query: Papyrus Chester Beatty I love songs
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

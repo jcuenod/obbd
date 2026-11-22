@@ -1,0 +1,85 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: fall-of-jerusalem-587
+title: Babylonian Conquests of Jerusalem (597 and 587/586 BCE)
+type: event
+cultures: [babylonian, judahite]
+date:
+  from: -597
+  to: -586
+  display: 597–586 BCE
+scope: >-
+  The two Babylonian captures of Jerusalem: the surrender of Jehoiachin in 597 BCE, dated
+  precisely by the Babylonian Chronicle, and the destruction of the city and temple after
+  the siege of 589/588 to 587 or 586 under Zedekiah, followed by deportations.
+passages:
+- ref: 2Kgs 24:10-17
+  rel: event
+  note: Siege of 597, surrender and deportation of Jehoiachin; Zedekiah installed
+- ref: 2Kgs 25:1-21
+  rel: event
+  note: Siege, breach, flight of Zedekiah, burning of temple and city
+- ref: Jer 39:1-10
+  rel: event
+  note: Fall of the city and Zedekiah's fate
+- ref: Jer 52:4-30
+  rel: event
+  note: Parallel account with deportee numbers (52:28-30)
+- ref: 2Chr 36:9-21
+  rel: event
+  note: Chronicler's account and the seventy years
+- ref: Ezek 24:1-2
+  rel: event
+  note: Siege begins, dated the same day as 2 Kgs 25:1
+- ref: Ezek 33:21
+  rel: event
+  note: A fugitive reports to Ezekiel that the city has fallen
+- ref: Jer 34:7
+  rel: setting
+  note: Lachish and Azekah the last fortified cities; cf. Lachish Letter 4
+- ref: Lam 2:1-9
+  rel: event
+  note: Lament over the destruction of Zion
+- ref: Ps 137:7
+  rel: setting
+  note: Edom's role on the day of Jerusalem
+related: [nebuchadnezzar-ii, nebuchadnezzar-chronicle, lachish-letters, jehoiachin, babylonian-exile,
+  jerusalem, city-of-david, jehoiachin-ration-tablets]
+media:
+- id: battle-of-carchemish
+  role: primary
+external:
+  wikipedia: Siege of Jerusalem (587 BC)
+  wikidata: Q1290590
+editorial:
+  author_notes:
+  - >-
+    The 597 capture is fixed by the Babylonian Chronicle (2 Adar, year 7 = 15/16 March 597).
+    The date of the second fall (587 vs 586) depends on how Judah's regnal years were reckoned;
+    present both.
+  - >-
+    Archaeological evidence includes the destruction layers in the City of David (Area G,
+    burnt rooms with bullae), Babylonian-type arrowheads, and the Lachish Level II destruction.
+  - >-
+    The deportation figures in Jer 52:28-30 (4,600 total) differ from 2 Kgs 24:14-16; discuss
+    sources and possible meanings.
+  - >-
+    Avoid portraying the land as empty after 586 (the 'myth of the empty land' debate); Mizpah
+    became the administrative centre.
+  sources_to_check:
+  - ABC 5
+  - Lipschits, The Fall and Rise of Jerusalem (2005)
+  image_query: Nebuchadnezzar Chronicle British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

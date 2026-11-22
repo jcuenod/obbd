@@ -1,0 +1,73 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tomb-of-rekhmire
+title: Brickmaking Scenes in the Tomb of Rekhmire
+aliases: [TT100, Rekhmire brickmaking scene]
+type: artifact
+cultures: [egyptian]
+date:
+  from: -1450
+  to: -1420
+  circa: true
+  display: c. 1450–1420 BCE
+scope: >-
+  The Theban tomb (TT100) of Rekhmire, vizier under Thutmose III and Amenhotep II. Its paintings
+  show foreign captives making mud bricks under overseers for the temple of Amun, foreign
+  tribute bearers, and craft production. Its inscriptions include the "Duties of the Vizier"
+  and the "Installation of the Vizier".
+passages:
+- ref: Exod 1:13-14
+  rel: realia
+  note: Forced labour in mortar and brick
+- ref: Exod 5:6-19
+  rel: realia
+  note: Brick production with straw, daily quotas, and beating overseers
+- ref: Gen 41:40-43
+  rel: practice
+  note: The vizier's office, second only to pharaoh; investiture and authority
+- ref: Ps 72:10-11
+  rel: imagery
+  note: Foreign delegations bringing tribute to the king
+related: [corvee-labor, slavery, court-officials, tribute-and-vassalage, thebes, exodus-historical-questions]
+location:
+  institution: In situ, Theban necropolis (Sheikh Abd el-Qurna), Luxor
+  accession: null
+media:
+- id: tomb-of-rekhmire
+  role: primary
+- id: tomb-of-rekhmire-2
+  role: gallery
+external:
+  wikipedia: TT100
+  wikidata: Q634196
+editorial:
+  author_notes:
+  - >-
+    The brickmakers are captives brought for Amun's temple works, not Israelites. The scene
+    shows that Exod 1 and 5 describe realistic Egyptian practice, but cannot establish the
+    historicity of the oppression.
+  - >-
+    Brick quotas are also known from the Louvre Leather Roll (year 5 of Ramesses II), and
+    complaints about lacking men and straw from Ramesside miscellanies. Verify exact references
+    before citing.
+  - >-
+    The "Duties of the Vizier" is important background for Joseph's portrayal as second to
+    pharaoh. The text probably goes back to an earlier (Middle Kingdom) original (van den
+    Boorn).
+  sources_to_check:
+  - Davies, The Tomb of Rekh-mi-Rēʿ at Thebes (1943)
+  - van den Boorn, The Duties of the Vizier (1988)
+  image_query: Rekhmire tomb brickmaking painting
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

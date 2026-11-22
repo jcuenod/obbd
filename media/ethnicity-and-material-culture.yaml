@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ethnicity-and-material-culture
+file: ethnicity-and-material-culture.jpg
+title: קנקן שפת צווארון.jpg
+caption: >-
+  Iron Age collared-rim storage jar (University of Haifa, Department of Archaeology collection).
+description: קנקן שפת צווארון. אוסף החוג לארכאולוגיה באוניברסיטת חיפה
+creator: Hanay
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Hanay, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:%D7%A7%D7%A0%D7%A7%D7%9F_%D7%A9%D7%A4%D7%AA_%D7%A6%D7%95%D7%95%D7%90%D7%A8%D7%95%D7%9F.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/a6/%D7%A7%D7%A0%D7%A7%D7%9F_%D7%A9%D7%A4%D7%AA_%D7%A6%D7%95%D7%95%D7%90%D7%A8%D7%95%D7%9F.jpg
+  sha1: 375086486151688956fd79e26757c77325efdecc
+  original_size: [2604, 4573]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 911×1600 px
+size: [911, 1600]
+depicts: [ethnicity-and-material-culture]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,68 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: belshazzar
+title: Belshazzar
+type: person
+cultures: [babylonian]
+date:
+  from: -553
+  to: -543
+  circa: true
+  display: c. 553–543 BCE
+scope: >-
+  Crown prince of Babylon, son of Nabonidus, entrusted with royal authority in Babylon during
+  his father's stay at Tayma. In Daniel he is the king whose feast is interrupted by the writing
+  on the wall on the night Babylon falls.
+passages:
+- ref: Dan 5:1-30
+  rel: attests
+  note: Belshazzar's feast and the writing on the wall
+- ref: Dan 7:1
+  rel: attests
+  note: Vision dated to Belshazzar's first year
+- ref: Dan 8:1
+  rel: attests
+  note: Vision dated to Belshazzar's third year
+- ref: Dan 5:7, 16, 29
+  rel: setting
+  note: '''Third ruler in the kingdom'', perhaps reflecting the co-regency'
+- ref: Bar 1:11-12
+  rel: attests
+  note: Prayer for Nebuchadnezzar and Belshazzar his son
+related: [nabonidus, nabonidus-chronicle, verse-account-of-nabonidus, nabonidus-cylinders,
+  fall-of-babylon-539, darius-the-mede]
+media:
+- id: belshazzar
+  role: primary
+external:
+  wikipedia: Belshazzar
+  wikidata: Q225198
+editorial:
+  author_notes:
+  - >-
+    Cuneiform sources call him 'son of the king' (crown prince), never king; the Verse Account
+    says Nabonidus 'entrusted the kingship' to him. Daniel's 'king' is an approximation.
+  - >-
+    Before cuneiform evidence was published, critics doubted his existence; the discovery
+    is often overstated in apologetic literature as proving Daniel's accuracy.
+  - >-
+    Nebuchadnezzar as his 'father' (Dan 5) is historically inaccurate; it may be literary
+    or a loose use of 'father'.
+  - Nothing in Babylonian sources records his death on the night of Babylon's fall.
+  sources_to_check:
+  - Beaulieu, The Reign of Nabonidus (YNER 10, 1989)
+  - ABC 7
+  image_query: Nabonidus cylinder Belshazzar British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

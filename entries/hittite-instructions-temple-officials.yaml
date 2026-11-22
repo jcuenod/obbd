@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: hittite-instructions-temple-officials
+title: Hittite Instructions for Temple Officials
+aliases:
+- Instructions for Priests and Temple Officials
+- CTH 264
+type: text
+cultures: [hittite]
+date:
+  from: -1400
+  to: -1200
+  circa: true
+  display: c. 1400–1200 BCE
+scope: >-
+  A Hittite instruction text regulating the conduct of priests and temple personnel: purity
+  before handling divine food, nightly guard of the temple, prompt delivery of offerings,
+  and penalties for misappropriation. Milgrom used it extensively for the Priestly legislation
+  on sanctuary service.
+passages:
+- ref: Num 18:1-7
+  rel: practice
+  note: Priests and Levites guard the sanctuary; an encroaching outsider is put to death
+- ref: Num 3:38
+  rel: practice
+  note: Guard stations at the sanctuary; outsider who approaches is killed
+- ref: Lev 22:1-9
+  rel: practice
+  note: Personnel in a state of impurity may not touch holy food
+- ref: Lev 15:16-18
+  rel: practice
+  note: Bathing after sexual intercourse before contact with the holy
+- ref: 1Sam 21:4-5
+  rel: practice
+  note: Abstinence from women required to eat holy bread (MT 21:5-6)
+- ref: 1Sam 2:12-17
+  rel: practice
+  note: Personnel misappropriating offerings due to the deity
+- ref: Exod 22:29-30
+  rel: practice
+  note: Offerings and firstlings must not be delayed (MT 22:28-29)
+related: [purity-and-impurity, tithes, firstfruits-and-firstborn, care-and-feeding-of-the-gods,
+  sacrifice, hittites-and-hethites]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Milgrom (Studies in Levitical Terminology I, 1970) used the text's guard duty for the
+    Priestly šāmar mišmeret and the death penalty for encroachment; the parallel is widely
+    cited.
+  - >-
+    The text compares gods to human masters ('Is the mind of man and god different?'), an
+    explicit statement of the 'care and feeding of the gods' model; contrast biblical polemic
+    (Ps 50:12-13).
+  - >-
+    Copies are from the 13th c.; composition may be earlier. See Taggar-Cohen (2006) and Miller
+    (2013).
+  sources_to_check:
+  - COS 1.83
+  - ANET 207-210
+  - J. Milgrom, Studies in Levitical Terminology I (1970)
+  - >-
+    J. L. Miller, Royal Hittite Instructions and Related Administrative Texts (SBLWAW 31,
+    2013)
+  - A. Taggar-Cohen, Hittite Priesthood (THeth 26, 2006)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

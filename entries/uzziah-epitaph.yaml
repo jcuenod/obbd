@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: uzziah-epitaph
+title: Uzziah Burial Plaque
+aliases: [Uzziah Tablet]
+type: artifact
+cultures: [jewish]
+date:
+  from: -50
+  to: 50
+  circa: true
+  display: c. 50 BCE–50 CE
+scope: >-
+  A square stone plaque with an Aramaic inscription in Jewish square script, reading 'Hither
+  were brought the bones of Uzziah, king of Judah. Do not open!'. It records a reburial of
+  the king's remains in the late Second Temple period and was identified by E. L. Sukenik
+  in 1931 in a collection on the Mount of Olives.
+passages:
+- ref: 2Chr 26:23
+  rel: attests
+  note: Uzziah buried in a field of the royal burial ground because he was leprous
+- ref: 2Kgs 15:7
+  rel: attests
+  note: Azariah (Uzziah) buried with his ancestors in the City of David
+- ref: 2Chr 26:19-21
+  rel: setting
+  note: Uzziah's skin disease and isolation
+- ref: Neh 3:16
+  rel: setting
+  note: Tombs of David as a Jerusalem landmark after the exile
+- ref: Acts 2:29
+  rel: setting
+  note: David's tomb still known in the 1st century CE
+related: [ossuaries, city-of-david, jerusalem, aramaic-language, bench-tombs, chronology-of-kings]
+location:
+  institution: Israel Museum, Jerusalem
+  accession: null
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    This is not an 8th-century artefact. The script dates it to the 1st century BCE or 1st
+    century CE, contemporary with ossuary burial.
+  - >-
+    The original findspot is unknown. It is not known whether the bones were really Uzziah's.
+    The plaque is evidence for Second Temple memory of the royal tombs and for reburial practice.
+  - >-
+    Discuss the Chronicler's distinction between Uzziah's burial and that of other kings,
+    which may lie behind the reburial.
+  sources_to_check:
+  - Corpus Inscriptionum Iudaeae/Palaestinae I (Jerusalem)
+  image_query: Uzziah burial plaque Israel Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: 2Chr 26:23 and 2Kgs 15:7 rel event -> attests (plaque
+    records a later reburial, not the original burial)
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+- date: '2026-11-21'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Image uzziah-epitaph: removed GFDL-only File:Samuel and Saidye Bronfman Archaeology WingDSCN5101.JPG
+    (GFDL is no longer accepted). No sharp, freely licensed photo of the plaque is on Commons,
+    so the entry has no image for now.

@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: composite-beasts-daniel
+file: composite-beasts-daniel.jpg
+title: Babilonesi, drago mushhushshu, simbolo del dio marduk, 604-562 ac ca.jpg
+caption: >-
+  Glazed-brick mushhushshu dragon, symbol of Marduk, from Babylon, reign of Nebuchadnezzar
+  II, 604–562 BCE (Detroit Institute of Arts).
+description: Near Eastern antiquities in the Detroit Institute of Arts
+creator: Sailko
+credit_line: Own work
+license:
+  id: CC-BY-3.0
+  name: CC BY 3.0
+  url: https://creativecommons.org/licenses/by/3.0
+attribution: Sailko, CC BY 3.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Babilonesi,_drago_mushhushshu,_simbolo_del_dio_marduk,_604-562_ac_ca.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/db/Babilonesi%2C_drago_mushhushshu%2C_simbolo_del_dio_marduk%2C_604-562_ac_ca.jpg
+  sha1: de50e3617e9fc716dbfe23e6788a9a08ef8cce3e
+  original_size: [2804, 1992]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1137 px
+size: [1600, 1137]
+depicts: [composite-beasts-daniel]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

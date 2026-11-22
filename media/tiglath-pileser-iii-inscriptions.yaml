@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: tiglath-pileser-iii-inscriptions
+file: tiglath-pileser-iii-inscriptions.jpg
+title: >-
+  Assyrian Relief Attack on Enemy Town from Kalhu (Nimrud) Central Palace reign of Tiglath-pileser
+  III British Museum - 3.jpg
+caption: >-
+  Cuneiform inscription band on a relief slab from the Central Palace of Tiglath-pileser III
+  at Nimrud, 730–727 BCE (British Museum).
+description: >-
+  Cuneiform panel from Assyrian Relief Attack on Enemy Town from Kalhu (Nimrud) Central Palace
+  reign of Tiglath-pileser III 730-727 BCE British Museum collection photographed at The Getty
+  Villa
+creator: Allan Gluck
+credit_line: Allan Gluck
+license:
+  id: CC-BY-4.0
+  name: CC BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0
+attribution: Allan Gluck, CC BY 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Assyrian_Relief_Attack_on_Enemy_Town_from_Kalhu_(Nimrud)_Central_Palace_reign_of_Tiglath-pileser_III_British_Museum_-_3.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/34/Assyrian_Relief_Attack_on_Enemy_Town_from_Kalhu_%28Nimrud%29_Central_Palace_reign_of_Tiglath-pileser_III_British_Museum_-_3.jpg
+  sha1: ef0062e75c197f4c4c285c1230d73513e21f3c22
+  original_size: [4024, 800]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×318 px
+size: [1600, 318]
+depicts: [tiglath-pileser-iii-inscriptions]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

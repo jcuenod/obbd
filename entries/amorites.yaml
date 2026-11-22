@@ -1,0 +1,76 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: amorites
+title: Amorites
+aliases: [Amurru, MAR.TU]
+type: people
+cultures: [amorite]
+scope: >-
+  The West Semitic 'westerners' (Akkadian Amurrum) of third- and second-millennium Mesopotamia
+  and Syria, the Late Bronze kingdom of Amurru, and the biblical Amorites as a pre-Israelite
+  people. Covers how the term's meaning shifts across sources.
+passages:
+- ref: Gen 10:16
+  rel: setting
+  note: Amorites among Canaan's descendants
+- ref: Gen 14:13
+  rel: setting
+  note: Mamre the Amorite, Abram's ally
+- ref: Gen 15:16
+  rel: concept
+  note: '''The iniquity of the Amorites is not yet complete'''
+- ref: Num 13:29
+  rel: setting
+  note: Amorites in the hill country
+- ref: Num 21:21-35
+  rel: setting
+  note: Sihon and Og, kings of the Amorites
+- ref: Josh 10:5
+  rel: setting
+  note: Five kings of the Amorites
+- ref: Josh 24:15
+  rel: setting
+  note: '''The gods of the Amorites in whose land you are living'''
+- ref: Ezek 16:3, 45
+  rel: setting
+  note: '''Your father was an Amorite'''
+- ref: Amos 2:9-10
+  rel: imagery
+  note: Amorites tall as cedars and strong as oaks
+related: [mari-letters, mari, canaanites, hammurabi, rephaim, hyksos]
+media:
+- id: amorites
+  role: primary
+external:
+  wikipedia: Amorites
+  wikidata: Q203507
+editorial:
+  author_notes:
+  - >-
+    In the third millennium MAR.TU / Amurrum referred to West Semitic pastoral groups. Many
+    Old Babylonian dynasties, including Hammurabi's and Zimri-Lim's, were of Amorite descent.
+  - >-
+    The Late Bronze kingdom of Amurru (Abdi-Ashirta, Aziru) appears in the Amarna letters
+    and Hittite treaties. Later, Assyrian 'Amurru' means the west in general.
+  - >-
+    Biblical usage varies. 'Amorite' can mean a hill-country people, the Transjordanian kingdoms,
+    or a general name for the pre-Israelite population. Some correlate the 'Amorite' and 'Canaanite'
+    labels with different sources.
+  - >-
+    The 'Amorite hypothesis', which placed the patriarchs within Middle Bronze Amorite migrations
+    (Albright), is outdated.
+  sources_to_check: ['ABD, s.v. "Amorites"']
+  image_query: Investiture of Zimri-Lim painting
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

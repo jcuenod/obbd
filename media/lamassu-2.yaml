@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: lamassu-2
+file: lamassu-2.jpg
+title: >-
+  A pair of lamassus from the Throne Room, Room B, of the North-West Palace at Nimrud, Iraq,
+  9th century BC. The British Museum.jpg
+caption: >-
+  Pair of lamassu from the throne room of the North-West Palace at Nimrud, 9th century BCE
+  (British Museum).
+description: >-
+  Lamassu from the Throne Room, Room B, of the North-West Palace at Nimrud, Iraq, 9th century
+  BC, now in the British Museum, London. A replica of one of the Balawat gates appears on
+  the background.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:A_pair_of_lamassus_from_the_Throne_Room,_Room_B,_of_the_North-West_Palace_at_Nimrud,_Iraq,_9th_century_BC._The_British_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/f/f4/A_pair_of_lamassus_from_the_Throne_Room%2C_Room_B%2C_of_the_North-West_Palace_at_Nimrud%2C_Iraq%2C_9th_century_BC._The_British_Museum.jpg
+  sha1: be7c5d092d3da9ef4834fee89b825027e1816a97
+  original_size: [2048, 1361]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1063 px
+size: [1600, 1063]
+depicts: [lamassu]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

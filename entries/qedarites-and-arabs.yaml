@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: qedarites-and-arabs
+title: Qedar and the Arabs
+aliases: [Qedar, Kedar, Aribi, Arabs]
+type: people
+cultures: [arabian]
+date:
+  from: -853
+  to: -350
+  circa: true
+  display: c. 853–350 BCE
+scope: >-
+  The 'Arabs' of first-millennium BCE Assyrian, Babylonian, Persian and biblical sources,
+  especially the Qedarite confederation of northern Arabia. Covers the sources, the Arab queens
+  and kings who dealt with Assyria, the incense and caravan trade, and Geshem the Arab of
+  Nehemiah.
+passages:
+- ref: Gen 25:13
+  rel: setting
+  note: Kedar, son of Ishmael
+- ref: Isa 21:13-17
+  rel: setting
+  note: Oracle on Arabia; the end of Kedar's glory
+- ref: Isa 42:11
+  rel: setting
+  note: '''The villages that Kedar inhabits'''
+- ref: Isa 60:7
+  rel: setting
+  note: Flocks of Kedar brought to the altar
+- ref: Jer 49:28-33
+  rel: setting
+  note: Nebuchadnezzar strikes Kedar and the 'kingdoms of Hazor'
+- ref: Ezek 27:21
+  rel: setting
+  note: Arabia and the princes of Kedar trade lambs and goats
+- ref: Song 1:5
+  rel: imagery
+  note: '''Black like the tents of Kedar'''
+- ref: 2Chr 26:7
+  rel: setting
+  note: Uzziah fights the Arabs of Gur-baal
+- ref: Neh 2:19; 6:1-6
+  rel: attests
+  note: Geshem the Arab; cf. 'Qaynu son of Gashmu, king of Qedar' on a silver bowl
+related: [qedarite-silver-bowl, incense-trade, camels-and-domestication, nabataeans, sheba,
+  nabonidus, sanballat, midianites-and-kenites]
+media:
+- id: camels-and-domestication
+  role: primary
+external:
+  wikipedia: Qedarites
+  wikidata: Q2287491
+editorial:
+  author_notes:
+  - >-
+    The first mention of 'Arabs' is Gindibu the Arab with 1,000 camels at Qarqar (853), in
+    Shalmaneser III's Kurkh Monolith.
+  - >-
+    Assyrian texts from Tiglath-pileser III to Ashurbanipal name Arab queens (Zabibe, Samsi,
+    Yatie, Teʾelhunu) and Qedarite kings (Hazael, Yauta/Uaite').
+  - >-
+    Nehemiah's Geshem is widely identified with the Gashmu of a silver bowl from Tell el-Maskhuta
+    and of an inscription from Dedan.
+  - >-
+    Nabonidus resided at Tayma for about ten years. Avoid reading the modern ethnic identity
+    'Arab' back into these sources.
+  sources_to_check: ['Eph''al, The Ancient Arabs (1982)', 'Retsö, The Arabs in Antiquity (2003)']
+  image_query: Ashurbanipal Arab camel riders relief
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

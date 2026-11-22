@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: taharqa
+file: taharqa.jpg
+title: Sphinx of Taharqo front view.jpg
+caption: Granite sphinx of Taharqa from Temple T at Kawa, Sudan, c. 680 BCE (British Museum).
+description: >-
+  Sphinx of Taharqo, from Temple T at Kawa, Sudan, Kushite, about 680 BC. British Museum (EA
+  1770).
+creator: BabelStone
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: BabelStone, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sphinx_of_Taharqo_front_view.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/7/7f/Sphinx_of_Taharqo_front_view.jpg
+  sha1: d1be23b30bfcf9ff61ee534b0f640cad24d49a36
+  original_size: [1923, 2861]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1075×1600 px
+size: [1075, 1600]
+depicts: [taharqa]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

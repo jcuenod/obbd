@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: el
+file: el.jpg
+title: >-
+  El, the Canaanite creator deity, Megiddo, Stratum VII, Late Bronze II, 1400-1200 BC, bronze
+  with gold leaf - Oriental Institute Museum, University of Chicago - DSC07734.JPG
+caption: >-
+  Seated bronze figure overlaid with gold leaf, commonly identified as El, from Megiddo Stratum
+  VII, Late Bronze II (Institute for the Study of Ancient Cultures, University of Chicago).
+description: >-
+  Exhibit in the Institute for the Study of Ancient Cultures, University of Chicago, Chicago,
+  Illinois, USA. This work is old enough so that it is in the public domain. Photography was
+  permitted in the museum without restriction.King of Gods, particularly worshiped in the
+  Phoenician (Canaanite) city of Byblos, El was also known as 'Il or Elyon ("Most High"),
+  generally considered leader of the pantheon of Canaanite Gods. Ēl (or 'Il, e.g. Hebrew:
+  אל‎‎, Syriac: ܐܠ‎, Arabic: إل‎‎ or إله, Akkadian: ilu) is a Northwestern Semitic word meaning
+  "god" or "deity". El is the Supreme God of Canaanites, of p
+creator: Daderot
+credit_line: Own work
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Daderot. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:El,_the_Canaanite_creator_deity,_Megiddo,_Stratum_VII,_Late_Bronze_II,_1400-1200_BC,_bronze_with_gold_leaf_-_Oriental_Institute_Museum,_University_of_Chicago_-_DSC07734.JPG
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/5/5c/El%2C_the_Canaanite_creator_deity%2C_Megiddo%2C_Stratum_VII%2C_Late_Bronze_II%2C_1400-1200_BC%2C_bronze_with_gold_leaf_-_Oriental_Institute_Museum%2C_University_of_Chicago_-_DSC07734.JPG
+  sha1: 762987df14240dfba6d26c3cad0d25c5da1d3ead
+  original_size: [3648, 5472]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1067×1600 px
+size: [1067, 1600]
+depicts: [el]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

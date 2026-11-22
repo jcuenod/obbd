@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: genealogies
+file: genealogies.jpg
+title: >-
+  Assyrian king list. Terracotta tablet, from Assur, Iraq. 7th century BCE. Ancient Orient
+  Museum, Istanbul.jpg
+caption: >-
+  Assyrian King List, clay tablet from Assur, 7th century BCE (Ancient Orient Museum, Istanbul).
+description: >-
+  Assyrian king list. Terracotta tablet, from Assur, Northern Mesopotamia, Iraq. Neo-Assyrian
+  Period, 7th century BCE. Ancient Orient Museum, Istanbul
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Assyrian_king_list._Terracotta_tablet,_from_Assur,_Iraq._7th_century_BCE._Ancient_Orient_Museum,_Istanbul.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/3b/Assyrian_king_list._Terracotta_tablet%2C_from_Assur%2C_Iraq._7th_century_BCE._Ancient_Orient_Museum%2C_Istanbul.jpg
+  sha1: 2c302bba96ba97a305b1ffe2a3120909010ccc7d
+  original_size: [5022, 3511]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1118 px
+size: [1600, 1118]
+depicts: [genealogies]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

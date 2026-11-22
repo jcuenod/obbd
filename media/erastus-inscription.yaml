@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: erastus-inscription
+file: erastus-inscription.jpg
+title: Erastus stone at Theater of Corinth (cropped).jpg
+caption: >-
+  The Erastus inscription in the paved area near the theatre at Corinth, mid-1st century CE.
+description: >-
+  An inscription mentioning an Erastus near a paved area northeast of the theater of Corinth.
+  It has been dated to the mid-first century, and the person described is likely the same
+  Erastus who is mentioned in Acts 19:22, Romans 16:23 and 2 Timothy 4:2.
+creator: Rduncan2
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Rduncan2, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Erastus_stone_at_Theater_of_Corinth_(cropped).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/0/0d/Erastus_stone_at_Theater_of_Corinth_%28cropped%29.jpg
+  sha1: d0f898ab4d5f82f4e77e6dd4208e651685679f98
+  original_size: [2513, 1450]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×923 px
+size: [1600, 923]
+depicts: [erastus-inscription]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

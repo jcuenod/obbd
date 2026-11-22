@@ -1,0 +1,70 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: avaris
+title: Avaris (Tell el-Dabʿa)
+aliases: [Tell el-Dabʿa, Hut-waret]
+type: site
+cultures: [egyptian, canaanite]
+scope: >-
+  The site of Tell el-Dabʿa in the eastern Nile Delta, identified with Avaris. From the late
+  Middle Kingdom it was home to a large Asiatic (Levantine) population, and it was the capital
+  of the Hyksos Fifteenth Dynasty. In the New Kingdom it hosted Thutmoside palaces with Minoan-style
+  frescoes and later became part of Pi-Ramesses.
+passages:
+- ref: Exod 1:11
+  rel: setting
+  note: 'Raamses region: Avaris lies within the area of Ramesside Pi-Ramesses'
+- ref: Gen 47:11
+  rel: setting
+  disputed: true
+  note: '''Land of Rameses'': eastern Delta settlement of Asiatic pastoralists'
+- ref: Gen 45:10
+  rel: setting
+  disputed: true
+  note: Goshen, generally located in the eastern Delta
+related: [hyksos, pi-ramesses, exodus-historical-questions, beni-hasan-asiatics, tanis, amorites]
+media:
+- id: avaris
+  role: primary
+- id: avaris-2
+  role: gallery
+external:
+  wikipedia: Avaris
+  wikidata: Q309282
+  pleiades: '727080'
+editorial:
+  author_notes:
+  - >-
+    Manfred Bietak's excavations (from 1966) identified the site and documented Levantine-style
+    houses, tombs (including donkey burials), and temples. They show long-term Asiatic presence
+    before and during Hyksos rule.
+  - >-
+    Rohl's and others' identification of an Asiatic official's tomb and statue at Avaris as
+    Joseph's is not accepted by scholars. Mention it as a popular misconception.
+  - >-
+    The location of Goshen is not securely fixed (Wadi Tumilat or the wider eastern Delta).
+    Hence the disputed tags.
+  sources_to_check:
+  - Bietak, Avaris. The Capital of the Hyksos (1996)
+  image_query: Tell el-Daba Avaris excavation
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q309282 (verify).
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 30.78623
+  lon: 31.82253
+  source: wikidata:Q309282

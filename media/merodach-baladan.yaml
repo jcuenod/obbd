@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: merodach-baladan
+file: merodach-baladan.jpg
+title: Vorderasiatisches Museum Berlin 027.jpg
+caption: >-
+  Kudurru of Marduk-apla-iddina II (Merodach-baladan), showing the king on the left facing
+  an official, black stone (Vorderasiatisches Museum, Berlin).
+description: >-
+  Vorderasiatisches Museum (Near East Museum), Berlin. Kudurru of the babylonian king Marduk-apla-idinna
+  II/Merodach-baladan.
+creator: Einsamer Schütze
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Einsamer Schütze, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Vorderasiatisches_Museum_Berlin_027.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/f/f4/Vorderasiatisches_Museum_Berlin_027.jpg
+  sha1: 1b6b69719385dbf90069132ff2050e5707a741a0
+  original_size: [1746, 2382]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1173×1600 px
+size: [1173, 1600]
+depicts: [kudurru, merodach-baladan]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

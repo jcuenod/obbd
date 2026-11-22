@@ -1,0 +1,87 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: petra-and-sela
+title: Sela and Petra
+aliases: [Sela, Selaʿ, Joktheel, Umm el-Biyara, as-Silaʿ]
+type: site
+cultures: [edomite, arabian]
+scope: >-
+  Biblical Sela ('the Rock'), an Edomite stronghold, and Petra, the later Nabataean capital,
+  often wrongly equated with it. Covers the candidate sites for Sela (as-Silaʿ and Umm el-Biyara)
+  and the Nabataean city as background to the New Testament.
+passages:
+- ref: 2Kgs 14:7
+  rel: setting
+  disputed: true
+  note: Amaziah takes Sela and renames it Joktheel
+- ref: 2Chr 25:11-12
+  rel: setting
+  disputed: true
+  note: Edomite captives thrown from the top of 'the rock'
+- ref: Isa 16:1
+  rel: setting
+  disputed: true
+  note: Lambs sent from Sela by way of the desert
+- ref: Isa 42:11
+  rel: setting
+  disputed: true
+  note: '''Let the inhabitants of Sela sing'''
+- ref: Jer 49:16
+  rel: language
+  note: Edom 'living in the clefts of the rock (selaʿ)'
+- ref: Obad 3
+  rel: language
+  note: '''You who live in the clefts of the rock'''
+- ref: 2Cor 11:32
+  rel: setting
+  note: King Aretas IV of Nabataea, ruling from Petra
+related: [edomites, nabataeans, bozrah, qos, qedarites-and-arabs, nabonidus]
+media:
+- id: petra-and-sela
+  role: primary
+- id: petra-and-sela-2
+  role: gallery
+external:
+  wikipedia: Petra
+  wikidata: Q5788
+  pleiades: '697725'
+editorial:
+  author_notes:
+  - >-
+    selaʿ is also a common noun, 'rock', so not every occurrence names a place. The candidates
+    for Edomite Sela are as-Silaʿ near Tafila, which has a rock relief of Nabonidus, and Umm
+    el-Biyara at Petra. Neither is certain.
+  - >-
+    Bennett's excavations at Umm el-Biyara found a seventh-century Edomite settlement and
+    a seal impression of Qaus-gabri, king of Edom.
+  - >-
+    Petra's famous monuments are Nabataean (first century BCE to first century CE). Correct
+    the popular conflation of Petra with Iron Age Edom's capital, which was Bozrah.
+  sources_to_check: ['Bienkowski, Early Edom and Moab (1992)']
+  image_query: Petra Umm el-Biyara
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Isa 42:11 marked disputed (identity of Sela uncertain)
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q5788 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex
+coordinates:
+  lat: 30.32889
+  lon: 35.44028
+  source: wikidata:Q5788

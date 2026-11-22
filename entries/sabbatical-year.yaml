@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: sabbatical-year
+title: Sabbatical Year
+aliases: [Shemittah, Fallow year, Seventh year]
+type: practice
+cultures: [hebrew, jewish]
+scope: >-
+  The seventh-year fallow of fields, vineyards, and olive groves in biblical law, its relation
+  to the weekly Sabbath and to debt remission, and the evidence that it was observed in the
+  Second Temple period. Debt and slave release are treated under debt-release.
+passages:
+- ref: Exod 23:10-11
+  rel: practice
+  note: Seventh-year fallow, the produce left for the poor and wild animals
+- ref: Lev 25:1-7
+  rel: practice
+  note: '''A sabbath for the land'' with no sowing or pruning'
+- ref: Lev 25:18-22
+  rel: practice
+  note: Promise of a sixth-year harvest sufficient for three years
+- ref: Lev 26:34-35, 43
+  rel: concept
+  note: Exile as the land 'enjoying its sabbaths'
+- ref: 2Chr 36:21
+  rel: concept
+  note: Seventy years of exile fulfil the land's neglected sabbaths
+- ref: Deut 15:1-2
+  rel: practice
+  note: Year of remission (šĕmiṭṭâ) linked to the seven-year cycle
+- ref: Deut 31:10-13
+  rel: practice
+  note: Public reading of the law at Booths in the year of remission
+- ref: Neh 10:31
+  rel: practice
+  note: Covenant pledge to forgo the seventh year's crops and debts (MT 10:32)
+- ref: 1Macc 6:49, 53
+  rel: practice
+  note: Food shortage at Beth-zur and Jerusalem because it was a sabbatical year
+related: [sabbath, debt-release, seven-day-patterns, agriculture-and-farming, babylonian-exile,
+  calendars-and-month-names]
+media: []
+external:
+  wikipedia: Shmita
+  wikidata: Q1790469
+editorial:
+  author_notes:
+  - >-
+    No fixed septennial fallow is attested elsewhere in the ancient Near East. The Ugaritic
+    seven-year cycles (e.g., drought in Aqhat) are literary motifs, not institutions. Present
+    the institution as an extension of Sabbath logic to agricultural time.
+  - >-
+    Note the debate whether Exod 23:10-11 assumed a rotating fallow for each field or a single
+    universal year, as in Lev 25. Also relate the land's 'rest' to Sabbath work prohibitions.
+  - >-
+    Practice is attested in the Second Temple period. Sources include 1 Maccabees, Josephus
+    (e.g., Caesar's decree remitting tribute in the seventh year, Ant. 14.202), Tacitus' polemic
+    (Hist. 5.4), and documents from Murabbaʿat dated by the year of release. Verify specific
+    document numbers.
+  - >-
+    The Chronicler's link between exile and unkept sabbatical years (2 Chr 36:21, combining
+    Lev 26 and Jer 25:11) is theological interpretation, not chronological evidence.
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: 'Passage tags checked against WEB text: 1Macc 6:49, 53 rel event -> practice'
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

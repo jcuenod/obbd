@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: theodotos-inscription
+file: theodotos-inscription.jpg
+title: 8V2A3067 (47715698331).jpg
+caption: >-
+  The Greek Theodotos synagogue inscription from the City of David, limestone, before 70 CE,
+  as displayed at the Israel Museum, Jerusalem.
+description: "The Israel Museum, Jerusalem This inscription from the days of Herod, uncovered\
+  \ near the Temple Mount, is one of the most important finds from Jerusalem. It mentions\
+  \ Theodotos son of Vettenos, priest and head of a Synagogue who was also the son of the\
+  \ head of the synagogue, who built a synagogue not far from the Temple. The inscription\
+  \ demonstrates that the institution of the synagogue existed before the destruction of the\
+  \ Temple. Synagogues had not yet become substitutes for the Temple and its rites, and would\
+  \ have therefore filled other religious and social roles. \"Theodotos, son of [or: of "
+creator: Andrey Zeigarnik from Raanana, Israel
+credit_line: 8V2A3067
+license:
+  id: CC-BY-SA-2.0
+  name: CC BY-SA 2.0
+  url: https://creativecommons.org/licenses/by-sa/2.0
+attribution: Andrey Zeigarnik from Raanana, Israel, CC BY-SA 2.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:8V2A3067_(47715698331).jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/4/4d/8V2A3067_%2847715698331%29.jpg
+  sha1: 1f8fa038da66f25d964b02cc207d5f9d1e216949
+  original_size: [6005, 3973]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1058 px
+size: [1600, 1058]
+depicts: [theodotos-inscription]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

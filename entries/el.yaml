@@ -1,0 +1,93 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: el
+title: El
+type: deity
+cultures: [canaanite, ugaritic, phoenician, hebrew]
+scope: >-
+  El (ʾil), both the common Semitic word for "god" and the proper name of the aged creator,
+  father and king who heads the Ugaritic pantheon and divine assembly. The entry covers El
+  in Ugaritic and other West Semitic sources and the reception of El names and attributes
+  in the Hebrew Bible's portrayal of YHWH.
+passages:
+- ref: Gen 14:18-22
+  rel: language
+  note: El Elyon 'creator of heaven and earth'; cf. Phoenician ʾl qn ʾrṣ
+- ref: Gen 16:13; 21:33
+  rel: language
+  note: 'Patriarchal El epithets: El Roi, El Olam'
+- ref: Gen 33:20; 35:7
+  rel: language
+  note: El-Elohe-Israel at Shechem; El-Bethel
+- ref: Exod 6:2-3
+  rel: concept
+  note: YHWH identified with the El Shaddai of the ancestors
+- ref: Gen 49:24-25
+  rel: language
+  note: El of your father and Shaddai, blessings of breasts and womb
+- ref: Deut 32:8-9
+  rel: concept
+  note: Elyon apportions the nations among the sons of God (4QDeutj; MT 'sons of Israel')
+- ref: Ps 82:1
+  rel: concept
+  note: God stands in 'the council of El' (ʿădat-ʾēl)
+- ref: Isa 14:13
+  rel: imagery
+  note: '''Stars of El'' and the mount of assembly'
+- ref: Ezek 28:2
+  rel: imagery
+  note: '''I am El, I sit in the seat of gods in the heart of the seas'''
+- ref: Num 23:22
+  rel: imagery
+  disputed: true
+  note: El likened to the horns of a wild ox; cf. 'Bull El'
+related: [elyon, divine-council, statue-of-el, sons-of-god, asherah, yhwh-origins, bull-iconography,
+  baal]
+media:
+- id: el
+  role: primary
+external:
+  wikipedia: El (deity)
+  wikidata: Q1316633
+editorial:
+  author_notes:
+  - >-
+    Give El's Ugaritic epithets (ṯr il "Bull El", ltpn il dpid "Kindly El the Compassionate",
+    ab adm "father of humanity", bny bnwt "creator of creatures", mlk) and his abode "at the
+    source of the rivers, amid the springs of the two deeps".
+  - >-
+    Present the main models for El and YHWH: early identification (Cross), originally distinct
+    gods later merged (Smith, Eissfeldt), and the patriarchal "religion of El" (Alt; Exod
+    6:3); none is settled.
+  - >-
+    Note the theophoric name Israel and the absence of El-Baal hostility in the Bible; El
+    language was absorbed, Baal language contested.
+  - >-
+    Caution against treating every ʾēl in Hebrew as the Canaanite god; it is also the common
+    noun "god".
+  sources_to_check:
+  - KTU 1.23
+  - KTU 1.114
+  - M. H. Pope, El in the Ugaritic Texts (VTSup 2, 1955)
+  - F. M. Cross, Canaanite Myth and Hebrew Epic (1973)
+  - DDD, s.v. "El"
+  image_query: El stele Ugarit
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Deut 32:8-9 note now flags 'sons of God' as 4QDeutj
+    reading vs MT 'sons of Israel'
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

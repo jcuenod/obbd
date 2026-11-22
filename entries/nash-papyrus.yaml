@@ -1,0 +1,75 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: nash-papyrus
+title: Nash Papyrus
+type: artifact
+cultures: [jewish]
+date:
+  from: -150
+  to: -100
+  circa: true
+  display: c. 150–100 BCE
+scope: >-
+  A single papyrus sheet acquired in Egypt in 1898 by W. L. Nash, containing the Decalogue
+  (in a form blending Exod 20 and Deut 5) followed by the Shema. Until the Qumran discoveries
+  it was the oldest known Hebrew biblical text, and it is probably a liturgical or devotional
+  excerpt rather than a biblical scroll.
+passages:
+- ref: Exod 20:2-17
+  rel: language
+  note: Decalogue text harmonizing Exodus and Deuteronomy forms
+- ref: Deut 5:6-21
+  rel: language
+  note: Decalogue (Deuteronomic form)
+- ref: Deut 6:4-5
+  rel: language
+  note: Shema, preceded by an introductory clause also found in LXX
+- ref: Luke 18:20
+  rel: language
+  note: Adultery listed before murder, the order of the Nash Papyrus and some LXX witnesses
+- ref: Rom 13:9
+  rel: language
+  note: 'Same order: adultery, murder, theft'
+- ref: Mark 12:29-30
+  rel: practice
+  note: Shema as central confession; Decalogue and Shema recited together in temple liturgy
+related: [dead-sea-scrolls, septuagint, great-isaiah-scroll, writing-materials, sabbath]
+location:
+  institution: Cambridge University Library
+  accession: null
+media:
+- id: nash-papyrus
+  role: primary
+external:
+  wikipedia: Nash Papyrus
+  wikidata: Q1343736
+editorial:
+  author_notes:
+  - >-
+    Albright dated it to the 2nd century BCE (Maccabean). Note that later palaeographic comparison
+    with Qumran hands broadly supports this.
+  - >-
+    Connect it to m. Tamid 5:1 (Decalogue and Shema recited in the temple) and to the later
+    dropping of the Decalogue from daily liturgy 'because of the heretics' (y. Ber. 1:3; b.
+    Ber. 12a).
+  - >-
+    Highlight its agreements with the LXX Vorlage (commandment order, plus before the Shema).
+  sources_to_check:
+  - S. A. Cook, 'A Pre-Massoretic Biblical Papyrus', PSBA 25 (1903)
+  - >-
+    W. F. Albright, 'A Biblical Fragment from the Maccabaean Age: The Nash Papyrus', JBL 56
+    (1937)
+  image_query: Nash Papyrus
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

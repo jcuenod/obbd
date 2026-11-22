@@ -1,0 +1,60 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: nimrod
+title: Nimrod
+type: concept
+cultures: [mesopotamian, assyrian]
+scope: >-
+  Nimrod, the 'mighty hunter before YHWH' and founder of Mesopotamian cities in the Table
+  of Nations. The entry covers proposed identifications with Mesopotamian gods and kings,
+  the royal hunting ideology behind the portrait, and his later legendary role as builder
+  of Babel.
+passages:
+- ref: Gen 10:8-12
+  rel: concept
+  note: First mighty one (gibbôr); mighty hunter; kingdom in Shinar; builds Nineveh and Calah
+- ref: Gen 10:10
+  rel: setting
+  note: Babel, Erech, Akkad and Calneh in Shinar
+- ref: 1Chr 1:10
+  rel: attests
+  note: Nimrod in the Chronicler's genealogy
+- ref: Mic 5:6
+  rel: setting
+  note: Assyria called 'the land of Nimrod' (MT 5:5)
+- ref: Gen 6:4
+  rel: language
+  note: gibbôr links Nimrod with the antediluvian 'mighty men'
+related: [nimrud, sargon-of-akkad, assyria, babylon, nineveh, table-of-nations, ziggurat-and-babel,
+  gilgamesh-epic]
+media: []
+external:
+  wikipedia: Nimrod
+  wikidata: Q201861
+editorial:
+  author_notes:
+  - >-
+    Main identifications: the god Ninurta (hunter and warrior, patron of Kalhu); Tukulti-Ninurta
+    I, the first Assyrian king to rule Babylon (E. A. Speiser); Sargon of Akkad; Gilgamesh.
+    None is certain, and the figure may be a composite.
+  - >-
+    The Assyrian royal hunt (lion-hunt reliefs) gives the best background for 'mighty hunter
+    before YHWH'.
+  - >-
+    The site name Nimrud for ancient Kalhu is a later Arabic designation, not ancient evidence.
+  - >-
+    Note the post-biblical tradition of Nimrod as builder of Babel (Josephus, Ant. 1.113-119)
+    as reception.
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

@@ -1,0 +1,73 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: verse-account-of-nabonidus
+title: Verse Account of Nabonidus
+type: text
+cultures: [babylonian]
+date:
+  from: -538
+  to: -538
+  circa: true
+  display: c. 538 BCE
+scope: >-
+  A Babylonian poem composed after Cyrus's conquest that denounces Nabonidus for impiety,
+  his promotion of the moon god Sin, his absence at Tayma, and his neglect of Marduk's festival,
+  while presenting Cyrus as restorer of proper cult. It shows that Belshazzar was entrusted
+  with kingship.
+passages:
+- ref: Dan 5:1-2
+  rel: attests
+  note: Nabonidus 'entrusted the kingship' to his eldest son (Belshazzar) before going to
+    Tayma
+- ref: Dan 5:7, 16, 29
+  rel: attests
+  disputed: true
+  note: '''Third ruler in the kingdom'' may reflect Belshazzar''s co-regency'
+- ref: Dan 4:28-33
+  rel: parallel
+  disputed: true
+  note: >-
+    A Babylonian king estranged from his capital; Nabonidus tradition behind Dan 4 (MT 4:25-30)
+- ref: Isa 45:1-7
+  rel: concept
+  note: Cyrus presented as the deity's chosen restorer
+related: [nabonidus, belshazzar, cyrus-cylinder, cyrus-the-great, prayer-of-nabonidus, nabonidus-chronicle,
+  persian-imperial-authorization]
+media:
+- id: verse-account-of-nabonidus
+  role: primary
+external:
+  wikipedia: Cylinders of Nabonidus
+  wikidata: Q673319
+editorial:
+  author_notes:
+  - >-
+    Pro-Persian propaganda by Babylonian (Marduk) priests; read alongside the Cyrus Cylinder.
+    Its picture of Nabonidus as impious and deranged is polemical, not neutral history.
+  - >-
+    The Daniel 4 connection: 4QPrNab (Prayer of Nabonidus) attests a seven-year illness of
+    Nabonidus at Tayma, which suggests that Dan 4 transfers a Nabonidus tradition to Nebuchadnezzar.
+    This is widely held; details are debated.
+  - >-
+    'Entrusted the kingship' does not make Belshazzar formally king (New Year rites lapsed);
+    relevant to Daniel's title 'king'.
+  - >-
+    The Wikipedia title is a redirect to a section of 'Cylinders of Nabonidus'; there is no
+    standalone article.
+  sources_to_check:
+  - ANET 312-315
+  - H. Schaudig, Die Inschriften Nabonids von Babylon und Kyros' des Großen (AOAT 256, 2001)
+  image_query: Verse Account of Nabonidus British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

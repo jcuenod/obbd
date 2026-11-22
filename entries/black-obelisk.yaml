@@ -1,0 +1,88 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: black-obelisk
+title: Black Obelisk of Shalmaneser III
+type: artifact
+cultures: [assyrian]
+date:
+  from: -827
+  to: -827
+  circa: true
+  display: c. 827 BCE
+scope: >-
+  A black limestone obelisk of Shalmaneser III from Nimrud summarising his campaigns to his
+  31st year. Its five registers of reliefs show tribute from five lands; the second shows
+  a figure prostrate before the king, labelled as the tribute of 'Jehu of Bit-Humri', the
+  only known depiction of an Israelite king or his envoy.
+passages:
+- ref: 2Kgs 9:1-10:36
+  rel: attests
+  note: Jehu, king of Israel, shown or represented paying tribute
+- ref: 2Kgs 9:2
+  rel: language
+  note: Jehu son of Jehoshaphat son of Nimshi, yet 'son of Omri' (Bit-Humri) in Assyrian usage
+- ref: 2Kgs 10:32-33
+  rel: setting
+  note: Hazael's pressure on Israel, after Assyria withdrew from the west
+- ref: 1Kgs 19:15-17
+  rel: attests
+  note: Hazael and Jehu, both named in Shalmaneser's inscriptions
+- ref: 2Kgs 8:7-15
+  rel: attests
+  note: Hazael of Damascus, Shalmaneser's opponent in 841 and 838
+related: [jehu, shalmaneser-iii, hazael, omri, nimrud, tribute-and-vassalage, prostration-and-obeisance,
+  kurkh-monoliths]
+location:
+  institution: British Museum, London
+  accession: 1848-11-04, 0001 (British Museum)
+media:
+- id: jehu
+  role: gallery
+- id: black-obelisk
+  role: primary
+- id: black-obelisk-2
+  role: gallery
+- id: clothing-and-dress
+  role: gallery
+- id: prostration-and-obeisance
+  role: gallery
+external:
+  wikipedia: Black Obelisk of Shalmaneser III
+  wikidata: Q1471650
+editorial:
+  author_notes:
+  - >-
+    Discovered by Layard at Nimrud in 1846. The main text runs to Shalmaneser's 31st year
+    (c. 828/827); the Jehu tribute itself dates to 841 BCE (18th year), recorded also on other
+    inscriptions.
+  - >-
+    "Son of Omri" (mār Ḫumrî) reflects the Assyrian practice of naming a state after a dynastic
+    founder (Bit-Humri); it is not a genealogical claim and does not contradict 2 Kgs 9:2.
+  - >-
+    Whether the prostrate figure is Jehu himself or an envoy is debated; the epigraph names
+    Jehu's tribute. McCarter's proposal to read Joram is a minority view.
+  - >-
+    The Bible does not mention Jehu's submission; Kings is silent about Assyria in this period.
+    Note the value of the obelisk for absolute chronology (841 BCE).
+  sources_to_check:
+  - RIMA 3 (Grayson 1996), Shalmaneser III texts
+  - COS 2.113F
+  - ANET 280-281
+  image_query: Black Obelisk Shalmaneser III British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added accession from Wikidata Q1471650 (verify).
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

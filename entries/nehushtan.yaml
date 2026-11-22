@@ -1,0 +1,63 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: nehushtan
+title: Nehushtan and Bronze Serpents
+aliases: [bronze serpent, copper serpent]
+type: realia
+cultures: [judahite, egyptian, arabian]
+scope: >-
+  The bronze serpent made by Moses according to Num 21 and destroyed by Hezekiah as the cult
+  object Nehushtan, together with the archaeological corpus of copper and bronze serpents
+  from Bronze and Iron Age sanctuaries in the southern Levant.
+passages:
+- ref: Num 21:4-9
+  rel: realia
+  note: Moses makes a bronze serpent on a pole that heals the bitten
+- ref: 2Kgs 18:4
+  rel: realia
+  note: Hezekiah breaks the bronze serpent 'called Nehushtan' that received offerings
+- ref: Wis 16:5-7
+  rel: concept
+  note: The serpent as a 'symbol of salvation', healing by God not the object
+- ref: John 3:14-15
+  rel: imagery
+  note: The Son of Man lifted up like the serpent in the wilderness
+related: [seraphim, timna, hezekiah, cult-reforms-archaeology, midianites-and-kenites, copper-production,
+  cult-images]
+media: []
+external:
+  wikipedia: Nehushtan
+  wikidata: Q974896
+editorial:
+  author_notes:
+  - >-
+    The gilded copper snake from the Timna shrine (Rothenberg's Midianite phase) is the most
+    cited parallel, alongside bronze serpents from Megiddo, Hazor and Gezer; note Midianite
+    associations with the Num 21 setting.
+  - >-
+    Note the wordplay nəḥaš nəḥōšet; whether "Nehushtan" was the cult name or Hezekiah's dismissive
+    label is debated.
+  - >-
+    Many scholars read Num 21:4-9 as an etiology legitimating a Jerusalem cult object; present
+    this alongside the narrative's own claim.
+  - >-
+    The historicity of Hezekiah's reform is debated archaeologically; link to the cult-reform
+    entry.
+  sources_to_check:
+  - K. R. Joines, "The Bronze Serpent in the Israelite Cult," JBL 87 (1968)
+  - 'B. Rothenberg, Timna: Valley of the Biblical Copper Mines (1972)'
+  - DDD, s.v. "Nehushtan"
+  image_query: Timna copper snake
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

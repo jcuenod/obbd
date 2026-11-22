@@ -1,0 +1,105 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: loans-interest-pledges
+title: Loans, Interest, and Pledges
+aliases: [Usury, Interest (nešek and tarbît), Pledges, Surety]
+type: practice
+cultures: [hebrew, akkadian, babylonian, jewish]
+scope: >-
+  Lending in biblical law and practice: the ban on charging interest (nešek, tarbît) to a
+  fellow Israelite in need, the rules limiting what may be taken in pledge, suretyship, and
+  the prophetic and wisdom critique of creditors, compared with Mesopotamian loan law and
+  the Aramaic loan contracts from Elephantine. Debt remission and debt-servant release are
+  treated under debt-release and slavery; the Meṣad Ḥashavyahu petition has its own entry.
+passages:
+- ref: Exod 22:25-27
+  rel: practice
+  note: No interest from the poor; a pledged cloak returned before sunset (MT 22:24-26)
+- ref: Lev 25:35-37
+  rel: practice
+  note: No nešek or tarbît from an impoverished kinsman
+- ref: Deut 23:19-20
+  rel: practice
+  note: Interest banned between Israelites but allowed from a foreigner (MT 23:20-21)
+- ref: Deut 24:6, 10-13, 17
+  rel: practice
+  note: >-
+    Limits on pledges: no millstone, no entering the house, cloak returned, widow's garment
+    exempt
+- ref: Gen 38:17-18
+  rel: language
+  note: Judah's seal, cord and staff given as a pledge (ʿērābôn)
+- ref: 2Kgs 4:1
+  rel: practice
+  note: A creditor comes to take a widow's children as slaves
+- ref: Job 24:3, 9
+  rel: practice
+  note: The widow's ox and the infant of the poor taken in pledge
+- ref: Amos 2:8
+  rel: practice
+  note: Garments taken in pledge spread out beside altars
+- ref: Ezek 18:8, 13, 17
+  rel: practice
+  note: Taking advance or accrued interest among the marks of the wicked
+- ref: Neh 5:1-13
+  rel: practice
+  note: Fields, houses and children pledged; Nehemiah halts lending at interest
+- ref: Ps 15:5
+  rel: practice
+  note: The righteous does not lend money at interest
+- ref: Prov 22:26-27
+  rel: practice
+  note: Warning against giving pledges as surety for another's debts
+- ref: Luke 19:23
+  rel: practice
+  note: Money deposited with bankers to earn interest
+related: [debt-release, mesad-hashavyahu-ostracon, slavery, widow-orphan-sojourner, laws-of-eshnunna,
+  code-of-hammurabi, elephantine-papyri, weights-and-silver-money]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Explain the terms. Nešek ('bite') and tarbît/marbît ('increase') appear together in Lev
+    25:36-37 and Ezek 18. Whether they denote interest deducted in advance and interest added
+    at repayment, or are near-synonyms, is debated. Hebrew ʿăbōṭ and ḥăbōl denote pledges,
+    and ʿērābôn (Gen 38) is the Semitic word behind Greek arrabōn (2 Cor 1:22).
+  - >-
+    Mesopotamian law regulated rather than banned interest. The Laws of Eshnunna (§18A) and
+    the gap sections of Hammurabi's laws set maximum rates of 20 percent on silver and 33⅓
+    percent on grain; verify section numbers in Roth. Hammurabi §§113-119 regulate distraint
+    and persons held as pledges.
+  - >-
+    Elephantine Aramaic loan contracts (e.g. TAD B3.1) record monthly interest and penalties
+    for default. They show Judeans in the Persian period lending at interest among themselves;
+    verify the rates before citing.
+  - >-
+    The biblical ban protects a needy kinsman (it is framed as charity, not commerce), and
+    Deut 23:20 allows interest from foreigners. Pledge limits protect the means of subsistence
+    (cloak, millstone). Do not present it as a general ban on commercial credit, and note
+    later Jewish and Christian developments only briefly.
+  - >-
+    Neh 5:11 refers to 'the hundredth' of money, grain, wine and oil, perhaps one percent
+    a month. The interpretation is debated.
+  sources_to_check:
+  - M. T. Roth, Law Collections from Mesopotamia and Asia Minor (SBLWAW 6, 2nd ed. 1997)
+  - >-
+    B. Porten and A. Yardeni, Textbook of Aramaic Documents from Ancient Egypt, vol. 2: Contracts
+    (1989)
+  - R. Westbrook (ed.), A History of Ancient Near Eastern Law, 2 vols. (2003)
+  - >-
+    E. Neufeld, 'The Prohibitions against Loans at Interest in Ancient Hebrew Laws,' HUCA
+    26 (1955)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

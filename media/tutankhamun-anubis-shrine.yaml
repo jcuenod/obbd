@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: tutankhamun-anubis-shrine
+file: tutankhamun-anubis-shrine.jpg
+title: >-
+  Vallei der Koningen. Tombe van Toetanchamon Schatkamer Anubis op schrijn, GDE002079 (cropped).jpg
+caption: >-
+  The Anubis shrine in place in the Treasury of Tutankhamun's tomb (KV62), photographed by
+  Harry Burton.
+description: >-
+  TitleVallei der Koningen. Tombe van Toetanchamon: Schatkamer: Anubis op schrijnAuthorBurton,
+  Harry (English archaeological photographer, 1879-1940) (photographer)SeriesEuroPhot. Archaeology.
+  Ancient. Architecture. Funerary structureEuroPhot. Archaeology. Ancient. Sculptures. StatueEuroPhot.
+  Archeologie. Oudheid. Architectuur. Funeraire bouwconstructieEuroPhot. Archeologie. Oudheid.
+  Beeldhouwkunst. StandbeeldExtent1 glasdia 100 x 85 mmSlideLanguageUndeterminedTypographical
+  detailsglass slide(s)Additional infoGeneral note: Toegevoegde informatie op diaBiographical
+  or historical data: Creatie/Bou
+creator: Harry Burton
+credit_line: >-
+  https://libis-kul.primo.exlibrisgroup.com/discovery/collectionDiscovery?vid=32KUL_KUL:KULeuven&collectionId=81532003710001488&lang=en&sortItemsBy=date_a&query=any,contains,GDE002079
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Harry Burton. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Vallei_der_Koningen._Tombe_van_Toetanchamon_Schatkamer_Anubis_op_schrijn,_GDE002079_(cropped).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/12/Vallei_der_Koningen._Tombe_van_Toetanchamon_Schatkamer_Anubis_op_schrijn%2C_GDE002079_%28cropped%29.jpg
+  sha1: 54ac59017c71ac00dc83064d1ba2eadeb1811148
+  original_size: [2887, 3904]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1183×1600 px
+size: [1183, 1600]
+depicts: [tutankhamun-anubis-shrine]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

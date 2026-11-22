@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: baal-cycle
+file: baal-cycle.jpg
+title: P1180250 Louvre Langue ougaritique Tablette poeme mythologique AO16641 et 16642 rwk.jpg
+caption: >-
+  Ugaritic tablet of the Baal Cycle narrating Baal and Mot, 14th–13th century BCE (Musée du
+  Louvre, Paris).
+description: 'Tablette : poème mythologique – cycle de Ba’al et Ba’al et la Mort'
+creator: Unknown artistUnknown artist
+credit_line: Mbzt, 2013
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Unknown artistUnknown artist, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:P1180250_Louvre_Langue_ougaritique_Tablette_poeme_mythologique_AO16641_et_16642_rwk.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/d/d1/P1180250_Louvre_Langue_ougaritique_Tablette_poeme_mythologique_AO16641_et_16642_rwk.jpg
+  sha1: 94c6ca514fbfb01e05ae3e93621538f0b1ee59f2
+  original_size: [2400, 2319]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1546 px
+size: [1600, 1546]
+depicts: [baal-cycle, ugaritic-texts]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

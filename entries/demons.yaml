@@ -1,0 +1,77 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: demons
+title: Demons and Evil Spirits
+aliases: [evil spirits, šēdîm, śəʿîrîm]
+type: concept
+cultures: [ane, mesopotamian, hebrew, jewish]
+scope: >-
+  Demons and harmful spirits in the ancient Near East and the Hebrew Bible: Mesopotamian demons
+  and anti-demonic ritual, the šēdîm and śəʿîrîm of the Bible, demoted deities of plague,
+  and evil spirits sent by God. The entry stops before the developed demonology of the New
+  Testament period, noting it only in outline.
+passages:
+- ref: Lev 17:7
+  rel: practice
+  note: Sacrifices to goat-demons (śəʿîrîm) prohibited
+- ref: Deut 32:17
+  rel: polemic
+  note: Sacrifices to šēdîm, not God; cf. Akkadian šēdu
+- ref: Ps 106:37
+  rel: polemic
+  note: Sons and daughters sacrificed to šēdîm
+- ref: Ps 91:5-6
+  rel: concept
+  note: Terror of the night, arrow by day, Deber and Qeteb at noon
+- ref: Lev 16:8-10
+  rel: practice
+  note: Goat sent to Azazel in the wilderness
+- ref: 1Sam 16:14-23
+  rel: concept
+  note: An evil spirit from YHWH torments Saul; music as remedy
+- ref: Isa 13:21
+  rel: imagery
+  note: Goat-demons dance among ruins
+- ref: Tob 3:8
+  rel: concept
+  note: The demon Asmodeus kills Sarah's husbands
+- ref: Mark 5:1-20
+  rel: concept
+  note: Exorcism of the Gerasene demoniac
+related: [lamashtu-pazuzu-amulets, day-of-atonement-elimination, maqlu, amulets, lilith, resheph,
+  satan-the-adversary, hittite-elimination-rituals]
+media:
+- id: demons
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The Hebrew Bible has little systematic demonology; harmful powers are usually subordinate
+    to YHWH (1 Sam 16:14). Avoid reading later demonology back into it.
+  - >-
+    Mesopotamian evidence (Udug-hul incantations, Lamashtu and Pazuzu, Maqlû) offers the richest
+    comparison; distinguish demons from protective spirits (šēdu/lamassu can be benevolent).
+  - >-
+    Azazel's identity (demon, place, "complete removal") is debated; link to elimination rites.
+  - >-
+    Several biblical terms (Deber, Qeteb, Resheph, Lilith) are demoted deities or demons;
+    treat individually.
+  sources_to_check:
+  - 'M. J. Geller, Evil Demons: Canonical Utukkū Lemnūtu Incantations (2007)'
+  - F. A. M. Wiggermann, Mesopotamian Protective Spirits (1992)
+  - DDD, s.v. "Azazel"; "Deber"; "Qeteb"
+  image_query: Pazuzu statuette Louvre
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

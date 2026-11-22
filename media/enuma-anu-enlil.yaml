@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: enuma-anu-enlil
+file: enuma-anu-enlil.jpg
+title: Cuneiform tablet- commentary on Enuma Anu Enlil, tablet 5 MET DP-442-002.jpg
+caption: >-
+  Cuneiform tablet with a commentary on tablet 5 of Enūma Anu Enlil (Metropolitan Museum of
+  Art, New York).
+description: Cuneiform tablet; Clay-Tablets-Inscribed
+creator: null
+credit_line: >-
+  This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum
+  of Art. See the Image and Data Resources Open Access Policy
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Unknown author. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Cuneiform_tablet-_commentary_on_Enuma_Anu_Enlil,_tablet_5_MET_DP-442-002.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/2b/Cuneiform_tablet-_commentary_on_Enuma_Anu_Enlil%2C_tablet_5_MET_DP-442-002.jpg
+  sha1: 69f8b00d9066bd20928369a8f49497cb95adf113
+  original_size: [4000, 3000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1200 px
+size: [1600, 1200]
+depicts: [enuma-anu-enlil]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

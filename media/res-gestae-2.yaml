@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: res-gestae-2
+file: res-gestae-2.jpg
+title: >-
+  Turkey. Ankara. Temple of Augustus Caesar. Latin inscription closer up. LOC matpc.03372.jpg
+caption: >-
+  Close view of the Latin text of the Res Gestae on the temple at Ankara, Matson Collection
+  photograph (Library of Congress).
+description: >-
+  Title: Turkey. Ankara. Temple of Augustus Caesar. Latin inscription closer up. Abstract/medium:
+  G. Eric and Edith Matson Photograph Collection Physical description: 1 negative :
+creator: Matson Collection
+credit_line: >-
+  Library of Congress Catalog: https://www.loc.gov/pictures/collection/matpc/item/mpc2004005307/PP
+  Original url: https://hdl.loc.gov/loc.pnp/matpc.03372
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Matson Collection. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Turkey._Ankara._Temple_of_Augustus_Caesar._Latin_inscription_closer_up._LOC_matpc.03372.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/9/95/Turkey._Ankara._Temple_of_Augustus_Caesar._Latin_inscription_closer_up._LOC_matpc.03372.jpg
+  sha1: 28722412a5f515bda037847b172bdc762f6ff80c
+  original_size: [5773, 4247]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1177 px
+size: [1600, 1177]
+depicts: [res-gestae]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

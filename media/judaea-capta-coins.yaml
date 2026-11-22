@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: judaea-capta-coins
+file: judaea-capta-coins.jpg
+title: Sestertius - Vespasiano - Iudaea Capta-RIC 0424.jpg
+caption: >-
+  Bronze sestertius of Vespasian, struck in 71 CE, with the IVDAEA CAPTA reverse showing a
+  mourning Judaea seated beneath a palm and a bound captive.
+description: >-
+  VESPASIAN. 69-79 AD. Æ Sestertius (26.30 gm). "Judaea Capta" issue. Struck 71 AD. IMP CAES
+  VESPASIAN AVG P M TR P P P COS III, laureate head right / IVDEA [CAPTA], S C in exergue,
+  Jewess in attitude of mourning, seated left beneath palm tree; to right, captive Jew with
+  hands tied behind back standing left; captured weapons behind. RIC II 426; BMCRE 542; BN
+  494; Cohen 238. Good Fine, reddish brown patina, spotty surfaces, roughness on reverse.
+creator: CNG
+credit_line: CNG coins
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: http://creativecommons.org/licenses/by-sa/3.0/
+attribution: CNG, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Sestertius_-_Vespasiano_-_Iudaea_Capta-RIC_0424.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/ba/Sestertius_-_Vespasiano_-_Iudaea_Capta-RIC_0424.jpg
+  sha1: bcccdca0f23e0ab781cefce16117e7e92a7d32f5
+  original_size: [691, 350]
+  retrieved: '2026-11-20'
+derivative: null
+size: [691, 350]
+depicts: [judaea-capta-coins]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

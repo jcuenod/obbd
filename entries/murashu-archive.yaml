@@ -1,0 +1,69 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: murashu-archive
+title: Murašû Archive
+aliases: [Murašû archive, Murashu Sons]
+type: text
+cultures: [babylonian, persian]
+date:
+  from: -454
+  to: -404
+  circa: true
+  display: c. 454–404 BCE
+scope: >-
+  The business archive of the Murašû family firm of Nippur under Artaxerxes I and Darius II,
+  recording the management and financing of land-for-service holdings. It names the Kebar
+  canal and includes West Semitic, among them Judean, clients, and is a key source for Persian-period
+  Babylonia.
+passages:
+- ref: Ezek 1:1, 3; 3:15
+  rel: setting
+  note: Kebar canal (nār kabari) near Nippur, named in Murašû texts
+- ref: Neh 5:4
+  rel: practice
+  note: Borrowing against fields and vineyards to pay the king's tax
+- ref: Ezra 4:13
+  rel: practice
+  note: Persian levies (tribute, poll-tax, land-tax) on imperial subjects
+- ref: Ezra 8:15-17
+  rel: setting
+  note: Judean communities remaining in Babylonia under Persian rule
+related: [al-yahudu-tablets, babylonian-exile, persia, artaxerxes-i, yehud-province, weights-and-silver-money]
+media:
+- id: murashu-archive
+  role: primary
+external:
+  wikipedia: Murashu family
+  wikidata: Q6937377
+editorial:
+  author_notes:
+  - >-
+    Several hundred tablets found at Nippur by the University of Pennsylvania expedition (1893);
+    dates run 454-404. The firm leased and financed ḫaṭru holdings of military colonists who
+    owed service and taxes (Stolper).
+  - >-
+    Yahwistic names appear among the clients (Coogan; Zadok); Judeans appear as ordinary participants
+    in the regional economy. Avoid fixed counts unless verified.
+  - >-
+    The Kebar canal identification links Ezekiel's setting to the Nippur region (also attested
+    in the Āl-Yāhūdu corpus).
+  sources_to_check:
+  - >-
+    M. W. Stolper, Entrepreneurs and Empire: The Murašû Archive, the Murašû Firm, and Persian
+    Rule in Babylonia (1985)
+  - M. D. Coogan, West Semitic Personal Names in the Murašû Documents (HSM 7, 1976)
+  - R. Zadok, The Jews in Babylonia during the Chaldean and Achaemenian Periods (1979)
+  image_query: Murashu archive tablet Penn Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

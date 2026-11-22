@@ -1,0 +1,69 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: manasseh
+title: Manasseh
+type: person
+cultures: [judahite]
+date:
+  from: -698
+  to: -642
+  circa: true
+  display: c. 698–642 BCE
+scope: >-
+  Manasseh son of Hezekiah, the longest-reigning king of Judah, considered in the light of
+  extrabiblical evidence. Esarhaddon and Ashurbanipal list 'Manasseh king of Judah' among
+  the western vassals who supplied building materials and military support.
+passages:
+- ref: 2Kgs 21:1-18
+  rel: attests
+  note: Manasseh's long reign, judged the worst in Judah's history
+- ref: 2Kgs 21:3-7
+  rel: practice
+  note: Altars for Baal and the host of heaven, and an Asherah image in the temple
+- ref: 2Chr 33:10-13
+  rel: event
+  disputed: true
+  note: Manasseh taken to Babylon in fetters and restored; historicity debated
+- ref: 2Chr 33:14
+  rel: realia
+  disputed: true
+  note: Outer wall built west of Gihon
+- ref: Jer 15:4
+  rel: attests
+  note: Judah's fate blamed on Manasseh
+related: [esarhaddon-prisms, rassam-cylinder, esarhaddon, ashurbanipal, host-of-heaven, tribute-and-vassalage,
+  child-sacrifice, assyria]
+media: []
+external:
+  wikipedia: Manasseh of Judah
+  wikidata: Q156328
+editorial:
+  author_notes:
+  - >-
+    Esarhaddon's Nineveh prism (c. 673) and Ashurbanipal's Prism C (Egyptian campaign, 667)
+    name Menasî of Judah. This gives firm evidence of loyal vassalage.
+  - >-
+    His reign coincides with the Pax Assyriaca. Note the archaeological evidence for economic
+    recovery after 701 (Ekron oil industry, Negev and Judean Desert settlement).
+  - >-
+    The Chronicler's captivity and repentance story has no Assyrian corroboration. It is usually
+    read as theological (explaining the long reign), but some scholars defend a historical
+    core.
+  - >-
+    The Deuteronomistic depiction of his cultic sins should be read alongside debates about
+    Assyrian religious influence. Most now reject the idea of an imposed Assyrian cult.
+  sources_to_check: ['Leichty, RINAP 4 (2011)', 'ANET 291, 294']
+  image_query: Esarhaddon prism British Museum
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-1-sol

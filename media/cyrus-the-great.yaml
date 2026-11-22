@@ -1,0 +1,30 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: cyrus-the-great
+file: cyrus-the-great.jpg
+title: Cyrus the Great Tomb, Pasargadae.jpg
+caption: The tomb of Cyrus II at Pasargadae, 6th century BCE.
+description: Tomb of Cyrus the Great in Pasaragadae, Persia (Persis/Fars), southwestern Iran.
+creator: A. Davey
+credit_line: The Tomb of Cyrus the Great (Flickr)
+license:
+  id: CC-BY-2.0
+  name: CC BY 2.0
+  url: https://creativecommons.org/licenses/by/2.0
+attribution: A. Davey, CC BY 2.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cyrus_the_Great_Tomb,_Pasargadae.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/f/f4/Cyrus_the_Great_Tomb%2C_Pasargadae.jpg
+  sha1: 73041971ceda7b3626a5092ce17b5962ca46b876
+  original_size: [4288, 2848]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1063 px
+size: [1600, 1063]
+depicts: [cyrus-the-great]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

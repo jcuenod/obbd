@@ -1,0 +1,389 @@
+dead-sea-scrolls:
+  - file: "File:Great Isaiah Scroll Ch53.jpg"
+    caption: "Columns of the Great Isaiah Scroll (1QIsaª) from Qumran Cave 1, including part of Isaiah 53, from a photographic reproduction."
+    role: primary
+  - file: "File:Dead Sea Scroll, Pesher Isaiah, from Qumran Cave 4, the Jordan Museum in Amman.jpg"
+    caption: "Fragment of a pesher (commentary) on Isaiah from Qumran Cave 4 (The Jordan Museum, Amman)."
+    role: gallery
+
+deir-alla-inscription:
+  - file: "File:Deir 'Alla Inscription.png"
+    caption: "Drawing of Combination I of the Deir ʿAlla plaster inscription, showing the arrangement of the ink-inscribed plaster fragments."
+    role: primary
+
+demons:
+  - file: "File:Pazuzu MNB467 mp3h9179.jpg"
+    caption: "Bronze statuette of the demon Pazuzu, Neo-Assyrian period, 1st millennium BCE (Musée du Louvre, MNB 467)."
+    role: primary
+
+demotic-wisdom: []   # no free image of Papyrus Insinger or P. BM 10508 (Ankhsheshonqy) found
+
+deportation:
+  - file: "File:Judaean people are being deported into exile after the capture of Lachish.jpg"
+    caption: "Judahite deportees leaving Lachish with their belongings, detail of the Lachish reliefs from Sennacherib's palace at Nineveh, c. 700 BCE (British Museum)."
+    role: primary
+
+descent-of-inanna-ishtar:
+  - file: "File:Ishtar descent to the Underworld BM ME K.162.jpg"
+    caption: "Tablet with the Akkadian version of Ishtar's Descent to the Netherworld, from the Library of Ashurbanipal at Nineveh (British Museum, K.162)."
+    role: primary
+
+dialogue-of-a-man-with-his-ba:
+  - file: "File:Papyrus Berlin 3024 (recto).jpg"
+    caption: "Papyrus Berlin 3024, the Middle Kingdom hieratic manuscript of the Dialogue of a Man with His Ba (Ägyptisches Museum und Papyrussammlung, Berlin)."
+    role: primary
+
+dialogue-of-pessimism: []   # no image of the tablets available; search returned only unrelated photos
+
+dibon:
+  - file: "File:Dhiban.jpg"
+    caption: "The mound of ancient Dibon with modern Dhiban behind it, looking south (2004)."
+    role: primary
+  - file: "File:Tell Dhiban 76.jpg"
+    caption: "Excavated remains on the summit of Tell Dhiban."
+    role: gallery
+
+diplomatic-gift-exchange:
+  - file: "File:Amarna letter. Letter from Tushratta king of Mitanni to Amenhotep III. From Tell el-Amarna, Egypt. 1st half of the 14th century BCE. British Museum.jpg"
+    caption: "Amarna letter from Tushratta of Mitanni to Amenhotep III negotiating a royal marriage and asking for gold, Akkadian cuneiform, 14th century BCE (British Museum, ME 29791)."
+    role: primary
+    depicts: [diplomatic-marriage]
+  - file: "File:Amarna letter. \"Message from the king of Alashiya, your brother\" to the Pharaoh of Egypt, possibly Akhenaten. C. 1350 BCE. From Tell e-Amarna, Egypt. British Museum.jpg"
+    caption: "Amarna letter from the king of Alashiya (Cyprus), \"your brother\", to the pharaoh, c. 1350 BCE (British Museum)."
+    role: gallery
+
+diplomatic-marriage:
+  - file: "File:Hochzeitsstele-Ramses II..jpg"
+    caption: "The Marriage Stela of Ramesses II at Abu Simbel, recording his marriage to a daughter of the Hittite king; drawing from Lepsius's Denkmäler."
+    role: primary
+
+divination:
+  - file: "File:Divinatory livers Louvre AO19837.jpg"
+    caption: "Clay liver models used to train diviners (Musée du Louvre, AO 19837)."
+    role: primary
+
+divine-abandonment:
+  - file: "File:Black basalt monument of king Esarhaddon. It narrates Esarhaddon's restoration of Babylon. Circa 670 BCE. From Babylon, Mesopotamia, Iraq. The British Museum, London.jpg"
+    caption: "Black basalt monument of Esarhaddon narrating the restoration of Babylon, c. 670 BCE (British Museum)."
+    role: primary
+
+divine-warrior:
+  - file: "File:Stèle de Baal au foudre - Musée du Louvre Antiquités orientales AO 15775.jpg"
+    caption: "The \"Baal with Thunderbolt\" stele from Ugarit: the storm god brandishing a mace and a lightning spear, limestone, Late Bronze Age (Musée du Louvre, AO 15775)."
+    role: primary
+
+divine-wings:
+  - file: "File:Winged Isis--Egyptian-saam-1929.8.154 1.jpg"
+    caption: "Bronze figure of the goddess Isis with outstretched protective wings (Smithsonian American Art Museum, 1929.8.154)."
+    role: primary
+
+donkeys-and-royal-mounts:
+  - file: "File:Beni-Hassan-Asiatiques1.jpg"
+    caption: "Asiatics with a laden donkey carrying children, wall painting in the tomb of Khnumhotep II at Beni Hasan, 12th Dynasty."
+    role: primary
+    depicts: [beni-hasan-asiatics]
+  - file: "File:Procession of the Aamu, Tomb of Khnumhotep II (composite).jpg"
+    caption: "The full procession of the Aamu with their donkeys, tomb of Khnumhotep II at Beni Hasan."
+    role: gallery
+
+dor:
+  - file: "File:Nahsholim-Tel-Dor-2935.jpg"
+    caption: "Excavated remains on the shoreline at Tel Dor."
+    role: primary
+  - file: "File:תל דור.JPG"
+    caption: "Archaeological remains at Tel Dor."
+    role: gallery
+
+dream-stele:
+  - file: "File:Great Sphinx with Stelae.jpg"
+    caption: "The Dream Stele of Thutmose IV standing between the paws of the Great Sphinx at Giza."
+    role: primary
+    depicts: [dreams-and-dream-interpretation]
+  - file: "File:Giseh Traumstele (Lepsius) 01.jpg"
+    caption: "Drawing of the Dream Stele from Lepsius's Denkmäler."
+    role: gallery
+
+dreams-and-dream-interpretation: []   # no ancient dream-book image found; the Dream Stele image is linked via depicts from dream-stele
+
+east-india-house-inscription:
+  - file: "File:British Museum inscribed stone of Nebuchadnezzar II.jpg"
+    caption: "The East India House Inscription of Nebuchadnezzar II, inscribed stone tablet from Babylon (British Museum)."
+    role: primary
+
+ebla:
+  - file: "File:HPIM3078 1.JPG"
+    caption: "Ruins of the southern district of Ebla (Tell Mardikh), with the Damascus Gate and the defensive rampart in the background."
+    role: primary
+
+edict-of-ammi-saduqa: []   # no free image of the edict tablets found
+
+edomite-inscriptions:
+  - file: "File:Edomite ostracon from Ḥorvat 'Uzza.jpg"
+    caption: "The Edomite ostracon from Ḥorvat ʿUza, 6th century BCE (Israel Museum, Jerusalem)."
+    role: primary
+
+edomites:
+  - file: "File:-0650 Edomite Goddess from Horvat Qitmit. Israel Museum, Jerusalem anagoria.jpg"
+    caption: "Clay head of a goddess crowned with three horns from the Edomite shrine at Ḥorvat Qitmit, 7th–6th century BCE (Israel Museum, Jerusalem)."
+    role: primary
+
+egyptian-cosmology:
+  - file: "File:Geb, Nut, Shu.jpg"
+    caption: "The air god Shu raising the sky goddess Nut above the earth god Geb, from the Greenfield Papyrus, early 22nd Dynasty (British Museum)."
+    role: primary
+
+egyptian-hittite-peace-treaty:
+  - file: "File:Kadesh Treaty, written in Akkadian. 1269 BCE. From Boğazköy, Turkey. Clay tablet. Museum of the Ancient Orient, Istanbul, Turkey.jpg"
+    caption: "Akkadian clay tablet of the Egyptian–Hittite peace treaty from Boğazköy (Ḫattuša), 13th century BCE (Museum of the Ancient Orient, Istanbul)."
+    role: primary
+  - file: "File:Karnak Ägyptisch-Hethitischer Friedensvertrag 06.jpg"
+    caption: "The hieroglyphic version of the treaty on a wall of the temple of Karnak, Luxor."
+    role: gallery
+
+egyptian-kingship:
+  - file: "File:Khafre Enthroned, side view.JPG"
+    caption: "Statue of Khafre enthroned, with the falcon god Horus spreading his wings behind the king's head, Fourth Dynasty, from his valley temple at Giza (Egyptian Museum, Cairo)."
+    role: primary
+
+egyptian-love-poetry:
+  - file: "File:Papyrus with some love poems known as 'Songs from the Grove' on the recto and several administrative texts on the verso - Museo Egizio (Turin) C 1966 p01.jpg"
+    caption: "The Turin papyrus of love poems known as the \"Songs from the Grove\", New Kingdom (Museo Egizio, Turin, C 1966)."
+    role: primary
+
+egyptian-rule-in-canaan:
+  - file: "File:Victory Stela of Seti I - first stela - Beth Shean - 1294 BCE.jpeg"
+    caption: "First Beth-Shean stele of Seti I, basalt, commemorating a campaign against rebellious towns near Beth-Shean in his first year, c. 1294 BCE."
+    role: primary
+
+ekron:
+  - file: "File:JRSLM 300116 Ekron inscription.jpg"
+    caption: "The royal dedicatory inscription from Tel Miqne, which confirmed the site's identification as Ekron (Israel Museum, Jerusalem)."
+    role: primary
+    depicts: [ekron-royal-dedicatory-inscription]
+  - file: "File:Philistine pottery Drinking bowl.JPG"
+    caption: "Philistine pottery drinking bowl from Tel Miqne-Ekron, 12th century BCE."
+    role: gallery
+
+ekron-royal-dedicatory-inscription:
+  - file: "File:Dedicatory Stone Inscription, Ekron, 7th Century BC (43167220572).jpg"
+    caption: "The Ekron royal dedicatory inscription, limestone, 7th century BCE (Israel Museum, Jerusalem)."
+    role: primary
+
+el:
+  - file: "File:El, the Canaanite creator deity, Megiddo, Stratum VII, Late Bronze II, 1400-1200 BC, bronze with gold leaf - Oriental Institute Museum, University of Chicago - DSC07734.JPG"
+    caption: "Seated bronze figure overlaid with gold leaf, commonly identified as El, from Megiddo Stratum VII, Late Bronze II (Institute for the Study of Ancient Cultures, University of Chicago)."
+    role: primary
+
+elephantine:
+  - file: "File:Assuan Elephantine Chnumtempel 03.JPG"
+    caption: "Blocks from the temple of Khnum on Elephantine island, Aswan."
+    role: primary
+  - file: "File:KhnoumTempleElephantine.jpg"
+    caption: "Ruins at the southern end of Elephantine island, site of the temple of Khnum."
+    role: gallery
+
+elephantine-papyri:
+  - file: "File:Elephantine papyrus J 37112 (Sayce and Cowley 1906, F) from the Mibtahiah archive.jpg"
+    caption: "Aramaic papyrus from the Mibtahiah family archive at Elephantine, 5th century BCE (Egyptian Museum, Cairo, J 37112)."
+    role: primary
+  - file: "File:Papyrus narrating the story of the wise chancellor Ahiqar. Aramaic script. 5th century BCE. From Elephantine, Egypt. Neues Museum.jpg"
+    caption: "Aramaic papyrus of the Story of Ahiqar from Elephantine, 5th century BCE (Neues Museum, Berlin)."
+    role: gallery
+
+elephantine-passover-letter: []   # only candidate is the Ashmolean Passover ostracon, a different object from TAD A4.1
+
+elephantine-temple-petition:
+  - file: "File:Elephantine Temple reconstruction request.gif"
+    caption: "Aramaic papyrus of the petition from Jedaniah and the priests of Elephantine to Bagavahya, governor of Judah, 407 BCE."
+    role: primary
+
+eloquent-peasant:
+  - file: "File:Papyrus Berlin 10499 (recto).jpg"
+    caption: "Papyrus Berlin 10499 (Papyrus Ramesseum A), a Middle Kingdom hieratic manuscript containing the Eloquent Peasant and the Story of Sinuhe."
+    role: primary
+
+emar-texts: []   # no free photograph of an Emar tablet found; candidates show the modern site area only
+
+emergence-of-israel:
+  - file: 'File:Closeup of the Merenptah Stele, mentioning ysrỉꜣr ("Israel").jpg'
+    caption: "Detail of the Merneptah Stele naming Israel (line 27), c. 1208 BCE (Egyptian Museum, Cairo)."
+    role: primary
+
+enki-and-ninhursag:
+  - file: "File:CBS4561 Enki and Ninhursag Penn Museum.jpg"
+    caption: "Clay tablet of the Sumerian myth of Enki and Ninhursag, Nippur, 1900–1600 BCE (Penn Museum, CBS 4561)."
+    role: primary
+
+enmerkar-and-the-lord-of-aratta:
+  - file: "File:Enmerkar and the Lord of Aratta Ashmolean.jpg"
+    caption: "Fragment of a cuneiform tablet of Enmerkar and the Lord of Aratta, Old Babylonian period (Ashmolean Museum, Oxford)."
+    role: primary
+
+enuma-anu-enlil:
+  - file: "File:Cuneiform tablet- commentary on Enuma Anu Enlil, tablet 5 MET DP-442-002.jpg"
+    caption: "Cuneiform tablet with a commentary on tablet 5 of Enūma Anu Enlil (Metropolitan Museum of Art, New York)."
+    role: primary
+  - file: "File:Venus Tablet of Ammisaduqa.jpg"
+    caption: "The Venus Tablet of Ammiṣaduqa (Enūma Anu Enlil tablet 63), Neo-Assyrian copy (British Museum)."
+    role: gallery
+
+enuma-elish:
+  - file: "File:Enuma Elish K.3473.jpg"
+    caption: "Fragment of a tablet of Enūma Eliš from the Library of Ashurbanipal at Nineveh, 7th century BCE (British Museum, K.3473)."
+    role: primary
+
+ephod: []   # only modern reconstructions and Bible illustrations available; no ancient depiction found
+
+erastus-inscription:
+  - file: "File:Erastus stone at Theater of Corinth (cropped).jpg"
+    caption: "The Erastus inscription in the paved area near the theatre at Corinth, mid-1st century CE."
+    role: primary
+
+eridu-genesis:
+  - file: "File:CBS10673 Sumerian Flood Story Penn Museum.jpg"
+    caption: "Tablet of the Sumerian Flood Story (Eridu Genesis), Nippur, 17th century BCE (Penn Museum, CBS 10673)."
+    role: primary
+
+erra-and-ishum:
+  - file: "File:Amulet to ward off plague.jpg"
+    caption: "Neo-Assyrian tablet-shaped amulet against plague from Ashur, 800–612 BCE; amulets of this kind carry excerpts from Erra and Išum."
+    role: primary
+
+esarhaddon:
+  - file: "File:Detail. Sam'al stele of Esarhaddon, 671 BCE, Pergamon Museum.jpg"
+    caption: "Esarhaddon on the basalt victory stele from Samʾal (Zincirli), 671 BCE (Pergamon Museum, Berlin)."
+    role: primary
+
+esarhaddon-prisms:
+  - file: "File:Hexagonal terracotta prism of Esarhaddon from Nimrud, Iraq. Iraq Museum.jpg"
+    caption: "Hexagonal clay prism of Esarhaddon from Nimrud recording his palace building (Iraq Museum, Baghdad)."
+    role: primary
+
+esarhaddon-succession-treaty: []   # no free image of the Nimrud or Tell Tayinat treaty tablets found
+
+esarhaddon-treaty-with-baal-of-tyre:
+  - file: "File:Treaty of Esarhaddon with Baal of Tyre (K 3500 + K 4444 + K 10235).png"
+    caption: "Hand copy of the treaty of Esarhaddon with Baal of Tyre (K 3500 + K 4444 + K 10235), as published by Hugo Winkler in 1898."
+    role: primary
+
+eshmunazar-sarcophagus:
+  - file: "File:Eshmunazar II sarcophagus (cleaned up).jpg"
+    caption: "The basalt sarcophagus of Eshmunazar II of Sidon with its Phoenician inscription on the lid, 5th century BCE (Musée du Louvre)."
+    role: primary
+  - file: "File:Squeeze of trough inscription from the Sarcophagus of Eshmunazar II, in the Corpus Inscriptionum Semiticarum (CIS I 3-9) (cropped).jpg"
+    caption: "Squeeze of the trough inscription, from the Corpus Inscriptionum Semiticarum (CIS I 3)."
+    role: gallery
+
+etemenanki:
+  - file: "File:Remains of the foundations of the Etemnanki Zigurat.jpg"
+    caption: "The remains of the foundations of Etemenanki at Babylon, now a waterlogged depression."
+    role: primary
+  - file: "File:Model of the Etemenanki (Ziggurat of Babylon), Pergamon Museum, Berlin (2006).jpg"
+    caption: "Modern model reconstructing Etemenanki (Pergamon Museum, Berlin)."
+    role: gallery
+  - file: "File:Esagil tablet fragment BM 40813.jpg"
+    caption: "Fragment of the \"Esagil tablet\" giving the dimensions of Etemenanki (British Museum, BM 40813)."
+    role: gallery
+
+ethnicity-and-material-culture:
+  - file: "File:קנקן שפת צווארון.jpg"
+    caption: "Iron Age collared-rim storage jar (University of Haifa, Department of Archaeology collection)."
+    role: primary
+
+eunuchs:
+  - file: "File:Limestone wall relief depicting an Assyrian royal attendant, a eunuch. From the Central Palace at Nimrud, Iraq, 744-727 BCE. Ancient Orient Museum, Istanbul.jpg"
+    caption: "Beardless Assyrian royal attendant (eunuch) on a wall relief from the Central Palace at Nimrud, 744–727 BCE (Ancient Orient Museum, Istanbul)."
+    role: primary
+  - file: "File:The chief eunuch, Nabu-sharussu-ukin (Nebuchadnezzar II's right-hand man), \"rab sha-reshi\", donated gold to the god Marduk temple at Babylon. His name and title occur as Nebo-Sarsekim,\"rab-saris\", in Hebrew in the Book of Jeremiah.jpg"
+    caption: "Tablet recording a gift of gold to Esagil by Nabu-šarrussu-ukin, the chief eunuch (rab ša-rēši) of Nebuchadnezzar II, compared with Nebo-Sarsekim the rab-saris of Jeremiah 39 (British Museum)."
+    role: gallery
+
+execration-texts:
+  - file: "File:Execration Figurine - E.7465.jpg"
+    caption: "Egyptian execration figurine inscribed with curses (Royal Museums of Art and History, Brussels, E.7465)."
+    role: primary
+  - file: "File:Aechtungstext2.jpg"
+    caption: "Pottery sherds inscribed with execration texts."
+    role: gallery
+
+extispicy:
+  - file: "File:Inscribed model of a sheep liver - BM.jpg"
+    caption: "Inscribed clay model of a sheep's liver used to teach hepatoscopy (British Museum)."
+    role: primary
+
+ezekiel-throne-chariot:
+  - file: "File:Wall relief depicting the God Ashur (Assur) from Nimrud..JPG"
+    caption: "The god Ashur within a winged disc, with the hands of Ashurnasirpal II raised in worship below, wall relief from the North-West Palace of Ashurnasirpal II at Nimrud, 865–850 BCE (British Museum)."
+    role: primary
+
+ezion-geber:
+  - file: "File:Graia, On the Red Sea, Near Ezion-Geber, Port of King Solomon MET DP71226.jpg"
+    caption: "Jezirat Faraun (Pharaoh's Island) in the Gulf of Aqaba, one proposed site of Ezion-geber; 19th-century photograph by Frank Mason Good (Metropolitan Museum of Art)."
+    role: primary
+
+fall-of-babylon-539:
+  - file: "File:Nabonidus's faults and absences were recorded alongside events of his reign. By the autumn of 539 BCE, Babylon had surrendered to the army of king Cyrus to become part of the growing Achaemenid Empire. From Babylon, Iraq, 530-400 BCE.jpg"
+    caption: "The Nabonidus Chronicle, which records the surrender of Babylon to Cyrus in 539 BCE, clay tablet from Babylon (British Museum)."
+    role: primary
+  - file: "File:Cyrus Cylinder, Babylon, Iraq, mid 500s BC, cuneiform on clay - British Museum - DSC01316.jpg"
+    caption: "The Cyrus Cylinder, clay, from Babylon, after 539 BCE (British Museum)."
+    role: gallery
+
+fall-of-jerusalem-587:
+  - file: "File:The cuneiform inscription highlights the conquest of Jerusalem and the surrender of Jehoiakim, king of Judah, in 597 BCE. From Babylon, Iraq.jpg"
+    caption: "The Babylonian Chronicle tablet for 605–594 BCE, recording Nebuchadnezzar II's capture of Jerusalem in 597 BCE (British Museum)."
+    role: primary
+
+fall-of-nineveh-612: []   # site photos are a modern gate reconstruction or carry overlaid text; the Fall of Nineveh Chronicle is linked via depicts
+
+fall-of-nineveh-chronicle:
+  - file: "File:Fall of Nineveh Chronicle BM 21901.jpg"
+    caption: "The Fall of Nineveh Chronicle, a clay tablet copied c. 550–400 BCE, covering 616–609 BCE (British Museum, BM 21901)."
+    role: primary
+    depicts: [fall-of-nineveh-612]
+
+fall-of-samaria:
+  - file: "File:Sargon II and a crown prince, possibly Sennacherib, from Khorsabad, Iraq. The British Museum.jpg"
+    caption: "Sargon II, who claimed the conquest of Samaria, facing a crown prince (possibly Sennacherib), relief from Khorsabad, 710–705 BCE (British Museum)."
+    role: primary
+
+famine-stele:
+  - file: "File:Sehel-steleFamine.jpg"
+    caption: "The Famine Stele carved on a granite boulder on Sehel Island near Aswan, Ptolemaic period."
+    role: primary
+
+faynan:
+  - file: "File:Khirbat en-Nahas.jpg"
+    caption: "Satellite image of the Khirbat en-Nahas copper-smelting site in Faynan, where black slag heaps mark the ancient works."
+    role: primary
+
+festivals-agricultural:
+  - file: "File:The Gezer Calendar tablet, early iron age, 10th century BCE, Museum of Archaeology, Istanbul, Turkey.jpg"
+    caption: "The Gezer Calendar, a limestone tablet listing the months of the agricultural year, 10th century BCE (Istanbul Archaeology Museums)."
+    role: primary
+
+first-enoch:
+  - file: "File:BL Or 485 f. 102r.png"
+    caption: "Page of a Geʿez (Ethiopic) manuscript of 1 Enoch (British Library, Or. 485, f. 102r)."
+    role: primary
+  - file: "File:P. Chester Beatty XII, leaf 3, verso.jpg"
+    caption: "Leaf of the Greek Chester Beatty–Michigan papyrus containing part of the Epistle of Enoch."
+    role: gallery
+
+first-jewish-revolt:
+  - file: "File:Spoils from Jerusalem - Arch of Titus - Rome 2008.jpg"
+    caption: "Relief on the Arch of Titus in Rome showing the spoils of the Jerusalem temple, including the menorah, carried in Titus's triumph."
+    role: primary
+
+flood-traditions:
+  - file: "File:British Museum Flood Tablet 1.jpg"
+    caption: "Tablet XI of the Gilgamesh Epic, the \"Flood Tablet\", from Nineveh (British Museum)."
+    role: primary
+  - file: "File:Fragment of the Babylonian flood story Epic of Atrahasis, Akkadian, Mesopotamia, First Dynasty of Babylon, reign of King Ammi-saduqa, c. 1646-1626 BC, clay- Morgan Library & Museum - New York City - DSC06597.jpg"
+    caption: "Fragment of the Atrahasis flood story, Old Babylonian period, reign of Ammi-ṣaduqa (Morgan Library & Museum, New York)."
+    role: gallery
+
+footstool:
+  - file: "File:Right Section of the Treasury Reliefs (4735541667).jpg"
+    caption: "Treasury relief from Persepolis showing the enthroned Achaemenid king with his feet on a footstool (National Museum of Iran, Tehran)."
+    role: primary

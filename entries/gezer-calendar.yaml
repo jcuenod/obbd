@@ -1,0 +1,84 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: gezer-calendar
+title: Gezer Calendar
+type: artifact
+cultures: [hebrew]
+date:
+  from: -950
+  to: -950
+  circa: true
+  display: c. 950 BCE
+scope: >-
+  A small limestone tablet from Gezer (found 1908) listing the months of the agricultural
+  year by their main tasks, from ingathering and sowing to summer fruit. It is one of the
+  earliest substantial alphabetic inscriptions from the southern Levant.
+passages:
+- ref: Exod 23:16
+  rel: practice
+  note: Festival of ingathering (ʾāsîp) at the year's end; the calendar opens with ʾsp
+- ref: Exod 34:22
+  rel: language
+  note: Ingathering 'at the turn of the year' (tĕqûpat haššānâ)
+- ref: Deut 16:9-15
+  rel: practice
+  note: Harvest festivals timed by the agricultural cycle
+- ref: Ruth 1:22; 2:23
+  rel: setting
+  note: Barley harvest followed by wheat harvest, as in the calendar's sequence
+- ref: Amos 7:1
+  rel: language
+  note: leqeš, the late growth; cf. the calendar's 'two months of late sowing' (lqš)
+- ref: Lev 25:3-4
+  rel: language
+  note: zāmar 'to prune' vines; cf. the calendar's month of pruning (zmr)
+- ref: Amos 8:1-2
+  rel: language
+  note: qayiṣ 'summer fruit', the calendar's final month (qṣ), used in a wordplay with 'end'
+related: [gezer, agriculture-and-farming, festivals-agricultural, calendars-and-month-names,
+  writing-and-literacy, paleo-hebrew-script, scribes-and-scribal-education]
+location:
+  institution: Istanbul Archaeology Museums
+  accession: null
+media:
+- id: agriculture-and-farming
+  role: gallery
+- id: calendars-and-month-names
+  role: gallery
+external:
+  wikipedia: Gezer calendar
+  wikidata: Q1031406
+editorial:
+  author_notes:
+  - >-
+    Found in 1908 by R. A. S. Macalister. It came from a disturbed context, so the 10th-century
+    date rests on palaeography.
+  - >-
+    The language and script are debated: early Hebrew, Phoenician, or a southern Canaanite
+    dialect. The forms in -w (yrḥw) may be duals or suffixed forms.
+  - >-
+    Its purpose is uncertain: a scribal exercise (the tablet is a palimpsest), a mnemonic
+    song, or an administrative schedule. Do not present it as an Israelite cultic calendar.
+  - >-
+    The marginal name ʾbyw (Abijah?) is sometimes read as the scribe's signature. The reading
+    is uncertain.
+  sources_to_check:
+  - KAI 182
+  - COS 2.85
+  - ANET 320
+  - Dobbs-Allsopp et al., Hebrew Inscriptions (2005)
+  - Talmon, JAOS 83 (1963)
+  image_query: Gezer calendar Istanbul Archaeology Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

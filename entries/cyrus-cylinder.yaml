@@ -1,0 +1,89 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: cyrus-cylinder
+title: Cyrus Cylinder
+type: artifact
+cultures: [persian, babylonian]
+date:
+  from: -539
+  to: -538
+  circa: true
+  display: c. 539–538 BCE
+scope: >-
+  Inscribed clay barrel cylinder in Akkadian cuneiform, found at Babylon in 1879, issued in
+  the name of Cyrus II after his capture of Babylon in 539 BCE. It presents Cyrus as chosen
+  by Marduk to replace the impious Nabonidus and records the return of divine images and displaced
+  peoples to their sanctuaries.
+passages:
+- ref: Isa 44:28-45:7
+  rel: concept
+  note: Cyrus called by name and his hand grasped by the deity; cf. Marduk choosing Cyrus
+- ref: Ezra 1:1-4
+  rel: parallel
+  note: Cyrus's decree permitting return and temple rebuilding; comparable restoration policy
+- ref: Ezra 6:3-5
+  rel: parallel
+  note: Aramaic memorandum of Cyrus on rebuilding the Jerusalem temple
+- ref: 2Chr 36:22-23
+  rel: parallel
+  note: Cyrus charged by the God of heaven to build him a house
+- ref: Ezra 1:7-11
+  rel: practice
+  note: Return of temple vessels; cf. the Cylinder's return of divine images to their shrines
+- ref: Dan 5:30-31
+  rel: event
+  note: Fall of Babylon; Daniel assigns the kingdom to Darius the Mede (5:31 = MT 6:1)
+related: [cyrus-the-great, fall-of-babylon-539, nabonidus-chronicle, verse-account-of-nabonidus,
+  marduk, persian-imperial-authorization, babylon]
+location:
+  institution: British Museum, London
+  accession: 90920 (British Museum)
+media:
+- id: cyrus-cylinder
+  role: primary
+external:
+  wikipedia: Cyrus Cylinder
+  wikidata: Q405008
+editorial:
+  author_notes:
+  - >-
+    Present the text as a Babylonian royal building inscription in Mesopotamian tradition
+    (it even cites an inscription of Ashurbanipal), written to legitimate Cyrus before a Babylonian
+    audience.
+  - >-
+    Correct the popular claim that it is a 'charter of human rights'; the restorations it
+    describes are pragmatic imperial policy toward Mesopotamian cult centres.
+  - >-
+    The Cylinder does not mention Judah, Jerusalem, or Jews. The link to Ezra 1 is an analogy
+    of policy, not direct attestation of the biblical decree.
+  - >-
+    Note the debate over the authenticity of Ezra's decrees: the Aramaic memorandum (Ezra
+    6:3-5) is more often defended than the Hebrew edict (Ezra 1:2-4).
+  - >-
+    Mention the joined Yale fragment and the cuneiform tablet copies of the same text identified
+    in the British Museum in 2010.
+  sources_to_check:
+  - ANET 315-316
+  - COS 2.124
+  - >-
+    I. Finkel (ed.), The Cyrus Cylinder: The King of Persia's Proclamation from Ancient Babylon
+    (2013)
+  - 'A. Kuhrt, The Persian Empire: A Corpus of Sources from the Achaemenid Period (2007)'
+  image_query: Cyrus Cylinder British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added accession from Wikidata Q405008 (verify).
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

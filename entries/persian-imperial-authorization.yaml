@@ -1,0 +1,73 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: persian-imperial-authorization
+title: Persian Imperial Authorization (Reichsautorisation)
+aliases: [Reichsautorisation, Imperial authorization]
+type: concept
+cultures: [persian]
+scope: >-
+  The hypothesis, associated with Peter Frei, that the Achaemenid administration ratified
+  local norms so that they became binding imperial law, and that the Torah's promulgation
+  in Yehud was such a case. The entry covers the thesis, its evidence (Letoon trilingual,
+  Demotic Chronicle, Elephantine Passover letter, Ezra 7), and its critique.
+passages:
+- ref: Ezra 7:25-26
+  rel: concept
+  note: '''The law of your God and the law of the king'' enforced by royal sanction'
+- ref: Ezra 7:12-26
+  rel: concept
+  note: Artaxerxes' rescript commissioning Ezra to implement the divine law
+- ref: Ezra 7:12, 14, 21
+  rel: language
+  note: dāt 'law', a Persian loanword
+- ref: Ezra 6:3-12
+  rel: concept
+  note: Royal authorization of temple rebuilding and its cult
+- ref: Neh 8:1-8
+  rel: setting
+  note: Public promulgation of the Torah under Persian-appointed leaders
+- ref: Esth 1:19; 8:8
+  rel: concept
+  note: Irrevocable 'laws of the Persians and Medes' (literary motif)
+- ref: Dan 6:8, 12, 15
+  rel: concept
+  note: Unalterable law of the Medes and Persians (MT 6:9, 13, 16)
+related: [udjahorresnet-statue, elephantine-passover-letter, artaxerxes-i, persia, cyrus-cylinder,
+  yehud-province, ane-law-collections]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    State Frei's thesis (1984; 2nd ed. 1996) precisely. Note that most specialists now reject
+    the strong form: there was no attested legal mechanism for authorizing local codes.
+  - >-
+    Evaluate the key evidence: the Letoon trilingual (Xanthos, 337 BCE) concerns a local cult
+    foundation, not a law code. The Demotic Chronicle's report of Darius codifying Egyptian
+    law is late and debated.
+  - >-
+    A weaker version (Persian interest in local order, combined with local elites' use of
+    imperial backing) remains influential in Pentateuch-formation debates.
+  - >-
+    Note that the irrevocability of Persian law (Esther, Daniel) has no support in Achaemenid
+    sources.
+  sources_to_check:
+  - >-
+    J. W. Watts (ed.), Persia and Torah: The Theory of Imperial Authorization of the Pentateuch
+    (2001)
+  - >-
+    P. Frei and K. Koch, Reichsidee und Reichsorganisation im Perserreich (OBO 55, 1984; 2nd
+    ed. 1996)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

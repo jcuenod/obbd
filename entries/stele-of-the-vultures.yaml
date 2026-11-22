@@ -1,0 +1,85 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: stele-of-the-vultures
+title: Stele of the Vultures
+type: artifact
+cultures: [sumerian]
+date:
+  from: -2450
+  to: -2450
+  circa: true
+  display: c. 2450 BCE
+scope: >-
+  The fragmentary limestone victory stele of Eannatum of Lagash commemorating his defeat of
+  Umma in a long-running border dispute. One face shows the god Ningirsu holding the enemy
+  in a great battle-net; the other shows Eannatum's phalanx and vultures carrying off the
+  dead. The inscription includes oaths sworn by Umma's ruler.
+passages:
+- ref: Ezek 17:19-20
+  rel: imagery
+  note: Broken oath answered by God spreading his net over the oath-breaker
+- ref: Ezek 12:13
+  rel: imagery
+  note: YHWH spreads his net over the king of Judah
+- ref: Ezek 32:3
+  rel: imagery
+  note: Divine net thrown over Pharaoh
+- ref: Hos 7:12
+  rel: imagery
+  note: God casts a net over Ephraim like birds
+- ref: Lam 1:13
+  rel: imagery
+  note: God spreads a net for the speaker's feet
+- ref: Hab 1:15-17
+  rel: imagery
+  note: The Chaldean conqueror gathers nations in his net
+- ref: 1Sam 17:44, 46
+  rel: imagery
+  note: Enemies' corpses given to the birds of the air
+related: [divine-warrior, oaths-and-oath-formulas, boundary-markers, conquest-accounts-and-war-rhetoric,
+  treatment-of-captives, kudurru]
+location:
+  institution: Musée du Louvre, Paris
+  accession: null
+media:
+- id: stele-of-the-vultures
+  role: primary
+- id: stele-of-the-vultures-2
+  role: gallery
+external:
+  wikipedia: Stele of the Vultures
+  wikidata: Q1088425
+editorial:
+  author_notes:
+  - >-
+    Fragments were recovered at Tello (Girsu) from 1881; the reconstruction and the order
+    of the registers involve some uncertainty.
+  - >-
+    The net is a weapon of the gods by which oath-breakers are caught; this is the closest
+    ANE analogue to Ezek 17:19-20, where net and broken oath appear together.
+  - >-
+    The Lagash-Umma border conflict is one of the earliest documented interstate disputes,
+    with treaty-like oaths sworn by several gods.
+  - >-
+    Keep the comparison at the level of shared imagery; there is no route of literary transmission
+    from a third-millennium Sumerian stele to Ezekiel.
+  sources_to_check:
+  - RIME 1 (Frayne, Presargonic Period, 2008), Eannatum inscriptions
+  image_query: Stele of the Vultures Louvre
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: 'Passage tags checked against WEB text: removed weak Deut 19:14 tag'
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

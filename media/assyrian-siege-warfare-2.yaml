@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: assyrian-siege-warfare-2
+file: assyrian-siege-warfare-2.jpg
+title: Capture of Lachish - ramps and battle engines.jpg
+caption: >-
+  Assault on Lachish with siege ramps and battering engines, relief from Sennacherib's palace
+  at Nineveh, c. 700 BCE (British Museum, London).
+description: >-
+  Bas-relief from the south-west palace of Nineveh, on the taking of Lachish. Scene representing
+  the assault on the city walls: Assyrian troops have built artificial ramps on which they
+  advance, siege-engines leading the way for the foot soldiers. Panel 7 in Room XXXVI, c.
+  700-692 BC.
+creator: Zunkir
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Zunkir, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Capture_of_Lachish_-_ramps_and_battle_engines.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/8/88/Capture_of_Lachish_-_ramps_and_battle_engines.jpg
+  sha1: a377eba664437fc74107430a2f808d82d1d83839
+  original_size: [4679, 4000]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1368 px
+size: [1600, 1368]
+depicts: [assyrian-siege-warfare, lachish-reliefs]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: nabonidus-cylinders
+title: Nabonidus Inscriptions (Ur and Sippar Cylinders, Harran Stelae)
+aliases: [Cylinders of Nabonidus, Nabonidus Cylinder from Ur, Nabonidus Cylinder from Sippar]
+type: artifact
+cultures: [babylonian]
+date:
+  from: -555
+  to: -540
+  circa: true
+  display: c. 555–540 BCE
+scope: >-
+  Clay foundation cylinders of Nabonidus, last king of Babylon, recording his restoration
+  of temples. They include the Ur cylinders on the ziggurat of Sin, which end with a prayer
+  for his eldest son Belshazzar, and the Sippar cylinder on the rebuilding of the Ehulhul
+  temple of Sin at Harran.
+passages:
+- ref: Dan 5:1-2
+  rel: attests
+  note: Belshazzar (Bēl-šarra-uṣur), eldest son of Nabonidus, named in a royal prayer
+- ref: Dan 7:1; 8:1
+  rel: attests
+  note: Belshazzar as ruler in Babylon
+- ref: Dan 5:2, 11, 18, 22
+  rel: attests
+  note: Daniel calls Belshazzar Nebuchadnezzar's 'son'; the inscriptions name Nabonidus
+- ref: Gen 11:31-32
+  rel: setting
+  note: Ur and Harran, moon-god cities whose temples Nabonidus restored
+related: [nabonidus, belshazzar, sin-moon-god, harran, ur, ziggurat, verse-account-of-nabonidus]
+location:
+  institution: British Museum, London (Ur and Sippar cylinders); other copies elsewhere
+  accession: null
+media:
+- id: belshazzar
+  role: gallery
+- id: nabonidus-2
+  role: gallery
+- id: nabonidus-cylinders
+  role: gallery
+external:
+  wikipedia: Cylinders of Nabonidus
+  wikidata: Q673319
+editorial:
+  author_notes:
+  - >-
+    Discovered at Ur in the 1850s; the prayer for Belshazzar answered 19th-c. scepticism about
+    his existence. The 'son of Nebuchadnezzar' language in Dan 5 may be a dynastic idiom or
+    reflect later tradition; present the options.
+  - >-
+    The Sippar cylinder narrates a dream in which Marduk orders the Harran temple rebuilt
+    and mentions Cyrus's defeat of Astyages; useful for Nabonidus's devotion to Sin.
+  - >-
+    Nabonidus's antiquarian interest (searching for older foundation deposits, e.g. Naram-Sin's)
+    is a distinctive feature of these texts.
+  - Do not confuse with the Cyrus Cylinder.
+  sources_to_check:
+  - H. Schaudig, Die Inschriften Nabonids von Babylon und Kyros' des Großen (AOAT 256, 2001)
+  image_query: Nabonidus cylinder Ur British Museum
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Gen 11:31-32 note now names Ur and Harran as the
+    moon-god cities Nabonidus restored
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-1-sol

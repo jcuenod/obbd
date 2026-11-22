@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: eshmunazar-sarcophagus
+file: eshmunazar-sarcophagus.jpg
+title: Eshmunazar II sarcophagus (cleaned up).jpg
+caption: >-
+  The basalt sarcophagus of Eshmunazar II of Sidon with its Phoenician inscription on the
+  lid, 5th century BCE (Musée du Louvre).
+description: Eshmunazar II sarcophagus (cleaned up)
+creator: Onceinawhile
+credit_line: This image has been extracted from another file
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Onceinawhile, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Eshmunazar_II_sarcophagus_(cleaned_up).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/b/ba/Eshmunazar_II_sarcophagus_%28cleaned_up%29.jpg
+  sha1: d4d2dab1e7a08433999eef59edcce4e20e733d78
+  original_size: [1561, 2823]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 885×1600 px
+size: [885, 1600]
+depicts: [eshmunazar-sarcophagus]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

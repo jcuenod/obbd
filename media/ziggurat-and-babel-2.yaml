@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: ziggurat-and-babel-2
+file: ziggurat-and-babel-2.gif
+title: Etemenanki drawing.gif
+caption: Modern reconstruction drawing of Etemenanki after H. Schmid.
+description: >-
+  Etemenanki's Reconstruction, based on Hansjörg Schmid, Der Tempelturm ("The Temple Tower")
+  Etemenanki, in Babylon (C.E.1995 (H.E.11,995) Mainz).
+creator: Jona Lendering at en.wikipedia
+credit_line: Transferred from en.wikipedia
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Jona Lendering at en.wikipedia. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Etemenanki_drawing.gif
+  original_url: https://upload.wikimedia.org/wikipedia/commons/8/83/Etemenanki_drawing.gif
+  sha1: 7c871ca2ca1e434545363c09fcd0bde958cf6721
+  original_size: [832, 716]
+  retrieved: '2026-11-20'
+derivative: null
+size: [832, 716]
+depicts: [ziggurat-and-babel]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

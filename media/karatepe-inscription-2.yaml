@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: karatepe-inscription-2
+file: karatepe-inscription-2.jpg
+title: Karatepe Azatiwada inscription Luwian text 5253.jpg
+caption: Hieroglyphic Luwian text of the Azatiwada bilingual, Karatepe-Aslantaş.
+description: >-
+  The Karatepe bilingual (8th century BC), also known as the Azatiwada inscription, is a bilingual
+  inscription on stone slabs consisting of Phoenician and Luwian text each, which enabled
+  the decryption of the Anatolian hieroglyphs. One of a set of pictures, not trying to cover
+  the whole, and with attention mainly of the Luwian hieroglyphs (only one picture of the
+  Phoenician side).
+creator: Dosseman
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Dosseman, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Karatepe_Azatiwada_inscription_Luwian_text_5253.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/2/25/Karatepe_Azatiwada_inscription_Luwian_text_5253.jpg
+  sha1: 54b660b19ee234e3cd35fbc126c953678087b531
+  original_size: [4256, 2832]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1065 px
+size: [1600, 1065]
+depicts: [karatepe-inscription]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

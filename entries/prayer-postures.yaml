@@ -1,0 +1,85 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: prayer-postures
+title: Prayer Postures and Gestures
+aliases: [Gestures of prayer, Orant posture]
+type: practice
+cultures: [ane]
+scope: >-
+  The bodily postures and gestures of prayer in the Hebrew Bible: standing, kneeling, spreading
+  or lifting the hands, bowing, and orientation toward the sanctuary. These are compared with
+  ancient Near Eastern texts and orant iconography. Full prostration is treated in a separate
+  entry.
+passages:
+- ref: Exod 9:29, 33
+  rel: practice
+  note: Moses spreads out his palms (kappayim) to YHWH
+- ref: Exod 17:11-12
+  rel: practice
+  disputed: true
+  note: Moses' raised hands decide the battle; prayer or wonder-working gesture debated
+- ref: 1Sam 1:26
+  rel: practice
+  note: Hannah standing to pray
+- ref: 1Kgs 8:22, 54
+  rel: practice
+  note: Solomon stands, then kneels, with hands spread toward heaven
+- ref: 1Kgs 8:38
+  rel: practice
+  note: Prayer with hands spread toward the temple
+- ref: Ps 28:2
+  rel: practice
+  note: Lifting hands toward the inner sanctuary
+- ref: Ps 63:4; 134:2; 141:2
+  rel: practice
+  note: Lifted hands in prayer; 'lifting of my hands as an evening sacrifice' (MT 63:5)
+- ref: Lam 2:19
+  rel: practice
+  note: Lift your hands to him for your children
+- ref: Ezra 9:5
+  rel: practice
+  note: Falling on the knees and spreading hands
+- ref: Dan 6:10
+  rel: practice
+  note: Kneeling three times a day toward Jerusalem (MT 6:11)
+- ref: 1Kgs 18:42
+  rel: practice
+  note: Elijah crouches with his face between his knees
+- ref: 1Tim 2:8
+  rel: practice
+  note: Lifting holy hands
+related: [prostration-and-obeisance, mesopotamian-lament-prayers, kuntillet-ajrud-inscriptions,
+  hazor, statue-of-gudea, temple-as-cosmos]
+media:
+- id: prayer-postures
+  role: primary
+external:
+  wikipedia: Orans
+  wikidata: Q366348
+editorial:
+  author_notes:
+  - >-
+    Akkadian prayer vocabulary is built on gesture: nīš qāti 'lifting of the hand' and the
+    šuʾila ('hand-lifting') prayer genre. M. Gruber, Aspects of Nonverbal Communication in
+    the Ancient Near East (1980), is the standard study.
+  - >-
+    Iconographic comparanda include the Hazor Area C stele with raised hands beneath a crescent,
+    worshippers with raised arms on the Kuntillet ʿAjrud pithos, Mesopotamian worshipper statues,
+    and the Egyptian 'adoration' gesture.
+  - >-
+    Standing seems to be the default posture in Hebrew prayer. Kneeling and orientation toward
+    the temple or Jerusalem are emphasized in later texts (1 Kgs 8; Dan 6).
+  image_query: Hazor stelae shrine raised hands
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

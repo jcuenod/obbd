@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: tahpanhes-2
+file: tahpanhes-2.jpg
+title: Saqqara Phoenician letter (KAI 50).jpg
+caption: >-
+  Phoenician papyrus letter (KAI 50) found at Saqqara and sent from Tahpanhes, c. 6th century
+  BCE (1940 publication scan).
+description: >-
+  KAI 50, a Phoenician letter found in Saqqara sent form Tahpanhes, around 6th century BC.
+  This scan was pulbished in 1940 by Noël Aimé-Giron.
+creator: Unknown authorUnknown author
+credit_line: >-
+  Noël Aimé-Giron, "Ba'al Saphon et les dieux de Tahpanhès dans un nouveau papyrus phénicien",
+  Annales du Service des Antiquités de l'Égypte vol. 40, fasc. 2, pl. XL (see file here)
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Unknown authorUnknown author. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Saqqara_Phoenician_letter_(KAI_50).jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/4e/Saqqara_Phoenician_letter_%28KAI_50%29.jpg
+  sha1: 21bd7b3b6173b065e9edb09bb50bacb4fdfc6f0d
+  original_size: [1807, 1401]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1241 px
+size: [1600, 1241]
+depicts: [tahpanhes]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

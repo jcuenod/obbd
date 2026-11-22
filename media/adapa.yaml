@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: adapa
+file: adapa.jpg
+title: >-
+  Fragment of the Epic of Adapa, Akkadian, Mesopotamia, Neo-Assyrian period, c. 7th century
+  BC, clay - Morgan Library & Museum - New York City - DSC06601.jpg
+caption: >-
+  Clay fragment of the Adapa myth from the library of Ashurbanipal, Neo-Assyrian, 7th century
+  BCE (Morgan Library & Museum, New York).
+description: >-
+  Fragment A (MLC 1296) of the Myth of Adapa discovered in the Library of Assurbanipal. 7th
+  century BC (Neo-Assyrian era). Morgan Library & Museum - New York City, New York, United
+  States.
+creator: Daderot
+credit_line: Own work
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Daderot. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Fragment_of_the_Epic_of_Adapa,_Akkadian,_Mesopotamia,_Neo-Assyrian_period,_c._7th_century_BC,_clay_-_Morgan_Library_%26_Museum_-_New_York_City_-_DSC06601.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/4f/Fragment_of_the_Epic_of_Adapa%2C_Akkadian%2C_Mesopotamia%2C_Neo-Assyrian_period%2C_c._7th_century_BC%2C_clay_-_Morgan_Library_%26_Museum_-_New_York_City_-_DSC06601.jpg
+  sha1: 64f1de825825d3c6fb64d5e04dab60d5ef962c80
+  original_size: [2820, 2551]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1448 px
+size: [1600, 1448]
+depicts: [adapa]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

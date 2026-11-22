@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: afterlife-and-resurrection
+file: afterlife-and-resurrection.jpg
+title: BD Weighing of the Heart.jpg
+caption: >-
+  The weighing of the heart before Osiris in the Book of the Dead of Ani, papyrus, Nineteenth
+  Dynasty (British Museum, London).
+description: >-
+  The Weighing of the Heart from the Book of the Dead of Ani. At left, Ani and his wife Tutu
+  enter the assemblage of gods. At center, Anubis weighs Ani's heart against the feather of
+  Maat, observed by the goddesses Renenutet and Meshkenet, the god Shay, and Ani's own ba.
+  At right, the monster Ammut, who will devour Ani's soul if he is unworthy, awaits the verdict,
+  while the god Thoth prepares to record it. At top are gods acting as judges: Hu and Sia,
+  Hathor, Horus, Isis and Nephthys, Nut, Geb, Tefnut, Shu, Atum, and Ra-Horakhty.
+creator: Photographed by the British Museum; original artist unknown
+credit_line: 'Eternal Egypt: Masterworks of Ancient Art from the British Museum by Edna R.
+  Russmann'
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: >-
+  Photographed by the British Museum; original artist unknown. Public domain, via Wikimedia
+  Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:BD_Weighing_of_the_Heart.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/e/ee/BD_Weighing_of_the_Heart.jpg
+  sha1: a13ce53d627586628157faf0e15cd2ffcb8ddced
+  original_size: [3364, 1732]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×824 px
+size: [1600, 824]
+depicts: [afterlife-and-resurrection, book-of-the-dead, hardening-of-the-heart]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

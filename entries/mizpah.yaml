@@ -1,0 +1,86 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: mizpah
+title: Mizpah (Tell en-Nasbeh)
+aliases: [Tell en-Nasbeh, Mizpah of Benjamin]
+type: site
+cultures: [judahite, babylonian]
+scope: >-
+  Mizpah of Benjamin, usually identified with Tell en-Nasbeh, a fortified border town of Judah
+  that became the seat of Babylonian administration after 586 BCE. Other places named Mizpah
+  (Gilead, Moab) are excluded.
+passages:
+- ref: Judg 20:1-3
+  rel: setting
+  note: The tribes assemble at Mizpah
+- ref: 1Sam 7:5-16
+  rel: setting
+  note: Samuel's assembly; Mizpah on his judging circuit
+- ref: 1Sam 10:17-25
+  rel: setting
+  note: Saul chosen by lot at Mizpah
+- ref: 1Kgs 15:22
+  rel: attests
+  disputed: true
+  note: Asa fortifies Mizpah; the massive Iron II city wall
+- ref: 2Kgs 25:22-25
+  rel: setting
+  note: Gedaliah governs from Mizpah and is murdered
+- ref: 2Kgs 25:23
+  rel: attests
+  disputed: true
+  note: Jaazaniah; seal of 'Yaazanyahu, servant of the king' from a tomb at the site
+- ref: Jer 40:6-41:18
+  rel: setting
+  note: Gedaliah's administration at Mizpah and Ishmael's massacre
+- ref: Neh 3:7, 15, 19
+  rel: setting
+  note: Mizpah as a district seat in the Persian-period province
+- ref: 1Macc 3:46
+  rel: setting
+  note: The Maccabees assemble at Mizpah
+related: [babylonian-exile, fall-of-jerusalem-587, yehud-province, seals-and-bullae, gibeon,
+  bethel]
+media:
+- id: mizpah
+  role: primary
+- id: mizpah-2
+  role: gallery
+external:
+  wikipedia: Tell en-Nasbeh
+  wikidata: Q7697543
+  pleiades: '666067876'
+editorial:
+  author_notes:
+  - >-
+    Tell en-Nasbeh is the majority identification. Nebi Samwil has been proposed (Magen) but
+    is less widely accepted.
+  - >-
+    Badè's excavations (1926-35) were reanalysed by Zorn, who identified a Babylonian-period
+    stratum with new administrative buildings. This is key for Judah after 586.
+  - >-
+    Finds include the Jaazaniah seal with a cockerel, and m(w)ṣh stamp impressions, probably
+    'Mozah', from the Babylonian period.
+  sources_to_check: [NEAEHL]
+  image_query: Tell en-Nasbeh
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: Added coordinates, Pleiades id from Wikidata Q7697543 (verify).
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-1-sol
+coordinates:
+  lat: 31.88514
+  lon: 35.21642
+  source: wikidata:Q7697543

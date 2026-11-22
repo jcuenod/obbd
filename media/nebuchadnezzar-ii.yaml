@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: nebuchadnezzar-ii
+file: nebuchadnezzar-ii.jpg
+title: >-
+  Detail. Fire mudbrick, stamped. The cuneiform inscription mentions the name and titles of
+  Nebuchadnezzar II, king of Babylon, r. 604-561 BCE. From Babylon, Iraq. British Museum.jpg
+caption: >-
+  Fired brick from Babylon stamped with the name and titles of Nebuchadnezzar II (British
+  Museum).
+description: >-
+  Detail. Fired mudbrick, stamped. Akkadian inscription. The cuneiform inscription mentions
+  the name and titles of Nebuchadnezzar II, king of Babylon, r. 604-561 BCE. From Babylon,
+  Iraq. British Museum, London.
+creator: Osama Shukir Muhammed Amin FRCP(Glasg)
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Osama Shukir Muhammed Amin FRCP(Glasg), CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Detail._Fire_mudbrick,_stamped._The_cuneiform_inscription_mentions_the_name_and_titles_of_Nebuchadnezzar_II,_king_of_Babylon,_r._604-561_BCE._From_Babylon,_Iraq._British_Museum.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/3/35/Detail._Fire_mudbrick%2C_stamped._The_cuneiform_inscription_mentions_the_name_and_titles_of_Nebuchadnezzar_II%2C_king_of_Babylon%2C_r._604-561_BCE._From_Babylon%2C_Iraq._British_Museum.jpg
+  sha1: b6624f5652d47ff8f49dbd7c3f73ffd0a491475f
+  original_size: [6016, 4016]
+  retrieved: '2026-11-20'
+derivative: Downscaled to 1600×1068 px
+size: [1600, 1068]
+depicts: [nebuchadnezzar-ii]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

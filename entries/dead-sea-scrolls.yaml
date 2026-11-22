@@ -1,0 +1,93 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: dead-sea-scrolls
+title: Dead Sea Scrolls
+aliases: [Qumran Scrolls]
+type: text
+cultures: [jewish]
+date:
+  from: -250
+  to: 68
+  circa: true
+  display: c. 250 BCE–68 CE
+scope: >-
+  The roughly 900+ manuscripts recovered between 1947 and 1956 from eleven caves near Qumran,
+  copied between about 250 BCE and 68 CE: biblical scrolls, parabiblical literature, and the
+  writings of a sectarian community. This hub entry also notes related Judean Desert finds;
+  individual scrolls have their own entries.
+passages:
+- ref: Isa 40:3
+  rel: concept
+  note: Wilderness 'way' applied to the community's Torah study (1QS 8:13-16)
+- ref: Mark 1:2-4
+  rel: parallel
+  note: John the Baptist in the wilderness, framed by Isa 40:3 as in the Community Rule
+- ref: Deut 32:8
+  rel: language
+  note: 4QDeut-j reads 'sons of God' against MT 'sons of Israel'
+- ref: 1Sam 10:27
+  rel: language
+  note: 4QSam-a preserves a paragraph on Nahash's oppression absent from MT
+- ref: 1Sam 17:4
+  rel: language
+  note: 4QSam-a gives Goliath's height as four cubits and a span, agreeing with LXX
+- ref: Jer 10:1-11
+  rel: language
+  note: 4QJer-b attests the shorter, differently ordered text known from LXX
+- ref: Ps 145:13
+  rel: language
+  note: 11QPs-a preserves the nun-line missing from MT's acrostic
+- ref: 2Cor 6:14-7:1
+  rel: parallel
+  disputed: true
+  note: Light/darkness and Belial (Beliar) vocabulary close to sectarian texts
+related: [qumran, great-isaiah-scroll, community-rule, 4qdeut-j, pesher-habakkuk, jewish-sects,
+  septuagint, forgeries-in-biblical-archaeology]
+location:
+  institution: >-
+    Mainly the Israel Museum (Shrine of the Book) and the Israel Antiquities Authority, Jerusalem;
+    some in the Jordan Museum, Amman
+  accession: null
+media:
+- id: dead-sea-scrolls
+  role: primary
+- id: dead-sea-scrolls-2
+  role: gallery
+external:
+  wikipedia: Dead Sea Scrolls
+  wikidata: Q145780
+editorial:
+  author_notes:
+  - >-
+    Biblical manuscripts (over 200) cover every book of the Hebrew Bible except Esther. They
+    show textual plurality (proto-MT, pre-Samaritan, LXX-Vorlage, non-aligned); present Tov's
+    and Ulrich's models.
+  - >-
+    The Essene identification of the Qumran community is the majority view. Note the alternatives
+    (Golb; debates over the site's archaeology) and that many scrolls were brought from elsewhere.
+  - >-
+    Correct misconceptions: there are no New Testament texts at Qumran (the 7Q5 = Mark claim
+    is rejected), and the post-2002 unprovenanced 'DSS fragments' (e.g. those of the Museum
+    of the Bible) are largely forgeries.
+  - Explain how scrolls are dated, by palaeography and AMS radiocarbon.
+  sources_to_check:
+  - Discoveries in the Judaean Desert (DJD), 40 vols. (1955-2010)
+  - E. Tov, Textual Criticism of the Hebrew Bible (3rd ed., 2012)
+  - >-
+    F. García Martínez and E. J. C. Tigchelaar, The Dead Sea Scrolls Study Edition, 2 vols.
+    (1997-98)
+  - M. Abegg, P. Flint, and E. Ulrich, The Dead Sea Scrolls Bible (1999)
+  image_query: Qumran Cave 4
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: drafted
+  by: gpt-6-codex

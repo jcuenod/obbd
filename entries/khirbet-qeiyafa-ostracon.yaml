@@ -1,0 +1,103 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: khirbet-qeiyafa-ostracon
+title: Khirbet Qeiyafa Ostracon
+aliases: [Qeiyafa Ostracon]
+type: artifact
+cultures: [hebrew]
+date:
+  from: -1020
+  to: -980
+  circa: true
+  display: c. 1020–980 BCE
+scope: >-
+  A five-line ink inscription on a pottery sherd found in 2008 at Khirbet Qeiyafa, written
+  in a late Proto-Canaanite (early alphabetic) script of the late eleventh or early tenth
+  century BCE. The entry covers its script, the disputed language and readings, and what it
+  does and does not show about literacy in early Iron Age Judah; the site, its fortifications
+  and the debate over who built it are treated under khirbet-qeiyafa.
+passages:
+- ref: 1Sam 17:1-3
+  rel: setting
+  note: Found at the fortress overlooking the Elah Valley, the setting of the Goliath story
+- ref: Judg 8:14
+  rel: practice
+  disputed: true
+  note: >-
+    A young man of Succoth writes down the town's officials, cited in debates on early literacy
+- ref: 2Sam 8:17
+  rel: practice
+  disputed: true
+  note: >-
+    A royal scribe in David's court; the ostracon is used in debates on tenth-century administration
+- ref: Exod 22:21-24
+  rel: concept
+  disputed: true
+  note: >-
+    Protection of sojourner, widow and orphan, if Galil's social-justice reading is accepted
+    (MT 22:20-23)
+- ref: Isa 1:17
+  rel: concept
+  disputed: true
+  note: >-
+    'Defend the orphan, plead for the widow', similar wording in the proposed social-justice
+    reading
+related: [khirbet-qeiyafa, writing-and-literacy, ostraca, proto-sinaitic-script, izbet-sartah-abecedary,
+  paleo-hebrew-script, widow-orphan-sojourner, low-chronology-debate]
+media:
+- id: khirbet-qeiyafa-ostracon
+  role: primary
+- id: khirbet-qeiyafa-ostracon-2
+  role: gallery
+external:
+  wikipedia: Khirbet Qeiyafa ostracon
+  wikidata: Q110127727
+editorial:
+  author_notes:
+  - >-
+    Found in 2008 and published by Misgav, Garfinkel and Ganor (2009). The ink is faded, and
+    even the direction of writing and the division of words have been disputed. Recurring
+    legible words include forms of ʿbd ('serve' or 'slave'), špṭ ('judge') and possibly ʾlmn
+    ('widow') and mlk ('king').
+  - >-
+    The readings cannot be reconciled with each other. Galil reads a social-justice text urging
+    care for the slave, widow, orphan and sojourner. Puech reads a text connected with the
+    establishment of kingship. Others see a list of names or a writing exercise. Present them
+    as alternatives and do not build on any one of them.
+  - >-
+    The language is disputed. Galil and Puech argue for Hebrew on lexical grounds (e.g. the
+    verb ʿśh 'do'). Rollston and others hold that the text has too few diagnostic features
+    to separate Hebrew from other Canaanite dialects at this date. Avoid calling it 'the earliest
+    Hebrew inscription' without qualification.
+  - >-
+    It shows that someone at a small fortified town could write around 1000 BCE. It does not
+    by itself demonstrate a Davidic state bureaucracy or widespread literacy. A second inscription
+    from the site, the jar inscription naming ʾšbʿl bn bdʿ (published 2015), is a separate
+    object; compare the name Eshbaal (1Chr 8:33).
+  sources_to_check:
+  - >-
+    H. Misgav, Y. Garfinkel and S. Ganor, 'The Ostracon,' in Y. Garfinkel and S. Ganor, Khirbet
+    Qeiyafa Vol. 1: Excavation Report 2007-2008 (2009)
+  - >-
+    G. Galil, 'The Hebrew Inscription from Khirbet Qeiyafa/Neṭaʿim,' Ugarit-Forschungen 41
+    (2009)
+  - >-
+    É. Puech, 'L'ostracon de Khirbet Qeyafa et les débuts de la royauté en Israël,' Revue
+    Biblique 117 (2010)
+  - >-
+    C. A. Rollston, 'The Khirbet Qeiyafa Ostracon: Methodological Musings and Caveats,' Tel
+    Aviv 38 (2011)
+  image_query: Khirbet Qeiyafa ostracon
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-codex

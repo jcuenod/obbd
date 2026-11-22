@@ -1,0 +1,66 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: marduka-tablet
+title: Marduka Tablet
+type: artifact
+cultures: [babylonian, persian]
+date:
+  from: -500
+  to: -480
+  circa: true
+  display: c. 500–480 BCE
+scope: >-
+  A Babylonian administrative tablet from the late reign of Darius I or early reign of Xerxes
+  that names a Marduka as an official (sipīru) on business from Susa. A. Ungnad published
+  it in 1940-41 as a possible extrabiblical reference to Mordecai.
+passages:
+- ref: Esth 2:5
+  rel: attests
+  disputed: true
+  note: Mordecai, a Judean at the Susa court; possibly the official Marduka of the tablet
+- ref: Esth 2:19, 21
+  rel: attests
+  disputed: true
+  note: Mordecai 'sitting at the king's gate', i.e. holding an office
+- ref: Ezra 2:2
+  rel: language
+  note: 'Mordecai among the returnees: a name formed on Marduk (cf. Neh 7:7)'
+related: [xerxes-i, persepolis-fortification-tablets, susa, marduk, court-officials, murashu-archive]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Marduka was a common name: several are attested in the Persepolis Fortification texts
+    and in Babylonian archives. The identification with Mordecai cannot be shown, and Clines's
+    critique should be presented.
+  - >-
+    At most the evidence shows that the name and type of office are plausible for the Susa
+    court in Xerxes' time; it does not establish Esther's historicity.
+  - >-
+    Discuss Esther's genre (court tale/novella) and known historical difficulties (Queen Amestris;
+    Mordecai's age per Esth 2:6) alongside this evidence.
+  - >-
+    Verify the date, museum, and number of the tablet before publication; the reading of the
+    official title also needs checking.
+  sources_to_check:
+  - D. J. A. Clines, 'In Quest of the Historical Mordecai', VT 41 (1991)
+  image_query: Marduka cuneiform tablet Ungnad
+status: draft
+credits:
+  authors: [gpt-6-1-sol]
+  reviewers: []
+history:
+- date: '2026-11-20'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Scaffolded from the seed list. Passage tags and scope are AI-generated and need expert
+    review.
+- date: '2026-11-20'
+  action: metadata-edited
+  by: claude-opus-5-5
+  note: >-
+    Passage tags checked against WEB text: Esth 2:5 note no longer equates Mordecai with Marduka
+- date: '2026-11-21'
+  action: drafted
+  by: gpt-6-1-sol
