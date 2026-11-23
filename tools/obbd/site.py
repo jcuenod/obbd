@@ -17,13 +17,121 @@ from collections import defaultdict
 from pathlib import Path
 
 from . import bib, refs
-from .common import (DIST, ENTRIES, MEDIA, ROOT, all_entry_ids, contributors, cultures, entry_sections,
+from .common import (DIST, ENTRIES, MEDIA, ROOT, all_entry_ids, contributors, cultures, entry_sections, vocab,
                      entry_types, load_yaml, relations)
 from .review import approval_state
 
 SITE = DIST / "site"
 THUMB = 480
 esc = html.escape
+
+# Client-side reference parser shared by the Passages and Map pages. Needs a global
+# `A` (lower-cased book alias -> OSIS id); returns {b,c1,v1,c2,v2} or null.
+REF_PARSE_JS = r"""function parse(s){const m=s.trim().match(/^((?:[1-4]\s*)?[A-Za-z][A-Za-z .]*?)\.?\s+(\d+)(?::(\d+))?(?:\s*[-–]\s*(\d+)(?::(\d+))?)?$/);if(!m)return null;
+const b=A[m[1].toLowerCase().replace(/\.$/,"")]||A[m[1].toLowerCase().replace(/\s+/g,"")];if(!b)return null;
+let c1=+m[2],v1=m[3]?+m[3]:null,c2=c1,v2=v1;if(m[4]){if(m[5]){c2=+m[4];v2=+m[5]}else if(v1!==null){v2=+m[4]}else{c2=+m[4]}}return{b,c1,v1,c2,v2}}"""
+
+# How strongly each passage relation ties a mapped entry's location to the passage
+# (used to size dots on the map for ?ref=). Disputed tags count at DISPUTED_W.
+MAP_REL_W = {"event": 1.0, "attests": 1.0, "setting": 0.9, "realia": 0.6, "polemic": 0.6, "practice": 0.5,
+             "parallel": 0.5, "language": 0.4, "form": 0.4, "concept": 0.3, "imagery": 0.3}
+DISPUTED_W = 0.6
+# Guessing a passage's period from dated entries tagged to it: only tags that speak to the
+# passage's historical setting count (not literary parallels, imagery, concepts), and only
+# entries dated within ERA_MAX_SPAN years.
+ERA_REL_W = {"event": 1.0, "attests": 1.0, "setting": 0.8, "realia": 0.5, "practice": 0.3}
+ERA_MAX_SPAN = 300
+
+# Map page logic. Globals: P (points with passage spans [book, first, last, weight, display, rel]),
+# OFF (verse offsets), parse(). A place's score for passage Q sums, over its tags T in the same
+# book, weight * overlap(T,Q) / sqrt(|T|*|Q|): a tag that matches Q exactly scores 1, a broad
+# tag (whole book) or a narrow query inside a long tag scores less.
+MAP_JS = r"""const $=s=>document.querySelector(s);
+function esc(s){return String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
+function vabs(b,c,v,end){const o=OFF[b];c=Math.max(1,Math.min(c,o.length-2));return v===null?(end?o[c+1]:o[c]+1):o[c]+v}
+if(!window.L){$("#map").textContent="Map library could not load (offline?)."}else{
+const m=L.map("map");
+L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}",
+  {attribution:"Relief © Esri",maxNativeZoom:13,maxZoom:15}).addTo(m);
+const layer=L.layerGroup().addTo(m), home=()=>m.setView([32,38],5,{animate:false});
+function popup(x){const p=x.p;return `${p.img?`<img src="${p.img}" style="width:180px;border-radius:6px;display:block;margin-bottom:4px">`:""}<a href="entry/${p.id}.html"><b>${esc(p.t)}</b></a>`+
+  (x.hits.length?`<ul>${x.hits.map(h=>`<li>${esc(h[4])} <span class="muted">· ${esc(h[5])}</span></li>`).join("")}</ul><span class="faint">relevance ${x.s.toFixed(2)}</span>`:"")}
+function frame(H){
+  // weighted centre, then drop outliers far beyond the typical distance before fitting
+  const W=H.reduce((a,x)=>a+x.s,0), clat=H.reduce((a,x)=>a+x.s*x.p.lat,0)/W, clon=H.reduce((a,x)=>a+x.s*x.p.lon,0)/W;
+  const k=Math.cos(clat*Math.PI/180), d=H.map(x=>Math.hypot(x.p.lat-clat,(x.p.lon-clon)*k)), ds=[...d].sort((a,b)=>a-b);
+  const lim=Math.max(1.5,3*ds[Math.floor(ds.length/2)]), keep=H.filter((x,i)=>d[i]<=lim);
+  if(keep.length===1)m.setView([keep[0].p.lat,keep[0].p.lon],8,{animate:false});
+  else m.fitBounds(L.latLngBounds(keep.map(x=>[x.p.lat,x.p.lon])),{padding:[50,50],maxZoom:9,animate:false});
+  return H.filter(x=>!m.getBounds().contains([x.p.lat,x.p.lon]))}
+// ---- periods and region labels
+const yr=y=>y<0?`c. ${-y} BCE`:`c. ${y} CE`;
+function estimate(q){
+  // weighted median year of dated entries tagged to the passage's chapters, else to the whole book
+  if(!q)return null;let ys=[],book=false;for(let c=q.c1;c<=q.c2;c++)(CY[q.b+"."+c]||[]).forEach(x=>ys.push(x));
+  if(!ys.length){ys=[...(CY[q.b]||[])];book=true}
+  if(!ys.length)return null;ys.sort((a,b)=>a[0]-b[0]);const W=ys.reduce((a,x)=>a+x[1],0);let acc=0;
+  for(const [y,w] of ys){acc+=w;if(acc>=W/2)return{y,n:ys.length,book}}}
+function period(q){
+  const sel=$("#era").value;if(sel!=="auto"){$("#eranote").textContent="";return PER.find(p=>p.id===sel)}
+  const est=estimate(q), def=PER.find(p=>p.id===(q&&NT.includes(q.b)?"roman":DEFP));
+  if(!est){$("#eranote").textContent=`Regions: ${def.label}`+(q?" (no dated entries tagged to this book, so showing a default period)":"");return def}
+  const p=PER.find(p=>est.y>=p.from&&est.y<p.to)||(est.y<PER[0].from?PER[0]:PER[PER.length-1]);
+  $("#eranote").textContent=`Regions: ${p.label}, estimated from ${est.n} dated tag${est.n==1?"":"s"} on this ${est.book?"book (none on the passage itself)":"passage"} (median ${yr(est.y)})`;return p}
+m.createPane("regions").style.zIndex=350;
+const rlayer=L.layerGroup().addTo(m);let regs=[];
+// zoom range per tier, [min, max]
+const ZR={land:{1:[3,7],2:[5,11],3:[5,12],4:[7,18]},water:{1:[3,8],2:[5,11],3:[6,12],4:[8,18]}};
+function drawRegions(p){rlayer.clearLayers();
+  regs=REG.filter(r=>r.f<p.to&&r.to>p.from).sort((a,b)=>a.t-b.t).map(r=>{const c=`t${r.t} ${r.k}`, txt=esc(r.l);
+    const mk=L.marker([r.lat,r.lon],{pane:"regions",interactive:!!r.e,keyboard:false,
+      icon:L.divIcon({className:"rg",iconSize:null,html:r.e?`<a class="${c}" href="entry/${r.e}.html">${txt}</a>`:`<span class="${c}">${txt}</span>`})}).addTo(rlayer);
+    mk.zr=ZR[r.k][r.t];return mk})}
+// place labels arrive ranked by relevance and win over dots and region labels. A region label that
+// collides is nudged up or down before being hidden; a place label that collides is hidden.
+let labels=[],dots=[];
+function declutter(){const placed=[],z=m.getZoom();
+  const hit=r=>placed.some(p=>r.left<p.right&&p.left<r.right&&r.top<p.bottom&&p.top<r.bottom);
+  const fit=(el,nudge)=>{el.style.visibility="";for(const dy of nudge){el.style.top=dy+"px";const r=el.getBoundingClientRect();if(!hit(r)){placed.push(r);return}}
+    el.style.top="0px";el.style.visibility="hidden"};
+  labels.forEach(t=>{const el=t.getElement();if(el)fit(el,[0])});
+  dots.forEach(d=>{const el=d.getElement();if(el)placed.push(el.getBoundingClientRect())});
+  regs.forEach(mk=>{const el=mk.getElement()?.firstChild;if(!el)return;if(z<mk.zr[0]||z>mk.zr[1])el.style.visibility="hidden";else fit(el,z<=5?[0,-12,12]:z<=7?[0,-14,14,-26,26]:[0,-16,16,-30,30,-44,44])})}
+m.on("zoomend",declutter);
+function draw(){labels=[];dots=[];draw1();declutter()}
+function draw1(){
+  const raw=$("#ref").value.trim(), q=parse(raw), era=$("#era").value;
+  const u=new URL(location);if(raw)u.searchParams.set("ref",raw);else u.searchParams.delete("ref");
+  if(era!=="auto")u.searchParams.set("era",era);else u.searchParams.delete("era");history.replaceState(null,"",u);
+  drawRegions(period(q));
+  layer.clearLayers();
+  let qs=0,qe=0;if(q){qs=vabs(q.b,q.c1,q.v1,0);qe=vabs(q.b,q.c2,q.v2,1)}
+  const S=P.map(p=>{let s=0;const hits=[];if(q)for(const h of p.p){if(h[0]!==q.b)continue;const ov=Math.min(h[2],qe)-Math.max(h[1],qs)+1;
+    if(ov>0){s+=h[3]*ov/Math.sqrt((h[2]-h[1]+1)*(qe-qs+1));hits.push(h)}}return{p,s,hits}});
+  const H=S.filter(x=>x.s>0).sort((a,b)=>b.s-a.s), max=H.length?H[0].s:1;
+  if(!q){
+    P.forEach(p=>L.circleMarker([p.lat,p.lon],{radius:5,color:"#fff",weight:1.2,fillColor:"#8a3b12",fillOpacity:.85}).addTo(layer)
+      .bindTooltip(esc(p.t),{className:"lbl",direction:"right",offset:[5,0]}).bindPopup(popup({p,s:0,hits:[]})));
+    home();
+    $("#count").textContent=raw?"Type a reference like Isa 36 or 2 Kgs 18:13-16":"";return}
+  // context places: small and grey, label on hover
+  S.filter(x=>!x.s).forEach(x=>L.circleMarker([x.p.lat,x.p.lon],{radius:3,color:"#fff",weight:.8,fillColor:"#6d665c",fillOpacity:.55}).addTo(layer)
+    .bindTooltip(esc(x.p.t),{className:"lbl",direction:"right",offset:[3,0]}).bindPopup(popup(x)));
+  // tagged places: biggest first so small dots stay clickable on top
+  labels=H.map(x=>{const f=Math.sqrt(x.s/max), r=4+12*f;
+    return L.circleMarker([x.p.lat,x.p.lon],{radius:r,color:"#fff",weight:1.5,fillColor:"#8a3b12",fillOpacity:.55+.35*f})
+      .bindTooltip(`<span style="font-size:${(11+6*f).toFixed(1)}px">${esc(x.p.t)}</span>`,{permanent:true,className:"lbl",direction:"right",offset:[r,0],opacity:1})
+      .bindPopup(popup(x)).addTo(layer)});
+  dots=labels;labels=dots.map(d=>d.getTooltip());
+  if(!H.length){home();$("#count").textContent=`No mapped entries are tagged to ${raw}.`;return}
+  const off=frame(H);
+  $("#count").textContent=`${H.length} of ${P.length} mapped entries tagged to ${raw}`+(off.length?` · outside this view: ${off.map(x=>x.p.t).join(", ")}`:"");
+}
+let t;$("#ref").addEventListener("input",()=>{clearTimeout(t);t=setTimeout(draw,300)});
+$("#era").addEventListener("input",draw);
+document.querySelectorAll(".mapex a").forEach(a=>a.addEventListener("click",()=>{$("#ref").value=a.dataset.r;draw()}));
+const qp=new URLSearchParams(location.search);if(PER.some(p=>p.id===qp.get("era")))$("#era").value=qp.get("era");
+$("#ref").value=qp.get("ref")||decodeURIComponent(location.hash.slice(1));draw()}"""
 
 
 # ------------------------------------------------------------------ markdown
@@ -681,9 +789,7 @@ draw();
 const R={json.dumps(allrows, ensure_ascii=False)};const A={json.dumps(aliases)};
 const $=s=>document.querySelector(s);
 function esc(s){{return s.replace(/[&<>"]/g,c=>({{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}}[c]))}}
-function parse(s){{const m=s.trim().match(/^((?:[1-4]\\s*)?[A-Za-z][A-Za-z .]*?)\\.?\\s+(\\d+)(?::(\\d+))?(?:\\s*[-–]\\s*(\\d+)(?::(\\d+))?)?$/);if(!m)return null;
-const b=A[m[1].toLowerCase().replace(/\\.$/,"")]||A[m[1].toLowerCase().replace(/\\s+/g,"")];if(!b)return null;
-let c1=+m[2],v1=m[3]?+m[3]:null,c2=c1,v2=v1;if(m[4]){{if(m[5]){{c2=+m[4];v2=+m[5]}}else if(v1!==null){{v2=+m[4]}}else{{c2=+m[4]}}}}return{{b,c1,v1,c2,v2}}}}
+{REF_PARSE_JS}
 const key=(c,v,end)=>c*10000+(v===null?(end?9999:0):v);
 function hit(r,q){{return r.b===q.b&&key(r.c1,r.v1,0)<=key(q.c2,q.v2,1)&&key(q.c1,q.v1,0)<=key(r.c2,r.v2,1)}}
 function go(){{const q=parse($("#ref").value);if(!q){{$("#res").innerHTML="";$("#count").textContent=$("#ref").value?"Type a reference like Gen 1:1-2:3":"";return}}
@@ -725,16 +831,94 @@ $("#ref").addEventListener("input",go);if(location.hash)$("#ref").value=decodeUR
     (SITE / "images.html").write_text(page("Images", body, 0, "images"))
 
     # ---------------- map
-    pts = [{"id": i, "t": e["title"], "ty": e["type"], "lat": e["coordinates"]["lat"], "lon": e["coordinates"]["lon"], "img": thumb_of(e, 0)}
-           for i, e in E.items() if e.get("coordinates")]
+    # Verse offsets per book so passage ranges become [first, last] absolute verse numbers:
+    # OFF[book][c] = verses before chapter c, OFF[book][n+1] = verses in the book. Uses the
+    # local WEB text when imported (./obbd bible-import); otherwise assumes 25 verses/chapter.
+    from . import bible as biblemod
+    btxt = biblemod.bible() if biblemod.BIBLE_JSON.exists() else {}
+    OFF = {}
+    for b in bk.values():
+        o, ch = [0, 0], btxt.get(b["id"], {})
+        for c in range(1, b["chapters"] + 1):
+            o.append(o[-1] + (max(map(int, ch[str(c)])) if ch.get(str(c)) else 25))
+        OFF[b["id"]] = o
+
+    def vabs(r):
+        o = OFF[r.book]
+        c1, c2 = max(1, min(r.c1, len(o) - 2)), max(1, min(r.c2, len(o) - 2))
+        s = o[c1] + (r.v1 if r.v1 is not None else 1)
+        e = o[c2] + r.v2 if r.v2 is not None else o[c2 + 1]
+        return s, max(s, e)
+
+    pts = []
+    for i, e in E.items():
+        if not e.get("coordinates"):
+            continue
+        ps = []
+        for p in e.get("passages") or []:
+            w = MAP_REL_W.get(p["rel"], 0.5) * (DISPUTED_W if p.get("disputed") else 1)
+            try:
+                for r in refs.parse(p["ref"]):
+                    ps.append([r.book, *vabs(r), w, r.display(), rels[p["rel"]]["label"]])
+            except refs.RefError:
+                pass
+        pts.append({"id": i, "t": e["title"], "lat": e["coordinates"]["lat"], "lon": e["coordinates"]["lon"],
+                    "img": thumb_of(e, 0), "p": ps})
+
+    # Region labels by period (vocab/map-regions.yaml), and for each chapter the dates of
+    # narrowly dated entries tagged to it, so the page can guess a passage's period.
+    mreg = vocab("map-regions")
+    regs = [{"l": r["label"], "lat": r["at"][0], "lon": r["at"][1], "t": r["tier"], "k": r.get("kind", "land"),
+             "f": r["from"], "to": r["to"], "e": r.get("entry") if r.get("entry") in E else None} for r in mreg["regions"]]
+    chap_years = defaultdict(list)
+    for i, e in E.items():
+        dt = e.get("date")
+        if not dt or (dt.get("to") or dt["from"]) - dt["from"] > ERA_MAX_SPAN:
+            continue
+        y = round((dt["from"] + (dt.get("to") or dt["from"])) / 2)
+        for p in e.get("passages") or []:
+            w = ERA_REL_W.get(p["rel"], 0) * (DISPUTED_W if p.get("disputed") else 1)
+            try:
+                rs = refs.parse(p["ref"]) if w else []
+            except refs.RefError:
+                rs = []
+            for r in rs:
+                n = r.c2 - r.c1 + 1
+                if n <= 5:
+                    for c in range(r.c1, r.c2 + 1):
+                        chap_years[f"{r.book}.{c}"].append([y, round(w / n ** .5, 2)])
+                chap_years[r.book].append([y, round(w / n ** .5, 2)])  # book-level fallback
+    nt_books = [b["id"] for b in bk.values() if b["corpus"] == "nt"]
     head = ('<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">'
-            '<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>')
-    body = f'''<h1>Map</h1><p class="lede">{len(pts)} entries with coordinates (from Wikidata). Needs an internet connection for the base map.</p>
-<div id="map" style="height:72vh;border-radius:12px;border:1px solid var(--line)"></div>
-<script>const P={json.dumps(pts, ensure_ascii=False)};
-if(window.L){{const m=L.map("map").setView([32,38],5);L.tileLayer("https://{{s}}.tile.openstreetmap.org/{{z}}/{{x}}/{{y}}.png",{{attribution:"© OpenStreetMap contributors",maxZoom:17}}).addTo(m);
-P.forEach(p=>L.circleMarker([p.lat,p.lon],{{radius:6,color:"#8a3b12",fillOpacity:.7}}).addTo(m).bindPopup(`${{p.img?`<img src="${{p.img}}" style="width:160px;border-radius:6px">`:""}}<a href="entry/${{p.id}}.html"><b>${{p.t}}</b></a>`));}}
-else document.getElementById("map").textContent="Map library could not load (offline?).";</script>'''
+            '<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>'
+            '<style>#map{height:72vh;border-radius:12px;border:1px solid var(--line);background:#a9bfd2}'
+            '#map .leaflet-tile-pane{filter:sepia(.32) saturate(.9) brightness(1.04)}'
+            '#map .leaflet-tooltip.lbl{background:none;border:0;box-shadow:none;padding:0 0 0 3px;font-family:var(--serif);'
+            'font-weight:600;color:#3a2616;text-shadow:0 0 3px #f7f1e6,0 0 3px #f7f1e6,0 0 2px #f7f1e6}'
+            '#map .leaflet-tooltip.lbl:before{display:none}'
+            '#map .leaflet-popup-content{font-family:var(--sans);font-size:.85rem;line-height:1.4}'
+            '#map .leaflet-popup-content ul{margin:.4em 0 0;padding-left:1.1em}'
+            '#map .rg>*{position:absolute;transform:translate(-50%,-50%);white-space:nowrap;font-family:var(--serif);'
+            'text-transform:uppercase;color:rgba(96,64,40,.6);text-decoration:none;text-shadow:0 0 3px rgba(250,244,234,.95)}'
+            '#map .rg .t1{font-size:17px;letter-spacing:.34em}#map .rg .t2{font-size:12.5px;letter-spacing:.22em}'
+            '#map .rg .t3{font-size:11.5px;letter-spacing:.2em}#map .rg .t4{font-size:10.5px;letter-spacing:.16em}'
+            '#map .rg .water{text-transform:none;font-style:italic;letter-spacing:.08em;color:rgba(48,84,114,.72)}'
+            '#map .rg a:hover{color:var(--link)}'
+            '#mapbar{display:flex;flex-wrap:wrap;gap:8px;align-items:center}#mapbar #ref{flex:1 1 260px}'
+            '#eranote{font-size:.85rem}'
+            '.mapex a{cursor:pointer;margin-right:.6em}</style>')
+    per_opts = "".join(f'<option value="{p["id"]}">{esc(p["label"])}</option>' for p in mreg["periods"])
+    body = f'''<h1>Map</h1><p class="lede">{len(pts)} entries with coordinates (from Wikidata). Enter a passage to size each place by how closely its entry is tagged to it. Region names follow the selected period; they mark where a land or polity lay, not its borders. Needs an internet connection for the base map.</p>
+<div class="toolbar ui" id="mapbar"><input type="search" id="ref" placeholder="Passage, e.g. Josh 15, 2 Kgs 18:13-16, Amos 1">
+<select id="era"><option value="auto">Period: auto (from passage)</option>{per_opts}</select></div>
+<div class="count ui" id="count"></div><div class="ui faint" id="eranote"></div>
+<div id="map"></div>
+<p class="ui faint mapex" style="font-size:.85rem">Try: {" ".join(f'<a data-r="{x}">{x}</a>' for x in ("2 Kgs 18-19", "Josh 10", "Josh 15", "Amos 1", "Neh 3", "Num 33", "Jer 46", "Isa 10", "Gen 10", "Ezek 27"))}</p>
+<script>const P={json.dumps(pts, ensure_ascii=False)};const OFF={json.dumps(OFF, separators=(",", ":"))};const A={json.dumps(aliases)};
+const REG={json.dumps(regs, ensure_ascii=False)};const PER={json.dumps(mreg["periods"], ensure_ascii=False)};const DEFP="{mreg["default_period"]}";const NT={json.dumps(nt_books)};
+const CY={json.dumps(chap_years, separators=(",", ":"))};
+{REF_PARSE_JS}
+{MAP_JS}</script>'''
     (SITE / "map.html").write_text(page("Map", body, 0, "map", head))
 
     # ---------------- bibliography

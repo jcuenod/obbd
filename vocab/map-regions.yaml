@@ -1,0 +1,93 @@
+# Geopolitical guide labels for the site map (dist/site/map.html).
+#
+# These are LABEL ANCHORS, not borders: each region is drawn as a name placed at
+# `at` [lat, lon], shown only while the selected period overlaps [from, to].
+# Years are historical (negative = BCE) and deliberately approximate; they say when
+# the name is a sensible label for the area, not exact founding or conquest dates.
+#
+# tier: 1 = empire / great land (large, faint, shown zoomed out)
+#       2 = land / kingdom / province
+#       3 = small kingdom (Levantine states)
+#       4 = district or small feature (shown zoomed in)
+# kind: land (default) | water
+# entry: optional OBBD entry id the label links to
+#
+# STATUS: first-pass draft (2026-11-23), anchors and dates need scholarly review.
+
+periods:
+  - {id: mba,      label: "Middle Bronze Age (c. 2000–1550 BCE)",   from: -2000, to: -1550}
+  - {id: lba,      label: "Late Bronze Age (c. 1550–1200 BCE)",     from: -1550, to: -1200}
+  - {id: iron1,    label: "Iron Age I (c. 1200–1000 BCE)",          from: -1200, to: -1000}
+  - {id: iron2a,   label: "Early monarchies (c. 1000–850 BCE)",     from: -1000, to: -850}
+  - {id: iron2b,   label: "Israel and Judah (c. 850–722 BCE)",      from: -850,  to: -722}
+  - {id: assyria,  label: "Assyrian domination (722–612 BCE)",      from: -722,  to: -612}
+  - {id: babylon,  label: "Neo-Babylonian (612–539 BCE)",           from: -612,  to: -539}
+  - {id: persia,   label: "Persian (539–332 BCE)",                  from: -539,  to: -332}
+  - {id: hellen,   label: "Hellenistic (332–63 BCE)",               from: -332,  to: -63}
+  - {id: roman,    label: "Roman (63 BCE–135 CE)",                  from: -63,   to: 135}
+default_period: iron2b
+
+regions:
+  # ---- seas and lakes (all periods)
+  - {label: Mediterranean Sea, at: [33.6, 31.2], tier: 1, kind: water, from: -3000, to: 200}
+  - {label: Red Sea,           at: [21.5, 38.4], tier: 1, kind: water, from: -3000, to: 200}
+  - {label: Persian Gulf,      at: [27.3, 51.2], tier: 1, kind: water, from: -3000, to: 200}
+  - {label: Black Sea,         at: [43.2, 34.5], tier: 1, kind: water, from: -3000, to: 200}
+  - {label: Caspian Sea,       at: [41.8, 50.8], tier: 1, kind: water, from: -3000, to: 200}
+  - {label: Salt Sea,          at: [31.42, 35.49], tier: 4, kind: water, from: -3000, to: 200}
+  - {label: Sea of Galilee,    at: [32.83, 35.59], tier: 4, kind: water, from: -3000, to: 200}
+
+  # ---- great lands and empires
+  - {label: Egypt,      at: [27.3, 30.7], tier: 1, from: -3000, to: 200}
+  - {label: Kush,       at: [19.2, 32.6], tier: 1, from: -2000, to: 200}
+  - {label: Hatti,      at: [39.6, 34.2], tier: 1, from: -1650, to: -1180, entry: hittites-and-hethites}
+  - {label: Mitanni,    at: [36.7, 40.4], tier: 1, from: -1550, to: -1260, entry: hurrians-and-horites}
+  - {label: Assyria,    at: [36.6, 43.9], tier: 1, from: -2000, to: -612, entry: assyria}
+  - {label: Babylonia,  at: [31.9, 45.4], tier: 1, from: -1900, to: 200, entry: babylonia}
+  - {label: Elam,       at: [31.6, 49.0], tier: 2, from: -2700, to: -539}
+  - {label: Media,      at: [35.0, 48.8], tier: 2, from: -800, to: -550}
+  - {label: Urartu,     at: [39.6, 43.6], tier: 2, from: -860, to: -590, entry: ararat-urartu}
+  - {label: Lydia,      at: [38.6, 28.5], tier: 2, from: -700, to: -546}
+  - {label: Persian Empire, at: [32.6, 54.5], tier: 1, from: -539, to: -332, entry: persia}
+  - {label: Persis,     at: [29.8, 53.0], tier: 2, from: -700, to: 200}
+  - {label: Seleucid Kingdom, at: [35.4, 40.6], tier: 1, from: -312, to: -64}
+
+  # ---- Late Bronze Age Levant
+  - {label: Canaan,     at: [32.0, 35.0], tier: 2, from: -2000, to: -1200, entry: canaanites}
+  - {label: Yamhad,     at: [36.2, 37.4], tier: 2, from: -1810, to: -1525}
+  - {label: Amurru,     at: [34.7, 36.1], tier: 2, from: -1400, to: -1200, entry: amorites}
+  - {label: Alashiya,   at: [35.05, 33.2], tier: 2, from: -1550, to: -1100}
+  - {label: Cyprus,     at: [35.05, 33.2], tier: 2, from: -1100, to: 200}
+
+  # ---- Iron Age Levant
+  - {label: Philistia,  at: [31.55, 34.62], tier: 3, from: -1175, to: -604, entry: philistines}
+  - {label: Phoenicia,  at: [33.95, 35.75], tier: 2, from: -1200, to: 200, entry: phoenicians}
+  - {label: Israel,     at: [32.35, 35.3], tier: 3, from: -1200, to: -722}
+  - {label: Judah,      at: [31.6, 35.1], tier: 3, from: -930, to: -586}
+  - {label: Aram,       at: [33.35, 36.45], tier: 3, from: -1000, to: -732, entry: arameans}
+  - {label: Hamath,     at: [35.15, 36.75], tier: 3, from: -1000, to: -720}
+  - {label: Ammon,      at: [31.95, 35.95], tier: 3, from: -1000, to: -332, entry: ammonites}
+  - {label: Moab,       at: [31.35, 35.75], tier: 3, from: -1300, to: -582, entry: moabites}
+  - {label: Edom,       at: [30.55, 35.5], tier: 3, from: -1000, to: -552, entry: edomites}
+  - {label: Midian,     at: [28.3, 35.4], tier: 2, from: -1300, to: -900, entry: midianites-and-kenites}
+  - {label: Qedar,      at: [30.2, 38.6], tier: 2, from: -900, to: -300, entry: qedarites-and-arabs}
+  - {label: Cilicia,    at: [37.1, 35.0], tier: 2, from: -900, to: 200}
+  - {label: Negev,      at: [30.8, 34.8], tier: 4, from: -3000, to: 200}
+  - {label: Sinai,      at: [29.3, 33.9], tier: 2, from: -3000, to: 200}
+
+  # ---- imperial provinces (Assyrian, Babylonian, Persian)
+  - {label: Samaria,    at: [32.3, 35.2], tier: 4, from: -722, to: 135}
+  - {label: Yehud,      at: [31.72, 35.25], tier: 4, from: -539, to: -332, entry: yehud-province}
+  - {label: Idumea,     at: [31.25, 34.9], tier: 4, from: -400, to: 70}
+
+  # ---- Hellenistic and Roman
+  - {label: Judea,      at: [31.6, 35.05], tier: 4, from: -332, to: 135}
+  - {label: Galilee,    at: [32.85, 35.35], tier: 4, from: -150, to: 135}
+  - {label: Perea,      at: [31.95, 35.65], tier: 4, from: -63, to: 135}
+  - {label: Decapolis,  at: [32.55, 36.0], tier: 4, from: -63, to: 135}
+  - {label: Nabataea,   at: [30.0, 35.9], tier: 2, from: -312, to: 106, entry: nabataeans}
+  - {label: Syria,      at: [35.0, 37.8], tier: 2, from: -64, to: 200}
+  - {label: Asia,       at: [38.6, 28.4], tier: 2, from: -133, to: 200}
+  - {label: Galatia,    at: [39.5, 32.8], tier: 2, from: -25, to: 200}
+  - {label: Macedonia,  at: [40.8, 22.5], tier: 2, from: -146, to: 200}
+  - {label: Achaia,     at: [37.9, 22.3], tier: 2, from: -27, to: 200}
