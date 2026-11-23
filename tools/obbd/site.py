@@ -1,6 +1,6 @@
 """Static HTML viewer for the dictionary (works from file:// or any static server).
 
-  ./obbd site            -> dist/site/index.html (+ entry/, bible/, images.html, thumbs/)
+  ./obbd site            -> dist/site/index.html (+ entry/, bible/, images.html, bibliography.html, thumbs/)
   ./obbd serve [--port]  -> builds, then serves the repo at http://localhost:PORT/dist/site/
 
 Renders entries in any state: placeholder entries show their scope, the
@@ -38,8 +38,8 @@ def start_citations() -> None:
     _CITED.clear()
 
 
-def works_cited() -> str:
-    return bib.works_cited_html(_CITED)
+def works_cited(more=None) -> str:
+    return bib.works_cited_html(_CITED, more=more)
 
 
 def _cite(tok: str) -> str:
@@ -312,6 +312,15 @@ ul.bib{list-style:none;padding:0;font-size:.92rem}
 ul.bib li{padding-left:1.6em;text-indent:-1.6em;margin:.5em 0}
 ul.bib li:target{background:var(--accent-soft);border-radius:4px}
 ul.bib .abbr{font-weight:600}
+ul.bib a.more{text-decoration:none;font-size:.85em;color:var(--faint)}
+ul.bib a.more:hover{color:var(--link)}
+.bibpage ul.bib{font-size:.97rem}
+.bibpage ul.bib li{margin:.9em 0}
+.bibpage details{text-indent:0;font:.82rem/1.5 var(--sans);color:var(--muted);margin-top:.15em}
+.bibpage summary{cursor:pointer;width:max-content;max-width:100%}
+.bibpage details a{white-space:nowrap}
+.bibpage .uncited{font:.82rem var(--sans);color:var(--faint);text-indent:0;display:block}
+.bibpage h2 .faint{font:400 .8rem var(--sans)}
 abbr[title]{text-decoration:underline dotted;text-decoration-color:var(--faint);text-underline-offset:2px;cursor:help}
 table.psg{width:100%;border-collapse:collapse;font:.9rem/1.45 var(--sans)}
 table.psg td{padding:8px 8px 8px 0;border-bottom:1px solid var(--line);vertical-align:top}
@@ -380,7 +389,8 @@ d.addEventListener("close",()=>{im.removeAttribute("src")});
 def page(title: str, body: str, depth: int, active: str = "", extra_head: str = "") -> str:
     up = "../" * depth
     nav = [("index.html", "Entries", "entries"), ("bible/index.html", "Passages", "bible"),
-           ("images.html", "Images", "images"), ("map.html", "Map", "map"), ("review.html", "Review", "review"), ("about.html", "About", "about")]
+           ("images.html", "Images", "images"), ("map.html", "Map", "map"), ("bibliography.html", "Bibliography", "bibliography"), ("review.html", "Review", "review"),
+           ("about.html", "About", "about")]
     links = "".join(f'<a href="{up}{h}" class="{"on" if k == active else ""}">{t}</a>' for h, t, k in nav)
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -451,7 +461,8 @@ def build_site() -> Path:
     build_thumbs(media)
     flagged = uncertain_ids()
 
-    # backlinks
+    # backlinks; cited_in collects, per citekey, the entries whose rendered page cites it
+    cited_in = defaultdict(set)
     back = defaultdict(set)
     for i, e in E.items():
         for r in e.get("related") or []:
@@ -562,7 +573,9 @@ def build_site() -> Path:
                 main.append(f'<h2>Editions and studies to consult</h2><p class="muted ui" style="font-size:.85rem">AI-suggested; every item must be verified.</p><ul>{srcs}</ul>')
         else:
             main.append(f'<div class="prose">{render_md(md_text, link_for(1))}</div>')
-        main.append(works_cited())
+        main.append(works_cited(lambda k: f"../bibliography.html#ref-{k}"))
+        for k in _CITED:
+            cited_in[k].add(i)
 
         # passages
         if e.get("passages"):
@@ -723,6 +736,52 @@ if(window.L){{const m=L.map("map").setView([32,38],5);L.tileLayer("https://{{s}}
 P.forEach(p=>L.circleMarker([p.lat,p.lon],{{radius:6,color:"#8a3b12",fillOpacity:.7}}).addTo(m).bindPopup(`${{p.img?`<img src="${{p.img}}" style="width:160px;border-radius:6px">`:""}}<a href="entry/${{p.id}}.html"><b>${{p.t}}</b></a>`));}}
 else document.getElementById("map").textContent="Map library could not load (offline?).";</script>'''
     (SITE / "map.html").write_text(page("Map", body, 0, "map", head))
+
+    # ---------------- bibliography
+    allbib = bib.bibliography()
+    title_of = lambda i: E[i]["title"].lower().lstrip("ʿ\"'")
+
+    def bib_section(keys, sid, heading, intro):
+        lis = []
+        for k in sorted(keys, key=bib.sort_key):
+            ents = sorted(cited_in.get(k, ()), key=title_of)
+            if ents:
+                a = ", ".join(f'<a href="entry/{x}.html">{esc(E[x]["title"])}</a>' for x in ents)
+                extra = f'<details><summary>Cited in {len(ents)} entr{"y" if len(ents) == 1 else "ies"}</summary>{a}</details>'
+            else:
+                extra = '<span class="uncited">Not yet cited in any entry.</span>'
+            lis.append(bib.bib_li(k, extra).replace("<li ", f'<li data-k="{esc(bib.full_text(k).lower())}" ', 1))
+        return (f'<h2 id="{sid}">{heading} <span class="faint">({len(lis)})</span></h2>'
+                f'<p class="muted ui" style="font-size:.88rem">{intro}</p><ul class="bib">{"".join(lis)}</ul>')
+
+    sig = [k for k, r in allbib.items() if r.get("citation-label")]
+    ad = [k for k, r in allbib.items() if not r.get("citation-label")]
+    unresolved = sorted(k for k in cited_in if k not in allbib)
+    abbr_rows = "".join(f'<tr><td class="ref">{"<i>" + esc(ab) + "</i>" if kind == "journals" else esc(ab)}</td><td>{esc(full)}</td></tr>'
+                        for kind in ("series", "journals") for full, ab in sorted(bib.abbreviations()[kind].items(), key=lambda x: x[1].casefold()))
+    warn = (f'<div class="banner"><b>Unresolved citekeys:</b> {", ".join(esc(k) for k in unresolved)} '
+            f'(cited in entries but missing from <code>bibliography/references.yaml</code>).</div>') if unresolved else ""
+    n_ent = len({i for v in cited_in.values() for i in v})
+    body = f'''<h1>Bibliography</h1>
+<p class="lede">Every work in the shared bibliography, in SBL style. <span class="muted">{len(allbib)} works · {sum(1 for k in allbib if cited_in.get(k))} of them cited, across {n_ent} entries.</span></p>
+{warn}<div class="toolbar ui"><input type="search" id="q" placeholder="Filter by author, title, abbreviation, series…"></div><div class="count" id="count"></div>
+<p class="ui chips"><a class="chip" href="#abbreviated">Cited by abbreviation</a> <a class="chip" href="#author-date">Cited author–date</a>{' <a class="chip" href="#series">Series and journals</a>' if abbr_rows else ""}</p>
+<div class="article bibpage" style="max-width:80ch">
+{bib_section(sig, "abbreviated", "Works cited by abbreviation", "Standard editions, anthologies and reference works, cited in entries by their abbreviation, e.g. (<i>COS</i> 2.23).")}
+{bib_section(ad, "author-date", "Works cited author–date", "Cited in entries by author and year, e.g. (George 2003, 23).")}
+{f'<h2 id="series">Series and journal abbreviations</h2><div class="scroll"><table class="psg">{abbr_rows}</table></div>' if abbr_rows else ""}
+</div>
+<script>
+const $=s=>document.querySelector(s),L=[...document.querySelectorAll(".bibpage li[data-k]")];
+const norm=s=>s.normalize("NFD").replace(/[\\u0300-\\u036f]/g,"").toLowerCase();
+L.forEach(li=>li.dataset.k=norm(li.dataset.k+" "+li.id.slice(4)));
+function go(){{const q=norm($("#q").value.trim()).split(/\\s+/).filter(Boolean);let n=0;
+L.forEach(li=>{{const ok=q.every(w=>li.dataset.k.includes(w));li.hidden=!ok;n+=ok}});
+$("#count").textContent=q.length?n+" of "+L.length+" works":""}}
+$("#q").addEventListener("input",go);
+if(location.hash.startsWith("#ref-")){{const d=document.querySelector(location.hash+" details");if(d)d.open=true}}
+</script>'''
+    (SITE / "bibliography.html").write_text(page("Bibliography", body, 0, "bibliography"))
 
     # ---------------- review queue
     def linkify(h):

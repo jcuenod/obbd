@@ -290,13 +290,18 @@ def cite_html(items: list[dict], href, used: list[str], emph) -> str:
     return '<span class="citation">(' + "; ".join(parts) + ")</span>"
 
 
-def works_cited_html(keys: list[str], heading: str = "Works Cited") -> str:
+def bib_li(k: str, extra: str = "") -> str:
+    """One reference-list item: '<li id="ref-cos1"><span class="abbr">COS 1</span> Hallo…</li>'."""
+    r = bibliography()[k]
+    abbr = f'<span class="abbr">{siglum_html(k)}</span> ' if r.get("citation-label") else ""
+    return f'<li id="ref-{esc(k)}">{abbr}{full_html(k)}{extra}</li>'
+
+
+def works_cited_html(keys: list[str], heading: str = "Works Cited", more=None) -> str:
+    """`more(key)`, if given, returns an href to the key in the full bibliography."""
     known = sorted({k for k in keys if k in bibliography()}, key=sort_key)
     if not known:
         return ""
-    lis = []
-    for k in known:
-        r = bibliography()[k]
-        abbr = f'<span class="abbr">{siglum_html(k)}</span> ' if r.get("citation-label") else ""
-        lis.append(f'<li id="ref-{esc(k)}">{abbr}{full_html(k)}</li>')
+    lis = [bib_li(k, f' <a class="more" href="{more(k)}" title="In the full bibliography, with every entry that cites it">↗</a>' if more else "")
+           for k in known]
     return f'<section class="works-cited"><h2 id="works-cited">{esc(heading)}</h2><ul class="bib">{"".join(lis)}</ul></section>'
