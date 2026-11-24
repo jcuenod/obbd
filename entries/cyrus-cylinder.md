@@ -4,11 +4,11 @@ The Cyrus Cylinder is a clay inscription issued in the name of Cyrus II after hi
 
 ## Description and Provenance
 
-The barrel-shaped clay cylinder was found at [[babylon|Babylon]] in 1879. Its shape and inscription belong to a tradition of royal building deposits, texts placed within structures to record the work of a ruler. A fragment identified in the Yale Babylonian Collection preserves part of the cylinder's missing end and was reunited with the main text for study and display. Two pieces of a separate clay tablet in the British Museum were recognized around 2010 as carrying parts of the same inscription. Their existence shows that the text circulated beyond the original cylinder, though the extent of circulation is unknown. [@cos2]
+The barrel-shaped clay cylinder was found at [[babylon|Babylon]] in 1879. Its shape and inscription belong to a tradition of royal building deposits, texts placed within structures to record the work of a ruler. A fragment identified in the Yale Babylonian Collection preserves part of the cylinder's missing end and was reunited with the main text for study and display. Two pieces of a separate clay tablet in the British Museum were recognized around 2010 as carrying parts of the same inscription. Their existence shows that the text circulated beyond the original cylinder, though the extent of circulation is unknown. [@cos2, 2.124]
 
 ## Contents
 
-The opening presents the previous king, Nabonidus, as an oppressor whose acts offended [[marduk|Marduk]]. Marduk then chooses [[cyrus-the-great|Cyrus]] and guides him in the [[fall-of-babylon-539|capture of Babylon]]. Cyrus's speech describes his accession, relief from imposed burdens, and the return of divine images and inhabitants to restored settlements. The restoration language is specific to places and obligations in the text. Cyrus also reports work on Babylon's fortifications and references an inscription of the earlier Assyrian ruler Ashurbanipal. The text adopts familiar Babylonian ways of presenting a rightful king. [@anet] [@cos2]
+The opening presents the previous king, Nabonidus, as an oppressor whose acts offended [[marduk|Marduk]]. Marduk then chooses [[cyrus-the-great|Cyrus]] and guides him in the [[fall-of-babylon-539|capture of Babylon]]. Cyrus's speech describes his accession, relief from imposed burdens, and the return of divine images and inhabitants to restored settlements. The restoration language is specific to places and obligations in the text. Cyrus also reports work on Babylon's fortifications and references an inscription of the earlier Assyrian ruler Ashurbanipal. The text adopts familiar Babylonian ways of presenting a rightful king. [@anet, 310–311] [@cos2, 2.124]
 
 ## Significance for Biblical Studies
 
@@ -20,7 +20,7 @@ Ezra 1:1–4 and 2 Chr 36:22–23 associate Cyrus with return and rebuilding. Th
 
 The authenticity and transmission of the decrees in Ezra are debated. Some scholars find the administrative style of the Aramaic memorandum more consistent with an official record than the Hebrew proclamation of Ezra 1. Others emphasize the editors' role in shaping both texts. The Cylinder supplies a policy comparison in either case.
 
-The Cylinder has also been celebrated in modern settings as a charter of human rights. Its ancient text is a royal building inscription about Cyrus's legitimacy and particular restorative acts. It offers no general formulation of individual rights. The modern reception belongs to the subsequent history of the object. [@cos2]
+The Cylinder has also been celebrated in modern settings as a charter of human rights. Its ancient text is a royal building inscription about Cyrus's legitimacy and particular restorative acts. It offers no general formulation of individual rights. The modern reception belongs to the subsequent history of the object. [@cos2, 2.124]
 
 ## Further Reading
 

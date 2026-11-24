@@ -4,7 +4,7 @@ The Damascus Document is a Jewish work from the late Second Temple period that c
 
 ## Manuscripts and Date
 
-Scholars first knew the text from two medieval manuscript witnesses preserved in the Cairo Genizah, a synagogue collection of retired texts. Solomon Schechter published them in 1910. The witnesses are often called CD-A and CD-B. The early form of the work is also represented by eight fragmentary copies from Cave 4 at [[qumran|Qumran]] and one each from Caves 5 and 6. Thus the work belongs among the [[dead-sea-scrolls|Dead Sea Scrolls]] as well as among texts copied in medieval Egypt. [@abd]
+Scholars first knew the text from two medieval manuscript witnesses preserved in the Cairo Genizah, a synagogue collection of retired texts. Solomon Schechter published them in 1910. The witnesses are often called CD-A and CD-B. The early form of the work is also represented by eight fragmentary copies from Cave 4 at [[qumran|Qumran]] and one each from Caves 5 and 6. Thus the work belongs among the [[dead-sea-scrolls|Dead Sea Scrolls]] as well as among texts copied in medieval Egypt. [@abd, 2:8–10]
 
 The ancient manuscripts preserve material missing from the Genizah copies, including material near the beginning, laws concerning skin disease, and provisions for discipline and expulsion. The witnesses represent a complex transmission history. Modern editions distinguish the columns of the Cairo manuscripts from the separately numbered fragments and lines of the Qumran copies. The date of the work's first composition and the dates of its revisions are less certain than the period when copies were in circulation.
 

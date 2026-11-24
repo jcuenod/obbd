@@ -10,7 +10,7 @@ One tablet records the appearances and disappearances of Venus in a sequence ass
 
 ## Contents
 
-Groups of tablets treat phenomena relating to the moon, the sun, weather and planets or stars. Many entries join an observed or imagined sign to an expected consequence. A sign might be interpreted as affecting a king, a harvest or a country. The series provides examples and rules for [[astrology|celestial divination]] as a branch of learned practice. [@horowitz-cosmic-geography]
+Groups of tablets treat phenomena relating to the moon, the sun, weather and planets or stars. Many entries join an observed or imagined sign to an expected consequence. A sign might be interpreted as affecting a king, a harvest or a country. The series provides examples and rules for [[astrology|celestial divination]] as a branch of learned practice. [@horowitz-cosmic-geography, 150–192]
 
 Reports to Neo-Assyrian kings quote entries alongside observations about current events. An eclipse judged dangerous for a king could prompt protective rituals. In one form of response, a substitute was placed in a royal role to take on the threatened fate. This practice shows that a prediction could guide a decision about ritual action rather than simply announce an unavoidable event.
 

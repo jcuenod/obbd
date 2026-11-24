@@ -4,9 +4,9 @@ Marriage in ancient Israel involved agreements between households and could tran
 
 ## Ancient Near Eastern Evidence
 
-Akkadian *terḫatum* and Hebrew *mōhar* refer to marriage payments associated with the groom's side. The payment could help create obligations between families. A dowry, such as the Akkadian *šeriktum*, was property provided by the bride's side. Some systems also recognized a distinct gift from husband to wife. The [[code-of-hammurabi|Laws of Hammurabi]] address the effect of breaking an agreement after gifts have been sent, with different remedies depending on which party withdrew [@roth-law].
+Akkadian *terḫatum* and Hebrew *mōhar* refer to marriage payments associated with the groom's side. The payment could help create obligations between families. A dowry, such as the Akkadian *šeriktum*, was property provided by the bride's side. Some systems also recognized a distinct gift from husband to wife. The [[code-of-hammurabi|Laws of Hammurabi]] address the effect of breaking an agreement after gifts have been sent, with different remedies depending on which party withdrew [@roth-law, 104–117].
 
-Fifth-century BCE [[elephantine-papyri|Elephantine contracts]] from a Judean community in Egypt document marriage payments, list property brought into marriages, and specify the financial effects of ending a marriage. In some texts a husband or wife can initiate dissolution by declaring rejection, using the conventional language of hatred. The provisions vary among contracts and offer evidence for the practice of this particular community [@tad].
+Fifth-century BCE [[elephantine-papyri|Elephantine contracts]] from a Judean community in Egypt document marriage payments, list property brought into marriages, and specify the financial effects of ending a marriage. In some texts a husband or wife can initiate dissolution by declaring rejection, using the conventional language of hatred. The provisions vary among contracts and offer evidence for the practice of this particular community [@tad, B2.6].
 
 ## In the Hebrew Bible
 
@@ -14,7 +14,7 @@ Gen 24:50–53 depicts an agreement with Rebekah's family and gifts to her, her 
 
 Gen 34:12 distinguishes a marriage payment from a further gift. In 1 Sam 18:25 Saul demands an unusual *mōhar* of David in circumstances of political hostility. Josh 15:16–19 and Judg 1:12–15 narrate Achsah obtaining springs from her father, and 1 Kgs 9:16 presents Gezer as a gift sent with Pharaoh's daughter. The accounts give examples of resources held or sought by the receiving household in marriages of very different social scale.
 
-Exod 22:16–17 (MT 22:15–16) addresses an unbetrothed woman and a man who persuades her to have intercourse, with a payment even if her father refuses marriage. Deut 22:28–29 calls for a payment and bars the man from divorcing her in a case expressed with different wording about the encounter. Ancient versions and interpreters differ on the force of that wording. The [[middle-assyrian-laws|Middle Assyrian Laws]] provide comparisons in their provisions for compensation and marriage following sexual offenses, with different judgments and remedies [@roth-law].
+Exod 22:16–17 (MT 22:15–16) addresses an unbetrothed woman and a man who persuades her to have intercourse, with a payment even if her father refuses marriage. Deut 22:28–29 calls for a payment and bars the man from divorcing her in a case expressed with different wording about the encounter. Ancient versions and interpreters differ on the force of that wording. The [[middle-assyrian-laws|Middle Assyrian Laws]] provide comparisons in their provisions for compensation and marriage following sexual offenses, with different judgments and remedies [@roth-law, 104–117].
 
 ## Interpretive Significance
 

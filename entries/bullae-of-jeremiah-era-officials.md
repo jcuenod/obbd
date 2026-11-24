@@ -4,9 +4,9 @@ Late Iron Age seal impressions from Jerusalem preserve the names of officials wh
 
 ## Description and Provenance
 
-A [[seals-and-bullae|seal impression]] could preserve the name or title of an official connected with a document or parcel. Some impressions retain traces of cords and writing material on their backs. Yigal Shiloh's excavation on the [[city-of-david|City of David ridge]] recovered about fifty bullae from a building destroyed in the Babylonian destruction of Jerusalem in 587 or 586 BCE. Fire hardened the clay, while the documents themselves did not survive [@neaehl] [@avigad-sass-wsss].
+A [[seals-and-bullae|seal impression]] could preserve the name or title of an official connected with a document or parcel. Some impressions retain traces of cords and writing material on their backs. Yigal Shiloh's excavation on the [[city-of-david|City of David ridge]] recovered about fifty bullae from a building destroyed in the Babylonian destruction of Jerusalem in 587 or 586 BCE. Fire hardened the clay, while the documents themselves did not survive [@neaehl, 2:708–709, 2:722–724] [@avigad-sass-wsss, 32–46, 167–170].
 
-Later City of David excavations led by Eilat Mazar yielded sealings naming people also mentioned in Jeremiah. A separate excavation at the Givati Parking Lot produced a bulla with the name Nathan-melech followed by the title “servant of the king.” A substantial group of other Hebrew bullae was published by Nahman Avigad from a collection without recorded excavation contexts. These include impressions attributed to Baruch and Jerahmeel, whose contexts cannot be independently reconstructed [@avigad-sass-wsss].
+Later City of David excavations led by Eilat Mazar yielded sealings naming people also mentioned in Jeremiah. A separate excavation at the Givati Parking Lot produced a bulla with the name Nathan-melech followed by the title “servant of the king.” A substantial group of other Hebrew bullae was published by Nahman Avigad from a collection without recorded excavation contexts. These include impressions attributed to Baruch and Jerahmeel, whose contexts cannot be independently reconstructed [@avigad-sass-wsss, 167–170, 174–175, nos. 414, 417] [@eames-garfinkel-jerusalem, 176, items 2.5.67, 2.5.72, 2.5.170].
 
 ## Contents
 

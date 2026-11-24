@@ -4,9 +4,9 @@ Taharqa, called Tirhakah in Kings and Isaiah, was a Kushite ruler of Egypt's Twe
 
 ## Extrabiblical Sources
 
-Taharqa ruled approximately 690–664 BCE. His inscriptions from Kawa record temple patronage and recall his coming north to Egypt under an earlier king. Building survives at sites including Kawa in Nubia and Karnak in Egypt. His monuments frame his reign as the continuation and renewal of cult at important centers in both regions. The pyramid at Nuri associated with him belongs to a different body of evidence for the dynasty's power and burial practices [@abd].
+Taharqa ruled approximately 690–664 BCE. His inscriptions from Kawa record temple patronage and recall his coming north to Egypt under an earlier king. Building survives at sites including Kawa in Nubia and Karnak in Egypt. His monuments frame his reign as the continuation and renewal of cult at important centers in both regions. The pyramid at Nuri associated with him belongs to a different body of evidence for the dynasty's power and burial practices [@abd, 4:109–111].
 
-Sennacherib's account of his third campaign describes fighting Egyptian kings and forces of the king of Kush at Eltekeh. It does not give Taharqa's name. Esarhaddon's inscriptions later name Taharqa as king of Egypt and Kush. In 671 BCE Esarhaddon captured Memphis and reports taking members of the royal household. Taharqa escaped and subsequently recovered Memphis. Ashurbanipal's annals describe a renewed Assyrian expedition and Taharqa's retreat. These records tell the story from the standpoint of Assyrian royal victory [@rinap3-1; @rinap4; @anet].
+Sennacherib's account of his third campaign describes fighting Egyptian kings and forces of the king of Kush at Eltekeh. It does not give Taharqa's name. Esarhaddon's inscriptions later name Taharqa as king of Egypt and Kush. In 671 BCE Esarhaddon captured Memphis and reports taking members of the royal household. Taharqa escaped and subsequently recovered Memphis. Ashurbanipal's annals describe a renewed Assyrian expedition and Taharqa's retreat. These records tell the story from the standpoint of Assyrian royal victory [@rinap3-1, no. 22 ii 37–iii 49; @rinap4, no. 98; @anet, 287–288].
 
 ## Biblical Portrayal
 

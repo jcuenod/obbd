@@ -4,13 +4,13 @@ In ancient Near Eastern texts, a god's or ruler's bright face can signify favor,
 
 ## Ancient Near Eastern Evidence
 
-Akkadian texts can describe a favorable face as bright or use verbs of shining and illumination for a person's expression. The idiom can be used for a king or god whose attention matters to the speaker. In the [[amarna-letters|Amarna correspondence]], Abimilki of Tyre addresses the Egyptian king in solar terms. The king who receives loyalty can shine upon his servant and give life. This gives a diplomatic setting for an image that also appears in Hebrew wisdom and prayer [@moran-amarna].
+Akkadian texts can describe a favorable face as bright or use verbs of shining and illumination for a person's expression. The idiom can be used for a king or god whose attention matters to the speaker. In the [[amarna-letters|Amarna correspondence]], Abimilki of Tyre addresses the Egyptian king in solar terms. The king who receives loyalty can shine upon his servant and give life. This gives a diplomatic setting for an image that also appears in Hebrew wisdom and prayer [@moran-amarna, EA 147, lines 5–15].
 
 The royal sun comparison has a wider background in [[egyptian-kingship|Egyptian portrayals of kingship]]. Light, warmth, and the return of day provide a natural language of well-being. The face more specifically suggests personal recognition. A reference to shining can accordingly recall solar language without identifying a particular sun cult.
 
 ## In the Hebrew Bible
 
-Num 6:24–26 asks YHWH to bless and keep the recipient, make his face shine, lift up his face toward the recipient, and grant peace. The smaller of the [[ketef-hinnom-amulets|silver amulets from Ketef Hinnom]] preserves a shorter form of comparable wording, including a shining face and peace. Most scholars place the amulets around the end of the Iron Age, although their exact date has been debated. The inscription shows that the blessing circulated in a material form used for protection [@ahituv-echoes] [@dobbs-allsopp-hebrew-inscriptions].
+Num 6:24–26 asks YHWH to bless and keep the recipient, make his face shine, lift up his face toward the recipient, and grant peace. The smaller of the [[ketef-hinnom-amulets|silver amulets from Ketef Hinnom]] preserves a shorter form of comparable wording, including a shining face and peace. Most scholars place the amulets around the end of the Iron Age, although their exact date has been debated. The inscription shows that the blessing circulated in a material form used for protection [@ahituv-echoes, 49–55] [@dobbs-allsopp-hebrew-inscriptions, 263–275].
 
 Several psalms use the image as a request for well-being. Ps 4:6 (MT 4:7), 31:16 (MT 31:17), and 67:1 (MT 67:2) ask for divine favor in language related to the blessing. In Ps 80:3, 7, 19 (MT 80:4, 8, 20), restoration and salvation are the aims of the repeated plea for God's face to shine. Ps 89:15 (MT 89:16) depicts worshippers walking in the light of God's face. Dan 9:17 directs the request toward a desolated sanctuary, where a return of divine favor would have communal consequences.
 

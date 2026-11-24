@@ -4,7 +4,7 @@ Households and kin groups organized much of economic, legal, and religious life 
 
 ## Ancient Near Eastern Evidence
 
-Lawrence Stager interpreted clusters of pillared buildings in early Israelite settlements as possible compounds for extended families. A group of buildings could support shared food preparation, storage, and animal care. The form of a [[four-room-house|pillared house]] by itself cannot reveal the exact kin relationships of its occupants. The arrangement of dwellings, work areas, and storage matters when proposing how households lived together [@king-stager-life] [@mazar-archaeology].
+Lawrence Stager interpreted clusters of pillared buildings in early Israelite settlements as possible compounds for extended families. A group of buildings could support shared food preparation, storage, and animal care. The form of a [[four-room-house|pillared house]] by itself cannot reveal the exact kin relationships of its occupants. The arrangement of dwellings, work areas, and storage matters when proposing how households lived together [@king-stager-life, 36–40] [@mazar-archaeology, 463–485].
 
 J. David Schloen describes ancient societies such as Ugarit in terms of patrimonial households, in which relations of service and authority resemble those of an extended household. In this model the king heads a larger network of households. The model explains how household language can express political relationships. Its application to particular societies is debated, and household authority also depended on the labor and standing of women, younger family members, and dependents.
 

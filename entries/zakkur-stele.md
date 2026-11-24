@@ -12,13 +12,13 @@ Zakkur credits Baalshamayn with making him king. He reports that [[ben-hadad|Bar
 
 ## Significance for Biblical Studies
 
-2 Kgs 13:3, 24–25 names a Ben-hadad son of Hazael who ruled Aram and fought Israel. The match in names and patronymic gives a basis for identifying this Ben-hadad more securely than others who bear the name in Kings. Zech 9:1 names the land of Hadrach, usually connected with Hazrach. Amos 7:12 calls Amos a seer using a term cognate with that applied to the seers in the inscription. [@abd] [@cos2, 2.35]
+2 Kgs 13:3, 24–25 names a Ben-hadad son of Hazael who ruled Aram and fought Israel. The match in names and patronymic gives a basis for identifying this Ben-hadad more securely than others who bear the name in Kings. Zech 9:1 names the land of Hadrach, usually connected with Hazrach. Amos 7:12 calls Amos a seer using a term cognate with that applied to the seers in the inscription. [@abd, 1:663–665] [@cos2, 2.35]
 
-Isa 41:8–13 uses divine presence and protection to reassure Israel. In Isa 7:1–9, prophetic reassurance comes as a coalition threatens Judah. In 2 Chr 20:1–17, a king facing an alliance prays and an inspired speaker answers with a promise of divine intervention. These passages help situate Zakkur's oracle among forms of [[prophecy-in-the-ane|inspired reassurance]]. The speakers, audiences and rhetorical settings vary. [@nissinen-prophets] [@saa9]
+Isa 41:8–13 uses divine presence and protection to reassure Israel. In Isa 7:1–9, prophetic reassurance comes as a coalition threatens Judah. In 2 Chr 20:1–17, a king facing an alliance prays and an inspired speaker answers with a promise of divine intervention. These passages help situate Zakkur's oracle among forms of [[prophecy-in-the-ane|inspired reassurance]]. The speakers, audiences and rhetorical settings vary. [@nissinen-prophets, 203–206] [@saa9, no. 1.1]
 
 ## Scholarly Issues
 
-The siege is usually situated in the early eighth century BCE. Some historians infer a role for Assyria under Adad-nirari III from the regional political situation. The preserved account attributes rescue to Baalshamayn and gives no explicit account of Assyrian intervention. The inscription remains an important West Semitic witness to prophecy alongside the Deir ʿAlla evidence and the much larger bodies of material from Mari and Assyria. [@rima3] [@nissinen-prophets]
+The siege is usually situated in the early eighth century BCE. Some historians infer a role for Assyria under Adad-nirari III from the regional political situation. The preserved account attributes rescue to Baalshamayn and gives no explicit account of Assyrian intervention. The inscription remains an important West Semitic witness to prophecy alongside the Deir ʿAlla evidence and the much larger bodies of material from Mari and Assyria. [@rima3, A.0.104.7 lines 4–13] [@nissinen-prophets, 203–206]
 
 ## Further Reading
 

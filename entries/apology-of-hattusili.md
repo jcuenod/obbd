@@ -4,13 +4,13 @@ The *Apology of Hattusili* is a Hittite account of the rise of Hattusili III, wh
 
 ## Manuscripts and Date
 
-The work survives on clay tablets from Hattusa, the capital of the [[hittites-and-hethites|Hittite kingdom]]. It is written in Hittite and speaks in the king's first-person voice. Its account of his accession places the composition in or after the period when Hattusili took power, during the thirteenth century BCE. The narrative stands alongside the diplomatic records of the reign but has its own purpose as a statement of royal legitimacy. [@cos1] [@beckman-hdt]
+The work survives on clay tablets from Hattusa, the capital of the [[hittites-and-hethites|Hittite kingdom]]. It is written in Hittite and speaks in the king's first-person voice. Its account of his accession places the composition in or after the period when Hattusili took power, during the thirteenth century BCE. The narrative stands alongside the diplomatic records of the reign but has its own purpose as a statement of royal legitimacy. [@cos1, 1.77] [@beckman-hdt, 90–94, 125–132]
 
 ## Contents
 
-Hattusili traces his career from childhood through service under his brother Muwatalli II. He credits Shaushga of Samuha, a goddess associated with [[ishtar|Ishtar]], with safeguarding him and advancing his fortunes. After his brother's death, Hattusili says that he helped install his nephew Urhi-Teshub as king. He then presents the nephew as steadily depriving him of territory and authority until open conflict became unavoidable. [@cos1]
+Hattusili traces his career from childhood through service under his brother Muwatalli II. He credits Shaushga of Samuha, a goddess associated with [[ishtar|Ishtar]], with safeguarding him and advancing his fortunes. After his brother's death, Hattusili says that he helped install his nephew Urhi-Teshub as king. He then presents the nephew as steadily depriving him of territory and authority until open conflict became unavoidable. [@cos1, 1.77]
 
-The king emphasizes that he made his challenge openly, appealing to divine judgment. Hattusili presents his victory as the goddess's vindication and recounts his treatment of his defeated nephew. The narrative ends by recalling Shaushga's favor and the obligations owed to her. The tablet thereby defends a contested succession and memorializes a relationship between the dynasty and its divine patron. [@cos1]
+The king emphasizes that he made his challenge openly, appealing to divine judgment. Hattusili presents his victory as the goddess's vindication and recounts his treatment of his defeated nephew. The narrative ends by recalling Shaushga's favor and the obligations owed to her. The tablet thereby defends a contested succession and memorializes a relationship between the dynasty and its divine patron. [@cos1, 1.77]
 
 ## Significance for Biblical Studies
 
@@ -18,9 +18,9 @@ Harry Hoffner analyzed the work as a defense of Hattusili's accession. P. Kyle M
 
 ## Scholarly Issues
 
-The comparison with Hattusili's work concerns the way ancient writers could defend a rise to power. The Hittite king speaks for himself, while Samuel gives readers speeches and judgments embedded in a longer third-person narrative. Andrew Knapp extends the comparison to first-millennium defenses of kingship, including royal claims of Esarhaddon and Kilamuwa. These comparisons help establish a wider regional practice, without requiring direct literary contact with a thirteenth-century Hittite text. [@rinap4] [@kai]
+The comparison with Hattusili's work concerns the way ancient writers could defend a rise to power. The Hittite king speaks for himself, while Samuel gives readers speeches and judgments embedded in a longer third-person narrative. Andrew Knapp extends the comparison to first-millennium defenses of kingship, including royal claims of Esarhaddon and Kilamuwa. These comparisons help establish a wider regional practice, without requiring direct literary contact with a thirteenth-century Hittite text. [@rinap4, no. 1] [@kai, no. 24]
 
-An earlier Hittite succession text, the Edict of Telipinu, describes past violence among royal relatives and sets out rules for accession. Its concern for order offers a comparison with the contested transition from David to Solomon in 1 Kgs 1–2. The relationship is a matter of scholarly analogy, with different political settings and distinct textual purposes. [@cos1]
+An earlier Hittite succession text, the Edict of Telipinu, describes past violence among royal relatives and sets out rules for accession. Its concern for order offers a comparison with the contested transition from David to Solomon in 1 Kgs 1–2. The relationship is a matter of scholarly analogy, with different political settings and distinct textual purposes. [@cos1, 1.76]
 
 ## Further Reading
 

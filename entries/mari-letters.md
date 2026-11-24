@@ -4,17 +4,17 @@ The palace archives of Mari contain roughly twenty thousand cuneiform tablets an
 
 ## Manuscripts and Date
 
-Excavations at [[mari|Tell Hariri]] in Syria recovered the tablets in and around the royal palace. Many are Akkadian letters exchanged among rulers, their families, and officials. Administrative records document other aspects of the kingdom. The archive reached its final phase under Zimri-Lim, whose rule ended when [[hammurabi|Hammurabi of Babylon]] conquered Mari in the eighteenth century BCE [@cos3].
+Excavations at [[mari|Tell Hariri]] in Syria recovered the tablets in and around the royal palace. Many are Akkadian letters exchanged among rulers, their families, and officials. Administrative records document other aspects of the kingdom. The archive reached its final phase under Zimri-Lim, whose rule ended when [[hammurabi|Hammurabi of Babylon]] conquered Mari in the eighteenth century BCE [@cos3, 3.130–3.132].
 
 ## Contents
 
-Several dozen letters report dreams, prophetic speeches, or other messages of divine origin. Titles include *āpilum* (“answerer”) and *muḫḫûm*, often translated “ecstatic.” Prophetic messages could arrive through women or men and from the royal family, officials, or people outside the court. Some reports sent the speaker's hair and garment fringe so specialists could verify the message through further inquiry. These details show how speech reached the palace and could be tested with other kinds of divination [@nissinen-prophets].
+Several dozen letters report dreams, prophetic speeches, or other messages of divine origin. Titles include *āpilum* (“answerer”) and *muḫḫûm*, often translated “ecstatic.” Prophetic messages could arrive through women or men and from the royal family, officials, or people outside the court. Some reports sent the speaker's hair and garment fringe so specialists could verify the message through further inquiry. These details show how speech reached the palace and could be tested with other kinds of divination [@nissinen-prophets, 15–19].
 
 In one letter from Nūr-Sîn, the storm god Addu of Aleppo declares that he restored Zimri-Lim to his father's throne and gave the king the weapons with which he had overcome Sea. The speech joins divine combat, a ruler's claim to power, and the obligations of the king. Mari's letters also record acts that establish peace between human groups, including an agreement marked by killing a donkey foal.
 
 ## Significance for Biblical Studies
 
-In 1 Kgs 22:5–28, rulers consult several prophets before battle and receive conflicting messages. Deut 13:1–5 (MT 13:2–6) and 18:15–22 give criteria for judging a prophet's words and loyalties. At Mari, the record of competing claims and verification illustrates the wider problem of recognizing divine authority. It also provides a comparison for Nathan's message legitimating David's dynasty in 2 Sam 7:8–16. Ps 89:25 (MT 89:26) gives the king authority over Sea, an image comparable with Addu's gift. The Mari oracle establishes an early West Semitic setting for the association of sea combat and royal power [@nissinen-prophets].
+In 1 Kgs 22:5–28, rulers consult several prophets before battle and receive conflicting messages. Deut 13:1–5 (MT 13:2–6) and 18:15–22 give criteria for judging a prophet's words and loyalties. At Mari, the record of competing claims and verification illustrates the wider problem of recognizing divine authority. It also provides a comparison for Nathan's message legitimating David's dynasty in 2 Sam 7:8–16. Ps 89:25 (MT 89:26) gives the king authority over Sea, an image comparable with Addu's gift. The Mari oracle establishes an early West Semitic setting for the association of sea combat and royal power [@nissinen-prophets, 19–23].
 
 ## Scholarly Issues
 

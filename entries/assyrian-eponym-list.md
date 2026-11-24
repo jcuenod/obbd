@@ -10,13 +10,13 @@ Assyrian scribes wrote the lists in wedge-shaped characters on clay. Copies from
 
 An eponym is a person whose name is given to something else, in this case a year. The Assyrian term was *limmu*. A reigning king could serve as eponym, as could governors and senior court or military officials. A document dated in the year of a named person could therefore be assigned a place in the sequence even when it gave no regnal year.
 
-Lists that give short notices in addition to names are commonly called the Eponym Chronicle. The surviving event notices cover only part of the full sequence. They record events such as royal campaigns, revolts, and an eclipse. Their terse wording contrasts with the fuller claims made in [[royal-annals-and-historiography|royal annals]] about what happened on a campaign [@glassner-chronicles].
+Lists that give short notices in addition to names are commonly called the Eponym Chronicle. The surviving event notices cover only part of the full sequence. They record events such as royal campaigns, revolts, and an eclipse. Their terse wording contrasts with the fuller claims made in [[royal-annals-and-historiography|royal annals]] about what happened on a campaign [@glassner-chronicles, no. 9, 164–179].
 
 ## Significance for Biblical Studies
 
 The notice for Bur-Saggile's year records an eclipse of the sun. Its identification with the eclipse of 763 BCE gives a calendar date to that entry. Counting backward and forward through the ordered list gives dates to other entries, which can then be combined with the reigns and campaign years in royal inscriptions.
 
-The Assyrian king Shalmaneser III names Ahab among the opponents at the [[battle-of-qarqar|battle of Qarqar]] in 853 BCE. He also reports receiving tribute from Jehu in a campaign dated to 841 BCE. These are among the earliest firm calendar dates that can be tied to named rulers of Israel [@rima3]. The chronicle lists campaigns to Damascus in 733 and 732 BCE, which contextualize 2 Kgs 16:9 and 15:29 without restating the details of those verses [@rinap1]. The same dating framework places Sennacherib's campaign in 2 Kgs 18:13 in 701 BCE [@rinap3-1].
+The Assyrian king Shalmaneser III names Ahab among the opponents at the [[battle-of-qarqar|battle of Qarqar]] in 853 BCE. He also reports receiving tribute from Jehu in a campaign dated to 841 BCE. These are among the earliest firm calendar dates that can be tied to named rulers of Israel [@rima3, A.0.102.2 ii 78–102, A.0.102.14 lines 44–47, 92–102]. The chronicle lists campaigns to Damascus in 733 and 732 BCE, which contextualize 2 Kgs 16:9 and 15:29 without restating the details of those verses [@rinap1, nos. 20–21, 35, 42]. The same dating framework places Sennacherib's campaign in 2 Kgs 18:13 in 701 BCE [@rinap3-1, no. 22 ii 37–iii 49].
 
 ## Scholarly Issues
 

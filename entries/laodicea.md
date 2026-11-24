@@ -4,7 +4,7 @@ Laodicea on the Lycus was a prosperous city in Phrygia, a region of what is now 
 
 ## Location and Identification
 
-The ruins lie near Eskihisar, north of modern Denizli, on a plateau above the Lycus valley [@abd]. The site is securely identified: its position agrees with ancient descriptions, and inscriptions name the Laodiceans. Hierapolis lay to the north, near modern Pamukkale, and Colossae lay farther up the Lycus valley to the east. The valley gave the three communities a shared regional setting, while Laodicea's location at a crossroads helped it develop as a trading center.
+The ruins lie near Eskihisar, north of modern Denizli, on a plateau above the Lycus valley [@abd, 4:229–230]. The site is securely identified: its position agrees with ancient descriptions, and inscriptions name the Laodiceans. Hierapolis lay to the north, near modern Pamukkale, and Colossae lay farther up the Lycus valley to the east. The valley gave the three communities a shared regional setting, while Laodicea's location at a crossroads helped it develop as a trading center.
 
 ## Archaeological History
 

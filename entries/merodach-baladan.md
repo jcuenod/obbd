@@ -4,7 +4,7 @@ Merodach-baladan, known in Akkadian as Marduk-apla-iddina II, was a Chaldean lea
 
 ## Extrabiblical Sources
 
-Marduk-apla-iddina came from Bīt-Yakīn, a Chaldean political group in southern [[babylonia|Babylonia]]. The Babylonian Chronicle places his accession around the time of Sargon II's rise to power. The reign is often dated 722/721–710 BCE. The chronicle and Assyrian inscriptions describe [[sargon-ii|Sargon II's]] intervention and the end of the reign. The king returned to power in 703 BCE for a brief period before [[sennacherib|Sennacherib]] expelled him. His name also appears on inscribed objects associated with his rule, including records of grants [@abc] [@glassner-chronicles] [@rinap3-1].
+Marduk-apla-iddina came from Bīt-Yakīn, a Chaldean political group in southern [[babylonia|Babylonia]]. The Babylonian Chronicle places his accession around the time of Sargon II's rise to power. The reign is often dated 722/721–710 BCE. The chronicle and Assyrian inscriptions describe [[sargon-ii|Sargon II's]] intervention and the end of the reign. The king returned to power in 703 BCE for a brief period before [[sennacherib|Sennacherib]] expelled him. His name also appears on inscribed objects associated with his rule, including records of grants [@abc, 73, 75–76] [@glassner-chronicles, no. 16, 193–201] [@rinap3-1, nos. 1, 22 i 20–65].
 
 ## Biblical Portrayal
 

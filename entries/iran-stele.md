@@ -12,9 +12,9 @@ The inscription opens with divine invocations and royal titles. After accounts o
 
 ## Significance for Biblical Studies
 
-In 2 Kgs 15:17, Menahem son of Gadi rules in Samaria. In 2 Kgs 15:19–20 he pays Pul of Assyria a thousand talents of silver and raises the funds by levying wealthy subjects. Pul is the biblical form associated with the name Tiglath-pileser used in Babylonian tradition. The stele confirms that Menahem paid tribute and situates his payment among those of several regional rulers. Its list gives no separate total for Menahem. Kings gives the local fiscal and political consequences, including the support Menahem sought for his hold on the kingdom. [@rinap1, no. 35] [@abd]
+In 2 Kgs 15:17, Menahem son of Gadi rules in Samaria. In 2 Kgs 15:19–20 he pays Pul of Assyria a thousand talents of silver and raises the funds by levying wealthy subjects. Pul is the biblical form associated with the name Tiglath-pileser used in Babylonian tradition. The stele confirms that Menahem paid tribute and situates his payment among those of several regional rulers. Its list gives no separate total for Menahem. Kings gives the local fiscal and political consequences, including the support Menahem sought for his hold on the kingdom. [@rinap1, no. 35] [@abd, 4:692–694]
 
-Rezin, who also appears in the list, later joined Pekah of Israel in opposing Judah. Compare 2 Kgs 15:37 and 16:5–9 with Isa 7:1–9. Rezin’s appearance as a tributary gives evidence for his earlier relationship with Tiglath-pileser. His later defeat belongs to a subsequent phase of Assyrian expansion. [@rinap1] [@abd]
+Rezin, who also appears in the list, later joined Pekah of Israel in opposing Judah. Compare 2 Kgs 15:37 and 16:5–9 with Isa 7:1–9. Rezin’s appearance as a tributary gives evidence for his earlier relationship with Tiglath-pileser. His later defeat belongs to a subsequent phase of Assyrian expansion. [@rinap1, no. 35 ii 9′–10′] [@abd, 6:283–285]
 
 ## Scholarly Issues
 

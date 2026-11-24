@@ -4,13 +4,13 @@ Capernaum was a village on the northwestern shore of the Sea of Galilee. The Gos
 
 ## Location and Identification
 
-The ancient site is at Tell Hum, on the lakeshore west of the Jordan's entrance to the Sea of Galilee. Fishing and connections with settlements around the lake were part of its setting. Franciscan excavations led by Virgilio Corbo and Stanislao Loffreda investigated remains in the western sector, and Greek Orthodox work explored part of the eastern sector. The excavated domestic architecture suggests a village of modest scale [@neaehl].
+The ancient site is at Tell Hum, on the lakeshore west of the Jordan's entrance to the Sea of Galilee. Fishing and connections with settlements around the lake were part of its setting. Franciscan excavations led by Virgilio Corbo and Stanislao Loffreda investigated remains in the western sector, and Greek Orthodox work explored part of the eastern sector. The excavated domestic architecture suggests a village of modest scale [@neaehl, 1:291–296].
 
 ## Archaeological History
 
 Many houses used local basalt, a dark volcanic stone. Rooms commonly opened onto courtyards used for household activities. The lower walls survive more readily than the roofs. Reconstructions with timber, branches, and packed material help explain how a roof might be opened as in Mark 2:1–12, though excavation does not identify the house in the episode.
 
-The visible limestone [[synagogues|synagogue]] probably dates to the fourth or fifth century CE, with scholars differing over details of construction and dating. Beneath it are basalt foundations and earlier surfaces. Some archaeologists interpret the remains as evidence of an earlier synagogue, while others take the basalt walls to belong to the later building or find the earlier use uncertain. The evidence does not establish that any surviving wall belonged to the synagogue mentioned in the Gospels [@neaehl].
+The visible limestone [[synagogues|synagogue]] probably dates to the fourth or fifth century CE, with scholars differing over details of construction and dating. Beneath it are basalt foundations and earlier surfaces. Some archaeologists interpret the remains as evidence of an earlier synagogue, while others take the basalt walls to belong to the later building or find the earlier use uncertain. The evidence does not establish that any surviving wall belonged to the synagogue mentioned in the Gospels [@neaehl, 1:291–296].
 
 An octagonal church was built in late antiquity above an older domestic complex traditionally called the House of Peter. Excavators identified changes to one room, plaster, and graffiti associated with Christian veneration. A fourth-century enclosure preceded the octagonal church, usually dated to the fifth century. The sequence shows that Christians honored the site in late antiquity. The earlier house provides a possible setting for the tradition, but its first-century inhabitants cannot be identified from the remains.
 

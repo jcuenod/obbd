@@ -8,9 +8,9 @@ The scenes are carved in low relief, with figures projecting slightly from the s
 
 ## Contents
 
-The assault scenes show archers, defenders on the walls, and covered battering rams, machines used to strike walls or gates. The rams approach the defenses on sloping ramps, a feature of [[assyrian-siege-warfare|Assyrian siege warfare]]. Other scenes show families leaving with their belongings, soldiers carrying off goods, and the [[treatment-of-captives|punishment of captives]], including impalement and flaying. The series leads the viewer from the fighting to the seated king, before whom prisoners and spoils appear [@anep].
+The assault scenes show archers, defenders on the walls, and covered battering rams, machines used to strike walls or gates. The rams approach the defenses on sloping ramps, a feature of [[assyrian-siege-warfare|Assyrian siege warfare]]. Other scenes show families leaving with their belongings, soldiers carrying off goods, and the [[treatment-of-captives|punishment of captives]], including impalement and flaying. The series leads the viewer from the fighting to the seated king, before whom prisoners and spoils appear [@anep, figs. 371–373].
 
-Excavations at [[lachish|Lachish]] give a separate line of evidence for the assault. David Ussishkin's excavations investigated the destruction of Level III, the archaeological layer associated with the capture of 701 BCE. At the point of attack, the remains include an Assyrian siege ramp and a counter-ramp, a mass of material piled on the inside to reinforce the defenses. Numerous arrowheads and sling stones were also found. These finds support the picture of a major assault, but not every detail in the carvings can be matched to excavated remains [@neaehl].
+Excavations at [[lachish|Lachish]] give a separate line of evidence for the assault. David Ussishkin's excavations investigated the destruction of Level III, the archaeological layer associated with the capture of 701 BCE. At the point of attack, the remains include an Assyrian siege ramp and a counter-ramp, a mass of material piled on the inside to reinforce the defenses. Numerous arrowheads and sling stones were also found. These finds support the picture of a major assault, but not every detail in the carvings can be matched to excavated remains [@neaehl, 3:897–911].
 
 ## Significance for Biblical Studies
 
@@ -20,7 +20,7 @@ The scenes illuminate the equipment in Ezekiel's portrayals of a siege of Jerusa
 
 ## Scholarly Issues
 
-The reliefs are royal propaganda: they arrange the story to display Assyrian power and the king's command over the outcome. The [[sennacherib-annals|royal annals]] describe Hezekiah confined in Jerusalem but do not claim that the capital fell [@rinap3-1]. Lachish may have been chosen for such an extensive display because it was the most important Judahite city actually captured in the [[sennacherib-campaign-701|campaign of 701 BCE]], but the palace caption does not explain the choice. The carvings can therefore preserve evidence about the campaign while giving a selective account of it.
+The reliefs are royal propaganda: they arrange the story to display Assyrian power and the king's command over the outcome. The [[sennacherib-annals|royal annals]] describe Hezekiah confined in Jerusalem but do not claim that the capital fell [@rinap3-1, no. 22 iii 18–49]. Lachish may have been chosen for such an extensive display because it was the most important Judahite city actually captured in the [[sennacherib-campaign-701|campaign of 701 BCE]], but the palace caption does not explain the choice. The carvings can therefore preserve evidence about the campaign while giving a selective account of it.
 
 ## Further Reading
 

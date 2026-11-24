@@ -4,7 +4,7 @@ The Hebrew Bible describes offering the first produce of a harvest and dedicatin
 
 ## Ancient Near Eastern Evidence
 
-The beginnings of harvests could be marked with ritual gifts. At Ugarit, Late Bronze Age ritual texts prescribe offerings in the month called the first wine, including a rite involving a bunch of grapes. Offerings from agriculture also supplied provisions for temples and their staff across the ancient Near East. This puts biblical gifts of first produce within a broader setting of sacred giving, although details such as recipients and timing depended on local traditions [@ktu3] [@cohen-cultic-calendars].
+The beginnings of harvests could be marked with ritual gifts. At Ugarit, Late Bronze Age ritual texts prescribe offerings in the month called the first wine, including a rite involving a bunch of grapes. Offerings from agriculture also supplied provisions for temples and their staff across the ancient Near East. This puts biblical gifts of first produce within a broader setting of sacred giving, although details such as recipients and timing depended on local traditions [@ktu3, 1.41, 1.87] [@cohen-cultic-calendars, 382–383].
 
 ## In the Hebrew Bible
 

@@ -10,7 +10,7 @@ The eighteenth-century BCE [[mari-letters|letters from Mari]] show other uses. T
 
 ## In the Hebrew Bible
 
-Abraham saddles a donkey for his journey in Gen 22:3, a detail consistent with Bronze Age and later travel. The prophet Balaam rides a female donkey in Num 22:21–35. In that narrative the animal sees the divine messenger before its rider does. In Judg 5:10, donkey riders form a distinct audience addressed by the song. The sons of Jair and the descendants of Abdon ride numerous donkeys in Judg 10:4 and 12:14, where family size and access to mounts signal status [@king-stager-life].
+Abraham saddles a donkey for his journey in Gen 22:3, a detail consistent with Bronze Age and later travel. The prophet Balaam rides a female donkey in Num 22:21–35. In that narrative the animal sees the divine messenger before its rider does. In Judg 5:10, donkey riders form a distinct audience addressed by the song. The sons of Jair and the descendants of Abdon ride numerous donkeys in Judg 10:4 and 12:14, where family size and access to mounts signal status [@king-stager-life, 112–122, 186–189].
 
 Mules appear at crucial moments in stories of the Davidic household. Absalom rides one in 2 Sam 18:9. In 1 Kgs 1:33, 38, 44, Solomon rides David's own mule to be anointed, making the reigning king's support visible. Lev 19:19 forbids breeding different kinds of livestock together. That rule creates a question for readers of the court accounts, since mules are hybrids. The narratives leave the origins of the royal animals unstated.
 

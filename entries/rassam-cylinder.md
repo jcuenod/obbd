@@ -4,7 +4,7 @@ The Rassam Cylinder is a ten-sided clay prism inscribed with the annals of the A
 
 ## Description and Provenance
 
-The prism, British Museum 91026, is the principal surviving copy of the annals edition called Prism A or Ashurbanipal 11. It carries Akkadian cuneiform writing around its faces. It was found in a wall of the North Palace at [[nineveh|Nineveh]], a setting consistent with the closing account of palace construction. The conventional name is also applied to a different object found by Rassam, a cylinder of Sennacherib dated to 700 BCE that records his campaign against Judah in 701 BCE. [@anet, 287–288, 294–301] [@rinap3-1]
+The prism, British Museum 91026, is the principal surviving copy of the annals edition called Prism A or Ashurbanipal 11. It carries Akkadian cuneiform writing around its faces. It was found in a wall of the North Palace at [[nineveh|Nineveh]], a setting consistent with the closing account of palace construction. The conventional name is also applied to a different object found by Rassam, a cylinder of Sennacherib dated to 700 BCE that records his campaign against Judah in 701 BCE. [@anet, 287–288, 294–301] [@rinap3-1, no. 4]
 
 ## Contents
 
@@ -14,13 +14,13 @@ The prism, British Museum 91026, is the principal surviving copy of the annals e
 
 Nah 3:8–10 recalls the capture of Thebes to warn Nineveh that its own defenses and allies cannot guarantee its safety. Ashurbanipal's inscription celebrates the taking of the city and its wealth. The two accounts use the same conquest to make different claims about imperial power. [@anet, 294–295]
 
-Ezra 4:9–10 associates deportees from Susa and Elam with Osnappar, widely identified as Ashurbanipal. The devastation and relocation described in the royal accounts make the identification historically plausible. The prism gives no roster of the people whom Ezra places in Samaria and the wider province. [@anet] [@abd]
+Ezra 4:9–10 associates deportees from Susa and Elam with Osnappar, widely identified as Ashurbanipal. The devastation and relocation described in the royal accounts make the identification historically plausible. The prism gives no roster of the people whom Ezra places in Samaria and the wider province. [@anet, 297–301] [@abd, 5:71–75]
 
-The list of twenty-two western rulers including [[manasseh|Manasseh of Judah]], the ruler introduced in 2 Kgs 21:1, occurs in Prism C. Esarhaddon's inscriptions independently attest Manasseh. The proposal that his detention in Babylon in 2 Chr 33:11 was connected with Shamash-shum-ukin's rebellion remains conjectural. Jer 49:28–33 concerns [[qedarites-and-arabs|Kedar]] and a later campaign explicitly assigned to Nebuchadnezzar of Babylon. It supplies a comparison for imperial warfare on the Arabian frontier. [@rinap4] [@anet] [@abd]
+The list of twenty-two western rulers including [[manasseh|Manasseh of Judah]], the ruler introduced in 2 Kgs 21:1, occurs in Prism C. Esarhaddon's inscriptions independently attest Manasseh. The proposal that his detention in Babylon in 2 Chr 33:11 was connected with Shamash-shum-ukin's rebellion remains conjectural. Jer 49:28–33 concerns [[qedarites-and-arabs|Kedar]] and a later campaign explicitly assigned to Nebuchadnezzar of Babylon. It supplies a comparison for imperial warfare on the Arabian frontier. [@rinap4, no. 1] [@anet, 294–295] [@abd, 5:71–75]
 
 ## Scholarly Issues
 
-The prism is a late edition of the king's [[royal-annals-and-historiography|annals]]. Comparisons across editions show changes to the selection, grouping and presentation of episodes. Prism A's fullest narratives, such as the one on Arabia, can incorporate several developments under the heading of one campaign. Reconstruction of the order of events requires comparison with other inscriptions and contemporary records. [@anet]
+The prism is a late edition of the king's [[royal-annals-and-historiography|annals]]. Comparisons across editions show changes to the selection, grouping and presentation of episodes. Prism A's fullest narratives, such as the one on Arabia, can incorporate several developments under the heading of one campaign. Reconstruction of the order of events requires comparison with other inscriptions and contemporary records. [@anet, 297–301]
 
 ## Further Reading
 

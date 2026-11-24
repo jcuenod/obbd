@@ -4,7 +4,7 @@ The Ekron Royal Dedicatory Inscription is a limestone block found in 1996 at Tel
 
 ## Description and Provenance
 
-Excavators found the block in the sanctuary of Temple Complex 650 at [[ekron|Tel Miqne-Ekron]]. Its archaeological setting places it in the seventh century BCE, when Ekron was a major center of olive oil production within the Assyrian imperial system. The inscribed stone has five lines and records a dedication to a deity. The position of the find in a temple gives the dedication an archaeological context independent of the biblical traditions about the city's worship [@cos2] [@neaehl].
+Excavators found the block in the sanctuary of Temple Complex 650 at [[ekron|Tel Miqne-Ekron]]. Its archaeological setting places it in the seventh century BCE, when Ekron was a major center of olive oil production within the Assyrian imperial system. The inscribed stone has five lines and records a dedication to a deity. The position of the find in a temple gives the dedication an archaeological context independent of the biblical traditions about the city's worship [@cos2, 2.42] [@neaehl, 5:1957–1958].
 
 ## Contents
 
@@ -12,7 +12,7 @@ Achish gives his ancestry through Padi and three further generations and identif
 
 ## Significance for Biblical Studies
 
-Josh 13:3 names Ekron among the five principal [[philistines|Philistine]] cities. The inscription gives the city's own name at Tel Miqne. Sennacherib's account of his [[sennacherib-campaign-701|campaign in 701 BCE]] reports that Padi, king of Ekron, was delivered to Hezekiah in Jerusalem and was later restored. 2 Kgs 18:8 places Hezekiah in conflict with Philistine towns but gives no account of Padi. Esarhaddon and Ashurbanipal list a ruler of Ekron named Ikausu, generally identified with the inscription's Achish. These correspondences connect the temple inscription with the political history of the region [@cos2] [@rinap3-1] [@rinap4].
+Josh 13:3 names Ekron among the five principal [[philistines|Philistine]] cities. The inscription gives the city's own name at Tel Miqne. Sennacherib's account of his [[sennacherib-campaign-701|campaign in 701 BCE]] reports that Padi, king of Ekron, was delivered to Hezekiah in Jerusalem and was later restored. 2 Kgs 18:8 places Hezekiah in conflict with Philistine towns but gives no account of Padi. Esarhaddon and Ashurbanipal list a ruler of Ekron named Ikausu, generally identified with the inscription's Achish. These correspondences connect the temple inscription with the political history of the region [@cos2, 2.42, 2.119B] [@rinap3-1, no. 22 ii 37–iii 49] [@rinap4, no. 1].
 
 Achish is also the name of a king of [[gath|Gath]] in 1 Sam 21:10–15 (MT 21:11–16) and 1 Kgs 2:39–40. The comparison concerns the use of a royal name in Philistia over time. The biblical king belongs to a different city and narrative setting. The title in the inscription can also be compared with the term for Philistine leaders in 1 Sam 29:3–4.
 

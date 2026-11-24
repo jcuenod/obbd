@@ -4,7 +4,7 @@ The Hebrew Bible names several stars or groups of stars, particularly in the poe
 
 ## Ancient Near Eastern Evidence
 
-Babylonian and Assyrian scholars recorded the appearance of stars across the year. A compendium named *MUL.APIN* (“Plough Star”), after its opening star name, survives in copies from the first millennium BCE. It groups stars, records when certain stars become visible, and lists stars through whose part of the sky the moon travels. Such observations served practical and scholarly interests, including scheduling and [[astrology|the interpretation of celestial signs]] [@horowitz-cosmic-geography].
+Babylonian and Assyrian scholars recorded the appearance of stars across the year. A compendium named *MUL.APIN* (“Plough Star”), after its opening star name, survives in copies from the first millennium BCE. It groups stars, records when certain stars become visible, and lists stars through whose part of the sky the moon travels. Such observations served practical and scholarly interests, including scheduling and [[astrology|the interpretation of celestial signs]] [@horowitz-cosmic-geography, 150–192].
 
 In the late fifth century BCE, Babylonian astronomers developed the zodiac, a system dividing the path of the sun and planets into twelve equal signs. The system adapted features of earlier star lists, whose constellations varied in size and distribution. A reference to recognizable star groups can therefore come from a period earlier than the twelve-sign system. This matters when interpreting biblical terms sometimes translated “zodiac.”
 

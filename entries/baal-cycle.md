@@ -4,17 +4,17 @@ The Baal Cycle is a series of mythological poems preserved on six clay tablets f
 
 ## Manuscripts and Date
 
-The tablets were found at [[ugarit|Ugarit]], modern Ras Shamra. They are written in Ugaritic, a language related to Hebrew, in an alphabet whose signs were pressed into clay with a wedge-shaped tool. Modern editions conventionally number the six tablets 1.1–1.6 [@ktu3]. A scribal note on the last identifies Ilimilku and names a king Niqmaddu.
+The tablets were found at [[ugarit|Ugarit]], modern Ras Shamra. They are written in Ugaritic, a language related to Hebrew, in an alphabet whose signs were pressed into clay with a wedge-shaped tool. Modern editions conventionally number the six tablets 1.1–1.6 [@ktu3, 1.1–1.6]. A scribal note on the last identifies Ilimilku and names a king Niqmaddu.
 
 Older studies often placed the writing of the tablets under Niqmaddu II in the fourteenth century BCE. Subsequent finds have strengthened a late-thirteenth-century dating under a later king named Niqmaddu, generally numbered III. This discussion concerns the surviving tablets. The stories may draw on older traditions transmitted in speech or performance, whose original form and date remain unknown.
 
 ## Contents
 
-The usual reconstruction begins with the struggle between [[baal|Baal]], the storm god, and Yam, whose name means “Sea.” Kothar, the divine craftsman, provides weapons with which Baal overcomes Yam. Baal's victory displays his power, but a palace is still needed to express his standing among the gods. Anat and Athirat help secure El's consent for its construction [@parker-unp].
+The usual reconstruction begins with the struggle between [[baal|Baal]], the storm god, and Yam, whose name means “Sea.” Kothar, the divine craftsman, provides weapons with which Baal overcomes Yam. Baal's victory displays his power, but a palace is still needed to express his standing among the gods. Anat and Athirat help secure El's consent for its construction [@parker-unp, 82, 94–141].
 
-Kothar builds the palace on Mount Zaphon. A fire burns in the palace through a sequence of days, and on the seventh the work reaches its completion. The series of days marks the progress from construction to completion, a pattern worth comparing with other ancient stories of completed works and [[temple-building-accounts|temple building]]. The palace gives the victorious god a permanent seat from which to rule [@cos1].
+Kothar builds the palace on Mount Zaphon. A fire burns in the palace through a sequence of days, and on the seventh the work reaches its completion. The series of days marks the progress from construction to completion, a pattern worth comparing with other ancient stories of completed works and [[temple-building-accounts|temple building]]. The palace gives the victorious god a permanent seat from which to rule [@cos1, 1.86].
 
-In the last part, Baal confronts Mot, whose name means “Death.” Baal is reported dead, and the gods mourn him. Athtar takes Baal's throne briefly, finds himself unequal to it, and descends. Anat attacks Mot, and Baal eventually returns to his throne. Baal and Mot later fight again, and Mot yields after receiving a warning from the sun goddess Shapshu [@parker-unp].
+In the last part, Baal confronts Mot, whose name means “Death.” Baal is reported dead, and the gods mourn him. Athtar takes Baal's throne briefly, finds himself unequal to it, and descends. Anat attacks Mot, and Baal eventually returns to his throne. Baal and Mot later fight again, and Mot yields after receiving a warning from the sun goddess Shapshu [@parker-unp, 82, 141–164].
 
 ## Significance for Biblical Studies
 

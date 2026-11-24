@@ -4,13 +4,13 @@ The Book of the Dead is the modern name for a collection of Egyptian funerary te
 
 ## Manuscripts and Date
 
-The Egyptian title is commonly translated as “Coming Forth by Day.” The collection took shape by the beginning of the New Kingdom, in the middle of the second millennium BCE, drawing on older funerary traditions. Surviving papyri often contain pictures alongside their texts, and some spells also appear on coffins, wrappings, or burial equipment. Papyri were prepared with different selections of texts. A more regular order developed in the first millennium BCE, in the tradition usually called the Saite recension, named for the period of the dynasty based at Sais [@ael] [@anet].
+The Egyptian title is commonly translated as “Coming Forth by Day.” The collection took shape by the beginning of the New Kingdom, in the middle of the second millennium BCE, drawing on older funerary traditions. Surviving papyri often contain pictures alongside their texts, and some spells also appear on coffins, wrappings, or burial equipment. Papyri were prepared with different selections of texts. A more regular order developed in the first millennium BCE, in the tradition usually called the Saite recension, named for the period of the dynasty based at Sais [@ael, 2:119–123] [@anet, 31–36].
 
 ## Contents
 
 The spells give the deceased words and knowledge for overcoming dangers, entering protected places, and taking part in the life of the gods. In Spell 125, the deceased addresses divine judges and declares freedom from wrongdoing. The statements, often called the negative confession, deny a range of offenses such as theft and unjust conduct. They are declarations of innocence made as part of obtaining a favorable judgment.
 
-The associated pictures often show a balance with the deceased's heart on one side and an emblem of [[maat|Maat, or right order]], on the other. In some copies Anubis attends the scales, Thoth records the outcome, and the deity Ammit waits by the balance. A favorable result allows the deceased to approach Osiris. A related spell, often written on a beetle-shaped amulet placed with the body, asks the heart to give no hostile testimony [@ael].
+The associated pictures often show a balance with the deceased's heart on one side and an emblem of [[maat|Maat, or right order]], on the other. In some copies Anubis attends the scales, Thoth records the outcome, and the deity Ammit waits by the balance. A favorable result allows the deceased to approach Osiris. A related spell, often written on a beetle-shaped amulet placed with the body, asks the heart to give no hostile testimony [@ael, 2:124–132].
 
 ## Significance for Biblical Studies
 

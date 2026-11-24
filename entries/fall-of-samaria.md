@@ -4,7 +4,7 @@ Samaria, capital of the northern kingdom of Israel, fell to Assyria in the late 
 
 ## Sources
 
-A [[babylonian-chronicles|Babylonian chronicle]] says that [[shalmaneser-v|Shalmaneser V]] ravaged Šamaraʾin, a name generally understood as Samaria. [[sargon-ii-inscriptions|Inscriptions of Sargon II]] also claim a victory at Samaria. In versions of his account, Sargon reports removing more than twenty-seven thousand people, incorporating chariot personnel into his service, and resettling the area. The figures differ slightly among copies. They are royal claims and give no total for the population that had lived in the region [@abc] [@cos2].
+A [[babylonian-chronicles|Babylonian chronicle]] says that [[shalmaneser-v|Shalmaneser V]] ravaged Šamaraʾin, a name generally understood as Samaria. [[sargon-ii-inscriptions|Inscriptions of Sargon II]] also claim a victory at Samaria. In versions of his account, Sargon reports removing more than twenty-seven thousand people, incorporating chariot personnel into his service, and resettling the area. The figures differ slightly among copies. They are royal claims and give no total for the population that had lived in the region [@abc, 73] [@cos2, 2.118D–E].
 
 Assyrian administrative texts provide independent evidence that Samarian personnel were serving in chariot units. Documents associated with places such as Gozan also attest people with names suggestive of Israelite or Judean origin. A name can indicate a cultural connection, although it rarely establishes the circumstances in which an individual or a family moved. The evidence is consistent with relocation to the Assyrian heartland and other provinces.
 

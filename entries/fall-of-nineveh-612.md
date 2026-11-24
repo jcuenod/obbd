@@ -4,7 +4,7 @@ Nineveh, the capital of the Neo-Assyrian Empire, fell to a Babylonian and Median
 
 ## Sources
 
-The [[fall-of-nineveh-chronicle|Fall of Nineveh Chronicle]] records the campaign as part of the reign of the Babylonian king [[nabopolassar|Nabopolassar]]. It identifies the Babylonian army and its Median ally and places the fall in the month of Abu, in the summer of 612 BCE. It reports a siege lasting about three months and the removal of plunder. The ruler of the Medes is commonly identified as Cyaxares, the name given in Greek sources [@abc] [@glassner-chronicles].
+The [[fall-of-nineveh-chronicle|Fall of Nineveh Chronicle]] records the campaign as part of the reign of the Babylonian king [[nabopolassar|Nabopolassar]]. It identifies the Babylonian army and its Median ally and places the fall in the month of Abu, in the summer of 612 BCE. It reports a siege lasting about three months and the removal of plunder. The ruler of the Medes is commonly identified as Cyaxares, the name given in Greek sources [@abc, 94] [@glassner-chronicles, no. 22, 218–223].
 
 Excavations at the Halzi Gate uncovered a narrowed passageway and the remains of people who died amid debris. The changes to the entrance fit preparations for a defense, and the destruction fits a violent end. The identities of the dead cannot be established from their position alone. Some may have been defending the city and others trying to flee.
 
@@ -12,7 +12,7 @@ Excavations at the Halzi Gate uncovered a narrowed passageway and the remains of
 
 The Medes captured Assur in 614 BCE, and Nabopolassar reached an agreement with their king. Two years later, the allied armies attacked [[nineveh|Nineveh]] itself. The Assyrian king Sîn-šarra-iškun appears to have died during the fall. The loss of the capital and its resources left the Assyrian state unable to regain its former position.
 
-Aššur-uballiṭ II maintained a government and army at [[harran|Harran]] until the city fell in 610 BCE. Egyptian troops joined an unsuccessful attempt to retake it in 609 BCE. Nineveh's destruction was therefore a decisive stage in Assyria's collapse, followed by a short period in which remaining Assyrian forces and their allies tried to reverse events [@abc].
+Aššur-uballiṭ II maintained a government and army at [[harran|Harran]] until the city fell in 610 BCE. Egyptian troops joined an unsuccessful attempt to retake it in 609 BCE. Nineveh's destruction was therefore a decisive stage in Assyria's collapse, followed by a short period in which remaining Assyrian forces and their allies tried to reverse events [@abc, 95–96].
 
 ## Biblical Accounts
 

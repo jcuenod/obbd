@@ -4,19 +4,19 @@ Sargon of Akkad founded a ruling dynasty and expanded its power across Mesopotam
 
 ## Extrabiblical Sources
 
-Inscriptions attributed to Sargon describe victories over cities in southern Mesopotamia and campaigns on its eastern flank. Many texts are known from copies of monumental inscriptions made centuries after his reign. Their titles and claims depict a ruler extending authority beyond a single city. His successors maintained and extended the kingdom. Under Naram-Sin, his grandson, [[victory-stele-of-naram-sin|royal art and inscriptions]] made distinctive claims about military success and the king's place among the gods. The capital city of Akkad has yet to be securely located. [@cos2, 2.89–2.91] [@anet]
+Inscriptions attributed to Sargon describe victories over cities in southern Mesopotamia and campaigns on its eastern flank. Many texts are known from copies of monumental inscriptions made centuries after his reign. Their titles and claims depict a ruler extending authority beyond a single city. His successors maintained and extended the kingdom. Under Naram-Sin, his grandson, [[victory-stele-of-naram-sin|royal art and inscriptions]] made distinctive claims about military success and the king's place among the gods. The capital city of Akkad has yet to be securely located. [@cos2, 2.89–2.91] [@anet, 267–268]
 
 Later scribes preserved traditions about Sargon's rise. The [[legend-of-sargon|birth legend]], surviving in first-millennium witnesses, casts him as the secretly born child of a priestess. His mother puts him in a reed basket sealed with bitumen, a water-drawer rescues and raises him, and Ishtar favors him. The tale's sequence shows how a lowly or concealed beginning could be used in a story about legitimate rule. It is a source for later views of Sargon, whose own early life remains poorly known. [@cos1, 1.133] [@anet, 119]
 
 ## Biblical Portrayal
 
-Exod 2:1–10 also describes an infant placed in a sealed basket at a river and raised after his rescue. Pharaoh's daughter takes the child, with his own mother serving as nurse. This shared exposure motif draws attention to different purposes in the accounts. The Akkadian text tells of a future ruler favored by Ishtar, while Exodus depicts survival under a royal threat and access to the household of Pharaoh. Similarity leaves the transmission of the motif open. [@cos1, 1.133] [@abd]
+Exod 2:1–10 also describes an infant placed in a sealed basket at a river and raised after his rescue. Pharaoh's daughter takes the child, with his own mother serving as nurse. This shared exposure motif draws attention to different purposes in the accounts. The Akkadian text tells of a future ruler favored by Ishtar, while Exodus depicts survival under a royal threat and access to the household of Pharaoh. Similarity leaves the transmission of the motif open. [@cos1, 1.133] [@abd, 1:76–78]
 
-Gen 10:10 includes Akkad among the cities of [[nimrod|Nimrod]] in Shinar. Gen 10:8–12 portrays that figure in association with cities and political power. Proposed models for Nimrod include Sargon, Tukulti-Ninurta I and the deity Ninurta, but none is securely established. [@abd]
+Gen 10:10 includes Akkad among the cities of [[nimrod|Nimrod]] in Shinar. Gen 10:8–12 portrays that figure in association with cities and political power. Proposed models for Nimrod include Sargon, Tukulti-Ninurta I and the deity Ninurta, but none is securely established. [@abd, 4:1116–1118]
 
 ## Historical Assessment
 
-The birth legend may have gained particular interest under Sargon II, the Neo-Assyrian ruler who bore the same name. Its early history is uncertain. The copper-alloy head found at Nineveh and often reproduced as a portrait of Sargon represents a ruler in the Akkadian tradition. It has no identifying inscription and could depict Naram-Sin or another king. These later texts and the uninscribed image require different kinds of arguments from those used to interpret royal inscriptions with named rulers. [@anep] [@cos1, 1.133] [@cos2, 2.89]
+The birth legend may have gained particular interest under Sargon II, the Neo-Assyrian ruler who bore the same name. Its early history is uncertain. The copper-alloy head found at Nineveh and often reproduced as a portrait of Sargon represents a ruler in the Akkadian tradition. It has no identifying inscription and could depict Naram-Sin or another king. These later texts and the uninscribed image require different kinds of arguments from those used to interpret royal inscriptions with named rulers. [@anep, fig. 432] [@cos1, 1.133] [@cos2, 2.89]
 
 ## Further Reading
 

@@ -4,7 +4,7 @@ Stone vessels and stepped pools are two kinds of archaeological evidence for Jew
 
 ## Archaeological Evidence
 
-Stone cups, bowls, and large jars appear in late Second Temple contexts. Workshops have been identified near Jerusalem and at sites in Galilee, including ʿEinot Amitai near Reina. People made some large vessels on a lathe. The distribution suggests that this craft served Jewish communities, and concentrations of finished vessels or production waste provide different evidence for local use and manufacture [@neaehl].
+Stone cups, bowls, and large jars appear in late Second Temple contexts. Workshops have been identified near Jerusalem and at sites in Galilee, including ʿEinot Amitai near Reina. People made some large vessels on a lathe. The distribution suggests that this craft served Jewish communities, and concentrations of finished vessels or production waste provide different evidence for local use and manufacture [@neaehl, 2:732–733, 5:1825–1828].
 
 A *miqveh* is a pool for ritual immersion, with the plural *miqvaʾot*. The earliest securely identified examples appear around the late second or early first century BCE. Many have steps leading into a plastered basin, and some have features associated with water collection or movement. The structures vary. Later rabbinic specifications for volume and connection to a reservoir cannot be assigned to each early pool without examining its construction and context.
 

@@ -4,9 +4,9 @@ The laws of the goring ox in Exodus 21 distinguish a first attack from an attack
 
 ## Ancient Near Eastern Evidence
 
-The [[laws-of-eshnunna|Laws of Eshnunna]] address both one ox killing another and a dangerous ox killing a person. In the former case, the owners divide the value of the living animal and the carcass. The ruling on a dangerous ox makes the owner's prior notice and failure to control it relevant to the payment. Different payments apply according to the status of the person killed. These cases organize liability around what the person responsible for the animal could have known and done. [@roth-law] [@cos2]
+The [[laws-of-eshnunna|Laws of Eshnunna]] address both one ox killing another and a dangerous ox killing a person. In the former case, the owners divide the value of the living animal and the carcass. The ruling on a dangerous ox makes the owner's prior notice and failure to control it relevant to the payment. Different payments apply according to the status of the person killed. These cases organize liability around what the person responsible for the animal could have known and done. [@roth-law, 65–67] [@cos2, 2.130]
 
-The [[code-of-hammurabi|Laws of Hammurabi]] distinguish an ox that gores a person in the street from a known gorer whose owner fails to restrain it. The first case gives no grounds for a claim against the owner. In the second, the owner owes silver if the animal kills someone. The amount again depends on the status of the victim. Neither Mesopotamian collection prescribes the execution of the negligent owner in these cases. [@roth-law] [@cos2]
+The [[code-of-hammurabi|Laws of Hammurabi]] distinguish an ox that gores a person in the street from a known gorer whose owner fails to restrain it. The first case gives no grounds for a claim against the owner. In the second, the owner owes silver if the animal kills someone. The amount again depends on the status of the victim. Neither Mesopotamian collection prescribes the execution of the negligent owner in these cases. [@roth-law, 129–130] [@cos2, 2.131]
 
 ## In the Hebrew Bible
 

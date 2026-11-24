@@ -4,13 +4,13 @@ Bethlehem is a town in the hills of Judah south of Jerusalem. A clay seal impres
 
 ## Location and Identification
 
-The Bethlehem associated with David is generally identified with modern Beit Lahm, south of Jerusalem. Ruth 1:1–2 calls it Bethlehem in Judah and describes the family as Ephrathites, a name also associated with Bethlehem in Mic 5:2 (MT 5:1, using the Hebrew numbering). Gen 35:19 places Rachel's burial on the way to Ephrath and identifies it with Bethlehem. The location remains debated because 1 Sam 10:2 places Rachel's tomb on the border of Benjamin. Some scholars understand the identification with Bethlehem in Genesis as a later explanation. [@abd]
+The Bethlehem associated with David is generally identified with modern Beit Lahm, south of Jerusalem. Ruth 1:1–2 calls it Bethlehem in Judah and describes the family as Ephrathites, a name also associated with Bethlehem in Mic 5:2 (MT 5:1, using the Hebrew numbering). Gen 35:19 places Rachel's burial on the way to Ephrath and identifies it with Bethlehem. The location remains debated because 1 Sam 10:2 places Rachel's tomb on the border of Benjamin. Some scholars understand the identification with Bethlehem in Genesis as a later explanation. [@abd, 1:712–715]
 
 ## Archaeological History
 
-A small clay [[seals-and-bullae|seal impression]] found in Jerusalem and published in 2012 is commonly read as naming Bethlehem. The fragmentary text belongs to a type conventionally associated with taxation or deliveries to the royal administration. If the reading is correct, it supplies an Iron Age attestation of the place from outside the Bible. A proposed identification in the much earlier [[amarna-letters|Amarna correspondence]] remains disputed, as the place named in the letter has also been identified with other towns. [@moran-amarna]
+A small clay [[seals-and-bullae|seal impression]] found in Jerusalem and published in 2012 is commonly read as naming Bethlehem. The fragmentary text belongs to a type conventionally associated with taxation or deliveries to the royal administration. If the reading is correct, it supplies an Iron Age attestation of the place from outside the Bible. A proposed identification in the much earlier [[amarna-letters|Amarna correspondence]] remains disputed, as the place named in the letter has also been identified with other towns. [@moran-amarna, EA 290]
 
-Justin Martyr mentions a cave associated with Jesus' birth in the second century CE. A church was dedicated at the traditional site in the fourth century, and the present building largely reflects a sixth-century rebuilding. Parts of the earlier pavement survive. The church and cave document the early development of Christian pilgrimage and commemoration. [@neaehl]
+Justin Martyr mentions a cave associated with Jesus' birth in the second century CE. A church was dedicated at the traditional site in the fourth century, and the present building largely reflects a sixth-century rebuilding. Parts of the earlier pavement survive. The church and cave document the early development of Christian pilgrimage and commemoration. [@neaehl, 1:203–209]
 
 ## Significance for Biblical Studies
 

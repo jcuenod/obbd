@@ -4,9 +4,9 @@ The Babylonian army captured Jerusalem twice in the early sixth century BCE. In 
 
 ## Sources
 
-The [[nebuchadnezzar-chronicle|Nebuchadnezzar Chronicle]] dates the capture of the city of Judah to the second of Adar in the king's seventh year, in March 597 BCE. It reports the removal of one king and appointment of another. Later palace documents independently name the deported king [[jehoiachin|Jehoiachin]] as a recipient of rations. No surviving Babylonian chronicle records the second capture [@abc] [@cos3].
+The [[nebuchadnezzar-chronicle|Nebuchadnezzar Chronicle]] dates the capture of the city of Judah to the second of Adar in the king's seventh year, in March 597 BCE. It reports the removal of one king and appointment of another. Later palace documents independently name the deported king [[jehoiachin|Jehoiachin]] as a recipient of rations. No surviving Babylonian chronicle records the second capture [@abc, 102] [@anet, 308].
 
-Excavations in the [[city-of-david|City of David]] have uncovered evidence of fire and destruction in buildings dated to the end of the monarchy. Burned deposits from Area G preserve pottery and hardened clay seal impressions. Arrowheads of types associated with the period have also been found in Jerusalem. At Lachish, the destruction of Level II gives evidence for severe damage in Judah's western foothills. The deposits help establish the scale of damage, while their exact year depends on historical reconstruction [@neaehl].
+Excavations in the [[city-of-david|City of David]] have uncovered evidence of fire and destruction in buildings dated to the end of the monarchy. Burned deposits from Area G preserve pottery and hardened clay seal impressions. Arrowheads of types associated with the period have also been found in Jerusalem. At Lachish, the destruction of Level II gives evidence for severe damage in Judah's western foothills. The deposits help establish the scale of damage, while their exact year depends on historical reconstruction [@neaehl, 2:708–709].
 
 ## Reconstruction
 

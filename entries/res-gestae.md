@@ -12,13 +12,13 @@ Augustus speaks in the first person. He presents his early military intervention
 
 ## Significance for Biblical Studies
 
-Luke 2:1 sets the birth narrative in the reign of Augustus and presents the emperor as authorizing an enrollment. The censuses in chapter 8 counted Roman citizens. An enrollment of inhabitants for provincial taxation, such as that associated with [[census-of-quirinius|Quirinius]], belonged to a different administrative category. The figures in the *Res Gestae* do not document the registration in Luke. [@abd]
+Luke 2:1 sets the birth narrative in the reign of Augustus and presents the emperor as authorizing an enrollment. The censuses in chapter 8 counted Roman citizens. An enrollment of inhabitants for provincial taxation, such as that associated with [[census-of-quirinius|Quirinius]], belonged to a different administrative category. The figures in the *Res Gestae* do not document the registration in Luke. [@abd, 1:883–886]
 
 The proclamation of peace in Luke 2:14 had a public vocabulary familiar to subjects of Rome, who could encounter assurances of peace in imperial texts and honors. The language of peace and safety in 1 Thess 5:3 may also evoke public claims of security. Its short and conventional phrasing leaves direct allusion uncertain. [[imperial-cult|Imperial honors]] and titles add a further context for early Christian language about divine sonship, which also has roots in Jewish scripture and tradition. Acts 13:14 names Antioch in Pisidia, one of the places where a copy stood, without mentioning the inscription. [@abd]
 
 ## Scholarly Issues
 
-The first-person account is selective about civil conflict and presents accumulation of authority as service to Rome. In that respect it admits comparison with earlier works of [[royal-annals-and-historiography|royal self-presentation]] such as the [[behistun-inscription|Behistun Inscription]] of Darius. The monuments differ in language, political institutions and the claims each ruler makes about legitimate authority. Comparison identifies recurrent strategies in inscribed accounts of rule without requiring a direct literary relationship. [@tad]
+The first-person account is selective about civil conflict and presents accumulation of authority as service to Rome. In that respect it admits comparison with earlier works of [[royal-annals-and-historiography|royal self-presentation]] such as the [[behistun-inscription|Behistun Inscription]] of Darius. The monuments differ in language, political institutions and the claims each ruler makes about legitimate authority. Comparison identifies recurrent strategies in inscribed accounts of rule without requiring a direct literary relationship. [@tad, C2.1]
 
 ## Further Reading
 

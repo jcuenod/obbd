@@ -4,7 +4,7 @@ The menorah is the lampstand associated with the tabernacle and the Jewish templ
 
 ## Archaeological Evidence
 
-Stylized trees with balanced branches occur in Bronze Age Levantine art. Carol Meyers drew on this imagery to interpret the tabernacle lampstand's branches, cups, buds, and flowers. The comparison gives the design a setting in ancient art and helps explain its appearance as a plant. It does not fix the date when the description in Exodus was written [@anep] [@keel-symbolism].
+Stylized trees with balanced branches occur in Bronze Age Levantine art. Carol Meyers drew on this imagery to interpret the tabernacle lampstand's branches, cups, buds, and flowers. The comparison gives the design a setting in ancient art and helps explain its appearance as a plant. It does not fix the date when the description in Exodus was written [@anep] [@keel-symbolism, 164–166].
 
 Coins issued by Mattathias Antigonus in the late first century BCE show a menorah and are among the earliest securely dated images. The [[magdala-stone|Magdala Stone]] depicts one in a first-century synagogue. The [[arch-of-titus|Arch of Titus]] in Rome, erected after Titus's death in 81 CE, shows a menorah carried with other temple spoils. The broad stepped base shown there differs from the bases in some Jewish representations. Scholars debate whether it depicts the original base, a support used to carry the object, or a feature of the Roman representation.
 

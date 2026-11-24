@@ -4,11 +4,11 @@ A wall painting in the tomb of Khnumhotep II at Beni Hasan in Egypt shows a part
 
 ## Description and Provenance
 
-The scene is part of the painted decoration of a rock-cut tomb at Beni Hasan in Middle Egypt. Khnumhotep II was a regional governor during the Egyptian Middle Kingdom. An Egyptian official shown in the painting presents a written record that dates the event to year six of Senusret II. The scene belongs to a tomb program that presents the governor's office and his household, so the choice and arrangement of figures serve that wider purpose. [@anep]
+The scene is part of the painted decoration of a rock-cut tomb at Beni Hasan in Middle Egypt. Khnumhotep II was a regional governor during the Egyptian Middle Kingdom. An Egyptian official shown in the painting presents a written record that dates the event to year six of Senusret II. The scene belongs to a tomb program that presents the governor's office and his household, so the choice and arrangement of figures serve that wider purpose. [@anep, fig. 3]
 
 ## Contents
 
-The inscription calls the visitors *Aamu*, an Egyptian term applied to peoples from areas to the northeast of Egypt, and associates the party with a place or group called Shu. It numbers the group at thirty-seven, though the painting depicts a selection from them. A man whose name is commonly rendered Abisha leads the party. His title means “ruler of foreign lands.” The same Egyptian expression lies behind the name [[hyksos|Hyksos]], later used for a dynasty that ruled northern Egypt. The earlier use shows the title was already applied to a foreign leader before that dynasty. [@anep]
+The inscription calls the visitors *Aamu*, an Egyptian term applied to peoples from areas to the northeast of Egypt, and associates the party with a place or group called Shu. It numbers the group at thirty-seven, though the painting depicts a selection from them. A man whose name is commonly rendered Abisha leads the party. His title means “ruler of foreign lands.” The same Egyptian expression lies behind the name [[hyksos|Hyksos]], later used for a dynasty that ruled northern Egypt. The earlier use shows the title was already applied to a foreign leader before that dynasty. [@anep, fig. 3]
 
 The accompanying text associates the visit with *mesdemet*, usually understood as galena, a lead mineral used in dark eye paint. The clothing includes patterned fabrics, and the animals are shown carrying loads. One person carries a portable lyre, and others carry weapons or implements. Some scholars have identified equipment on a donkey as bellows and proposed that the party included traveling metalworkers. The object's identity remains uncertain.
 

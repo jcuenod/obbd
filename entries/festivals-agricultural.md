@@ -4,7 +4,7 @@ Three annual festivals in the Hebrew Bible follow the agricultural year of the s
 
 ## Ancient Near Eastern Evidence
 
-The small inscription known as the [[gezer-calendar|Gezer Calendar]] lists parts of a year through tasks such as ingathering, sowing, and harvesting. It shows how familiar rhythms could organize the year without identifying a festival for each task. At Late Bronze Age Ugarit, related ritual tablets prescribe offerings for a particular month, in rites often associated with the vintage. They show how recurring seasonal activities and dated offerings could form part of a city's religious life [@dobbs-allsopp-hebrew-inscriptions] [@ktu3].
+The small inscription known as the [[gezer-calendar|Gezer Calendar]] lists parts of a year through tasks such as ingathering, sowing, and harvesting. It shows how familiar rhythms could organize the year without identifying a festival for each task. At Late Bronze Age Ugarit, related ritual tablets prescribe offerings for a particular month, in rites often associated with the vintage. They show how recurring seasonal activities and dated offerings could form part of a city's religious life [@dobbs-allsopp-hebrew-inscriptions, 155–165] [@ktu3, 1.41, 1.87].
 
 Ritual texts from [[emar-texts|Emar]] on the Euphrates describe a festival called *zukru*. It brought together offerings and public rites at prescribed points in the calendar, with a fuller observance at intervals. The texts show the importance of scheduling and participation for communal worship. Their associations differ from those of the Israelite festivals and do not establish a shared festival of the same name or origin.
 

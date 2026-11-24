@@ -4,23 +4,23 @@
 
 ## Manuscripts and Date
 
-The title comes from the opening words, “When on high.” The Akkadian text survives mostly on first-millennium tablets from cities in Babylonia and Assyria. Its composition date remains debated. W. G. Lambert favored the period around Nebuchadnezzar I, c. 1100 BCE, when Babylonian royal ideology gave greater prominence to [[marduk|Marduk]]. Earlier dates in the Kassite or Old Babylonian periods have also been proposed. One Assyrian version associates the leading role with the god Ashur. [@lambert-bcm] [@cos1, 1.111]
+The title comes from the opening words, “When on high.” The Akkadian text survives mostly on first-millennium tablets from cities in Babylonia and Assyria. Its composition date remains debated. W. G. Lambert favored the period around Nebuchadnezzar I, c. 1100 BCE, when Babylonian royal ideology gave greater prominence to [[marduk|Marduk]]. Earlier dates in the Kassite or Old Babylonian periods have also been proposed. One Assyrian version associates the leading role with the god Ashur. [@lambert-bcm, 3–6] [@cos1, 1.111]
 
 ## Contents
 
-The poem begins with the fresh waters personified as Apsu and the salt waters as Tiamat. A series of conflicts follows the birth of the gods. When Tiamat prepares for battle, Marduk agrees to face her after the gods recognize his supreme authority. He defeats her and divides her body, making the heavens from part of it and organizing the cosmos. [@lambert-bcm]
+The poem begins with the fresh waters personified as Apsu and the salt waters as Tiamat. A series of conflicts follows the birth of the gods. When Tiamat prepares for battle, Marduk agrees to face her after the gods recognize his supreme authority. He defeats her and divides her body, making the heavens from part of it and organizing the cosmos. [@lambert-bcm, 45–60]
 
-Marduk establishes celestial stations and regulates time. Humans are made from the blood of Qingu, Tiamat's ally, so that the gods can be relieved of work. The other gods build Babylon's sanctuary and acclaim Marduk's exalted status. The story joins the ordering of the world to the exaltation of a city and its god. Its later use at the [[akitu-festival|New Year festival]] placed it within a ceremony of Babylonian worship. [@lambert-bcm] [@cos1, 1.111]
+Marduk establishes celestial stations and regulates time. Humans are made from the blood of Qingu, Tiamat's ally, so that the gods can be relieved of work. The other gods build Babylon's sanctuary and acclaim Marduk's exalted status. The story joins the ordering of the world to the exaltation of a city and its god. Its later use at the [[akitu-festival|New Year festival]] placed it within a ceremony of Babylonian worship. [@lambert-bcm, 96–119] [@cos1, 1.111]
 
 ## Significance for Biblical Studies
 
-In Gen 1:2 and 1:6–8 the deep waters are present at the beginning and God separates waters by making the expanse. Gen 1:14–18 also assigns the lights of heaven roles in measuring time. The Hebrew word *tĕhôm* (“deep”) and the Akkadian term for the sea related to Tiamat's name belong to shared Semitic vocabulary. The lexical resemblance gives little support for treating the Hebrew term as a borrowed divine name. [@lambert-bcm] [@day-dragon]
+In Gen 1:2 and 1:6–8 the deep waters are present at the beginning and God separates waters by making the expanse. Gen 1:14–18 also assigns the lights of heaven roles in measuring time. The Hebrew word *tĕhôm* (“deep”) and the Akkadian term for the sea related to Tiamat's name belong to shared Semitic vocabulary. The lexical resemblance gives little support for treating the Hebrew term as a borrowed divine name. [@lambert-bcm, 84–107, 169–200] [@day-dragon, 49–56]
 
-The poem's [[chaoskampf|combat with a sea power]] finds closer parallels in passages such as Ps 74:12–17 and Isa 51:9–10, where divine action against a watery adversary is explicit. The biblical poets use such imagery for creation or deliverance in different contexts. The links with Ugaritic and Syrian traditions show that the motif was widely available. [@day-dragon] [@parker-unp]
+The poem's [[chaoskampf|combat with a sea power]] finds closer parallels in passages such as Ps 74:12–17 and Isa 51:9–10, where divine action against a watery adversary is explicit. The biblical poets use such imagery for creation or deliverance in different contexts. The links with Ugaritic and Syrian traditions show that the motif was widely available. [@day-dragon, 49–56] [@parker-unp, 84–86, 102–105, 111, 141–142]
 
 ## Scholarly Issues
 
-Hermann Gunkel made comparisons with Babylonian myth influential in the study of Genesis. Later scholarship has paid closer attention to the different plots and to the possibility that both writings draw on a wider ancient repertoire. Lambert also proposed a West Semitic setting for aspects of the Babylonian combat story. Modern comparisons typically distinguish shared motifs from evidence for a direct relation. The epic's seven tablets are divisions of the written work, and the seven days ending in rest in Gen 1:31–2:3 follow a different narrative structure. [@lambert-bcm] [@day-dragon]
+Hermann Gunkel made comparisons with Babylonian myth influential in the study of Genesis. Later scholarship has paid closer attention to the different plots and to the possibility that both writings draw on a wider ancient repertoire. Lambert also proposed a West Semitic setting for aspects of the Babylonian combat story. Modern comparisons typically distinguish shared motifs from evidence for a direct relation. The epic's seven tablets are divisions of the written work, and the seven days ending in rest in Gen 1:31–2:3 follow a different narrative structure. [@lambert-bcm] [@day-dragon, 49–56]
 
 ## Further Reading
 

@@ -12,7 +12,7 @@ Kilamuwa names earlier rulers and says they did little to improve conditions. He
 
 ## Significance for Biblical Studies
 
-2 Kgs 16:7–9 relates that Ahaz sent silver and gold to the Assyrian king to obtain help against rival rulers. Kilamuwa’s claim comes from an earlier political setting and shows that a small kingdom could represent obtaining imperial support as a royal achievement. The image of the ruler as a parent has comparisons in Isa 49:23, where kings and queens are foster parents or nurses, and Num 11:12, where Moses questions whether he must carry Israel like a nursing child. [@cos2, 2.30] [@abd]
+2 Kgs 16:7–9 relates that Ahaz sent silver and gold to the Assyrian king to obtain help against rival rulers. Kilamuwa’s claim comes from an earlier political setting and shows that a small kingdom could represent obtaining imperial support as a royal achievement. The image of the ruler as a parent has comparisons in Isa 49:23, where kings and queens are foster parents or nurses, and Num 11:12, where Moses questions whether he must carry Israel like a nursing child. [@cos2, 2.30] [@abd, 5:350–353]
 
 Job 29:15–16 uses fatherhood as an image of help for the needy, and Ps 72:12–14 gives such protection a central role in kingship. Amos 2:6 and Joel 3:3 (MT 4:3) describe human beings exchanged for comparatively little. Kilamuwa’s portrayal of desperation gives a regional comparison for that imagery. The biblical passages use the motif for their own critiques of injustice. [@cos2, 2.30] [@abd]
 

@@ -4,7 +4,7 @@ Baal of Peor is a deity associated with a site in the territory of Moab, east of
 
 ## Sources and Iconography
 
-The title means “Lord of Peor” and probably designates a local form of [[baal|Baal]]. The title links the god to Peor, a name connected in biblical tradition with the district of Beth-peor. No known inscription or securely identified image from the region attests Baal of Peor by this title. Information about the deity's worship comes chiefly from the biblical accounts, which are concerned with Israel's conduct and preserve few details about the religion of the [[moabites|Moabites]] [@ddd].
+The title means “Lord of Peor” and probably designates a local form of [[baal|Baal]]. The title links the god to Peor, a name connected in biblical tradition with the district of Beth-peor. No known inscription or securely identified image from the region attests Baal of Peor by this title. Information about the deity's worship comes chiefly from the biblical accounts, which are concerned with Israel's conduct and preserve few details about the religion of the [[moabites|Moabites]] [@ddd, 147–149].
 
 ## In the Hebrew Bible
 

@@ -4,11 +4,11 @@ Boundary markers indicated where one person's land ended and another's began. In
 
 ## Ancient Near Eastern Evidence
 
-The Egyptian [[instruction-of-amenemope|Instruction of Amenemope]] warns against moving markers at the edges of fields and against encroaching on the land of a widow. By placing the two warnings together, it treats the protection of a boundary as a question of conduct toward vulnerable people. The passage is an instruction to a pupil, so it expresses a standard of behavior without laying down a judicial penalty [@ael].
+The Egyptian [[instruction-of-amenemope|Instruction of Amenemope]] warns against moving markers at the edges of fields and against encroaching on the land of a widow. By placing the two warnings together, it treats the protection of a boundary as a question of conduct toward vulnerable people. The passage is an instruction to a pupil, so it expresses a standard of behavior without laying down a judicial penalty [@ael, 2:157–158].
 
-The Middle Assyrian Laws address encroachment in a different form. An offender who incorporates part of a neighbor's land into his own can be required to surrender more land than he took and face additional punishment. The text survives on the tablet commonly called Tablet B. Hittite laws also deal with land use and offenses against neighboring property, which illustrates a wider legal concern even where a provision does not concern physically moving a stone [@roth-law].
+The Middle Assyrian Laws address encroachment in a different form. An offender who incorporates part of a neighbor's land into his own can be required to surrender more land than he took and face additional punishment. The text survives on the tablet commonly called Tablet B. Hittite laws also deal with land use and offenses against neighboring property, which illustrates a wider legal concern even where a provision does not concern physically moving a stone [@roth-law, 176].
 
-Babylonian [[kudurru|land-grant monuments]] preserved royal grants or other privileges, often beneath divine symbols. Many invoke punishment against anyone who alters the record or damages the monument. Such stones document ownership on a different scale from ordinary field markers [@cos2] [@anep]. Later Greek boundary stones marked limits or called attention to legal claims, and Roman worship of Terminus gave religious recognition to boundaries.
+Babylonian [[kudurru|land-grant monuments]] preserved royal grants or other privileges, often beneath divine symbols. Many invoke punishment against anyone who alters the record or damages the monument. Such stones document ownership on a different scale from ordinary field markers [@roth-law, 176] [@anep, figs. 454, 518–521]. Later Greek boundary stones marked limits or called attention to legal claims, and Roman worship of Terminus gave religious recognition to boundaries.
 
 ## In the Hebrew Bible
 

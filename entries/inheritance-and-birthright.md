@@ -4,9 +4,9 @@ Inheritance in ancient Israel transferred property and responsibilities within a
 
 ## Ancient Near Eastern Evidence
 
-In the Babylonian [[code-of-hammurabi|Laws of Hammurabi]], provisions 165–167 describe division among sons with qualifications. A son may receive a documented gift before the rest of the estate is divided. Other provisions account for sons' mothers and for resources needed by a son not yet married. Other collections, including the [[middle-assyrian-laws|Middle Assyrian Laws]], recognize a preferential share for the oldest son in some circumstances. The details of priority and the division of property vary [@roth-law].
+In the Babylonian [[code-of-hammurabi|Laws of Hammurabi]], provisions 165–167 describe division among sons with qualifications. A son may receive a documented gift before the rest of the estate is divided. Other provisions account for sons' mothers and for resources needed by a son not yet married. Other collections, including the [[middle-assyrian-laws|Middle Assyrian Laws]], recognize a preferential share for the oldest son in some circumstances. The details of priority and the division of property vary [@roth-law, 113–114].
 
-Documents from [[emar-texts|Emar]] and [[nuzi-texts|Nuzi]] include formal devices for designating women as heirs. At Emar a woman can be assigned the position described as male and female in a will, with responsibilities as well as rights. In the Persian period, [[elephantine-papyri|documents from Elephantine]] describe property held by Mibtahiah and the later division of some of her assets between her sons. The records show different ways family property could pass to women or through them [@cos3] [@tad].
+Documents from [[emar-texts|Emar]] and [[nuzi-texts|Nuzi]] include formal devices for designating women as heirs. At Emar a woman can be assigned the position described as male and female in a will, with responsibilities as well as rights. In the Persian period, [[elephantine-papyri|documents from Elephantine]] describe property held by Mibtahiah and the later division of some of her assets between her sons. The records show different ways family property could pass to women or through them [@cos3] [@tad, B2.3–B2.4, B2.6, B2.9–B2.11].
 
 ## In the Hebrew Bible
 

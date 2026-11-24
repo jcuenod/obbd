@@ -4,9 +4,9 @@ The calendars used in ancient Israel and Judah linked months to the moon and fes
 
 ## Ancient Near Eastern Evidence
 
-A lunisolar calendar follows the moon for its months and keeps the year in step with the seasons. Twelve lunar months are shorter than a solar year, so another month is inserted when necessary. This adjustment is called intercalation. Babylonian calendars could insert a second Adar or Elul, and the pattern became more regular in the Persian period. The [[elephantine-papyri|Elephantine papyri]], some of which give dates in both Egyptian and Babylonian forms, provide evidence for how these reckonings were used together [@cohen-cultic-calendars] [@tad].
+A lunisolar calendar follows the moon for its months and keeps the year in step with the seasons. Twelve lunar months are shorter than a solar year, so another month is inserted when necessary. This adjustment is called intercalation. Babylonian calendars could insert a second Adar or Elul, and the pattern became more regular in the Persian period. The [[elephantine-papyri|Elephantine papyri]], some of which give dates in both Egyptian and Babylonian forms, provide evidence for how these reckonings were used together [@cohen-cultic-calendars, 3–12] [@tad, A4.1].
 
-The agricultural cycle could also serve to describe a period of time. The [[gezer-calendar|Gezer calendar]] names periods by work such as harvesting and sowing. Its sequence illustrates how tasks could organize a year, though the purpose of the inscription is debated. It does not list the official month names used in dated documents [@ahituv-echoes].
+The agricultural cycle could also serve to describe a period of time. The [[gezer-calendar|Gezer calendar]] names periods by work such as harvesting and sowing. Its sequence illustrates how tasks could organize a year, though the purpose of the inscription is debated. It does not list the official month names used in dated documents [@ahituv-echoes, 252–256].
 
 ## In the Hebrew Bible
 

@@ -4,13 +4,13 @@ The Babylonian Theodicy is an Akkadian poem from ancient Mesopotamia in which a 
 
 ## Manuscripts and Date
 
-Several clay tablets preserve parts of the poem. The surviving copies are from the first millennium BCE, and an ancient commentary attests study of its language. A later list of kings and scholars associates the scholar Saggil-kīnam-ubbib with rulers of the late second millennium BCE, including Nebuchadnezzar I and Adad-apla-iddina. This tradition supports an approximate date around the eleventh century BCE, though it does not establish a year of composition [@lambert-bwl].
+Several clay tablets preserve parts of the poem. The surviving copies are from the first millennium BCE, and an ancient commentary attests study of its language. A later list of kings and scholars associates the scholar Saggil-kīnam-ubbib with rulers of the late second millennium BCE, including Nebuchadnezzar I and Adad-apla-iddina. This tradition supports an approximate date around the eleventh century BCE, though it does not establish a year of composition [@lambert-bwl, 63–91].
 
 The reconstructed poem has twenty-seven stanzas of eleven lines each. Within a stanza the same written sign begins each line. Reading these signs in sequence from stanza to stanza produces an acrostic, a message formed from opening signs or letters. The message identifies Saggil-kīnam-ubbib as a specialist in ritual incantations and presents him as devoted to god and king.
 
 ## Contents
 
-The sufferer and his friend speak in alternate stanzas. The sufferer begins by describing his isolation and later points to people who disregard the gods yet enjoy prosperity. He challenges the expectation that honoring the gods reliably brings well-being. His friend urges patience and defends piety, insisting that humans have difficulty understanding the ways of the gods [@lambert-bwl].
+The sufferer and his friend speak in alternate stanzas. The sufferer begins by describing his isolation and later points to people who disregard the gods yet enjoy prosperity. He challenges the expectation that honoring the gods reliably brings well-being. His friend urges patience and defends piety, insisting that humans have difficulty understanding the ways of the gods [@lambert-bwl, 63–91].
 
 Near the end the friend agrees that the gods have given human beings a tendency toward false speech. The sufferer ends by appealing for help and mercy from the god and goddess who have abandoned him. The poem ends at the appeal, before any response or restoration is narrated. The ending gives room to both the distress voiced in the dialogue and the expectation that a god might answer.
 

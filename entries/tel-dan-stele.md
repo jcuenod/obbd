@@ -4,11 +4,11 @@ The Tel Dan Stele is a fragmentary Aramaic victory inscription from the ninth ce
 
 ## Description and Provenance
 
-The three basalt fragments carry Old Aramaic in an alphabetic script. The largest fragment, conventionally called A, was found in 1993 in reused masonry near Dan's gate complex. Two smaller fragments, B1 and B2, came to light in the same general area in 1994. Their secondary contexts show that the monument had been broken up before the stones were incorporated into later features. The original place of erection is unknown. The fragments are held by the Israel Antiquities Authority and have been exhibited at the Israel Museum [@neaehl].
+The three basalt fragments carry Old Aramaic in an alphabetic script. The largest fragment, conventionally called A, was found in 1993 in reused masonry near Dan's gate complex. Two smaller fragments, B1 and B2, came to light in the same general area in 1994. Their secondary contexts show that the monument had been broken up before the stones were incorporated into later features. The original place of erection is unknown. The fragments are held by the Israel Antiquities Authority and have been exhibited at the Israel Museum [@neaehl, 1:329–332].
 
 ## Contents
 
-The surviving text invokes Hadad and refers to the author's father, whom a king of Israel opposed. Its author boasts of defeating opposing forces. In the first editors' arrangement, the remaining words at lines 7–9 form claims about killing a king of Israel and a king associated with *bytdwd*. The letters of the dynastic expression survive on fragment A. The full personal names depend on combining the fragments and supplying missing letters. The most familiar reconstruction identifies the kings as Joram of Israel and Ahaziah of Judah [@kai; @ahituv-echoes].
+The surviving text invokes Hadad and refers to the author's father, whom a king of Israel opposed. Its author boasts of defeating opposing forces. In the first editors' arrangement, the remaining words at lines 7–9 form claims about killing a king of Israel and a king associated with *bytdwd*. The letters of the dynastic expression survive on fragment A. The full personal names depend on combining the fragments and supplying missing letters. The most familiar reconstruction identifies the kings as Joram of Israel and Ahaziah of Judah [@kai, no. 310; @ahituv-echoes, 467–473].
 
 ## Significance for Biblical Studies
 

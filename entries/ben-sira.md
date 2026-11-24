@@ -4,9 +4,9 @@ The Wisdom of Ben Sira, also called Sirach, is a Jewish book of teachings compos
 
 ## Manuscripts and Date
 
-The book takes its name from Jesus, or Yeshua, son of Eleazar son of Sira. The Greek translator's prologue dates his arrival in Egypt to the thirty-eighth year of a king called Euergetes, generally identified as Ptolemy VIII. This places his arrival in 132 BCE. The praise of the high priest Simon in Sir 50:1–21, usually identified as Simon II, and the book's apparent setting before the persecution under Antiochus IV support the usual date of c. 190–175 BCE for the Hebrew composition. [@abd]
+The book takes its name from Jesus, or Yeshua, son of Eleazar son of Sira. The Greek translator's prologue dates his arrival in Egypt to the thirty-eighth year of a king called Euergetes, generally identified as Ptolemy VIII. This places his arrival in 132 BCE. The praise of the high priest Simon in Sir 50:1–21, usually identified as Simon II, and the book's apparent setting before the persecution under Antiochus IV support the usual date of c. 190–175 BCE for the Hebrew composition. [@abd, 6:931–944]
 
-About two thirds of the book survives in Hebrew. Six manuscripts conventionally called A through F come from the Cairo Genizah, a collection of worn or discarded writings preserved in a synagogue. Earlier material survives in a scroll from [[masada|Masada]] and in [[dead-sea-scrolls|manuscripts from Qumran]], including a copy of part of chapter 6 and a poem preserved in the large Psalms Scroll. A Syriac translation also survives. The Greek tradition has a shorter and an expanded form, and the order of part of chapters 30–36 differs among editions owing to an early displacement in the Greek transmission. [@abd]
+About two thirds of the book survives in Hebrew. Six manuscripts conventionally called A through F come from the Cairo Genizah, a collection of worn or discarded writings preserved in a synagogue. Earlier material survives in a scroll from [[masada|Masada]] and in [[dead-sea-scrolls|manuscripts from Qumran]], including a copy of part of chapter 6 and a poem preserved in the large Psalms Scroll. A Syriac translation also survives. The Greek tradition has a shorter and an expanded form, and the order of part of chapters 30–36 differs among editions owing to an early displacement in the Greek transmission. [@abd, 6:931–944]
 
 ## Contents
 
@@ -16,7 +16,7 @@ Ben Sira commends the study and transmission of instruction. In Sir 38:24–39:1
 
 ## Significance for Biblical Studies
 
-The figure of Wisdom in Prov 8:22–31 provides a comparison for Sir 24. In both passages Wisdom speaks about her relationship to creation, and Sirach connects that account with the law of Moses. The contrast between the scribe and the trades in Sir 38:24–39:11 is also comparable to Egypt's [[satire-of-the-trades|Satire of the Trades]], a work that praises scribal education by depicting other occupations. In Matt 11:28–30, the invitation to take up a yoke and find rest recalls language of instruction in Sir 51:23–27 and 6:24–30. Whether the Gospel draws directly on Sirach or uses familiar wisdom language remains open. [@ael] [@abd]
+The figure of Wisdom in Prov 8:22–31 provides a comparison for Sir 24. In both passages Wisdom speaks about her relationship to creation, and Sirach connects that account with the law of Moses. The contrast between the scribe and the trades in Sir 38:24–39:11 is also comparable to Egypt's [[satire-of-the-trades|Satire of the Trades]], a work that praises scribal education by depicting other occupations. In Matt 11:28–30, the invitation to take up a yoke and find rest recalls language of instruction in Sir 51:23–27 and 6:24–30. Whether the Gospel draws directly on Sirach or uses familiar wisdom language remains open. [@cos1, 1.48] [@abd, 6:931–944]
 
 ## Scholarly Issues
 

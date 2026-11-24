@@ -4,13 +4,13 @@ Menahem son of Gadi seized the throne of Israel in the eighth century BCE and ru
 
 ## Extrabiblical Sources
 
-The annals of [[tiglath-pileser-iii|Tiglath-pileser III]] name Menahem of [[samaria|Samaria]] among western rulers who gave tribute. The name also appears on a fragmentary stele from Iran, an Assyrian monument recalling tribute and campaigns. These accounts give the Assyrian court's view of the relationship. They do not record the per-person levy reported in Kings. The usual date given for the tribute in the annals is around 738 BCE, with other reconstructions considering earlier payments or earlier activity reflected on the Iran Stele [@rinap1].
+The annals of [[tiglath-pileser-iii|Tiglath-pileser III]] name Menahem of [[samaria|Samaria]] among western rulers who gave tribute. The name also appears on a fragmentary stele from Iran, an Assyrian monument recalling tribute and campaigns. These accounts give the Assyrian court's view of the relationship. They do not record the per-person levy reported in Kings. The usual date given for the tribute in the annals is around 738 BCE, with other reconstructions considering earlier payments or earlier activity reflected on the Iran Stele [@rinap1, nos. 14, 27, 32, 35].
 
 ## Biblical Portrayal
 
 2 Kgs 15:14–16 depicts Menahem killing Shallum and taking control, then acting violently against Tiphsah and its territory. In 2 Kgs 15:19–20 he pays Pul a thousand talents of silver so that the Assyrian king will support his rule. The payment is raised by a levy on wealthy men, described as fifty shekels apiece. The story makes [[tribute-and-vassalage|tribute]] a means by which a ruler could gain outside backing and impose the cost on his subjects.
 
-Pul is generally identified with Tiglath-pileser III. Babylonian sources use the form Pūlu for him as king of Babylon. In 1 Chr 5:26 the Hebrew wording can sound like a reference to two rulers, since both names appear. The extrabiblical evidence supports identifying the two names with the same ruler [@abc] [@rinap1].
+Pul is generally identified with Tiglath-pileser III. Babylonian sources use the form Pūlu for him as king of Babylon. In 1 Chr 5:26 the Hebrew wording can sound like a reference to two rulers, since both names appear. The extrabiblical evidence supports identifying the two names with the same ruler [@abc, 72] [@rinap1, nos. 14, 27, 32, 35].
 
 ## Historical Assessment
 

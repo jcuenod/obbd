@@ -4,13 +4,13 @@ The Flood Tablet in the British Museum is a seventh-century BCE clay manuscript 
 
 ## Description and Provenance
 
-The tablet comes from Kuyunjik, one of the mounds of ancient [[nineveh|Nineveh]]. The British Museum registers it as K.3375. Its Akkadian text was written in cuneiform, the wedge-shaped writing impressed on the clay. It belongs to the Neo-Assyrian scholarly collections associated with [[library-of-ashurbanipal|Ashurbanipal's library]]. The damaged edges and missing portions are supplemented in modern editions where other copies preserve the same text. [@george-gilgamesh]
+The tablet comes from Kuyunjik, one of the mounds of ancient [[nineveh|Nineveh]]. The British Museum registers it as K.3375. Its Akkadian text was written in cuneiform, the wedge-shaped writing impressed on the clay. It belongs to the Neo-Assyrian scholarly collections associated with [[library-of-ashurbanipal|Ashurbanipal's library]]. The damaged edges and missing portions are supplemented in modern editions where other copies preserve the same text. [@george-gilgamesh, 1:412]
 
 ## Contents
 
-The flood story appears as a speech in the [[gilgamesh-epic|Epic of Gilgamesh]]. Utnapishtim recounts how the god Ea warned him and gave instructions for building a boat. He survived with others on board and sent out birds once the vessel came to rest. He then made an offering, and the gods gathered at its scent. At the end of the episode, the gods give Utnapishtim and his wife a form of life unavailable to ordinary humans. The speech explains why Gilgamesh's journey to the survivor offers little prospect of achieving the same outcome. [@george-gilgamesh] [@anet]
+The flood story appears as a speech in the [[gilgamesh-epic|Epic of Gilgamesh]]. Utnapishtim recounts how the god Ea warned him and gave instructions for building a boat. He survived with others on board and sent out birds once the vessel came to rest. He then made an offering, and the gods gathered at its scent. At the end of the episode, the gods give Utnapishtim and his wife a form of life unavailable to ordinary humans. The speech explains why Gilgamesh's journey to the survivor offers little prospect of achieving the same outcome. [@george-gilgamesh, 1:700–725] [@anet, 93–97]
 
-The Babylonian poem incorporates material already attested in the older [[atrahasis|Atrahasis tradition]]. Details of the warning, boat, and aftermath can be compared across both works. K.3375 records one late copy of the story, and the age of the object differs from the age of the material it preserves. [@lambert-millard-atrahasis] [@george-gilgamesh]
+The Babylonian poem incorporates material already attested in the older [[atrahasis|Atrahasis tradition]]. Details of the warning, boat, and aftermath can be compared across both works. K.3375 records one late copy of the story, and the age of the object differs from the age of the material it preserves. [@lambert-millard-atrahasis, 88–103] [@george-gilgamesh, 1:412, 508–28]
 
 ## Significance for Biblical Studies
 

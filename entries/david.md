@@ -4,9 +4,9 @@ David is remembered in the Hebrew Bible as the king who established his rule in 
 
 ## Extrabiblical Sources
 
-The ninth-century BCE [[tel-dan-stele|Tel Dan Stele]] is an Aramaic victory inscription. Most specialists read a surviving expression as “House of David,” a designation for a royal dynasty or the state it ruled. The inscription names the house in connection with conflicts later than David's lifetime. It is strong evidence that a neighboring kingdom knew the dynasty by that name, although it does not record actions by David himself. [@ahituv-echoes] [@cos2]
+The ninth-century BCE [[tel-dan-stele|Tel Dan Stele]] is an Aramaic victory inscription. Most specialists read a surviving expression as “House of David,” a designation for a royal dynasty or the state it ruled. The inscription names the house in connection with conflicts later than David's lifetime. It is strong evidence that a neighboring kingdom knew the dynasty by that name, although it does not record actions by David himself. [@ahituv-echoes, 467–473] [@cos2, 2.39]
 
-A proposed reading of a damaged line of the [[mesha-stele|Mesha Stele]] would supply another reference to the House of David. Scholars working from the stone and early impressions of its surface disagree about the traces and how to restore the missing letters. A proposed reference to David in Shoshenq I's list of places in the Levant is also disputed. The Tel Dan reading rests on stronger evidence than either of these proposals. [@ahituv-echoes] [@anet]
+A proposed reading of a damaged line of the [[mesha-stele|Mesha Stele]] would supply another reference to the House of David. Scholars working from the stone and early impressions of its surface disagree about the traces and how to restore the missing letters. A proposed reference to David in Shoshenq I's list of places in the Levant is also disputed. The Tel Dan reading rests on stronger evidence than either of these proposals. [@ahituv-echoes, 389–419] [@anet, 320–321]
 
 ## Biblical Portrayal
 

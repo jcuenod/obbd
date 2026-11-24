@@ -4,7 +4,7 @@ The Nabonidus cylinders are inscribed clay objects from sixth-century BCE Babylo
 
 ## Description and Provenance
 
-The cylinders are foundation deposits, objects placed within a building during construction or repair to commemorate the work. Their texts are in Akkadian, the language of Babylonian royal inscriptions, written in cuneiform, a script made with wedge-shaped marks in clay. The Ur inscription is arranged in two columns; the Sippar inscription is longer and occupies three. Some copies of the Ur text are only about 9.5 cm long [@cos2].
+The cylinders are foundation deposits, objects placed within a building during construction or repair to commemorate the work. Their texts are in Akkadian, the language of Babylonian royal inscriptions, written in cuneiform, a script made with wedge-shaped marks in clay. The Ur inscription is arranged in two columns; the Sippar inscription is longer and occupies three. Some copies of the Ur text are only about 9.5 cm long [@cos2, 2.123A–B].
 
 J. E. Taylor recovered copies of the Ur text while excavating the [[ziggurat|ziggurat]], or stepped temple tower, in the 1850s. Hormuzd Rassam's excavations at Sippar yielded copies and fragments of the longer inscription, which is also known from finds at Babylon. The British Museum in London holds examples of both texts. The Sippar Cylinder should not be confused with the [[cyrus-cylinder|Cyrus Cylinder]], a separate inscription issued in Cyrus's name after his conquest of Babylon in 539 BCE.
 
@@ -18,7 +18,7 @@ The same inscription reports that Nabonidus excavated the foundations of Ebabbar
 
 ## Significance for Biblical Studies
 
-The Ur find gave nineteenth-century scholars evidence that Belshazzar was a historical figure. Dan 5:1–2 depicts him holding a banquet as king, while Dan 7:1 and 8:1 date visions to his first and third years. The cylinder confirms his identity but records neither the banquet nor those years of rule. A different source, the [[verse-account-of-nabonidus|Verse Account of Nabonidus]], says Nabonidus entrusted royal authority to his eldest son before leaving for Arabia [@anet].
+The Ur find gave nineteenth-century scholars evidence that Belshazzar was a historical figure. Dan 5:1–2 depicts him holding a banquet as king, while Dan 7:1 and 8:1 date visions to his first and third years. The cylinder confirms his identity but records neither the banquet nor those years of rule. A different source, the [[verse-account-of-nabonidus|Verse Account of Nabonidus]], says Nabonidus entrusted royal authority to his eldest son before leaving for Arabia [@anet, 313].
 
 Gen 11:31–32 describes Terah's household leaving Ur of the Chaldeans and settling in Harran on the way to Canaan. The inscriptions show that the southern Mesopotamian city of Ur and Harran were both centers of Sin's worship in Nabonidus's time. That is background for the places named in Genesis, not evidence for the journey or for the family's religious practices.
 

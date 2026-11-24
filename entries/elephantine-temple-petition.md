@@ -4,19 +4,19 @@ In 407 BCE, Judean priests on the Egyptian island of Elephantine petitioned the 
 
 ## Description and Provenance
 
-Two versions of the petition survive among the [[elephantine-papyri|Elephantine papyri]], designated A4.7 and A4.8 in the edition of Porten and Yardeni. The date given in the more complete version is the twentieth of Marcheshvan, in the seventeenth year of Darius II. Jedaniah and his fellow priests address Bagavahya, the governor of Judah. A subsequent memorandum, A4.9, and a conditional offer, A4.10, belong to the same effort to obtain permission and resources. [@tad] [@cos3]
+Two versions of the petition survive among the [[elephantine-papyri|Elephantine papyri]], designated A4.7 and A4.8 in the edition of Porten and Yardeni. The date given in the more complete version is the twentieth of Marcheshvan, in the seventeenth year of Darius II. Jedaniah and his fellow priests address Bagavahya, the governor of Judah. A subsequent memorandum, A4.9, and a conditional offer, A4.10, belong to the same effort to obtain permission and resources. [@tad, A4.7–A4.8] [@cos3, 3.51]
 
 ## Contents
 
-The priests say that their temple already stood before Cambyses conquered Egypt. They charge that priests of the Egyptian god [[khnum|Khnum]] secured the support of the official Vidranga and that troops under his son took part in destroying the temple. The account emphasizes the community's loss and its previous standing. It also reports an appeal to the sons of [[sanballat|Sanballat]], governor of Samaria. [@tad]
+The priests say that their temple already stood before Cambyses conquered Egypt. They charge that priests of the Egyptian god [[khnum|Khnum]] secured the support of the official Vidranga and that troops under his son took part in destroying the temple. The account emphasizes the community's loss and its previous standing. It also reports an appeal to the sons of [[sanballat|Sanballat]], governor of Samaria. [@tad, A4.7–A4.8]
 
-The memorandum records that Bagavahya and Delaiah supported restoration of the temple on its former site and mentions grain offerings and incense. It gives no authorization for burnt offerings. The related offer expressly proposes that sheep, oxen and goats would not be presented as burnt offerings and mentions payment in return for official support. These documents are evidence for negotiations. They leave room for debate about how the terms were applied. [@tad] [@cos3]
+The memorandum records that Bagavahya and Delaiah supported restoration of the temple on its former site and mentions grain offerings and incense. It gives no authorization for burnt offerings. The related offer expressly proposes that sheep, oxen and goats would not be presented as burnt offerings and mentions payment in return for official support. These documents are evidence for negotiations. They leave room for debate about how the terms were applied. [@tad, A4.9–A4.10] [@cos3, 3.51–3.53]
 
 ## Significance for Biblical Studies
 
-The names contribute to debates about Persian-period chronology. The petition names Sanballat's sons and mentions earlier contact with the high priest Johanan. These names are compared with Nehemiah's opponent Sanballat (Neh 2:10, 19) and with the priestly list in Neh 12:22–23. The chronology is compatible with Nehemiah serving under Artaxerxes I, while the relationship to the chronology of Ezra requires additional arguments. [@abd] [@tad]
+The names contribute to debates about Persian-period chronology. The petition names Sanballat's sons and mentions earlier contact with the high priest Johanan. These names are compared with Nehemiah's opponent Sanballat (Neh 2:10, 19) and with the priestly list in Neh 12:22–23. The chronology is compatible with Nehemiah serving under Artaxerxes I, while the relationship to the chronology of Ezra requires additional arguments. [@abd, 2:732–740] [@tad, A4.7–A4.8]
 
-The temple has also been compared with the centralizing provisions in Deut 12:5–14, which direct sacrifice to a chosen place, and with the altar to Yahweh in Egypt envisioned in Isa 19:19. Scholars debate how the community understood any centralizing rule, and there is no firm basis for identifying Isaiah's altar with this particular temple. The correspondence speaks directly to the existence of Judean sanctuary worship in Egypt. [@abd]
+The temple has also been compared with the centralizing provisions in Deut 12:5–14, which direct sacrifice to a chosen place, and with the altar to Yahweh in Egypt envisioned in Isa 19:19. Scholars debate how the community understood any centralizing rule, and there is no firm basis for identifying Isaiah's altar with this particular temple. The correspondence speaks directly to the existence of Judean sanctuary worship in Egypt. [@abd, 2:445–449]
 
 ## Scholarly Issues
 

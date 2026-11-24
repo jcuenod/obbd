@@ -4,7 +4,7 @@ Baal is a West Semitic title meaning “lord” or “owner.” In the texts of 
 
 ## Sources and Iconography
 
-The [[baal-cycle|Baal Cycle]] from Ugarit presents Baal as a warrior and ruler with a palace on Mount Zaphon. His clouds, thunder, and rains connect his might with the conditions that make farming possible. The name [[hadad-rimmon|Hadad]] identifies a storm deity also worshiped in Syria and neighboring regions. Ugaritic texts apply both the personal name and the title Baal to the god [@parker-unp] [@ddd].
+The [[baal-cycle|Baal Cycle]] from Ugarit presents Baal as a warrior and ruler with a palace on Mount Zaphon. His clouds, thunder, and rains connect his might with the conditions that make farming possible. The name [[hadad-rimmon|Hadad]] identifies a storm deity also worshiped in Syria and neighboring regions. Ugaritic texts apply both the personal name and the title Baal to the god [@parker-unp, 81–86, 134–137] [@ddd, 132–139].
 
 The [[baal-with-thunderbolt|Baal with Thunderbolt]] relief from Ugarit shows the god with a raised club and a weapon whose shaft branches like a plant. The figure's attributes help explain why divine power could be described in terms of both weapons and rain. The evidence for the title in the wider Levant encompasses local forms and epithets. Biblical examples include [[baal-peor|Baal of Peor]], [[baal-berith|Baal-berith]] at Shechem, and [[baal-zebub|Baal-zebub]] at Ekron. Each name must be interpreted in its own setting.
 
@@ -20,7 +20,7 @@ Hosea applies the word *baʿal* (“lord” or “husband”) to a different kin
 
 Which form of Baal Ahab and Jezebel sponsored remains disputed. Candidates include Baal-shamem, a title meaning “Lord of Heaven,” [[melqart|Melqart]] of Tyre, and a more local form of the storm god. Kings gives the title Baal without a distinguishing name. The text therefore cannot determine which title or deity the royal cult used for itself.
 
-Israelite personal names such as Jerubbaal, Eshbaal, and Meribbaal, and names with Baal in the inscribed pottery fragments from Samaria, show that the element was tolerated in some Israelite settings [@dobbs-allsopp-hebrew-inscriptions]. Some scholars infer that *baʿal* could once have been a title for YHWH, while the personal names alone leave the intended deity uncertain. Comparison of Ish-bosheth and Eshbaal in 2 Sam 2:8 and 1 Chr 8:33–34 illustrates a scribal substitution of *bōšet* (“shame”) for Baal. Rain and harvest explain the god's importance without establishing older reconstructions of his worship as organized around sacred prostitution [@ddd] [@keel-uehlinger-ggig].
+Israelite personal names such as Jerubbaal, Eshbaal, and Meribbaal, and names with Baal in the inscribed pottery fragments from Samaria, show that the element was tolerated in some Israelite settings [@dobbs-allsopp-hebrew-inscriptions, Samaria 12, 27–28]. Some scholars infer that *baʿal* could once have been a title for YHWH, while the personal names alone leave the intended deity uncertain. Comparison of Ish-bosheth and Eshbaal in 2 Sam 2:8 and 1 Chr 8:33–34 illustrates a scribal substitution of *bōšet* (“shame”) for Baal. Rain and harvest explain the god's importance without establishing older reconstructions of his worship as organized around sacred prostitution [@ddd, 132–139] [@keel-uehlinger-ggig, 204–207].
 
 ## Further Reading
 

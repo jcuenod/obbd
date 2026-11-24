@@ -4,11 +4,11 @@ The Ketef Hinnom amulets are two small silver sheets inscribed in Hebrew and rol
 
 ## Description and Provenance
 
-Gabriel Barkay’s expedition found the two objects in 1979 at Ketef Hinnom, southwest of ancient [[jerusalem|Jerusalem]]. The burial cave contains benches and a repository where bones and objects accumulated. The rolls were carefully opened for study, revealing tiny letters incised on the metal. Later photography and digital imaging improved the visibility of damaged signs and helped distinguish actual writing from cracks and scratches. Both the position of the finds and the forms of the letters inform their dating. [@neaehl] [@dobbs-allsopp-hebrew-inscriptions] [@cos2, 2.83]
+Gabriel Barkay’s expedition found the two objects in 1979 at Ketef Hinnom, southwest of ancient [[jerusalem|Jerusalem]]. The burial cave contains benches and a repository where bones and objects accumulated. The rolls were carefully opened for study, revealing tiny letters incised on the metal. Later photography and digital imaging improved the visibility of damaged signs and helped distinguish actual writing from cracks and scratches. Both the position of the finds and the forms of the letters inform their dating. [@neaehl, 2:714–715, 2:765–768] [@dobbs-allsopp-hebrew-inscriptions, Ketef Hinnom 1–2] [@cos2, 2.83]
 
 ## Contents
 
-The amulets preserve overlapping forms of a blessing invoking the Lord’s protection and favor. A well-preserved portion of the smaller amulet ends with peace. Passages outside the blessing are more difficult to read, but they include protective language, including a description interpreted as a divine rebuke of evil. The objects are thus usually understood as [[amulets]], items intended to protect a person. Rolling the silver hid the writing while preserving its physical presence. The effect intended by its makers may have depended on possessing the written blessing. [@cos2, 2.83] [@dobbs-allsopp-hebrew-inscriptions]
+The amulets preserve overlapping forms of a blessing invoking the Lord’s protection and favor. A well-preserved portion of the smaller amulet ends with peace. Passages outside the blessing are more difficult to read, but they include protective language, including a description interpreted as a divine rebuke of evil. The objects are thus usually understood as [[amulets]], items intended to protect a person. Rolling the silver hid the writing while preserving its physical presence. The effect intended by its makers may have depended on possessing the written blessing. [@cos2, 2.83] [@dobbs-allsopp-hebrew-inscriptions, Ketef Hinnom 1–2]
 
 ## Significance for Biblical Studies
 
@@ -16,7 +16,7 @@ Num 6:24–26 gives a longer form of the blessing as priestly speech. The amulet
 
 ## Scholarly Issues
 
-The re-edition published in 2004 supports a late seventh- or early sixth-century date on palaeographic and archaeological grounds. Proposals for later dates, including Persian or Hellenistic settings, have found less support. The contents of the tomb accumulated over time, so details of recovery and readings of the script are both important. The amulets are early witnesses to a formula that also appears in Numbers. They cannot by themselves establish the date of the book’s composition. Their deposition with the dead is compatible with protective use in burial and with earlier use by a living person. [@dobbs-allsopp-hebrew-inscriptions] [@neaehl]
+The re-edition published in 2004 supports a late seventh- or early sixth-century date on palaeographic and archaeological grounds. Proposals for later dates, including Persian or Hellenistic settings, have found less support. The contents of the tomb accumulated over time, so details of recovery and readings of the script are both important. The amulets are early witnesses to a formula that also appears in Numbers. They cannot by themselves establish the date of the book’s composition. Their deposition with the dead is compatible with protective use in burial and with earlier use by a living person. [@dobbs-allsopp-hebrew-inscriptions, Ketef Hinnom 1–2] [@neaehl, 2:714–715, 2:765–768]
 
 ## Further Reading
 

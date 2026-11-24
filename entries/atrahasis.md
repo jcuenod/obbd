@@ -4,13 +4,13 @@ The Epic of Atrahasis is a Babylonian poem about the creation of humankind and a
 
 ## Manuscripts and Date
 
-The epic is written in Akkadian, the language of many ancient Mesopotamian literary texts. Its title in modern scholarship comes from the hero Atrahasis, whose name means “exceedingly wise.” Its most substantial Old Babylonian manuscript originally occupied three clay tablets and names the scribe Ipiq-Aya in a note at the end. The note dates that copy to the reign of Ammi-saduqa, conventionally placed in the seventeenth century BCE. Fragments from Ugarit and later copies from Nineveh show that related versions circulated in different places and periods [@lambert-millard-atrahasis].
+The epic is written in Akkadian, the language of many ancient Mesopotamian literary texts. Its title in modern scholarship comes from the hero Atrahasis, whose name means “exceedingly wise.” Its most substantial Old Babylonian manuscript originally occupied three clay tablets and names the scribe Ipiq-Aya in a note at the end. The note dates that copy to the reign of Ammi-saduqa, conventionally placed in the seventeenth century BCE. Fragments from Ugarit and later copies from Nineveh show that related versions circulated in different places and periods [@lambert-millard-atrahasis, 1–8, 31–41].
 
 ## Contents
 
-The lesser gods rebel against the labor they have been assigned. Enki and the mother goddess arrange the creation of humans to take over the work. The goddess mixes clay with the flesh and blood of a slain god, whose name is often read We-ila. The poem associates the result with an *eṭemmu*, a ghost or spirit. The exact relationship of the spirit to the god and to the human person has been interpreted in different ways [@lambert-millard-atrahasis].
+The lesser gods rebel against the labor they have been assigned. Enki and the mother goddess arrange the creation of humans to take over the work. The goddess mixes clay with the flesh and blood of a slain god, whose name is often read We-ila. The poem associates the result with an *eṭemmu*, a ghost or spirit. The exact relationship of the spirit to the god and to the human person has been interpreted in different ways [@lambert-millard-atrahasis, 42–67].
 
-As humanity grows, its clamor disturbs Enlil. Attempts to reduce the disturbance through plague and shortages fail after Enki helps Atrahasis and his people. The gods then decide on a flood, but Enki warns Atrahasis, who builds a boat and survives. The survivors' offering attracts the hungry gods after the waters subside. The section describing the new order includes women unable to bear children, a demon who snatches infants, and designated priestesses for whom childbearing is prohibited [@lambert-millard-atrahasis].
+As humanity grows, its clamor disturbs Enlil. Attempts to reduce the disturbance through plague and shortages fail after Enki helps Atrahasis and his people. The gods then decide on a flood, but Enki warns Atrahasis, who builds a boat and survives. The survivors' offering attracts the hungry gods after the waters subside. The section describing the new order includes women unable to bear children, a demon who snatches infants, and designated priestesses for whom childbearing is prohibited [@lambert-millard-atrahasis, 66–87].
 
 ## Significance for Biblical Studies
 
@@ -22,7 +22,7 @@ The flood sequence in Gen 6:5–9:17 includes advance warning, a boat, survivors
 
 The relation between population growth and Enlil's complaint is debated. The sequence and the restrictions at the end support an interpretation centered on overpopulation. Other readings take the clamor as human disorder or unrest, though the poem leaves the nature of the offense less explicit than Genesis does. These proposals lead to different accounts of what problem the new rules address.
 
-The [[gilgamesh-flood-tablet|flood story in the Epic of Gilgamesh]] shares material with the Atrahasis tradition [@george-gilgamesh]. The biblical account is commonly studied in the setting of these circulating [[flood-traditions|Mesopotamian flood traditions]]. Scholars differ about when and how Israelite writers encountered them and about whether the portions often assigned to priestly and other writers had different lines of contact. The parallels do not identify a particular Babylonian tablet or prove that Genesis was composed directly from Atrahasis.
+The [[gilgamesh-flood-tablet|flood story in the Epic of Gilgamesh]] shares material with the Atrahasis tradition [@george-gilgamesh, 1:508–28]. The biblical account is commonly studied in the setting of these circulating [[flood-traditions|Mesopotamian flood traditions]]. Scholars differ about when and how Israelite writers encountered them and about whether the portions often assigned to priestly and other writers had different lines of contact. The parallels do not identify a particular Babylonian tablet or prove that Genesis was composed directly from Atrahasis.
 
 ## Further Reading
 

@@ -4,11 +4,11 @@ Beersheba was an Iron Age town in the northern Negev, at the southern edge of th
 
 ## Location and Identification
 
-Tel Beersheba is an archaeological mound east of the modern city of Beersheba. It stands at the junction of seasonal stream valleys near routes through the northern Negev. The modern city preserves the ancient name, and there is also Iron Age evidence beneath parts of the modern city. The Iron Age remains discussed here are those of the excavated mound [@neaehl].
+Tel Beersheba is an archaeological mound east of the modern city of Beersheba. It stands at the junction of seasonal stream valleys near routes through the northern Negev. The modern city preserves the ancient name, and there is also Iron Age evidence beneath parts of the modern city. The Iron Age remains discussed here are those of the excavated mound [@neaehl, 1:162–173].
 
 ## Archaeological History
 
-Excavations directed by Yohanan Aharoni revealed an early Iron Age settlement followed by successive fortified towns. The town archaeologists call Stratum II, meaning the settlement in the second numbered layer of the excavation, includes a gate, a perimeter street, domestic buildings, and public storehouses. Its regular plan suggests coordinated construction and administration. The water supply included a well outside the gate and a system that led water into an underground reservoir [@neaehl] [@mazar-archaeology].
+Excavations directed by Yohanan Aharoni revealed an early Iron Age settlement followed by successive fortified towns. The town archaeologists call Stratum II, meaning the settlement in the second numbered layer of the excavation, includes a gate, a perimeter street, domestic buildings, and public storehouses. Its regular plan suggests coordinated construction and administration. The water supply included a well outside the gate and a system that led water into an underground reservoir [@neaehl, 1:162–173] [@mazar-archaeology, 438–444].
 
 A fire destroyed much of the final Iron Age town. The destruction is commonly connected with Sennacherib's campaign of 701 BCE. Scholars have debated the date of the town and its destruction on the basis of pottery and comparison with other sites, and the layer itself does not identify the attacking force. The town's layout and stores show the importance of the site within Judah independently of that attribution.
 

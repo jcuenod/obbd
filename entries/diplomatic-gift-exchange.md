@@ -4,7 +4,7 @@ Ancient Near Eastern rulers exchanged gifts, letters, and envoys to maintain dip
 
 ## Ancient Near Eastern Evidence
 
-The [[amarna-letters|Amarna letters]] record exchanges among Egypt, Babylonia, Mittani, and other kingdoms. Gifts include gold, horses, chariots, and luxury goods. Courts also requested skilled workers and other forms of assistance. Envoys carried both the gifts and the letters that interpreted their purpose. One ruler could appeal to what an earlier king had given or complain that a current gift lacked the expected quantity or quality [@moran-amarna] [@cos3].
+The [[amarna-letters|Amarna letters]] record exchanges among Egypt, Babylonia, Mittani, and other kingdoms. Gifts include gold, horses, chariots, and luxury goods. Courts also requested skilled workers and other forms of assistance. Envoys carried both the gifts and the letters that interpreted their purpose. One ruler could appeal to what an earlier king had given or complain that a current gift lacked the expected quantity or quality [@moran-amarna, EA 22, 35] [@cos3, 3.92A–C, 3.92E–G].
 
 Gifts allowed rulers to assert both material interests and prestige. Mario Liverani emphasized how reciprocity could meet a practical need while sustaining the status claimed by both kings. A court could also portray goods received from abroad as submission, especially in public images or inscriptions celebrating royal power. Letters between the parties may convey a different account of the relationship.
 
@@ -18,7 +18,7 @@ The queen of [[sheba|Sheba]] brings luxury goods and receives gifts from Solomon
 
 The Hebrew word *minḥâ* can mean a gift, a tribute payment, or a ritual offering. The visitors in 1 Kgs 10:24–25 bring goods yearly to Solomon. Whether “gift” or “tribute” best conveys the scene depends in part on the account's portrayal of his royal standing. A transfer to another court can likewise shade into a payment to secure cooperation.
 
-In 2 Kgs 20:12–13 [[merodach-baladan|Merodach-baladan]] sends a letter and a gift after hearing that Hezekiah was ill. Hezekiah displays his wealth to the visitors. Some scholars connect the embassy with Babylonian efforts to find allies against Assyria, often placing it near Merodach-baladan's brief return to power in 703 BCE. The date and purpose of that embassy remain debated [@rinap3-1].
+In 2 Kgs 20:12–13 [[merodach-baladan|Merodach-baladan]] sends a letter and a gift after hearing that Hezekiah was ill. Hezekiah displays his wealth to the visitors. Some scholars connect the embassy with Babylonian efforts to find allies against Assyria, often placing it near Merodach-baladan's brief return to power in 703 BCE. The date and purpose of that embassy remain debated [@rinap3-1, nos. 1, 22 i 20–65].
 
 ## Further Reading
 

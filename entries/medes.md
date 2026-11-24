@@ -4,13 +4,13 @@ The Medes were Iranian-speaking peoples of the Zagros region and western Iran. A
 
 ## Sources
 
-Assyrian texts name the Medes from the time of Shalmaneser III and refer to numerous local rulers or city lords. Later Babylonian chronicles document Median rulers and campaigns against Assyria and the defeat of Astyages. Greek accounts, especially Herodotus, give a longer story of dynastic succession beginning with Deioces. They preserve traditions unavailable elsewhere, but their account of a long, centralized Median empire is debated [@rima3] [@rinap1] [@abc].
+Assyrian texts name the Medes from the time of Shalmaneser III and refer to numerous local rulers or city lords. Later Babylonian chronicles document Median rulers and campaigns against Assyria and the defeat of Astyages. Greek accounts, especially Herodotus, give a longer story of dynastic succession beginning with Deioces. They preserve traditions unavailable elsewhere, but their account of a long, centralized Median empire is debated [@rima3, A.0.102.14 lines 141–174] [@rinap1, no. 35 i–ii] [@abc, 93–95, 106].
 
 ## History
 
 The [[fall-of-nineveh-chronicle|Babylonian chronicle]] reports that Cyaxares, called Umakištar in Akkadian, led Median forces against Assyria. The Medes took Ashur in 614 BCE, and the Medes and Babylonians cooperated in the capture of Nineveh in 612 BCE. They were capable of substantial coordinated action. Their military successes leave the exact institutions and territorial limits of their polity open.
 
-Around 550 BCE, [[cyrus-the-great|Cyrus]] defeated Astyages and took Ecbatana, modern Hamadan. The city remained important under the Achaemenids and is known as a royal residence. [[persia|Persian rule]] incorporated the Median region, and Greek and other sources continued to distinguish Medes from Persians in some settings [@abc] [@glassner-chronicles].
+Around 550 BCE, [[cyrus-the-great|Cyrus]] defeated Astyages and took Ecbatana, modern Hamadan. The city remained important under the Achaemenids and is known as a royal residence. [[persia|Persian rule]] incorporated the Median region, and Greek and other sources continued to distinguish Medes from Persians in some settings [@abc, 106] [@glassner-chronicles, no. 26, 232–239].
 
 ## In the Bible
 

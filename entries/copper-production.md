@@ -8,7 +8,7 @@ Smelting separates metal from its ore by heating it in a furnace under controlle
 
 At [[timna|Timna]], Egyptian New Kingdom expeditions left inscriptions and a shrine to Hathor, an Egyptian goddess. The shrine also yielded a copper serpent. Evidence from furnaces, slag, and radiocarbon dating shows intensive Iron Age production after the Egyptians withdrew. At [[faynan|Faynan]], across the Arabah in southern Jordan, Khirbat en-Naḥas preserves substantial evidence of production during the tenth century BCE and surrounding centuries.
 
-Late Bronze Age trade moved raw metals across long distances. Letters from the ruler of Alashiya, generally identified with Cyprus, record deliveries of copper to Egypt [@moran-amarna]. The Uluburun shipwreck off southern Türkiye carried large quantities of copper ingots, most associated with Cypriot ores, as well as tin ingots. Tin came from different sources, several of which remain debated. The cargo shows that bronze production depended on networks able to bring the metals together.
+Late Bronze Age trade moved raw metals across long distances. Letters from the ruler of Alashiya, generally identified with Cyprus, record deliveries of copper to Egypt [@moran-amarna, EA 33–40]. The Uluburun shipwreck off southern Türkiye carried large quantities of copper ingots, most associated with Cypriot ores, as well as tin ingots. Tin came from different sources, several of which remain debated. The cargo shows that bronze production depended on networks able to bring the metals together.
 
 ## In the Hebrew Bible
 

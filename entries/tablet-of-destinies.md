@@ -4,11 +4,11 @@ The Tablet of Destinies is an object of divine authority in Mesopotamian myth. I
 
 ## Ancient Near Eastern Evidence
 
-In the Akkadian myth *Anzû*, the bird of that name takes the tablet from Enlil and flies away with it. The seizure endangers the ordered exercise of divine power. Possession allows Anzû to counter Ninurta's weapons by commanding their constituent materials to revert to their former states. Ninurta eventually overcomes him and retrieves the object. The plot makes the tablet an instrument of effective rule as well as a sign of rank [@anet; @cos1].
+In the Akkadian myth *Anzû*, the bird of that name takes the tablet from Enlil and flies away with it. The seizure endangers the ordered exercise of divine power. Possession allows Anzû to counter Ninurta's weapons by commanding their constituent materials to revert to their former states. Ninurta eventually overcomes him and retrieves the object. The plot makes the tablet an instrument of effective rule as well as a sign of rank [@anet, 60–72; @cos1, 1.111].
 
-In *Enūma eliš* tablet I, Tiamat promotes Qingu and fastens the tablet to his chest so that his command has authority. In tablet IV, after vanquishing Tiamat's forces, Marduk takes the tablet from Qingu, seals it, and fastens it to his own breast. This follows Marduk's investiture by the gods and the demonstration of his commanding word. The victory marks the recovery of an object that Qingu received without rightful title according to the poem's account [@lambert-bcm].
+In *Enūma eliš* tablet I, Tiamat promotes Qingu and fastens the tablet to his chest so that his command has authority. In tablet IV, after vanquishing Tiamat's forces, Marduk takes the tablet from Qingu, seals it, and fastens it to his own breast. This follows Marduk's investiture by the gods and the demonstration of his commanding word. The victory marks the recovery of an object that Qingu received without rightful title according to the poem's account [@lambert-bcm, 50–57, 89–95].
 
-The divine scribe Nabu, associated with writing and Marduk's cult, is described in related traditions as writing or determining destinies. Divine writing could establish a fate, record a decision, or preserve knowledge for later action. Different texts emphasize different operations and need not be referring to the mythical tablet itself [@ddd].
+The divine scribe Nabu, associated with writing and Marduk's cult, is described in related traditions as writing or determining destinies. Divine writing could establish a fate, record a decision, or preserve knowledge for later action. Different texts emphasize different operations and need not be referring to the mythical tablet itself [@ddd, 607–609].
 
 ## In the Hebrew Bible
 

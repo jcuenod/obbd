@@ -4,7 +4,7 @@ In ancient Near Eastern literature, mountains could mark the dwelling place of a
 
 ## Ancient Near Eastern Evidence
 
-At Ugarit, the [[baal-cycle|Baal Cycle]] presents Mount Ṣapānu, or Zaphon, as the place where the storm god's palace stands. The name is associated with Jebel al-Aqraʿ, known in classical sources as Mount Casius, on the coast north of Ugarit. The mountain's physical setting and its place in the stories about [[baal|Baal]] give it geographic and religious significance [@parker-unp].
+At Ugarit, the [[baal-cycle|Baal Cycle]] presents Mount Ṣapānu, or Zaphon, as the place where the storm god's palace stands. The name is associated with Jebel al-Aqraʿ, known in classical sources as Mount Casius, on the coast north of Ugarit. The mountain's physical setting and its place in the stories about [[baal|Baal]] give it geographic and religious significance [@parker-unp, 86, 110, 129–137].
 
 The Ugaritic texts situate [[el|El]] at the sources of rivers and springs where the waters of the deep are found. That setting is distinct from Baal's palace on Zaphon. Both offer points of comparison for traditions in which the gods gather in council or dwell at a source of water. The poems can give different gods places suited to their roles without laying out the geography of a single system.
 

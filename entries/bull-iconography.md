@@ -4,9 +4,9 @@ Images of bulls and calves were widespread in the ancient Near East, especially 
 
 ## Ancient Near Eastern Evidence
 
-The Ugaritic texts call the god [[el|El]] “Bull El,” linking a divine title with the power of the animal. Elsewhere in Syrian and Anatolian art the storm god can stand on a bull. Such images distinguish the god's human-shaped figure from the animal beneath him. This gives a clear example in which a bull serves as a divine attribute or support [@parker-unp] [@anep].
+The Ugaritic texts call the god [[el|El]] “Bull El,” linking a divine title with the power of the animal. Elsewhere in Syrian and Anatolian art the storm god can stand on a bull. Such images distinguish the god's human-shaped figure from the animal beneath him. This gives a clear example in which a bull serves as a divine attribute or support [@parker-unp, 13, 91, 100–101, 128] [@anep, figs. 500–501].
 
-Other objects show an animal by itself. A Middle Bronze Age sanctuary at Ashkelon yielded a bronze calf once covered with silver. The [[bull-site-figurine|bronze bull from the Samarian hills]] offers another southern Levantine comparison, although it was found on the surface of a site with early Iron Age material. A free-standing bull could have several meanings, and the surviving examples do not always carry inscriptions or retain their original context [@king-stager-life] [@keel-uehlinger-ggig].
+Other objects show an animal by itself. A Middle Bronze Age sanctuary at Ashkelon yielded a bronze calf once covered with silver. The [[bull-site-figurine|bronze bull from the Samarian hills]] offers another southern Levantine comparison, although it was found on the surface of a site with early Iron Age material. A free-standing bull could have several meanings, and the surviving examples do not always carry inscriptions or retain their original context [@king-stager-life, 172–173, fig. 84] [@keel-uehlinger-ggig, 189–195].
 
 ## In the Hebrew Bible
 

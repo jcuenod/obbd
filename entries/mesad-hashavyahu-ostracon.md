@@ -4,7 +4,7 @@ The Meṣad Ḥashavyahu ostracon is a late seventh-century BCE Hebrew letter wr
 
 ## Description and Provenance
 
-Joseph Naveh's excavation recovered the letter at Meṣad Ḥashavyahu, a small fort near the Mediterranean shore. The pottery and script place the occupation and the letter in the late Iron Age. Meṣad Ḥashavyahu is a modern name for the site. The surviving Hebrew [[ostraca|ostraca]] and East Greek pottery give evidence for people or connections of more than one kind in the community [@dobbs-allsopp-hebrew-inscriptions] [@neaehl].
+Joseph Naveh's excavation recovered the letter at Meṣad Ḥashavyahu, a small fort near the Mediterranean shore. The pottery and script place the occupation and the letter in the late Iron Age. Meṣad Ḥashavyahu is a modern name for the site. The surviving Hebrew [[ostraca|ostraca]] and East Greek pottery give evidence for people or connections of more than one kind in the community [@dobbs-allsopp-hebrew-inscriptions, 357–370] [@neaehl, 2:585–586].
 
 ## Contents
 

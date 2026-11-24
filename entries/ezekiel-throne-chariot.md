@@ -4,7 +4,7 @@ Ezekiel's throne visions describe the glory of the God of Israel above four wing
 
 ## Ancient Near Eastern Evidence
 
-Ancient Near Eastern artists often combined animal and human forms in images of supernatural beings. The Assyrian [[lamassu|lamassu]], for example, could combine a human head with the body and wings of an animal. Reliefs also show winged figures with bird heads. These images supply a visual vocabulary for the features of Ezekiel's creatures. No one familiar guardian type combines all the features described in the vision [@anep] [@keel-symbolism].
+Ancient Near Eastern artists often combined animal and human forms in images of supernatural beings. The Assyrian [[lamassu|lamassu]], for example, could combine a human head with the body and wings of an animal. Reliefs also show winged figures with bird heads. These images supply a visual vocabulary for the features of Ezekiel's creatures. No one familiar guardian type combines all the features described in the vision [@anep, fig. 646] [@keel-symbolism, 122–124, 168–171].
 
 Othmar Keel compared Ezekiel's vision with seals that show supernatural figures bearing a structure associated with heaven, with a deity or a winged emblem above. Ancient processions in which a divine image traveled on a vehicle also show how movement could be represented as an act of the deity. The vision combines a raised platform, composite bearers, and coordinated wheels. The parallels help explain individual elements without fixing a single model.
 
@@ -18,7 +18,7 @@ The description is often called the throne chariot. The term evokes the Hebrew *
 
 ## Interpretive Significance
 
-The departure and return of the glory have been compared with Mesopotamian accounts in which a god withdraws from a city and later returns. Examples include traditions about Marduk and the restoration of worship in Babylon. Ezekiel presents a vision of divine movement and makes it part of the judgment and renewal of Jerusalem. The temple can be abandoned and later filled because the divine presence can act beyond its walls [@rinap4] [@cos1].
+The departure and return of the glory have been compared with Mesopotamian accounts in which a god withdraws from a city and later returns. Examples include traditions about Marduk and the restoration of worship in Babylon. Ezekiel presents a vision of divine movement and makes it part of the judgment and renewal of Jerusalem. The temple can be abandoned and later filled because the divine presence can act beyond its walls [@rinap4, no. 104] [@cos1, 1.149].
 
 Rev 4:6–8 adapts the throne-vision imagery, giving each of its four living creatures a different appearance. Later Jewish interpreters developed traditions of study and mystical contemplation known by the term Merkabah. Those traditions attest the enduring importance of the vision and belong to its reception history.
 

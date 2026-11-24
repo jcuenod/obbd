@@ -4,13 +4,13 @@ The bronze sea was a large round basin that the books of Kings and Chronicles pl
 
 ## Archaeological Evidence
 
-The biblical basin itself is known through texts. A water basin commissioned by Sennacherib for the temple of Ashur at Assur survives in fragments. Its carved sides depict fish-cloaked figures and figures with vessels from which water flows. The imagery connects the vessel with ritual water and with the *apsû*, the subterranean domain of fresh water in Mesopotamian accounts of the world [@horowitz-cosmic-geography] [@keel-symbolism].
+The biblical basin itself is known through texts. A water basin commissioned by Sennacherib for the temple of Ashur at Assur survives in fragments. Its carved sides depict fish-cloaked figures and figures with vessels from which water flows. The imagery connects the vessel with ritual water and with the *apsû*, the subterranean domain of fresh water in Mesopotamian accounts of the world [@horowitz-cosmic-geography, 82–86] [@keel-symbolism, 135–139].
 
 Such objects are often compared with the bronze sea when interpreting the [[temple-as-cosmos|temple as a picture of the world]]. Some scholars see the biblical vessel as an image of the great waters brought into order. Others emphasize water as a source of life or the practical supply of water for ritual. Its name makes a symbolic association plausible, but no biblical description explains the basin's symbolism explicitly. The surviving Assyrian example is made of stone and has a different design.
 
 ## In the Bible
 
-1 Kgs 7:23–26, 39 describes a cast basin set southeast of the temple building. It was ten cubits across and five high, with a circumference of thirty cubits. A cubit is a unit roughly the length of a forearm. Later readers have often noticed that the stated circumference is three times the stated diameter, a ratio readily understood as an approximate description. The rim is compared to a flower, and the twelve oxen beneath the basin face outward in four groups of three [@hurowitz-exalted-house].
+1 Kgs 7:23–26, 39 describes a cast basin set southeast of the temple building. It was ten cubits across and five high, with a circumference of thirty cubits. A cubit is a unit roughly the length of a forearm. Later readers have often noticed that the stated circumference is three times the stated diameter, a ratio readily understood as an approximate description. The rim is compared to a flower, and the twelve oxen beneath the basin face outward in four groups of three [@hurowitz-exalted-house, 224–259].
 
 Kings gives the sea's capacity as two thousand baths, while 2 Chr 4:2–6 gives it as three thousand. A bath was a measure of liquid volume. Chronicles assigns the sea to priestly washing and the ten smaller basins to rinsing items for the burnt offering. Exod 30:17–21 gives a comparable function to the bronze basin outside the tent sanctuary, where priests wash their hands and feet before carrying out their duties.
 

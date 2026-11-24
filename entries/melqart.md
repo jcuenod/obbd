@@ -4,7 +4,7 @@ Melqart, whose name means “king of the city,” was the principal god of Tyre.
 
 ## Sources and Iconography
 
-The Phoenician name expresses Melqart's relation to [[tyre|Tyre]]. His cult also appears at Carthage and Gades and in Phoenician inscriptions elsewhere. A bilingual dedication from Malta identifies the god called Melqart in Phoenician with Heracles in Greek. The [[melqart-stele|Aramaic stele from Breij]] shows that a king in inland Syria could dedicate a monument to the Tyrian god. Melqart's titles and representations vary with language and setting [@kai] [@ddd].
+The Phoenician name expresses Melqart's relation to [[tyre|Tyre]]. His cult also appears at Carthage and Gades and in Phoenician inscriptions elsewhere. A bilingual dedication from Malta identifies the god called Melqart in Phoenician with Heracles in Greek. The [[melqart-stele|Aramaic stele from Breij]] shows that a king in inland Syria could dedicate a monument to the Tyrian god. Melqart's titles and representations vary with language and setting [@kai, no. 202] [@ddd, 563–565].
 
 Herodotus 2.44 describes a temple of Heracles at Tyre with two notable pillars. Josephus quotes Menander of Ephesus about [[hiram-of-tyre|Hiram]] and the celebration of Heracles' awakening (*Against Apion* 1.119). The nature of this rite and how it changed over time remain uncertain. The later silver coinage of Tyre often bears the head of Melqart in a form associated with Heracles, alongside civic designs and inscriptions.
 

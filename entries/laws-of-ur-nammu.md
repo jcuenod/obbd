@@ -4,11 +4,11 @@ The Laws of Ur-Nammu is the earliest surviving Mesopotamian law collection known
 
 ## Manuscripts and Date
 
-The opening names Ur-Nammu, who reigned c. 2112–2095 BCE, but some scholars have proposed that the collection was composed under his son and successor Shulgi [@roth-law]. Several surviving copies are later than either ruler and come from Nippur, Ur, and Sippar. They are clay tablets written in cuneiform, a script made up of wedge-shaped signs. In 2011 Miguel Civil published a more extensive copy on a clay cylinder with no known archaeological findspot.
+The opening names Ur-Nammu, who reigned c. 2112–2095 BCE, but some scholars have proposed that the collection was composed under his son and successor Shulgi [@roth-law, 13–14]. Several surviving copies are later than either ruler and come from Nippur, Ur, and Sippar. They are clay tablets written in cuneiform, a script made up of wedge-shaped signs. In 2011 Miguel Civil published a more extensive copy on a clay cylinder with no known archaeological findspot.
 
 ## Contents
 
-The prologue, or opening section, credits the king with establishing justice under divine authority. It says that he did not hand over widows and orphans to people with wealth or power and that he established standard weights and measures. The laws that follow are framed as if–then cases, each stating a situation and giving its legal consequence. For example, several cases assign fixed amounts of weighed silver for injuries, including the loss of an eye or a tooth [@roth-law].
+The prologue, or opening section, credits the king with establishing justice under divine authority. It says that he did not hand over widows and orphans to people with wealth or power and that he established standard weights and measures. The laws that follow are framed as if–then cases, each stating a situation and giving its legal consequence. For example, several cases assign fixed amounts of weighed silver for injuries, including the loss of an eye or a tooth [@roth-law, 15–17].
 
 ## Significance for Biblical Studies
 

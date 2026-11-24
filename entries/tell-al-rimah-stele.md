@@ -4,11 +4,11 @@ A stone stele of the Assyrian king Adad-nirari III was recovered at Tell al-Rima
 
 ## Description and Provenance
 
-The excavators found the stele in an Assyrian temple context. The stone is a grey material described by the first editor as Mosul marble. It bears a carved figure of the king and an Akkadian cuneiform inscription of twenty-one lines. Part of the text was deliberately erased in antiquity. The portions that remain legible record the foreign campaign and reflect the value of the monument as a local statement of royal authority [@rima3; @cos2].
+The excavators found the stele in an Assyrian temple context. The stone is a grey material described by the first editor as Mosul marble. It bears a carved figure of the king and an Akkadian cuneiform inscription of twenty-one lines. Part of the text was deliberately erased in antiquity. The portions that remain legible record the foreign campaign and reflect the value of the monument as a local statement of royal authority [@rima3, 210–212; @cos2, 2.114F].
 
 ## Contents
 
-The inscription begins with a dedication to Adad and a statement of royal ancestry. The campaign section describes the king receiving tribute after advancing west. Line 8 lists tribute from Iaʾasu of Samaria, together with tribute from Tyre and Sidon. The king also recounts receiving a payment from Mariʾ of Damascus. The text attributes success to the authority of the Assyrian king and his god. Lines 13–21 concern the governor Nergal-ereš and the establishment or restoration of settlements, followed by a curse. The governor's section was erased in antiquity, but enough remains for substantial reconstruction [@rima3; @cos2].
+The inscription begins with a dedication to Adad and a statement of royal ancestry. The campaign section describes the king receiving tribute after advancing west. Line 8 lists tribute from Iaʾasu of Samaria, together with tribute from Tyre and Sidon. The king also recounts receiving a payment from Mariʾ of Damascus. The text attributes success to the authority of the Assyrian king and his god. Lines 13–21 concern the governor Nergal-ereš and the establishment or restoration of settlements, followed by a curse. The governor's section was erased in antiquity, but enough remains for substantial reconstruction [@rima3, 210–212; @cos2, 2.114F].
 
 ## Significance for Biblical Studies
 

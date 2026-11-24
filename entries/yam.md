@@ -4,19 +4,19 @@ Yam means “Sea” and is the name of the sea god in Late Bronze Age texts from
 
 ## Sources and Iconography
 
-In the [[baal-cycle|Baal Cycle]], Yam bears the title Judge River (*ṯpṭ nhr*). Sea and River are paired designations for the same power. Yam sends messengers demanding that Baal be handed over. In the surviving combat episode, Kothar provides Baal with two weapons and gives them names and commands. The second blow fells Yam. A proclamation links Yam's defeat with Baal's reign. The details of some damaged lines remain disputed. No surviving image can be identified securely as Yam on the basis of this episode alone. [@ktu3, 1.2] [@smith-baal-cycle-1] [@parker-unp]
+In the [[baal-cycle|Baal Cycle]], Yam bears the title Judge River (*ṯpṭ nhr*). Sea and River are paired designations for the same power. Yam sends messengers demanding that Baal be handed over. In the surviving combat episode, Kothar provides Baal with two weapons and gives them names and commands. The second blow fells Yam. A proclamation links Yam's defeat with Baal's reign. The details of some damaged lines remain disputed. No surviving image can be identified securely as Yam on the basis of this episode alone. [@ktu3, 1.2] [@smith-baal-cycle-1, 265–268, 321–324] [@parker-unp, 98–105]
 
 ## In the Hebrew Bible
 
-Job 7:12 asks whether Job is Sea or a dragon that needs to be watched. Job 38:8–11 portrays Sea as enclosed behind doors and given a limit. Ps 74:13 links God's power over Sea with the breaking of monsters' heads, and Ps 89:9 (MT 89:10) praises mastery over its waves. In Ps 93:1–4, the surging waters contrast with YHWH's enduring kingship and superior might. [@day-dragon] [@ddd]
+Job 7:12 asks whether Job is Sea or a dragon that needs to be watched. Job 38:8–11 portrays Sea as enclosed behind doors and given a limit. Ps 74:13 links God's power over Sea with the breaking of monsters' heads, and Ps 89:9 (MT 89:10) praises mastery over its waves. In Ps 93:1–4, the surging waters contrast with YHWH's enduring kingship and superior might. [@day-dragon, 21–25, 42–44] [@ddd, 737–742]
 
-Hab 3:8 places the rivers and sea together as powers confronting the [[divine-warrior|divine warrior]], echoing the Ugaritic pairing of Sea and River. Nah 1:4 depicts YHWH rebuking the sea and drying the rivers. In Isa 51:10, drying the deep enables the redeemed to cross. The language can serve a recollection of Israel's deliverance as well as a description of cosmic authority. [@day-dragon]
+Hab 3:8 places the rivers and sea together as powers confronting the [[divine-warrior|divine warrior]], echoing the Ugaritic pairing of Sea and River. Nah 1:4 depicts YHWH rebuking the sea and drying the rivers. In Isa 51:10, drying the deep enables the redeemed to cross. The language can serve a recollection of Israel's deliverance as well as a description of cosmic authority. [@day-dragon, 101–109, 120–125]
 
-Mark 4:39 portrays Jesus rebuking the wind and commanding the sea to be still. The episode can evoke biblical patterns of divine mastery over threatening waters. Rev 21:1 describes a new creation in which the sea is absent, which some readers understand in light of its association with danger and opposition in biblical imagery. [@abd]
+Mark 4:39 portrays Jesus rebuking the wind and commanding the sea to be still. The episode can evoke biblical patterns of divine mastery over threatening waters. Rev 21:1 describes a new creation in which the sea is absent, which some readers understand in light of its association with danger and opposition in biblical imagery. [@abd, 5:1058–1059]
 
 ## Scholarly Issues
 
-The West Semitic language and motifs make the contest at Ugarit a close comparison for biblical Sea imagery. Babylonian [[enuma-elish|*Enuma Elish*]], in which Marduk defeats Tiamat, remains relevant to the wider [[chaoskampf|combat motif]]. The parallels permit several paths of transmission, including inherited poetic traditions. In biblical poetry, Sea can take on the actions of a being and appears beside named enemies such as [[rahab-sea-monster|Rahab]] and [[leviathan|Leviathan]]. The imagery conveys YHWH's power and gives no evidence that biblical writers treated Sea as a god to be worshiped. [@day-dragon] [@lambert-bcm] [@ddd]
+The West Semitic language and motifs make the contest at Ugarit a close comparison for biblical Sea imagery. Babylonian [[enuma-elish|*Enuma Elish*]], in which Marduk defeats Tiamat, remains relevant to the wider [[chaoskampf|combat motif]]. The parallels permit several paths of transmission, including inherited poetic traditions. In biblical poetry, Sea can take on the actions of a being and appears beside named enemies such as [[rahab-sea-monster|Rahab]] and [[leviathan|Leviathan]]. The imagery conveys YHWH's power and gives no evidence that biblical writers treated Sea as a god to be worshiped. [@day-dragon, 3–7] [@lambert-bcm, 84–95] [@ddd, 737–742]
 
 ## Further Reading
 

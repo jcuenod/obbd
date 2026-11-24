@@ -4,7 +4,7 @@ In 853 BCE, Shalmaneser III of Assyria fought a coalition of western rulers at Q
 
 ## Sources
 
-The fullest early account comes from the [[kurkh-monoliths|Kurkh Monolith]] of [[shalmaneser-iii|Shalmaneser III]], a stone monument covered with an account of his campaigns. The document names the army's participants and places the battle in a year identifiable through the Assyrian system of naming years after officials. Other inscriptions of Shalmaneser describe the campaign or subsequent fighting against groups of western rulers. All present the events from the Assyrian king's perspective [@rima3] [@cos2].
+The fullest early account comes from the [[kurkh-monoliths|Kurkh Monolith]] of [[shalmaneser-iii|Shalmaneser III]], a stone monument covered with an account of his campaigns. The document names the army's participants and places the battle in a year identifiable through the Assyrian system of naming years after officials. Other inscriptions of Shalmaneser describe the campaign or subsequent fighting against groups of western rulers. All present the events from the Assyrian king's perspective [@rima3, A.0.102.2 ii 78–102] [@cos2, 2.113A].
 
 ## Reconstruction
 
@@ -12,7 +12,7 @@ According to the inscription, Hadadezer of Damascus and Irhuleni of [[hamath|Ham
 
 The size of Ahab's chariot force is disputed. Nadav Naʾaman argued that the figure might reflect a scribal error for two hundred. Others retain the stated total, suggesting it could have represented a force equipped by Ahab and supplemented by allies. Assyrian royal inscriptions can also use numerical claims to emphasize the scale of the opponent. The inscription securely establishes Ahab's participation, while the size and makeup of his force are less certain.
 
-Shalmaneser reports victory in terms that magnify the losses he inflicted. Renewed fighting with the western alliance in 849, 848, and 845 BCE shows that it soon regained or retained the ability to resist. Many historians therefore judge Qarqar to have had no decisive outcome for Assyrian control of the region. Local rulers remained capable of coordinating resistance [@rima3].
+Shalmaneser reports victory in terms that magnify the losses he inflicted. Renewed fighting with the western alliance in 849, 848, and 845 BCE shows that it soon regained or retained the ability to resist. Many historians therefore judge Qarqar to have had no decisive outcome for Assyrian control of the region. Local rulers remained capable of coordinating resistance [@rima3, A.0.102.14 lines 44–47, 54–66, 85–92].
 
 ## Biblical Accounts
 

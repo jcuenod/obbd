@@ -4,13 +4,13 @@ The lion hunt reliefs are carved gypsum wall panels made for the North Palace of
 
 ## Description and Provenance
 
-The panels once lined rooms in the North Palace at [[nineveh|Nineveh]]. Hormuzd Rassam excavated important parts of the palace in the nineteenth century, and major sections of the hunt reliefs are now in the British Museum. The carvings are dated to the mid-seventh century BCE, in the reign of [[ashurbanipal|Ashurbanipal]]. They were part of a palace program that made the activities and authority of the king visible to those admitted to its rooms [@anep].
+The panels once lined rooms in the North Palace at [[nineveh|Nineveh]]. Hormuzd Rassam excavated important parts of the palace in the nineteenth century, and major sections of the hunt reliefs are now in the British Museum. The carvings are dated to the mid-seventh century BCE, in the reign of [[ashurbanipal|Ashurbanipal]]. They were part of a palace program that made the activities and authority of the king visible to those admitted to its rooms [@anep, fig. 626].
 
 ## Contents
 
 The sequences depict the release of captive lions, attendants and bystanders, and the king's encounters with the animals. Lions are shown at different stages of movement, injury, and death. The scene including a wounded lioness belongs to the same larger representation of a royal hunt. The individual treatment of the animals gives power to the scene while the king and his attendants maintain control of the event.
 
-The use of captive lions shows that these scenes include staged hunting. Other Assyrian evidence likewise presents fighting lions as a royal achievement. The palace context helps explain how an elite performance could communicate a wider ideal. Animal danger stands for threats against which the king claims to protect the land [@keel-symbolism].
+The use of captive lions shows that these scenes include staged hunting. Other Assyrian evidence likewise presents fighting lions as a royal achievement. The palace context helps explain how an elite performance could communicate a wider ideal. Animal danger stands for threats against which the king claims to protect the land [@keel-symbolism, 89–94, 281–283].
 
 ## Significance for Biblical Studies
 

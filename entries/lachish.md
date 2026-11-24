@@ -4,13 +4,13 @@ Lachish was a Canaanite city in the Late Bronze Age and later a major fortress o
 
 ## Location and Identification
 
-The site is Tel Lachish, also known as Tell ed-Duweir, southwest of Jerusalem. Its position in the low hills fits the district list that names Lachish among Judah's towns (Josh 15:39). The identification is secure: ancient Hebrew letters found in the gate area refer to Lachish, and a caption on the Nineveh reliefs names the captured city [@neaehl].
+The site is Tel Lachish, also known as Tell ed-Duweir, southwest of Jerusalem. Its position in the low hills fits the district list that names Lachish among Judah's towns (Josh 15:39). The identification is secure: ancient Hebrew letters found in the gate area refer to Lachish, and a caption on the Nineveh reliefs names the captured city [@neaehl, 3:897–911].
 
 ## Archaeological History
 
 British excavations began in the 1930s, and David Ussishkin directed renewed excavations from 1973 to 1994. The Late Bronze Age finds include the Fosse Temple, named for the ditch in which it was built. The later Canaanite city is called Level VI, a name for one phase in the site's sequence of occupation. That city was destroyed around the middle of the twelfth century BCE, though the precise date is uncertain. <!-- VERIFY: the absolute date of the Level VI destruction and the basis for the estimate -->
 
-In the Iron Age a massive palace-fort stood on a raised platform, and a fortified gate controlled entry to the city. Ussishkin's excavations established 701 BCE rather than 597 BCE as the date of the destruction of Level III. That securely dated layer provides a reference point for Judahite pottery and for storage jars bearing [[lmlk-seal-impressions|stamps reading *lmlk* ("belonging to the king")]]. It dates the presence of these jars at Lachish, not the entire span of their production or use [@neaehl].
+In the Iron Age a massive palace-fort stood on a raised platform, and a fortified gate controlled entry to the city. Ussishkin's excavations established 701 BCE rather than 597 BCE as the date of the destruction of Level III. That securely dated layer provides a reference point for Judahite pottery and for storage jars bearing [[lmlk-seal-impressions|stamps reading *lmlk* ("belonging to the king")]]. It dates the presence of these jars at Lachish, not the entire span of their production or use [@neaehl, 3:897–911].
 
 At the southwest corner, an Assyrian stone ramp led toward the wall; excavators interpret a mass of material behind the wall as a Judahite counter-ramp, built to reinforce the defenses. The [[lachish-reliefs|Nineveh reliefs]] show battering rams advancing up sloping approaches and captives being led away. The excavated ramp is rare physical evidence for [[assyrian-siege-warfare|Assyrian siege techniques]]; the carvings show how the palace presented the victory, not a measured plan of the attack.
 

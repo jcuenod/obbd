@@ -4,11 +4,11 @@ Caesarea Maritima was a harbor city founded by Herod the Great on the Mediterran
 
 ## Location and Identification
 
-Herod developed the earlier settlement known as Straton's Tower, on the coast between modern Haifa and Tel Aviv. Scholars generally date the main construction to around 22–10 BCE. Its position gave it access to coastal routes and seaborne traffic. This coastal Caesarea is distinct from Caesarea Philippi inland [@neaehl].
+Herod developed the earlier settlement known as Straton's Tower, on the coast between modern Haifa and Tel Aviv. Scholars generally date the main construction to around 22–10 BCE. Its position gave it access to coastal routes and seaborne traffic. This coastal Caesarea is distinct from Caesarea Philippi inland [@neaehl, 1:270–292].
 
 ## Archaeological History
 
-[[herod-the-great|Herod]] named the harbor Sebastos, the Greek equivalent of Augustus. Underwater excavation has identified breakwaters built with hydraulic concrete, which hardens in contact with water. On land, the temple of Roma, the goddess personifying Rome, and Augustus occupied a platform overlooking the harbor. The theater, aqueducts, and remains of a palace on a promontory attest to the scale of the settlement [@neaehl].
+[[herod-the-great|Herod]] named the harbor Sebastos, the Greek equivalent of Augustus. Underwater excavation has identified breakwaters built with hydraulic concrete, which hardens in contact with water. On land, the temple of Roma, the goddess personifying Rome, and Augustus occupied a platform overlooking the harbor. The theater, aqueducts, and remains of a palace on a promontory attest to the scale of the settlement [@neaehl, 1:270–292].
 
 Caesarea became the seat of the Roman governors after direct administration began in 6 CE. The promontory palace is a plausible location for the governor's residence mentioned in Acts, though the text does not identify a specific building. The [[pilate-stone|Pilate inscription]], found reused in the theater in 1961, names Pontius Pilate as prefect of Judaea and refers to a Tiberieum, a monument or building named for Tiberius. Its original location is uncertain.
 

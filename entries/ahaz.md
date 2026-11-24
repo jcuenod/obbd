@@ -4,9 +4,9 @@ Ahaz was king of Judah in the late eighth century BCE, when Assyria was extendin
 
 ## Extrabiblical Sources
 
-In a summary inscription, [[tiglath-pileser-iii|Tiglath-pileser III]] lists Jehoahaz of Judah among rulers who delivered tribute. The Assyrian spelling represents a longer form of the king's name containing a reference to YHWH, the God of Israel and Judah. The reason Kings uses the short form Ahaz is uncertain. The [[tiglath-pileser-iii-inscriptions|Assyrian royal records]] associate Judah's submission with a wider expansion of imperial control. The tribute list reports goods collected from the group of rulers and gives no separate accounting for Judah. [@rinap1]
+In a summary inscription, [[tiglath-pileser-iii|Tiglath-pileser III]] lists Jehoahaz of Judah among rulers who delivered tribute. The Assyrian spelling represents a longer form of the king's name containing a reference to YHWH, the God of Israel and Judah. The reason Kings uses the short form Ahaz is uncertain. The [[tiglath-pileser-iii-inscriptions|Assyrian royal records]] associate Judah's submission with a wider expansion of imperial control. The tribute list reports goods collected from the group of rulers and gives no separate accounting for Judah. [@rinap1, 122]
 
-The [[hezekiah-bulla|Hezekiah bulla]], a piece of clay impressed with a seal and recovered in the Ophel excavations in Jerusalem, names Hezekiah and identifies Ahaz as his father. Other clay impressions attributed to Ahaz himself read as identifying Ahaz son of Jotham, king of Judah. Those impressions lack securely documented excavation contexts, which makes them harder to assess than the excavated Hezekiah sealing. [@avigad-sass-wsss]
+The [[hezekiah-bulla|Hezekiah bulla]], a piece of clay impressed with a seal and recovered in the Ophel excavations in Jerusalem, names Hezekiah and identifies Ahaz as his father. Other clay impressions attributed to Ahaz himself read as identifying Ahaz son of Jotham, king of Judah. Those impressions lack securely documented excavation contexts, which makes them harder to assess than the excavated Hezekiah sealing. [@avigad-sass-wsss, 57–58; @ophel-bullae, catalog no. B1]
 
 ## Biblical Portrayal
 
@@ -16,7 +16,7 @@ Isa 7:1–17 places Isaiah's encounter with Ahaz in the same crisis. The prophet
 
 ## Historical Assessment
 
-The Assyrian tribute record places Ahaz securely within Tiglath-pileser's reign. Competing dates for Ahaz's accession and death arise from reconciling his sixteen regnal years in 2 Kgs 16:2 with the synchronisms, or dates given in terms of other rulers' reigns, for his son Hezekiah. Reconstructions include a reign starting in the early 740s BCE with time shared on the throne, and a shorter chronology placing his death in the 710s BCE. [@abd]
+The Assyrian tribute record places Ahaz securely within Tiglath-pileser's reign. Competing dates for Ahaz's accession and death arise from reconciling his sixteen regnal years in 2 Kgs 16:2 with the synchronisms, or dates given in terms of other rulers' reigns, for his son Hezekiah. Reconstructions include a reign starting in the early 740s BCE with time shared on the throne, and a shorter chronology placing his death in the 710s BCE. [@abd, 1:106–107]
 
 In 2 Kgs 16:10–18, Ahaz initiates the copying of an altar he saw in Damascus and assigns the regular Jerusalem sacrifices to the new structure. The design's origin and Ahaz's reasons for choosing it remain debated. An older interpretation saw the change as the imposition of Assyrian worship. A common alternative treats it as Ahaz's own adoption of a foreign design for an altar used in Jerusalem's existing worship. The passage connects at least one change to the Assyrian king, while the order to copy the altar itself comes from Ahaz.
 

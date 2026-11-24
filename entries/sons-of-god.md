@@ -4,7 +4,7 @@ Biblical expressions translated “sons of God” or “sons of the gods” ofte
 
 ## Ancient Near Eastern Evidence
 
-Texts from Ugarit refer to sons of [[el|El]] or to divine sons. The Baal Cycle mentions the seventy sons of Athirat, a divine figure associated with El. Such language places the gods in a household or assembly, with roles and loyalties expressed through kinship. The figure seventy can convey the extent of the group. It provides a comparison for biblical divine assemblies without fixing the number or relationships in every biblical scene [@ktu3] [@parker-unp].
+Texts from Ugarit refer to sons of [[el|El]] or to divine sons. The Baal Cycle mentions the seventy sons of Athirat, a divine figure associated with El. Such language places the gods in a household or assembly, with roles and loyalties expressed through kinship. The figure seventy can convey the extent of the group. It provides a comparison for biblical divine assemblies without fixing the number or relationships in every biblical scene [@ktu3, 1.4 VI 46, 1.65 3] [@parker-unp, 83, 134, 171].
 
 ## In the Hebrew Bible
 

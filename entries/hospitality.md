@@ -4,7 +4,7 @@ Biblical stories portray hospitality as providing travelers and strangers with f
 
 ## Ancient Near Eastern Evidence
 
-In the Ugaritic [[aqhat-epic|Aqhat epic]], Danel and his household receive the craftsman god Kothar-wa-Ḫasis and provide a meal. The episode gives a close Levantine example of hosts serving a divine visitor. In the Egyptian [[story-of-sinuhe|Story of Sinuhe]], a ruler in the Levant receives and provides for the Egyptian fugitive. The texts represent hospitality in different literary settings. A welcome can establish favor and create an obligation that extends beyond a meal [@parker-unp] [@ael].
+In the Ugaritic [[aqhat-epic|Aqhat epic]], Danel and his household receive the craftsman god Kothar-wa-Ḫasis and provide a meal. The episode gives a close Levantine example of hosts serving a divine visitor. In the Egyptian [[story-of-sinuhe|Story of Sinuhe]], a ruler in the Levant receives and provides for the Egyptian fugitive. The texts represent hospitality in different literary settings. A welcome can establish favor and create an obligation that extends beyond a meal [@parker-unp, 58–60] [@ael, 1:222–235].
 
 Greeks described reciprocal guest-friendship with the term *xenia*. Greek and Roman stories also tell of gods visiting people in disguise to test their welcome. In Ovid's account of Philemon and Baucis, a couple receives visitors who turn out to be gods. Such stories are later comparanda for Hebrews. They illustrate the wider literary pattern of divine visitors whose identity becomes clear only after they have been received.
 

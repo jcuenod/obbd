@@ -4,7 +4,7 @@ Tel Arad in the eastern Negev preserves an Early Bronze Age walled city and, on 
 
 ## Location and Identification
 
-The mound stands east of Beersheba in the northeastern Negev. The lower city flourished in the third millennium BCE and had a stone circuit wall, houses, and public buildings. Much later, the higher mound was occupied by Iron Age settlements and successive forts. Excavations found no Late Bronze Age town at Tel Arad that could be identified with the seat of a Canaanite ruler in the usual historical settings proposed for Israel's entry into Canaan [@neaehl] [@mazar-archaeology].
+The mound stands east of Beersheba in the northeastern Negev. The lower city flourished in the third millennium BCE and had a stone circuit wall, houses, and public buildings. Much later, the higher mound was occupied by Iron Age settlements and successive forts. Excavations found no Late Bronze Age town at Tel Arad that could be identified with the seat of a Canaanite ruler in the usual historical settings proposed for Israel's entry into Canaan [@neaehl, 1:73–88] [@mazar-archaeology, 438–444].
 
 In Num 21:1–3 the Canaanite king of Arad takes Israelite prisoners. Israel defeats the Canaanites and names the place Hormah, while Josh 12:14 lists Hormah and Arad separately. Some scholars have looked to another site, such as Tel Malhata, or have suggested that the name in Numbers refers to a district whose ruler lived elsewhere. Neither proposal identifies the king's seat securely. Judg 1:16, which places the Kenites in wilderness south of Arad, also uses the name as a point of geographic reference.
 
@@ -12,7 +12,7 @@ In Num 21:1–3 the Canaanite king of Arad takes Israelite prisoners. Israel def
 
 The fortress shrine had a courtyard and a room with a raised niche. The niche contained at least one [[massebot|standing stone]], with the original arrangement of stones debated. Two small limestone altars stood at its entrance. A chemical study by Eran Arie, Baruch Rosen, and Dvory Namdar identified residues consistent with cannabis on the smaller altar and frankincense on the larger one. The deposits attest to substances burned there, while the precise purpose and occasions of use remain open.
 
-Yohanan Aharoni assigned the shrine to a long succession of building phases. Ze'ev Herzog's reexamination restricted its use to Strata X and IX, two successive levels in the eighth century BCE. The carefully covered shrine and laid-down altars indicate deliberate treatment, but their burial alone cannot identify who ordered the change or why. The later fort yielded [[arad-ostraca|written pottery fragments]], including the archive of the official Eliashib around 600 BCE with allotments for Kittim and orders responding to danger from Edom [@dobbs-allsopp-hebrew-inscriptions].
+Yohanan Aharoni assigned the shrine to a long succession of building phases. Ze'ev Herzog's reexamination restricted its use to Strata X and IX, two successive levels in the eighth century BCE. The carefully covered shrine and laid-down altars indicate deliberate treatment, but their burial alone cannot identify who ordered the change or why. The later fort yielded [[arad-ostraca|written pottery fragments]], including the archive of the official Eliashib around 600 BCE with allotments for Kittim and orders responding to danger from Edom [@dobbs-allsopp-hebrew-inscriptions, 5–41, 47–53].
 
 ## Significance for Biblical Studies
 

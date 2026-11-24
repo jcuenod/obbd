@@ -4,7 +4,7 @@ The Egyptian *Tale of Two Brothers* survives on a papyrus copied near the end of
 
 ## Manuscripts and Date
 
-Papyrus D'Orbiney (British Museum, EA 10183) preserves the tale in Late Egyptian, written in hieratic script. Its colophon names the scribe Inena, and the manuscript bears references associating it with the late Nineteenth Dynasty, around the end of the thirteenth century BCE. This dates the surviving copy. How long the story or its constituent episodes circulated before it was copied remains uncertain. The names Anubis and Bata correspond to Egyptian gods, and the narrative puts them in a recognizable farming household before taking them through a series of extraordinary adventures [@ael; @anet; @cos1].
+Papyrus D'Orbiney (British Museum, EA 10183) preserves the tale in Late Egyptian, written in hieratic script. Its colophon names the scribe Inena, and the manuscript bears references associating it with the late Nineteenth Dynasty, around the end of the thirteenth century BCE. This dates the surviving copy. How long the story or its constituent episodes circulated before it was copied remains uncertain. The names Anubis and Bata correspond to Egyptian gods, and the narrative puts them in a recognizable farming household before taking them through a series of extraordinary adventures [@ael, 2:203–211; @anet, 23–25; @cos1, 1.40].
 
 ## Contents
 

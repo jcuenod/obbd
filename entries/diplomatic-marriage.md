@@ -4,9 +4,9 @@ Ancient Near Eastern rulers used marriages between royal houses to build or rein
 
 ## Ancient Near Eastern Evidence
 
-In the [[amarna-letters|Amarna letters]], rulers of Babylonia and Mittani negotiate marriages with the pharaoh. The Babylonian king Kadashman-Enlil reports that Amenhotep III refused to send an Egyptian princess abroad, appealing to long-standing custom. The letters show that expectations of reciprocity did not always apply to marriage. They also show rulers negotiating for gifts and status in connection with marriages [@moran-amarna] [@cos3].
+In the [[amarna-letters|Amarna letters]], rulers of Babylonia and Mittani negotiate marriages with the pharaoh. The Babylonian king Kadashman-Enlil reports that Amenhotep III refused to send an Egyptian princess abroad, appealing to long-standing custom. The letters show that expectations of reciprocity did not always apply to marriage. They also show rulers negotiating for gifts and status in connection with marriages [@moran-amarna, EA 4, 17, 19–20] [@cos3, 3.92D].
 
-In the thirteenth century BCE, Ramesses II married a daughter of the Hittite king Hattusili III after the two courts had concluded a [[egyptian-hittite-peace-treaty|peace treaty]]. Egyptian monuments commemorate the marriage, and Hittite correspondence illuminates the negotiations. The marriage reinforced a relationship already established by treaty and gave both courts an interest in its continuation [@beckman-hdt].
+In the thirteenth century BCE, Ramesses II married a daughter of the Hittite king Hattusili III after the two courts had concluded a [[egyptian-hittite-peace-treaty|peace treaty]]. Egyptian monuments commemorate the marriage, and Hittite correspondence illuminates the negotiations. The marriage reinforced a relationship already established by treaty and gave both courts an interest in its continuation [@beckman-hdt, 125–132].
 
 ## In the Hebrew Bible
 

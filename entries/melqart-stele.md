@@ -4,11 +4,11 @@ The Melqart Stele is a basalt monument found near Aleppo in northern Syria in 19
 
 ## Description and Provenance
 
-The stele was recovered at Breij north of Aleppo. Its setting among later remains does not establish where it originally stood. The upper panel depicts a standing male deity with an axe and an object generally identified as an ankh, an Egyptian symbol of life. The combination of an Aramaic inscription with visual forms known from the coastal Levant shows the circulation of religious and artistic traditions in Iron Age Syria [@kai] [@anep].
+The stele was recovered at Breij north of Aleppo. Its setting among later remains does not establish where it originally stood. The upper panel depicts a standing male deity with an axe and an object generally identified as an ankh, an Egyptian symbol of life. The combination of an Aramaic inscription with visual forms known from the coastal Levant shows the circulation of religious and artistic traditions in Iron Age Syria [@kai, no. 201] [@anep, fig. 499].
 
 ## Contents
 
-The inscription describes the setting up of a monument by Bar-Hadad for his lord [[melqart|Melqart]], who heard his appeal. It thus belongs to the practice of dedicating an object after receiving a favorable divine response. The name Bar-Hadad, meaning “son of Hadad,” is readable. Parts of the donor's ancestry and royal designation are much less clear. Proposed dates are generally in the ninth century BCE or near its end [@cos2] [@kai].
+The inscription describes the setting up of a monument by Bar-Hadad for his lord [[melqart|Melqart]], who heard his appeal. It thus belongs to the practice of dedicating an object after receiving a favorable divine response. The name Bar-Hadad, meaning “son of Hadad,” is readable. Parts of the donor's ancestry and royal designation are much less clear. Proposed dates are generally in the ninth century BCE or near its end [@cos2, 2.33] [@kai, no. 201].
 
 ## Significance for Biblical Studies
 

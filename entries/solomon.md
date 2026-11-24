@@ -4,9 +4,9 @@ Solomon is described in Kings as the son of David who built in Jerusalem and oth
 
 ## Extrabiblical Sources
 
-Egyptian inscriptions of [[shoshenq-i|Shoshenq I]], usually identified as the biblical Shishak, document a campaign in the Levant around 925 BCE. This gives a chronological point of reference near the biblical division of the kingdom. The conventional dates for Solomon rely on working backward through biblical regnal figures. Shoshenq's records do not give Solomon's name or length of reign [@anet] [@ael].
+Egyptian inscriptions of [[shoshenq-i|Shoshenq I]], usually identified as the biblical Shishak, document a campaign in the Levant around 925 BCE. This gives a chronological point of reference near the biblical division of the kingdom. The conventional dates for Solomon rely on working backward through biblical regnal figures. Shoshenq's records do not give Solomon's name or length of reign [@anet, 263–264] [@anet, 263–264].
 
-Excavated gates and other major buildings at [[gezer|Gezer]], [[megiddo|Megiddo]], and [[hazor|Hazor]] became central to the debate over Solomon's building. The buildings have different local sequences. Radiocarbon work at Gezer supports major tenth-century construction in the excavators' chronology, while some proposed dates at the other sites are later. Neither a date nor architectural resemblance by itself names a builder [@neaehl] [@mazar-archaeology].
+Excavated gates and other major buildings at [[gezer|Gezer]], [[megiddo|Megiddo]], and [[hazor|Hazor]] became central to the debate over Solomon's building. The buildings have different local sequences. Radiocarbon work at Gezer supports major tenth-century construction in the excavators' chronology, while some proposed dates at the other sites are later. Neither a date nor architectural resemblance by itself names a builder [@neaehl, 2:496–502, 2:600–606, 5:1946–1949] [@mazar-archaeology, 376–389].
 
 ## Biblical Portrayal
 

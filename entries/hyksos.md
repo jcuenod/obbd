@@ -4,7 +4,7 @@ The Hyksos were the rulers of Egypt's Fifteenth Dynasty. They governed from Avar
 
 ## Sources
 
-The name Hyksos comes from Egyptian *ḥqꜣw ḫꜣswt*, “rulers of foreign lands.” It refers to rulers, although later writers sometimes used it for a whole people. Egyptian evidence includes royal names, accounts of conflict from the Theban side, and the tomb biography of Ahmose son of Ebana, who describes service in the campaign against Avaris. The Egyptian historian Manetho's much later account survives through authors including [[josephus|Josephus]]. In *Against Apion* 1.73–105, Josephus reproduces the explanation “shepherd kings,” which reflects an ancient misinterpretation of the Egyptian title [@ael] [@anet].
+The name Hyksos comes from Egyptian *ḥqꜣw ḫꜣswt*, “rulers of foreign lands.” It refers to rulers, although later writers sometimes used it for a whole people. Egyptian evidence includes royal names, accounts of conflict from the Theban side, and the tomb biography of Ahmose son of Ebana, who describes service in the campaign against Avaris. The Egyptian historian Manetho's much later account survives through authors including [[josephus|Josephus]]. In *Against Apion* 1.73–105, Josephus reproduces the explanation “shepherd kings,” which reflects an ancient misinterpretation of the Egyptian title [@ael, 2:12–15] [@anet, 230–234, 554–555].
 
 ## History
 

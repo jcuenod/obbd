@@ -4,7 +4,7 @@
 
 ## Ancient Near Eastern Evidence
 
-Treaty texts sometimes call upon gods and features of the natural world as witnesses. The [[hittite-vassal-treaties|Hittite treaties]] invoke groups of gods and can include mountains and rivers. Aramaic treaties from Sefire also include named gods and cosmic witnesses. In these documents the witnesses support the authority of the terms and their consequences. They offer a comparison for prophetic appeals to the created world [@beckman-hdt] [@kai].
+Treaty texts sometimes call upon gods and features of the natural world as witnesses. The [[hittite-vassal-treaties|Hittite treaties]] invoke groups of gods and can include mountains and rivers. Aramaic treaties from Sefire also include named gods and cosmic witnesses. In these documents the witnesses support the authority of the terms and their consequences. They offer a comparison for prophetic appeals to the created world [@beckman-hdt, 54–58] [@kai, no. 222 A].
 
 Legal practice offers a second comparison. At the [[courts-and-legal-procedure|city gate]] and in other settings, parties could present complaints and ask for a decision. Prophetic speeches use recognizable acts such as summoning hearers, giving an account of wrongdoing, and announcing judgment. The sources give no single legal procedure that accounts for every element of the prophecies.
 

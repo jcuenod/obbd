@@ -4,11 +4,11 @@ Genesis says that human beings were created in God's image and likeness. In anci
 
 ## Ancient Near Eastern Evidence
 
-An Egyptian king could be described as the living image of a god, giving visible effect to divine rule. Neo-Assyrian scholarly letters similarly apply the word *ṣalmu* (“image”) to the king in relation to a god. This language belongs to a wider [[royal-ideology|royal ideology]] in which a ruler acts on behalf of divine authority. Egyptian sources also offer a broader parallel. The *Instruction for Merikare* describes people as the creator's images in a passage about the care he provides for them [@ael].
+An Egyptian king could be described as the living image of a god, giving visible effect to divine rule. Neo-Assyrian scholarly letters similarly apply the word *ṣalmu* (“image”) to the king in relation to a god. This language belongs to a wider [[royal-ideology|royal ideology]] in which a ruler acts on behalf of divine authority. Egyptian sources also offer a broader parallel. The *Instruction for Merikare* describes people as the creator's images in a passage about the care he provides for them [@ael, 1:106].
 
-At [[tell-fekheriye-statue|Tell Fekheriye]] a ruler's statue bears a bilingual inscription in Akkadian and Aramaic. The Aramaic text uses both *ṣlm* and *dmwt* for the statue, words corresponding to the Hebrew terms for image and likeness. The two words can thus refer to the same representation, even if they carry different associations in a given line. This evidence weighs against giving each word an entirely separate subject in Genesis [@kai] [@cos2].
+At [[tell-fekheriye-statue|Tell Fekheriye]] a ruler's statue bears a bilingual inscription in Akkadian and Aramaic. The Aramaic text uses both *ṣlm* and *dmwt* for the statue, words corresponding to the Hebrew terms for image and likeness. The two words can thus refer to the same representation, even if they carry different associations in a given line. This evidence weighs against giving each word an entirely separate subject in Genesis [@kai, no. 309] [@cos2, 2.34].
 
-Ancient [[cult-images|cult statues]] provide another comparison. Rituals for preparing an image could establish its role as a means of divine presence in a temple. The Tell Fekheriye monument is a ruler's statue dedicated to a deity, a different kind of image. Both settings clarify how an image could do more than display a person's physical appearance [@walker-dick-induction] [@mettinger-no-graven-image].
+Ancient [[cult-images|cult statues]] provide another comparison. Rituals for preparing an image could establish its role as a means of divine presence in a temple. The Tell Fekheriye monument is a ruler's statue dedicated to a deity, a different kind of image. Both settings clarify how an image could do more than display a person's physical appearance [@walker-dick-induction, 8–20] [@mettinger-no-graven-image, 39–56].
 
 ## In the Hebrew Bible
 

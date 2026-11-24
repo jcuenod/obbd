@@ -4,9 +4,9 @@ A standing stone could mark a grave, commemorate a person, witness an agreement,
 
 ## Archaeological Evidence
 
-At [[gezer|Gezer]], a row of large standing stones is generally associated with Middle Bronze Age worship, although its exact purpose is uncertain. A Late Bronze Age shrine at [[hazor|Hazor]] contained a row of smaller stelae. The Iron Age sanctuary at [[arad|Arad]] had at least one standing stone, with debate about whether another also belonged to its original arrangement. In open-air ritual sites in the Negev and Sinai, standing stones occur in groups with other installations. Their shape alone seldom identifies a god or a ritual [@neaehl] [@mazar-archaeology].
+At [[gezer|Gezer]], a row of large standing stones is generally associated with Middle Bronze Age worship, although its exact purpose is uncertain. A Late Bronze Age shrine at [[hazor|Hazor]] contained a row of smaller stelae. The Iron Age sanctuary at [[arad|Arad]] had at least one standing stone, with debate about whether another also belonged to its original arrangement. In open-air ritual sites in the Negev and Sinai, standing stones occur in groups with other installations. Their shape alone seldom identifies a god or a ritual [@neaehl, 1:82–85, 2:594–599] [@mazar-archaeology, 492–501].
 
-Tryggve Mettinger used the term “material aniconism” for the representation of a deity through an object that lacks a human or animal figure. Some standing stones in sanctuaries may have served in this way. Others could commemorate an individual, mark a boundary, or give a material focus to an agreement. Context, an inscription, or the surrounding installations can help distinguish these functions [@mettinger-no-graven-image].
+Tryggve Mettinger used the term “material aniconism” for the representation of a deity through an object that lacks a human or animal figure. Some standing stones in sanctuaries may have served in this way. Others could commemorate an individual, mark a boundary, or give a material focus to an agreement. Context, an inscription, or the surrounding installations can help distinguish these functions [@mettinger-no-graven-image, 28–35].
 
 ## In the Bible
 

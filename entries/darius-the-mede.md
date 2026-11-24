@@ -4,11 +4,11 @@ Darius the Mede is the ruler who receives the kingdom after Belshazzar's death i
 
 ## Ancient Near Eastern Evidence
 
-The [[nabonidus-chronicle|Nabonidus Chronicle]] records the entry of Cyrus's forces into Babylon in 539 BCE and describes the city coming under Persian rule. It mentions Ugbaru, the governor of Gutium who entered Babylon with the army, and Gubaru, a governor associated with the appointment of local officials. Whether the two names refer to the same officer has been debated. Neither entry supplies the royal name and titles that Daniel gives Darius the Mede. The best-attested ruler to follow Nabonidus is [[cyrus-the-great|Cyrus]]. [@abc] [@glassner-chronicles]
+The [[nabonidus-chronicle|Nabonidus Chronicle]] records the entry of Cyrus's forces into Babylon in 539 BCE and describes the city coming under Persian rule. It mentions Ugbaru, the governor of Gutium who entered Babylon with the army, and Gubaru, a governor associated with the appointment of local officials. Whether the two names refer to the same officer has been debated. Neither entry supplies the royal name and titles that Daniel gives Darius the Mede. The best-attested ruler to follow Nabonidus is [[cyrus-the-great|Cyrus]]. [@abc, 109–110] [@glassner-chronicles, no. 26, 232–239]
 
 ## In the Hebrew Bible
 
-Dan 5:28 announces that Belshazzar's kingdom is given to the Medes and Persians. Dan 5:31 (MT 6:1, using the Hebrew verse numbering) reports that Darius the Mede received the kingdom at the age of sixty-two. In Dan 6:1–28 (MT 6:2–29), he appoints officials and becomes bound by his own decree in the plot against Daniel. Dan 9:1 calls him a Mede and the son of Ahasuerus. The historical [[darius-i|Darius I]] was the father of Xerxes, whose name is represented in Hebrew as Ahasuerus. [@abd]
+Dan 5:28 announces that Belshazzar's kingdom is given to the Medes and Persians. Dan 5:31 (MT 6:1, using the Hebrew verse numbering) reports that Darius the Mede received the kingdom at the age of sixty-two. In Dan 6:1–28 (MT 6:2–29), he appoints officials and becomes bound by his own decree in the plot against Daniel. Dan 9:1 calls him a Mede and the son of Ahasuerus. The historical [[darius-i|Darius I]] was the father of Xerxes, whose name is represented in Hebrew as Ahasuerus. [@abd, 2:29–30, 2:38–39]
 
 The older Greek version of Daniel uses Artaxerxes in its account of the change of rule after Belshazzar, while the lions' den story retains Darius. It also gives a different number of provincial officials. These variations show that the royal names and figures had a complex history within the transmission of Daniel. They do not supply independent evidence for a Median king in Babylon.
 
@@ -16,7 +16,7 @@ The older Greek version of Daniel uses Artaxerxes in its account of the change o
 
 Most critical scholars understand Darius the Mede as a literary figure. His place in the sequence can be read alongside prophetic expectations that the [[medes|Medes]] would bring down Babylon (Isa 13:17 and Jer 51:11, 28) and accounts of the succession of kingdoms elsewhere in Daniel. A separate Median stage is one common interpretation of the [[four-kingdoms-schema|four-kingdom scheme]]. The ram in Dan 8:20, however, represents Media and Persia together. The name Darius and the provincial officials in the court tale may reflect memories of Persian administration.
 
-Other proposals identify him with an official such as Ugbaru or Gubaru, or read Dan 6:28 as referring to one ruler, Darius who is Cyrus. Some identify him with the Cyaxares presented as Cyrus's older Median relative in Xenophon, or with Astyages, the Median king whom Cyrus displaced. These proposals address different features of the text, but none commands a consensus. The contemporary sources for the [[fall-of-babylon-539|capture of Babylon]] remain the principal evidence for the political succession itself. [@abc] [@abd]
+Other proposals identify him with an official such as Ugbaru or Gubaru, or read Dan 6:28 as referring to one ruler, Darius who is Cyrus. Some identify him with the Cyaxares presented as Cyrus's older Median relative in Xenophon, or with Astyages, the Median king whom Cyrus displaced. These proposals address different features of the text, but none commands a consensus. The contemporary sources for the [[fall-of-babylon-539|capture of Babylon]] remain the principal evidence for the political succession itself. [@abc, 106, 109–110] [@abd, 2:29–30, 2:38–39]
 
 ## Further Reading
 

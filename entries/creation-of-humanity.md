@@ -4,9 +4,9 @@ Ancient Near Eastern accounts describe the creation of humans through materials 
 
 ## Ancient Near Eastern Evidence
 
-In the Old Babylonian [[atrahasis|Atrahasis]] epic, lesser gods rebel against their labor. The gods have a deity killed, and the birth goddess mixes his flesh and blood with clay to make humans. The new beings are to take over the gods' work. In the Babylonian poem [[enuma-elish|Enuma Elish]], the blood of Kingu, who had led Tiamat's forces, supplies the material for humanity. This act likewise relieves the gods of service previously required of them [@lambert-millard-atrahasis] [@lambert-bcm].
+In the Old Babylonian [[atrahasis|Atrahasis]] epic, lesser gods rebel against their labor. The gods have a deity killed, and the birth goddess mixes his flesh and blood with clay to make humans. The new beings are to take over the gods' work. In the Babylonian poem [[enuma-elish|Enuma Elish]], the blood of Kingu, who had led Tiamat's forces, supplies the material for humanity. This act likewise relieves the gods of service previously required of them [@lambert-millard-atrahasis, 42–67] [@lambert-bcm, 330–345].
 
-Egyptian images sometimes show the creator god [[khnum|Khnum]] shaping human figures on a potter's wheel. Other accounts associate the formation of humans with the creator's tears, through a play on similar-sounding Egyptian words for people and tears. The Instruction for Merikare calls people the creator's cattle and speaks of them as his images. These metaphors express care, likeness, and dependence in different ways [@ael].
+Egyptian images sometimes show the creator god [[khnum|Khnum]] shaping human figures on a potter's wheel. Other accounts associate the formation of humans with the creator's tears, through a play on similar-sounding Egyptian words for people and tears. The Instruction for Merikare calls people the creator's cattle and speaks of them as his images. These metaphors express care, likeness, and dependence in different ways [@ael, 3:109–115].
 
 ## In the Hebrew Bible
 

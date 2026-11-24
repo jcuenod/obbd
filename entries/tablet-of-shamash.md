@@ -4,7 +4,7 @@ The Tablet of Shamash is a ninth-century BCE Babylonian monument from Sippar. It
 
 ## Description and Provenance
 
-The limestone tablet is about 29 centimeters high and 18 centimeters wide. Hormuzd Rassam recovered it in 1881 at Abu Habbah, ancient Sippar. It is now in the British Museum (BM 91000). A clay container and clay renderings of the carved scene were associated with it. One of the clay pieces carries the name of Nabopolassar, showing that a later king was involved in the monument's preservation or renewal. The stone's relief occupies the head of one face, and cuneiform text continues below and around it [@anep].
+The limestone tablet is about 29 centimeters high and 18 centimeters wide. Hormuzd Rassam recovered it in 1881 at Abu Habbah, ancient Sippar. It is now in the British Museum (BM 91000). A clay container and clay renderings of the carved scene were associated with it. One of the clay pieces carries the name of Nabopolassar, showing that a later king was involved in the monument's preservation or renewal. The stone's relief occupies the head of one face, and cuneiform text continues below and around it [@anep, fig. 529].
 
 ## Contents
 

@@ -4,9 +4,9 @@ The divine warrior is a common figure in ancient Near Eastern literature. In sto
 
 ## Ancient Near Eastern Evidence
 
-In the Ugaritic Baal Cycle, the storm god [[baal|Baal]] defeats Sea and later obtains a palace. The story joins conflict between gods, royal authority, and a sacred dwelling. The depiction of Baal as [[cloud-rider|rider of the clouds]] expresses his rule over the storm. Such features provide a West Semitic setting for biblical images of a deity advancing through a convulsed landscape [@parker-unp] [@keel-symbolism].
+In the Ugaritic Baal Cycle, the storm god [[baal|Baal]] defeats Sea and later obtains a palace. The story joins conflict between gods, royal authority, and a sacred dwelling. The depiction of Baal as [[cloud-rider|rider of the clouds]] expresses his rule over the storm. Such features provide a West Semitic setting for biblical images of a deity advancing through a convulsed landscape [@parker-unp, 83–86, 102–105, 134–137] [@keel-symbolism, 211–217].
 
-In Neo-Assyrian inscriptions, the god Aššur can go before a king on campaign. The [[mesha-stele|Mesha Stele]] reports that Chemosh, god of Moab, commanded Mesha to take Nebo from Israel. Mesha also explains Israel's earlier domination by referring to Chemosh's anger. These claims show how royal inscriptions assigned both victory and defeat to a deity's decisions. The [[conquest-accounts-and-war-rhetoric|rhetoric of conquest]] offers a context for the biblical attribution of victories to YHWH [@rima3] [@cos2].
+In Neo-Assyrian inscriptions, the god Aššur can go before a king on campaign. The [[mesha-stele|Mesha Stele]] reports that Chemosh, god of Moab, commanded Mesha to take Nebo from Israel. Mesha also explains Israel's earlier domination by referring to Chemosh's anger. These claims show how royal inscriptions assigned both victory and defeat to a deity's decisions. The [[conquest-accounts-and-war-rhetoric|rhetoric of conquest]] offers a context for the biblical attribution of victories to YHWH [@rima3, A.0.102.2 ii 78–102] [@cos2, 2.23].
 
 ## In the Hebrew Bible
 

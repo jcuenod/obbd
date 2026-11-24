@@ -4,7 +4,7 @@ Baal-zebub is the god of the Philistine city of Ekron whom King Ahaziah seeks to
 
 ## Sources and Iconography
 
-The story in Kings gives the only ancient evidence that specifically names Baal-zebub as a god of [[ekron|Ekron]]. Archaeologists have found a seventh-century BCE inscription recording a king of Ekron's dedication of a temple to a goddess whose name is conventionally transcribed PTGYH. The [[ekron-royal-dedicatory-inscription|dedication]] illuminates the city's religion centuries after the setting of Ahaziah's story. It supplies no direct evidence for the name Baal-zebub, although shorter inscriptions from Ekron do attest the title Baal [@ahituv-echoes].
+The story in Kings gives the only ancient evidence that specifically names Baal-zebub as a god of [[ekron|Ekron]]. Archaeologists have found a seventh-century BCE inscription recording a king of Ekron's dedication of a temple to a goddess whose name is conventionally transcribed PTGYH. The [[ekron-royal-dedicatory-inscription|dedication]] illuminates the city's religion centuries after the setting of Ahaziah's story. It supplies no direct evidence for the name Baal-zebub, although shorter inscriptions from Ekron do attest the title Baal [@cos2, 2.42].
 
 ## In the Hebrew Bible
 
@@ -12,7 +12,7 @@ Ahaziah, king of Israel, is injured in a fall at Samaria and sends messengers to
 
 ## Scholarly Issues
 
-Many scholars explain the name in Kings as a disparaging reshaping of an older title, Baal-zebul, “Baal the Prince.” A comparable title appears in the Ugaritic poems about [[baal|Baal]]. Another interpretation retains “Lord of the Flies” as a genuine title, possibly of a god associated with flies, illness, or oracles. An ancient Greek translation of Kings already understands the Hebrew form in terms of a fly. Neither interpretation establishes the original form of the god's name at Ekron [@ddd].
+Many scholars explain the name in Kings as a disparaging reshaping of an older title, Baal-zebul, “Baal the Prince.” A comparable title appears in the Ugaritic poems about [[baal|Baal]]. Another interpretation retains “Lord of the Flies” as a genuine title, possibly of a god associated with flies, illness, or oracles. An ancient Greek translation of Kings already understands the Hebrew form in terms of a fly. Neither interpretation establishes the original form of the god's name at Ekron [@ddd, 154–156].
 
 In the Gospels, opponents claim that Jesus expels demons with power supplied by Beelzebul, their ruler. Jesus responds that if [[satan-the-adversary|Satan]] were driving out his own forces, he would be undermining his own rule (Matt 12:24–27; Mark 3:22–26; Luke 11:15–19). The argument places Beelzebul in the role of Satan within those accounts. It is uncertain by what route the name entered this setting.
 

@@ -4,11 +4,11 @@ The Marseilles Tariff is a Punic inscription discovered in Marseille in 1845. It
 
 ## Description and Provenance
 
-Workers found the stone during construction in Marseille. The script and language are Punic, the form of Phoenician associated with the western Mediterranean. Its similarity to inscriptions from Carthage provides the main basis for attributing it to that city. The opening line is damaged, and the sanctuary's god is generally read or restored as Baal-Ṣaphon. The object is now in the collections of the city of Marseille [@kai] [@cos1].
+Workers found the stone during construction in Marseille. The script and language are Punic, the form of Phoenician associated with the western Mediterranean. Its similarity to inscriptions from Carthage provides the main basis for attributing it to that city. The opening line is damaged, and the sanctuary's god is generally read or restored as Baal-Ṣaphon. The object is now in the collections of the city of Marseille [@kai, no. 69] [@cos1, 1.98].
 
 ## Contents
 
-The text classifies offerings by animal and by ritual category. It distinguishes cattle and other livestock as well as birds, and it specifies sums due to priests and the allocation of portions to priests and offerers. Hides are included in some provisions. A damaged passage prescribes a penalty for a priest taking a payment contrary to the tariff. A related text found at Carthage has similar language and is important for interpreting the tariff's terminology [@kai].
+The text classifies offerings by animal and by ritual category. It distinguishes cattle and other livestock as well as birds, and it specifies sums due to priests and the allocation of portions to priests and offerers. Hides are included in some provisions. A damaged passage prescribes a penalty for a priest taking a payment contrary to the tariff. A related text found at Carthage has similar language and is important for interpreting the tariff's terminology [@kai, no. 69].
 
 ## Significance for Biblical Studies
 

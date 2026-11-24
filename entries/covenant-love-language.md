@@ -6,7 +6,7 @@ In the diplomatic language of the ancient Near East, love could describe the fai
 
 In the [[amarna-letters|Amarna letters]], rulers use expressions of love when discussing their relations with other rulers. Such words could affirm cooperation and loyalty to the Egyptian king. The writer's actions, such as carrying out requests or supporting an ally, could show what the declaration meant. The political setting made love a matter of conduct as well as a description of a relationship [@moran-amarna].
 
-The [[esarhaddon-succession-treaty|succession treaty of Esarhaddon]] binds its oath takers to love Ashurbanipal as they love themselves. Their obligation includes protecting the designated successor and opposing efforts to remove him. The surrounding terms define the loyalty expected of those who swear. This is one clear example of a king requiring love in the formal language of a treaty [@saa2].
+The [[esarhaddon-succession-treaty|succession treaty of Esarhaddon]] binds its oath takers to love Ashurbanipal as they love themselves. Their obligation includes protecting the designated successor and opposing efforts to remove him. The surrounding terms define the loyalty expected of those who swear. This is one clear example of a king requiring love in the formal language of a treaty [@saa2, 39].
 
 ## In the Hebrew Bible
 

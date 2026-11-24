@@ -4,11 +4,11 @@
 
 ## Manuscripts and Date
 
-The poem is often associated with the Kassite period, in part because its protagonist Šubši-mešrê-Šakkan has a name attested in that setting. Its absolute date is uncertain. First-millennium copies and ancient commentary show that it became part of learned scribal culture. Traditional editions arranged it in four tablets, and later study has proposed a fifth. The differences concern how the surviving text, fragments, and commentary are assigned to the original series [@lambert-bwl].
+The poem is often associated with the Kassite period, in part because its protagonist Šubši-mešrê-Šakkan has a name attested in that setting. Its absolute date is uncertain. First-millennium copies and ancient commentary show that it became part of learned scribal culture. Traditional editions arranged it in four tablets, and later study has proposed a fifth. The differences concern how the surviving text, fragments, and commentary are assigned to the original series [@lambert-bwl, 21–40].
 
 ## Contents
 
-The speaker begins by praising [[marduk|Marduk]], whose anger and favor are beyond human calculation. He then recalls the desertion of divine and human supporters, his loss of standing, and his physical suffering. He has taken part in religious observance and cannot determine what offense caused his situation. The poem asks how a human can know what is acceptable to a god. Dreams accompany the change of his fortunes, and restoration gives rise to public praise [@lambert-bwl] [@cos1].
+The speaker begins by praising [[marduk|Marduk]], whose anger and favor are beyond human calculation. He then recalls the desertion of divine and human supporters, his loss of standing, and his physical suffering. He has taken part in religious observance and cannot determine what offense caused his situation. The poem asks how a human can know what is acceptable to a god. Dreams accompany the change of his fortunes, and restoration gives rise to public praise [@lambert-bwl, 31–62] [@cos1, 1.153].
 
 ## Significance for Biblical Studies
 

@@ -4,11 +4,11 @@ The Siloam Inscription is a six-line Hebrew text cut into the rock inside a wate
 
 ## Description and Provenance
 
-The inscription was discovered near the southern end of [[hezekiahs-tunnel|the Siloam Tunnel]], close to its outlet. The surface carrying the letters was cut from the wall in the nineteenth century and was broken in the removal. The pieces were taken to Constantinople. The Hebrew letters provide a prominent example of the [[paleo-hebrew-script|monarchic script]] [@dobbs-allsopp-hebrew-inscriptions] [@ahituv-echoes].
+The inscription was discovered near the southern end of [[hezekiahs-tunnel|the Siloam Tunnel]], close to its outlet. The surface carrying the letters was cut from the wall in the nineteenth century and was broken in the removal. The pieces were taken to Constantinople. The Hebrew letters provide a prominent example of the [[paleo-hebrew-script|monarchic script]] [@dobbs-allsopp-hebrew-inscriptions, Siloam Tunnel 1] [@ahituv-echoes, 19–24].
 
 ## Contents
 
-The surviving text describes workers approaching each other from opposite directions. As the gap narrowed, a worker heard a voice calling from the other side. The teams then broke through. The last section gives figures for the length of the tunnel and height of rock above the workers, and reports the flow of water to the pool. The text names no ruler and emphasizes the action of the workers. Its position inside the tunnel differs from the prominent locations of many royal building inscriptions [@kai] [@cos2].
+The surviving text describes workers approaching each other from opposite directions. As the gap narrowed, a worker heard a voice calling from the other side. The teams then broke through. The last section gives figures for the length of the tunnel and height of rock above the workers, and reports the flow of water to the pool. The text names no ruler and emphasizes the action of the workers. Its position inside the tunnel differs from the prominent locations of many royal building inscriptions [@kai, no. 189] [@cos2, 2.28].
 
 ## Significance for Biblical Studies
 

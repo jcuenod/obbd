@@ -4,7 +4,7 @@ Khirbet Ataruz is an Iron Age site in central Jordan generally identified with A
 
 ## Location and Identification
 
-Khirbet Ataruz lies on the Moabite plateau east of the Dead Sea, in the region around [[dibon|Dibon]]. The name and location support the identification with Ataroth in Numbers and the [[mesha-stele|Mesha Stele]]. Ataroth and Ataroth-addar in Josh 16:2, 5, 7 and 18:13 belong to descriptions of territories west of the Jordan and refer to other places. The shared name need not imply a connection between the communities. [@kai, no. 181] [@cos2, 2.23] [@abd]
+Khirbet Ataruz lies on the Moabite plateau east of the Dead Sea, in the region around [[dibon|Dibon]]. The name and location support the identification with Ataroth in Numbers and the [[mesha-stele|Mesha Stele]]. Ataroth and Ataroth-addar in Josh 16:2, 5, 7 and 18:13 belong to descriptions of territories west of the Jordan and refer to other places. The shared name need not imply a connection between the communities. [@kai, no. 181] [@cos2, 2.23] [@abd, 1:377, 1:510–511]
 
 ## Archaeological History
 
@@ -16,7 +16,7 @@ A cylindrical stone altar from a later sanctuary was found in 2010. Specialists 
 
 Num 32:3 lists Ataroth among the towns requested by Gad and Reuben. Num 32:34 says the Gadites built it. The stele states that the men of Gad had lived there long before Mesha, that the king of Israel built it, and that Mesha took it and settled other people there. It describes the population’s fate in relation to Chemosh and Moab. 2 Kgs 3:4–5 separately reports Mesha’s rebellion after Ahab’s death without listing Ataroth among its events. The stele and Numbers give independent evidence for associating the name Gad with the region. [@kai, no. 181] [@cos2, 2.23]
 
-Mesha says he brought something called an *ʾrʾl dwdh* from Ataroth before [[chemosh|Chemosh]] at Kerioth. The phrase is disputed. The noun rendered “altar hearth” in Ezek 43:15–16 is one proposed comparison. The expression in 2 Sam 23:20 involving Ariel of Moab has also been discussed, though the Hebrew there is itself difficult. The object, its relation to the sanctuary and whether the expression could refer to a person remain uncertain. [@kai, no. 181] [@cos2, 2.23] [@abd]
+Mesha says he brought something called an *ʾrʾl dwdh* from Ataroth before [[chemosh|Chemosh]] at Kerioth. The phrase is disputed. The noun rendered “altar hearth” in Ezek 43:15–16 is one proposed comparison. The expression in 2 Sam 23:20 involving Ariel of Moab has also been discussed, though the Hebrew there is itself difficult. The object, its relation to the sanctuary and whether the expression could refer to a person remain uncertain. [@kai, no. 181] [@cos2, 2.23] [@abd, 1:377, 1:510–511]
 
 ## Further Reading
 

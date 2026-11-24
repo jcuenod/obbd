@@ -4,9 +4,9 @@ Slavery and debt servitude appear in ancient Near Eastern and Greco-Roman record
 
 ## Ancient Near Eastern Evidence
 
-The [[code-of-hammurabi|Laws of Hammurabi]] provide for the release after three years of members of a debtor's family compelled to serve. Other provisions punish kidnapping, assisting flight, or concealing a fugitive. Cutting a slave's ear could be a punishment for repudiating a master, a different circumstance from the ear rite in Exodus. The [[edict-of-ammi-saduqa|Edict of Ammi-ṣaduqa]] gives another example of release from debt bondage and distinguishes those eligible from other enslaved people [@roth-law].
+The [[code-of-hammurabi|Laws of Hammurabi]] provide for the release after three years of members of a debtor's family compelled to serve. Other provisions punish kidnapping, assisting flight, or concealing a fugitive. Cutting a slave's ear could be a punishment for repudiating a master, a different circumstance from the ear rite in Exodus. The [[edict-of-ammi-saduqa|Edict of Ammi-ṣaduqa]] gives another example of release from debt bondage and distinguishes those eligible from other enslaved people [@roth-law, 85–86, 102–103, 132].
 
-Documents from Babylonia record debt arrangements and sales. Later documents from [[samaria-papyri|Wadi Daliyeh]] and [[elephantine-papyri|Elephantine]] likewise place enslaved people within transactions concerning households and property. The documents offer direct evidence of individual cases. The law collections express wider legal expectations and distinctions that were not necessarily applied in the same way everywhere [@cos3] [@tad].
+Documents from Babylonia record debt arrangements and sales. Later documents from [[samaria-papyri|Wadi Daliyeh]] and [[elephantine-papyri|Elephantine]] likewise place enslaved people within transactions concerning households and property. The documents offer direct evidence of individual cases. The law collections express wider legal expectations and distinctions that were not necessarily applied in the same way everywhere [@cos3, 3.68, 3.74, 3.111–3.114] [@tad, B2.11, B3.3, B3.6].
 
 ## In the Hebrew Bible
 

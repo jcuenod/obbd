@@ -4,9 +4,9 @@ Daily service in ancient Near Eastern temples could include presenting meals to 
 
 ## Ancient Near Eastern Evidence
 
-In many Mesopotamian temples, caretakers treated a [[cult-images|cult image]], a statue through which a deity was encountered, as the focus of daily service. A. Leo Oppenheim described these activities as the care and feeding of the gods. Late Babylonian documents from Uruk prescribe meals for Anu and other gods, specifying the timing, foods and vessels. The presentation of the meal was followed by distribution of portions, which could go to the royal household, priests or temple personnel. Such arrangements linked worship with the routine movement of resources through a temple. [@anet]
+In many Mesopotamian temples, caretakers treated a [[cult-images|cult image]], a statue through which a deity was encountered, as the focus of daily service. A. Leo Oppenheim described these activities as the care and feeding of the gods. Late Babylonian documents from Uruk prescribe meals for Anu and other gods, specifying the timing, foods and vessels. The presentation of the meal was followed by distribution of portions, which could go to the royal household, priests or temple personnel. Such arrangements linked worship with the routine movement of resources through a temple. [@anet, 331–334]
 
-Egyptian temple rites also involved cleansing and dressing a divine image and presenting offerings. The [[hittite-instructions-temple-officials|Hittite Instructions for Temple Officials]] emphasize the purity of the people who prepare divine bread and the care owed to the god's food. These sources treat ritual service as skilled work with rules concerning its materials, timing and personnel. [@cos1] [@anet]
+Egyptian temple rites also involved cleansing and dressing a divine image and presenting offerings. The [[hittite-instructions-temple-officials|Hittite Instructions for Temple Officials]] emphasize the purity of the people who prepare divine bread and the care owed to the god's food. These sources treat ritual service as skilled work with rules concerning its materials, timing and personnel. [@cos1, 1.34, 1.83] [@anet, 207–210]
 
 ## In the Hebrew Bible
 
@@ -16,7 +16,7 @@ Some sacrifices illustrate how an offering and a priestly share could belong to 
 
 ## Interpretive Significance
 
-Ps 50:12–13 questions whether God eats the flesh of bulls or drinks the blood of goats. The psalm reasons that the world and its contents already belong to God. Its argument can be read beside the legislation's description of divine meals, which directs the community's ritual conduct without presenting God as dependent on its food. The comparison with neighboring temples clarifies both the familiar language of biblical sacrifice and the different claims biblical texts make about what an offering does. [@abd]
+Ps 50:12–13 questions whether God eats the flesh of bulls or drinks the blood of goats. The psalm reasons that the world and its contents already belong to God. Its argument can be read beside the legislation's description of divine meals, which directs the community's ritual conduct without presenting God as dependent on its food. The comparison with neighboring temples clarifies both the familiar language of biblical sacrifice and the different claims biblical texts make about what an offering does. [@abd, 5:871–881]
 
 ## Further Reading
 

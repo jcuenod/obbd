@@ -4,11 +4,11 @@ The Bubastite Portal at Karnak in Egypt preserves a relief made for Shoshenq I, 
 
 ## Description and Provenance
 
-The portal gives access to the first court of the temple of Amun at Karnak. The victory scene is carved on the adjoining temple wall. It combines a royal figure striking enemies with the god Amun presenting rows of bound figures. The relief belongs to a long Egyptian convention of representing enemies and places under divine and royal control. Damage has removed parts of the composition [@anet] [@anep].
+The portal gives access to the first court of the temple of Amun at Karnak. The victory scene is carved on the adjoining temple wall. It combines a royal figure striking enemies with the god Amun presenting rows of bound figures. The relief belongs to a long Egyptian convention of representing enemies and places under divine and royal control. Damage has removed parts of the composition [@anet, 263–264] [@anep, fig. 349].
 
 ## Contents
 
-The small figures in the rows carry oval rings containing the names of places. Recognizable or commonly proposed names include [[megiddo|Megiddo]], Beth-shean, and places farther south near Judah and the Negev. Other names are damaged or difficult to locate. An inscribed fragment of a separate monument bearing Shoshenq's name was found at Megiddo, confirming that a royal monument was present there. The fragment does not establish the circumstances in which it was erected [@neaehl].
+The small figures in the rows carry oval rings containing the names of places. Recognizable or commonly proposed names include [[megiddo|Megiddo]], Beth-shean, and places farther south near Judah and the Negev. Other names are damaged or difficult to locate. An inscribed fragment of a separate monument bearing Shoshenq's name was found at Megiddo, confirming that a royal monument was present there. The fragment does not establish the circumstances in which it was erected [@anet, 263–264].
 
 ## Significance for Biblical Studies
 

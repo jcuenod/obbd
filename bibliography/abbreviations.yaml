@@ -8,12 +8,16 @@
 # is one.
 series:
   ABRL: Anchor Bible Reference Library
+  ANEM: Ancient Near East Monographs
   AOAT: Alter Orient und Altes Testament
+  CHANE: Culture and History of the Ancient Near East
   ConBOT: Coniectanea Biblica, Old Testament Series
   CUSAS: Cornell University Studies in Assyriology and Sumerology
+  IAA Reports: IAA Reports
   JSOTSup: Journal for the Study of the Old Testament Supplement Series
   LAI: Library of Ancient Israel
   MC: Mesopotamian Civilizations
+  OIMP: Oriental Institute Museum Publications
   RIMA: The Royal Inscriptions of Mesopotamia, Assyrian Periods
   RIME: The Royal Inscriptions of Mesopotamia, Early Periods
   RINAP: The Royal Inscriptions of the Neo-Assyrian Period
@@ -23,4 +27,15 @@ series:
   VTSup: Supplements to Vetus Testamentum
   WAW: Writings from the Ancient World
 journals:
+  AfO: Archiv für Orientforschung
+  BASOR: Bulletin of the American Schools of Oriental Research
+  JCS: Journal of Cuneiform Studies
+  JJA: Jerusalem Journal of Archaeology
   HUCA: Hebrew Union College Annual
+  IEJ: Israel Exploration Journal
+  Iraq: Iraq
+  PNAS: Proceedings of the National Academy of Sciences
+  Religions: Religions
+  TA: Tel Aviv
+  Syria: Syria
+  ʿAtiqot: ʿAtiqot

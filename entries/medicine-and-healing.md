@@ -4,7 +4,7 @@ Ancient healers treated illness with remedies, bodily care, ritual, and prayer. 
 
 ## Ancient Near Eastern Evidence
 
-In Mesopotamia, an *asû* was a healer associated with remedies and treatment, while an *āšipu* was a specialist often concerned with diagnosis, ritual, and incantation. Their work overlapped. The diagnostic series *Sakikkû* assigns significance and probable outcomes to symptoms and other signs. The Laws of Hammurabi set payments and liabilities for some treatments, and Babylonian and Hittite laws can require a person who caused an injury to provide for treatment [@roth-law] [@cos1].
+In Mesopotamia, an *asû* was a healer associated with remedies and treatment, while an *āšipu* was a specialist often concerned with diagnosis, ritual, and incantation. Their work overlapped. The diagnostic series *Sakikkû* assigns significance and probable outcomes to symptoms and other signs. The Laws of Hammurabi set payments and liabilities for some treatments, and Babylonian and Hittite laws can require a person who caused an injury to provide for treatment [@roth-law, 122–124] [@cos1, 1.168].
 
 The Egyptian Ebers and Edwin Smith papyri show the range of care, from collections of remedies to the examination and treatment of injuries. Herodotus 2.84 later describes physicians in Egypt as specialists in particular illnesses. Greek and Roman audiences knew learned medical traditions associated with Hippocrates and sanctuaries of Asclepius at places including Epidaurus, Pergamum, and Corinth. At such shrines people sought healing through the god, sometimes through a dream.
 

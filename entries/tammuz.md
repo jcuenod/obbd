@@ -4,9 +4,9 @@ Tammuz is the biblical form of the name of Dumuzi, a Mesopotamian god associated
 
 ## Sources and Iconography
 
-The [Sumerian love songs](sumerian-love-songs.md) describe the courtship of Dumuzi and [Inanna](ishtar.md). Other compositions have darker plots. In *Inanna's Descent*, Dumuzi is surrendered as Inanna's replacement in the underworld and eventually shares the obligation with his sister Geshtinanna. *Dumuzi's Dream* depicts pursuit and capture in a different narrative setting. Akkadian literary and ritual texts attest lamentation for Tammuz. A letter from Nineveh concerning the month Duʾuzu and the ending of the Akkadian *Descent of Ishtar* show connections between the god's myth and observance. The timing and details of mourning can vary with the place and source [@cos1; @anet; @cohen-cultic-calendars].
+The [Sumerian love songs](sumerian-love-songs.md) describe the courtship of Dumuzi and [Inanna](ishtar.md). Other compositions have darker plots. In *Inanna's Descent*, Dumuzi is surrendered as Inanna's replacement in the underworld and eventually shares the obligation with his sister Geshtinanna. *Dumuzi's Dream* depicts pursuit and capture in a different narrative setting. Akkadian literary and ritual texts attest lamentation for Tammuz. A letter from Nineveh concerning the month Duʾuzu and the ending of the Akkadian *Descent of Ishtar* show connections between the god's myth and observance. The timing and details of mourning can vary with the place and source [@cos1, 1.108, 1.169; @anet, 637–645; @cohen-cultic-calendars, 454–482].
 
-Herding implements and plants contribute to Dumuzi's poetic imagery. In the absence of inscriptions or distinctive context, identifying individual male figures in seals as Dumuzi remains uncertain. The textual corpus gives firmer footing for his associations than most proposed images [@ddd].
+Herding implements and plants contribute to Dumuzi's poetic imagery. In the absence of inscriptions or distinctive context, identifying individual male figures in seals as Dumuzi remains uncertain. The textual corpus gives firmer footing for his associations than most proposed images [@ddd, 829–834].
 
 ## In the Hebrew Bible
 

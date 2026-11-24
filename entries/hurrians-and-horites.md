@@ -4,7 +4,7 @@ Hurrian-speaking communities lived across northern Mesopotamia, Syria, and adjoi
 
 ## Sources
 
-Inscriptions attest Hurrian names and language at Urkesh in northern Mesopotamia in the late third millennium BCE. The [[amarna-letters|Amarna correspondence]] includes a long letter from Tušratta written in Hurrian, alongside diplomatic correspondence written in Akkadian. Texts from Alalakh and [[nuzi-texts|Nuzi]] preserve extensive evidence of Hurrian names and social life. Egyptian records can use *Ḫurru* for a territory in Syria-Palestine, a geographical expression with changing scope [@moran-amarna] [@anet] [@cos2].
+Inscriptions attest Hurrian names and language at Urkesh in northern Mesopotamia in the late third millennium BCE. The [[amarna-letters|Amarna correspondence]] includes a long letter from Tušratta written in Hurrian, alongside diplomatic correspondence written in Akkadian. Texts from Alalakh and [[nuzi-texts|Nuzi]] preserve extensive evidence of Hurrian names and social life. Egyptian records can use *Ḫurru* for a territory in Syria-Palestine, a geographical expression with changing scope [@moran-amarna, EA 24] [@anet, 483–490] [@moran-amarna, EA 24].
 
 ## History
 

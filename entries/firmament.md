@@ -4,9 +4,9 @@ The Hebrew word often translated “firmament” or “expanse” names the sky 
 
 ## Ancient Near Eastern Evidence
 
-In the Babylonian creation poem [[enuma-elish|Enuma Elish]], Marduk makes part of the body of the defeated sea deity Tiamat into a covering. He sets guards and establishes a restraint so that her waters do not escape. The scene provides an ancient example of a sky that holds back water. Its narrative setting is divine combat and victory [@lambert-bcm].
+In the Babylonian creation poem [[enuma-elish|Enuma Elish]], Marduk makes part of the body of the defeated sea deity Tiamat into a covering. He sets guards and establishes a restraint so that her waters do not escape. The scene provides an ancient example of a sky that holds back water. Its narrative setting is divine combat and victory [@lambert-bcm, 93–95, 169–172].
 
-Some first-millennium BCE Mesopotamian texts describe several heavens made from different kinds of stone. These texts also assign the visible stars and the dwelling places of gods to particular levels. They provide comparisons for ancient descriptions in which heaven has material properties. Individual texts give different accounts of the number and arrangement of cosmic regions [@horowitz-cosmic-geography].
+Some first-millennium BCE Mesopotamian texts describe several heavens made from different kinds of stone. These texts also assign the visible stars and the dwelling places of gods to particular levels. They provide comparisons for ancient descriptions in which heaven has material properties. Individual texts give different accounts of the number and arrangement of cosmic regions [@horowitz-cosmic-geography, 3–19, 243–251].
 
 ## In the Hebrew Bible
 

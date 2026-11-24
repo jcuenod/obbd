@@ -4,13 +4,13 @@ The Mesha Stele is a basalt monument erected by Mesha, king of Moab, around the 
 
 ## Description and Provenance
 
-The monument was reported by Frederick Augustus Klein at Dhiban, ancient [[dibon|Dibon]]. It was broken after its discovery. Substantial original fragments were recovered, and a paper impression prepared on behalf of Charles Clermont-Ganneau before the breakage helped reconstruct damaged or missing portions. The restored stone is in the Louvre. The state of the original basalt and the quality of the impression matter for several disputed readings [@kai] [@ahituv-echoes].
+The monument was reported by Frederick Augustus Klein at Dhiban, ancient [[dibon|Dibon]]. It was broken after its discovery. Substantial original fragments were recovered, and a paper impression prepared on behalf of Charles Clermont-Ganneau before the breakage helped reconstruct damaged or missing portions. The restored stone is in the Louvre. The state of the original basalt and the quality of the impression matter for several disputed readings [@kai, no. 181] [@ahituv-echoes, 389–418].
 
 ## Contents
 
 Mesha describes himself as king of [[moabites|Moab]] and celebrates [[chemosh|Chemosh]]. The god's anger explains the earlier domination of Moab by Israel, and his renewed favor explains Mesha's success. The inscription names [[omri|Omri]], king of Israel, and refers to his successor. It describes the recovery or seizure of towns, the treatment of their populations, the dedication of goods, and building work that reshaped Moab's settlements.
 
-In the account of Nebo, Mesha reports taking objects associated with YHWH and carrying them before Chemosh. The divine name is clear, while the exact identification of the objects as vessels is a conventional rendering of the damaged context. The text also describes devoting people to Ashtar-Chemosh with a verb related to the Hebrew term [[herem|ḥērem]], which can refer to placing people or things under a ban for a god [@cos2] [@kai].
+In the account of Nebo, Mesha reports taking objects associated with YHWH and carrying them before Chemosh. The divine name is clear, while the exact identification of the objects as vessels is a conventional rendering of the damaged context. The text also describes devoting people to Ashtar-Chemosh with a verb related to the Hebrew term [[herem|ḥērem]], which can refer to placing people or things under a ban for a god [@cos2, 2.23] [@kai, no. 181].
 
 ## Significance for Biblical Studies
 

@@ -4,9 +4,9 @@ Ancient Near Eastern rulers could address one another as brothers to recognize a
 
 ## Ancient Near Eastern Evidence
 
-The [[amarna-letters|Amarna letters]] preserve correspondence between the king of Egypt and both major monarchs and local rulers. The kings of Babylonia and other great powers commonly address the pharaoh as brother. Local rulers who depended on Egypt employed phrases such as “my lord” and referred to themselves as servants. The terms marked the relative standing the sender claimed or conceded [@moran-amarna].
+The [[amarna-letters|Amarna letters]] preserve correspondence between the king of Egypt and both major monarchs and local rulers. The kings of Babylonia and other great powers commonly address the pharaoh as brother. Local rulers who depended on Egypt employed phrases such as “my lord” and referred to themselves as servants. The terms marked the relative standing the sender claimed or conceded [@moran-amarna, EA 1–5, 286].
 
-Brotherhood could imply duties of reciprocity, including sending gifts, exchanging envoys, or honoring agreements. The [[egyptian-hittite-peace-treaty|Egyptian–Hittite peace treaty]] speaks of peace and brotherhood between Ramesses II and Hattusili III. These were rulers whose treaty imposed mutual obligations. Calling one another brothers was a public claim to reciprocal standing even when their resources and interests differed [@beckman-hdt] [@cos2].
+Brotherhood could imply duties of reciprocity, including sending gifts, exchanging envoys, or honoring agreements. The [[egyptian-hittite-peace-treaty|Egyptian–Hittite peace treaty]] speaks of peace and brotherhood between Ramesses II and Hattusili III. These were rulers whose treaty imposed mutual obligations. Calling one another brothers was a public claim to reciprocal standing even when their resources and interests differed [@beckman-hdt, 90–94] [@anet, 199–203].
 
 ## In the Hebrew Bible
 

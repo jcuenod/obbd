@@ -4,15 +4,15 @@ Mesopotamian learned traditions traced some kinds of knowledge to Enmeduranki, a
 
 ## Ancient Near Eastern Evidence
 
-In an Akkadian text, the gods Shamash and Adad receive Enmeduranki and teach him forms of divination, the practice of interpreting signs as messages from the gods. These include [[extispicy|examining the entrails of a sacrificed animal]] and interpreting patterns involving oil and water. He is to pass on the knowledge. The account provides a divine foundation for the expertise transmitted among Mesopotamian diviners. [@cos1] [@abd]
+In an Akkadian text, the gods Shamash and Adad receive Enmeduranki and teach him forms of divination, the practice of interpreting signs as messages from the gods. These include [[extispicy|examining the entrails of a sacrificed animal]] and interpreting patterns involving oil and water. He is to pass on the knowledge. The account provides a divine foundation for the expertise transmitted among Mesopotamian diviners. [@cos1] [@abd, 5:15–17]
 
-Other texts name seven ancient sages. The ritual series called *Bīt mēseri* includes Utuabzu, who is described as ascending to heaven. The Seleucid-period list of kings and sages from Uruk pairs Utuabzu with Enmeduranki. Berossus, a Babylonian writer of the Hellenistic period, tells of a teacher called Oannes and other beings credited with conveying skills to humanity. These accounts emphasize different aspects of ancient wisdom. The protective images of [[apkallu-reliefs|Assyrian sages]] are treated separately. [@ddd]
+Other texts name seven ancient sages. The ritual series called *Bīt mēseri* includes Utuabzu, who is described as ascending to heaven. The Seleucid-period list of kings and sages from Uruk pairs Utuabzu with Enmeduranki. Berossus, a Babylonian writer of the Hellenistic period, tells of a teacher called Oannes and other beings credited with conveying skills to humanity. These accounts emphasize different aspects of ancient wisdom. The protective images of [[apkallu-reliefs|Assyrian sages]] are treated separately. [@ddd, 72–73]
 
 ## In the Hebrew Bible
 
-Gen 5:21–24 places Enoch in the line of ancestors before the flood and says that God took him. The narrative gives little detail about that departure. In [[first-enoch|First Enoch]], Enoch travels through heavenly places and learns secrets about the order of creation. The Astronomical Book in that collection presents instruction about the movements of heavenly bodies. The Enochic descriptions show how later writers developed the brief account in Genesis. [@abd]
+Gen 5:21–24 places Enoch in the line of ancestors before the flood and says that God took him. The narrative gives little detail about that departure. In [[first-enoch|First Enoch]], Enoch travels through heavenly places and learns secrets about the order of creation. The Astronomical Book in that collection presents instruction about the movements of heavenly bodies. The Enochic descriptions show how later writers developed the brief account in Genesis. [@abd, 2:508–523]
 
-The Book of the Watchers also develops Gen 6:1–4, where heavenly beings take human wives. In the Enochic account, these beings teach skills and forms of knowledge that have destructive consequences. The comparison with Mesopotamian teachers is especially pertinent to the later Enochic story. A direct relation between the brief Genesis passage and a specific list of sages remains disputed. [@abd] [@ddd]
+The Book of the Watchers also develops Gen 6:1–4, where heavenly beings take human wives. In the Enochic account, these beings teach skills and forms of knowledge that have destructive consequences. The comparison with Mesopotamian teachers is especially pertinent to the later Enochic story. A direct relation between the brief Genesis passage and a specific list of sages remains disputed. [@abd, 2:508–523] [@ddd, 72–73]
 
 ## Interpretive Significance
 

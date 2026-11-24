@@ -4,15 +4,15 @@ Babylon fell to the forces of Cyrus II of Persia in October 539 BCE, ending the 
 
 ## Sources
 
-The [[nabonidus-chronicle|Nabonidus Chronicle]] records the chronology of the campaign in its account of the last year of Nabonidus. The [[cyrus-cylinder|Cyrus Cylinder]], a royal inscription issued after the conquest, presents the unpopular rule of Nabonidus as the reason Marduk brought Cyrus to Babylon. Both describe the entry into the city as unopposed. The inscription explicitly uses the event to legitimize Cyrus's kingship [@abc] [@cos2].
+The [[nabonidus-chronicle|Nabonidus Chronicle]] records the chronology of the campaign in its account of the last year of Nabonidus. The [[cyrus-cylinder|Cyrus Cylinder]], a royal inscription issued after the conquest, presents the unpopular rule of Nabonidus as the reason Marduk brought Cyrus to Babylon. Both describe the entry into the city as unopposed. The inscription explicitly uses the event to legitimize Cyrus's kingship [@abc, 109–110] [@cos2, 2.124].
 
 The Greek authors Herodotus and Xenophon tell of Persians diverting the Euphrates and entering Babylon during a festival (Herodotus, Histories 1.191; Xenophon, Cyropaedia 7.5). Their versions differ in important details and were written well after the conquest. The river-diversion story has no counterpart in the surviving Babylonian records. It presents a more dramatic explanation for the city's fall than the accounts kept in cuneiform.
 
 ## Reconstruction
 
-The chronicle reports that Cyrus fought the Babylonian army at Opis on the Tigris. Sippar was then taken without battle and [[nabonidus|Nabonidus]] fled. On the sixteenth day of Tashritu, a commander named Ugbaru entered Babylon with the forces of Cyrus. The chronicle says that the city was taken without battle and that Nabonidus was captured [@abc].
+The chronicle reports that Cyrus fought the Babylonian army at Opis on the Tigris. Sippar was then taken without battle and [[nabonidus|Nabonidus]] fled. On the sixteenth day of Tashritu, a commander named Ugbaru entered Babylon with the forces of Cyrus. The chronicle says that the city was taken without battle and that Nabonidus was captured [@abc, 109].
 
-[[cyrus-the-great|Cyrus]] himself entered Babylon on the third day of the following month, Arahsamnu. The report describes order in the city and continued observance of rites. Violent fighting earlier in the campaign is compatible with an unopposed entry into the capital. The conquest transferred political control to Persia, while the city remained inhabited and continued to function as a major center [@glassner-chronicles].
+[[cyrus-the-great|Cyrus]] himself entered Babylon on the third day of the following month, Arahsamnu. The report describes order in the city and continued observance of rites. Violent fighting earlier in the campaign is compatible with an unopposed entry into the capital. The conquest transferred political control to Persia, while the city remained inhabited and continued to function as a major center [@glassner-chronicles, no. 26, 232–239].
 
 ## Biblical Accounts
 

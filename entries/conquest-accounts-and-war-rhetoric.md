@@ -4,7 +4,7 @@ Ancient Near Eastern descriptions of conquest use recurring phrases and images t
 
 ## Ancient Near Eastern Evidence
 
-The [[merneptah-stele|Merneptah Stele]] of the late thirteenth century BCE says that Israel was laid waste and its seed was gone. The ninth-century BCE [[mesha-stele|Mesha Stele]] presents Israel as having perished permanently after Moab threw off Israelite control. The continued existence of Israel shows what such language could do in a victory text. It expressed the gravity and completeness of the loss from the winner's perspective [@cos2].
+The [[merneptah-stele|Merneptah Stele]] of the late thirteenth century BCE says that Israel was laid waste and its seed was gone. The ninth-century BCE [[mesha-stele|Mesha Stele]] presents Israel as having perished permanently after Moab threw off Israelite control. The continued existence of Israel shows what such language could do in a victory text. It expressed the gravity and completeness of the loss from the winner's perspective [@cos2, 2.6, 2.23].
 
 Assyrian annals repeat formulas about taking cities, destroying defenses, deporting inhabitants, and collecting tribute. Egypt's [[kadesh-battle-reliefs|accounts of the battle of Kadesh]] present the god Amun as answering Ramesses II in his hour of danger. Hittite campaigns likewise portray gods assisting their favored ruler. K. Lawson Younger compared such accounts with Joshua and identified repeated patterns of conquest claims, descriptions of divine aid, and summaries of captured territory.
 

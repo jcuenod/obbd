@@ -4,7 +4,7 @@ The Instructions for Temple Personnel is a Hittite text setting out duties for p
 
 ## Manuscripts and Date
 
-The text survives in cuneiform copies from Ḫattuša and is listed as CTH 264 in the modern catalog of Hittite texts. The surviving copies belong to the later Hittite kingdom, and the composition may draw on earlier instruction. It belongs to a group of rulings that assign obligations to royal and temple personnel. The writing gives a formal account of expected conduct, while the penalties describe how serious an offense could be in the eyes of the authorities [@cos1] [@anet].
+The text survives in cuneiform copies from Ḫattuša and is listed as CTH 264 in the modern catalog of Hittite texts. The surviving copies belong to the later Hittite kingdom, and the composition may draw on earlier instruction. It belongs to a group of rulings that assign obligations to royal and temple personnel. The writing gives a formal account of expected conduct, while the penalties describe how serious an offense could be in the eyes of the authorities [@cos1, 1.83] [@anet, 207–210].
 
 ## Contents
 

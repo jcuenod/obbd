@@ -4,9 +4,9 @@ Ancient kings and gods were often represented striking, trampling, or standing o
 
 ## Ancient Near Eastern Evidence
 
-On the [[narmer-palette|Narmer Palette]], the Egyptian king raises a mace over a defeated foe. Repetitions of the general pose over later periods made it a conventional expression of kingship. Levantine figurines and the [[baal-with-thunderbolt|stele of Baal with a thunderbolt]] show deities with an arm raised to strike. Similar poses can express divine protection, victory, or a ruler acting under a god's authority [@anep] [@keel-symbolism].
+On the [[narmer-palette|Narmer Palette]], the Egyptian king raises a mace over a defeated foe. Repetitions of the general pose over later periods made it a conventional expression of kingship. Levantine figurines and the [[baal-with-thunderbolt|stele of Baal with a thunderbolt]] show deities with an arm raised to strike. Similar poses can express divine protection, victory, or a ruler acting under a god's authority [@anep, figs. 292, 296–297] [@keel-symbolism, 290–293].
 
-The use of an enemy below the ruler's feet is another form of the theme. Egyptian objects, including the [[tutankhamun-footstool|footstool of Tutankhamun]], place figures of enemies under the king. Assyrian royal inscriptions and reliefs likewise represent the subjection of enemies. These works repeatedly invoke a hierarchy in which the victorious ruler stands above those subjected to him [@rima3].
+The use of an enemy below the ruler's feet is another form of the theme. Egyptian objects, including the [[tutankhamun-footstool|footstool of Tutankhamun]], place figures of enemies under the king. Assyrian royal inscriptions and reliefs likewise represent the subjection of enemies. These works repeatedly invoke a hierarchy in which the victorious ruler stands above those subjected to him [@rima3, A.0.102.14, A.0.102.88].
 
 ## In the Hebrew Bible
 

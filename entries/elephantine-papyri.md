@@ -4,13 +4,13 @@ The Elephantine papyri are chiefly Aramaic documents from a military community a
 
 ## Manuscripts and Date
 
-The papers are named for [[elephantine|Elephantine]], the island where many of their writers lived. Related materials come from neighboring Syene, present-day Aswan. Documents were recovered in excavations and through purchase, so some have firmer archaeological contexts than others. Known dates in the Judean archives fall mainly within the fifth century BCE, with some continuing into the beginning of the fourth. A petition claims that the temple already stood when Cambyses conquered Egypt in 525 BCE. The community's founding date and the circumstances of its origins remain debated. [@tad] [@cos3]
+The papers are named for [[elephantine|Elephantine]], the island where many of their writers lived. Related materials come from neighboring Syene, present-day Aswan. Documents were recovered in excavations and through purchase, so some have firmer archaeological contexts than others. Known dates in the Judean archives fall mainly within the fifth century BCE, with some continuing into the beginning of the fourth. A petition claims that the temple already stood when Cambyses conquered Egypt in 525 BCE. The community's founding date and the circumstances of its origins remain debated. [@tad, A4.1, A4.7–A4.9] [@cos3, 3.46–3.53, 3.59–3.80]
 
 ## Contents
 
-The Mibtahiah archive concerns property, marriage and inheritance across several generations. One document grants the use of a house to a son-in-law while recording its transfer to Mibtahiah in a separate deed (B2.4 in Porten and Yardeni's edition). The Ananiah and Tamet papers include property transactions and family agreements involving people of Judean and Egyptian background. The documents show individual households turning to written agreements to establish ownership and obligations. [@tad]
+The Mibtahiah archive concerns property, marriage and inheritance across several generations. One document grants the use of a house to a son-in-law while recording its transfer to Mibtahiah in a separate deed (B2.4 in Porten and Yardeni's edition). The Ananiah and Tamet papers include property transactions and family agreements involving people of Judean and Egyptian background. The documents show individual households turning to written agreements to establish ownership and obligations. [@tad, B2.1–B2.11]
 
-The Jedaniah archive preserves communal correspondence, including the [[elephantine-passover-letter|festival letter]] and the [[elephantine-temple-petition|petition to rebuild the temple]]. Other documents include accounts and inventories. Literary works include [[ahiqar|Ahiqar]] (C1.1), a tale and collection of sayings, and an Aramaic copy of part of Darius's [[behistun-inscription|Bisitun inscription]] (C2.1). These different kinds of writing show why the corpus is relevant to both social history and literary transmission. [@tad] [@cos3]
+The Jedaniah archive preserves communal correspondence, including the [[elephantine-passover-letter|festival letter]] and the [[elephantine-temple-petition|petition to rebuild the temple]]. Other documents include accounts and inventories. Literary works include [[ahiqar|Ahiqar]] (C1.1), a tale and collection of sayings, and an Aramaic copy of part of Darius's [[behistun-inscription|Bisitun inscription]] (C2.1). These different kinds of writing show why the corpus is relevant to both social history and literary transmission. [@tad, A4.1, A4.7–A4.9] [@cos3, 3.46, 3.51–3.53]
 
 ## Significance for Biblical Studies
 
@@ -18,7 +18,7 @@ Jer 44:1 refers to Judeans living in several areas of Egypt. The records at Elep
 
 ## Scholarly Issues
 
-The records identify community members as Judeans and sometimes use the designation Aramean. They name YHW, a form of Yahweh's name, along with other divine names known from collections and oaths. Scholars debate how much these other names reflect shared worship within the community or dealings with neighbors and how to understand the relationship among the deities. The records never clearly cite a written Torah as a source of authority. That limits what can be concluded about Torah observance there without deciding what any individual may have known. [@tad] [@ddd]
+The records identify community members as Judeans and sometimes use the designation Aramean. They name YHW, a form of Yahweh's name, along with other divine names known from collections and oaths. Scholars debate how much these other names reflect shared worship within the community or dealings with neighbors and how to understand the relationship among the deities. The records never clearly cite a written Torah as a source of authority. That limits what can be concluded about Torah observance there without deciding what any individual may have known. [@tad, A4.7–A4.8, B7.3, C3.15] [@ddd, 36–43, 173–175]
 
 ## Further Reading
 

@@ -4,9 +4,9 @@ Ancient Mesopotamian texts describe gods, kings, and other powerful beings as po
 
 ## Ancient Near Eastern Evidence
 
-Akkadian *melammu* names a fearsome radiance or splendor. Gods, their shrines, kings, and formidable creatures can possess it. In the Epic of Gilgamesh, the guardian Humbaba's several auras give a narrative form to his supernatural power. A being can wear such splendor like an adornment, and the imagery can describe losing it as well as putting it on [@george-gilgamesh].
+Akkadian *melammu* names a fearsome radiance or splendor. Gods, their shrines, kings, and formidable creatures can possess it. In the Epic of Gilgamesh, the guardian Humbaba's several auras give a narrative form to his supernatural power. A being can wear such splendor like an adornment, and the imagery can describe losing it as well as putting it on [@george-gilgamesh, 1:145–46].
 
-In the [[sennacherib-annals|annals of Sennacherib]], the Assyrian king claims that fear of his lordly brilliance overwhelmed Lulî of Sidon, who fled across the sea. The inscriptions also portray Hezekiah as overwhelmed by Sennacherib's brilliance. The pairing of splendor and fear (*puluḫtu*, “awe” or “dread”) belongs to the language of [[royal-ideology|royal authority]]. The account presents the opponent's response through Assyrian court rhetoric [@rinap3-1].
+In the [[sennacherib-annals|annals of Sennacherib]], the Assyrian king claims that fear of his lordly brilliance overwhelmed Lulî of Sidon, who fled across the sea. The inscriptions also portray Hezekiah as overwhelmed by Sennacherib's brilliance. The pairing of splendor and fear (*puluḫtu*, “awe” or “dread”) belongs to the language of [[royal-ideology|royal authority]]. The account presents the opponent's response through Assyrian court rhetoric [@rinap3-1, no. 22 ii 37–49].
 
 ## In the Hebrew Bible
 

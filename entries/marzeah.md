@@ -4,7 +4,7 @@ The *marzeaḥ* was an association known from West Semitic texts across several 
 
 ## Ancient Near Eastern Evidence
 
-The term has been related to words attested at Ebla and appears clearly in the later [[ugaritic-texts|texts from Ugarit]]. A Ugaritic narrative describes El drinking to excess at a gathering associated with the *marzeaḥ*. Legal records show groups that could hold property and had recognized heads or representatives. Taken together, these sources support an association with formal membership, shared resources, and occasions for drinking [@ktu3] [@parker-unp].
+The term has been related to words attested at Ebla and appears clearly in the later [[ugaritic-texts|texts from Ugarit]]. A Ugaritic narrative describes El drinking to excess at a gathering associated with the *marzeaḥ*. Legal records show groups that could hold property and had recognized heads or representatives. Taken together, these sources support an association with formal membership, shared resources, and occasions for drinking [@ktu3, 3.9] [@parker-unp, 193–196].
 
 Later evidence includes Phoenician and Aramaic texts and examples from Nabataean and Palmyrene contexts. The institution could be associated with a deity and a particular place of meeting. The surviving records come from different cities and many centuries, so common vocabulary does not establish a uniform set of activities. An unprovenanced Moabite papyrus associated with the term has been questioned on grounds of authenticity [@kai].
 

@@ -4,7 +4,7 @@ The Bull Site figurine is a bronze model of a humped bull found on a ridge in th
 
 ## Description and Provenance
 
-The figure was found accidentally on the surface at Dhahrat et-Tawileh before Amihai Mazar excavated there. The investigations documented an open stone enclosure and a small pottery assemblage. Mazar dated the principal material to Iron Age I, the first part of the Iron Age. The figurine was outside a sealed excavation layer, so the association with a particular phase of use rests on its find area and comparison with other objects [@mazar-archaeology].
+The figure was found accidentally on the surface at Dhahrat et-Tawileh before Amihai Mazar excavated there. The investigations documented an open stone enclosure and a small pottery assemblage. Mazar dated the principal material to Iron Age I, the first part of the Iron Age. The figurine was outside a sealed excavation layer, so the association with a particular phase of use rests on its find area and comparison with other objects [@mazar-archaeology, 348–353].
 
 ## Contents
 

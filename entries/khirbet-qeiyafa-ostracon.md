@@ -18,7 +18,7 @@ The site overlooks the valley where 1 Sam 17:1–3 places the opposing armies. T
 
 ## Scholarly Issues
 
-Some scholars argue for Hebrew, citing proposed vocabulary and forms of a verb meaning to do or make. Others find too few diagnostic features to distinguish Hebrew from closely related Canaanite dialects. The inscription attests an early practice of writing at or connected with the town. Establishing an official scribal system or widespread [[writing-and-literacy|literacy]] would require further evidence. [@dobbs-allsopp-hebrew-inscriptions]
+Some scholars argue for Hebrew, citing proposed vocabulary and forms of a verb meaning to do or make. Others find too few diagnostic features to distinguish Hebrew from closely related Canaanite dialects. The inscription attests an early practice of writing at or connected with the town. Establishing an official scribal system or widespread [[writing-and-literacy|literacy]] would require further evidence. [@rollston-qeiyafa, 67–73]
 
 ## Further Reading
 

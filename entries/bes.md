@@ -4,9 +4,9 @@ Bes is the usual name for a group of protective figures in Egyptian art, often s
 
 ## Sources and Iconography
 
-The name Bes is often used broadly for a visual type shared by several protective beings. Egyptian evidence also associates an earlier form with Aha, whose name means “fighter.” The collective modern label is convenient because many objects carry no label identifying the represented figure. A prominent face, lion-like features, and sometimes a feathered headdress distinguish many examples. Some images show the figure confronting dangerous animals or making music. [@ddd] [@anep]
+The name Bes is often used broadly for a visual type shared by several protective beings. Egyptian evidence also associates an earlier form with Aha, whose name means “fighter.” The collective modern label is convenient because many objects carry no label identifying the represented figure. A prominent face, lion-like features, and sometimes a feathered headdress distinguish many examples. Some images show the figure confronting dangerous animals or making music. [@ddd, 173] [@anep, figs. 663–664]
 
-Bes-type images occur on objects connected with birth, the care of children, sleep, and daily grooming. Some were worn as [[amulets]], small objects used to seek protection against dangers such as snakes or harmful spirits. Small pendants and figures traveled readily, and their forms were also adapted by artisans outside Egypt. Their use fits the concern for household safety visible in other ancient protective practices. [@ddd] [@keel-uehlinger-ggig]
+Bes-type images occur on objects connected with birth, the care of children, sleep, and daily grooming. Some were worn as [[amulets]], small objects used to seek protection against dangers such as snakes or harmful spirits. Small pendants and figures traveled readily, and their forms were also adapted by artisans outside Egypt. Their use fits the concern for household safety visible in other ancient protective practices. [@ddd, 173] [@keel-uehlinger-ggig]
 
 ## In the Hebrew Bible
 
@@ -16,7 +16,7 @@ Ps 91:5–6, 13 names dangers encountered at night, disease, and threatening ani
 
 ## Scholarly Issues
 
-At [[kuntillet-ajrud|Kuntillet ʿAjrud]], two standing figures are drawn on a large storage jar close to a blessing invoking YHWH of Samaria and his asherah. An influential early interpretation took them as a depiction of YHWH and a female consort. Many specialists instead describe them as Bes-type figures on the basis of their posture and features. Pirhiya Beck argued that the drawings and [[kuntillet-ajrud-inscriptions|inscription]] were independent additions. Their proximity is therefore insufficient to identify them with the figures named in the blessing. [@keel-uehlinger-ggig]
+At [[kuntillet-ajrud|Kuntillet ʿAjrud]], two standing figures are drawn on a large storage jar close to a blessing invoking YHWH of Samaria and his asherah. An influential early interpretation took them as a depiction of YHWH and a female consort. Many specialists instead describe them as Bes-type figures on the basis of their posture and features. Pirhiya Beck argued that the drawings and [[kuntillet-ajrud-inscriptions|inscription]] were independent additions. Their proximity is therefore insufficient to identify them with the figures named in the blessing. [@keel-uehlinger-ggig, 236–248]
 
 A locally made vessel from Persian-period Jerusalem shows the adaptation of the image to ceramics. Larger Bes-type figures from Cyprus, including Amathus, show that the motif also moved into public or monumental art in the eastern Mediterranean. Similar faces and bodies could acquire different meanings as artists adapted them. Their presence in Israel and Judah demonstrates familiarity with Egyptian protective imagery, while the evidence for formal worship of Bes there is limited.
 

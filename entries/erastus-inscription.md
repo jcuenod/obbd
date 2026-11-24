@@ -12,13 +12,13 @@ The inscription identifies Erastus and mentions the office of aedile. In a Roman
 
 ## Significance for Biblical Studies
 
-Rom 16:23 sends greetings from Erastus, called the *oikonomos* of the city, which can be translated “treasurer” or “administrator.” The letter is often understood to have been written from Corinth. An identification with the inscription would give an example of a person associated with Paul's circle who had held a public office and could fund a civic work. The contribution of one person would still tell little by itself about the economic position of most people in the congregation. [@abd]
+Rom 16:23 sends greetings from Erastus, called the *oikonomos* of the city, which can be translated “treasurer” or “administrator.” The letter is often understood to have been written from Corinth. An identification with the inscription would give an example of a person associated with Paul's circle who had held a public office and could fund a civic work. The contribution of one person would still tell little by itself about the economic position of most people in the congregation. [@abd, 2:571–572]
 
 In 1 Cor 1:26 Paul asks readers to consider that few of them were powerful or of distinguished birth. This leaves room for individuals of different standing. Erastus also appears in Acts 19:22 and 2 Tim 4:20. It is uncertain whether either notice refers to the same person as Romans, and neither supplies the municipal title found in the inscription.
 
 ## Scholarly Issues
 
-Gerd Theissen argued that the city official in Romans could have been an aedile. Justin Meggitt and Steven Friesen have questioned the equivalence of the Greek and Latin titles. The Greek expression might describe a different municipal post or a role that Paul describes without using its most precise title. Even if the two titles could refer to the same office, the dating of the inscription remains a separate issue. The identification is possible and debated. [@abd]
+Gerd Theissen argued that the city official in Romans could have been an aedile. Justin Meggitt and Steven Friesen have questioned the equivalence of the Greek and Latin titles. The Greek expression might describe a different municipal post or a role that Paul describes without using its most precise title. Even if the two titles could refer to the same office, the dating of the inscription remains a separate issue. The identification is possible and debated. [@abd, 2:571–572]
 
 ## Further Reading
 

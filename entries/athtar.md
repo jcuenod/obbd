@@ -4,9 +4,9 @@ Athtar was a male deity worshiped in parts of Syria, the Levant, and southern Ar
 
 ## Sources and Iconography
 
-In the [[baal-cycle|Baal Cycle]] from Ugarit, Baal's death leaves the kingship vacant. Athirat proposes Athtar for the position, and he ascends Mount Zaphon to sit on Baal's throne. In H. L. Ginsberg's translation, his “feet reach not down to the footstool” [@anet]. His head also fails to reach the top of the seat. He comes down from the mountain and rules the earth, though interpreters differ on the exact realm meant. In another damaged episode, he complains that he has no palace [@parker-unp] [@ktu3].
+In the [[baal-cycle|Baal Cycle]] from Ugarit, Baal's death leaves the kingship vacant. Athirat proposes Athtar for the position, and he ascends Mount Zaphon to sit on Baal's throne. In H. L. Ginsberg's translation, his “feet reach not down to the footstool” [@anet, 129–142]. His head also fails to reach the top of the seat. He comes down from the mountain and rules the earth, though interpreters differ on the exact realm meant. In another damaged episode, he complains that he has no palace [@parker-unp, 96–97, 154] [@ktu3, 1.6 I 43–65].
 
-In the ninth-century BCE [[mesha-stele|inscription of Mesha]], the king of Moab says that he devoted the people of captured Nebo to Ashtar-Chemosh. The compound may name a single divine figure or associate Ashtar with [[chemosh|Chemosh]], Moab's principal god. In inscriptions from southern Arabia, Athtar can head a list of gods invoked by a kingdom. Some scholars associate him there with rain and the supply of water, although the inscriptions give few narratives explaining his roles [@kai] [@ddd].
+In the ninth-century BCE [[mesha-stele|inscription of Mesha]], the king of Moab says that he devoted the people of captured Nebo to Ashtar-Chemosh. The compound may name a single divine figure or associate Ashtar with [[chemosh|Chemosh]], Moab's principal god. In inscriptions from southern Arabia, Athtar can head a list of gods invoked by a kingdom. Some scholars associate him there with rain and the supply of water, although the inscriptions give few narratives explaining his roles [@kai, no. 181] [@ddd, 186–188].
 
 ## In the Hebrew Bible
 

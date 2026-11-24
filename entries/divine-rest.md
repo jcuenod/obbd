@@ -4,9 +4,9 @@ Mesopotamian creation stories depict gods settling into sanctuaries after labor 
 
 ## Ancient Near Eastern Evidence
 
-In Tablet I of [[enuma-elish|Enuma Elish]], the noise of the younger gods keeps Apsu from resting. He plans to destroy them, and Ea defeats him. After Marduk's victory over Tiamat, Tablet VI describes the gods building his temple in Babylon, Esagil, where they can find lodging. The sanctuary gives their assembly a fixed location and marks the stability of Marduk's rule [@lambert-bcm].
+In Tablet I of [[enuma-elish|Enuma Elish]], the noise of the younger gods keeps Apsu from resting. He plans to destroy them, and Ea defeats him. After Marduk's victory over Tiamat, Tablet VI describes the gods building his temple in Babylon, Esagil, where they can find lodging. The sanctuary gives their assembly a fixed location and marks the stability of Marduk's rule [@lambert-bcm, 45–60].
 
-In [[atrahasis|Atrahasis]], growing human numbers make such a din that Enlil loses sleep. Enlil calls for measures to reduce the population, culminating in the flood. This story and Enuma Elish turn disturbed rest into a reason for divine intervention. The founding of Esagil in Enuma Elish gives rest another meaning by associating it with an established divine household [@lambert-millard-atrahasis].
+In [[atrahasis|Atrahasis]], growing human numbers make such a din that Enlil loses sleep. Enlil calls for measures to reduce the population, culminating in the flood. This story and Enuma Elish turn disturbed rest into a reason for divine intervention. The founding of Esagil in Enuma Elish gives rest another meaning by associating it with an established divine household [@lambert-millard-atrahasis, 66–87].
 
 ## In the Hebrew Bible
 

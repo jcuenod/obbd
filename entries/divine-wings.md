@@ -4,9 +4,9 @@ Several biblical prayers ask for shelter under God's wings. Ancient Near Eastern
 
 ## Ancient Near Eastern Evidence
 
-The innermost coffin of Tutankhamun depicts Isis and Nephthys crossing their wings over the body of the king. The same coffin includes Nekhbet, the vulture goddess associated with Upper Egypt, in winged form. Such images give protection a bodily shape by bringing the receiver within the span of a divine figure's feathers. They draw on the language of [[egyptian-kingship|Egyptian kingship]], and related images also occur on nonroyal coffins [@anep] [@keel-symbolism].
+The innermost coffin of Tutankhamun depicts Isis and Nephthys crossing their wings over the body of the king. The same coffin includes Nekhbet, the vulture goddess associated with Upper Egypt, in winged form. Such images give protection a bodily shape by bringing the receiver within the span of a divine figure's feathers. They draw on the language of [[egyptian-kingship|Egyptian kingship]], and related images also occur on nonroyal coffins [@tutankhamun-spatial-archive, Carter no. 255] [@keel-symbolism, 191–193].
 
-A [[winged-sun-disk|winged sun disk]] above an Egyptian temple doorway embodies divine presence and protection in a different form. Winged disks and winged protective figures also appear in Iron Age Levantine art, including carved ivories and seals. Local uses of the motifs vary. The winged emblems on some Judahite [[lmlk-seal-impressions|royal jar stamps]], for instance, appear in an administrative setting, and their precise symbolism is debated [@anep] [@keel-uehlinger-ggig].
+A [[winged-sun-disk|winged sun disk]] above an Egyptian temple doorway embodies divine presence and protection in a different form. Winged disks and winged protective figures also appear in Iron Age Levantine art, including carved ivories and seals. Local uses of the motifs vary. The winged emblems on some Judahite [[lmlk-seal-impressions|royal jar stamps]], for instance, appear in an administrative setting, and their precise symbolism is debated [@anep, figs. 643, 646–655] [@keel-uehlinger-ggig, 294–298].
 
 ## In the Hebrew Bible
 

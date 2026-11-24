@@ -12,11 +12,11 @@ Khety son of Duauf addresses his son Pepy while taking him to the Residence to e
 
 ## Significance for Biblical Studies
 
-Sir 38:24–34 explains why farmers, artisans, smiths and potters have little time for a scribe's pursuit of wisdom. These occupations demand attention and skill. Ben Sira adds that artisans sustain the city, even though they are unlikely to sit in judgment or become known for instruction. Sir 39:1–11 presents the scribe as someone who studies Torah and inherited wisdom, serves among rulers and prays for understanding. The contrast gives scribal study public and religious purposes while acknowledging the dependence of public life on the trades. [@abd] [@ael, 1:184–192]
+Sir 38:24–34 explains why farmers, artisans, smiths and potters have little time for a scribe's pursuit of wisdom. These occupations demand attention and skill. Ben Sira adds that artisans sustain the city, even though they are unlikely to sit in judgment or become known for instruction. Sir 39:1–11 presents the scribe as someone who studies Torah and inherited wisdom, serves among rulers and prays for understanding. The contrast gives scribal study public and religious purposes while acknowledging the dependence of public life on the trades. [@abd, 6:920–932] [@ael, 1:184–192]
 
 ## Scholarly Issues
 
-The traditional title *Satire* reflects the exaggeration of the occupational sketches. Interpreters differ over the balance of humor and exhortation, and repeated copying documents the work's later pedagogical value more directly than its original purpose. The Egyptian and Jewish compositions share a literary way of valuing scribal work through comparison with other occupations. Contacts between Egypt and Judaea make knowledge of Egyptian tradition possible, while the surviving similarities also fit a widely shared scribal outlook. Direct knowledge of this particular composition by Ben Sira remains debated. [@ael, 1:184–192] [@cos1, 1.48] [@abd]
+The traditional title *Satire* reflects the exaggeration of the occupational sketches. Interpreters differ over the balance of humor and exhortation, and repeated copying documents the work's later pedagogical value more directly than its original purpose. The Egyptian and Jewish compositions share a literary way of valuing scribal work through comparison with other occupations. Contacts between Egypt and Judaea make knowledge of Egyptian tradition possible, while the surviving similarities also fit a widely shared scribal outlook. Direct knowledge of this particular composition by Ben Sira remains debated. [@ael, 1:184–192] [@cos1, 1.48] [@abd, 2:380–383, 2:394–399]
 
 ## Further Reading
 

@@ -4,13 +4,13 @@ The Dialogue of a Man with His Ba is an Egyptian poem preserved in a Middle King
 
 ## Manuscripts and Date
 
-Most of the surviving text is in a manuscript known as Papyrus Berlin 3024. Related fragments in the Amherst collection and in Mallorca preserve parts of the same manuscript, including material from the formerly missing opening. The opening remains incomplete. The copy dates to the Middle Kingdom, but the date of the original composition is less secure [@ael] [@anet].
+Most of the surviving text is in a manuscript known as Papyrus Berlin 3024. Related fragments in the Amherst collection and in Mallorca preserve parts of the same manuscript, including material from the formerly missing opening. The opening remains incomplete. The copy dates to the Middle Kingdom, but the date of the original composition is less secure [@ael, 1:163–164] [@anet, 405–407].
 
 ## Contents
 
 The man worries about what might happen if his *ba* leaves him. The *ba* questions the usefulness of elaborate preparations for death and urges him to make use of the good that life still offers. Its advice resembles some of the [[harpers-songs|Egyptian harpers' songs]], in which reflection on death prompts counsel to enjoy present life. The poem gives both speakers room to change their position rather than reducing the exchange to a single lesson.
 
-Part of the man's speech consists of four poems with repeated openings. In Miriam Lichtheim's translation, two are marked by the questions “To whom shall I speak today?” and the observation “Death is before me today” [@ael]. One develops the man's sense that trust and friendship have failed. Another describes death through images of relief and return. The exchange closes with the *ba* urging the man to remain in life for the time being and promising that they will be together when death comes.
+Part of the man's speech consists of four poems with repeated openings. In Miriam Lichtheim's translation, two are marked by the questions “To whom shall I speak today?” and the observation “Death is before me today” [@ael, 1:165–167]. One develops the man's sense that trust and friendship have failed. Another describes death through images of relief and return. The exchange closes with the *ba* urging the man to remain in life for the time being and promising that they will be together when death comes.
 
 ## Significance for Biblical Studies
 

@@ -6,7 +6,7 @@ The Maccabean Revolt began in Judea in 167 BCE in response to measures imposed b
 
 First Maccabees presents the revolt as the beginning of the Hasmonean dynasty, the ruling family descended from Mattathias. It makes the family's leadership central to the defense of Jewish law and the restoration of worship. Second Maccabees, by contrast, identifies its main narrative as an abridgment of a five-book work by Jason of Cyrene (2 Macc 2:19–32). It gives more attention to the temple, divine intervention, and those who died rather than break the law. The [[heliodorus-stele|Heliodorus Stele]] provides independent evidence for Seleucid oversight of sanctuaries before the revolt, not for the outbreak itself.
 
-Daniel presents the persecution in visions rather than as a campaign history. In *Jewish Antiquities* 12–13, [[josephus|Josephus]] retells the revolt and follows the family's rise beyond Judas's lifetime. His account of the revolt draws heavily on 1 Maccabees, so agreement between the two does not necessarily give independent confirmation. [@abd]
+Daniel presents the persecution in visions rather than as a campaign history. In *Jewish Antiquities* 12–13, [[josephus|Josephus]] retells the revolt and follows the family's rise beyond Judas's lifetime. His account of the revolt draws heavily on 1 Maccabees, so agreement between the two does not necessarily give independent confirmation. [@abd, 4:433–439]
 
 ## Reconstruction
 

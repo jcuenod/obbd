@@ -4,7 +4,7 @@ Artaxerxes I, known in Greek tradition as Longimanus, ruled the Persian Empire f
 
 ## Extrabiblical Sources
 
-The [[elephantine-temple-petition|Elephantine temple petition]] of 407 BCE mentions Johanan as high priest in Jerusalem and names the sons of [[sanballat|Sanballat]], governor of Samaria. The writers had appealed to Johanan and had written to Sanballat's sons about rebuilding their temple in Egypt. The combination of names and offices puts the petition in the same administrative world as Nehemiah. It supports placing Nehemiah in the reign of Artaxerxes I, although the letter never names Nehemiah [@tad] [@cos3].
+The [[elephantine-temple-petition|Elephantine temple petition]] of 407 BCE mentions Johanan as high priest in Jerusalem and names the sons of [[sanballat|Sanballat]], governor of Samaria. The writers had appealed to Johanan and had written to Sanballat's sons about rebuilding their temple in Egypt. The combination of names and offices puts the petition in the same administrative world as Nehemiah. It supports placing Nehemiah in the reign of Artaxerxes I, although the letter never names Nehemiah [@tad, A4.7–A4.9] [@cos3, 3.51].
 
 Greek narratives describe revolt in Egypt led by Inaros and aided by Athens in the 460s and 450s BCE. The Persian commander Megabyzus helped suppress that revolt and later rebelled against the crown himself. Those conflicts show the pressures facing Artaxerxes in the western empire. The accounts supply regional context for Judah without recording a direct royal response concerning Jerusalem.
 
@@ -16,7 +16,7 @@ Ezra 4:7–23 contains correspondence in which opponents of Jerusalem raise conc
 
 ## Historical Assessment
 
-The traditional chronology identifies Ezra's king with Artaxerxes I and places the mission in 458 BCE, before Nehemiah's. Another major proposal identifies him with Artaxerxes II, placing the mission in 398 BCE. A third, less widely adopted proposal reads “thirty-seventh year” in place of the transmitted “seventh year” and retains Artaxerxes I, giving 428 BCE. These proposals differ in how they explain the book's arrangement, the relationship between the two leaders, and the evidence about the high-priestly family [@abd].
+The traditional chronology identifies Ezra's king with Artaxerxes I and places the mission in 458 BCE, before Nehemiah's. Another major proposal identifies him with Artaxerxes II, placing the mission in 398 BCE. A third, less widely adopted proposal reads “thirty-seventh year” in place of the transmitted “seventh year” and retains Artaxerxes I, giving 428 BCE. These proposals differ in how they explain the book's arrangement, the relationship between the two leaders, and the evidence about the high-priestly family [@abd, 1:462–464].
 
 Kenneth Hoglund interpreted the missions against western unrest and argued that Persian security interests help explain support for the refortification of Jerusalem. The hypothesis is compatible with the empire's interest in stable communications. The surviving accounts leave the king's strategic reasons for granting Nehemiah's requests uncertain.
 

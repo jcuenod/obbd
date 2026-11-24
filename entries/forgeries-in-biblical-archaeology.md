@@ -4,7 +4,7 @@ A forgery in biblical archaeology is an object or inscription made or altered in
 
 ## Ancient Near Eastern Evidence
 
-The first question is provenance, the record of where and under what circumstances an object was found. A documented archaeological context links an inscription to other evidence, such as a building, layer, or associated objects. Many [[seals-and-bullae|seals and seal impressions]] entered collections from the antiquities market and have no recorded excavation context. These can be compared with securely excavated examples, although the comparison cannot restore the information lost when the object was removed [@avigad-sass-wsss] [@dobbs-allsopp-hebrew-inscriptions].
+The first question is provenance, the record of where and under what circumstances an object was found. A documented archaeological context links an inscription to other evidence, such as a building, layer, or associated objects. Many [[seals-and-bullae|seals and seal impressions]] entered collections from the antiquities market and have no recorded excavation context. These can be compared with securely excavated examples, although the comparison cannot restore the information lost when the object was removed [@avigad-sass-wsss, 453–460, 548–551] [@dobbs-allsopp-hebrew-inscriptions].
 
 Scholars examine writing through palaeography, the comparison of letter forms and writing habits. They may also study the material of an object and its patina, a surface layer that forms with age or exposure. Petrography, the study of a material's mineral and rock content, can help identify the origin of stone or clay. A suspicious reading or an unusual surface feature may warrant further study. The age of the substrate and the age of the writing are separate questions.
 

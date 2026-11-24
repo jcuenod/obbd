@@ -4,19 +4,19 @@
 
 ## Location and Identification
 
-In Exod 2:3, *sûp* identifies the vegetation where Moses's basket is put, and in Jonah 2:5 (MT 2:6) it denotes weeds around the speaker. Scholars often compare the Hebrew term with Egyptian *ṯwf*, a word for papyrus or reeds. These usages favor the possibility of a name related to vegetation. The Greek designation *erythra thalassa* could cover waters in a wider region than English “Red Sea” does in ordinary usage. In 1 Kgs 9:26, the fleet at Ezion-geber near Eloth is on the *yam sûp*, clearly in the Gulf of Aqaba. [@abd]
+In Exod 2:3, *sûp* identifies the vegetation where Moses's basket is put, and in Jonah 2:5 (MT 2:6) it denotes weeds around the speaker. Scholars often compare the Hebrew term with Egyptian *ṯwf*, a word for papyrus or reeds. These usages favor the possibility of a name related to vegetation. The Greek designation *erythra thalassa* could cover waters in a wider region than English “Red Sea” does in ordinary usage. In 1 Kgs 9:26, the fleet at Ezion-geber near Eloth is on the *yam sûp*, clearly in the Gulf of Aqaba. [@abd, 5:633–644]
 
-The eastern Delta lakes and lagoons, the Ballah Lakes, Lake Timsah, the Bitter Lakes and the Gulf of Suez have all figured in reconstructions. The crossing narrative associates the camp with Pi-hahiroth, Migdol and Baal-zephon in Exod 14:2, but the sites cannot all be securely located. Some proposals give more weight to the itinerary, and others emphasize the possible meanings of the name. [@abd] [@neaehl]
+The eastern Delta lakes and lagoons, the Ballah Lakes, Lake Timsah, the Bitter Lakes and the Gulf of Suez have all figured in reconstructions. The crossing narrative associates the camp with Pi-hahiroth, Migdol and Baal-zephon in Exod 14:2, but the sites cannot all be securely located. Some proposals give more weight to the itinerary, and others emphasize the possible meanings of the name. [@abd, 5:633–644] [@neaehl, 4:1385–1393]
 
 ## Archaeological History
 
-Sediment, old shorelines and the remains of settlements and forts show that the northeastern Delta and the Isthmus of Suez had different waterways in antiquity. James K. Hoffmeier and colleagues have examined the former lakes and lagoons in reconstructing routes to Sinai. This work shows that locations now on dry ground could once have been near water. It does not independently locate the camp or document a crossing. Claims about chariot wheels from the Gulf of Aqaba lack securely documented archaeological evidence. [@neaehl] [@abd]
+Sediment, old shorelines and the remains of settlements and forts show that the northeastern Delta and the Isthmus of Suez had different waterways in antiquity. James K. Hoffmeier and colleagues have examined the former lakes and lagoons in reconstructing routes to Sinai. This work shows that locations now on dry ground could once have been near water. It does not independently locate the camp or document a crossing. Claims about chariot wheels from the Gulf of Aqaba lack securely documented archaeological evidence. [@neaehl, 4:1385–1393] [@abd, 5:633–644]
 
 ## Significance for Biblical Studies
 
-Exod 10:19 places the disposal of the locusts in *yam sûp*. Exod 13:18 sends the people by a wilderness road toward it, and Exod 15:4, 22 names it in connection with Pharaoh's defeat and the departure into the wilderness. Exod 14 generally speaks simply of the sea. Num 33:8–11 recounts a crossing and gives *yam sûp* as a separate station later in the sequence. The accounts leave room for different geographical uses of the name. [@abd]
+Exod 10:19 places the disposal of the locusts in *yam sûp*. Exod 13:18 sends the people by a wilderness road toward it, and Exod 15:4, 22 names it in connection with Pharaoh's defeat and the departure into the wilderness. Exod 14 generally speaks simply of the sea. Num 33:8–11 recounts a crossing and gives *yam sûp* as a separate station later in the sequence. The accounts leave room for different geographical uses of the name. [@abd, 5:633–644]
 
-Isa 51:10 presents the drying of the great deep as the opening of a route for the redeemed. Its reuse of [[chaoskampf|combat imagery]] shows how the remembered crossing could be presented on a cosmic scale. Bernard Batto likewise proposed understanding the name in the exodus tradition through the idea of an end or extinction, a reading that remains disputed. [@day-dragon] [@abd]
+Isa 51:10 presents the drying of the great deep as the opening of a route for the redeemed. Its reuse of [[chaoskampf|combat imagery]] shows how the remembered crossing could be presented on a cosmic scale. Bernard Batto likewise proposed understanding the name in the exodus tradition through the idea of an end or extinction, a reading that remains disputed. [@day-dragon, 96–101] [@abd, 5:633–644]
 
 ## Further Reading
 

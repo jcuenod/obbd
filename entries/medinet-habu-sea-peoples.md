@@ -4,7 +4,7 @@ Ramesses III's mortuary temple at Medinet Habu in western Thebes preserves relie
 
 ## Description and Provenance
 
-The reliefs form part of the temple built for Ramesses III at Medinet Habu, on the west bank of the Nile at [[thebes|Thebes]]. Captions and longer inscriptions give the scenes a royal setting. The temple's carved historical scenes include different campaigns, and a scene must be read with its own setting and inscriptions. The numbering of the eighth year belongs to the Egyptian chronology of the reign [@anet] [@anep].
+The reliefs form part of the temple built for Ramesses III at Medinet Habu, on the west bank of the Nile at [[thebes|Thebes]]. Captions and longer inscriptions give the scenes a royal setting. The temple's carved historical scenes include different campaigns, and a scene must be read with its own setting and inscriptions. The numbering of the eighth year belongs to the Egyptian chronology of the reign [@anet, 260–263] [@anep, figs. 345–348].
 
 ## Contents
 

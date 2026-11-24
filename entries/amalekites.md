@@ -4,11 +4,11 @@ The Amalekites are remembered in the Hebrew Bible as a people who lived in and a
 
 ## Sources
 
-The main evidence is biblical. Gen 36:12, 16 places Amalek among the descendants of Esau, ancestor of the [[edomites|Edomites]], while Gen 14:7 refers to the territory of the Amalekites in a story set in Abraham's time. The genealogy describes a kinship and the place name helps identify a region for the reader. Neither passage supplies an independently dated record of the group's origin. [@abd]
+The main evidence is biblical. Gen 36:12, 16 places Amalek among the descendants of Esau, ancestor of the [[edomites|Edomites]], while Gen 14:7 refers to the territory of the Amalekites in a story set in Abraham's time. The genealogy describes a kinship and the place name helps identify a region for the reader. Neither passage supplies an independently dated record of the group's origin. [@abd, 1:169–171]
 
 ## History
 
-The stories associate Amalek with the southern borderlands, but individual episodes allow for movement beyond that setting. In Judg 6:3, Amalekites join Midian and other eastern groups in attacking Israel after sowing. First Samuel remembers Amalekites both as subjects of a king, Agag, and as raiders who reach Ziklag and take captives (1 Sam 15:7–9 and 30:1–3). The accounts give little basis for determining how far any one Amalekite leader's authority extended. Archaeological evidence for life in the southern drylands gives a regional context, while proposals assigning particular remains to Amalek are speculative. [@abd] [@mazar-archaeology]
+The stories associate Amalek with the southern borderlands, but individual episodes allow for movement beyond that setting. In Judg 6:3, Amalekites join Midian and other eastern groups in attacking Israel after sowing. First Samuel remembers Amalekites both as subjects of a king, Agag, and as raiders who reach Ziklag and take captives (1 Sam 15:7–9 and 30:1–3). The accounts give little basis for determining how far any one Amalekite leader's authority extended. Archaeological evidence for life in the southern drylands gives a regional context, while proposals assigning particular remains to Amalek are speculative. [@abd, 1:169–171] [@mazar-archaeology]
 
 ## In the Bible
 

@@ -4,7 +4,7 @@ The Babylonian chronicles are historical records written on clay tablets in firs
 
 ## Manuscripts and Date
 
-The chronicles survive on separate, sometimes damaged tablets. They do not all belong to one original series, and their accounts may survive in copies made substantially later than the events described. Their Akkadian text is written in cuneiform, a system of wedge-shaped signs. The two main modern editions use different numbering systems. Grayson's Chronicle 1, beginning with Nabonassar, corresponds in its principal text to Glassner 16. The tablets for the fall of Nineveh, early years of Nebuchadnezzar, and reign of Nabonidus are Grayson 3, 5, and 7, and Glassner 22, 24, and 26 [@abc] [@glassner-chronicles].
+The chronicles survive on separate, sometimes damaged tablets. They do not all belong to one original series, and their accounts may survive in copies made substantially later than the events described. Their Akkadian text is written in cuneiform, a system of wedge-shaped signs. The two main modern editions use different numbering systems. Grayson's Chronicle 1, beginning with Nabonassar, corresponds in its principal text to Glassner 16. The tablets for the fall of Nineveh, early years of Nebuchadnezzar, and reign of Nabonidus are Grayson 3, 5, and 7, and Glassner 22, 24, and 26 [@abc, 8–21, 69–86, 90–96, 99–102, 104–111] [@glassner-chronicles, 55–91, 107–116].
 
 ## Contents
 
@@ -12,7 +12,7 @@ The entry for the year typically names the reigning king and reports events conc
 
 ## Significance for Biblical Studies
 
-One chronicle says that the Assyrian king Shalmaneser ravaged a place called Šamaraʾin, widely identified with Samaria. This gives a Babylonian witness to Shalmaneser V's role in the events surrounding the city's fall (2 Kgs 17:3–6), although Sargon II later claimed credit for conquering Samaria. The same chronicle reports that a son of Sennacherib killed him during a revolt. This agrees with Kings on the involvement of a son but differs in detail from its account of two sons taking part (2 Kgs 19:37) [@abc].
+One chronicle says that the Assyrian king Shalmaneser ravaged a place called Šamaraʾin, widely identified with Samaria. This gives a Babylonian witness to Shalmaneser V's role in the events surrounding the city's fall (2 Kgs 17:3–6), although Sargon II later claimed credit for conquering Samaria. The same chronicle reports that a son of Sennacherib killed him during a revolt. This agrees with Kings on the involvement of a son but differs in detail from its account of two sons taking part (2 Kgs 19:37) [@abc, 73, 81].
 
 In 609 BCE, the chronicle of Nineveh's fall reports that an Egyptian army joined the surviving Assyrian forces in an attempt to retake Harran. In 2 Kgs 23:29, Neco “went up to the king of Assyria” (ESV). Some translations read the Hebrew as describing a march against Assyria, but the chronicle supports understanding the campaign as an effort to aid the Assyrians. It does not describe Josiah's death at Megiddo.
 

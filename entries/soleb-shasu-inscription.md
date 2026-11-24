@@ -14,7 +14,7 @@ The inscriptions classify some names among the lands of the [[shasu|Shasu]], an 
 
 Exod 3:13–15 gives YHWH as the name disclosed to Moses. The consonants in the Egyptian writing make a comparison possible, although the list gives no account of a god's character or worship. Deut 33:2 associates YHWH's coming with Sinai and Seir. Judg 5:4–5 pictures YHWH marching from Seir and the region of Edom, and Hab 3:3 places the divine appearance in Teman and Paran. These poetic settings help explain why some scholars look to the south when considering the Egyptian names.
 
-Centuries later, the [[kuntillet-ajrud-inscriptions|Kuntillet ʿAjrud inscriptions]] refer to YHWH of Teman. The expression gives independent evidence of a southern association in the Iron Age. Its relationship to the Egyptian evidence and the origins of the cult requires further argument [@ahituv-echoes].
+Centuries later, the [[kuntillet-ajrud-inscriptions|Kuntillet ʿAjrud inscriptions]] refer to YHWH of Teman. The expression gives independent evidence of a southern association in the Iron Age. Its relationship to the Egyptian evidence and the origins of the cult requires further argument [@cos2, 2.47B].
 
 ## Scholarly Issues
 

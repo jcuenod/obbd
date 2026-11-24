@@ -4,17 +4,17 @@
 
 ## Manuscripts and Date
 
-The poem was transmitted in five tablets and is preserved chiefly in first-millennium copies. Its conclusion credits Kabti-ilani-Marduk and presents the composition as revealed during the night. Proposed dates extend from around the eleventh to the eighth century BCE, and an eighth-century setting has often been favored. The chaos depicted in the poem has been related to disruptions in the history of Babylonia, although no single correlation supplies a firm date. [@cos1, 1.113] [@anet]
+The poem was transmitted in five tablets and is preserved chiefly in first-millennium copies. Its conclusion credits Kabti-ilani-Marduk and presents the composition as revealed during the night. Proposed dates extend from around the eleventh to the eighth century BCE, and an eighth-century setting has often been favored. The chaos depicted in the poem has been related to disruptions in the history of Babylonia, although no single correlation supplies a firm date. [@cos1, 1.113] [@cos1, 1.113, tablet V]
 
 ## Contents
 
 Erra seeks to exercise his power, and his weapons urge him into action. He approaches [[marduk|Marduk]] and persuades him to leave, making it possible for Erra to act against cities and their inhabitants. Marduk's absence is central to the plot. It removes an effective restraint and leaves Babylon exposed to violence. [@cos1, 1.113]
 
-Ishum, Erra's attendant, speaks of destruction that falls on people without regard to guilt. He subsequently helps calm Erra, and the poem envisages an end to the disorder. Its conclusion associates recitation or possession of the text with protection. Copies used as [[amulets|protective objects]] thus extend the poem's concern with danger into the circumstances of readers and households. [@cos1, 1.113] [@ddd]
+Ishum, Erra's attendant, speaks of destruction that falls on people without regard to guilt. He subsequently helps calm Erra, and the poem envisages an end to the disorder. Its conclusion associates recitation or possession of the text with protection. Copies used as [[amulets|protective objects]] thus extend the poem's concern with danger into the circumstances of readers and households. [@cos1, 1.113] [@cos1, 1.113, tablets IV–V]
 
 ## Significance for Biblical Studies
 
-Ezek 8:12 and 9:9 report a belief that Yahweh has left the land or does not see. Ezek 10:18–19 then presents the divine glory moving away from the temple. This can be read alongside the broader ancient motif of [[divine-abandonment|divine departure]]. In the Babylonian poem, Erra brings disaster while Marduk is absent, while Ezekiel attributes judgment to Yahweh's authority. [@cos1, 1.113] [@abd]
+Ezek 8:12 and 9:9 report a belief that Yahweh has left the land or does not see. Ezek 10:18–19 then presents the divine glory moving away from the temple. This can be read alongside the broader ancient motif of [[divine-abandonment|divine departure]]. In the Babylonian poem, Erra brings disaster while Marduk is absent, while Ezekiel attributes judgment to Yahweh's authority. [@cos1, 1.113] [@abd, 2:712–715]
 
 Ezek 9:1–11 describes the city's punishment and the prophet's intercession, and Ezek 21:3–5 presents a sword cutting off the righteous as well as the wicked. These are comparable to the poem's concern with destruction affecting people indiscriminately. The different roles of the gods, agents and intercessors matter in reading the respective texts. [@cos1, 1.113]
 

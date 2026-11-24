@@ -4,13 +4,13 @@ The Merneptah Stele is a granite monument from the Egyptian king's mortuary temp
 
 ## Description and Provenance
 
-Flinders Petrie found the stone at western Thebes in 1896. The inscription was carved on the back of an earlier monument of Amenhotep III. The main text praises the victories of [[merneptah|Merneptah]], and the Canaanite names occur near the close. The monument is kept in Cairo [@ael] [@cos2].
+Flinders Petrie found the stone at western Thebes in 1896. The inscription was carved on the back of an earlier monument of Amenhotep III. The main text praises the victories of [[merneptah|Merneptah]], and the Canaanite names occur near the close. The monument is kept in Cairo [@ael, 2:73–78] [@cos2, 2.6].
 
 ## Contents
 
 The inscription celebrates success against the Libyans. Its closing lines then refer to Canaan and name Ashkelon, Gezer, Yanoam, and Israel in a series of claims about defeat. A determinative is a hieroglyphic sign that classifies a word without being pronounced. The names of the cities carry a foreign-place classifier, while Israel has signs for a people. This suggests that the scribe regarded Israel as a population group. Egyptian spelling conventions alone provide limited evidence about what that group's institutions were.
 
-The line about Israel also says that its seed is gone. The statement is part of the language of royal victory. Scholars differ over whether seed evokes grain supplies or descendants. Either interpretation fits rhetoric describing an opponent's ruin and gives little reason to read the claim as a count of survivors [@ael] [@anet].
+The line about Israel also says that its seed is gone. The statement is part of the language of royal victory. Scholars differ over whether seed evokes grain supplies or descendants. Either interpretation fits rhetoric describing an opponent's ruin and gives little reason to read the claim as a count of survivors [@ael, 2:73–78] [@anet, 376–378].
 
 ## Significance for Biblical Studies
 

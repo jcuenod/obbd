@@ -4,23 +4,23 @@ The Instruction of Ankhsheshonqy and the teaching preserved in Papyrus Insinger 
 
 ## Manuscripts and Date
 
-The principal manuscript of Ankhsheshonqy is a papyrus in the British Museum. Its handwriting has generally been assigned to the late Ptolemaic period. The main copy of Papyrus Insinger is in the National Museum of Antiquities at Leiden and belongs to the early Roman era. Other manuscript material preserves parts of the Insinger tradition. These dates tell when particular copies were made, while the timing of each work's composition remains uncertain. [@ael]
+The principal manuscript of Ankhsheshonqy is a papyrus in the British Museum. Its handwriting has generally been assigned to the late Ptolemaic period. The main copy of Papyrus Insinger is in the National Museum of Antiquities at Leiden and belongs to the early Roman era. Other manuscript material preserves parts of the Insinger tradition. These dates tell when particular copies were made, while the timing of each work's composition remains uncertain. [@ael, 3:159–160, 3:184–185]
 
 ## Contents
 
-Ankhsheshonqy is presented as a priest who is imprisoned and writes instructions for his son. The sayings often form self-contained lines and give advice about speech, friends, household relations, and dealings with people in authority. Village and household affairs are prominent alongside reflections on proper conduct. The prison story gives a particular reason for writing the instruction, while many of the individual sayings can also stand on their own. [@ael]
+Ankhsheshonqy is presented as a priest who is imprisoned and writes instructions for his son. The sayings often form self-contained lines and give advice about speech, friends, household relations, and dealings with people in authority. Village and household affairs are prominent alongside reflections on proper conduct. The prison story gives a particular reason for writing the instruction, while many of the individual sayings can also stand on their own. [@ael, 3:159–183]
 
-Papyrus Insinger uses thematic sections and repeated concluding expressions. It reflects on how people respond to prosperity, hardship, or their own desires. It can set contrasting observations about wealth, fortune, and conduct beside one another. In comparison with works such as the [[instruction-of-ptahhotep|Instruction of Ptahhotep]], these two late works give particular prominence to short, sometimes paradoxical sayings. [@ael]
+Papyrus Insinger uses thematic sections and repeated concluding expressions. It reflects on how people respond to prosperity, hardship, or their own desires. It can set contrasting observations about wealth, fortune, and conduct beside one another. In comparison with works such as the [[instruction-of-ptahhotep|Instruction of Ptahhotep]], these two late works give particular prominence to short, sometimes paradoxical sayings. [@ael, 3:184–217]
 
 ## Significance for Biblical Studies
 
-The short units in Prov 10:1–22:16 are comparable in form to many of Ankhsheshonqy's sayings. One of the Egyptian sayings imagines doing a good deed and casting it into the river. Eccl 11:1 likewise connects sending something onto the water with a later outcome. The two sayings share a picture involving water and an action whose result is deferred, but their wording and immediate concerns differ. Tob 4:3–19 offers another comparison for advice delivered from father to son in a time of crisis. [@ael] [@abd]
+The short units in Prov 10:1–22:16 are comparable in form to many of Ankhsheshonqy's sayings. One of the Egyptian sayings imagines doing a good deed and casting it into the river. Eccl 11:1 likewise connects sending something onto the water with a later outcome. The two sayings share a picture involving water and an action whose result is deferred, but their wording and immediate concerns differ. Tob 4:3–19 offers another comparison for advice delivered from father to son in a time of crisis. [@ael, 3:159–183] [@abd, 2:397–398]
 
 The role of time and chance in Eccl 9:11 can be compared with late Egyptian reflection on fate, although the relationship between the concepts remains debated. Sir 11:14 attributes both prosperous and adverse conditions to God. Discussions of fortune and divine governance in Papyrus Insinger provide a broader context for that statement. Jack T. Sanders proposed that [[ben-sira|Ben Sira]] knew related Egyptian teaching. The surviving evidence leaves the route and degree of any direct influence open.
 
 ## Scholarly Issues
 
-Miriam Lichtheim placed late Egyptian instruction alongside Greek collections of sayings, Jewish wisdom, and the Aramaic tradition of [[ahiqar|Ahiqar]]. The comparison explains why similar forms and observations might appear across languages. Texts could travel, and communities could also develop similar observations from shared social circumstances. Each proposed link needs to be tested against its wording, historical setting, and availability in the relevant period. [@ael]
+Miriam Lichtheim placed late Egyptian instruction alongside Greek collections of sayings, Jewish wisdom, and the Aramaic tradition of [[ahiqar|Ahiqar]]. The comparison explains why similar forms and observations might appear across languages. Texts could travel, and communities could also develop similar observations from shared social circumstances. Each proposed link needs to be tested against its wording, historical setting, and availability in the relevant period. [@ael, 3:3–10]
 
 ## Further Reading
 

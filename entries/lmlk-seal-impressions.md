@@ -4,11 +4,11 @@ The Hebrew letters *lmlk*, meaning “belonging to the king,” occur on thousan
 
 ## Archaeological Evidence
 
-The handle impressions were made before the clay was fired. They commonly show a four-winged scarab or a two-winged emblem often described as a [[winged-sun-disk|winged disk]]. Some handles bear impressions of private seals associated with the royal jar series. Later stamp programs include rosette impressions, whether or not they served exactly the same administrative functions [@avigad-sass-wsss] [@keel-uehlinger-ggig].
+The handle impressions were made before the clay was fired. They commonly show a four-winged scarab or a two-winged emblem often described as a [[winged-sun-disk|winged disk]]. Some handles bear impressions of private seals associated with the royal jar series. Later stamp programs include rosette impressions, whether or not they served exactly the same administrative functions [@avigad-sass-wsss, 242–263, nos. 662–711] [@keel-uehlinger-ggig, 274–277, 353–355].
 
 The four names are Hebron, Ziph, Socoh, and *mmšt*. The first three correspond to place names known from biblical Judah. The fourth has been understood as a place name or connected with a term for government or dominion. The marking could refer to estates, collection districts, or points in production and distribution. The impressions attest organization by the monarchy without explaining the administrative system in a single label.
 
-David Ussishkin's work at [[lachish|Lachish]] linked many stamped jars with Level III, destroyed in Sennacherib's campaign of 701 BCE. Oded Lipschits, Omer Sergi, and Ido Koch have argued that some two-winged subtypes continued into the seventh century. Their chronology includes some two-winged stamps in the pre-701 group as well. Context by context, the surviving handles give stronger evidence for the use of particular types than for a single date for the whole system [@neaehl].
+David Ussishkin's work at [[lachish|Lachish]] linked many stamped jars with Level III, destroyed in Sennacherib's campaign of 701 BCE. Oded Lipschits, Omer Sergi, and Ido Koch have argued that some two-winged subtypes continued into the seventh century. Their chronology includes some two-winged stamps in the pre-701 group as well. Context by context, the surviving handles give stronger evidence for the use of particular types than for a single date for the whole system [@neaehl, 4:1262–1266].
 
 ## In the Bible
 

@@ -4,7 +4,7 @@ Ancient Near Eastern worshippers burned aromatics in temples, at local shrines, 
 
 ## Archaeological Evidence
 
-Small stone altars occur at Iron Age sites, including some with projecting corners. Their scale is compatible with small offerings, and the precise contents cannot usually be established from shape alone. Burners and offering stands offer additional evidence for early cultic use. These finds qualify the older view associated with Julius Wellhausen that incense offerings of the kind described in biblical ritual belong only to a late stage of Israelite worship [@neaehl] [@keel-symbolism].
+Small stone altars occur at Iron Age sites, including some with projecting corners. Their scale is compatible with small offerings, and the precise contents cannot usually be established from shape alone. Burners and offering stands offer additional evidence for early cultic use. These finds qualify the older view associated with Julius Wellhausen that incense offerings of the kind described in biblical ritual belong only to a late stage of Israelite worship [@neaehl, 1:82–85] [@keel-symbolism, 145–150].
 
 Two small limestone altars came from the shrine at [[arad|Arad]]. Analysis published in 2020 found chemical markers of frankincense on the larger altar and markers of cannabis on the smaller. The authors interpreted these as residues of substances burned during the shrine's use. The analysis identifies the compounds without settling the ritual purpose of either substance. The frankincense gives physical evidence for long-distance [[incense-trade|trade in aromatics]] reaching a Judahite sanctuary.
 

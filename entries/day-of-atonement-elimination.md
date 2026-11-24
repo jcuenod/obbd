@@ -4,15 +4,15 @@ The Day of Atonement is the annual purification rite described in Leviticus 16. 
 
 ## Ancient Near Eastern Evidence
 
-Several [[hittite-elimination-rituals|Hittite and Hurrian rituals]] use an animal or person as a carrier of danger. Texts associated with Ashella, Uhhamuwa, and Pulisa describe actions meant to rid a community or army of plague. In some, the carrier is adorned or sent toward enemy territory. The rites vary in whether they direct the danger elsewhere or simply remove it. Texts from [[ebla|Ebla]] have also been interpreted as describing a goat sent to the steppe with a silver bracelet in connection with a royal wedding. [@cos1]
+Several [[hittite-elimination-rituals|Hittite and Hurrian rituals]] use an animal or person as a carrier of danger. Texts associated with Ashella, Uhhamuwa, and Pulisa describe actions meant to rid a community or army of plague. In some, the carrier is adorned or sent toward enemy territory. The rites vary in whether they direct the danger elsewhere or simply remove it. Texts from [[ebla|Ebla]] have also been interpreted as describing a goat sent to the steppe with a silver bracelet in connection with a royal wedding. [@cos1, 1.62–1.63]
 
-The Babylonian [[akitu-festival|New Year festival]] included cleansing a shrine with a sheep's carcass, which was then carried away and discarded. The officiants involved also left the city for the duration specified in the ritual. Akkadian *kuppuru*, a term for wiping or purging, is comparable to Hebrew *kipper*, a verb used in biblical atonement rites. Similar terms and actions help explain the notion of removing contamination from sacred space. Their relationship alone cannot establish that one ritual developed directly from the other. [@anet]
+The Babylonian [[akitu-festival|New Year festival]] included cleansing a shrine with a sheep's carcass, which was then carried away and discarded. The officiants involved also left the city for the duration specified in the ritual. Akkadian *kuppuru*, a term for wiping or purging, is comparable to Hebrew *kipper*, a verb used in biblical atonement rites. Similar terms and actions help explain the notion of removing contamination from sacred space. Their relationship alone cannot establish that one ritual developed directly from the other. [@anet, 331–334]
 
 ## In the Hebrew Bible
 
 Lev 16:8–10 assigns two goats by lot, one for YHWH and one for Azazel. The first is slaughtered, and blood is applied within the sanctuary (Lev 16:14–19). Jacob Milgrom's widely followed interpretation of this [[sacrifice|offering]] treats it as an act that purges impurities from the sanctuary. How broadly such purification explains the function of the offering remains debated. Lev 23:26–32 also prescribes solemn rest and self-denial for the community.
 
-After the sanctuary rites, the priest lays his hands on the live goat, confesses Israel's wrongs over it, and sends it away to carry them to an isolated place (Lev 16:20–22). Many scholars read [[azazel|Azazel]] as the name of a wilderness being. Other explanations take the term to designate an inaccessible place or to refer to the goat's removal. The text makes the goat's function clearer than it explains the name. [@ddd]
+After the sanctuary rites, the priest lays his hands on the live goat, confesses Israel's wrongs over it, and sends it away to carry them to an isolated place (Lev 16:20–22). Many scholars read [[azazel|Azazel]] as the name of a wilderness being. Other explanations take the term to designate an inaccessible place or to refer to the goat's removal. The text makes the goat's function clearer than it explains the name. [@ddd, 128–131]
 
 ## Interpretive Significance
 

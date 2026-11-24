@@ -6,7 +6,7 @@ The Behistun Inscription is a rock relief and multilingual text commissioned by 
 
 The relief and texts are carved high above a route linking the Iranian plateau with Mesopotamia. [[darius-i|Darius]] appears with a bow, his foot on a fallen figure identified as Gaumata. Bound opponents stand in front of him, and a winged figure appears above the scene. The accompanying texts were carved in Old Persian, Elamite, and Babylonian, a variety of Akkadian. The monument took shape in stages, and the versions differ in some details.
 
-An [[aramaic-language|Aramaic]] version survives on papyrus among the [[elephantine-papyri|Elephantine papyri]] from southern Egypt. The surviving manuscript is generally dated to the late fifth century BCE, long after the events described. Pieces of a Babylonian copy were found at Babylon. The copies and the translation show that the royal account could be read far from the site, in scripts and languages suited to different settings. [@tad]
+An [[aramaic-language|Aramaic]] version survives on papyrus among the [[elephantine-papyri|Elephantine papyri]] from southern Egypt. The surviving manuscript is generally dated to the late fifth century BCE, long after the events described. Pieces of a Babylonian copy were found at Babylon. The copies and the translation show that the royal account could be read far from the site, in scripts and languages suited to different settings. [@tad, C2.1]
 
 ## Contents
 

@@ -4,9 +4,9 @@ The city gate was a public meeting place in many towns of the ancient Levant. It
 
 ## Ancient Near Eastern Evidence
 
-Iron Age gate complexes at [[dan|Dan]], et-Tell, and Beersheba preserve features such as benches, chambers, and spaces where people could gather. At Dan a paved plaza lay near the entrance. At Beersheba, one of the gate chambers had seating along its walls. These installations made the gates useful for several kinds of public activity. A bench or paved court can support an interpretation of civic use, though it cannot identify the activity on a particular occasion [@neaehl].
+Iron Age gate complexes at [[dan|Dan]], et-Tell, and Beersheba preserve features such as benches, chambers, and spaces where people could gather. At Dan a paved plaza lay near the entrance. At Beersheba, one of the gate chambers had seating along its walls. These installations made the gates useful for several kinds of public activity. A bench or paved court can support an interpretation of civic use, though it cannot identify the activity on a particular occasion [@neaehl, 1:170–171, 1:327–330].
 
-The Late Bronze Age [[aqhat-epic|Aqhat epic]] depicts Danel sitting by the gate among leaders near the threshing floor, the place where grain was separated from stalks. He hears the claims of a widow and an orphan. This scene supplies a direct literary parallel for the picture of respected people hearing cases in a public place. It also associates good judgment with protection for those without a powerful household to represent them [@parker-unp].
+The Late Bronze Age [[aqhat-epic|Aqhat epic]] depicts Danel sitting by the gate among leaders near the threshing floor, the place where grain was separated from stalks. He hears the claims of a widow and an orphan. This scene supplies a direct literary parallel for the picture of respected people hearing cases in a public place. It also associates good judgment with protection for those without a powerful household to represent them [@parker-unp, 58, 68].
 
 ## In the Hebrew Bible
 

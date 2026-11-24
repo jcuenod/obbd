@@ -8,13 +8,13 @@ The object comes from Ras Shamra, ancient [[ugarit|Ugarit]], and is registered i
 
 ## Contents
 
-The figure wears a beard and raises a hand, in a pose usually understood as greeting or blessing. Its seated position is associated with authority in the visual culture of the region. The description “El” draws on the form of the figure and on the wider role of [[el|El]] in local stories. Other gods can be represented with similar features. Identification by visual type therefore depends on several signals together [@anep] [@keel-symbolism].
+The figure wears a beard and raises a hand, in a pose usually understood as greeting or blessing. Its seated position is associated with authority in the visual culture of the region. The description “El” draws on the form of the figure and on the wider role of [[el|El]] in local stories. Other gods can be represented with similar features. Identification by visual type therefore depends on several signals together [@schaeffer-ugarit-cult, fig. 3, pl. II] [@keel-symbolism].
 
 ## Significance for Biblical Studies
 
 In 1 Kgs 22:19 Micaiah sees YHWH seated with the heavenly host nearby. Isa 6:1 likewise presents an exalted divine ruler on a throne, and Ps 82:1 portrays God presiding in the [[divine-council|divine assembly]]. Images of an enthroned deity help explain how a royal posture could communicate authority. The biblical scenes also have elements, such as the attendants and the acts of judgment or commissioning, that a single figure does not depict.
 
-In Dan 7:9, age and a throne mark the Ancient of Days. A comparison with the senior role of El is possible, although the iconography gives no evidence of a direct relationship. Job 36:26 associates God with a span of years beyond human reckoning. The Ugaritic epithet *ab šnm*, often translated “father of years,” may be relevant, but its precise sense is debated [@ktu3] [@parker-unp].
+In Dan 7:9, age and a throne mark the Ancient of Days. A comparison with the senior role of El is possible, although the iconography gives no evidence of a direct relationship. Job 36:26 associates God with a span of years beyond human reckoning. The Ugaritic epithet *ab šnm*, often translated “father of years,” may be relevant, but its precise sense is debated [@ktu3, 1.4 IV–V, 1.6 I] [@parker-unp, 86, 92, 95, 116, 153].
 
 ## Scholarly Issues
 

@@ -4,7 +4,7 @@ Lending in the ancient Near East could sustain a struggling household or finance
 
 ## Ancient Near Eastern Evidence
 
-The [[laws-of-eshnunna|Laws of Eshnunna]] and provisions in the [[code-of-hammurabi|Laws of Hammurabi]] attest standard rates of 20 percent for silver and a third for grain. Individual contracts and other periods could differ. Hammurabi's laws also address the unauthorized taking of assets and the handling of people seized for debts. The Persian-period [[elephantine-papyri|Elephantine contracts]] record loans, monthly interest terms, and obligations if the debtor failed to pay. They show that interest-bearing arrangements existed in a community that included Judeans [@roth-law] [@tad].
+The [[laws-of-eshnunna|Laws of Eshnunna]] and provisions in the [[code-of-hammurabi|Laws of Hammurabi]] attest standard rates of 20 percent for silver and a third for grain. Individual contracts and other periods could differ. Hammurabi's laws also address the unauthorized taking of assets and the handling of people seized for debts. The Persian-period [[elephantine-papyri|Elephantine contracts]] record loans, monthly interest terms, and obligations if the debtor failed to pay. They show that interest-bearing arrangements existed in a community that included Judeans [@roth-law, 98] [@tad, B4.2].
 
 ## In the Hebrew Bible
 

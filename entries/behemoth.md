@@ -6,7 +6,7 @@ Behemoth is the enormous land creature that God presents to Job in one of the bo
 
 Beyond the book of Job, [[first-enoch|1 Enoch]] pairs Behemoth, a male creature assigned to a wilderness, with Leviathan, a female creature in the deep (1 En 60:7–9). The Jewish apocalypse known as 4 Ezra, preserved in 2 Esdras, also assigns the two creatures different regions. Behemoth inhabits dry land and Leviathan water, and both are kept for a future purpose (2 Esd 6:49–52). These writings develop the pair further than Job, giving the beasts places in accounts of creation and the future.
 
-Egyptian representations of hunting hippopotamuses offer a visual comparison. In some settings, images of Horus confronting a hippopotamus portray victory over Seth, a god associated there with threats to order. Othmar Keel argued that this tradition helps explain how an actual animal could represent a power beyond ordinary human control. Such images illuminate a possible background for the poem's language [@ddd].
+Egyptian representations of hunting hippopotamuses offer a visual comparison. In some settings, images of Horus confronting a hippopotamus portray victory over Seth, a god associated there with threats to order. Othmar Keel argued that this tradition helps explain how an actual animal could represent a power beyond ordinary human control. Such images illuminate a possible background for the poem's language [@ddd, 165–168].
 
 ## In the Hebrew Bible
 
@@ -18,7 +18,7 @@ The questions at the end of the description ask whether a human could seize the 
 
 The hippopotamus remains a common identification because of the creature's strength, plant diet, and ease in marshes or rivers. Some details, especially the comparison of its tail to a cedar, resist a straightforward zoological reading. The comparison has occasionally been used to suggest a dinosaur, a view with little support in scholarship on the ancient text. The poem gives a set of images that can be read in light of Egyptian animal symbolism and the language of myth.
 
-John Day compared Behemoth to a creature described as El's calf in the [[baal-cycle|Baal Cycle]], a Late Bronze Age set of poems from Ugarit. The suggestion connects Behemoth with a tradition in which a land monster appears alongside other formidable beasts. The comparison is disputed, and the Hebrew name provides no linguistic link to the Ugaritic calf [@day-dragon] [@ddd].
+John Day compared Behemoth to a creature described as El's calf in the [[baal-cycle|Baal Cycle]], a Late Bronze Age set of poems from Ugarit. The suggestion connects Behemoth with a tradition in which a land monster appears alongside other formidable beasts. The comparison is disputed, and the Hebrew name provides no linguistic link to the Ugaritic calf [@day-dragon, 75–86] [@ddd, 165–168].
 
 ## Further Reading
 

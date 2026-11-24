@@ -4,13 +4,13 @@ Bozrah was an important center of ancient Edom, usually identified with Busayra 
 
 ## Location and Identification
 
-Busayra lies on a defensible ridge in the southern Jordanian highlands. The likeness of the name and the location within Edom, together with the scale of the archaeological remains, support the usual identification with biblical Bozrah. The later city called Bostra in southern Syria is a different site. The evidence for Busayra also comes from a period well before the Roman prominence of Bostra [@abd].
+Busayra lies on a defensible ridge in the southern Jordanian highlands. The likeness of the name and the location within Edom, together with the scale of the archaeological remains, support the usual identification with biblical Bozrah. The later city called Bostra in southern Syria is a different site. The evidence for Busayra also comes from a period well before the Roman prominence of Bostra [@abd, 1:775–777].
 
 ## Archaeological History
 
 Crystal Bennett excavated at Busayra between 1971 and 1980. Her team uncovered substantial buildings on the upper fortified part of the settlement, including rooms arranged around open spaces. Building plans and details have been compared with Assyrian and Syrian examples. The comparisons suggest contact with architectural traditions of the wider region, although the buildings' functions and the direction of influence are matters of interpretation.
 
-The main excavated occupation begins in the later Iron Age, with monumental phases in the late eighth through sixth centuries BCE and continuing use into later periods. Earlier evidence at the site is limited. Inscriptions of Tiglath-pileser III and Esarhaddon independently name rulers of [[edomites|Edom]], including Qaus-malaka and Qaus-gabri, respectively. They show the kingdom within the sphere of [[assyria|Assyrian]] power, although those notices do not specify that the named rulers resided at Bozrah [@rinap1] [@rinap4].
+The main excavated occupation begins in the later Iron Age, with monumental phases in the late eighth through sixth centuries BCE and continuing use into later periods. Earlier evidence at the site is limited. Inscriptions of Tiglath-pileser III and Esarhaddon independently name rulers of [[edomites|Edom]], including Qaus-malaka and Qaus-gabri, respectively. They show the kingdom within the sphere of [[assyria|Assyrian]] power, although those notices do not specify that the named rulers resided at Bozrah [@rinap1, no. 47 rev. 10′–11′] [@rinap4, no. 1].
 
 ## Significance for Biblical Studies
 

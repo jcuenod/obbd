@@ -4,9 +4,9 @@ Circumcision is the removal of part or all of the foreskin. Ancient Egyptian evi
 
 ## Ancient Near Eastern Evidence
 
-A relief in the Sixth Dynasty tomb of Ankhmahor at Saqqara is often interpreted as showing circumcision. A stela of a man named Uha, conventionally dated to the First Intermediate Period, is usually read as referring to his participation in a group circumcision. Both identifications have been discussed, and the evidence leaves questions about how the procedure was performed and how widely it was practiced. The Egyptian examples commonly discussed concern people beyond infancy. [@anep] [@abd]
+A relief in the Sixth Dynasty tomb of Ankhmahor at Saqqara is often interpreted as showing circumcision. A stela of a man named Uha, conventionally dated to the First Intermediate Period, is usually read as referring to his participation in a group circumcision. Both identifications have been discussed, and the evidence leaves questions about how the procedure was performed and how widely it was practiced. The Egyptian examples commonly discussed concern people beyond infancy. [@anep, fig. 629] [@abd, 1:1025–1031]
 
-Herodotus, writing in the fifth century BCE, includes the Syrians of Palestine among peoples whom he understood to have learned circumcision from Egypt. His account gives an ancient explanation for the distribution of the practice. It cannot establish who first performed it or how it moved between communities. Secure evidence for the practice in ancient Mesopotamia is lacking, and biblical writers characterize the [[philistines|Philistines]] as uncircumcised. [@abd]
+Herodotus, writing in the fifth century BCE, includes the Syrians of Palestine among peoples whom he understood to have learned circumcision from Egypt. His account gives an ancient explanation for the distribution of the practice. It cannot establish who first performed it or how it moved between communities. Secure evidence for the practice in ancient Mesopotamia is lacking, and biblical writers characterize the [[philistines|Philistines]] as uncircumcised. [@abd, 1:1025–1031]
 
 ## In the Hebrew Bible
 
@@ -16,7 +16,7 @@ Josh 5:2–9 describes the circumcision of the generation born during the wilder
 
 ## Interpretive Significance
 
-Jer 9:25–26 (MT 9:24–25) groups Judah with several peoples who knew circumcision. The difficult Hebrew opening has been understood as a reference to people physically circumcised who nevertheless count as uncircumcised. The contrast with Israel's uncircumcised heart makes the bodily sign by itself insufficient. Ezek 32:19 reverses the point rhetorically by assigning Egypt a place among the uncircumcised dead, a dishonor in the context of the lament. [@abd]
+Jer 9:25–26 (MT 9:24–25) groups Judah with several peoples who knew circumcision. The difficult Hebrew opening has been understood as a reference to people physically circumcised who nevertheless count as uncircumcised. The contrast with Israel's uncircumcised heart makes the bodily sign by itself insufficient. Ezek 32:19 reverses the point rhetorically by assigning Egypt a place among the uncircumcised dead, a dishonor in the context of the lament. [@abd, 1:1025–1031]
 
 ## Further Reading
 

@@ -4,9 +4,9 @@ Altars were built surfaces where people presented offerings to a deity. In Iron 
 
 ## Archaeological Evidence
 
-The courtyard of the Judahite fortress shrine at [[arad|Arad]] contained a large altar made of fieldstones plastered with mud. Its footprint is roughly five cubits on a side, if a cubit is taken as approximately the length of a forearm. The altar's material recalls the earthen and uncut-stone construction in Exod 20:24–25, and its size is comparable to the altar in Exod 27:1. The two smaller stone stands at Arad belong to the separate history of [[incense-and-incense-altars|incense offerings]]. [@neaehl] [@king-stager-life]
+The courtyard of the Judahite fortress shrine at [[arad|Arad]] contained a large altar made of fieldstones plastered with mud. Its footprint is roughly five cubits on a side, if a cubit is taken as approximately the length of a forearm. The altar's material recalls the earthen and uncut-stone construction in Exod 20:24–25, and its size is comparable to the altar in Exod 27:1. The two smaller stone stands at Arad belong to the separate history of [[incense-and-incense-altars|incense offerings]]. [@neaehl, 1:82–85] [@king-stager-life, 339–340]
 
-The find at [[beersheba|Beersheba]] is different. Archaeologists reconstructed a large altar from carefully cut blocks, some of which had been reused in later walls. The projecting corners place it among the [[horned-altars|horned altars]] known elsewhere in Israel and Judah. Its use of dressed stone conflicts with the construction rule in Exod 20:25 and shows that Iron Age builders could follow a different practice. [@neaehl] [@mazar-archaeology]
+The find at [[beersheba|Beersheba]] is different. Archaeologists reconstructed a large altar from carefully cut blocks, some of which had been reused in later walls. The projecting corners place it among the [[horned-altars|horned altars]] known elsewhere in Israel and Judah. Its use of dressed stone conflicts with the construction rule in Exod 20:25 and shows that Iron Age builders could follow a different practice. [@neaehl, 1:170–173] [@mazar-archaeology, 492–501]
 
 Adam Zertal interpreted the early Iron Age stone structure at [[mount-ebal-altar|Mount Ebal]] as a sacrificial installation. Other archaeologists have proposed a watchtower or farmstead. The building's function is disputed, as is its identification with the altar described in Josh 8:30–31.
 
@@ -16,7 +16,7 @@ Exod 20:24–26 allows an earth altar or uncut stones and forbids steps because 
 
 Exod 27:1–8 specifies a portable, hollow wooden altar covered with bronze, with a horn at each corner. At the temple dedication in 1 Kgs 8:64, the bronze altar is too small for all the offerings, so Solomon consecrates part of the courtyard for their use. In 2 Kgs 16:10–16, Ahaz introduces a new altar modeled on one he saw in Damascus and redirects the regular offerings to it. These descriptions place altar design and use within the history of royal administration of [[sacrifice]].
 
-Ezek 43:13–17 describes a tiered altar with horns, a square hearth where offerings burn, and steps facing east. The Hebrew terms *harʾēl* and *ʾărîʾēl* designate parts of its upper structure. Scholars have compared them with the obscure Moabite term *ʾrʾl* in the [[mesha-stele|Mesha Stele]] and have proposed an Akkadian connection. These comparisons are debated, and the shape of the altar in Ezekiel is clearer than the origin of its terminology. [@kai] [@ahituv-echoes]
+Ezek 43:13–17 describes a tiered altar with horns, a square hearth where offerings burn, and steps facing east. The Hebrew terms *harʾēl* and *ʾărîʾēl* designate parts of its upper structure. Scholars have compared them with the obscure Moabite term *ʾrʾl* in the [[mesha-stele|Mesha Stele]] and have proposed an Akkadian connection. These comparisons are debated, and the shape of the altar in Ezekiel is clearer than the origin of its terminology. [@kai, no. 181] [@ahituv-echoes, 423–426]
 
 ## Further Reading
 

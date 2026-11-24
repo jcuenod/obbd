@@ -4,7 +4,7 @@ The Hittite Laws are a collection of about two hundred provisions preserved on c
 
 ## Manuscripts and Date
 
-The laws are arranged in two series of about a hundred provisions each, identified in antiquity by their opening words. Copies from Ḫattuša include versions of different ages. Older language points to an early Hittite core, while later manuscripts preserve revised wording and, in some cases, different penalties. Modern paragraph numbers help readers compare variants across editions [@roth-law] [@cos2].
+The laws are arranged in two series of about a hundred provisions each, identified in antiquity by their opening words. Copies from Ḫattuša include versions of different ages. Older language points to an early Hittite core, while later manuscripts preserve revised wording and, in some cases, different penalties. Modern paragraph numbers help readers compare variants across editions [@roth-law, 213–217] [@cos2, 2.19].
 
 ## Contents
 
@@ -14,7 +14,7 @@ Many provisions set compensation for injuries or losses. Some explicitly give an
 
 The laws and the Bible both treat injury to a pregnant woman as a case requiring legal remedy. Hittite provisions 17–18 concern the loss of a pregnancy and specify payments in circumstances defined by status or stage of pregnancy. Exod 21:22 imposes a fine in a case where fighting men strike a pregnant woman. The meaning of the Hebrew description of the birth or loss of the fetus is debated.
 
-A late version of Hittite provision 6 concerns a dead body found on another person's land or in an uncultivated area. It assigns compensation according to where the body is found and considers distance to nearby settlements. Deut 21:1–9 likewise measures distance to towns when an unidentified killer has left a body in the open. The nearest town in Deuteronomy has a ritual obligation involving elders and a declaration of innocence. The Hittite text addresses payment [@roth-law].
+A late version of Hittite provision 6 concerns a dead body found on another person's land or in an uncultivated area. It assigns compensation according to where the body is found and considers distance to nearby settlements. Deut 21:1–9 likewise measures distance to towns when an unidentified killer has left a body in the open. The nearest town in Deuteronomy has a ritual obligation involving elders and a declaration of innocence. The Hittite text addresses payment [@roth-law, 217–219].
 
 Hittite provisions 189–195 distinguish permitted and prohibited unions within a family. Provision 193 describes successive marriages to the relatives of a dead husband, including his brother and father. Deut 25:5–10 concerns a brother's obligation to the widow, while Gen 38:8–26 narrates Tamar's claim within her late husband's household. These cases are comparisons for [[levirate-marriage|levirate duty]], with different accounts of who is eligible and what happens if the duty is refused.
 

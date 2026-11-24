@@ -4,7 +4,7 @@ The *Story of Sinuhe* is a Middle Kingdom Egyptian literary narrative about a co
 
 ## Manuscripts and Date
 
-The work survives in numerous copies, chiefly on papyrus and ostraca. Papyrus Berlin 3022 preserves much of the story, while Berlin 10499 preserves its opening. A large limestone ostracon now at the Ashmolean Museum (1945.40) attests its continued transmission in the New Kingdom. The setting is the early Twelfth Dynasty. Amenemhat's son Senusret receives news of the death while returning from a campaign, and Sinuhe overhears a message before he flees. The composition is usually placed in the Middle Kingdom, and later copies testify to a much longer history of reading and copying [@ael; @anet; @cos1].
+The work survives in numerous copies, chiefly on papyrus and ostraca. Papyrus Berlin 3022 preserves much of the story, while Berlin 10499 preserves its opening. A large limestone ostracon now at the Ashmolean Museum (1945.40) attests its continued transmission in the New Kingdom. The setting is the early Twelfth Dynasty. Amenemhat's son Senusret receives news of the death while returning from a campaign, and Sinuhe overhears a message before he flees. The composition is usually placed in the Middle Kingdom, and later copies testify to a much longer history of reading and copying [@ael, 1:222–235; @anet, 18–22; @cos1, 1.38].
 
 ## Contents
 

@@ -4,9 +4,9 @@ Corvée is compulsory labor required by a ruler or state. In the ancient Near Ea
 
 ## Ancient Near Eastern Evidence
 
-In the fourteenth century BCE, Biridiya, ruler of Megiddo, wrote to the king of Egypt about the cultivation of fields at Shunem. He complained that he alone was supplying laborers and that nearby rulers were failing to contribute. His letter, preserved among the [[amarna-letters|Amarna letters]], refers to the workers by a term related to Hebrew *mas* (“labor levy”). It shows that both the institution and related vocabulary were present in Canaan before the emergence of Israel [@moran-amarna].
+In the fourteenth century BCE, Biridiya, ruler of Megiddo, wrote to the king of Egypt about the cultivation of fields at Shunem. He complained that he alone was supplying laborers and that nearby rulers were failing to contribute. His letter, preserved among the [[amarna-letters|Amarna letters]], refers to the workers by a term related to Hebrew *mas* (“labor levy”). It shows that both the institution and related vocabulary were present in Canaan before the emergence of Israel [@moran-amarna, EA 365].
 
-Egyptian sources also show authorities assigning work for public or royal projects. Paintings in the [[tomb-of-rekhmire|tomb of Rekhmire]] depict workers making bricks under supervision, including people identified as foreign captives. The paintings provide a comparison for the organization of work in Exod 1:11, where overseers impose labor and the Israelites build storage cities. The workers' legal status and the duration of their obligations could vary from one setting to another [@anep].
+Egyptian sources also show authorities assigning work for public or royal projects. Paintings in the [[tomb-of-rekhmire|tomb of Rekhmire]] depict workers making bricks under supervision, including people identified as foreign captives. The paintings provide a comparison for the organization of work in Exod 1:11, where overseers impose labor and the Israelites build storage cities. The workers' legal status and the duration of their obligations could vary from one setting to another [@anep, fig. 115].
 
 ## In the Hebrew Bible
 
@@ -16,7 +16,7 @@ Judges describes people in conquered or partly controlled places being subjected
 
 ## Interpretive Significance
 
-The [[mesad-hashavyahu-ostracon|Meṣad Ḥashavyahu ostracon]], a late seventh-century BCE petition written on a pottery fragment, describes a harvest worker complaining that an overseer confiscated his garment. This is direct evidence of a worker appealing to an official. His status as a corvée worker is debated because the petition does not specify the legal basis of his service. The appeal invites comparison with protections for a poor person's garment in Exod 22:26–27 (MT 22:25–26) and Deut 24:12–13, although those laws concern pledges [@dobbs-allsopp-hebrew-inscriptions].
+The [[mesad-hashavyahu-ostracon|Meṣad Ḥashavyahu ostracon]], a late seventh-century BCE petition written on a pottery fragment, describes a harvest worker complaining that an overseer confiscated his garment. This is direct evidence of a worker appealing to an official. His status as a corvée worker is debated because the petition does not specify the legal basis of his service. The appeal invites comparison with protections for a poor person's garment in Exod 22:26–27 (MT 22:25–26) and Deut 24:12–13, although those laws concern pledges [@dobbs-allsopp-hebrew-inscriptions, 357–370].
 
 ## Further Reading
 

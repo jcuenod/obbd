@@ -4,11 +4,11 @@ Ramesses II of Egypt and Ḫattušili III of Ḫatti concluded a peace treaty ar
 
 ## Description and Provenance
 
-The Egyptian inscriptions at Karnak and the Ramesseum date the agreement to year 21 of [[ramesses-ii|Ramesses II]], sixteen regnal years after the [[kadesh-battle-reliefs|Battle of Kadesh]]. The surviving Akkadian copies are among the tablets from Ḫattuša, the Hittite capital. The parties exchanged treaty texts on silver tablets, which are lost. The Egyptian text presents the agreement from the Hittite side as it was received in Egypt. The copies found at Ḫattuša preserve the text sent in the name of Ramesses [@anet] [@beckman-hdt].
+The Egyptian inscriptions at Karnak and the Ramesseum date the agreement to year 21 of [[ramesses-ii|Ramesses II]], sixteen regnal years after the [[kadesh-battle-reliefs|Battle of Kadesh]]. The surviving Akkadian copies are among the tablets from Ḫattuša, the Hittite capital. The parties exchanged treaty texts on silver tablets, which are lost. The Egyptian text presents the agreement from the Hittite side as it was received in Egypt. The copies found at Ḫattuša preserve the text sent in the name of Ramesses [@anet, 199–203] [@beckman-hdt, 90–94].
 
 ## Contents
 
-The agreement commits both great kings to maintaining peace and supporting each other against enemies. Its reciprocal provisions express a relationship of parity, or formal equality. Certain clauses reflect more particular interests. Ramesses, for example, promises support for the succession of Ḫattušili's son, a matter of consequence to a king who had displaced his own nephew. Both sides also agree to return fugitives. Provisions against reprisals protect the returned people and their households. The gods of both lands witness the agreement [@beckman-hdt] [@anet].
+The agreement commits both great kings to maintaining peace and supporting each other against enemies. Its reciprocal provisions express a relationship of parity, or formal equality. Certain clauses reflect more particular interests. Ramesses, for example, promises support for the succession of Ḫattušili's son, a matter of consequence to a king who had displaced his own nephew. Both sides also agree to return fugitives. Provisions against reprisals protect the returned people and their households. The gods of both lands witness the agreement [@beckman-hdt, 90–94] [@anet, 199–203].
 
 ## Significance for Biblical Studies
 

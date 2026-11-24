@@ -4,7 +4,7 @@ The Assyrian sacred tree is a stylized plant that appears in art from northern M
 
 ## Archaeological Evidence
 
-Stylized trees were already part of the art of the second millennium BCE. Neo-Assyrian artists adapted them for palace reliefs, ivories, and seals. In one carved stone panel behind the throne of Ashurnasirpal II at [[nimrud|Nimrud]], the king appears on both sides of a patterned tree. Winged beings stand behind him, and a figure appears within the [[winged-sun-disk|winged disk]] above the tree. Other examples use a different arrangement or show only the plant [@anep] [@keel-uehlinger-ggig].
+Stylized trees were already part of the art of the second millennium BCE. Neo-Assyrian artists adapted them for palace reliefs, ivories, and seals. In one carved stone panel behind the throne of Ashurnasirpal II at [[nimrud|Nimrud]], the king appears on both sides of a patterned tree. Winged beings stand behind him, and a figure appears within the [[winged-sun-disk|winged disk]] above the tree. Other examples use a different arrangement or show only the plant [@anep, figs. 614–617] [@keel-uehlinger-ggig, 294–298].
 
 Some of the [[apkallu-reliefs|winged figures]] in related scenes hold a bucket and raise an object shaped like a cone. Their gestures have been compared with ritual purification and with the pollination of date palms, although the scenes are stylized and no single explanation accounts for every example. Likewise, the disk can indicate divine favor while its precise identification remains debated. The display of the tree beside the king and near the throne gave the image a prominent place in royal ceremony.
 
@@ -12,7 +12,7 @@ Some of the [[apkallu-reliefs|winged figures]] in related scenes hold a bucket a
 
 ## In the Bible
 
-The temple described in 1 Kgs 6:29, 32, 35 has carvings of palms, flowers, and [[cherubim|winged guardian figures]]. Ezekiel's temple vision places a palm between each pair of cherubim (Ezek 41:18–20). The arrangement resembles the association of stylized vegetation and guardian figures in Assyrian and Levantine art. The comparison concerns a shared visual repertoire, with differences in the figures, settings, and compositions [@keel-symbolism].
+The temple described in 1 Kgs 6:29, 32, 35 has carvings of palms, flowers, and [[cherubim|winged guardian figures]]. Ezekiel's temple vision places a palm between each pair of cherubim (Ezek 41:18–20). The arrangement resembles the association of stylized vegetation and guardian figures in Assyrian and Levantine art. The comparison concerns a shared visual repertoire, with differences in the figures, settings, and compositions [@keel-symbolism, 140–143].
 
 In Dan 4:10–12 (MT 4:7–9), a great tree feeds and shelters creatures across the world. In Ezek 31:2–9, a cedar similarly shelters nations, in a speech addressed to Pharaoh. The transmitted Hebrew of Ezek 31:3 calls the tree Assyria, but some interpreters propose a change in the text to a word meaning “cypress.” These passages use trees to express imperial reach or prosperity, a theme that can be compared with the royal prominence of the motif.
 

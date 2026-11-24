@@ -4,7 +4,7 @@ Ritual tablets from the Hittite capital describe ways to remove illness, impurit
 
 ## Manuscripts and Date
 
-The sources survive chiefly in tablets from Ḫattuša, the capital of the [[hittites-and-hethites|Hittite kingdom]]. Many are copies from the Late Bronze Age, and their named practitioners and language point to several regional traditions. The rituals of Ašḫella and Uḫḫamuwa are associated with Arzawa in western Anatolia. Others draw on traditions associated with Kizzuwatna, in southeastern Anatolia, where Hittite, Luwian, and Hurrian practices met [@cos1].
+The sources survive chiefly in tablets from Ḫattuša, the capital of the [[hittites-and-hethites|Hittite kingdom]]. Many are copies from the Late Bronze Age, and their named practitioners and language point to several regional traditions. The rituals of Ašḫella and Uḫḫamuwa are associated with Arzawa in western Anatolia. Others draw on traditions associated with Kizzuwatna, in southeastern Anatolia, where Hittite, Luwian, and Hurrian practices met [@cos1, 1.61–1.64].
 
 ## Contents
 
@@ -14,7 +14,7 @@ A much earlier comparison comes from [[ebla|Ebla]] in third-millennium BCE Syria
 
 ## Significance for Biblical Studies
 
-Lev 16:8–10, 20–22 describes the [[day-of-atonement-elimination|goat sent away on the Day of Atonement]]. Aaron lays both hands on its head and confesses the people's wrongdoing. The goat carries their iniquities to a remote place in the wilderness. The Hittite parallels help explain the movement of an affliction or burden from a community to a living carrier. The biblical destinations and speech have their own roles, and the precise meaning of Azazel remains debated [@ddd].
+Lev 16:8–10, 20–22 describes the [[day-of-atonement-elimination|goat sent away on the Day of Atonement]]. Aaron lays both hands on its head and confesses the people's wrongdoing. The goat carries their iniquities to a remote place in the wilderness. The Hittite parallels help explain the movement of an affliction or burden from a community to a living carrier. The biblical destinations and speech have their own roles, and the precise meaning of Azazel remains debated [@ddd, 128–131].
 
 Lev 14:4–7, 49–53 calls for the release of a live bird into the open country after a rite for a person or house. The transferred burden is more explicit in Lev 16. In Zech 5:5–11, wickedness is personified and transported to Shinar. It resembles elimination at the level of imagery. In 1 Sam 6:1–12 the Philistines send objects associated with their affliction as they return the ark. The analogy with an elimination rite is debated because the objects are also called a reparation offering and the movement restores a captured sacred object.
 

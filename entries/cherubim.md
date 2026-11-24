@@ -4,9 +4,9 @@ Cherubim are winged beings that guard sacred places, accompany the throne of Isr
 
 ## Ancient Near Eastern Evidence
 
-A likely visual model for some biblical cherubim is the winged sphinx, ordinarily a creature with a human head and the body of a lion. Examples occur in Levantine art, including the [[ahiram-sarcophagus|sarcophagus of Ahiram]] at Byblos and ivory carvings from Megiddo and [[samaria-ivories|Samaria]]. Such creatures can flank thrones or appear in decorative forms. Their royal and protective associations offer a basis for comparison with biblical descriptions. [@anep] [@keel-symbolism] [@keel-uehlinger-ggig]
+A likely visual model for some biblical cherubim is the winged sphinx, ordinarily a creature with a human head and the body of a lion. Examples occur in Levantine art, including the [[ahiram-sarcophagus|sarcophagus of Ahiram]] at Byblos and ivory carvings from Megiddo and [[samaria-ivories|Samaria]]. Such creatures can flank thrones or appear in decorative forms. Their royal and protective associations offer a basis for comparison with biblical descriptions. [@anep, figs. 129–130] [@keel-symbolism, 168–171] [@keel-uehlinger-ggig, 94–95, 167–169]
 
-Ancient artists also devised other winged guardians. Assyrian [[lamassu]], for instance, could combine a human head with a bull or lion body and guard a palace entrance. Scholars sometimes connect the Hebrew *kərūb* (“cherub”) with Akkadian terms such as *kāribu*, associated with blessing or intercession. The proposed derivation and the meaning of the related terms remain debated. [@ddd]
+Ancient artists also devised other winged guardians. Assyrian [[lamassu]], for instance, could combine a human head with a bull or lion body and guard a palace entrance. Scholars sometimes connect the Hebrew *kərūb* (“cherub”) with Akkadian terms such as *kāribu*, associated with blessing or intercession. The proposed derivation and the meaning of the related terms remain debated. [@ddd, 189–192]
 
 ## In the Hebrew Bible
 
@@ -16,7 +16,7 @@ The association with a [[cherub-throne|divine throne]] appears when 1 Sam 4:4 de
 
 ## Interpretive Significance
 
-Ezekiel's [[ezekiel-throne-chariot|throne vision]] has been compared with several types of Mesopotamian art, including winged guardians and figures holding up a throne or platform. No single visual model accounts for all the details. The sphinx comparisons are strongest for the royal and guardian roles, while Ezekiel develops those roles into an elaborate vision. The plump winged infants known as putti in Renaissance art come from a much later tradition of representation. [@keel-symbolism] [@keel-uehlinger-ggig]
+Ezekiel's [[ezekiel-throne-chariot|throne vision]] has been compared with several types of Mesopotamian art, including winged guardians and figures holding up a throne or platform. No single visual model accounts for all the details. The sphinx comparisons are strongest for the royal and guardian roles, while Ezekiel develops those roles into an elaborate vision. The plump winged infants known as putti in Renaissance art come from a much later tradition of representation. [@keel-symbolism, 168–171] [@keel-uehlinger-ggig, 304–306]
 
 ## Further Reading
 

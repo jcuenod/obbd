@@ -4,17 +4,17 @@ Corinth was a Roman colony and the administrative center of Achaia in southern G
 
 ## Location and Identification
 
-Ancient Corinth occupied the ground below the citadel of Acrocorinth near the western end of the Isthmus. Lechaion connected it to the Corinthian Gulf, and Cenchreae served the eastern side on the Saronic Gulf. The city benefited from roads and maritime routes converging in the region. Rom 16:1 names Phoebe and the congregation at Cenchreae, giving a glimpse of the communities beyond the urban center. [@abd]
+Ancient Corinth occupied the ground below the citadel of Acrocorinth near the western end of the Isthmus. Lechaion connected it to the Corinthian Gulf, and Cenchreae served the eastern side on the Saronic Gulf. The city benefited from roads and maritime routes converging in the region. Rom 16:1 names Phoebe and the congregation at Cenchreae, giving a glimpse of the communities beyond the urban center. [@abd, 1:1134–1139]
 
 ## Archaeological History
 
-Roman forces destroyed Corinth in 146 BCE. A century later Caesar established a colony, and the Greek geographer Strabo describes many of the colonists as freedmen, people formerly enslaved. Early public inscriptions in Latin record construction and civic offices. Greek language and institutions also remained important in and around the colony. The excavated city center includes a forum, the principal public square, with shops, civic buildings, and a raised platform. [@abd]
+Roman forces destroyed Corinth in 146 BCE. A century later Caesar established a colony, and the Greek geographer Strabo describes many of the colonists as freedmen, people formerly enslaved. Early public inscriptions in Latin record construction and civic offices. Greek language and institutions also remained important in and around the colony. The excavated city center includes a forum, the principal public square, with shops, civic buildings, and a raised platform. [@abd, 1:1134–1139]
 
 Strabo's account of a wealthy sanctuary with a thousand women dedicated to Aphrodite is about the earlier Greek city. Its figures and interpretation are debated. The passage gives no reliable basis for claiming that a large institution of sacred prostitution operated in Corinth in Paul's day. Religious life in the Roman city is better documented through its varied sanctuaries, inscriptions, and public honors.
 
 ## Significance for Biblical Studies
 
-Acts 18:1–18 places Paul in Corinth with Aquila and Priscilla and says that he taught there for eighteen months. When opponents bring him before Gallio, the proconsul or provincial governor, Gallio declines to hear the charge. The [[gallio-inscription|Delphi inscription naming Gallio]] helps date the episode to the early 50s CE. A platform in the Corinthian forum is a plausible example of a *bēma*, or judgment platform, but its identification as the one in Acts remains uncertain. [@abd]
+Acts 18:1–18 places Paul in Corinth with Aquila and Priscilla and says that he taught there for eighteen months. When opponents bring him before Gallio, the proconsul or provincial governor, Gallio declines to hear the charge. The [[gallio-inscription|Delphi inscription naming Gallio]] helps date the episode to the early 50s CE. A platform in the Corinthian forum is a plausible example of a *bēma*, or judgment platform, but its identification as the one in Acts remains uncertain. [@abd, 1:1134–1139]
 
 First Corinthians discusses dining in a temple (1 Cor 8:10) and buying food in a market (1 Cor 10:25). Dining facilities excavated at Corinthian sanctuaries, including those connected with Asclepius, the god of healing, show how a meal could take place on sacred premises. A Latin dedication mentions a *macellum*, a market for food provisions, which illuminates Paul's Greek term for the market. The inscription establishes that this type of market existed locally while leaving its exact location open.
 

@@ -4,13 +4,13 @@ The Dialogue of Pessimism is an Akkadian literary composition preserved on first
 
 ## Manuscripts and Date
 
-The dialogue survives in manuscripts from Assur and Nineveh and in a Babylonian version. The versions differ in wording and detail, which shows that the text could be adapted in transmission. The titles Dialogue of Pessimism and the Obliging Slave are modern designations. The first surviving copies belong to the first millennium BCE, and the date of composition is uncertain [@lambert-bwl] [@cos1].
+The dialogue survives in manuscripts from Assur and Nineveh and in a Babylonian version. The versions differ in wording and detail, which shows that the text could be adapted in transmission. The titles Dialogue of Pessimism and the Obliging Slave are modern designations. The first surviving copies belong to the first millennium BCE, and the date of composition is uncertain [@lambert-bwl, 139–143] [@cos1, 1.155].
 
 ## Contents
 
 Most episodes follow the same pattern. The master calls the slave and announces an intention, such as going hunting, offering sacrifice, or lending money. The slave agrees and explains the advantages. The master then reverses his decision, and the slave confirms that choice too. The reasons often sound like conventional wisdom, but the sequence shows how readily such advice can be turned to suit opposing plans.
 
-Near the end the conversation turns to the question of what is good. The slave speaks about the limits of what a person can reach or encompass. The master threatens to kill him, and the slave replies that his master would survive him by only three days. That final reply calls attention to the dependence of the master on the person whose advice he seemed free to use or discard [@lambert-bwl].
+Near the end the conversation turns to the question of what is good. The slave speaks about the limits of what a person can reach or encompass. The master threatens to kill him, and the slave replies that his master would survive him by only three days. That final reply calls attention to the dependence of the master on the person whose advice he seemed free to use or discard [@lambert-bwl, 149].
 
 ## Significance for Biblical Studies
 

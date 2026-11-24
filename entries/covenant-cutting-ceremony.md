@@ -4,9 +4,9 @@ Ancient Near Eastern agreements were often confirmed through a ceremony that gav
 
 ## Ancient Near Eastern Evidence
 
-Letters from [[mari-letters|Mari]] use the expression “kill a donkey foal” for concluding a treaty. The phrase reflects a ceremony known in the region. At Alalakh, a tablet records Abban making an oath to Yarim-Lim and cutting a lamb's throat while pledging that he would not take back what he had given. The two examples associate an animal act with an agreement, although the content of the oaths and rites varies [@cos2] [@cos3].
+Letters from [[mari-letters|Mari]] use the expression “kill a donkey foal” for concluding a treaty. The phrase reflects a ceremony known in the region. At Alalakh, a tablet records Abban making an oath to Yarim-Lim and cutting a lamb's throat while pledging that he would not take back what he had given. The two examples associate an animal act with an agreement, although the content of the oaths and rites varies [@cos2, 2.82] [@cos3].
 
-An eighth-century BCE treaty between Aššur-nērārī V of Assyria and Matiʾilu of Arpad explicitly interprets a severed ram's head as representing the vassal's own head if he violates the oath [@saa2]. The [[sefire-treaties|Sefire treaties]] use a similar comparison between a divided calf and the fate of Matiʿel if he breaks the treaty [@kai]. Such acts give concrete expression to a conditional curse. Sefire also uses an Aramaic expression for cutting a treaty comparable to Hebrew *kārat bərît* (“cut a covenant”).
+An eighth-century BCE treaty between Aššur-nērārī V of Assyria and Matiʾilu of Arpad explicitly interprets a severed ram's head as representing the vassal's own head if he violates the oath [@saa2, 8]. The [[sefire-treaties|Sefire treaties]] use a similar comparison between a divided calf and the fate of Matiʿel if he breaks the treaty [@kai, no. 222 A]. Such acts give concrete expression to a conditional curse. Sefire also uses an Aramaic expression for cutting a treaty comparable to Hebrew *kārat bərît* (“cut a covenant”).
 
 ## In the Hebrew Bible
 

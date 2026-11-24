@@ -8,7 +8,7 @@ The mound beside modern Dhiban lies on the Moabite plateau north of Wadi al-Muji
 
 ## Archaeological History
 
-The Mesha Stele came to scholarly notice at Dhiban in 1868. Its opening calls Mesha a Dibonite and a king of Moab. The inscription also describes works at a place called Qarhoh, including walls and water storage. Many scholars identify Qarhoh with an elevated or fortified part of Dibon. Its precise location on the mound has not been established [@kai] [@cos2].
+The Mesha Stele came to scholarly notice at Dhiban in 1868. Its opening calls Mesha a Dibonite and a king of Moab. The inscription also describes works at a place called Qarhoh, including walls and water storage. Many scholars identify Qarhoh with an elevated or fortified part of Dibon. Its precise location on the mound has not been established [@kai, no. 181] [@cos2, 2.23].
 
 American excavations in the 1950s examined several parts of the site. Later work by the Dhiban Excavation and Development Project clarified some of the Iron Age remains and also investigated much later occupation. Evidence includes a substantial building and features connected with water management. The portions exposed are valuable for the history of the town, but they do not furnish a full plan of Mesha's center or prove that individual remains are works he claimed in the inscription.
 

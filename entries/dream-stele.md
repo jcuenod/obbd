@@ -14,7 +14,7 @@ The prince comes to the vicinity of the Sphinx and rests in its shadow at midday
 
 In 1 Kgs 3:5–15, God appears in a dream to [[solomon|Solomon]] at Gibeon. Solomon is already king and asks for the discernment to govern. God grants wisdom and adds riches and honor. Both accounts use [[dreams-and-dream-interpretation|dream revelation]] to establish the divine favor behind a ruler, and the gifts in each answer a different problem. The sacrifice preceding Solomon's dream also allows comparison with [[dream-incubation|dream incubation]], although the story does not state that he meant to obtain a dream.
 
-Other biblical scenes use individual parts of this pattern. In Gen 28:10–22 Jacob discovers the sacred character of a place through an unsought dream, receives a promise, and makes a vow. In Gen 41:1–7 Pharaoh receives symbolic dreams whose meaning has yet to be explained. The Sphinx god speaks directly to the prince. The dreams of Gudea in Sumer give an additional example of divine speech connecting a ruler with responsibility for a sanctuary [@cos2].
+Other biblical scenes use individual parts of this pattern. In Gen 28:10–22 Jacob discovers the sacred character of a place through an unsought dream, receives a promise, and makes a vow. In Gen 41:1–7 Pharaoh receives symbolic dreams whose meaning has yet to be explained. The Sphinx god speaks directly to the prince. The dreams of Gudea in Sumer give an additional example of divine speech connecting a ruler with responsibility for a sanctuary [@cos2, 2.155].
 
 ## Scholarly Issues
 

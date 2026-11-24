@@ -4,9 +4,9 @@ Hoshea son of Elah was the last king of the northern kingdom of Israel in the la
 
 ## Extrabiblical Sources
 
-An inscription of Tiglath-pileser III names the removal of [[pekah|Pekah]], the installation of Hoshea, and tribute received. The damaged wording leaves some uncertainty about who the inscription says killed Pekah. Tiglath-pileser plainly claims to have made Hoshea king. This is direct evidence of Assyria's role in the transition, and its official viewpoint puts the initiative in the Assyrian ruler's hands [@rinap1].
+An inscription of Tiglath-pileser III names the removal of [[pekah|Pekah]], the installation of Hoshea, and tribute received. The damaged wording leaves some uncertainty about who the inscription says killed Pekah. Tiglath-pileser plainly claims to have made Hoshea king. This is direct evidence of Assyria's role in the transition, and its official viewpoint puts the initiative in the Assyrian ruler's hands [@rinap1, no. 42 lines 15′–18′].
 
-The Babylonian Chronicle attributes the ravaging of Samaria to [[shalmaneser-v|Shalmaneser V]]. Sargon II's inscriptions claim victory over Samaria and the removal and resettlement of inhabitants. Those sources provide evidence for Assyrian action at the end of the kingdom and under its successor administration. They differ in genre and purpose [@abc] [@glassner-chronicles] [@cos2].
+The Babylonian Chronicle attributes the ravaging of Samaria to [[shalmaneser-v|Shalmaneser V]]. Sargon II's inscriptions claim victory over Samaria and the removal and resettlement of inhabitants. Those sources provide evidence for Assyrian action at the end of the kingdom and under its successor administration. They differ in genre and purpose [@abc, 73] [@glassner-chronicles, no. 16, 193–201] [@cos2, 2.118D–E].
 
 ## Biblical Portrayal
 

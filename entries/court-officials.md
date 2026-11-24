@@ -4,11 +4,11 @@ Royal courts in Israel, Judah, and neighboring kingdoms relied on officials who 
 
 ## Ancient Near Eastern Evidence
 
-Assyrian court titles help explain the officers sent by Sennacherib in 2 Kgs 18:17. The Tartan represents Akkadian *turtānu*, a senior military commander. Rab-saris reflects *rab ša rēši*, the head of the group of court officials conventionally called [[eunuchs|eunuchs]]. Rabshakeh reflects *rab šāqê*, “chief cupbearer.” A title associated with serving the king could become a high office with responsibilities far removed from the task in its name [@rinap1] [@rinap3-1].
+Assyrian court titles help explain the officers sent by Sennacherib in 2 Kgs 18:17. The Tartan represents Akkadian *turtānu*, a senior military commander. Rab-saris reflects *rab ša rēši*, the head of the group of court officials conventionally called [[eunuchs|eunuchs]]. Rabshakeh reflects *rab šāqê*, “chief cupbearer.” A title associated with serving the king could become a high office with responsibilities far removed from the task in its name [@rinap1, no. 5 line 10] [@saa19, introduction n. 221].
 
 A clay tablet in the British Museum records gold sent to a temple on behalf of Nabû-šarrussu-ukīn, who bears the Babylonian title conventionally rendered “chief eunuch.” The tablet is dated to 595 BCE. The name and title are close to those of an official often identified as Nebo-sarsekim in Jer 39:3. The identification is plausible, although the division and interpretation of the Hebrew names and titles in that verse are difficult.
 
-The Hebrew [[royal-steward-inscription|royal steward inscription]] at Silwan in Jerusalem identifies a tomb owner with the title “who is over the house.” The personal name is damaged. The title also occurs on [[seals-and-bullae|seals and clay seal impressions]], along with titles such as “servant of the king.” These inscriptions indicate the use of such language by the officials themselves [@dobbs-allsopp-hebrew-inscriptions] [@avigad-sass-wsss].
+The Hebrew [[royal-steward-inscription|royal steward inscription]] at Silwan in Jerusalem identifies a tomb owner with the title “who is over the house.” The personal name is damaged. The title also occurs on [[seals-and-bullae|seals and clay seal impressions]], along with titles such as “servant of the king.” These inscriptions indicate the use of such language by the officials themselves [@dobbs-allsopp-hebrew-inscriptions, 507–510] [@avigad-sass-wsss, 49–60, 170–177].
 
 ## In the Hebrew Bible
 

@@ -4,7 +4,7 @@ In 605 BCE the army of Babylonia defeated an Egyptian force at Carchemish, a cit
 
 ## Sources
 
-The [[nebuchadnezzar-chronicle|Nebuchadnezzar Chronicle]] records the battle under the final year of Nabopolassar, Nebuchadnezzar's father. It says the Babylonian army crossed the river, broke the Egyptian army at Carchemish, and pursued survivors as far as the district of Hamath. The claim of complete victory is the chronicle's account of the battle. Its record of the sequence is particularly valuable because it also reports the death of Nabopolassar and the crown prince's return to Babylon to take the throne [@abc] [@glassner-chronicles].
+The [[nebuchadnezzar-chronicle|Nebuchadnezzar Chronicle]] records the battle under the final year of Nabopolassar, Nebuchadnezzar's father. It says the Babylonian army crossed the river, broke the Egyptian army at Carchemish, and pursued survivors as far as the district of Hamath. The claim of complete victory is the chronicle's account of the battle. Its record of the sequence is particularly valuable because it also reports the death of Nabopolassar and the crown prince's return to Babylon to take the throne [@abc, 99] [@glassner-chronicles, no. 24, 226–229].
 
 British excavations led by Leonard Woolley and later Turkish-Italian investigations uncovered Iron Age remains at [[carchemish|Carchemish]]. Egyptian objects attest contact with Egypt, and excavators associate deposits such as the filling of a well in a former Assyrian administrative complex with the Babylonian takeover around 605 BCE. Such evidence helps place the transition in the history of the city. The Babylonian chronicle provides the account of the battle itself.
 

@@ -4,17 +4,17 @@ Gudea, ruler of Lagash in southern Mesopotamia in the late third millennium BCE,
 
 ## Description and Provenance
 
-Many statues were recovered at Tello, ancient Girsu, in excavations begun by Ernest de Sarzec in the nineteenth century. Other examples reached collections without a documented excavation context, so their attributions require individual examination. Statue B, known as the Architect with a Plan, is a diorite figure from the excavated Girsu material and is now in the Louvre. [[gudea|Gudea's]] absolute dates vary, but the statues belong around the late twenty-second century BCE [@anep].
+Many statues were recovered at Tello, ancient Girsu, in excavations begun by Ernest de Sarzec in the nineteenth century. Other examples reached collections without a documented excavation context, so their attributions require individual examination. Statue B, known as the Architect with a Plan, is a diorite figure from the excavated Girsu material and is now in the Louvre. [[gudea|Gudea's]] absolute dates vary, but the statues belong around the late twenty-second century BCE [@anep, fig. 434].
 
 ## Contents
 
-The seated ruler clasps his hands before him, a familiar Mesopotamian posture of attention and devotion. A tablet on his lap bears a plan, with a measuring tool represented nearby. The inscription explains the ruler's dedication to Ningirsu and records his building work. The statue presents the responsibility to establish a sanctuary as part of royal service. The [[gudea-cylinders|Gudea Cylinders]] give a more extensive literary account of the divine commission and construction [@cos2].
+The seated ruler clasps his hands before him, a familiar Mesopotamian posture of attention and devotion. A tablet on his lap bears a plan, with a measuring tool represented nearby. The inscription explains the ruler's dedication to Ningirsu and records his building work. The statue presents the responsibility to establish a sanctuary as part of royal service. The [[gudea-cylinders|Gudea Cylinders]] give a more extensive literary account of the divine commission and construction [@cos2, 2.155].
 
 ## Significance for Biblical Studies
 
 Exod 25:9, 40 describes a sanctuary constructed according to a pattern shown to Moses. In 1 Chr 28:11–19 David gives Solomon a plan whose authority comes from God. Ezek 40:1–4 depicts a visionary guide with measuring instruments and introduces a detailed account of a temple. The plan on Gudea's statue shows that designing sacred space could be important in representing a ruler's role. The texts and sculpture give different accounts of how the plan appears and who carries it out.
 
-Ezek 34:1–24 uses the figure of a shepherd to judge the rulers of Israel and anticipates faithful care. Ps 78:70–72 relates David's selection to his work with flocks. Mesopotamian royal discourse used shepherd imagery for a ruler's responsibility to his god and people. The posture, inscription, and plan on Gudea's statue convey related ideals of service and care [@hurowitz-exalted-house].
+Ezek 34:1–24 uses the figure of a shepherd to judge the rulers of Israel and anticipates faithful care. Ps 78:70–72 relates David's selection to his work with flocks. Mesopotamian royal discourse used shepherd imagery for a ruler's responsibility to his god and people. The posture, inscription, and plan on Gudea's statue convey related ideals of service and care [@hurowitz-exalted-house, 33–57].
 
 ## Scholarly Issues
 

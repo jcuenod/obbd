@@ -12,7 +12,7 @@ The text concerns a silver obligation secured on a house. Near the end of the wi
 
 ## Significance for Biblical Studies
 
-Ezra 5:3, 6 gives Tattenai the equivalent Aramaic title of governor of Across-the-River. The narrative presents him investigating who authorized the rebuilding of the temple and reporting the matter to Darius. Ezra 6:6, 13 depicts him receiving and carrying out the king's answer. The name, title, and chronological setting together provide grounds for identifying the men. The Babylonian tablet is later than the temple inquiry as dated in Ezra, which is consistent with the same man continuing to hold office [@abd].
+Ezra 5:3, 6 gives Tattenai the equivalent Aramaic title of governor of Across-the-River. The narrative presents him investigating who authorized the rebuilding of the temple and reporting the matter to Darius. Ezra 6:6, 13 depicts him receiving and carrying out the king's answer. The name, title, and chronological setting together provide grounds for identifying the men. The Babylonian tablet is later than the temple inquiry as dated in Ezra, which is consistent with the same man continuing to hold office [@abd, 6:335–337].
 
 Nehemiah likewise refers to governors of Across-the-River in connection with letters and travel (Neh 2:7, 9). Such notices give a sense of the territory's administrative importance for journeys and building projects. The title in a Babylonian contract confirms its use outside biblical Aramaic. It gives no terms of appointment or jurisdictional boundaries.
 

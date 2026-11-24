@@ -4,19 +4,19 @@ Apries was an Egyptian pharaoh of the Saite dynasty, named for its base at Sais 
 
 ## Extrabiblical Sources
 
-Apries' Egyptian name, Wahibre, is represented by the Hebrew form Hophra. Egyptian monuments and documents identify him as a ruler of the Twenty-Sixth Dynasty. Herodotus, writing in the fifth century BCE, attributes to Apries campaigns against Sidon and Tyre and describes an unsuccessful expedition against Cyrene that was followed by discontent in the army. He says that the soldiers made Amasis king and recounts Apries' defeat and death. [@abd]
+Apries' Egyptian name, Wahibre, is represented by the Hebrew form Hophra. Egyptian monuments and documents identify him as a ruler of the Twenty-Sixth Dynasty. Herodotus, writing in the fifth century BCE, attributes to Apries campaigns against Sidon and Tyre and describes an unsuccessful expedition against Cyrene that was followed by discontent in the army. He says that the soldiers made Amasis king and recounts Apries' defeat and death. [@abd, 2:361–362]
 
 A monument of Amasis, usually called the Elephantine Stela, gives the successor's account. It presents Apries as a rival who returned with forces from the north after Amasis was already king. The Egyptian account and Herodotus agree on the central conflict, but differ in the sequence and circumstances of Apries' end. The stela speaks for the victor, while Herodotus preserves traditions recorded more than a century later.
 
 ## Biblical Portrayal
 
-Jer 37:5–11 says that an Egyptian army advanced and that the Babylonians lifted their siege of Jerusalem temporarily. The pharaoh is unnamed, but the chronology points to Apries. Jeremiah predicts that Egypt's army will return home and the Babylonians will come back. Ezek 17:15–17 likewise portrays a Judean king turning to Egypt for horses and troops and depicts the help as ineffective. Together these passages illuminate the expectations placed on Egypt before the [[fall-of-jerusalem-587|fall of Jerusalem]] to [[nebuchadnezzar-ii|Nebuchadnezzar II]]. [@abd]
+Jer 37:5–11 says that an Egyptian army advanced and that the Babylonians lifted their siege of Jerusalem temporarily. The pharaoh is unnamed, but the chronology points to Apries. Jeremiah predicts that Egypt's army will return home and the Babylonians will come back. Ezek 17:15–17 likewise portrays a Judean king turning to Egypt for horses and troops and depicts the help as ineffective. Together these passages illuminate the expectations placed on Egypt before the [[fall-of-jerusalem-587|fall of Jerusalem]] to [[nebuchadnezzar-ii|Nebuchadnezzar II]]. [@abd, 2:361–362]
 
 Jer 43:5–7 recounts the flight of Judeans to Tahpanhes in Egypt after the fall. In Jer 44:30, Hophra is named specifically in an oracle that compares his fate with the capture of Zedekiah. The oracles against Pharaoh in Ezek 29:1–16 and 30:20–26 also fit the period of Apries, although the ruler is unnamed in those passages. In Ezekiel Egypt appears as a power unable to provide lasting support.
 
 ## Historical Assessment
 
-One of the [[lachish-letters|Lachish Letters]], numbered 3, mentions a military commander going down to Egypt. The message shows movement between Judah and Egypt in the closing years of the Judahite monarchy. The journey may have involved diplomacy or military coordination, but the surviving letter gives no purpose for the mission. The surviving evidence leaves both the date of the journey and its connection with the intervention described in Jeremiah open. [@dobbs-allsopp-hebrew-inscriptions] [@ahituv-echoes]
+One of the [[lachish-letters|Lachish Letters]], numbered 3, mentions a military commander going down to Egypt. The message shows movement between Judah and Egypt in the closing years of the Judahite monarchy. The journey may have involved diplomacy or military coordination, but the surviving letter gives no purpose for the mission. The surviving evidence leaves both the date of the journey and its connection with the intervention described in Jeremiah open. [@dobbs-allsopp-hebrew-inscriptions, 308–314] [@ahituv-echoes, 56–91]
 
 ## Further Reading
 

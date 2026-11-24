@@ -10,7 +10,7 @@ The inscriptions belong to the fortified site of Karatepe-Aslantaş. The discove
 
 Azatiwada credits his position to the favor of Baal and names Awariku, king of the Danunians. He describes improving conditions in the land of Adana, building strongholds, supporting his ruler’s dynasty and securing roads. He represents public safety through the image of a woman traveling alone with spindles. The text closes with curses against anyone who attempts to erase Azatiwada’s name or replace it. [@kai, no. 26] [@cos2, 2.31]
 
-The versions also help identify how different languages and traditions designated comparable gods. The Phoenician Baal corresponds to the Luwian storm god Tarhunza. A Phoenician title of [[resheph|Resheph]] is often understood as associating him with birds. Each version uses vocabulary appropriate to its own readership, and interpreting particular divine epithets still requires attention to their context. [@kai, no. 26] [@ddd]
+The versions also help identify how different languages and traditions designated comparable gods. The Phoenician Baal corresponds to the Luwian storm god Tarhunza. A Phoenician title of [[resheph|Resheph]] is often understood as associating him with birds. Each version uses vocabulary appropriate to its own readership, and interpreting particular divine epithets still requires attention to their context. [@kai, no. 26] [@ddd, 132–139, 700–703]
 
 ## Significance for Biblical Studies
 
@@ -18,7 +18,7 @@ The versions also help identify how different languages and traditions designate
 
 ## Scholarly Issues
 
-Awariku is generally identified with Urikki, the ruler of Que named in Assyrian records. This anchors Azatiwada in the political world of the late eighth century BCE, though the monument itself may date to the early seventh century. Proposed links between the Danunian name and the biblical tribe of Dan or the Greek Danaans remain speculative. Similar names alone cannot resolve the histories of the peoples who used them. [@rinap1] [@kai, no. 26]
+Awariku is generally identified with Urikki, the ruler of Que named in Assyrian records. This anchors Azatiwada in the political world of the late eighth century BCE, though the monument itself may date to the early seventh century. Proposed links between the Danunian name and the biblical tribe of Dan or the Greek Danaans remain speculative. Similar names alone cannot resolve the histories of the peoples who used them. [@rinap1, no. 47 rev. 6′–9′] [@kai, no. 26]
 
 ## Further Reading
 

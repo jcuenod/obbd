@@ -4,13 +4,13 @@ Ezion-geber is a place near the head of the Gulf of Aqaba in biblical narratives
 
 ## Location and Identification
 
-The texts locate Ezion-geber near Elath, also spelled Eloth, on the coast at the southern end of the Arabah valley. Tell el-Kheleifeh, at the head of the gulf, was proposed as Ezion-geber in the 1930s. It may instead represent Elath or a later fortified settlement close to the shore. Jeziret Faraʿun, an island with a protected anchorage farther down the western side of the gulf, has also been proposed. The biblical descriptions establish the general region with more confidence than the exact site [@neaehl] [@abd].
+The texts locate Ezion-geber near Elath, also spelled Eloth, on the coast at the southern end of the Arabah valley. Tell el-Kheleifeh, at the head of the gulf, was proposed as Ezion-geber in the 1930s. It may instead represent Elath or a later fortified settlement close to the shore. Jeziret Faraʿun, an island with a protected anchorage farther down the western side of the gulf, has also been proposed. The biblical descriptions establish the general region with more confidence than the exact site [@pratico-kheleifeh, 1–5] [@abd, 2:723–727].
 
 ## Archaeological History
 
 Nelson Glueck excavated Tell el-Kheleifeh between 1938 and 1940. He initially identified its principal early building as a copper refinery from the time of Solomon. He dropped the refinery interpretation after reconsidering openings he had taken for flues. Such openings can be explained as part of the building's construction, and the complex has been interpreted in light of fortified and storage architecture.
 
-Gary D. Pratico's reappraisal of the excavated material dates the securely documented occupation mainly to the eighth through fourth centuries BCE. It identified no clear tenth-century occupation. Evidence of later material connections with [[edomites|Edom]] includes handmade pottery of a type found in the Negev and a jar impression naming Qosʿanal as a servant of the king. These [[edomite-inscriptions|Edomite inscriptions]] help characterize the settlement without identifying it as Solomon's port [@neaehl].
+Gary D. Pratico's reappraisal of the excavated material dates the securely documented occupation mainly to the eighth through fourth centuries BCE. It identified no clear tenth-century occupation. Evidence of later material connections with [[edomites|Edom]] includes handmade pottery of a type found in the Negev and a jar impression naming Qosʿanal as a servant of the king. These [[edomite-inscriptions|Edomite inscriptions]] help characterize the settlement without identifying it as Solomon's port [@pratico-kheleifeh, 21–25].
 
 ## Significance for Biblical Studies
 

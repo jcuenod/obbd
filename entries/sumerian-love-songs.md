@@ -4,7 +4,7 @@ Sumerian love songs include poems about the goddess Inanna and her lover Dumuzi 
 
 ## Manuscripts and Date
 
-The corpus survives on cuneiform tablets of uneven preservation. The individual songs have modern titles or letter designations, and their surviving copies may be considerably later than the events or rulers they evoke. A poem for Shu-Sin, a late third-millennium king of Ur, addresses the king as a desirable bridegroom. The relationship between the named king and the mythic lover depends on the particular song. Reading across the corpus brings out a common repertoire of images and settings while retaining distinct voices and scenes [@cos1; @anet].
+The corpus survives on cuneiform tablets of uneven preservation. The individual songs have modern titles or letter designations, and their surviving copies may be considerably later than the events or rulers they evoke. A poem for Shu-Sin, a late third-millennium king of Ur, addresses the king as a desirable bridegroom. The relationship between the named king and the mythic lover depends on the particular song. Reading across the corpus brings out a common repertoire of images and settings while retaining distinct voices and scenes [@cos1, 1.169, 1.173; @anet, 637–645].
 
 ## Contents
 
@@ -12,7 +12,7 @@ Some songs follow Inanna and Dumuzi from negotiation through union. Family invol
 
 ## Significance for Biblical Studies
 
-The Song of Songs gives its female lover initiative in seeking, inviting, and praising her beloved (Song 1:2–4). She imagines bringing him to her mother's house (Song 3:4; 8:1–2), a place with domestic and emotional resonance in both traditions. In Song 4:12–5:1 a garden of water, fragrance, and fruit expresses intimacy in a sustained exchange between the lovers. Royal and bridal images in Song 3:6–11 allow comparison with the prestige and ceremony associated with some Sumerian songs. Egyptian love poetry supplies additional comparanda for the voices and imagery, broadening the cultural setting for such language [@ael].
+The Song of Songs gives its female lover initiative in seeking, inviting, and praising her beloved (Song 1:2–4). She imagines bringing him to her mother's house (Song 3:4; 8:1–2), a place with domestic and emotional resonance in both traditions. In Song 4:12–5:1 a garden of water, fragrance, and fruit expresses intimacy in a sustained exchange between the lovers. Royal and bridal images in Song 3:6–11 allow comparison with the prestige and ceremony associated with some Sumerian songs. Egyptian love poetry supplies additional comparanda for the voices and imagery, broadening the cultural setting for such language [@ael, 2:181–194].
 
 The Hebrew Bible names Dumuzi in his later form, [Tammuz](tammuz.md), when Ezekiel sees women weeping for him at the Jerusalem temple (Ezek 8:14). That scene attests acquaintance with a lamenting practice. The Song contains no explicit reference to Dumuzi or to [Inanna](ishtar.md).
 

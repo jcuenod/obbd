@@ -4,7 +4,7 @@ The Hittite kingdom ruled from Ḫattuša in central Anatolia during the second 
 
 ## Sources
 
-The tablets from Ḫattuša record the laws, treaties, and administration of the Bronze Age kingdom. Hittite was an Indo-European language, and the court also made use of several other languages. Archaeology and monumental inscriptions in Hieroglyphic Luwian are especially important for the later northern states. Neo-Assyrian inscriptions use the regional designation Ḫatti for places in Syria and farther south, and the geographical reach of the name varies by context [@beckman-hdt] [@cos2] [@rima3].
+The tablets from Ḫattuša record the laws, treaties, and administration of the Bronze Age kingdom. Hittite was an Indo-European language, and the court also made use of several other languages. Archaeology and monumental inscriptions in Hieroglyphic Luwian are especially important for the later northern states. Neo-Assyrian inscriptions use the regional designation Ḫatti for places in Syria and farther south, and the geographical reach of the name varies by context [@beckman-hdt, 1–6] [@cos2, 2.21, 2.31] [@rima3, A.0.102.2 ii 78–102].
 
 ## History
 

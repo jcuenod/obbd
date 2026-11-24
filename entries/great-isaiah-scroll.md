@@ -8,7 +8,7 @@ The scroll is one of the first [[dead-sea-scrolls|Dead Sea Scrolls]] recovered n
 
 ## Contents
 
-The manuscript contains the text of all sixty-six chapters of Isaiah in the familiar order. Modern chapter numbers were added long after its production. Its scribes frequently used letters to mark vowel sounds, a practice more common in this scroll than in the later Masoretic Text, the traditional Hebrew form of the book. The smaller, fragmentary 1QIsaᵇ often agrees more closely with the Masoretic text. The two finds show that copies of the same work could circulate with different spelling practices and readings. [@abd]
+The manuscript contains the text of all sixty-six chapters of Isaiah in the familiar order. Modern chapter numbers were added long after its production. Its scribes frequently used letters to mark vowel sounds, a practice more common in this scroll than in the later Masoretic Text, the traditional Hebrew form of the book. The smaller, fragmentary 1QIsaᵇ often agrees more closely with the Masoretic text. The two finds show that copies of the same work could circulate with different spelling practices and readings. [@abd, 3:470–472]
 
 ## Significance for Biblical Studies
 

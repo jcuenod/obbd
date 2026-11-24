@@ -4,7 +4,7 @@ A footstool was part of royal seating in ancient Egypt and the Levant. Placed be
 
 ## Archaeological Evidence
 
-Egyptian royal furniture made the relationship between a seated ruler and his subjects or enemies visible. A [[tutankhamun-footstool|footstool from Tutankhamun's tomb]] bears images of bound foreign captives. Some examples use the Nine Bows, an Egyptian emblem for enemies of the realm. Comparable imagery occurs on sandals and surfaces meant to be stepped on. Placing the feet above such images made domination part of the use of the object [@anep] [@keel-symbolism].
+Egyptian royal furniture made the relationship between a seated ruler and his subjects or enemies visible. A [[tutankhamun-footstool|footstool from Tutankhamun's tomb]] bears images of bound foreign captives. Some examples use the Nine Bows, an Egyptian emblem for enemies of the realm. Comparable imagery occurs on sandals and surfaces meant to be stepped on. Placing the feet above such images made domination part of the use of the object [@tutankhamun-spatial-archive, Carter no. 90] [@keel-symbolism, 278–280].
 
 Levantine thrones are also known from carved furniture and representations in art. Some are flanked by winged creatures. The [[cherub-throne|cherub throne]] associated with the God of Israel belongs to this wider history of images of rule. An actual footstool and the metaphor of something beneath divine feet need to be interpreted in their particular settings.
 

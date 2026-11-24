@@ -4,9 +4,9 @@ Genesis 10 maps the peoples known to ancient Israel through the descendants of N
 
 ## Ancient Near Eastern Evidence
 
-Mesopotamian geographical lists compiled by scribes record lands, cities, and peoples, sometimes in a sequence shaped by textual conventions or an imperial center. The Babylonian Map of the World places cities, regions, and distant points around a schematic Mesopotamian landscape. Such texts show how selective knowledge of places could be arranged into a comprehensive picture. They use conventions different from the family structure of the Genesis table [@horowitz-cosmic-geography].
+Mesopotamian geographical lists compiled by scribes record lands, cities, and peoples, sometimes in a sequence shaped by textual conventions or an imperial center. The Babylonian Map of the World places cities, regions, and distant points around a schematic Mesopotamian landscape. Such texts show how selective knowledge of places could be arranged into a comprehensive picture. They use conventions different from the family structure of the Genesis table [@horowitz-cosmic-geography, 20–42].
 
-Assyrian and Babylonian sources give independent evidence for many of the names or territories named in Genesis 10. They can illuminate the forms used for such peoples as the Ionians, the Medes, and the kingdoms of Mesopotamia. The documented presence of a name across centuries often makes it a weak basis by itself for dating the biblical list [@anet; @abd].
+Assyrian and Babylonian sources give independent evidence for many of the names or territories named in Genesis 10. They can illuminate the forms used for such peoples as the Ionians, the Medes, and the kingdoms of Mesopotamia. The documented presence of a name across centuries often makes it a weak basis by itself for dating the biblical list [@anet, 274–283, 315–316; @abd].
 
 ## In the Hebrew Bible
 

@@ -4,7 +4,7 @@
 
 ## Ancient Near Eastern Evidence
 
-In [[egyptian-kingship|Egyptian royal ideology]], the king maintains maat through rule, ritual, and fair judgment. Temple scenes can show him presenting a small figure of Maat to a god. The action expresses the king's provision of the right order through which divine and human life continue. Texts of instruction encourage conduct consistent with maat. The [[eloquent-peasant|Eloquent Peasant]], for example, associates sound judgment with the duties of those in authority [@ael] [@anep].
+In [[egyptian-kingship|Egyptian royal ideology]], the king maintains maat through rule, ritual, and fair judgment. Temple scenes can show him presenting a small figure of Maat to a god. The action expresses the king's provision of the right order through which divine and human life continue. Texts of instruction encourage conduct consistent with maat. The [[eloquent-peasant|Eloquent Peasant]], for example, associates sound judgment with the duties of those in authority [@ael, 1:173–183] [@anep, fig. 572].
 
 Maat also matters in accounts of judgment after death. In the [[book-of-the-dead|Book of the Dead]], the deceased's heart is weighed in a divine tribunal. The feather or figure of Maat gives visible form to the standard of judgment. This use connects an individual's life with the broader principle of right order.
 

@@ -4,7 +4,7 @@ Sargon II's royal inscriptions record his campaigns and building projects as kin
 
 ## Manuscripts and Date
 
-The [[sargon-ii|king]] established a new capital at Dur-Sharrukin, modern Khorsabad. Its palace walls preserve versions of the Annals and the Great Display Inscription. Clay prisms from Nimrud, Assur and Nineveh preserve other versions. The Nimrud Prism is distinct from the stone slabs of the Nimrud Inscription, also called the Juniper Palace Inscription. Three fragments of a basalt stele recovered at Ashdod show that a royal monument stood there or in its vicinity. The fragments came from secondary contexts. [@cos2, 2.118] [@neaehl]
+The [[sargon-ii|king]] established a new capital at Dur-Sharrukin, modern Khorsabad. Its palace walls preserve versions of the Annals and the Great Display Inscription. Clay prisms from Nimrud, Assur and Nineveh preserve other versions. The Nimrud Prism is distinct from the stone slabs of the Nimrud Inscription, also called the Juniper Palace Inscription. Three fragments of a basalt stele recovered at Ashdod show that a royal monument stood there or in its vicinity. The fragments came from secondary contexts. [@cos2, 2.118] [@neaehl, 1:93–101]
 
 ## Contents
 
@@ -12,13 +12,13 @@ The inscriptions present campaigns, tribute, resettlement, construction and roya
 
 ## Significance for Biblical Studies
 
-2 Kgs 17:6 and 18:9–11 record the [[fall-of-samaria|fall of Samaria]] and the deportation of inhabitants. 2 Kgs 17:24 also describes settlement from several places in the empire. Sargon's account of Arabian settlers illustrates the same policy without naming the same groups. These sources can reflect different movements of people. Isa 20:1–6 ties the capture of [[ashdod|Ashdod]] to Sargon's commander and uses it to warn against confidence in Egypt and Cush. The event is usually dated around 712–711 BCE. The local stele and the more detailed accounts from Assyria supply a material and political context for the passage. [@cos2, 2.118A, 2.118E] [@anet, 284–287] [@neaehl]
+2 Kgs 17:6 and 18:9–11 record the [[fall-of-samaria|fall of Samaria]] and the deportation of inhabitants. 2 Kgs 17:24 also describes settlement from several places in the empire. Sargon's account of Arabian settlers illustrates the same policy without naming the same groups. These sources can reflect different movements of people. Isa 20:1–6 ties the capture of [[ashdod|Ashdod]] to Sargon's commander and uses it to warn against confidence in Egypt and Cush. The event is usually dated around 712–711 BCE. The local stele and the more detailed accounts from Assyria supply a material and political context for the passage. [@cos2, 2.118A, 2.118E] [@anet, 284–287] [@neaehl, 1:93–101]
 
-Isa 10:9–11 imagines Assyria boasting about cities it had taken, including Carchemish, Arpad, Hamath and Samaria. 2 Kgs 18:34 puts a comparable boast about fallen cities in the mouth of Sennacherib's envoy. Sargon's inscriptions supply examples of how Assyrian rulers grouped such victories. The lists range across campaigns and reigns. [@abd] [@cos2, 2.118]
+Isa 10:9–11 imagines Assyria boasting about cities it had taken, including Carchemish, Arpad, Hamath and Samaria. 2 Kgs 18:34 puts a comparable boast about fallen cities in the mouth of Sennacherib's envoy. Sargon's inscriptions supply examples of how Assyrian rulers grouped such victories. The lists range across campaigns and reigns. [@abd, 4:741–745] [@cos2, 2.118]
 
 ## Scholarly Issues
 
-The Khorsabad Annals put the conquest of Samaria in the accession-year narrative, while other accounts group it with material from the second regnal year. Some scholars allow a capture under Shalmaneser V followed by Sargon's action against a renewed revolt. Others see Sargon claiming an earlier conquest for himself. The Nimrud Inscription claims subjugation of distant Judah, and other accounts picture Judah as a target of appeals from Ashdod. The claims leave the nature and extent of Judahite involvement uncertain. [@abc] [@cos2, 2.118A, 2.118D–E, 2.118I]
+The Khorsabad Annals put the conquest of Samaria in the accession-year narrative, while other accounts group it with material from the second regnal year. Some scholars allow a capture under Shalmaneser V followed by Sargon's action against a renewed revolt. Others see Sargon claiming an earlier conquest for himself. The Nimrud Inscription claims subjugation of distant Judah, and other accounts picture Judah as a target of appeals from Ashdod. The claims leave the nature and extent of Judahite involvement uncertain. [@abc, 73] [@cos2, 2.118A, 2.118D–E, 2.118I]
 
 ## Further Reading
 

@@ -4,9 +4,9 @@ Some Iron Age altars from the southern Levant have projections resembling horns 
 
 ## Archaeological Evidence
 
-A large horned altar excavated at [[beersheba|Beersheba]] was reconstructed from dressed stone blocks recovered in later construction. Three of its horns were preserved. The reuse shows that the original installation was dismantled. Yohanan Aharoni linked its removal with the reform attributed to Hezekiah in 2 Kgs 18:4, 22. Both the stratigraphic interpretation and the historical link to the [[cult-reforms-archaeology|reform]] have been debated [@neaehl] [@mazar-archaeology].
+A large horned altar excavated at [[beersheba|Beersheba]] was reconstructed from dressed stone blocks recovered in later construction. Three of its horns were preserved. The reuse shows that the original installation was dismantled. Yohanan Aharoni linked its removal with the reform attributed to Hezekiah in 2 Kgs 18:4, 22. Both the stratigraphic interpretation and the historical link to the [[cult-reforms-archaeology|reform]] have been debated [@neaehl, 1:170–173] [@mazar-archaeology, 492–501].
 
-Smaller stone altars bearing four projections have been found at [[megiddo|Megiddo]] and [[ekron|Ekron]]. An isolated horn-shaped stone at Dan has been interpreted as part of a larger altar. The smaller examples are often called [[incense-and-incense-altars|incense altars]], although oil or other offerings are also possible. Size, find context, and residues, where available, give more information about use than the horns alone [@neaehl] [@anep].
+Smaller stone altars bearing four projections have been found at [[megiddo|Megiddo]] and [[ekron|Ekron]]. An isolated horn-shaped stone at Dan has been interpreted as part of a larger altar. The smaller examples are often called [[incense-and-incense-altars|incense altars]], although oil or other offerings are also possible. Size, find context, and residues, where available, give more information about use than the horns alone [@neaehl, 1:328–330, 5:1955–1957] [@anep, fig. 575].
 
 ## In the Bible
 

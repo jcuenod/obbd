@@ -4,7 +4,7 @@ The biblical expression “host of heaven” can refer to the stars or to the co
 
 ## Ancient Near Eastern Evidence
 
-Mesopotamian traditions associate several gods with the heavenly bodies. The [[sin-moon-god|moon god Sîn]] had major sanctuaries, including one at Harran, and [[shamash|Shamash]] was associated with the sun and with justice. Images of crescents, stars, and other signs occur on Iron Age Levantine seals and related objects. Some lunar images resemble forms associated with Harran. These objects establish the circulation of astral imagery. The identity of the deity and use of the image can vary with context [@ddd] [@keel-uehlinger-ggig].
+Mesopotamian traditions associate several gods with the heavenly bodies. The [[sin-moon-god|moon god Sîn]] had major sanctuaries, including one at Harran, and [[shamash|Shamash]] was associated with the sun and with justice. Images of crescents, stars, and other signs occur on Iron Age Levantine seals and related objects. Some lunar images resemble forms associated with Harran. These objects establish the circulation of astral imagery. The identity of the deity and use of the image can vary with context [@ddd, 428–430] [@keel-uehlinger-ggig, 342–359].
 
 Mesopotamian scholars also read movements or appearances in the sky as signs for the king and land. This practice belongs to [[astrology]] and provides a context for the association between astral beings and divine communication. The biblical phrase “host of heaven” encompasses more than any one cult or divinatory practice.
 

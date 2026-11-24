@@ -4,9 +4,9 @@ Ancient Near Eastern texts describe gods meeting in assemblies to decide the fat
 
 ## Ancient Near Eastern Evidence
 
-The tablets from Ugarit use several expressions for gatherings of gods. The Kirta epic refers to an assembly of gods (*ʿdt ʾilm*), while other texts speak of the circle of the sons of [[el|El]]. In the Baal Cycle, El presides over a gathering in which the Sea's envoys demand that Baal be handed over. The participants and powers of the gathering vary with the story, as does the relationship of its presiding figure to the other gods [@parker-unp] [@ktu3].
+The tablets from Ugarit use several expressions for gatherings of gods. The Kirta epic refers to an assembly of gods (*ʿdt ʾilm*), while other texts speak of the circle of the sons of [[el|El]]. In the Baal Cycle, El presides over a gathering in which the Sea's envoys demand that Baal be handed over. The participants and powers of the gathering vary with the story, as does the relationship of its presiding figure to the other gods [@parker-unp, 24, 26, 85, 99–101] [@ktu3, 1.15 II, 1.2 I].
 
-In Akkadian, *puḫrum* means an assembly. In [[enuma-elish|Enuma Elish]], the gods gather and grant Marduk extraordinary authority to confront Tiamat. In Atrahasis they deliberate over measures to control the human population. In the Iron Age Levant, the Phoenician inscription from Karatepe invokes a whole circle of gods. The fragmentary [[deir-alla-inscription|Deir ʿAlla inscription]] tells of heavenly beings called *šaddayin* meeting in a vision reported by Balaam son of Beor. The reading of individual lines at Deir ʿAlla remains contested [@lambert-bcm] [@lambert-millard-atrahasis] [@kai] [@cos2].
+In Akkadian, *puḫrum* means an assembly. In [[enuma-elish|Enuma Elish]], the gods gather and grant Marduk extraordinary authority to confront Tiamat. In Atrahasis they deliberate over measures to control the human population. In the Iron Age Levant, the Phoenician inscription from Karatepe invokes a whole circle of gods. The fragmentary [[deir-alla-inscription|Deir ʿAlla inscription]] tells of heavenly beings called *šaddayin* meeting in a vision reported by Balaam son of Beor. The reading of individual lines at Deir ʿAlla remains contested [@lambert-bcm, 86–89] [@lambert-millard-atrahasis, 42–67, 88–103] [@kai, nos. 26, 312] [@cos2, 2.27].
 
 ## In the Hebrew Bible
 

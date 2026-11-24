@@ -4,7 +4,7 @@ Casting lots was a way to make decisions and distribute responsibilities in anci
 
 ## Ancient Near Eastern Evidence
 
-A ninth-century BCE inscribed clay cube from Assyria calls itself the *pūru* (“lot”) of Yaḫalu, a prominent official of Shalmaneser III. Its inscription anticipates his term as eponym, the official whose name would designate a year. The object therefore links casting a lot with an important administrative appointment. The surviving [[assyrian-eponym-list|Assyrian lists of eponyms]] give a separate record of officeholders and do not show that every year was assigned through the same mechanism [@cos2] [@rima3].
+A ninth-century BCE inscribed clay cube from Assyria calls itself the *pūru* (“lot”) of Yaḫalu, a prominent official of Shalmaneser III. Its inscription anticipates his term as eponym, the official whose name would designate a year. The object therefore links casting a lot with an important administrative appointment. The surviving [[assyrian-eponym-list|Assyrian lists of eponyms]] give a separate record of officeholders and do not show that every year was assigned through the same mechanism [@finkel-reade-eponyms, 167–169].
 
 ## In the Hebrew Bible
 

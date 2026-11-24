@@ -4,7 +4,7 @@ The Sumerian King List presents the history of southern Mesopotamia as a success
 
 ## Manuscripts and Date
 
-Sumerian manuscripts preserve different versions of the list. A witness from the Third Dynasty of Ur begins with Kish, without the familiar account of kingship before the flood. Old Babylonian copies include the well-preserved Weld-Blundell prism (Ashmolean Museum, WB 444), which preserves the antediluvian section and extends to the dynasty of Isin. Its form gives a political past to Isin by placing it at the end of a succession that also includes major powers such as Ur, Uruk, and Akkad. The variants show continuing revision and caution against reading any one manuscript as the original form [@glassner-chronicles; @anet].
+Sumerian manuscripts preserve different versions of the list. A witness from the Third Dynasty of Ur begins with Kish, without the familiar account of kingship before the flood. Old Babylonian copies include the well-preserved Weld-Blundell prism (Ashmolean Museum, WB 444), which preserves the antediluvian section and extends to the dynasty of Isin. Its form gives a political past to Isin by placing it at the end of a succession that also includes major powers such as Ur, Uruk, and Akkad. The variants show continuing revision and caution against reading any one manuscript as the original form [@glassner-chronicles, no. 1, 117–126; @anet, 265–266].
 
 ## Contents
 
@@ -14,7 +14,7 @@ In the Weld-Blundell recension, eight rulers reign in five cities before the flo
 
 Genesis 5 traces Adam's descendants to Noah and records their ages at the births of named sons and at death. After the flood, Gen 10:1, 32 describes the peoples descended from Noah's sons, and Gen 11:10–26 traces a line from Shem toward Abram. The [genealogies](genealogies.md) organize family descent and the dispersion of peoples. The King List combines regnal totals with a theory of geographically transferable kingship. The comparisons help isolate a shared way of dividing primeval time while making clear how differently each text uses it.
 
-Counting Adam and Noah, Gen 5 has ten generations before the flood. The recension with eight rulers cannot explain that number by itself. The much later Babylonian historian Berossus also presents ten antediluvian kings, evidence that the number varied among Mesopotamian accounts of the distant past. Genesis places Enoch seventh from Adam and gives his departure a distinctive account (Gen 5:21–24). Comparison with seventh-position Mesopotamian figures such as Enmeduranki requires attention to the particular lists in which they stand [@glassner-chronicles].
+Counting Adam and Noah, Gen 5 has ten generations before the flood. The recension with eight rulers cannot explain that number by itself. The much later Babylonian historian Berossus also presents ten antediluvian kings, evidence that the number varied among Mesopotamian accounts of the distant past. Genesis places Enoch seventh from Adam and gives his departure a distinctive account (Gen 5:21–24). Comparison with seventh-position Mesopotamian figures such as Enmeduranki requires attention to the particular lists in which they stand [@glassner-chronicles, no. 1, 117–126].
 
 ## Scholarly Issues
 

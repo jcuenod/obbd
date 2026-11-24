@@ -4,7 +4,7 @@ Decorated terracotta stands from Taanach illuminate religious imagery in the sou
 
 ## Description and Provenance
 
-Taanach lies on the southwestern edge of the Jezreel Valley. Ernst Sellin recovered an ornate terracotta stand during his early twentieth-century excavations. Lapp's later excavations recovered a second elaborate example from a cistern deposit. The two major stands differ in their treatment of figures and openings. They attest the repeated use of decorated stands at the site, but recovery from secondary contexts prevents assigning them securely to a particular sanctuary or household. The Lapp stand is now in the Israel Museum. It is generally placed around the transition from Iron I to Iron II, with more specific dates depending on assessments of context and style [@neaehl; @keel-uehlinger-ggig].
+Taanach lies on the southwestern edge of the Jezreel Valley. Ernst Sellin recovered an ornate terracotta stand during his early twentieth-century excavations. Lapp's later excavations recovered a second elaborate example from a cistern deposit. The two major stands differ in their treatment of figures and openings. They attest the repeated use of decorated stands at the site, but recovery from secondary contexts prevents assigning them securely to a particular sanctuary or household. The Lapp stand is now in the Israel Museum. It is generally placed around the transition from Iron I to Iron II, with more specific dates depending on assessments of context and style [@neaehl, 4:1431–1432; @keel-uehlinger-ggig, 150–160].
 
 ## Contents
 

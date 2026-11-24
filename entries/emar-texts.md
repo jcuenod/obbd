@@ -4,11 +4,11 @@ The Emar texts are clay tablets from a Late Bronze Age city on the middle Euphra
 
 ## Manuscripts and Date
 
-French excavations at Tell Meskene in the 1970s recovered many tablets before the area was flooded behind the Tabqa dam. Other tablets associated with Emar appeared through the antiquities trade. Their attribution can sometimes be assessed through names, script and formulas, but their find contexts are missing. The excavated and commercially acquired objects offer different kinds of evidence for reconstructing the archives. [@cos1] [@cos3]
+French excavations at Tell Meskene in the 1970s recovered many tablets before the area was flooded behind the Tabqa dam. Other tablets associated with Emar appeared through the antiquities trade. Their attribution can sometimes be assessed through names, script and formulas, but their find contexts are missing. The excavated and commercially acquired objects offer different kinds of evidence for reconstructing the archives. [@cos1, 1.122] [@cos3]
 
 ## Contents
 
-A concentration of ritual and divination tablets was found in the building often called the Temple of the Diviner. Some texts prescribe ceremonies for installing the storm god's high priestess. Others concern the *zukru*, a public festival for which the texts specify days, offerings and procession. The detailed instructions show the participation of several institutions and the coordination of worship with a local calendar. [@cos1]
+A concentration of ritual and divination tablets was found in the building often called the Temple of the Diviner. Some texts prescribe ceremonies for installing the storm god's high priestess. Others concern the *zukru*, a public festival for which the texts specify days, offerings and procession. The detailed instructions show the participation of several institutions and the coordination of worship with a local calendar. [@cos1, 1.122]
 
 Legal texts include wills and transfers of family property. Some refer to “the gods and the dead,” an expression that can identify responsibilities inherited within the household. The records offer direct evidence for links among inheritance, familial position and care for the dead. Their interpretation remains important to discussion of [[care-for-the-dead|ancestors and household religion]] outside Emar. [@cos3]
 
@@ -20,7 +20,7 @@ Some Emar documents also show women receiving property and household responsibil
 
 ## Scholarly Issues
 
-The household gods in Emar wills have been compared with the [[teraphim]] taken by Rachel in Gen 31:19, 30–35. Suggestions that those objects represented ancestors or served as tokens of rights in a household are disputed. The Emar texts establish that household gods and the dead mattered in some inheritance arrangements, but they give no clear identification of Rachel's objects. Similar care is needed with ritual comparisons, where a detailed analogy gives useful background while a historical line of transmission remains difficult to establish. [@cos3] [@ddd]
+The household gods in Emar wills have been compared with the [[teraphim]] taken by Rachel in Gen 31:19, 30–35. Suggestions that those objects represented ancestors or served as tokens of rights in a household are disputed. The Emar texts establish that household gods and the dead mattered in some inheritance arrangements, but they give no clear identification of Rachel's objects. Similar care is needed with ritual comparisons, where a detailed analogy gives useful background while a historical line of transmission remains difficult to establish. [@cos3] [@ddd, 845–849]
 
 ## Further Reading
 

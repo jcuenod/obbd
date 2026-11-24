@@ -4,7 +4,7 @@ In the Late Bronze Age, Hittite great kings used written agreements to define ob
 
 ## Manuscripts and Date
 
-The capital at Ḫattuša yielded much of the treaty evidence from the fourteenth and thirteenth centuries BCE. Examples include Šuppiluliuma I's treaty with Aziru of Amurru and Muršili II's treaty with Aziru's descendant Tuppi-Teššub. A bronze tablet found at Ḫattuša in 1986 records Tudḫaliya IV's agreement with Kurunta of Tarḫuntašša. It is a rare surviving treaty on metal and illustrates the use of materials beyond clay for documents of state [@beckman-hdt].
+The capital at Ḫattuša yielded much of the treaty evidence from the fourteenth and thirteenth centuries BCE. Examples include Šuppiluliuma I's treaty with Aziru of Amurru and Muršili II's treaty with Aziru's descendant Tuppi-Teššub. A bronze tablet found at Ḫattuša in 1986 records Tudḫaliya IV's agreement with Kurunta of Tarḫuntašša. It is a rare surviving treaty on metal and illustrates the use of materials beyond clay for documents of state [@beckman-hdt, 1–10].
 
 ## Contents
 

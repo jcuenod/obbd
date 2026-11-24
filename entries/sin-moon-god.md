@@ -4,9 +4,9 @@ Sîn was the Akkadian name of the Mesopotamian moon god known in Sumerian as Nan
 
 ## Sources and Iconography
 
-The cults of Nanna at [[ur|Ur]] and Sîn at [[harran|Harran]] are attested in temple records, hymns, and royal inscriptions. At Harran his sanctuary was called Eḫulḫul. [[nabonidus|Nabonidus]] restored the temple and also supported the cult at Ur. His inscriptions give unusual prominence to the moon god. The [[verse-account-of-nabonidus|Verse Account]] presents a hostile view of the king's religious policies, which needs to be read alongside his own claims [@ddd] [@cos2].
+The cults of Nanna at [[ur|Ur]] and Sîn at [[harran|Harran]] are attested in temple records, hymns, and royal inscriptions. At Harran his sanctuary was called Eḫulḫul. [[nabonidus|Nabonidus]] restored the temple and also supported the cult at Ur. His inscriptions give unusual prominence to the moon god. The [[verse-account-of-nabonidus|Verse Account]] presents a hostile view of the king's religious policies, which needs to be read alongside his own claims [@ddd, 586–589] [@cos2, 2.123A–B].
 
-The crescent is a common lunar emblem, and Mesopotamian imagery connects the moon with the horns of a bull. A carved stone from et-Tell, often identified with Bethsaida, shows a bull's head on a standard. The horns and comparisons with Harran have led scholars to propose a lunar interpretation. Some think the imagery may also evoke a storm god. In Late Bronze Age Ugaritic literature, Yarikh is a moon god with a distinct local identity [@keel-uehlinger-ggig] [@parker-unp].
+The crescent is a common lunar emblem, and Mesopotamian imagery connects the moon with the horns of a bull. A carved stone from et-Tell, often identified with Bethsaida, shows a bull's head on a standard. The horns and comparisons with Harran have led scholars to propose a lunar interpretation. Some think the imagery may also evoke a storm god. In Late Bronze Age Ugaritic literature, Yarikh is a moon god with a distinct local identity [@keel-uehlinger-ggig, 144–147] [@parker-unp, 215–218].
 
 ## In the Hebrew Bible
 

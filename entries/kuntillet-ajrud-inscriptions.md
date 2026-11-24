@@ -8,7 +8,7 @@ Ze'ev Meshel's excavations at [[kuntillet-ajrud|Kuntillet ʿAjrud]] in 1975–19
 
 ## Contents
 
-The two best-known *pithoi*, or large storage jars, are designated A and B. A blessing on Pithos A invokes YHWH of Samaria, and a blessing on Pithos B invokes YHWH of Teman; both pair the invocation with the word *ʾšrth*, often rendered "his asherah" [@cos2]. Pithos B also preserves a wish that the recipient be blessed and kept safe. The texts cut into stone bowls include personal names [@dobbs-allsopp-hebrew-inscriptions].
+The two best-known *pithoi*, or large storage jars, are designated A and B. A blessing on Pithos A invokes YHWH of Samaria, and a blessing on Pithos B invokes YHWH of Teman; both pair the invocation with the word *ʾšrth*, often rendered "his asherah" [@cos2, 2.47A–B]. Pithos B also preserves a wish that the recipient be blessed and kept safe. The texts cut into stone bowls include personal names [@dobbs-allsopp-hebrew-inscriptions, 283, 285, 290, 293].
 
 One damaged plaster text is commonly read as a theophany, a description of a god appearing. On a widely used reading, the god El shines forth and mountains melt. The fragment is too incomplete to recover the whole scene, and the deity in the opening line should not simply be identified with the YHWH named in the jar blessings.
 
@@ -24,7 +24,7 @@ Amos 8:14 links oath language with Samaria, Dan, and Beersheba, though its wordi
 
 Some scholars understand *ʾšrth* as the goddess [[asherah|Asherah]]; others see it as a sacred object, possibly one associated with the goddess. The ending commonly read as "his" is unusual on a personal name in Hebrew, which favors the object reading but does not resolve the debate. The related wording in the [[khirbet-el-qom-inscription|Khirbet el-Qom tomb inscription]] is an independent comparison, not an explanation of the term.
 
-Pithos A shows two standing figures resembling [[bes|Bes]], an Egyptian protective deity, and a seated figure commonly identified as a lyre player. An early interpretation identified the standing pair as YHWH and Asherah, but most specialists do not read the figures as illustrations of the nearby blessing [@keel-uehlinger-ggig]. The religious content fits the interpretation of a caravan station where religious practices also took place. It does not by itself show that the buildings housed a temple.
+Pithos A shows two standing figures resembling [[bes|Bes]], an Egyptian protective deity, and a seated figure commonly identified as a lyre player. An early interpretation identified the standing pair as YHWH and Asherah, but most specialists do not read the figures as illustrations of the nearby blessing [@keel-uehlinger-ggig, 208–248]. The religious content fits the interpretation of a caravan station where religious practices also took place. It does not by itself show that the buildings housed a temple.
 
 ## Further Reading
 

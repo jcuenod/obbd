@@ -4,13 +4,13 @@ The Babylonian Map of the World is a clay tablet from first-millennium BCE Mesop
 
 ## Description and Provenance
 
-The tablet is held in the British Museum as BM 92687. It is generally associated with Sippar, now Abu Habba in Iraq, although its original find context is uncertain. The surviving copy is commonly dated around the sixth century BCE. A statement in the tablet indicates that the scribe worked from an earlier exemplar, a tablet that served as the source for a copy. The date and original form of that source remain uncertain [@horowitz-cosmic-geography].
+The tablet is held in the British Museum as BM 92687. It is generally associated with Sippar, now Abu Habba in Iraq, although its original find context is uncertain. The surviving copy is commonly dated around the sixth century BCE. A statement in the tablet indicates that the scribe worked from an earlier exemplar, a tablet that served as the source for a copy. The date and original form of that source remain uncertain [@horowitz-cosmic-geography, 20–42].
 
 ## Contents
 
 A pair of concentric lines forms a ring around the interior of the diagram. The label *marratu* (“bitter river”) identifies the waters in that ring. Within it, some marks represent cities or regions and others indicate physical features such as a river and a marsh. The Euphrates is shown crossing the inhabited area, and [[babylon|Babylon]] is prominently labeled where the river passes through it.
 
-Triangular forms project beyond the water. The Akkadian term used for these outer places is *nagû* (“region”). The damaged text describes distant regions in terms of such features as great distances, darkness, and extraordinary phenomena. Text on the tablet also mentions animals and legendary figures. A drawing of the bounded world and accounts of places beyond it suggest that the scribe's interest was in the shape and limits of the world as Babylonian scholars pictured it [@horowitz-cosmic-geography].
+Triangular forms project beyond the water. The Akkadian term used for these outer places is *nagû* (“region”). The damaged text describes distant regions in terms of such features as great distances, darkness, and extraordinary phenomena. Text on the tablet also mentions animals and legendary figures. A drawing of the bounded world and accounts of places beyond it suggest that the scribe's interest was in the shape and limits of the world as Babylonian scholars pictured it [@horowitz-cosmic-geography, 20–42].
 
 ## Significance for Biblical Studies
 

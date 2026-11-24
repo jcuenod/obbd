@@ -4,23 +4,23 @@ The Elephantine Passover Letter is a damaged Aramaic papyrus sent to a Judean mi
 
 ## Description and Provenance
 
-The letter comes from [[elephantine|Elephantine]], a Nile island near present-day Aswan. It was found in excavations there and is now in the Egyptian Museum and Papyrus Collection in Berlin. Porten and Yardeni designate it A4.1. The letter addresses Jedaniah and associates in the Judean garrison and refers to the fifth year of Darius II. Hananiah's office and the place from which he wrote remain uncertain. [@tad]
+The letter comes from [[elephantine|Elephantine]], a Nile island near present-day Aswan. It was found in excavations there and is now in the Egyptian Museum and Papyrus Collection in Berlin. Porten and Yardeni designate it A4.1. The letter addresses Jedaniah and associates in the Judean garrison and refers to the fifth year of Darius II. Hananiah's office and the place from which he wrote remain uncertain. [@tad, A4.1]
 
 ## Contents
 
-The first part reports that the king sent a message to Arshama, the Persian governor of Egypt. A break interrupts this report before the subject of the royal message is clear. Other surviving words refer to dates in Nisan, being clean and avoiding leaven. The letter gives the community a set of practical instructions for the observance. [@tad] [@cos3]
+The first part reports that the king sent a message to Arshama, the Persian governor of Egypt. A break interrupts this report before the subject of the royal message is clear. Other surviving words refer to dates in Nisan, being clean and avoiding leaven. The letter gives the community a set of practical instructions for the observance. [@tad, A4.1] [@cos3, 3.46]
 
-Editors commonly restore an instruction concerning Passover around the fourteenth of Nisan. The Aramaic word *psḥ* (“Passover”) survives on other pottery inscriptions from Elephantine, but its appearance in this letter is a reconstruction. The instructions involving leaven and the interval ending on the twenty-first of Nisan give stronger grounds for seeing a connection with the Feast of Unleavened Bread. The distinction is important for understanding what each document actually attests. [@tad] [@anet]
+Editors commonly restore an instruction concerning Passover around the fourteenth of Nisan. The Aramaic word *psḥ* (“Passover”) survives on other pottery inscriptions from Elephantine, but its appearance in this letter is a reconstruction. The instructions involving leaven and the interval ending on the twenty-first of Nisan give stronger grounds for seeing a connection with the Feast of Unleavened Bread. The distinction is important for understanding what each document actually attests. [@tad, A4.1] [@anet, 491–492]
 
 ## Significance for Biblical Studies
 
-Exod 12:15–20 requires removal of leaven, observance for seven days and assemblies on the first and seventh days. Lev 23:5–8 distinguishes Passover on the fourteenth day from the feast starting on the fifteenth. These passages supply close comparisons for the reconstructed calendar of the letter. Deut 16:1–8 sets the worship at the chosen place, an additional matter on which the letter cannot decide how the community understood or practiced the biblical instruction. [@tad] [@abd]
+Exod 12:15–20 requires removal of leaven, observance for seven days and assemblies on the first and seventh days. Lev 23:5–8 distinguishes Passover on the fourteenth day from the feast starting on the fifteenth. These passages supply close comparisons for the reconstructed calendar of the letter. Deut 16:1–8 sets the worship at the chosen place, an additional matter on which the letter cannot decide how the community understood or practiced the biblical instruction. [@tad, A4.1] [@abd, 6:755–761]
 
 ## Scholarly Issues
 
 The similarities with Exodus and Leviticus may indicate knowledge of a calendar tradition that also informs biblical priestly writings. They could also reflect customs and dates transmitted without a written Pentateuch. The fragment preserves instructions for observance. It gives no explicit citation of the source from which Hananiah drew them.
 
-The reference to the king has figured in discussions of [[persian-imperial-authorization|Persian imperial authorization]], the proposal that Persian authorities formally recognized local norms. Some interpret the message as authorization of the festival or its timing, sometimes comparing Ezra 7:12–26. Others understand the royal role as concerning a broader administrative matter or argue that the gap prevents determining its scope. The letter provides evidence of communication across levels of Persian administration, while the content and legal force of the message remain disputed. [@tad] [@cos3]
+The reference to the king has figured in discussions of [[persian-imperial-authorization|Persian imperial authorization]], the proposal that Persian authorities formally recognized local norms. Some interpret the message as authorization of the festival or its timing, sometimes comparing Ezra 7:12–26. Others understand the royal role as concerning a broader administrative matter or argue that the gap prevents determining its scope. The letter provides evidence of communication across levels of Persian administration, while the content and legal force of the message remain disputed. [@tad, A4.1] [@cos3, 3.46]
 
 ## Further Reading
 

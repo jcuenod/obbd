@@ -4,13 +4,13 @@ Several collections of love poetry survive from New Kingdom Egypt, mainly from t
 
 ## Manuscripts and Date
 
-The main collections appear in Papyrus Chester Beatty I, Papyrus Harris 500, a fragmentary Turin papyrus, and fragments of a vessel from Deir el-Medina now in Cairo. The surviving copies come from the later New Kingdom. Some preserve sequences of stanzas, and others preserve isolated poems or fragmentary groups. The date of a manuscript establishes roughly when the material was copied, while the original composition dates may be earlier [@ael].
+The main collections appear in Papyrus Chester Beatty I, Papyrus Harris 500, a fragmentary Turin papyrus, and fragments of a vessel from Deir el-Medina now in Cairo. The surviving copies come from the later New Kingdom. Some preserve sequences of stanzas, and others preserve isolated poems or fragmentary groups. The date of a manuscript establishes roughly when the material was copied, while the original composition dates may be earlier [@ael, 2:181–194].
 
 ## Contents
 
 The speakers include young men and young women, sometimes taking turns within a sequence. They describe the beloved's body, ask for a meeting, or complain about separation. Terms for sister and brother are used as familiar forms of address between lovers. In one Chester Beatty song, a man explains that after several days without seeing his beloved he is stricken, and her visit would restore him more effectively than medical care.
 
-Gardens, fruit trees, shade, and fragrance give the poets ways to describe attraction and the expectation of a meeting. Songs can also give speech to the garden's trees. Other poems place a meeting or a missed encounter at the beloved's house. The variety of settings and voices shows that the motifs could be adapted to different social and emotional situations [@ael].
+Gardens, fruit trees, shade, and fragrance give the poets ways to describe attraction and the expectation of a meeting. Songs can also give speech to the garden's trees. Other poems place a meeting or a missed encounter at the beloved's house. The variety of settings and voices shows that the motifs could be adapted to different social and emotional situations [@ael, 2:181–194].
 
 ## Significance for Biblical Studies
 

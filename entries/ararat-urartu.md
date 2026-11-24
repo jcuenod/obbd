@@ -4,7 +4,7 @@ Urartu was an Iron Age kingdom centered on Lake Van in what is now eastern Türk
 
 ## Sources
 
-Assyrian texts use forms of the name Urartu, which corresponds to Hebrew Ararat. The Urartian kings used the name Biainili for their own land. Their own building and dedicatory inscriptions often use Urartian, a language related to Hurrian and written in wedge-shaped characters adapted from Assyrian writing. Assyrian campaign accounts provide an outside view, especially for the conflicts on Urartu's southern and western borders [@rima3] [@rinap1].
+Assyrian texts use forms of the name Urartu, which corresponds to Hebrew Ararat. The Urartian kings used the name Biainili for their own land. Their own building and dedicatory inscriptions often use Urartian, a language related to Hurrian and written in wedge-shaped characters adapted from Assyrian writing. Assyrian campaign accounts provide an outside view, especially for the conflicts on Urartu's southern and western borders [@rima3, A.0.102.14 lines 26–34] [@rinap1, nos. 35, 39, 42].
 
 ## History
 
@@ -14,9 +14,9 @@ Assyria and Urartu competed for influence over smaller states between them. In 7
 
 ## In the Bible
 
-In 2 Kgs 19:37 and Isa 37:38, Sennacherib's assassins escape to the land of Ararat. Tob 1:21 retells the episode and describes their destination as the mountains of Ararat. Esarhaddon's inscriptions independently describe a struggle with his brothers after their father's death, though the biblical accounts supply their own names and details [@rinap4]. In Jer 51:27, Ararat, Minni, and Ashkenaz are summoned against Babylon. The summons presents these kingdoms as powers north of Babylonia.
+In 2 Kgs 19:37 and Isa 37:38, Sennacherib's assassins escape to the land of Ararat. Tob 1:21 retells the episode and describes their destination as the mountains of Ararat. Esarhaddon's inscriptions independently describe a struggle with his brothers after their father's death, though the biblical accounts supply their own names and details [@rinap4, no. 1]. In Jer 51:27, Ararat, Minni, and Ashkenaz are summoned against Babylon. The summons presents these kingdoms as powers north of Babylonia.
 
-Gen 8:4 refers to mountains in the plural and leaves the peak of the landing unspecified. The identification with the volcano now called Mount Ararat, or Ağrı Dağı, arose in later tradition. Another tradition associated with the Syriac Bible and the Qur'an places the landing in the region of Mount Judi. In the [[gilgamesh-epic|Epic of Gilgamesh]], the flood survivor's boat instead comes to rest on Mount Nimush [@george-gilgamesh]. The competing locations belong to the history of [[flood-traditions|flood traditions]]. The boat-shaped formation at Durupınar has been identified by geological investigation as folded rock, and it provides no archaeological evidence of Noah's boat.
+Gen 8:4 refers to mountains in the plural and leaves the peak of the landing unspecified. The identification with the volcano now called Mount Ararat, or Ağrı Dağı, arose in later tradition. Another tradition associated with the Syriac Bible and the Qur'an places the landing in the region of Mount Judi. In the [[gilgamesh-epic|Epic of Gilgamesh]], the flood survivor's boat instead comes to rest on Mount Nimush [@george-gilgamesh, 1:516, 712–13]. The competing locations belong to the history of [[flood-traditions|flood traditions]]. The boat-shaped formation at Durupınar has been identified by geological investigation as folded rock, and it provides no archaeological evidence of Noah's boat.
 
 ## Further Reading
 

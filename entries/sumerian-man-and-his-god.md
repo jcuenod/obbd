@@ -4,7 +4,7 @@ The Sumerian poem conventionally called *A Man and His God* describes a sufferer
 
 ## Manuscripts and Date
 
-The poem has been reconstructed from Old Babylonian tablets, chiefly from Nippur. Its surviving form reflects the Sumerian literary tradition maintained by scribes who copied and studied older compositions. The name *A Man and His God* is a modern descriptive title. An Akkadian work often called *A Dialogue between a Man and His God* is a separate composition, and the later Akkadian pious-sufferer poem *Ludlul bēl nēmeqi* belongs to a further stage of literature on the topic [@cos1; @anet; @lambert-bwl].
+The poem has been reconstructed from Old Babylonian tablets, chiefly from Nippur. Its surviving form reflects the Sumerian literary tradition maintained by scribes who copied and studied older compositions. The name *A Man and His God* is a modern descriptive title. An Akkadian work often called *A Dialogue between a Man and His God* is a separate composition, and the later Akkadian pious-sufferer poem *Ludlul bēl nēmeqi* belongs to a further stage of literature on the topic [@cos1, 1.179, 1.151, 1.153; @anet, 589–591; @lambert-bwl, 10–16, 21–27].
 
 ## Contents
 

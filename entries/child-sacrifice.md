@@ -4,7 +4,7 @@ Child sacrifice is the killing of children as an offering to a deity. The Hebrew
 
 ## Ancient Near Eastern Evidence
 
-At Carthage and other settlements connected with the [[phoenicians|Phoenician]] world, archaeologists use [[tophet|tophet]] for a type of precinct that contains buried urns and inscribed stones. The urns can hold cremated infants and sometimes very young animals. Ancient writers such as Diodorus describe the Carthaginians sacrificing children. Dedicatory inscriptions attest religious activity in the precincts, but their language does not explain the history of each burial. [@kai] [@abd]
+At Carthage and other settlements connected with the [[phoenicians|Phoenician]] world, archaeologists use [[tophet|tophet]] for a type of precinct that contains buried urns and inscribed stones. The urns can hold cremated infants and sometimes very young animals. Ancient writers such as Diodorus describe the Carthaginians sacrificing children. Dedicatory inscriptions attest religious activity in the precincts, but their language does not explain the history of each burial. [@kai] [@abd, 4:895–898, 5:359–361]
 
 Many scholars accept that sacrifice occurred at Carthage, while the proportion of remains that could result from sacrifice is disputed. Osteological studies, which estimate the age and development of the deceased from bones and teeth, have reached different conclusions. Some see age patterns that support infant sacrifice, while others find patterns consistent with substantial natural mortality. Neo-Assyrian contracts also contain penalty clauses threatening the burning of a child in connection with a deity. Whether such clauses describe acts carried out or extreme penalties placed in writing is debated.
 
@@ -16,7 +16,7 @@ Lev 18:21 and 20:2–5 prohibit giving offspring to [[molek|Molek]]. Jer 7:31 an
 
 ## Interpretive Significance
 
-Otto Eissfeldt argued that the consonants *mlk* in Punic inscriptions designate a type of offering and that the biblical language should be interpreted in the same way. Other scholars, including George Heider and John Day, understand Molek in the Bible as the name or title of a deity. The difference bears on how the Hebrew prohibitions are translated. Each proposal must explain the phrasing and setting of the biblical and Punic evidence. [@ddd] [@kai]
+Otto Eissfeldt argued that the consonants *mlk* in Punic inscriptions designate a type of offering and that the biblical language should be interpreted in the same way. Other scholars, including George Heider and John Day, understand Molek in the Bible as the name or title of a deity. The difference bears on how the Hebrew prohibitions are translated. Each proposal must explain the phrasing and setting of the biblical and Punic evidence. [@ddd, 581–584] [@kai]
 
 ## Further Reading
 

@@ -4,7 +4,7 @@ Khirbet Qeiyafa is a fortified site overlooking the Elah Valley in the southern 
 
 ## Location and Identification
 
-The hilltop stands above the Elah Valley near the border between the uplands of Judah and the coastal lowlands. Its position would have given inhabitants a view of movement toward the hill country and toward the area of Philistine [[gath|Gath]]. The excavators proposed identifying it with Shaaraim, a name conventionally understood to suggest two gates. The presence of two gates supports that proposal, although no inscription gives the ancient name of the site. Other identifications have been proposed. [@abd]
+The hilltop stands above the Elah Valley near the border between the uplands of Judah and the coastal lowlands. Its position would have given inhabitants a view of movement toward the hill country and toward the area of Philistine [[gath|Gath]]. The excavators proposed identifying it with Shaaraim, a name conventionally understood to suggest two gates. The presence of two gates supports that proposal, although no inscription gives the ancient name of the site. Other identifications have been proposed. [@levin-qeiyafa, 73–76, 78–80]
 
 ## Archaeological History
 
@@ -14,9 +14,9 @@ Excavators interpret several rooms as settings for worship, based on objects suc
 
 ## Significance for Biblical Studies
 
-1 Sam 17:1–3 sets the encounter of Israelite and Philistine armies near the Elah Valley. The area and its routes give the story a recognizable setting. 1 Sam 17:52 mentions Shaaraim in the description of the Philistines’ flight, and Josh 15:36 lists it among Judah’s lowland towns. The proposal that these references point to Qeiyafa remains disputed. Neither the settlement nor its finds can independently attest the battle. [@abd]
+1 Sam 17:1–3 sets the encounter of Israelite and Philistine armies near the Elah Valley. The area and its routes give the story a recognizable setting. 1 Sam 17:52 mentions Shaaraim in the description of the Philistines’ flight, and Josh 15:36 lists it among Judah’s lowland towns. The proposal that these references point to Qeiyafa remains disputed. Neither the settlement nor its finds can independently attest the battle. [@levin-qeiyafa, 76–79]
 
-Recessed frames on a stone shrine model from the site have been compared with architectural features in 1 Kgs 6:4–5. The resemblance offers a proposal for understanding difficult language in the account of Solomon’s temple. The model’s scale and use differ from the building described in Kings. Qeiyafa establishes that a defended center existed in the region early in the Iron Age. The extent and nature of the authority behind it remain part of the [[low-chronology-debate|debate over Iron Age chronology and political organization]]. [@hurowitz-exalted-house] [@abd]
+Recessed frames on a stone shrine model from the site have been compared with architectural features in 1 Kgs 6:31, 33. The resemblance offers a proposal for understanding difficult language in the account of Solomon’s temple. The model’s scale and use differ from the building described in Kings. Qeiyafa establishes that a defended center existed in the region early in the Iron Age. The extent and nature of the authority behind it remain part of the [[low-chronology-debate|debate over Iron Age chronology and political organization]]. [@garfinkel-mumcuoglu-doorframes, 144–149, 153–155] [@levin-qeiyafa, 73–76]
 
 ## Further Reading
 

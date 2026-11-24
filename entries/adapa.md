@@ -4,15 +4,15 @@ The Adapa myth is a Mesopotamian story about a wise man of Eridu, a city in sout
 
 ## Manuscripts and Date
 
-The Akkadian manuscripts are clay tablets written in cuneiform, a script made with wedge-shaped impressions. The largest surviving manuscript comes from Amarna, the Egyptian capital associated with the [[amarna-letters]]. Unlike the diplomatic letters, this tablet preserves a literary composition used in the study of Akkadian. It belongs to the fourteenth century BCE; later fragments come from Ashurbanipal's library at Nineveh in the seventh century BCE. These witnesses preserve different portions and forms of the story, not a single intact manuscript. [@anet]
+The Akkadian manuscripts are clay tablets written in cuneiform, a script made with wedge-shaped impressions. The largest surviving manuscript comes from Amarna, the Egyptian capital associated with the [[amarna-letters]]. Unlike the diplomatic letters, this tablet preserves a literary composition used in the study of Akkadian. It belongs to the fourteenth century BCE; later fragments come from Ashurbanipal's library at Nineveh in the seventh century BCE. These witnesses preserve different portions and forms of the story, not a single intact manuscript. [@anet, 101–103]
 
 A Sumerian Adapa composition survives from the Old Babylonian period, in the early second millennium BCE. This establishes an earlier Adapa tradition but does not establish when the surviving Akkadian version was composed. The date of a copy must therefore be distinguished from the date of the story it transmits. Shlomo Izre'el's 2001 edition assembles and analyzes the Akkadian fragments, but it predates publication of the Sumerian version.
 
 ## Contents
 
-Ea, the god of wisdom, gives Adapa exceptional understanding but not eternal life. Adapa serves Ea at Eridu and catches fish as part of his duties. When the South Wind overturns his boat, Adapa breaks its wing, preventing it from blowing. Anu, the god of heaven, summons him to explain this disruption. [@anet]
+Ea, the god of wisdom, gives Adapa exceptional understanding but not eternal life. Adapa serves Ea at Eridu and catches fish as part of his duties. When the South Wind overturns his boat, Adapa breaks its wing, preventing it from blowing. Anu, the god of heaven, summons him to explain this disruption. [@anet, 101–103]
 
-Ea prepares Adapa for his appearance in heaven. He tells him how to win the sympathy of the divine gatekeepers, Dumuzi and Gishzida, and warns him that the food and water offered there will bring death. Adapa follows these instructions, refusing what Anu offers as life-giving food and water while accepting clothing and oil. When questioned, he explains that Ea instructed him to refuse. The contrast between wisdom and lasting life is central to the familiar interpretation of this episode. [@cos1]
+Ea prepares Adapa for his appearance in heaven. He tells him how to win the sympathy of the divine gatekeepers, Dumuzi and Gishzida, and warns him that the food and water offered there will bring death. Adapa follows these instructions, refusing what Anu offers as life-giving food and water while accepting clothing and oil. When questioned, he explains that Ea instructed him to refuse. The contrast between wisdom and lasting life is central to the familiar interpretation of this episode. [@cos1, 1.129]
 
 ## Significance for Biblical Studies
 
@@ -24,7 +24,7 @@ Gen 5:21-24 supplies a still more limited comparison. It says that Enoch walks w
 
 ## Scholarly Issues
 
-The traditional reading treats Adapa's refusal as a missed opportunity for immortality. Questions remain about Ea's intentions and about whether the story explains mortality for humanity generally or chiefly defines Adapa's exceptional position. Fragmentary witnesses and differences between versions discourage reconstructing one uniform theological message. Adapa's movement into heaven also concerns the boundary between human and divine realms, a wider subject explored in Mesopotamian accounts of the cosmos. [@horowitz-cosmic-geography]
+The traditional reading treats Adapa's refusal as a missed opportunity for immortality. Questions remain about Ea's intentions and about whether the story explains mortality for humanity generally or chiefly defines Adapa's exceptional position. Fragmentary witnesses and differences between versions discourage reconstructing one uniform theological message. Adapa's movement into heaven also concerns the boundary between human and divine realms, a wider subject explored in Mesopotamian accounts of the cosmos. [@horowitz-cosmic-geography, 64–66]
 
 Popular comparisons sometimes connect the names Adam and Adapa. Similar sound alone does not establish a linguistic relationship, and the proposed derivation is not an accepted explanation of either name. <!-- VERIFY: confirm the assessment of the proposed Adam-Adapa etymology against specialist linguistic scholarship. --> The narrative comparison therefore does not depend on a name connection.
 

@@ -4,9 +4,9 @@ The Hebrew word *bāmâ*, traditionally translated “high place,” refers in m
 
 ## Archaeological Evidence
 
-On the ninth-century BCE [[mesha-stele|Mesha Stele]], King Mesha says that he made a *bmt* for Chemosh. This is the clearest comparison for the Hebrew worship term in a neighboring language. The wording identifies a dedication, while the stone does not specify the form of the structure or make its height the defining feature. Hebrew and related usages have led some scholars to connect the term with an elevated back or ridge, and others stress the function of the place as a sanctuary [@cos2] [@kai].
+On the ninth-century BCE [[mesha-stele|Mesha Stele]], King Mesha says that he made a *bmt* for Chemosh. This is the clearest comparison for the Hebrew worship term in a neighboring language. The wording identifies a dedication, while the stone does not specify the form of the structure or make its height the defining feature. Hebrew and related usages have led some scholars to connect the term with an elevated back or ridge, and others stress the function of the place as a sanctuary [@cos2, 2.23] [@kai, no. 181].
 
-The excavated precinct at [[dan|Tel Dan]] includes a large stone podium, altar remains, and associated structures. The excavators identified it as a high place. That is a plausible interpretation of the complex and an example of what a substantial local sanctuary could look like. Individual features such as [[altars]] and [[massebot|standing stones]] appear in a variety of sacred contexts, and their presence alone cannot identify an excavated site with the biblical term [@neaehl] [@mazar-archaeology].
+The excavated precinct at [[dan|Tel Dan]] includes a large stone podium, altar remains, and associated structures. The excavators identified it as a high place. That is a plausible interpretation of the complex and an example of what a substantial local sanctuary could look like. Individual features such as [[altars]] and [[massebot|standing stones]] appear in a variety of sacred contexts, and their presence alone cannot identify an excavated site with the biblical term [@neaehl, 1:328–330] [@mazar-archaeology, 492–501].
 
 ## In the Bible
 

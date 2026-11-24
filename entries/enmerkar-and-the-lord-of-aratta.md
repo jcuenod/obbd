@@ -4,7 +4,7 @@
 
 ## Manuscripts and Date
 
-The surviving copies come principally from the Old Babylonian period. The poem may have taken shape earlier, possibly in the late third millennium BCE, though its original date is uncertain. Its hero Enmerkar appears among the rulers of Uruk in the [[sumerian-king-list|Sumerian King List]]. The presence of his name in both works reflects traditions about early kingship, while the setting and events of the poem belong to a literary account. [@cos1, 1.170] [@glassner-chronicles]
+The surviving copies come principally from the Old Babylonian period. The poem may have taken shape earlier, possibly in the late third millennium BCE, though its original date is uncertain. Its hero Enmerkar appears among the rulers of Uruk in the [[sumerian-king-list|Sumerian King List]]. The presence of his name in both works reflects traditions about early kingship, while the setting and events of the poem belong to a literary account. [@cos1, 1.170] [@glassner-chronicles, no. 1, 117–126]
 
 ## Contents
 

@@ -12,7 +12,7 @@ The longer Sumerian text presents Shuruppak as the son of Ubara-Tutu and as fath
 
 ## Significance for Biblical Studies
 
-Prov 1:8 asks the pupil to hear the father’s instruction and attend to the mother’s teaching. Prov 4:1–4 places the speaker in a chain of transmission from one generation to the next. Shuruppak’s advice against vouching for others resembles the counsel about assuming liability for another’s debt in Prov 6:1–5. Prov 6:24–29 and the Sumerian warnings about misconduct with a married woman share concern about the consequences of sexual behavior, with differing motives and imagery. Comparable instruction frames appear in Egyptian works such as the [[instruction-of-ptahhotep|Instruction of Ptahhotep]] and in the Aramaic tradition of [[ahiqar|Ahiqar]]. [@cos1, 1.176] [@tad] [@abd]
+Prov 1:8 asks the pupil to hear the father’s instruction and attend to the mother’s teaching. Prov 4:1–4 places the speaker in a chain of transmission from one generation to the next. Shuruppak’s advice against vouching for others resembles the counsel about assuming liability for another’s debt in Prov 6:1–5. Prov 6:24–29 and the Sumerian warnings about misconduct with a married woman share concern about the consequences of sexual behavior, with differing motives and imagery. Comparable instruction frames appear in Egyptian works such as the [[instruction-of-ptahhotep|Instruction of Ptahhotep]] and in the Aramaic tradition of [[ahiqar|Ahiqar]]. [@cos1, 1.176] [@tad, C1.1] [@abd, 6:920–932]
 
 ## Scholarly Issues
 

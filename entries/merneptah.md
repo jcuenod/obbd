@@ -4,7 +4,7 @@ Merneptah succeeded Ramesses II near the end of Egypt's Nineteenth Dynasty. In t
 
 ## Extrabiblical Sources
 
-Merneptah, a son and successor of [[ramesses-ii|Ramesses II]], is known from Egyptian monuments that include accounts of his conflict with Libyan forces and groups commonly classified among the [[sea-peoples|Sea Peoples]]. The Great Karnak Inscription gives the most extensive account of the Libyan war. The [[merneptah-stele|victory stele from Thebes]] gives a poetic celebration and concludes with claims about places and peoples in Canaan, including Gezer and Israel [@ael] [@anet] [@cos2].
+Merneptah, a son and successor of [[ramesses-ii|Ramesses II]], is known from Egyptian monuments that include accounts of his conflict with Libyan forces and groups commonly classified among the [[sea-peoples|Sea Peoples]]. The Great Karnak Inscription gives the most extensive account of the Libyan war. The [[merneptah-stele|victory stele from Thebes]] gives a poetic celebration and concludes with claims about places and peoples in Canaan, including Gezer and Israel [@ael, 2:73–78] [@anet, 376–378] [@cos2, 2.6].
 
 The epithet “subduer of Gezer” occurs in a text at Amada. It gives evidence that Merneptah's court associated the king with that city beyond the stele's brief closing lines. Frank Yurco also reassigned a group of Karnak reliefs to Merneptah and interpreted them as evidence of a Canaanite campaign. The attribution and the reading of individual figures have been challenged.
 

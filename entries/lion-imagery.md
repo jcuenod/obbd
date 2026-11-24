@@ -4,7 +4,7 @@ Lions were a real danger to people and flocks in the ancient Levant and a famili
 
 ## Ancient Near Eastern Evidence
 
-Lions occur beside entrances and thrones in ancient Near Eastern art. They can guard a boundary, display royal authority, or identify a deity's power. A lion motif also appears on the [[seal-of-shema|seal associated with Shema]], illustrating the animal's place in royal material culture. The [[lion-hunt-of-ashurbanipal|Assyrian royal hunt reliefs]] represent another use of the animal. The controlled defeat of a dangerous beast displays the king's strength and can make a claim about his ability to maintain order [@anep] [@keel-symbolism].
+Lions occur beside entrances and thrones in ancient Near Eastern art. They can guard a boundary, display royal authority, or identify a deity's power. A lion motif also appears on the [[seal-of-shema|seal associated with Shema]], illustrating the animal's place in royal material culture. The [[lion-hunt-of-ashurbanipal|Assyrian royal hunt reliefs]] represent another use of the animal. The controlled defeat of a dangerous beast displays the king's strength and can make a claim about his ability to maintain order [@anep, figs. 125, 184, 276, 626] [@keel-symbolism, 89–94, 281–283].
 
 Brent Strawn's comparative study emphasizes the animal's flexibility as an image. A lion can represent the king as a formidable ruler or the threat a king defeats. Retaining both sides of the image makes it easier to understand how biblical authors apply it to different subjects.
 

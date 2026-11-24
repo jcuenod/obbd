@@ -4,15 +4,15 @@ The Admonitions of Ipuwer is an Egyptian literary dialogue that portrays a count
 
 ## Manuscripts and Date
 
-The sole surviving manuscript is Papyrus Leiden I 344 recto, now in the Rijksmuseum van Oudheden in Leiden. Recto identifies the front surface of the papyrus sheet. The text is written in Middle Egyptian, a historical form of the Egyptian language, using hieratic, a handwriting derived from hieroglyphs. Both the beginning and the end are missing, and damage also interrupts the surviving text. [@ael]
+The sole surviving manuscript is Papyrus Leiden I 344 recto, now in the Rijksmuseum van Oudheden in Leiden. Recto identifies the front surface of the papyrus sheet. The text is written in Middle Egyptian, a historical form of the Egyptian language, using hieratic, a handwriting derived from hieroglyphs. Both the beginning and the end are missing, and damage also interrupts the surviving text. [@ael, 1:149–162]
 
-The Nineteenth Dynasty copy is much later than the composition usually proposed by modern scholars. A late Middle Kingdom setting, broadly within the early second millennium BCE, is favored in influential literary studies, although precise dating remains disputed. Older scholarship often read the work as a description of the First Intermediate Period, the era of divided rule after the Old Kingdom. Its imagery does not securely identify one historical crisis, and the manuscript date alone cannot date the events imagined by its speaker. [@ael]
+The Nineteenth Dynasty copy is much later than the composition usually proposed by modern scholars. A late Middle Kingdom setting, broadly within the early second millennium BCE, is favored in influential literary studies, although precise dating remains disputed. Older scholarship often read the work as a description of the First Intermediate Period, the era of divided rule after the Old Kingdom. Its imagery does not securely identify one historical crisis, and the manuscript date alone cannot date the events imagined by its speaker. [@ael, 1:149–162]
 
 ## Contents
 
-Ipuwer describes a world in which customary expectations no longer hold. Poor people possess goods once reserved for the wealthy, while formerly prosperous people lose their position. Violence, disrupted religious life, and foreigners in Egypt accompany these reversals. Repeated descriptions accumulate an impression of comprehensive disorder rather than a dated sequence of events. [@anet]
+Ipuwer describes a world in which customary expectations no longer hold. Poor people possess goods once reserved for the wealthy, while formerly prosperous people lose their position. Violence, disrupted religious life, and foreigners in Egypt accompany these reversals. Repeated descriptions accumulate an impression of comprehensive disorder rather than a dated sequence of events. [@anet, 441–444]
 
-The surviving dialogue also challenges the figure addressed as the Lord of All. Ipuwer demands action and recalls conditions associated with a properly ordered country. The work shares a recurring literary theme of national distress with [[prophecy-of-neferti]], though its damaged ending does not preserve an equivalent resolution. It belongs within the wider reflective traditions discussed in [[ane-wisdom-literature]]. [@ael]
+The surviving dialogue also challenges the figure addressed as the Lord of All. Ipuwer demands action and recalls conditions associated with a properly ordered country. The work shares a recurring literary theme of national distress with [[prophecy-of-neferti]], though its damaged ending does not preserve an equivalent resolution. It belongs within the wider reflective traditions discussed in [[ane-wisdom-literature]]. [@ael, 1:149–162]
 
 ## Significance for Biblical Studies
 
@@ -26,7 +26,7 @@ Exod 7:20-21 narrates the river becoming blood after Moses and Aaron act on God'
 
 The identification with the exodus was popularized by Immanuel Velikovsky in Ages in Chaos (1952). <!-- VERIFY: independently confirm the publication details and role of Ages in Chaos in popularizing the Ipuwer-exodus identification. --> It continues in popular books and documentaries but has not gained mainstream scholarly acceptance. Ipuwer describes foreign arrivals, not the departure of an identifiable Israelite group, and its disasters are organized as literary complaints. The commonly proposed composition date precedes conventional exodus chronologies, but neither its disputed dating nor isolated similarities establish a historical identification.
 
-Interpretations of the Lord of All differ between a creator deity and a king responsible for maintaining order. The former reading makes the complaint relevant to theodicy, reflection on divine justice in the presence of suffering; the latter emphasizes political responsibility. Because the opening and ending are lost, the dialogue's framing and final response cannot be reconstructed with certainty. Neither interpretation turns the poem into a straightforward eyewitness report. [@cos1]
+Interpretations of the Lord of All differ between a creator deity and a king responsible for maintaining order. The former reading makes the complaint relevant to theodicy, reflection on divine justice in the presence of suffering; the latter emphasizes political responsibility. Because the opening and ending are lost, the dialogue's framing and final response cannot be reconstructed with certainty. Neither interpretation turns the poem into a straightforward eyewitness report. [@cos1, 1.42]
 
 ## Further Reading
 

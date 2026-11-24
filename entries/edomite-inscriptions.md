@@ -4,13 +4,13 @@ Edomite inscriptions from the Iron Age survive mainly on seals, impressions, and
 
 ## Description and Provenance
 
-The corpus includes brief inscriptions on seals, stamped jar marks, and [[ostraca|ostraca]], pieces of pottery reused for writing. It is concentrated in the late Iron Age. Some examples use forms that can be distinguished from contemporary Hebrew, with features associated with Aramaic cursive writing. Other examples are short or damaged, and attribution can depend on the letter forms, language, names, and place of recovery taken together [@ahituv-echoes] [@avigad-sass-wsss].
+The corpus includes brief inscriptions on seals, stamped jar marks, and [[ostraca|ostraca]], pieces of pottery reused for writing. It is concentrated in the late Iron Age. Some examples use forms that can be distinguished from contemporary Hebrew, with features associated with Aramaic cursive writing. Other examples are short or damaged, and attribution can depend on the letter forms, language, names, and place of recovery taken together [@ahituv-echoes, 351–356] [@avigad-sass-wsss, 387–394, nos. 1048–1057].
 
 ## Contents
 
-At Umm el-Biyara in the region of [[petra-and-sela|Petra]], a clay seal impression preserves part of a name and title restored as Qos-gabar, king of Edom. The restoration is supported by the records of Esarhaddon and Ashurbanipal, which name a king of Edom as Qaus-gabri. Impressions from Tell el-Kheleifeh near the Gulf of Aqaba name Qosʿanal as a servant of the king. Finds from [[bozrah|Buseirah]] include ostraca and seals, and inscribed objects also came from the shrine at Ḥorvat Qitmit in the eastern Negev [@rinap4] [@avigad-sass-wsss].
+At Umm el-Biyara in the region of [[petra-and-sela|Petra]], a clay seal impression preserves part of a name and title restored as Qos-gabar, king of Edom. The restoration is supported by the records of Esarhaddon and Ashurbanipal, which name a king of Edom as Qaus-gabri. Impressions from Tell el-Kheleifeh near the Gulf of Aqaba name Qosʿanal as a servant of the king. Finds from [[bozrah|Buseirah]] include ostraca and seals, and inscribed objects also came from the shrine at Ḥorvat Qitmit in the eastern Negev [@rinap4, no. 1] [@avigad-sass-wsss, 387–393, nos. 1048, 1050–1051].
 
-A letter from Ḥorvat ʿUza, generally dated around 600 BCE, blesses its recipient by [[qos|Qos]]. This is important because the divine name appears independently in the blessing. It occurs more often as part of personal names, as in Qos-gabar and Qosʿanal. The letter provides evidence of someone using an Edomite writing tradition and invoking Qos at a site that also yielded Hebrew letters [@ahituv-echoes].
+A letter from Ḥorvat ʿUza, generally dated around 600 BCE, blesses its recipient by [[qos|Qos]]. This is important because the divine name appears independently in the blessing. It occurs more often as part of personal names, as in Qos-gabar and Qosʿanal. The letter provides evidence of someone using an Edomite writing tradition and invoking Qos at a site that also yielded Hebrew letters [@ahituv-echoes, 351–356].
 
 ## Significance for Biblical Studies
 

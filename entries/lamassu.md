@@ -4,7 +4,7 @@ Lamassu is a common name for the enormous stone guardians that flanked palace ga
 
 ## Archaeological Evidence
 
-Stone guardians survive from the palaces at [[nimrud|Nimrud]], Khorsabad, and Nineveh. Many were carved with five legs. Seen head-on, the figure stands on two legs; seen from the side, four legs give it the appearance of striding. The extra leg makes the figure read differently as a visitor approaches the doorway and then passes alongside it [@anep].
+Stone guardians survive from the palaces at [[nimrud|Nimrud]], Khorsabad, and Nineveh. Many were carved with five legs. Seen head-on, the figure stands on two legs; seen from the side, four legs give it the appearance of striding. The extra leg makes the figure read differently as a visitor approaches the doorway and then passes alongside it [@anep, fig. 646].
 
 The paired figures frame a passage into royal space, and their size makes that passage imposing. Scholars understand their placement and combined features as signs of supernatural protection. Assyrian palaces also used [[apkallu-reliefs|images of protective sages]], a distinct group of figures that need not have the same form as these doorway guardians. At the Persian capital of [[persepolis|Persepolis]], human-headed winged bulls at the Gate of All Nations show that related imagery continued in a later imperial setting.
 
@@ -12,7 +12,7 @@ Some original sculptures had already been moved to museums before the Islamic St
 
 ## In the Bible
 
-In Gen 3:24, [[cherubim|cherubim]] guard the way to the tree of life, a role comparable to that of guardians at an entrance. In 1 Kgs 6:23–28, two large winged figures made of wood and overlaid with gold stand in the inner sanctuary. The text describes their wings and position but does not give them bull bodies. The usual comparison for their appearance is the Levantine winged sphinx, a winged lion with a human head, as seen on the Megiddo ivories and the [[ahiram-sarcophagus|Ahiram sarcophagus]] [@keel-symbolism; @keel-uehlinger-ggig]. These images help explain the [[cherub-throne|association with thrones]], but they do not settle the form of every biblical cherub.
+In Gen 3:24, [[cherubim|cherubim]] guard the way to the tree of life, a role comparable to that of guardians at an entrance. In 1 Kgs 6:23–28, two large winged figures made of wood and overlaid with gold stand in the inner sanctuary. The text describes their wings and position but does not give them bull bodies. The usual comparison for their appearance is the Levantine winged sphinx, a winged lion with a human head, as seen on the Megiddo ivories and the [[ahiram-sarcophagus|Ahiram sarcophagus]] [@keel-symbolism, 168–171; @keel-uehlinger-ggig, 155–170]. These images help explain the [[cherub-throne|association with thrones]], but they do not settle the form of every biblical cherub.
 
 The lament over the king of Tyre also uses the image of a protective cherub on God's mountain (Ezek 28:14, 16), though translations differ on whether the king is the cherub or is placed with one. A proposed link between Hebrew *kerub* ("cherub") and Akkadian *karibu* ("one who blesses or prays") is debated. <!-- VERIFY: the Akkadian form and gloss and the current assessment of the proposed derivation --> Even if the words are related, that would not show that Hebrew writers pictured the same creature as the Assyrian sculptors did.
 

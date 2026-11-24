@@ -4,13 +4,13 @@ Memphis was a major Egyptian city near the head of the Nile Delta, at and around
 
 ## Location and Identification
 
-Memphis lay south of modern Cairo near the division of the Nile into Delta branches. The English name comes through Greek from an Egyptian name conventionally transliterated *Mn-nfr*. Most Hebrew references call it *Nōp*, and Hos 9:6 has the form *Mōp*. The identification rests on the history of these names as well as the position of the ancient city [@abd].
+Memphis lay south of modern Cairo near the division of the Nile into Delta branches. The English name comes through Greek from an Egyptian name conventionally transliterated *Mn-nfr*. Most Hebrew references call it *Nōp*, and Hos 9:6 has the form *Mōp*. The identification rests on the history of these names as well as the position of the ancient city [@abd, 4:689–691].
 
 ## Archaeological History
 
-The settlement and its extensive cemeteries preserve remains from many periods, although the Nile plain and later occupation complicate recovery of the city's changing layout. Memphis was a center of the cult of Ptah. The [[shabaka-stone|Shabaka Stone]] preserves a theological composition that gives him a central role in creation. Royal building and temple activity made Memphis a center of authority well beyond any single dynasty [@ael].
+The settlement and its extensive cemeteries preserve remains from many periods, although the Nile plain and later occupation complicate recovery of the city's changing layout. Memphis was a center of the cult of Ptah. The [[shabaka-stone|Shabaka Stone]] preserves a theological composition that gives him a central role in creation. Royal building and temple activity made Memphis a center of authority well beyond any single dynasty [@ael, 1:51–57].
 
-[[esarhaddon|Esarhaddon]] describes his capture of Memphis in 671 BCE during his campaign against Egypt. The city retained its administrative importance in later periods, including under the Achaemenids. Material and written evidence points to communities with connections outside Egypt, including Phoenicians and Carians. Jeremiah provides literary evidence that Judeans also lived in the city. Such communities belong to different periods and do not all depend on the same kind of evidence [@rinap4] [@tad].
+[[esarhaddon|Esarhaddon]] describes his capture of Memphis in 671 BCE during his campaign against Egypt. The city retained its administrative importance in later periods, including under the Achaemenids. Material and written evidence points to communities with connections outside Egypt, including Phoenicians and Carians. Jeremiah provides literary evidence that Judeans also lived in the city. Such communities belong to different periods and do not all depend on the same kind of evidence [@rinap4, no. 98] [@tad].
 
 ## Significance for Biblical Studies
 

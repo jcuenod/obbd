@@ -4,15 +4,15 @@ Hebrew *tĕhôm* means “deep” and commonly denotes a great body of water, in
 
 ## Ancient Near Eastern Evidence
 
-Akkadian *tiāmtu* and *tâmtu* denote the sea. Tiamat in [*Enūma eliš*](enuma-elish.md) is a personified primeval sea, paired with Apsu at the beginning of the epic. She becomes an opponent of the younger gods and is defeated by Marduk, who uses parts of her body to construct the ordered cosmos. In other Mesopotamian texts, *apsû* can refer to subterranean fresh water and to the domain of the god Ea. The correspondence between a particular body of water and a named figure varies by composition [@lambert-bcm; @horowitz-cosmic-geography].
+Akkadian *tiāmtu* and *tâmtu* denote the sea. Tiamat in [*Enūma eliš*](enuma-elish.md) is a personified primeval sea, paired with Apsu at the beginning of the epic. She becomes an opponent of the younger gods and is defeated by Marduk, who uses parts of her body to construct the ordered cosmos. In other Mesopotamian texts, *apsû* can refer to subterranean fresh water and to the domain of the god Ea. The correspondence between a particular body of water and a named figure varies by composition [@lambert-bcm, 45–60; @horowitz-cosmic-geography, 107–112].
 
-Ugaritic also provides related vocabulary, including plural forms for deep waters. The comparisons support a broader Semitic lexical background. They give little reason to derive Hebrew *tĕhôm* specifically from the proper name Tiamat. Narrative parallels between the biblical and Babylonian texts require assessment apart from the linguistic relationship [@ktu3].
+Ugaritic also provides related vocabulary, including plural forms for deep waters. The comparisons support a broader Semitic lexical background. They give little reason to derive Hebrew *tĕhôm* specifically from the proper name Tiamat. Narrative parallels between the biblical and Babylonian texts require assessment apart from the linguistic relationship [@ktu3, 1.2 III 4–5, 1.3 III 24–26, 1.3 V 6–7].
 
 ## In the Hebrew Bible
 
 In Gen 1:2, darkness is over the surface of the deep, and God's wind or spirit moves over the waters. The deep neither speaks nor fights in the narrative. In Gen 7:11 its fountains break open as the windows of heaven open, and their closure helps end the flood (Gen 8:2). These passages portray waters above and below participating in the undoing and reestablishment of habitable order.
 
-Jacob's blessing mentions the deep that lies below as a source of abundance (Gen 49:25). In Prov 8:27–28, Wisdom recalls God's placement of a boundary at the surface of the deep and establishment of its fountains. Isa 51:10 places the drying of the deep in a poetic recollection that brings together the defeat of cosmic enemies and the passage of the redeemed through the sea. In Hab 3:10 the deep raises its voice and hands as God advances. The forms of personification vary with the register of each passage [@ddd; @day-dragon].
+Jacob's blessing mentions the deep that lies below as a source of abundance (Gen 49:25). In Prov 8:27–28, Wisdom recalls God's placement of a boundary at the surface of the deep and establishment of its fountains. Isa 51:10 places the drying of the deep in a poetic recollection that brings together the defeat of cosmic enemies and the passage of the redeemed through the sea. In Hab 3:10 the deep raises its voice and hands as God advances. The forms of personification vary with the register of each passage [@ddd, 837–840; @day-dragon, 56–57].
 
 ## Interpretive Significance
 

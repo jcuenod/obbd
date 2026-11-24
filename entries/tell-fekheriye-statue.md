@@ -4,11 +4,11 @@ A life-size basalt statue found at Tell Fekheriye in northeastern Syria bears Ak
 
 ## Description and Provenance
 
-The statue was found by chance in 1979 at Tell Fekheriye near the sources of the Khabur, commonly identified with ancient Sikan. Guzan lay nearby at Tell Halaf. The National Museum of Damascus catalogues the monument as inventory 7439. It stands approximately 1.65 meters high and portrays a standing man in a long garment. Cuneiform and alphabetic text are distributed across its surfaces. Since the discovery did not occur in a controlled excavation, its original installation is inferred from the dedication and regional topography [@kai; @rima2].
+The statue was found by chance in 1979 at Tell Fekheriye near the sources of the Khabur, commonly identified with ancient Sikan. Guzan lay nearby at Tell Halaf. The National Museum of Damascus catalogues the monument as inventory 7439. It stands approximately 1.65 meters high and portrays a standing man in a long garment. Cuneiform and alphabetic text are distributed across its surfaces. Since the discovery did not occur in a controlled excavation, its original installation is inferred from the dedication and regional topography [@kai, no. 309; @cos2, 2.34].
 
 ## Contents
 
-The Akkadian text has thirty-eight lines, and the Aramaic has twenty-three. Both name the ruler, address Hadad, and ask that the dedication endure. The Aramaic text uses *dmwt* at the opening for the ruler's likeness and *ṣlm* for the statue in its later section (KAI 309, lines 1 and 12). Blessing includes the wellbeing of the ruler and his household. The closing curses imagine crop failure, inadequate nourishment, and other losses if anyone removes the dedicatory name. Differences in titles are noteworthy. Hadad-yithʿi is described in Akkadian in terms of governorship and in Aramaic as king of Guzan [@kai; @rima2].
+The Akkadian text has thirty-eight lines, and the Aramaic has twenty-three. Both name the ruler, address Hadad, and ask that the dedication endure. The Aramaic text uses *dmwt* at the opening for the ruler's likeness and *ṣlm* for the statue in its later section (KAI 309, lines 1 and 12). Blessing includes the wellbeing of the ruler and his household. The closing curses imagine crop failure, inadequate nourishment, and other losses if anyone removes the dedicatory name. Differences in titles are noteworthy. Hadad-yithʿi is described in Akkadian in terms of governorship and in Aramaic as king of Guzan [@kai, no. 309; @cos2, 2.34].
 
 ## Significance for Biblical Studies
 

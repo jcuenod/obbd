@@ -6,7 +6,7 @@ The first major Judean revolt against Rome began in 66 CE and led to the destruc
 
 [[josephus|Josephus]] describes the revolt in the Jewish War and discusses his own role as a Galilean commander in his Life. His account gives extensive detail, but his position changed during the war, and he wrote under the patronage of the victorious ruling family. Roman histories by Tacitus and Cassius Dio supply different perspectives, often with greater interest in the conquest and the success of the Flavian emperors.
 
-Evidence from Yodefat, also called Jotapata, and Gamla places some of Josephus's accounts in identifiable archaeological settings. The Burnt House in Jerusalem and fallen masonry beside the temple platform attest the destruction in the city. Roman siege works survive at [[masada|Masada]]. Coins struck by the [[jewish-revolt-coinage|rebel authorities]] and the [[judaea-capta-coins|Roman victors]], and images on the [[arch-of-titus|Arch of Titus]], express the claims of the opposing sides through different symbols [@neaehl].
+Evidence from Yodefat, also called Jotapata, and Gamla places some of Josephus's accounts in identifiable archaeological settings. The Burnt House in Jerusalem and fallen masonry beside the temple platform attest the destruction in the city. Roman siege works survive at [[masada|Masada]]. Coins struck by the [[jewish-revolt-coinage|rebel authorities]] and the [[judaea-capta-coins|Roman victors]], and images on the [[arch-of-titus|Arch of Titus]], express the claims of the opposing sides through different symbols [@neaehl, 2:719–720].
 
 ## Reconstruction
 

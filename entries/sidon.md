@@ -4,13 +4,13 @@ Sidon was a major port on the coast of modern Lebanon. Excavations document occu
 
 ## Location and Identification
 
-Ancient Sidon lay at modern Saida on the Mediterranean coast, north of [[tyre|Tyre]]. Its name survives in the modern city, and inscriptions and ancient itineraries support the identification. Its position made it a center of coastal travel and trade. “Sidonians” could designate inhabitants of the city and in some literary settings seems to refer more generally to [[phoenicians|Phoenicians]] [@kai] [@abd].
+Ancient Sidon lay at modern Saida on the Mediterranean coast, north of [[tyre|Tyre]]. Its name survives in the modern city, and inscriptions and ancient itineraries support the identification. Its position made it a center of coastal travel and trade. “Sidonians” could designate inhabitants of the city and in some literary settings seems to refer more generally to [[phoenicians|Phoenicians]] [@kai, nos. 13–14] [@abd, 6:17–19].
 
 ## Archaeological History
 
-Excavations at the College Site under Claude Doumet-Serhal uncovered Bronze Age burials and evidence of settlement and ritual activity. The Bronze Age results help show the depth of occupation beneath the later city. In 701 BCE, Sennacherib claimed that Lulî of Sidon fled before him. Esarhaddon later destroyed Sidon around 677 BCE and founded a new Assyrian administrative center called Kār-Esarhaddon. His report celebrates the victory in Assyrian royal terms [@rinap3-1] [@rinap4].
+Excavations at the College Site under Claude Doumet-Serhal uncovered Bronze Age burials and evidence of settlement and ritual activity. The Bronze Age results help show the depth of occupation beneath the later city. In 701 BCE, Sennacherib claimed that Lulî of Sidon fled before him. Esarhaddon later destroyed Sidon around 677 BCE and founded a new Assyrian administrative center called Kār-Esarhaddon. His report celebrates the victory in Assyrian royal terms [@rinap3-1, no. 22 ii 37–49] [@rinap4, no. 1].
 
-Persian-period Sidon had a royal dynasty known from Phoenician inscriptions, including those on the sarcophagi of Tabnit and [[eshmunazar-sarcophagus|Eshmunazar II]]. Inscriptions of Bodashtart at the sanctuary of Eshmun at Bustan esh-Sheikh document further building by Sidonian kings. The inscriptions show rulers restoring sanctuaries and claiming close relations with their gods and patrons [@kai] [@cos2].
+Persian-period Sidon had a royal dynasty known from Phoenician inscriptions, including those on the sarcophagi of Tabnit and [[eshmunazar-sarcophagus|Eshmunazar II]]. Inscriptions of Bodashtart at the sanctuary of Eshmun at Bustan esh-Sheikh document further building by Sidonian kings. The inscriptions show rulers restoring sanctuaries and claiming close relations with their gods and patrons [@kai, nos. 13–14] [@cos2, 2.56–2.57].
 
 ## Significance for Biblical Studies
 

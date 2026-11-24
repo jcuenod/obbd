@@ -4,7 +4,7 @@ The Stele of the Vultures is a fragmentary limestone monument of Eannatum, ruler
 
 ## Description and Provenance
 
-Fragments were recovered in excavations at Tello, ancient Girsu, beginning in 1881. The Louvre holds the reconstructed remains. The two carved faces contain scenes arranged in horizontal bands, or registers. Some portions are missing and their relationships are open to reconstruction. The modern name refers to the birds shown carrying parts of bodies from the battlefield [@anep].
+Fragments were recovered in excavations at Tello, ancient Girsu, beginning in 1881. The Louvre holds the reconstructed remains. The two carved faces contain scenes arranged in horizontal bands, or registers. Some portions are missing and their relationships are open to reconstruction. The modern name refers to the birds shown carrying parts of bodies from the battlefield [@anep, figs. 298–302].
 
 ## Contents
 

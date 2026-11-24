@@ -4,7 +4,7 @@ Biblical laws set places of refuge apart for people who caused a death without i
 
 ## Ancient Near Eastern Evidence
 
-Ancient legal collections also distinguish between different circumstances of homicide. The Laws of Hammurabi, for example, describe an oath about intent after a blow in a quarrel and prescribe payment if the injured person dies. Some Hittite laws likewise distinguish deaths that result from intentional and accidental blows. These laws illustrate the different legal results that could follow a death, but they supply no close parallel for a network of towns designated for asylum [@roth-law].
+Ancient legal collections also distinguish between different circumstances of homicide. The Laws of Hammurabi, for example, describe an oath about intent after a blow in a quarrel and prescribe payment if the injured person dies. Some Hittite laws likewise distinguish deaths that result from intentional and accidental blows. These laws illustrate the different legal results that could follow a death, but they supply no close parallel for a network of towns designated for asylum [@roth-law, 104].
 
 Greek inscriptions recognize *asylia*, the protection of a place or person from forcible interference. In the Hellenistic period some decrees declared a sanctuary inviolable. Grants for some temples in Ptolemaic Egypt could protect people who took refuge within them. These cases are comparable to the use of a sanctuary as a protected space, while their dates, legal terms, and purposes differ from those of Israel's refuge towns.
 

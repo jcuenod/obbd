@@ -462,3 +462,296 @@ references:
     volume: "48"
     page: "1-18"
     issued: {date-parts: [[1977]]}
+  - id: finkel-reade-eponyms
+    type: article-journal
+    title: Lots of Eponyms
+    author: [{family: Finkel, given: Irving L.}, {family: Reade, given: Julian E.}]
+    container-title: Iraq
+    volume: "57"
+    page: "167-172"
+    issued: {date-parts: [[1995]]}
+    DOI: 10.2307/4200409
+    URL: https://oracc.museum.upenn.edu/saao/aebp/downloads/finkel_reade_iraq_57_1995.pdf
+    verified: 2026-11-23
+  - id: homan-tents
+    type: book
+    title: "To Your Tents, O Israel! The Terminology, Function, Form, and Symbolism of Tents in the Hebrew Bible and the Ancient Near East"
+    author: [{family: Homan, given: Michael M.}]
+    collection-title: Culture and History of the Ancient Near East
+    collection-number: "12"
+    publisher: Brill
+    publisher-place: Leiden
+    issued: {date-parts: [[2002]]}
+    URL: https://doi.org/10.1163/9789047401582
+    verified: 2026-11-23
+  - id: ophel-bullae
+    type: chapter
+    title: "Hebrew Seal Impressions (Bullae) from the Ophel, Area A2009"
+    author: [{family: Mazar, given: Eilat}, {family: Livyatan Ben-Arie, given: Reut}]
+    editor: [{family: Mazar, given: Eilat}]
+    container-title: "The Ophel Excavations to the South of the Temple Mount 2009–2013: Final Reports"
+    volume: "2"
+    page: "247–279"
+    publisher: Shoham Academic Research and Publication
+    publisher-place: Jerusalem
+    issued: {date-parts: [[2018]]}
+    URL: https://www.academia.edu/38067814/Hebrew_Seal_Impressions_bullae_from_the_Ophel_Area_A2009
+    verified: 2026-11-23
+  - id: kochavi-izbet
+    type: article-journal
+    title: "An Ostracon of the Period of the Judges from 'Izbet Sartah"
+    author: [{family: Kochavi, given: Moshe}]
+    container-title: Tel Aviv
+    volume: "4"
+    issue: "1–2"
+    page: "1–13"
+    issued: {date-parts: [[1977]]}
+    DOI: 10.1179/033443577788497849
+    verified: 2026-11-23
+  - id: demsky-izbet
+    type: article-journal
+    title: A Proto-Canaanite Abecedary Dating from the Period of the Judges and its Implications for the History of the Alphabet
+    author: [{family: Demsky, given: Aaron}]
+    container-title: Tel Aviv
+    volume: "4"
+    issue: "1–2"
+    page: "14–27"
+    issued: {date-parts: [[1977]]}
+    DOI: 10.1179/033443577788497786
+    verified: 2026-11-23
+  - id: rollston-qeiyafa
+    type: article-journal
+    title: "The Khirbet Qeiyafa Ostracon: Methodological Musings and Caveats"
+    author: [{family: Rollston, given: Christopher A.}]
+    container-title: Tel Aviv
+    volume: "38"
+    page: "67–82"
+    issued: {date-parts: [[2011]]}
+    DOI: 10.1179/033443511x12931017059387
+    verified: 2026-11-23
+  - id: bloch-et-al-apiculture
+    type: article-journal
+    title: Industrial Apiculture in the Jordan Valley during Biblical Times with Anatolian Honeybees
+    author: [{family: Bloch, given: Guy}, {family: Francoy, given: Tiago M.}, {family: Wachtel, given: Ido}, {family: Panitz-Cohen, given: Nava}, {family: Fuchs, given: Stefan}, {family: Mazar, given: Amihai}]
+    container-title: Proceedings of the National Academy of Sciences
+    volume: "107"
+    issue: "25"
+    page: "11240–11244"
+    issued: {date-parts: [[2010]]}
+    DOI: 10.1073/pnas.1003265107
+    verified: 2026-11-23
+  - id: tutankhamun-spatial-archive
+    citation-label: Tutankhamun Spatial Archive
+    type: webpage
+    title: Tutankhamun Spatial Archive
+    author: [{literal: Griffith Institute}]
+    URL: https://tutankhamun.griffith.ox.ac.uk/object-records
+    verified: 2026-11-23
+  - id: british-museum-burney-relief
+    citation-label: British Museum
+    type: webpage
+    title: The Queen of the Night Relief
+    author: [{literal: British Museum}]
+    URL: https://www.britishmuseum.org/collection/object/W_2003-0718-1
+    verified: 2026-11-23
+  - id: saa3
+    citation-label: SAA 3
+    type: book
+    title: Court Poetry and Literary Miscellanea
+    author: [{family: Livingstone, given: Alasdair}]
+    collection-title: State Archives of Assyria
+    collection-number: "3"
+    publisher: Helsinki University Press
+    publisher-place: Helsinki
+    issued: {date-parts: [[1989]]}
+    URL: https://oracc.museum.upenn.edu/saao/saa03/
+    verified: 2026-11-23
+  - id: rinap2
+    citation-label: RINAP 2
+    type: book
+    title: "The Royal Inscriptions of Sargon II, King of Assyria (721–705 BC)"
+    author: [{family: Frame, given: Grant}]
+    collection-title: The Royal Inscriptions of the Neo-Assyrian Period
+    collection-number: "2"
+    publisher: Eisenbrauns
+    publisher-place: University Park, PA
+    issued: {date-parts: [[2021]]}
+    URL: https://oracc.museum.upenn.edu/rinap/rinap2/
+    verified: 2026-11-23
+  - id: george-tower-of-babel
+    type: article-journal
+    title: "The Tower of Babel: Archaeology, History and Cuneiform Texts"
+    author: [{family: George, given: Andrew R.}]
+    container-title: Archiv für Orientforschung
+    volume: "51"
+    page: "75–95"
+    issued: {date-parts: [[2005], [2006]]}
+    URL: https://eprints.soas.ac.uk/3858/2/TowerOfBabel.AfO.pdf
+    verified: 2026-11-23
+  - id: lauinger-tayinat
+    type: article-journal
+    title: "Esarhaddon's Succession Treaty at Tell Tayinat: Text and Commentary"
+    author: [{family: Lauinger, given: Jacob}]
+    container-title: Journal of Cuneiform Studies
+    volume: "64"
+    page: "87–123"
+    issued: {date-parts: [[2012]]}
+    DOI: 10.5615/jcunestud.64.0087
+    verified: 2026-11-23
+  - id: pratico-kheleifeh
+    type: article-journal
+    title: "Nelson Glueck's 1938–1940 Excavations at Tell el-Kheleifeh: A Reappraisal"
+    author: [{family: Pratico, given: Gary D.}]
+    container-title: Bulletin of the American Schools of Oriental Research
+    issue: "259"
+    page: "1–32"
+    issued: {date-parts: [[1985]]}
+    DOI: 10.2307/1356795
+    verified: 2026-11-23
+  - id: schaeffer-ugarit-cult
+    type: article-journal
+    title: Nouveaux témoignages du culte de El et de Baal à Ras Shamra-Ugarit et ailleurs en Syrie-Palestine
+    author: [{family: Schaeffer, given: Claude F.-A.}]
+    container-title: Syria
+    volume: "43"
+    issue: "1–2"
+    page: "1–19"
+    issued: {date-parts: [[1966]]}
+    DOI: 10.3406/syria.1966.5839
+    verified: 2026-11-23
+  - id: lipschits-vanderhooft-yehud
+    type: chapter
+    title: "Yehud Stamp Impressions in the Fourth Century B.C.E.: A Time of Administrative Consolidation?"
+    author: [{family: Lipschits, given: Oded}, {family: Vanderhooft, given: David S.}]
+    editor: [{family: Lipschits, given: Oded}, {family: Knoppers, given: Gary N.}, {family: Albertz, given: Rainer}]
+    container-title: Judah and the Judeans in the Fourth Century B.C.E.
+    publisher: Eisenbrauns
+    publisher-place: Winona Lake, IN
+    page: "75–94"
+    issued: {date-parts: [[2007]]}
+    URL: https://www.tau.ac.il/sites/personal.tau.ac.il/files/media_server/1304/untitled%20folder/Yehud%20Stamp%20Impressions.pdf
+    verified: 2026-11-23
+  - id: ganor-kreimerman-lachish-gate
+    type: article-journal
+    title: The Iron Age Inner City Gate and Gate Shrine at Tel Lakhish (Lachish)
+    author: [{family: Ganor, given: Saar}, {family: Kreimerman, given: Igor}]
+    container-title: ʿAtiqot
+    issue: "111"
+    page: "359–405"
+    issued: {date-parts: [[2023]]}
+    DOI: 10.70967/2948-040X.1073
+    verified: 2026-11-23
+  - id: ussishkin-lachish-gate
+    type: article-journal
+    title: "Was a “Gate Shrine” Built at the Level III Inner City Gate of Lachish? A Response to Ganor and Kreimerman"
+    author: [{family: Ussishkin, given: David}]
+    container-title: Bulletin of the American Schools of Oriental Research
+    issue: "385"
+    page: "153–170"
+    issued: {date-parts: [[2021]]}
+    DOI: 10.1086/712425
+    verified: 2026-11-23
+  - id: saa19
+    citation-label: SAA 19
+    type: book
+    title: The Correspondence of Tiglath-pileser III and Sargon II from Calah/Nimrud
+    author: [{family: Luukko, given: Mikko}]
+    collection-title: State Archives of Assyria
+    collection-number: "19"
+    publisher: Neo-Assyrian Text Corpus Project
+    publisher-place: Helsinki
+    issued: {date-parts: [[2012]]}
+    URL: https://www.ucl.ac.uk/sargon/downloads/luukko_saa_19_intro.pdf
+    verified: 2026-11-23
+  - id: ocre
+    citation-label: OCRE
+    type: webpage
+    title: Online Coins of the Roman Empire
+    author: [{literal: American Numismatic Society}, {literal: Institute for the Study of the Ancient World}]
+    URL: https://numismatics.org/ocre/results?q=ivdaea+capta
+    verified: 2026-11-23
+  - id: garfinkel-mumcuoglu-doorframes
+    type: article-journal
+    title: "Triglyphs and Recessed Doorframes on a Building Model from Khirbet Qeiyafa: New Light on Two Technical Terms in the Biblical Descriptions of Solomon’s Palace and Temple"
+    author: [{family: Garfinkel, given: Yosef}, {family: Mumcuoglu, given: Madeleine}]
+    container-title: Israel Exploration Journal
+    volume: "63"
+    issue: "2"
+    page: "135–163"
+    issued: {date-parts: [[2013]]}
+    URL: https://www.jstor.org/stable/43855892
+    verified: 2026-11-23
+  - id: levin-qeiyafa
+    type: article-journal
+    title: "The Identification of Khirbet Qeiyafa: A New Suggestion"
+    author: [{family: Levin, given: Yigal}]
+    container-title: Bulletin of the American Schools of Oriental Research
+    volume: "367"
+    page: "73–86"
+    issued: {date-parts: [[2012]]}
+    DOI: 10.5615/bullamerschoorie.367.0073
+    verified: 2026-11-23
+  - id: eames-garfinkel-jerusalem
+    type: article-journal
+    title: "A Corpus of Iron Age II Inscriptions from Jerusalem: The Background for the Writing of Biblical Texts"
+    author: [{family: Eames, given: Christopher}, {family: Garfinkel, given: Yosef}]
+    container-title: Jerusalem Journal of Archaeology
+    volume: "7"
+    page: "140–192"
+    issued: {date-parts: [[2024]]}
+    DOI: 10.52486/01.00007.8
+    URL: https://jjar.huji.ac.il/jjar/publications/corpus-iron-age-ii-inscriptions-jerusalem-background-writing-biblical-texts
+    verified: 2026-11-23
+  - id: herrmann-schloen-remembrance
+    type: book
+    title: "In Remembrance of Me: Feasting with the Dead in the Ancient Middle East"
+    editor: [{family: Herrmann, given: Virginia Rimmer}, {family: Schloen, given: J. David}]
+    collection-title: Oriental Institute Museum Publications
+    collection-number: "37"
+    publisher: Oriental Institute of the University of Chicago
+    publisher-place: Chicago
+    issued: {date-parts: [[2014]]}
+    URL: https://oi.uchicago.edu/sites/default/files/uploads/shared/docs/oimp37.pdf
+    verified: 2026-11-23
+  - id: steiner-disembodied-souls
+    type: book
+    title: "Disembodied Souls: The Nefesh in Israel and Kindred Spirits in the Ancient Near East, with an Appendix on the Katumuwa Inscription"
+    author: [{family: Steiner, given: Richard C.}]
+    collection-title: Ancient Near East Monographs
+    collection-number: "11"
+    publisher: SBL Press
+    publisher-place: Atlanta
+    issued: {date-parts: [[2015]]}
+    URL: https://www.sbl-site.org/wp-content/uploads/2025/01/9781628370775_OA.pdf
+    verified: 2026-11-23
+  - id: garfinkel-mumcuoglu-temple
+    type: article-journal
+    title: The Temple of Solomon in Iron Age Context
+    author: [{family: Garfinkel, given: Yosef}, {family: Mumcuoglu, given: Madeleine}]
+    container-title: Religions
+    volume: "10"
+    issue: "3"
+    article-number: "198"
+    issued: {date-parts: [[2019]]}
+    DOI: 10.3390/rel10030198
+    verified: 2026-11-23
+  - id: qeiyafa-excavations-4
+    type: book
+    title: "Khirbet Qeiyafa, Volume 4: Excavation Report 2009–2013: Art, Cult and Epigraphy"
+    editor: [{family: Garfinkel, given: Yosef}, {family: Ganor, given: Saar}, {family: Hasel, given: Michael G.}]
+    publisher: Israel Exploration Society
+    publisher-place: Jerusalem
+    issued: {date-parts: [[2018]]}
+    URL: https://www.academia.edu/42656818/Y_Garfinkel_S_Ganor_and_M_Hasel_2018_Khirbet_Qeiyafa_Vol_4_Excavation_Report_2009_2013_Art_Cult_and_Epigraphy_Jerusalem_Israel_Exploration_Society
+    verified: 2026-11-23
+  - id: kadesh-barnea-excavations
+    type: book
+    title: "Excavations at Kadesh Barnea (Tell el-Qudeirat) 1976–1982: Part 1, Text"
+    editor: [{family: Cohen, given: Rudolph}, {family: Bernick-Greenberg, given: Hannah}]
+    collection-title: IAA Reports
+    collection-number: "34/1"
+    publisher: Israel Antiquities Authority
+    publisher-place: Jerusalem
+    issued: {date-parts: [[2007]]}
+    DOI: 10.69704/iaaRepV000.1996.44
+    verified: 2026-11-23

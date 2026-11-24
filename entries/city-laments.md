@@ -4,11 +4,11 @@ The Sumerian city laments are poems that mourn the destruction of cities, temple
 
 ## Manuscripts and Date
 
-Five compositions are usually grouped as the classic city laments. They concern Ur, Sumer and Ur, Nippur, Eridu and Uruk. Ancient lists sometimes place several of them together. The poems are known from cuneiform copies preserving works often associated with the early second millennium BCE, when rulers at Isin claimed continuity with [[ur|Ur]] and took part in restoring sanctuaries. Some compositions survive more fully than others, and details of their first performance are uncertain. [@cos1] [@anet]
+Five compositions are usually grouped as the classic city laments. They concern Ur, Sumer and Ur, Nippur, Eridu and Uruk. Ancient lists sometimes place several of them together. The poems are known from cuneiform copies preserving works often associated with the early second millennium BCE, when rulers at Isin claimed continuity with [[ur|Ur]] and took part in restoring sanctuaries. Some compositions survive more fully than others, and details of their first performance are uncertain. [@cos1, 1.166] [@anet, 455–463, 611–619]
 
 ## Contents
 
-The laments describe temples ruined, people killed or scattered and cities left without their protectors. The decision of the gods can set the destruction in motion, and the gods' departure removes a city's defense. A patron goddess may grieve over the fate of her people. Some poems move toward a request for restoration or a return of divine favor, so that lament also provides a way to speak about the city's future. [@cos1]
+The laments describe temples ruined, people killed or scattered and cities left without their protectors. The decision of the gods can set the destruction in motion, and the gods' departure removes a city's defense. A patron goddess may grieve over the fate of her people. Some poems move toward a request for restoration or a return of divine favor, so that lament also provides a way to speak about the city's future. [@cos1, 1.166]
 
 Later Mesopotamian worship used liturgical forms known as *balag* and *eršemma*, laments performed in ritual settings. They could preserve imagery of devastation and divine anger over a long period. Some scholars consider their later transmission relevant to any attempt to explain connections between Mesopotamian lament and literature from first-millennium Judah. [@anet]
 
@@ -16,7 +16,7 @@ Later Mesopotamian worship used liturgical forms known as *balag* and *eršemma*
 
 Lam 1:1–2, 16 presents Jerusalem as a woman left alone and weeping. Lam 2:1–8 describes the destruction of the city and sanctuary in terms of divine anger and action. The use of a woman's voice, attention to ruined sacred spaces and attempts to understand disaster in relation to the divine world invite comparison with Sumerian poems. The [[fall-of-jerusalem-587|Babylonian destruction of Jerusalem]] gives the biblical poems a different historical setting.
 
-Ezek 10:18–19 and 11:22–23 describe Yahweh's glory departing before the catastrophe. The departure of a city's protecting deity is a broader Mesopotamian motif, also visible in texts about Babylon from the reign of Esarhaddon. The comparison clarifies why a departure can announce that a city is exposed to disaster. Whether the mourning for Moab in Jer 48:31–33 belongs to the same kind of literature is debated. [@rinap4] [@cos1]
+Ezek 10:18–19 and 11:22–23 describe Yahweh's glory departing before the catastrophe. The departure of a city's protecting deity is a broader Mesopotamian motif, also visible in texts about Babylon from the reign of Esarhaddon. The comparison clarifies why a departure can announce that a city is exposed to disaster. Whether the mourning for Moab in Jer 48:31–33 belongs to the same kind of literature is debated. [@rinap4, no. 104] [@cos1, 1.166]
 
 ## Scholarly Issues
 

@@ -4,7 +4,7 @@ Hebrew *tannîn* denotes a large serpent or formidable aquatic creature, with se
 
 ## Sources and Iconography
 
-In the Ugaritic [Baal Cycle](baal-cycle.md), the goddess Anat recalls binding or defeating a creature called *tnn* among her enemies (KTU 1.3 III). The creature belongs to a group of adversaries connected with the sea and divine sovereignty. Other lines identify a twisting serpent called Lotan, commonly compared with Hebrew [Leviathan](leviathan.md). Descriptions in the poems vary, and their relation to a single narrative tradition remains a matter of interpretation [@ktu3; @smith-baal-cycle-1; @day-dragon].
+In the Ugaritic [Baal Cycle](baal-cycle.md), the goddess Anat recalls binding or defeating a creature called *tnn* among her enemies (KTU 1.3 III). The creature belongs to a group of adversaries connected with the sea and divine sovereignty. Other lines identify a twisting serpent called Lotan, commonly compared with Hebrew [Leviathan](leviathan.md). Descriptions in the poems vary, and their relation to a single narrative tradition remains a matter of interpretation [@ktu3, 1.3 III 35–42; @smith-baal-cycle-1, 353–354; @day-dragon, 3–7].
 
 Multiheaded serpents and combat with monsters appear in ancient Near Eastern imagery. Images without accompanying names seldom permit a precise identification with a character in the Ugaritic texts. They establish a shared visual repertoire in which a formidable serpent could represent a threat on a scale beyond an ordinary animal.
 
@@ -12,7 +12,7 @@ Multiheaded serpents and combat with monsters appear in ancient Near Eastern ima
 
 Gen 1:21 includes the great *tannînîm* among the creatures of the waters that God makes. Exod 7:9–12 uses the singular for what Aaron's staff becomes before Pharaoh and the plural for those produced by the Egyptian specialists. Their size and species are unspecified. Aaron's staff swallows the others, placing the creature's action within a contest over signs and power.
 
-Isa 27:1 places God's slaying of the sea monster beside the defeat of Leviathan, a fleeing and twisting serpent. The correspondence with wording in Ugaritic poetry is especially close. Isa 51:9 recalls the cutting down of Rahab and piercing of the monster, and the next verse connects mastery of the sea with passage through its depths. Job 7:12 asks why God guards Job as if he were the Sea or the monster [@day-dragon; @ddd].
+Isa 27:1 places God's slaying of the sea monster beside the defeat of Leviathan, a fleeing and twisting serpent. The correspondence with wording in Ugaritic poetry is especially close. Isa 51:9 recalls the cutting down of Rahab and piercing of the monster, and the next verse connects mastery of the sea with passage through its depths. Job 7:12 asks why God guards Job as if he were the Sea or the monster [@day-dragon, 142–150; @ddd, 834–836].
 
 Ezek 29:3 likens Pharaoh to a great monster in the Nile's channels. The setting makes a crocodile one plausible aspect of the imagery. Jer 51:34 uses the monster's swallowing as a metaphor for Nebuchadnezzar's treatment of Jerusalem. The name of the Dragon's Spring (Neh 2:13) preserves a possible topographic use of the word without describing a creature there.
 

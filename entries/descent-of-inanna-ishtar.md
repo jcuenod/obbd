@@ -4,17 +4,17 @@ Mesopotamian scribes told of a goddess who entered the realm of the dead and had
 
 ## Manuscripts and Date
 
-The Sumerian poem is known from several clay tablets and fragments. Modern editions combine them to reconstruct a text of approximately four hundred lines. The shorter Akkadian composition is preserved in Assyrian copies from the later second and early first millennia BCE. The versions are closely related but differ in their treatment of the goddess's return and the part played by Dumuzi [@anet] [@cos1].
+The Sumerian poem is known from several clay tablets and fragments. Modern editions combine them to reconstruct a text of approximately four hundred lines. The shorter Akkadian composition is preserved in Assyrian copies from the later second and early first millennia BCE. The versions are closely related but differ in their treatment of the goddess's return and the part played by Dumuzi [@anet, 52–57, 106–109] [@cos1, 1.108].
 
 ## Contents
 
 In the Sumerian account, Inanna enters the realm ruled by her sister Ereshkigal. At each of seven gates she gives up an item of clothing or insignia. The judges of the underworld condemn her and she becomes a corpse. Enki sends agents to restore her, but she cannot leave without a replacement. The goddess eventually surrenders Dumuzi, whom she finds on a splendid seat. The poem ends with Dumuzi and his sister sharing periods below.
 
-The Akkadian tale begins by depicting the netherworld as a dark dwelling where dust is food. [[ishtar|Ishtar]] also loses items of dress at its gates, and Ereshkigal orders that afflictions be sent against her. On earth sexual activity stops until the gods intervene and she is released. The closing lines refer to Tammuz and mourning for him, but the Akkadian account leaves their relationship to the plot less explicit than the Sumerian poem does [@cos1].
+The Akkadian tale begins by depicting the netherworld as a dark dwelling where dust is food. [[ishtar|Ishtar]] also loses items of dress at its gates, and Ereshkigal orders that afflictions be sent against her. On earth sexual activity stops until the gods intervene and she is released. The closing lines refer to Tammuz and mourning for him, but the Akkadian account leaves their relationship to the plot less explicit than the Sumerian poem does [@cos1, 1.108].
 
 ## Significance for Biblical Studies
 
-Ezek 8:14 describes women weeping for [[tammuz|Tammuz]] at a gate of the Jerusalem temple. This is the only explicit biblical reference to the deity. The text documents how mourning for him was represented in a prophetic vision. It supplies no narrative about the details of his death or return. The related Babylonian month name survived as Tammuz in the later Jewish calendar [@ddd].
+Ezek 8:14 describes women weeping for [[tammuz|Tammuz]] at a gate of the Jerusalem temple. This is the only explicit biblical reference to the deity. The text documents how mourning for him was represented in a prophetic vision. It supplies no narrative about the details of his death or return. The related Babylonian month name survived as Tammuz in the later Jewish calendar [@ddd, 450–451, 452–456, 829–834].
 
 Job 7:9–10 imagines descent to Sheol as a departure from which a person does not return home. Job 10:21–22 pictures the realm in terms of darkness. Gates mark entry to the realm of the dead in Isa 38:10 and Job 38:17. These common images can be compared with the [[sheol-and-the-netherworld|Mesopotamian netherworld]], without requiring that biblical authors knew either version of the Descent.
 

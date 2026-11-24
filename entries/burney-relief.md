@@ -8,7 +8,7 @@ The relief became known through the antiquities market. It was named for Burney,
 
 ## Contents
 
-The plaque shows a naked female figure wearing a horned headdress. She holds a rod and ring in each raised hand. Her feet are talons, and her wings hang on either side of her body. Two lions beneath her and two owls beside her form a balanced composition. The horned crown and emblems are consistent with a prominent divine figure, while the combination of animals and bird features makes identification difficult [@anep] [@ddd]. Traces of paint show that the relief originally presented more color than it does today, though the appearance of the whole plaque must be reconstructed.
+The plaque shows a naked female figure wearing a horned headdress. She holds a rod and ring in each raised hand. Her feet are talons, and her wings hang on either side of her body. Two lions beneath her and two owls beside her form a balanced composition. The horned crown and emblems are consistent with a prominent divine figure, while the combination of animals and bird features makes identification difficult [@british-museum-burney-relief, no. 2003,0718.1] [@ddd]. Traces of paint show that the relief originally presented more color than it does today, though the appearance of the whole plaque must be reconstructed.
 
 ## Significance for Biblical Studies
 

@@ -6,7 +6,7 @@ The dromedary, or one-humped camel, became important in the first millennium BCE
 
 Bones alone do not always show whether a camel was wild or domesticated. Archaeologists use the location, date, and distribution of the bones, as well as comparisons with images and written records. Lidar Sapir-Hen and Erez Ben-Yosef studied remains from the Arabah, including copper-producing sites near [[timna|Timna]]. They dated the first substantial appearance of domestic camels in those deposits to the latter part of the tenth century BCE. Earlier isolated finds and pictures have been reported elsewhere, but their dates or evidence for domestication are often uncertain.
 
-The [[kurkh-monoliths|Kurkh Monolith]] says that Gindibu the Arab brought a thousand camels to the battle of Qarqar in 853 BCE. Later Assyrian kings report receiving camels as tribute, and reliefs of Ashurbanipal show Arab camel riders. The two-humped camels pictured on the Black Obelisk belong to a different species, the Bactrian camel. By the later Iron Age, one-humped camels carried goods on long routes linking Arabia and the Levant [@rima3] [@rinap1] [@anep].
+The [[kurkh-monoliths|Kurkh Monolith]] says that Gindibu the Arab brought a thousand camels to the battle of Qarqar in 853 BCE. Later Assyrian kings report receiving camels as tribute, and reliefs of Ashurbanipal show Arab camel riders. The two-humped camels pictured on the Black Obelisk belong to a different species, the Bactrian camel. By the later Iron Age, one-humped camels carried goods on long routes linking Arabia and the Levant [@rima3, A.0.102.2 ii 78–102] [@rinap1, no. 35 iii 1–5, 19] [@anep, figs. 63, 351–355].
 
 ## In the Hebrew Bible
 

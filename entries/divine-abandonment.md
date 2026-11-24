@@ -4,9 +4,9 @@ Ancient Near Eastern texts sometimes explained a city's defeat by saying that it
 
 ## Ancient Near Eastern Evidence
 
-In Sumerian [[city-laments|laments for ruined cities]], their gods leave or lose their places as disaster overtakes the people. In the Akkadian text called the Marduk Prophecy, Babylon's god describes journeys to Hatti, Assyria, and Elam and anticipates restoration. These journeys are generally understood in relation to the removal and return of Marduk's statue. In [[erra-and-ishum|the story of Erra and Ishum]], Marduk's departure makes way for Erra's destructive activity [@cos1].
+In Sumerian [[city-laments|laments for ruined cities]], their gods leave or lose their places as disaster overtakes the people. In the Akkadian text called the Marduk Prophecy, Babylon's god describes journeys to Hatti, Assyria, and Elam and anticipates restoration. These journeys are generally understood in relation to the removal and return of Marduk's statue. In [[erra-and-ishum|the story of Erra and Ishum]], Marduk's departure makes way for Erra's destructive activity [@cos1, 1.149, 1.166].
 
-Esarhaddon's inscriptions say that Marduk condemned Babylon to seventy years of desolation and then shortened the period to eleven. This makes the king's rebuilding an expression of the god's decision [@rinap4]. The later [[cyrus-cylinder|Cyrus Cylinder]] likewise portrays Marduk as choosing Cyrus after turning against the rule of Nabonidus. In Moab, the [[mesha-stele|Mesha Stele]] explains Israel's domination in terms of Chemosh's anger with his land. The statement gives a Levantine comparison for attributing defeat to a people's own god [@cos2].
+Esarhaddon's inscriptions say that Marduk condemned Babylon to seventy years of desolation and then shortened the period to eleven. This makes the king's rebuilding an expression of the god's decision [@rinap4, no. 104]. The later [[cyrus-cylinder|Cyrus Cylinder]] likewise portrays Marduk as choosing Cyrus after turning against the rule of Nabonidus. In Moab, the [[mesha-stele|Mesha Stele]] explains Israel's domination in terms of Chemosh's anger with his land. The statement gives a Levantine comparison for attributing defeat to a people's own god [@cos2, 2.124].
 
 ## In the Hebrew Bible
 

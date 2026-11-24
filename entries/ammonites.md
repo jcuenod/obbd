@@ -4,15 +4,15 @@ Ammon was an Iron Age kingdom on the plateau east of the Jordan River, with its 
 
 ## Sources
 
-The [[tell-siran-bottle-and-ammonite-inscriptions|Amman Citadel inscription and Tell Siran bottle]] preserve examples of written Ammonite, a language closely related to Hebrew and other languages of the region. The fragmentary citadel text mentions the god [[milkom|Milkom]]. The bronze bottle lists three generations of kings. Personal names and titles on [[seals-and-bullae|stamp seals and their clay impressions]] illuminate royal administration and ways of naming people. [@kai] [@ahituv-echoes] [@avigad-sass-wsss]
+The [[tell-siran-bottle-and-ammonite-inscriptions|Amman Citadel inscription and Tell Siran bottle]] preserve examples of written Ammonite, a language closely related to Hebrew and other languages of the region. The fragmentary citadel text mentions the god [[milkom|Milkom]]. The bronze bottle lists three generations of kings. Personal names and titles on [[seals-and-bullae|stamp seals and their clay impressions]] illuminate royal administration and ways of naming people. [@kai, nos. 307–308] [@ahituv-echoes, 357–366] [@avigad-sass-wsss, 320–371, nos. 857–1005]
 
-Sculptures from Amman and nearby sites include stone figures wearing the *atef*, a tall crown with feathers derived from Egyptian visual tradition. In the Levant such crowns could appear on figures connected with royal power. Some scholars identify Ammonite figures with a deity such as El, and the identity of the figures remains debated. Their imagery shows how Ammonite artists used forms that circulated across the region. [@keel-uehlinger-ggig]
+Sculptures from Amman and nearby sites include stone figures wearing the *atef*, a tall crown with feathers derived from Egyptian visual tradition. In the Levant such crowns could appear on figures connected with royal power. Some scholars identify Ammonite figures with a deity such as El, and the identity of the figures remains debated. Their imagery shows how Ammonite artists used forms that circulated across the region. [@keel-uehlinger-ggig, 307–309]
 
 ## History
 
-Assyrian sources call the kingdom Bit-Ammon, or “House of Ammon.” The inscriptions of Tiglath-pileser III list its ruler Sanipu among tribute payers in the eighth century BCE. In the seventh century BCE, Esarhaddon listed Pudu-ilu among the kings who supplied building materials, and Ashurbanipal named Amminadab among his tributary rulers. The imperial records preserve the names of local rulers and show Ammon's obligations to the empire. [@rinap1] [@rinap4] [@anet]
+Assyrian sources call the kingdom Bit-Ammon, or “House of Ammon.” The inscriptions of Tiglath-pileser III list its ruler Sanipu among tribute payers in the eighth century BCE. In the seventh century BCE, Esarhaddon listed Pudu-ilu among the kings who supplied building materials, and Ashurbanipal named Amminadab among his tributary rulers. The imperial records preserve the names of local rulers and show Ammon's obligations to the empire. [@rinap1, 122] [@rinap4, no. 1] [@anet, 282–284]
 
-An excavated clay seal impression from Tell el-ʿUmeiri names Milkomʾur as a servant of Baʿalyašaʿ. The latter is widely identified with Baalis, whom Jer 40:14 names as king of Ammon and implicates in a plot against Gedaliah, the governor in Judah after Babylon's conquest. The impression independently attests a royal official and probably the biblical king. The charge against Baalis belongs to the biblical account. [@avigad-sass-wsss] [@ahituv-echoes]
+An excavated clay seal impression from Tell el-ʿUmeiri names Milkomʾur as a servant of Baʿalyašaʿ. The latter is widely identified with Baalis, whom Jer 40:14 names as king of Ammon and implicates in a plot against Gedaliah, the governor in Judah after Babylon's conquest. The impression independently attests a royal official and probably the biblical king. The charge against Baalis belongs to the biblical account. [@avigad-sass-wsss, 321, no. 860] [@ahituv-echoes, 357–366]
 
 ## In the Bible
 
@@ -20,7 +20,7 @@ Gen 19:38 links Ammon to Lot through his son Ben-ammi. Deut 2:19, 37 acknowledge
 
 The conflict in Judg 11:12–28 concerns rival claims to land east of the Jordan. First Samuel 11 remembers the siege of Jabesh-gilead by the Ammonite ruler Nahash as the occasion for an Israelite victory under Saul. Later, 2 Sam 12:26–31 recounts the capture of Rabbah by David. These stories place relations with Ammon at important moments in Israel's account of its monarchy.
 
-Neh 2:10, 19 names Tobiah the Ammonite, who opposes Nehemiah's work in Jerusalem. A prominent later family known as the Tobiads is associated with ʿIraq al-Amir in Jordan. A connection between the family and Nehemiah's Tobiah has been proposed, but their precise relationship is uncertain. [@abd]
+Neh 2:10, 19 names Tobiah the Ammonite, who opposes Nehemiah's work in Jerusalem. A prominent later family known as the Tobiads is associated with ʿIraq al-Amir in Jordan. A connection between the family and Nehemiah's Tobiah has been proposed, but their precise relationship is uncertain. [@abd, 1:194–196]
 
 ## Further Reading
 

@@ -10,13 +10,13 @@ A separate Ugaritic text (KTU 1.108) invokes Rapiʾu, who is described in royal 
 
 ## In the Hebrew Bible
 
-The shades who greet the fallen ruler in Isa 14:9 emerge in [[sheol-and-the-netherworld|Sheol]] and include former kings. Job 26:5 depicts the Rephaim trembling beneath the waters, and Ps 88:10 (MT 88:11) asks whether they can rise to praise God. In Prov 2:18, 9:18 and 21:16 they are the company awaiting those who take a ruinous course. Isa 26:14 and 26:19 put two outcomes in tension. The defeated oppressors' shades do not rise, while the dead addressed in the promise are called to rise and rejoice. [@ddd]
+The shades who greet the fallen ruler in Isa 14:9 emerge in [[sheol-and-the-netherworld|Sheol]] and include former kings. Job 26:5 depicts the Rephaim trembling beneath the waters, and Ps 88:10 (MT 88:11) asks whether they can rise to praise God. In Prov 2:18, 9:18 and 21:16 they are the company awaiting those who take a ruinous course. Isa 26:14 and 26:19 put two outcomes in tension. The defeated oppressors' shades do not rise, while the dead addressed in the promise are called to rise and rejoice. [@ddd, 692–700]
 
-Deut 2:10–11, 20–21 applies Rephaim to earlier peoples called Emim by Moabites and Zamzummim by Ammonites, comparing their stature to the Anakim. Deut 3:11, 13 names Og as a survivor of the Rephaim and identifies Bashan with them. Josh 12:4 puts Og at Ashtaroth and Edrei. The term *hārāpāh* for the ancestry of notable fighters at Gath in 2 Sam 21:15–22 may be connected, though its form and interpretation are debated. These traditions portray formidable former inhabitants and warriors. Their stature belongs to that portrayal. [@ddd]
+Deut 2:10–11, 20–21 applies Rephaim to earlier peoples called Emim by Moabites and Zamzummim by Ammonites, comparing their stature to the Anakim. Deut 3:11, 13 names Og as a survivor of the Rephaim and identifies Bashan with them. Josh 12:4 puts Og at Ashtaroth and Edrei. The term *hārāpāh* for the ancestry of notable fighters at Gath in 2 Sam 21:15–22 may be connected, though its form and interpretation are debated. These traditions portray formidable former inhabitants and warriors. Their stature belongs to that portrayal. [@ddd, 692–700]
 
 ## Interpretive Significance
 
-The parallel place names in Josh 12:4 and KTU 1.108 make a connection with a local tradition of royal ancestors plausible. The surviving texts leave the process by which a tradition of the royal dead might have become a tradition about ancient giant peoples open. Deriving the name from a root meaning “heal” would require explaining its use for ancestors and shades. Proposals include the ritual power of the honored dead, but the etymology and its implications remain disputed. [@ddd] [@ktu3, 1.108]
+The parallel place names in Josh 12:4 and KTU 1.108 make a connection with a local tradition of royal ancestors plausible. The surviving texts leave the process by which a tradition of the royal dead might have become a tradition about ancient giant peoples open. Deriving the name from a root meaning “heal” would require explaining its use for ancestors and shades. Proposals include the ritual power of the honored dead, but the etymology and its implications remain disputed. [@ddd, 692–700] [@ktu3, 1.108]
 
 ## Further Reading
 

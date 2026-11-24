@@ -4,9 +4,9 @@ Baal-berith and El-berith are divine titles associated with the ancient city of 
 
 ## Sources and Iconography
 
-Judges is the principal source for the titles. Baal-berith means “Lord of the Covenant” and El-berith can be rendered “God of the Covenant.” The first element in each title can function as a designation, but it can also be a divine name. [[baal|Baal]] means “lord” and is also the name or title of the West Semitic storm god. [[el|El]] means “god” and is also the name of a major West Semitic deity [@ddd].
+Judges is the principal source for the titles. Baal-berith means “Lord of the Covenant” and El-berith can be rendered “God of the Covenant.” The first element in each title can function as a designation, but it can also be a divine name. [[baal|Baal]] means “lord” and is also the name or title of the West Semitic storm god. [[el|El]] means “god” and is also the name of a major West Semitic deity [@ddd, 141, 280].
 
-Excavations at [[shechem|Shechem]] uncovered a large sanctuary with thick walls, often called a fortress temple. The remains include Bronze Age phases, and the building's form makes it a natural point of comparison for the temple refuge in Judges. Its identification with the sanctuary or stronghold in that story remains debated. No inscription from the building identifies its deity as Baal-berith or El-berith [@neaehl].
+Excavations at [[shechem|Shechem]] uncovered a large sanctuary with thick walls, often called a fortress temple. The remains include Bronze Age phases, and the building's form makes it a natural point of comparison for the temple refuge in Judges. Its identification with the sanctuary or stronghold in that story remains debated. No inscription from the building identifies its deity as Baal-berith or El-berith [@neaehl, 4:1345–1347].
 
 ## In the Hebrew Bible
 

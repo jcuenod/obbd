@@ -4,7 +4,7 @@ Babylon was a city on the Euphrates in what is now central Iraq. It became the c
 
 ## Location and Identification
 
-The remains of [[babylonia|Babylonia's]] capital lie near modern Hillah, south of Baghdad. The ancient city stretched across the Euphrates, with the major excavated monuments concentrated on the east side. Babylonian descriptions name the city's gates, sacred streets, temples, and districts. Several names can be matched with remains through inscriptions found at the site [@cos2].
+The remains of [[babylonia|Babylonia's]] capital lie near modern Hillah, south of Baghdad. The ancient city stretched across the Euphrates, with the major excavated monuments concentrated on the east side. Babylonian descriptions name the city's gates, sacred streets, temples, and districts. Several names can be matched with remains through inscriptions found at the site [@cos2, 2.121].
 
 ## Archaeological History
 

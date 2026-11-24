@@ -4,15 +4,15 @@ Panamuwa and Bar-Rakib were kings of Samʾal, an eighth-century BCE kingdom cent
 
 ## Description and Provenance
 
-The monuments come from Samʾal and its surroundings. The inscribed statue of Hadad commissioned by Panamuwa I was found at Gerçin, outside the capital. Another statue preserves the memorial Bar-Rakib commissioned for his father Panamuwa II. Bar-Rakib also left inscriptions and reliefs associated with his own reign at Zincirli. Panamuwa I's statue inscription and the memorial of Panamuwa II are numbered 214 and 215 in the standard West Semitic corpus, while Bar-Rakib's own inscriptions begin at 216 [@kai].
+The monuments come from Samʾal and its surroundings. The inscribed statue of Hadad commissioned by Panamuwa I was found at Gerçin, outside the capital. Another statue preserves the memorial Bar-Rakib commissioned for his father Panamuwa II. Bar-Rakib also left inscriptions and reliefs associated with his own reign at Zincirli. Panamuwa I's statue inscription and the memorial of Panamuwa II are numbered 214 and 215 in the standard West Semitic corpus, while Bar-Rakib's own inscriptions begin at 216 [@kai, nos. 214–216].
 
 ## Contents
 
 Panamuwa I's Hadad inscription directs a future ruler to remember him when offering sacrifice. The ruler is to invoke the soul of Panamuwa so that it may eat and drink with Hadad. The passage supplies evidence for rites that sustained the memory of a dead king in the presence of a god. The [[katumuwa-stele|Katumuwa Stele]] offers a comparison from the same kingdom for an offering made on behalf of a deceased person's soul.
 
-Bar-Rakib's memorial describes the violent death of Panamuwa II's father Bar-Ṣur and seventy of his relatives. It credits the Assyrian king with putting Panamuwa II on his father's throne. Later, Panamuwa died in the camp of [[tiglath-pileser-iii|Tiglath-pileser III]], whose forces mourned him. His body was brought home. The episode probably belongs to the campaign against Damascus in 733–732 BCE, although the text gives no explicit date [@kai] [@cos2].
+Bar-Rakib's memorial describes the violent death of Panamuwa II's father Bar-Ṣur and seventy of his relatives. It credits the Assyrian king with putting Panamuwa II on his father's throne. Later, Panamuwa died in the camp of [[tiglath-pileser-iii|Tiglath-pileser III]], whose forces mourned him. His body was brought home. The episode probably belongs to the campaign against Damascus in 733–732 BCE, although the text gives no explicit date [@kai, nos. 214–216] [@cos2, 2.37].
 
-In his own inscriptions, Bar-Rakib says that he ran at the wheel of the Assyrian king and credits his position to his own and his father's righteousness. His account claims distinction through faithful service. Assyrian evidence independently records the relationship between the two kingdoms. In a tribute list usually associated with 738 BCE, a king named Panammû of Samʾal appears alongside Rezin of Damascus and Menahem of Samaria [@rinap1].
+In his own inscriptions, Bar-Rakib says that he ran at the wheel of the Assyrian king and credits his position to his own and his father's righteousness. His account claims distinction through faithful service. Assyrian evidence independently records the relationship between the two kingdoms. In a tribute list usually associated with 738 BCE, a king named Panammû of Samʾal appears alongside Rezin of Damascus and Menahem of Samaria [@rinap1, no. 47 rev. 6′–9′].
 
 ## Significance for Biblical Studies
 

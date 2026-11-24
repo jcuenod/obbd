@@ -4,9 +4,9 @@ Tarshish is a biblical name associated with long sea voyages and with the metal 
 
 ## Location and Identification
 
-A western Mediterranean location fits the distance and trading associations of several biblical passages. Tartessos is attractive because of its name, position, and access to metal-producing regions. Sardinia has been proposed in view of its mineral resources and early Phoenician contacts. The Phoenician inscription from Nora, Sardinia, contains letters read by some editors as the name Tarshish. Their grouping and relation to the inscription's setting remain disputed. Cilician Tarsus has also been proposed on the basis of the name, although the western maritime evidence provides a different geographical context [@kai; @abd].
+A western Mediterranean location fits the distance and trading associations of several biblical passages. Tartessos is attractive because of its name, position, and access to metal-producing regions. Sardinia has been proposed in view of its mineral resources and early Phoenician contacts. The Phoenician inscription from Nora, Sardinia, contains letters read by some editors as the name Tarshish. Their grouping and relation to the inscription's setting remain disputed. Cilician Tarsus has also been proposed on the basis of the name, although the western maritime evidence provides a different geographical context [@kai, no. 277; @abd, 6:331–333].
 
-An inscription of Esarhaddon names Tarsisi alongside other territory in a statement about rulers of the sea. The usual comparison with Tarshish is plausible. Its inclusion in the text does not fix a harbor on a modern map, and the inscription is a statement of royal reach [@rinap4].
+An inscription of Esarhaddon names Tarsisi alongside other territory in a statement about rulers of the sea. The usual comparison with Tarshish is plausible. Its inclusion in the text does not fix a harbor on a modern map, and the inscription is a statement of royal reach [@rinap4, no. 60 lines 10′–11′].
 
 ## Archaeological History
 

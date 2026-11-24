@@ -4,11 +4,11 @@ The Fall of Nineveh Chronicle is an Akkadian clay tablet recording campaigns in 
 
 ## Description and Provenance
 
-The clay tablet is preserved in the British Museum as BM 21901. C. J. Gadd published it in 1923. Its Akkadian text was impressed in cuneiform, a script formed by wedges pressed into clay. The original find context is uncertain, and damage has removed portions of the record. Modern editions number it Chronicle 3 in Grayson and Chronicle 22 in Glassner [@abc] [@glassner-chronicles].
+The clay tablet is preserved in the British Museum as BM 21901. C. J. Gadd published it in 1923. Its Akkadian text was impressed in cuneiform, a script formed by wedges pressed into clay. The original find context is uncertain, and damage has removed portions of the record. Modern editions number it Chronicle 3 in Grayson and Chronicle 22 in Glassner [@abc, 18, 90–96] [@glassner-chronicles, no. 22, 218–223].
 
 ## Contents
 
-The tablet organizes campaigns by Nabopolassar's years of rule. It reports that the Medes took Assur in 614 BCE and that Nabopolassar and the Median king met and made an agreement. In Nabopolassar's fourteenth year, the two armies besieged Nineveh for about three months. The chronicle dates the capture to the month of Abu, in the summer of 612 BCE. It reports plunder and the city's reduction to ruins [@abc].
+The tablet organizes campaigns by Nabopolassar's years of rule. It reports that the Medes took Assur in 614 BCE and that Nabopolassar and the Median king met and made an agreement. In Nabopolassar's fourteenth year, the two armies besieged Nineveh for about three months. The chronicle dates the capture to the month of Abu, in the summer of 612 BCE. It reports plunder and the city's reduction to ruins [@abc, 93–94].
 
 The later entries distinguish the loss of the capital from the end of Assyrian resistance. Aššur-uballiṭ II held power at [[harran|Harran]] after Nineveh fell. The chronicle records the loss of Harran and an attempt by Assyrian and Egyptian forces to regain it. The surviving account places that effort in 609 BCE and gives the wider military setting for the biblical report of the Egyptian army's movement northward.
 

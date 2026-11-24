@@ -4,13 +4,13 @@ Ammi-ṣaduqa, a king of the First Dynasty of Babylon in the seventeenth century
 
 ## Manuscripts and Date
 
-The Akkadian text survives on several cuneiform tablets, with damaged portions that can sometimes be read by comparing copies. Its wording refers to the first year of Ammi-ṣaduqa's reign. On the conventional Middle Chronology, that places the decree around 1646 BCE. Different absolute chronologies for Old Babylonian history give different calendar dates. Earlier rulers, including [[hammurabi|Hammurabi]], also proclaimed *mīšarum*, the restoration of equity by royal order [@anet] [@roth-law].
+The Akkadian text survives on several cuneiform tablets, with damaged portions that can sometimes be read by comparing copies. Its wording refers to the first year of Ammi-ṣaduqa's reign. On the conventional Middle Chronology, that places the decree around 1646 BCE. Different absolute chronologies for Old Babylonian history give different calendar dates. Earlier rulers, including [[hammurabi|Hammurabi]], also proclaimed *mīšarum*, the restoration of equity by royal order [@anet, 526–528] [@roth-law].
 
 ## Contents
 
 The decree cancels specified arrears owed to the palace and obligations arising from loans of silver or barley. It voids qualifying claims and addresses attempts to conceal a consumer loan by presenting it in another legal form. Certain genuine commercial arrangements remain enforceable. The text distinguishes debts arising from economic distress from obligations that the king allows to continue.
 
-Some people pledged or sold into servitude because of debt were entitled to freedom. The decree excluded people already held as slaves by family status, including house-born slaves. Its categories therefore matter for understanding how far the proclamation reached. The edict restricted some consequences of indebtedness while preserving the wider institution of [[slavery]] [@roth-law].
+Some people pledged or sold into servitude because of debt were entitled to freedom. The decree excluded people already held as slaves by family status, including house-born slaves. Its categories therefore matter for understanding how far the proclamation reached. The edict restricted some consequences of indebtedness while preserving the wider institution of [[slavery]] [@anet, 527–528].
 
 ## Significance for Biblical Studies
 

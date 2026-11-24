@@ -4,7 +4,7 @@ The Babylonian exile began with the forced removal of Judeans after Babylon's ca
 
 ## Sources
 
-A Babylonian chronicle dates the first capture of Jerusalem to March 597 BCE [@abc]. The [[jehoiachin-ration-tablets|Jehoiachin ration tablets]] name the deported king of Judah among the people receiving oil from the Babylonian palace, along with members of his family. These records attest his support by the palace during Nebuchadnezzar's reign. Kings describes a later change in his status under a new king (2 Kgs 25:27–30).
+A Babylonian chronicle dates the first capture of Jerusalem to March 597 BCE [@abc, 102]. The [[jehoiachin-ration-tablets|Jehoiachin ration tablets]] name the deported king of Judah among the people receiving oil from the Babylonian palace, along with members of his family. These records attest his support by the palace during Nebuchadnezzar's reign. Kings describes a later change in his status under a new king (2 Kgs 25:27–30).
 
 Business and administrative records from rural Babylonia document a different part of the population. The [[al-yahudu-tablets|Āl-Yāhūdu tablets]], which date from 572 BCE into the fifth century BCE, attest Judean families in settlements that included Āl-Yāhūdu, “Town of Judah.” Some families farmed land subject to obligations to the state, and documents also show Judeans taking part in credit and other local transactions. These arrangements gave some households room to organize their lives while retaining duties imposed by the authorities. The later [[murashu-archive|Murašû archive]] from Nippur attests people with Judean names in the Persian-period economy.
 

@@ -4,9 +4,9 @@ Lilith is a figure named in an oracle against Edom in Isaiah. Her name is usuall
 
 ## Sources and Iconography
 
-Mesopotamian sources list spirits called *lilû* and *lilītu*, the latter feminine, in contexts of illness or danger. Scholars usually connect the Hebrew *lîlît* with this group. The Hebrew word's sound also suggests a possible association with the ordinary Hebrew word for night. A single fixed portrait cannot be reconstructed from the group names [@ddd].
+Mesopotamian sources list spirits called *lilû* and *lilītu*, the latter feminine, in contexts of illness or danger. Scholars usually connect the Hebrew *lîlît* with this group. The Hebrew word's sound also suggests a possible association with the ordinary Hebrew word for night. A single fixed portrait cannot be reconstructed from the group names [@ddd, 520–521].
 
-The figure has often been identified with the winged woman on the [[burney-relief|Burney Relief]], an uninscribed Old Babylonian plaque. Other identifications include Ishtar and Ereshkigal. The image cannot settle the figure's identity. A creature called *ki-sikil-lil-la* in the Sumerian story of Gilgamesh and the ḫuluppu tree has likewise been compared with Lilith. The meaning of that expression and the relation to the later name are debated [@george-gilgamesh] [@ddd].
+The figure has often been identified with the winged woman on the [[burney-relief|Burney Relief]], an uninscribed Old Babylonian plaque. Other identifications include Ishtar and Ereshkigal. The image cannot settle the figure's identity. A creature called *ki-sikil-lil-la* in the Sumerian story of Gilgamesh and the ḫuluppu tree has likewise been compared with Lilith. The meaning of that expression and the relation to the later name are debated [@george-gilgamesh, 1:12–13] [@ddd, 520–521].
 
 ## In the Hebrew Bible
 
