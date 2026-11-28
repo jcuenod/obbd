@@ -1899,3 +1899,98 @@
 # ---------------------------------------------------------------------------
 # Law, society and daily life
 # ---------------------------------------------------------------------------
+
+- id: jerusalem-governor-sealing
+  cultures: [judahite]
+  date: [-700, -586]
+  circa: true
+  scope: >-
+    A late Iron Age clay sealing from the Western Wall Plaza excavations in Jerusalem bearing
+    the Hebrew title "governor of the city" (śar hāʿîr). It is material evidence for an
+    administrative office mentioned in Kings and Chronicles.
+  passages:
+    - "2Kgs 23:8 | attests | Attests the office 'governor of the city'; the inscription does not identify its unnamed holder as Joshua"
+    - "2Chr 34:8 | attests | Attests the office assigned to Maaseiah; it does not identify Maaseiah personally"
+  related: [court-officials, seals-and-bullae, josiah, jerusalem, bullae-of-jeremiah-era-officials]
+  wikipedia: null
+  image: governor of the city seal impression Jerusalem
+  author_notes:
+    - Call it a sealing or docket. The excavation report leaves its original function uncertain; the excavator suggests a docket that could have accompanied goods.
+    - Keep the attestation of the office separate from the identification of a person.
+    - The Kings passage belongs to Josiah's reforms; do not repeat a promotional-source error assigning it to Hezekiah.
+    - Give the provenance and the reading, and distinguish the archaeological dating from a proposed biblical comparison. The date field is a broad late Iron Age range; check it against the excavation report.
+  sources_to_check:
+    - Hadashot Arkheologiyot 133 (2021), Western Wall Plaza report (Weksler-Bdolah), Iron Age section and fig. 3
+    - Ornan, Weksler-Bdolah, and Sass, "Governor of the City" sealing, in Ancient Jerusalem Revealed (2019), pp. 67-72
+
+- id: jerusalem-ivories
+  cultures: [judahite, phoenician]
+  scope: >-
+    Decorated ivory furniture panels excavated in Givʿati Building 100 in Jerusalem, recovered
+    from a destruction context associated with the Babylonian conquest of 586 BCE. They show
+    the luxury furnishings and international cultural connections of the city's elite.
+  passages:
+    - "Amos 6:1, 4 | realia | Compare elite ivory furnishings, noting the assemblage's Jerusalem location and later archaeological horizon"
+    - "Ps 45:8 | realia | Ivory panels illustrate the material language of royal luxury without identifying the psalm's palace; MT 45:9"
+    - "1Kgs 10:18 | realia | Compare the use of ivory in prestigious royal furniture; the panels do not identify Solomon's throne"
+  related: [samaria-ivories, city-of-david, jerusalem, fall-of-jerusalem-587, phoenicians]
+  wikipedia: null
+  image: null
+  author_notes:
+    - Call them panels or furniture inlays. The original furniture cannot be securely identified as a particular throne or bed, and the objects should not be assigned to a biblical owner.
+    - The passage associations are material comparisons. The destruction horizon is later than Amos's eighth-century setting.
+    - Cite the original 2022 excavation publication; recycled news dates do not date the discovery or the objects. Keep the Jerusalem and Samaria assemblages separate.
+  sources_to_check:
+    - Atiqot 106 (2022), pp. 57-74 (Avisar et al., Jerusalem ivories)
+
+- id: jerubbaal-vessel-inscription
+  aliases: [Yrbʿl inscription, Jerubbaal inscription]
+  cultures: [canaanite, hebrew]
+  date: [-1150, -1050]
+  circa: true
+  scope: >-
+    An early alphabetic ink inscription on a pottery vessel from Khirbet er-Raʿi, read by its
+    editors as the personal name Yrbʿl ("Jerubbaal"). It is evidence for the name Jerubbaal
+    and the use of Baal in personal names, not for the identity of a biblical individual.
+  passages:
+    - "Judg 6:31-32 | language? | Compare the proposed personal name with Jerubbaal and the narrative's explanation of that name"
+    - "Judg 7:1 | language? | The biblical identification of Jerubbaal as Gideon supplies a name comparison, not the vessel owner's identity"
+    - "2Sam 11:21 | language? | Compare the related form Jerubbesheth and the replacement of the Baal element in a personal name"
+  related: [baal, writing-and-literacy, proto-sinaitic-script, khirbet-qeiyafa-ostracon]
+  wikipedia: Khirbet er-Ra'i
+  image: null
+  author_notes:
+    - Optional record in the report (group E).
+    - The first letter is incompletely preserved. Identify Yrbʿl as the editors' preferred reading and explain alternatives.
+    - The archaeological context is late twelfth or early eleventh century BCE. No patronymic or title establishes that the owner was Gideon; avoid treating a shared name as a person attestation.
+  sources_to_check:
+    - Rollston et al., Jerusalem Journal of Archaeology 2 (2021) 1-15, DOI 10.52486/01.00002.1
+
+- id: adon-letter
+  aliases: [Adon Papyrus, Saqqara Papyrus, TAD A1.1, KAI 266]
+  cultures: [aramean, egyptian]
+  date: [-625, -600]
+  circa: true
+  scope: >-
+    An Aramaic papyrus from Saqqara presenting a ruler's appeal to Pharaoh for military help
+    against an advancing Babylonian force. It illustrates diplomatic expectations surrounding
+    Egyptian protection; its setting and the status of the surviving copy are debated.
+  passages:
+    - "Ezek 17:15 | practice | Compare an appeal to Egypt for military support with the expectations expressed in the letter"
+    - "Jer 37:5-7 | practice | Compare expectations of Egyptian military assistance; the letter does not describe Jeremiah's episode"
+    - "2Kgs 24:7 | setting? | The conventional late-seventh-century reading compares Egypt's loss of influence to Babylon; the setting is debated"
+  related: [necho-ii, diplomatic-gift-exchange, ekron, aramaic-language, babylonia, battle-of-carchemish]
+  wikipedia: Adon Papyrus
+  image: Adon papyrus Saqqara
+  location: Egyptian Museum, Cairo (EM 86984)
+  author_notes:
+    - Optional record in the report (group E).
+    - The sender's damaged city has been reconstructed differently; do not call the identification with Ekron certain.
+    - James D. Moore proposes that the surviving papyrus may be a later scribal exercise. Attribute this view, and distinguish the physical copy from the scenario it presents.
+    - Do not date the artifact to a specific Babylonian campaign without explaining the argument. The date field gives the conventional late-seventh-century setting.
+  sources_to_check:
+    - TAD A1.1
+    - KAI 266
+    - Bezalel Porten, "The Identity of King Adon," Biblical Archaeologist 44.1 (1981) 36-52
+    - Bernd U. Schipper, "Egypt and the Kingdom of Judah under Josiah and Jehoiakim," Tel Aviv 37 (2010) 200-226, especially p. 214
+    - James D. Moore, DEAPS edition record, Pap. Cairo EM 86984

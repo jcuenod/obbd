@@ -1,0 +1,64 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: stoics-epicureans-and-moral-philosophy
+title: Stoics, Epicureans, and Popular Moral Philosophy
+type: concept
+cultures: [greek, roman]
+scope: >-
+  Stoic and Epicurean accounts of divinity, providence, death, virtue, and contentment, which
+  provide a philosophical setting for Acts and comparisons for New Testament moral language.
+passages:
+- ref: Acts 17:18-34
+  rel: concept
+  note: >-
+    Stoic and Epicurean accounts of deity and humanity contextualize the named schools and
+    Paul's speech
+- ref: Phil 4:8-13
+  rel: language
+  note: >-
+    Virtue and contentment vocabulary overlaps philosophical ethics, while Paul's sufficiency
+    is grounded in Christ
+- ref: 1Tim 6:6-8
+  rel: concept
+  note: >-
+    Contentment with necessities invites comparison with philosophical ideals of self-sufficiency
+related:
+- ane-wisdom-literature
+- afterlife-and-resurrection
+- rhetorical-education-and-moral-exhortation
+- athletics-and-victory-crowns
+- wisdom-of-solomon
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Present the differences between the schools, and distinguish widespread ethical vocabulary
+    from proof of philosophical affiliation.
+  - >-
+    Do not label Paul a Stoic, identify the target of Col 2:8 without argument, or use Epictetus
+    (later) as a source for Paul.
+  - >-
+    Related background reading (a broader or neighbouring subject, so not linked as this entry's
+    Wikipedia/Wikidata identity): Wikipedia, "Stoicism".
+  sources_to_check:
+  - Aratus, Phaenomena 1-5, especially line 5
+  - >-
+    Epicurus, Letter to Menoeceus (Diogenes Laertius 10.122-135, especially 123-127, 130-131)
+  - Epictetus, Enchiridion 29
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    A15. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

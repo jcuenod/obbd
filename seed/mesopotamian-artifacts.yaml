@@ -1491,3 +1491,50 @@
     - H. Tadmor, The Inscriptions of Tiglath-pileser III, King of Assyria (1994)
 
 # ---------------------------------------------------------------- egypt
+
+- id: nebo-sarsekim-tablet
+  aliases: [BM 114789, Nabû-šarrūssu-ukīn tablet]
+  cultures: [babylonian]
+  date: [-595, -594]
+  circa: true
+  scope: >-
+    A Babylonian receipt for a delivery of gold naming Nabû-šarrūssu-ukīn as chief courtier
+    (rab ša-rēši). It provides a proposed identification for Nebo-Sarsekim in Jeremiah 39 and
+    evidence for Babylonian court terminology.
+  passages:
+    - "Jer 39:3 | attests? | The receipt's name and title support a proposed identification; the Hebrew name division needs discussion"
+    - "Dan 1:3 | language | The title rab ša-rēši supplies comparative background for the Babylonian chief court official's designation"
+  related: [court-officials, eunuchs, nebuchadnezzar-ii, fall-of-jerusalem-587]
+  wikipedia: Nebo-Sarsekim Tablet
+  image: Nebo-Sarsekim tablet British Museum
+  location: British Museum, London
+  author_notes:
+    - Optional record in the report (group C). Court Titles and Officials already discusses the receipt, its date, the identification, cautions, and Jursa's bibliography, and has an image of the object. This record is mainly for discoverability.
+    - The receipt does not narrate Jerusalem's capture and must not receive a same-event tag. The Daniel tag concerns an office, not an identification of the official named there.
+    - Do not conflate Nebo-Sarsekim (Jer 39:3) with Nebushazban (Jer 39:13).
+    - The date field reflects the tablet's tenth regnal year of Nebuchadnezzar II. Use the regnal year in prose unless the conversion of its winter date has been checked.
+  sources_to_check:
+    - Michael Jursa, "Nabû-šarrūssu-ukīn, rab ša-rēši, und 'Nebusarsekim' (Jer. 39:3)," NABU 2008/1, no. 5, 9-10
+    - 'Henry Stadhouders, "The Nebu(!)sarsekim Tablet, BM 114789 (1920-12-13, 81): Some Provisional Remarks"'
+    - British Museum collection record, 1920,1213.81 / BM 114789
+
+- id: tang-i-var-inscription
+  cultures: [assyrian]
+  scope: >-
+    Sargon II's rock inscription at Tang-i Var in western Iran, which recounts the Ashdod
+    rebellion and the extradition of its leader Yamani by the Kushite ruler Shebitku. It
+    illuminates relations among Assyria, Philistia, and Kush.
+  passages:
+    - "Isa 20:1 | event | Assyrian evidence for Sargon's capture of Ashdod; it does not attest Isaiah's symbolic action"
+    - "Isa 20:3-6 | setting | Yamani's unsuccessful refuge and extradition illuminate political reliance on Egypt and Cush"
+  related: [cush, sargon-ii-inscriptions, sargon-ii, ashdod, taharqa]
+  wikipedia: null
+  image: Tang-i Var inscription Sargon
+  location: Tang-i Var, Kurdistan Province, Iran (in situ)
+  author_notes:
+    - Cush already discusses this source; classify the entry as a dedicated expansion, not missing evidence.
+    - Keep the chronology of the inscription, the campaign, and the extradition separate. Changing reconstructions of Kushite succession should not be collapsed into one certain timeline.
+    - Use the current RINAP 2 edition alongside Frame's first publication.
+  sources_to_check:
+    - Grant Frame, "The Inscription of Sargon II at Tang-i Var," Orientalia 68 (1999) 31-57, especially lines 19-21
+    - RINAP 2 (2021), Sargon II 116; ORACC Q006597

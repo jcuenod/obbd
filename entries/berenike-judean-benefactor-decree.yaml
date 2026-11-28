@@ -1,0 +1,58 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: berenike-judean-benefactor-decree
+title: Berenike Judean Benefactor Decree
+type: artifact
+cultures: [jewish, greek]
+date:
+  from: -50
+  to: -1
+  circa: true
+  display: c. 50–1 BCE
+scope: >-
+  A late first-century BCE inscription from Berenike (Cyrenaica) recording a Judean corporate
+  body's recurring public honors for Decimus Valerius Dionysios after he financed improvements
+  to a building called an amphitheater. It is a specific Jewish diaspora document for patronage
+  and public recognition.
+passages:
+- ref: Luke 7:4-5
+  rel: practice
+  note: >-
+    Jewish communal benefaction supplies a comparison for the elders' appeal based on a centurion's
+    synagogue building
+- ref: Luke 22:25-27
+  rel: practice
+  note: >-
+    Public honors for financial support illustrate the civic recognition associated with benefaction
+related: [patronage-and-benefaction, greco-roman-associations, synagogues, theodotos-inscription]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The inscription does not attest the centurion in Luke or any New Testament individual.
+    A Roman name alone does not show whether the benefactor was Jewish.
+  - >-
+    Do not assume the corporate designation politeuma necessarily means formal political recognition.
+  - >-
+    Explain the building terminology without assuming that it identifies either a Roman arena
+    or a known synagogue.
+  - >-
+    Two strong passage tags are preferable to speculative links based only on shared vocabulary.
+  sources_to_check: [IBerenike 18 = CJZC 70 = AGRW 305]
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    B01. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

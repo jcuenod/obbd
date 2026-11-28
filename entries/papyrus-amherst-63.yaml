@@ -1,0 +1,61 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: papyrus-amherst-63
+title: Papyrus Amherst 63
+type: artifact
+cultures: [aramean, egyptian]
+scope: >-
+  An Aramaic religious anthology written in Egyptian Demotic script, which preserves a close
+  parallel to Psalm 20 and traditions of Aramaic-speaking communities in Egypt. The entry
+  distinguishes the surviving papyrus from the dates of its compositions.
+passages:
+- ref: Ps 20:1-9
+  rel: parallel
+  note: >-
+    A close Aramaic parallel; the direction and history of the relationship remain debated;
+    MT 20:2-10
+related: [elephantine-papyri, aramaic-language, royal-ideology]
+location:
+  institution: Morgan Library & Museum, New York
+  accession: null
+media:
+- id: papyrus-amherst-63
+  role: primary
+- id: papyrus-amherst-63-2
+  role: gallery
+external:
+  wikipedia: Papyrus Amherst 63
+  wikidata: Q2051091
+editorial:
+  author_notes:
+  - >-
+    The Psalm 20 parallel is the recommended passage tag. The wider Egyptian diaspora setting
+    is contextual information, not evidence for Jeremiah 44.
+  - >-
+    Present competing reconstructions of the psalm relationship without asserting an original
+    or a proven direction of borrowing.
+  - >-
+    Check the papyrus's date and its current holding institution against the edition before
+    stating them.
+  sources_to_check:
+  - Menahem Kister, "Psalm 20 and Papyrus Amherst 63," Vetus Testamentum 70 (2020) 426-457
+  - >-
+    Tawny Lee Holm, critical edition project, "The Aramaic World through an Egyptian Lens"
+    (Penn State, 2015-2016)
+  image_query: Papyrus Amherst 63
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    A12. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

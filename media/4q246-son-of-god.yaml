@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: 4q246-son-of-god
+file: 4q246-son-of-god.jpg
+title: 4q246-manuscript.jpg
+caption: 4Q246, the Aramaic 'Son of God' text from Qumran Cave 4.
+description: 4Q246, one of the Dead Sea Scrolls found at Qumran
+creator: Unknown authorUnknown author
+credit_line: http://otstory.wordpress.com/2008/02/27/4q246-4qaramaic-apocalypse/
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Unknown authorUnknown author. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:4q246-manuscript.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/f/fd/4q246-manuscript.jpg
+  sha1: 97412bc530c987bfd0965cdb46f600a1919e86ab
+  original_size: [900, 618]
+  retrieved: '2026-11-27'
+derivative: null
+size: [900, 618]
+depicts: [4q246-son-of-god]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

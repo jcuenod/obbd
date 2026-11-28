@@ -1,0 +1,71 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: sarapis-dinner-invitation
+title: Sarapis Dinner Invitation (P.Oxy. I 110)
+aliases: [P.Oxy. I 110]
+type: artifact
+cultures: [roman, egyptian, greek]
+date:
+  from: 101
+  to: 200
+  circa: true
+  display: c. 101–200 CE
+scope: >-
+  A papyrus invitation from Oxyrhynchus asking its recipient to dine at the couch (klinē)
+  of the lord Sarapis in his sanctuary. It documents participation in a cult meal and is a
+  later (second-century CE) Egyptian comparison for the meals discussed in 1 Corinthians.
+passages:
+- ref: 1Cor 8:10
+  rel: practice
+  note: >-
+    A sanctuary dinner invitation helps readers picture the social setting of reclining in
+    an idol's temple
+- ref: 1Cor 10:20-21
+  rel: practice
+  note: >-
+    Cult dining as a comparison for participation and allegiance; the Greek nouns for couch
+    and table differ
+- ref: 1Cor 10:27-28
+  rel: practice
+  note: >-
+    Compare a cult invitation with the distinct situation of a private invitation and food
+    identified as sacrificial
+related: [meals-and-banqueting, greco-roman-associations, corinth, sacrifice, imperial-cult]
+location:
+  institution: Eton College (ECM 2314)
+  accession: null
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    HGV dates the papyrus to the second century CE. It is later comparative evidence, not
+    a contemporary Corinthian record.
+  - >-
+    The invitation uses klinē ("couch"), whereas 1 Cor 10:21 uses trapeza ("table"). An older
+    English translation ("table") should not become a claim of identical Greek wording.
+  - >-
+    The invitation names no occupational association. Do not infer compulsory guild meals
+    or treat it as an explanation of every meal Paul discusses.
+  - >-
+    Related background reading (a broader or neighbouring subject, so not linked as this entry's
+    Wikipedia/Wikidata identity): Wikipedia, "Oxyrhynchus Papyri".
+  sources_to_check:
+  - P.Oxy. I 110, lines 1-4 (HGV/TM 28404; Eton College ECM 2314)
+  image_query: Oxyrhynchus papyrus 110 Sarapis invitation
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    D03. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

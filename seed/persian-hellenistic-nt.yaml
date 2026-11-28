@@ -2312,3 +2312,671 @@
     - "J. D. Lawrence, Washing in Water: Trajectories of Ritual Bathing in the Hebrew Bible and Second Temple Literature (2006)"
     - "A. J. M. Wedderburn, Baptism and Resurrection: Studies in Pauline Theology against Its Graeco-Roman Background (WUNT 44, 1987)"
     - "E. Ferguson, Baptism in the Early Church: History, Theology, and Liturgy in the First Five Centuries (2009)"
+
+- id: patronage-and-benefaction
+  cultures: [greek, roman, jewish]
+  scope: >-
+    Patronage, civic benefaction, and reciprocal gift exchange organized relationships of
+    support, obligation, gratitude, and honor in Jewish and Greco-Roman communities. The entry
+    supplies the social framework for gifts, support, obligation, and public honor across the
+    Gospels and Paul.
+  passages:
+    - "Luke 7:1-5 | practice | Synagogue benefaction and local intermediaries frame the elders' appeal on behalf of the centurion"
+    - "Luke 14:12-14 | practice | Invitations to people unable to repay challenge ordinary expectations of reciprocal hospitality"
+    - "Luke 22:25-27 | language | The title 'benefactors' belongs to the public language of power, service, and honor"
+    - "Rom 16:1-2 | language | Phoebe's designation as prostatis is illuminated by benefaction and protective support"
+    - "1Cor 9:1-18 | practice | Paul's entitlement to support and refusal to use it intersect with conventions of obligation and reciprocity"
+    - "Phil 4:10-20 | practice | Gifts, partnership, and acknowledgment are interpreted against ancient expectations of reciprocity"
+  related: [berenike-judean-benefactor-decree, thyatira-dyers-claudia-ammion, meals-and-banqueting, greco-roman-associations, lysanias-abila-inscriptions, erastus-inscription, hospitality]
+  wikipedia: Patronage in ancient Rome
+  image: null
+  author_notes:
+    - Distinguish personal patronage, civic benefaction, friendship, and gift reciprocity instead of treating them as one uniform system.
+    - Phoebe's precise social and legal position remains debated. Do not infer a formal Roman patron-client relationship solely from the term prostatis.
+    - Do not claim that every Pauline use of charis has one fixed patronage meaning.
+    - Existing coverage to cross-reference rather than repeat. The Erastus Inscription is one example of civic expenditure; Hospitality covers receiving and protecting guests, guest-friendship, and divine visitors.
+    - "Optional enrichment (report P01): the Abila dedication of Nymphaeus, freedman of Lysanias, publicizes expenditure on a road, temple, and plantings. It does not give him the title euergetēs, and his freed status does not reconstruct every obligation to Lysanias."
+  sources_to_check:
+    - Seneca, De beneficiis
+    - IBerenike 18 = CJZC 70 = AGRW 305
+    - Revue Biblique 9.4 (1912), pp. 533-540, inscription A, lines 3-4 (Abila)
+
+- id: meals-and-banqueting
+  cultures: [jewish, greek, roman]
+  scope: >-
+    Jewish and Greco-Roman meals expressed social relationships through invitations, reclining
+    arrangements, service, food distribution, and the religious settings of communal eating.
+    The entry is a comparative hub for the social organization of meals; food production and
+    diet belong to Bread, Ovens, and Diet.
+  passages:
+    - "Luke 14:7-14 | practice | Seating rank, invitations, and expected repayment make dining a setting for negotiating status"
+    - "John 13:1-30 | realia | Reclining positions and footwashing clarify the meal's physical setting and acts of service"
+    - "1Cor 8:7-13 | practice | Eating in a deity's sanctuary connects communal dining with participation in cult"
+    - "1Cor 10:14-33 | practice | Sacrificial meals, marketplace purchases, and private invitations present distinct dining situations"
+    - "1Cor 11:17-34 | practice | Unequal consumption and status distinctions at shared meals provide background for Paul's criticism"
+    - "Gal 2:11-14 | practice | Shared eating and withdrawal from it publicly express community boundaries"
+  related: [patronage-and-benefaction, greco-roman-associations, tebtynis-salt-merchants-papyrus, sarapis-dinner-invitation, corinth, bread-and-diet, hospitality, marzeah]
+  wikipedia: Symposium
+  image: Roman banquet fresco Pompeii triclinium
+  author_notes:
+    - Distinguish Jewish meals, Greek symposia, Roman convivia, and association gatherings by period, region, and social level. Do not infer that every communal meal had the same layout or ritual meaning.
+    - The Anaploga villa at Corinth is a proposed architectural comparison, not an identified Pauline meeting house.
+    - "P.Oxy. I 110 is later (second-century CE) Egyptian evidence for a cult meal. It asks its recipient to dine at the klinē ('couch') of Sarapis, whereas Paul uses trapeza ('table') in 1 Cor 10:21, so the two texts do not share a table formula. It identifies no guild or Corinthian event, and it does not make every private meal in 1 Cor 10:27-28 a sanctuary meal."
+    - Corinth already discusses sanctuary dining and unequal consumption in 1 Corinthians; Marzeaḥ is a specific West Semitic feasting association. Cross-reference both without repeating them.
+  sources_to_check:
+    - Pliny the Younger, Epistulae 2.6
+    - P.Mich. V 245 = GRA III 219 = AGRW 302 (Ann Arbor inv. 657)
+    - IG II² 1368 = LSCG 51 = GRA 51 = AGRW 7
+    - P.Oxy. I 110, lines 1-4 (HGV/TM 28404; Eton College ECM 2314)
+    - Metropolitan Museum of Art survey of Roman domestic dining rooms, furnishings, and tableware
+
+- id: greco-roman-associations
+  cultures: [greek, roman]
+  scope: >-
+    Greco-Roman associations organized people around occupations, cults, origins, and social
+    ties through officers, contributions, gatherings, meals, mutual obligations, and
+    commemorative practices. The entry treats the institution across the Mediterranean;
+    Jewish synagogues and the West Semitic marzeaḥ have their own entries.
+  passages:
+    - "Acts 19:23-41 | practice | Ephesian occupational organization provides institutional background for the gathering of craftsmen"
+    - "1Cor 6:1-8 | practice | Later association rules for internal dispute resolution offer a comparison for Paul's objections to members' public lawsuits"
+    - "1Cor 11:17-34 | practice | Association gatherings provide comparative evidence for the social organization of communal meals"
+    - "1Cor 14:26-40 | practice | Later association regulations offer comparative evidence for order, participation, and discipline at gatherings"
+    - "Rev 2:18-29 | practice | Thyatiran associations connect occupation, civic honor, and imperial priesthood"
+    - "Rev 2:20 | practice? | Guild-related cult meals are one proposed context for the sacrificial eating criticized here"
+  related: [thyatira-dyers-claudia-ammion, ephesus-silversmiths-hermeias-inscription, tebtynis-salt-merchants-papyrus, meals-and-banqueting, patronage-and-benefaction, temple-of-artemis-ephesus, marzeah, synagogues]
+  wikipedia: Collegium (ancient Rome)
+  image: null
+  author_notes:
+    - No cited inscription establishes universal compulsory guild membership or compulsory participation in idol meals. The reconstruction of Rev 2:20 as a guild-meal dispute is contested and must remain flagged.
+    - The Iobacchoi regulations (IG II² 1368) date to 164/165 CE. Present them as later comparative evidence, not direct evidence for Paul's congregation.
+    - Distinguish comparative institutional similarities from claims of organizational or literary dependence. Compare synagogues without equating all group types.
+    - The Sarapis invitation (P.Oxy. I 110) names no association and is no evidence of compulsory guild attendance.
+  sources_to_check:
+    - TAM V 972 = IGR IV 1242 = AGRW 129
+    - IEph 2212 = NewDocs IV 1 = GRA 126 = AGRW 161
+    - P.Mich. V 245 = GRA III 219 = AGRW 302
+    - IG II² 1368 = LSCG 51 = GRA 51 = AGRW 7
+    - P.Oxy. I 110, lines 1-4
+
+- id: greco-roman-households
+  cultures: [greek, roman]
+  scope: >-
+    Greco-Roman households combined kinship, economic production, religious activity, and
+    unequal authority, while household-management discourse prescribed relationships among
+    spouses, parents, children, and enslaved people. Israelite household organization, and
+    detailed treatment of slavery, adoption, and marriage, belong to their own entries.
+  passages:
+    - "Col 3:18-4:1 | form | Paired household relationships can be compared with household-management discourse without assuming direct dependence"
+    - "Eph 5:21-6:9 | form | Instructions to spouses, children, and enslaved people follow recognizable household relationships and authority structures"
+    - "1Pet 2:18-3:7 | practice | Instructions to household slaves and spouses presuppose unequal household authority and socially vulnerable members"
+    - "1Tim 3:4-5, 12 | practice | Household governance provides an explicit comparison for responsibility within the congregation"
+    - "Titus 2:1-10 | practice | Age, gender, household work, and enslavement structure the social expectations addressed"
+    - "Acts 16:14-15, 30-34 | practice | Household participation must be read within ancient domestic membership, not a modern nuclear family"
+  related: [household-and-kinship, slavery, adoption, marriage-and-bride-price, patronage-and-benefaction, meals-and-banqueting, murabbaat-divorce-deed, delphic-manumission-antigona]
+  wikipedia: New Testament household code
+  image: null
+  author_notes:
+    - Distinguish Greek prescriptions, Roman law, and provincial practice. Formal parallels do not establish dependence on Aristotle, and Roman patria potestas should not be imposed uniformly on households in the Greek East.
+    - Passage tags describe background without endorsing ancient inequalities.
+    - "Route detailed discussion through the topical entries: Household, Clan, and Tribe (Israelite), Slavery and Debt Servitude, Adoption, and Marriage, Bride-Price, and Dowry."
+    - "Report P04: documents record changes in household members' legal status as well as ideals of household government. Compare Mur 19 (a Jewish divorce deed) and SGDI II 1722 (the Delphic manumission of Antigona). Their dates, places, and legal forms differ; neither is the universal law of households in the Roman Empire. Do not attach every divorce or manumission verse to this hub."
+  sources_to_check:
+    - Aristotle, Politics 1.3, 1253b
+    - DJD II no. 19, pp. 104-109; MPAT no. 40, pp. 138-141 (Mur 19)
+    - Revue de Qumran 37.1 (2025), pp. 3-39, DOI 10.2143/RQ.37.1.3294505
+    - SGDI II 1722 (Reinhold 1996, item C)
+
+- id: roman-citizenship-and-provincial-justice
+  cultures: [roman]
+  scope: >-
+    Roman legal status, provincial governors' jurisdiction, coercive interrogation, and
+    referral to imperial authority, which explain the institutional stakes of the arrest and
+    trial narratives in Acts. Israelite gate justice and ancient Near Eastern courts are
+    treated under Courts, Judges, and Legal Procedure.
+  passages:
+    - "Acts 16:19-39 | practice | Beating, detention, and the citizenship claim expose the importance of legal status in provincial coercion"
+    - "Acts 22:24-29 | practice | Paul invokes citizenship before interrogation by flogging"
+    - "Acts 24:1-23 | practice | Accusation, response, adjournment, and custody illustrate proceedings before a provincial governor"
+    - "Acts 25:6-12 | practice | The governor's tribunal and appeal to Caesar require explanation of provincial jurisdiction and imperial referral"
+  related: [courts-and-legal-procedure, pontius-pilate, pilate-stone, pliny-trajan-correspondence, crucifixion, imperial-cult]
+  wikipedia: Roman citizenship
+  image: null
+  author_notes:
+    - This complements the existing ancient Near Eastern courts article. Distinguish protections attached to citizenship from blanket immunity.
+    - Treat reconstructions of the precise procedural mechanism in Acts 25 as debated.
+    - Cicero (forensic rhetoric of 70 BCE) and Pliny (c. 112 CE) illuminate institutions without proving the detailed historical accuracy of Acts.
+  sources_to_check:
+    - Cicero, In Verrem 2.5.161-170, especially 162-163 and 170
+    - Pliny, Epistulae 10.96.3-4; Trajan's reply, 10.97
+
+- id: taxation-tolls-and-tax-collectors
+  cultures: [roman, jewish]
+  scope: >-
+    Roman and local fiscal systems, including direct taxes, customs dues, and the work of
+    collectors, which explain the economic obligations and social tensions behind New
+    Testament tax passages. Ancient Near Eastern royal payments belong to Tribute and
+    Vassalage, and denominations to Coinage.
+  passages:
+    - "Luke 3:12-13 | practice | John distinguishes authorized collection from excessive demands"
+    - "Luke 19:1-10 | practice | A chief tax collector's wealth and restitution presuppose an organized system open to abuse"
+    - "Mark 2:14-17 | practice | A toll station and its collectors belong to the fiscal economy of movement and trade"
+    - "Mark 12:13-17 | practice | Tribute to Caesar, to be distinguished from customs dues and temple tax"
+    - "Rom 13:6-7 | language | Paul distinguishes taxes and customs among obligations to governing authorities"
+  related: [tribute-and-vassalage, coinage, census-of-quirinius, tyrian-shekel, herod-antipas]
+  wikipedia: Publicani
+  image: null
+  author_notes:
+    - Separate direct taxation, customs, local and Herodian arrangements, and temple dues.
+    - Do not assume every collector was a Roman official or every levy was farmed out.
+    - Do not transfer Egyptian or Asian rates directly to Judea. The Monumentum Ephesenum incorporates regulations from 75 BCE to 62 CE and concerns the province of Asia only; P.Oslo inv. 1457 is an Egyptian comparison.
+  sources_to_check:
+    - Tacitus, Annals 13.50-51
+    - Lex Portorii Asiae (Monumentum Ephesenum); M. Cottier et al., The Customs Law of Asia (Oxford, 2008), pp. 16-86
+    - P.Oslo inv. 1457 (receipt for money taxes, Oxyrhynchos, 25 January 30 CE)
+
+- id: exorcism-and-spirit-possession
+  cultures: [jewish]
+  corpus: nt
+  scope: >-
+    Jewish traditions about harmful spirits, protective psalms, authoritative names, and their
+    expulsion, which illuminate the practices and contested authority surrounding New
+    Testament exorcism narratives. The entry concentrates on Second Temple and early imperial
+    evidence; demonology in general is treated under Demons and Evil Spirits.
+  passages:
+    - "Mark 1:21-28 | practice | Jewish exorcistic traditions contextualize commands expelling an unclean spirit"
+    - "Mark 5:1-20 | practice | Possession and expulsion narratives can be compared with contemporary Jewish exorcistic claims"
+    - "Matt 12:22-29 | practice | Debate over exorcistic authority presupposes competing practitioners and explanations"
+    - "Acts 19:13-20 | practice | Invocation of a powerful name can be compared with Josephus's account of Solomonic exorcism"
+    - "Ps 91:1-16 | practice | 11Q11 preserves this psalm alongside incantatory compositions against harmful spirits"
+  related: [11q11-apocryphal-psalms, demons, magic-and-sorcery, medicine-and-healing, angelology, josephus]
+  wikipedia: Exorcism
+  image: null
+  author_notes:
+    - Distinguish reported claims from historical verification of miraculous effects.
+    - Do not project late magical handbooks backward without dating them, diagnose ancient possession medically, or equate every healing with exorcism.
+    - Demons and Evil Spirits stops before developed New Testament demonology; Magic and Medicine overlap only in part. Cross-reference them.
+  sources_to_check:
+    - Josephus, Antiquities 8.45-49, especially Eleazar's exorcism in 8.46-49
+    - 11Q11 (11QApocryphal Psalms), columns IV-VI
+    - 'Mika S. Pajunen, "How to Expel a Demon: Form- and Tradition-Critical Assessment of the Ritual of Exorcism in 11QApocryphal Psalms"'
+
+- id: philo
+  aliases: [Philo Judaeus]
+  cultures: [jewish, greek]
+  date: [-20, 50]
+  circa: true
+  scope: >-
+    The writings of Philo, a first-century Alexandrian Jew, which combine scriptural
+    interpretation with Greek philosophy and preserve important evidence for diaspora life,
+    temple symbolism, the Logos, and Roman rule. The entry is a guide to the corpus,
+    following the precedent of the Josephus entry.
+  passages:
+    - "John 1:1-18 | concept | Philo's Logos language supplies a contemporary Jewish comparison, without establishing dependence or identical theology"
+    - "Col 1:15-17 | imagery | Firstborn and divine-image language invites comparison with Philo's descriptions of the Logos"
+    - "Heb 8:1-5 | concept | Philo's incorporeal sanctuary patterns provide a Jewish comparison for Hebrews on the tabernacle"
+    - "John 18:28-19:16 | attests | Philo independently describes Pilate's governorship, but not this trial"
+    - "Exod 25:31-40 | imagery | Philo interprets the lampstand and sanctuary furnishings cosmically"
+  related: [josephus, septuagint, pontius-pilate, jewish-sects, temple-as-cosmos, wisdom-of-solomon]
+  wikipedia: Philo
+  image: null
+  author_notes:
+    - Distinguish comparison from literary dependence, and preserve the differences between Philo's Logos and New Testament Christology.
+    - The Embassy to Gaius attests Pilate as governor, not Jesus' trial.
+    - The date field gives Philo's approximate lifespan (c. 20 BCE–c. 50 CE).
+  sources_to_check:
+    - Philo, De confusione linguarum 146-147
+    - Philo, De vita Mosis 2.74-76, 102-105
+    - Philo, Legatio ad Gaium 299-305
+    - Posen Library, Philo of Alexandria
+    - Loeb Classical Library, Philo (12 vols.)
+
+- id: wisdom-of-solomon
+  aliases: [Book of Wisdom]
+  cultures: [jewish, greek]
+  date: [-50, 40]
+  circa: true
+  scope: >-
+    A Greek Jewish composition about righteousness, immortality, personified Wisdom, and
+    idolatry, which supplies close comparisons for several New Testament arguments and
+    images. It is canonical in Catholic and Orthodox traditions and is treated here as a
+    Jewish source for historical and intertextual comparison.
+  passages:
+    - "Rom 1:18-32 | parallel | Wisdom 13-15 likewise connects failure to recognize the creator, idolatry, and moral disorder"
+    - "Heb 1:1-4 | language | Radiance and divine-image language closely resembles Wisdom 7:25-26"
+    - "Col 1:15-17 | imagery | Wisdom's divine-image and cosmic language provides a Jewish comparison for Christological imagery"
+    - "Matt 27:41-43 | parallel | Mockery of God's righteous son parallels Wisdom 2:12-20; direct literary use is a separate question"
+    - "Acts 17:24-29 | parallel | Wisdom 13:1-9 similarly argues from creation toward recognition of its maker"
+  related: [ben-sira, septuagint, afterlife-and-resurrection, satan-the-adversary, hospitality, nehushtan, philo, cult-images]
+  wikipedia: Book of Wisdom
+  image: null
+  author_notes:
+    - Identify it as a Jewish literary source that is canonical in Catholic and Orthodox traditions, rather than universally calling it extrabiblical.
+    - Separate verbal and thematic parallels from disputed claims of direct borrowing.
+    - "Existing mentions to link (report P05): Afterlife and Resurrection Beliefs; The Satan (Wis 2:24 and the identity of diabolos); Hospitality (Wis 19:13-17); Nehushtan (Wis 16:5-7)."
+    - The date field gives the usual range for composition (late first century BCE to early first century CE); the date is debated.
+  sources_to_check:
+    - Wisdom of Solomon 7:22-8:1, especially 7:25-26
+    - Wisdom of Solomon 13:1-9; 14:22-31
+    - Wisdom of Solomon 2:12-20
+
+- id: 11qmelchizedek
+  aliases: [11Q13, Melchizedek Document]
+  cultures: [jewish]
+  scope: >-
+    The fragmentary Qumran scroll 11QMelchizedek, which interprets jubilee, release, and
+    judgment texts around a heavenly Melchizedek who delivers the righteous at the end time.
+    The entry distinguishes the physical fragments from the reconstructed composition.
+  passages:
+    - "Lev 25:8-13 | concept | The scroll rereads jubilee release as an eschatological liberation"
+    - "Deut 15:1-2 | language | Debt-release wording is incorporated into the scroll's eschatological interpretation"
+    - "Ps 82:1-2 | concept | Divine-council judgment language is applied to Melchizedek's eschatological role"
+    - "Isa 61:1-2 | parallel | Release, good news, and the favorable year structure the scroll's interpretation"
+    - "Luke 4:16-21 | concept | Both apply Isaiah 61's release language to eschatological fulfillment; literary dependence is not established"
+    - "Heb 7:1-17 | concept | An exalted Melchizedek provides a Second Temple comparison, while Hebrews develops a distinct argument"
+  related: [debt-release, messianic-expectations, divine-council, priesthood, angelology, dead-sea-scrolls, community-rule]
+  wikipedia: 11Q13
+  image: 11Q13 Melchizedek scroll
+  location: Israel Antiquities Authority, Jerusalem
+  author_notes:
+    - Do not assert that Luke or Hebrews copied this scroll, identify Melchizedek with Michael as settled fact, or treat the scroll as historical attestation of Genesis 14.
+    - Debt Remission, Manumission, and Jubilee already names 11QMelchizedek's eschatological release briefly; this entry gives the manuscript treatment.
+  sources_to_check:
+    - 11Q13 column II, especially II.2-3, 9-14, 15-25
+    - Israel Antiquities Authority, manuscript 11Q13
+    - A. P. Cekiera, "Interpretation of Scriptural Texts in 11QMelchizedek and Its Theological Implications," Biblical Annals 11/3 (2021) 411-439
+    - DJD XXIII
+
+- id: 4qmmt
+  aliases: [Miqṣat Maʿaśê ha-Torah, Halakhic Letter, 4Q394-399]
+  cultures: [jewish]
+  scope: >-
+    A legal composition from Qumran preserving Second Temple Jewish rulings on purity and
+    worship. It explains communal separation and uses language about "works of the law" and
+    righteousness. It is a reconstructed composition preserved in six manuscripts.
+  passages:
+    - "Gal 2:16 | language | MMT's 'works of the law' supplies a Jewish lexical comparison; its significance for Paul remains debated"
+    - "Rom 3:20-28 | language | Compare MMT C26-32 on legal observance and righteousness, without equating the arguments"
+    - "Gal 2:11-14 | practice | Legal disagreements could produce social separation; compare the dispute over shared meals"
+    - "Mark 7:1-23 | practice | Diverse Jewish purity rulings contextualize disputes over practice without identifying identical rules or parties"
+  related: [community-rule, temple-scroll, jewish-sects, purity-and-impurity, dead-sea-scrolls, calendars-and-month-names]
+  wikipedia: 4QMMT
+  image: 4QMMT scroll
+  author_notes:
+    - Its original addressee, letter form, and attached calendar are debated.
+    - Compare the phrase "works of the law" without identifying Paul's opponents with the MMT community or asserting literary dependence. The lexical comparison is clear enough to tag; its significance for Paul requires separate argument.
+  sources_to_check:
+    - 4QMMT (4Q394-399), section B and C7-9
+    - 4QMMT C26-32; 4Q398 frags. 14-17 col. II, especially lines 3 and 7
+    - Israel Antiquities Authority, manuscript 4Q396
+    - J. D. G. Dunn, "4QMMT and Galatians," New Testament Studies 43 (1997) 147-153
+    - DJD X
+
+- id: athletics-and-victory-crowns
+  cultures: [greek, roman]
+  scope: >-
+    Greek and Roman athletic contests, with their regulated competition, disciplined
+    preparation, public recognition, and perishable prizes, which supplied imagery for moral
+    effort and endurance across a family of New Testament metaphors.
+  passages:
+    - "1Cor 9:24-27 | imagery | Running, boxing, disciplined training, and a perishable wreath structure Paul's comparison"
+    - "Phil 3:12-14 | imagery | Pursuit of a goal and prize draws on competitive athletic imagery"
+    - "2Tim 2:5 | imagery | An athlete's reward depends on competing according to rules"
+    - "2Tim 4:7-8 | imagery | A completed contest and a victory crown frame the portrayal of persevering service"
+    - "Heb 12:1-2 | imagery | An endurance race and removal of impediments shape the exhortation"
+    - "1Tim 4:7-8 | imagery | Bodily training supplies the comparison for training in piety"
+  related: [corinth, stoics-epicureans-and-moral-philosophy, thyatira-dyers-claudia-ammion]
+  wikipedia: Isthmian Games
+  image: Panathenaic amphora runners
+  author_notes:
+    - Do not assign every race or crown metaphor to the Isthmian Games specifically.
+    - Distinguish athletic wreaths from royal diadems and other forms of crown imagery.
+    - Use Epictetus as comparative evidence for a shared moral idiom, not as a source copied by Paul.
+  sources_to_check:
+    - Epictetus, Enchiridion 29
+    - Excavation publications of the sanctuary and athletic facilities at Isthmia
+
+- id: stoics-epicureans-and-moral-philosophy
+  cultures: [greek, roman]
+  scope: >-
+    Stoic and Epicurean accounts of divinity, providence, death, virtue, and contentment,
+    which provide a philosophical setting for Acts and comparisons for New Testament moral
+    language.
+  passages:
+    - "Acts 17:18-34 | concept | Stoic and Epicurean accounts of deity and humanity contextualize the named schools and Paul's speech"
+    - "Phil 4:8-13 | language | Virtue and contentment vocabulary overlaps philosophical ethics, while Paul's sufficiency is grounded in Christ"
+    - "1Tim 6:6-8 | concept | Contentment with necessities invites comparison with philosophical ideals of self-sufficiency"
+  related: [ane-wisdom-literature, afterlife-and-resurrection, rhetorical-education-and-moral-exhortation, athletics-and-victory-crowns, wisdom-of-solomon]
+  wikipedia: Stoicism
+  image: null
+  author_notes:
+    - Present the differences between the schools, and distinguish widespread ethical vocabulary from proof of philosophical affiliation.
+    - Do not label Paul a Stoic, identify the target of Col 2:8 without argument, or use Epictetus (later) as a source for Paul.
+  sources_to_check:
+    - Aratus, Phaenomena 1-5, especially line 5
+    - Epicurus, Letter to Menoeceus (Diogenes Laertius 10.122-135, especially 123-127, 130-131)
+    - Epictetus, Enchiridion 29
+
+- id: berenike-judean-benefactor-decree
+  cultures: [jewish, greek]
+  date: [-50, -1]
+  circa: true
+  scope: >-
+    A late first-century BCE inscription from Berenike (Cyrenaica) recording a Judean
+    corporate body's recurring public honors for Decimus Valerius Dionysios after he financed
+    improvements to a building called an amphitheater. It is a specific Jewish diaspora
+    document for patronage and public recognition.
+  passages:
+    - "Luke 7:4-5 | practice | Jewish communal benefaction supplies a comparison for the elders' appeal based on a centurion's synagogue building"
+    - "Luke 22:25-27 | practice | Public honors for financial support illustrate the civic recognition associated with benefaction"
+  related: [patronage-and-benefaction, greco-roman-associations, synagogues, theodotos-inscription]
+  wikipedia: null
+  image: null
+  author_notes:
+    - The inscription does not attest the centurion in Luke or any New Testament individual. A Roman name alone does not show whether the benefactor was Jewish.
+    - Do not assume the corporate designation politeuma necessarily means formal political recognition.
+    - Explain the building terminology without assuming that it identifies either a Roman arena or a known synagogue.
+    - Two strong passage tags are preferable to speculative links based only on shared vocabulary.
+  sources_to_check:
+    - IBerenike 18 = CJZC 70 = AGRW 305
+
+- id: thyatira-dyers-claudia-ammion
+  cultures: [greek, roman]
+  date: [50]
+  circa: true
+  scope: >-
+    A marble statue base from Thyatira, dated about 50 CE, recording the dyers' honors for
+    Claudia Ammion, a civic and imperial priestess praised for her lavish service as contest
+    director. It documents the textile economy, civic honor, and priesthood of a city named
+    in Acts and Revelation.
+  passages:
+    - "Acts 16:14 | setting | Thyatira's dyers document the city's textile economy, without identifying Lydia or proving her guild membership"
+    - "Rev 2:18-29 | setting | Dyers' honors connect occupation, civic prestige, and imperial priesthood in the city addressed"
+  related: [greco-roman-associations, patronage-and-benefaction, athletics-and-victory-crowns, imperial-cult, purple-dye]
+  wikipedia: null
+  image: null
+  author_notes:
+    - The inscription does not identify Lydia, document her religious practice, or establish that she belonged to a guild. Use `setting`, not `attests`, for Lydia, since neither she nor her business is named.
+    - It does not mention sacrificial meals or establish compulsory cult participation.
+  sources_to_check:
+    - TAM V 972 = IGR IV 1242 = AGRW 129
+
+- id: ephesus-silversmiths-hermeias-inscription
+  cultures: [greek, roman]
+  date: [41, 54]
+  circa: true
+  scope: >-
+    A funerary inscription from Ephesus recording the silversmith Hermeias, his wife Claudia
+    Erotis, and the silversmiths' association responsible for protecting their tomb. It is a
+    named, surviving witness to organized silversmiths at Ephesus.
+  passages:
+    - "Acts 19:24-27 | attests | Attests Ephesian silversmiths as an organized body; neither Demetrius nor the riot is independently attested"
+  related: [greco-roman-associations, temple-of-artemis-ephesus, tebtynis-salt-merchants-papyrus]
+  wikipedia: null
+  image: null
+  author_notes:
+    - Retain the source's dating qualification, "41-54 CE or later".
+    - The `attests` relation concerns the occupational institution, not Demetrius or the events in Acts.
+    - A single precise passage tag is sufficient; additional burial or cult parallels would be weak.
+  sources_to_check:
+    - IEph 2212 = NewDocs IV 1 = GRA 126 = AGRW 161
+
+- id: tebtynis-salt-merchants-papyrus
+  aliases: [P.Mich. V 245]
+  cultures: [roman, egyptian]
+  date: [47]
+  scope: >-
+    A papyrus of 47 CE recording the Tebtynis salt merchants' rules for trade, taxation,
+    leadership, shared funds, monthly drinking gatherings, and penalties for noncompliance.
+    It is a contemporary documentary example of an association regulating its members,
+    finances, and gatherings, from Roman Egypt.
+  passages:
+    - "Acts 19:24-27 | practice | A contemporary Egyptian trade association supplies a regional comparison for artisan organization"
+    - "1Cor 11:17-22 | practice | Regulated shared drinking offers comparative evidence for organized communal gatherings and obligations"
+  related: [greco-roman-associations, meals-and-banqueting, marzeah, ephesus-silversmiths-hermeias-inscription]
+  wikipedia: null
+  image: null
+  location: University of Michigan Papyrology Collection, Ann Arbor (inv. 657)
+  author_notes:
+    - The correct primary reference is P.Mich. V 245, not P.Mich. V 243.
+    - The document regulates beer drinking but does not require idol meals or document Paul's congregation.
+    - Egyptian association rules are a regional comparison and must not be generalized into universal Roman law.
+    - The artifact designation follows the surviving papyrus; a broader corpus could instead be a text entry.
+  sources_to_check:
+    - P.Mich. V 245 = GRA III 219 = AGRW 302 (Ann Arbor inv. 657)
+
+- id: pliny-trajan-correspondence
+  cultures: [roman, christian]
+  date: [112]
+  circa: true
+  scope: >-
+    The correspondence of Pliny the Younger, governor of Bithynia-Pontus, with the emperor
+    Trajan around 112 CE about the investigation of Christians, their reported worship and
+    meals, punishment, and the emperor's instructions for handling accusations. It postdates
+    Paul and much of the New Testament.
+  passages:
+    - "1Pet 4:12-16 | practice | Later comparison for prosecution under the Christian name; not evidence for this letter's circumstances"
+    - "Rev 13:14-17 | practice | Later loyalty tests with imperial images do not establish Revelation's date or a universal enforcement system"
+    - "Acts 25:10-12 | practice | Pliny's referral of citizens to Rome supplies a later comparison for provincial jurisdiction"
+    - "1Cor 11:17-34 | practice | Later testimony to regular Christian meals does not establish their precise ritual form"
+  related: [imperial-cult, courts-and-legal-procedure, letter-writing-conventions, roman-citizenship-and-provincial-justice, greco-roman-associations]
+  wikipedia: Pliny the Younger on Christians
+  image: null
+  author_notes:
+    - Date it explicitly after Paul and much of the New Testament.
+    - Do not use it to prove a universal first-century persecution policy, identify the setting of 1 Peter or Revelation, or resolve the exact nature of the reported Christian meals.
+    - Coordinate with the citizenship and associations entries.
+  sources_to_check:
+    - Pliny, Epistulae 10.96.3-4; Trajan, Epistulae 10.97
+
+- id: 11q11-apocryphal-psalms
+  aliases: [11Q11, 11QapocrPs]
+  cultures: [jewish]
+  scope: >-
+    A Qumran manuscript containing protective and exorcistic psalms, including a version of
+    Psalm 91, which documents the use of sacred song against harmful spirits. It is distinct
+    from the Great Psalms Scroll (11Q5).
+  passages:
+    - "Ps 91:1-16 | parallel | Preserves a version of Psalm 91 within a collection of protective and exorcistic songs"
+    - "Matt 4:5-7 | concept? | Psalm 91 is quoted during the temptation; its protective reception supplies a possible interpretive context"
+    - "Luke 4:9-12 | concept? | The quotation of Psalm 91 can be compared with its contemporary use against harmful spirits"
+  related: [exorcism-and-spirit-possession, demons, magic-and-sorcery, dead-sea-scrolls]
+  wikipedia: null
+  image: 11Q11 apocryphal psalms scroll
+  author_notes:
+    - Keep this manuscript distinct from 11Q5.
+    - Distinguish the textual preservation of Psalm 91 from disputed explanations of the temptation narratives.
+  sources_to_check:
+    - 11Q11, columns IV-VI (Psalm 91 in column VI)
+    - Peter W. Flint, "Apocryphal Psalms in the Psalms Scrolls and in Texts Incorporating Psalms" (2014), Appendix I, pp. 621-629
+    - DJD XXIII
+
+- id: rhetorical-education-and-moral-exhortation
+  cultures: [greek, roman]
+  scope: >-
+    Greek and Roman instruction in persuasive speech and moral argument, which supplies
+    comparisons for questions, imagined objections, praise, blame, and appeals in New
+    Testament discourse. Epistolary format belongs to Letter-Writing Conventions and
+    school-specific ethics to the philosophy entry.
+  passages:
+    - "Rom 3:1-9 | form | Questions and imagined objections can be compared with ancient descriptions of argumentative devices"
+    - "1Cor 1:17-2:5 | practice | Paul evaluates persuasive speech within ancient practices of rhetorical education and public performance"
+    - "2Cor 10:10-11 | practice | Contrast between forceful letters and disparaged speech reflects expectations of oral performance"
+    - "Acts 24:1-9 | form | Tertullus's accusation displays forensic speech and a flattering opening before a provincial governor"
+  related: [letter-writing-conventions, scribes-and-scribal-education, stoics-epicureans-and-moral-philosophy, roman-citizenship-and-provincial-justice]
+  wikipedia: Rhetoric
+  image: null
+  author_notes:
+    - Write about demonstrable forms. Do not claim that every epistle follows a complete classical speech scheme or that shared devices prove elite schooling.
+    - Quintilian (late first century) is comparative evidence, not a source Paul could have read.
+    - Whether Romans should be classified as diatribe or another full literary genre is a further interpretive question.
+  sources_to_check:
+    - Quintilian, Institutio Oratoria 4.1.1-7
+    - Quintilian, Institutio Oratoria 9.2.6-17, especially 14-17
+
+- id: 4q521-messianic-apocalypse
+  aliases: [4Q521, On Resurrection]
+  cultures: [jewish]
+  scope: >-
+    A fragmentary Hebrew Qumran manuscript describing eschatological deliverance through
+    scriptural images of healing, release, resurrection, and good news to the poor. The entry
+    consolidates evidence already discussed under Messianic Expectations.
+  passages:
+    - "Isa 35:5-6 | parallel | Restoration of sight and bodily wholeness contributes to the scroll's scriptural account of deliverance"
+    - "Isa 61:1-2 | parallel | Good news to the poor and release language recur in the scroll's account of eschatological acts"
+    - "Ps 146:7-8 | parallel | Release of prisoners, opening blind eyes, and raising the bowed share wording with frag. 2 col. II"
+    - "Matt 11:2-6 | parallel | Healing, raising the dead, and good news to the poor form a closely comparable cluster of signs"
+    - "Luke 7:18-23 | parallel | Jesus' answer to John's messengers combines signs also associated with deliverance in 4Q521"
+  related: [messianic-expectations, afterlife-and-resurrection, dead-sea-scrolls, 11qmelchizedek]
+  wikipedia: 4Q521
+  image: 4Q521 messianic apocalypse
+  author_notes:
+    - Optional record in the report (group C).
+    - The parallel wording is clear. The identity and agency of the anointed figure, and claims of direct dependence, require separate treatment.
+  sources_to_check:
+    - 4Q521 frag. 2 col. II
+    - Benjamin Wold, "Agency and Raising the Dead in 4QPseudo-Ezekiel and 4Q521 2 ii," ZNW 103 (2012) 1-19
+    - DJD XXV
+
+- id: 4q246-son-of-god
+  aliases: [4Q246, Aramaic Apocalypse]
+  cultures: [jewish]
+  scope: >-
+    A fragmentary Aramaic apocalypse from Qumran describing successive kingdoms and a disputed
+    figure called "Son of God" and "Son of the Most High". The entry consolidates a comparison
+    already explained under Messianic Expectations.
+  passages:
+    - "Luke 1:32-35 | language | Shares Son of God and Son of the Most High titles without establishing identical referents or dependence"
+    - "Dan 7:13-14, 27 | parallel | An enduring kingdom and the people of God connect the apocalypse with Daniel's kingdom vision"
+    - "Ps 82:6-8 | parallel? | A proposed allusion links divine sonship language and judgment of rulers or heavenly powers"
+  related: [messianic-expectations, king-as-son-of-god, four-kingdoms-schema, dead-sea-scrolls, divine-council]
+  wikipedia: 4Q246
+  image: 4Q246 son of god text
+  author_notes:
+    - Optional record in the report (group C).
+    - Represent royal, heavenly, hostile-ruler, and collective interpretations fairly. The Psalm 82 proposal must remain explicitly disputed.
+  sources_to_check:
+    - 4Q246 cols. I-II
+    - Michael Segal, "Who Is the Son of God in 4Q246?," Dead Sea Discoveries 21 (2014) 289-312
+    - DJD XXII
+
+- id: murabbaat-divorce-deed
+  aliases: [Mur 19, P.Mur. 19]
+  cultures: [jewish]
+  date: [71, 112]
+  circa: true
+  scope: >-
+    An Aramaic divorce deed issued at Masada by Joseph son of Naqsan to Miriam daughter of
+    Jonathan and found at Wadi Murabbaʿat. It records the dissolution of their marriage, her
+    permission to remarry, financial obligations, and witnesses.
+  passages:
+    - "Deut 24:1-4 | form | A surviving divorce instrument supplies a comparison for the written certificate and the permission to remarry"
+    - "Matt 5:31-32 | practice | Documents the legal procedure presupposed by the discussion of divorce and remarriage"
+    - "Matt 19:7-9 | practice | Clarifies what issuing a certificate could entail without resolving the Gospel's ethical argument"
+    - "Mark 10:4-12 | practice | A concrete instrument for the certificate of divorce; it is husband-issued and says nothing of wife-initiated divorce"
+  related: [marriage-and-bride-price, sealed-deeds, masada, dead-sea-scrolls, greco-roman-households, elephantine-papyri]
+  wikipedia: null
+  image: null
+  location: Israel Antiquities Authority, Jerusalem
+  author_notes:
+    - The date is disputed. Proposed readings of "year six" yield 71/72 CE or 111/112 CE, and a 2025 reassessment leaves the question open. Do not describe the deed as securely contemporary with Jesus. The date field spans both proposals.
+    - Do not infer a universal Jewish procedure from one document. This husband-issued deed neither documents wife-initiated divorce nor establishes uniform practice.
+    - Mur 19 names Masada as its place of issue but was found at Wadi Murabbaʿat; keep the place of issue, findspot, and debated setting distinct. It is not a Qumran sectarian manuscript.
+    - Existing references to Mur 17, Mur 18, and Mur 24E concern different documents. Distinguish the deed's legal function from the double-document format.
+  sources_to_check:
+    - DJD II no. 19, pp. 104-109
+    - MPAT no. 40, pp. 138-141
+    - Revue de Qumran 37.1 (2025), pp. 3-39, DOI 10.2143/RQ.37.1.3294505
+    - IAA, Leon Levy Dead Sea Scrolls Digital Library, plate 879, photograph B-496369
+
+- id: sarapis-dinner-invitation
+  aliases: [P.Oxy. I 110]
+  cultures: [roman, egyptian, greek]
+  date: [101, 200]
+  circa: true
+  scope: >-
+    A papyrus invitation from Oxyrhynchus asking its recipient to dine at the couch (klinē)
+    of the lord Sarapis in his sanctuary. It documents participation in a cult meal and is a
+    later (second-century CE) Egyptian comparison for the meals discussed in 1 Corinthians.
+  passages:
+    - "1Cor 8:10 | practice | A sanctuary dinner invitation helps readers picture the social setting of reclining in an idol's temple"
+    - "1Cor 10:20-21 | practice | Cult dining as a comparison for participation and allegiance; the Greek nouns for couch and table differ"
+    - "1Cor 10:27-28 | practice | Compare a cult invitation with the distinct situation of a private invitation and food identified as sacrificial"
+  related: [meals-and-banqueting, greco-roman-associations, corinth, sacrifice, imperial-cult]
+  wikipedia: Oxyrhynchus Papyri
+  image: Oxyrhynchus papyrus 110 Sarapis invitation
+  location: Eton College (ECM 2314)
+  author_notes:
+    - HGV dates the papyrus to the second century CE. It is later comparative evidence, not a contemporary Corinthian record.
+    - The invitation uses klinē ("couch"), whereas 1 Cor 10:21 uses trapeza ("table"). An older English translation ("table") should not become a claim of identical Greek wording.
+    - The invitation names no occupational association. Do not infer compulsory guild meals or treat it as an explanation of every meal Paul discusses.
+  sources_to_check:
+    - P.Oxy. I 110, lines 1-4 (HGV/TM 28404; Eton College ECM 2314)
+
+- id: delphic-manumission-antigona
+  aliases: [SGDI II 1722]
+  cultures: [greek, jewish]
+  date: [-170, -156]
+  circa: true
+  scope: >-
+    A Greek inscription from Delphi recording the formal sale to Pythian Apollo of Antigona,
+    a woman identified as Jewish, and her daughters Theodora and Dorothea, to secure their
+    freedom and protection against re-enslavement. It is a Greek legal document for sacral
+    manumission.
+  passages:
+    - "1Cor 6:19-20 | imagery | Purchase and belonging supply a comparative legal setting for the metaphor of being bought for a price"
+    - "1Cor 7:21-23 | practice | Compare manumission, legal freedom, and protection against enslavement, preserving the differences from Paul"
+    - "Phlm 15-16 | practice | A broad comparison for changes of status involving an enslaved person; the letter does not prescribe this procedure"
+  related: [slavery, debt-release, greco-roman-households, adoption]
+  wikipedia: null
+  image: Delphi polygonal wall manumission inscriptions
+  author_notes:
+    - Use a broad mid-second-century BCE date. PHI gives 170-157/6 BCE; some translations specify 158/7.
+    - A legal comparison does not establish that Paul's purchase language derives from sacral manumission, and it does not settle whether Philemon requests legal manumission.
+    - The identification of Antigona as Jewish does not establish the women's private religious beliefs. This document contains no requirement of continuing service (paramonē) to a former owner.
+  sources_to_check:
+    - SGDI II 1722, lines 1-16 (PHI Greek Inscriptions)
+    - Meyer Reinhold, Diaspora (1996), item C (translation, adapted)
+
+- id: lysanias-abila-inscriptions
+  cultures: [greek, roman]
+  date: [14, 29]
+  circa: true
+  scope: >-
+    Greek dedications near Abila (Abilene) by Nymphaeus, a freedman of Lysanias the tetrarch,
+    recording benefactions and preserving a ruler's name and title relevant to Luke's
+    geographical introduction. The paired witnesses are treated together.
+  passages:
+    - "Luke 3:1 | attests? | The inscriptions name a Lysanias called tetrarch near Abila; identification with Luke's ruler depends on dating"
+  related: [patronage-and-benefaction, imperial-cult, herod-antipas, census-of-quirinius]
+  wikipedia: Lysanias
+  image: null
+  author_notes:
+    - Optional record in the report (group E).
+    - Distinguish the secure reading of the name and title from identification with the ruler in Luke.
+    - The usual interpretation of the imperial titulature as Tiberius and Livia yields a proposed 14-29 CE date. The date field reflects that inference; do not present it as an inscribed date.
+    - Use Savignac's primary publication for the text, and assess its older historical argument against later scholarship. The online translation contains a chronological slip concerning Augustus.
+    - The dedication names the safety of the Augusti as its occasion but is dedicated to Kronos and the fatherland; it does not by itself attest worship addressed to the emperors (report R19).
+  sources_to_check:
+    - Savignac, Revue Biblique 9.4 (1912), pp. 533-540, inscription A, lines 3-4
+
+- id: darius-susa-foundation-dsf
+  aliases: [DSf, Susa foundation charter]
+  cultures: [persian]
+  scope: >-
+    Darius I's foundation inscription describing the materials, supply routes, and workers
+    drawn from across his empire to build the palace at Susa. The composition survives in
+    multiple witnesses, including the Old Persian clay tablet Louvre SB 2789.
+  passages:
+    - "Esth 1:2-7 | setting | Background for Susa's imperial palace and resources; Darius's project predates the narrative's reign of Ahasuerus"
+    - "Ezra 3:7 | practice | Compare procurement of materials and skilled labor across regions; the projects and politics differ"
+  related: [susa, darius-i, persia, temple-building-accounts, persepolis]
+  wikipedia: null
+  image: Darius Susa foundation charter Louvre
+  author_notes:
+    - Susa already summarizes this composition; it should not be counted as absent evidence.
+    - The type is text, for the multi-witness composition. An artifact treatment would have to specify SB 2789 and its physical properties. Do not describe SB 2789 alone as trilingual; that witness is Old Persian.
+    - The account does not establish Esther's banquet or identify its room or participants.
+  sources_to_check:
+    - Darius DSf, especially lines 22-58
+    - Louvre collection record SB 2789

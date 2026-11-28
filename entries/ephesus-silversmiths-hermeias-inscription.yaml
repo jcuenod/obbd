@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: ephesus-silversmiths-hermeias-inscription
+title: Ephesian Silversmiths' Inscription for Hermeias and Erotis
+type: artifact
+cultures: [greek, roman]
+date:
+  from: 41
+  circa: true
+  display: Reign of Claudius (41–54 CE) or later
+scope: >-
+  A funerary inscription from Ephesus recording the silversmith Hermeias, his wife Claudia
+  Erotis, and the silversmiths' association responsible for protecting their tomb. It is a
+  named, surviving witness to organized silversmiths at Ephesus.
+passages:
+- ref: Acts 19:24-27
+  rel: attests
+  note: >-
+    Attests Ephesian silversmiths as an organized body; neither Demetrius nor the riot is
+    independently attested
+related: [greco-roman-associations, temple-of-artemis-ephesus, tebtynis-salt-merchants-papyrus]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - Retain the source's dating qualification, "41-54 CE or later".
+  - >-
+    The `attests` relation concerns the occupational institution, not Demetrius or the events
+    in Acts.
+  - >-
+    A single precise passage tag is sufficient; additional burial or cult parallels would
+    be weak.
+  sources_to_check:
+  - IEph 2212 = NewDocs IV 1 = GRA 126 = AGRW 161
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    B03. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

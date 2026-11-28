@@ -1,0 +1,58 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: 11q11-apocryphal-psalms
+title: 11QApocryphal Psalms (11Q11)
+aliases: [11Q11, 11QapocrPs]
+type: artifact
+cultures: [jewish]
+scope: >-
+  A Qumran manuscript containing protective and exorcistic psalms, including a version of
+  Psalm 91, which documents the use of sacred song against harmful spirits. It is distinct
+  from the Great Psalms Scroll (11Q5).
+passages:
+- ref: Ps 91:1-16
+  rel: parallel
+  note: Preserves a version of Psalm 91 within a collection of protective and exorcistic songs
+- ref: Matt 4:5-7
+  rel: concept
+  disputed: true
+  note: >-
+    Psalm 91 is quoted during the temptation; its protective reception supplies a possible
+    interpretive context
+- ref: Luke 4:9-12
+  rel: concept
+  disputed: true
+  note: >-
+    The quotation of Psalm 91 can be compared with its contemporary use against harmful spirits
+related: [exorcism-and-spirit-possession, demons, magic-and-sorcery, dead-sea-scrolls]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - Keep this manuscript distinct from 11Q5.
+  - >-
+    Distinguish the textual preservation of Psalm 91 from disputed explanations of the temptation
+    narratives.
+  sources_to_check:
+  - 11Q11, columns IV-VI (Psalm 91 in column VI)
+  - >-
+    Peter W. Flint, "Apocryphal Psalms in the Psalms Scrolls and in Texts Incorporating Psalms"
+    (2014), Appendix I, pp. 621-629
+  - DJD XXIII
+  image_query: 11Q11 apocryphal psalms scroll
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    B06. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

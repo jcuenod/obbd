@@ -1,0 +1,75 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: 11qmelchizedek
+title: 11QMelchizedek (11Q13)
+aliases: [11Q13, Melchizedek Document]
+type: artifact
+cultures: [jewish]
+scope: >-
+  The fragmentary Qumran scroll 11QMelchizedek, which interprets jubilee, release, and judgment
+  texts around a heavenly Melchizedek who delivers the righteous at the end time. The entry
+  distinguishes the physical fragments from the reconstructed composition.
+passages:
+- ref: Lev 25:8-13
+  rel: concept
+  note: The scroll rereads jubilee release as an eschatological liberation
+- ref: Deut 15:1-2
+  rel: language
+  note: Debt-release wording is incorporated into the scroll's eschatological interpretation
+- ref: Ps 82:1-2
+  rel: concept
+  note: Divine-council judgment language is applied to Melchizedek's eschatological role
+- ref: Isa 61:1-2
+  rel: parallel
+  note: Release, good news, and the favorable year structure the scroll's interpretation
+- ref: Luke 4:16-21
+  rel: concept
+  note: >-
+    Both apply Isaiah 61's release language to eschatological fulfillment; literary dependence
+    is not established
+- ref: Heb 7:1-17
+  rel: concept
+  note: >-
+    An exalted Melchizedek provides a Second Temple comparison, while Hebrews develops a distinct
+    argument
+related: [debt-release, messianic-expectations, divine-council, priesthood, angelology, dead-sea-scrolls,
+  community-rule]
+location:
+  institution: Israel Antiquities Authority, Jerusalem
+  accession: null
+media: []
+external:
+  wikipedia: 11Q13
+  wikidata: Q4547749
+editorial:
+  author_notes:
+  - >-
+    Do not assert that Luke or Hebrews copied this scroll, identify Melchizedek with Michael
+    as settled fact, or treat the scroll as historical attestation of Genesis 14.
+  - >-
+    Debt Remission, Manumission, and Jubilee already names 11QMelchizedek's eschatological
+    release briefly; this entry gives the manuscript treatment.
+  sources_to_check:
+  - 11Q13 column II, especially II.2-3, 9-14, 15-25
+  - Israel Antiquities Authority, manuscript 11Q13
+  - >-
+    A. P. Cekiera, "Interpretation of Scriptural Texts in 11QMelchizedek and Its Theological
+    Implications," Biblical Annals 11/3 (2021) 411-439
+  - DJD XXIII
+  image_query: 11Q13 Melchizedek scroll
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    A10. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

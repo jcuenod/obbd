@@ -1,0 +1,71 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: 4q521-messianic-apocalypse
+title: 4Q521 (Messianic Apocalypse)
+aliases: [4Q521, On Resurrection]
+type: artifact
+cultures: [jewish]
+scope: >-
+  A fragmentary Hebrew Qumran manuscript describing eschatological deliverance through scriptural
+  images of healing, release, resurrection, and good news to the poor. The entry consolidates
+  evidence already discussed under Messianic Expectations.
+passages:
+- ref: Isa 35:5-6
+  rel: parallel
+  note: >-
+    Restoration of sight and bodily wholeness contributes to the scroll's scriptural account
+    of deliverance
+- ref: Isa 61:1-2
+  rel: parallel
+  note: >-
+    Good news to the poor and release language recur in the scroll's account of eschatological
+    acts
+- ref: Ps 146:7-8
+  rel: parallel
+  note: >-
+    Release of prisoners, opening blind eyes, and raising the bowed share wording with frag.
+    2 col. II
+- ref: Matt 11:2-6
+  rel: parallel
+  note: >-
+    Healing, raising the dead, and good news to the poor form a closely comparable cluster
+    of signs
+- ref: Luke 7:18-23
+  rel: parallel
+  note: >-
+    Jesus' answer to John's messengers combines signs also associated with deliverance in
+    4Q521
+related: [messianic-expectations, afterlife-and-resurrection, dead-sea-scrolls, 11qmelchizedek]
+media: []
+external:
+  wikipedia: 4Q521
+  wikidata: Q4638959
+editorial:
+  author_notes:
+  - Optional record in the report (group C).
+  - >-
+    The parallel wording is clear. The identity and agency of the anointed figure, and claims
+    of direct dependence, require separate treatment.
+  sources_to_check:
+  - 4Q521 frag. 2 col. II
+  - >-
+    Benjamin Wold, "Agency and Raising the Dead in 4QPseudo-Ezekiel and 4Q521 2 ii," ZNW 103
+    (2012) 1-19
+  - DJD XXV
+  image_query: 4Q521 messianic apocalypse
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    C04. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

@@ -1,0 +1,69 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: delphic-manumission-antigona
+title: Delphic Manumission of Antigona and Her Daughters
+aliases: [SGDI II 1722]
+type: artifact
+cultures: [greek, jewish]
+date:
+  from: -170
+  to: -156
+  circa: true
+  display: c. 170–156 BCE
+scope: >-
+  A Greek inscription from Delphi recording the formal sale to Pythian Apollo of Antigona,
+  a woman identified as Jewish, and her daughters Theodora and Dorothea, to secure their freedom
+  and protection against re-enslavement. It is a Greek legal document for sacral manumission.
+passages:
+- ref: 1Cor 6:19-20
+  rel: imagery
+  note: >-
+    Purchase and belonging supply a comparative legal setting for the metaphor of being bought
+    for a price
+- ref: 1Cor 7:21-23
+  rel: practice
+  note: >-
+    Compare manumission, legal freedom, and protection against enslavement, preserving the
+    differences from Paul
+- ref: Phlm 15-16
+  rel: practice
+  note: >-
+    A broad comparison for changes of status involving an enslaved person; the letter does
+    not prescribe this procedure
+related: [slavery, debt-release, greco-roman-households, adoption]
+media:
+- id: delphic-manumission-antigona
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Use a broad mid-second-century BCE date. PHI gives 170-157/6 BCE; some translations specify
+    158/7.
+  - >-
+    A legal comparison does not establish that Paul's purchase language derives from sacral
+    manumission, and it does not settle whether Philemon requests legal manumission.
+  - >-
+    The identification of Antigona as Jewish does not establish the women's private religious
+    beliefs. This document contains no requirement of continuing service (paramonē) to a former
+    owner.
+  sources_to_check:
+  - SGDI II 1722, lines 1-16 (PHI Greek Inscriptions)
+  - Meyer Reinhold, Diaspora (1996), item C (translation, adapted)
+  image_query: Delphi polygonal wall manumission inscriptions
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    D05. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

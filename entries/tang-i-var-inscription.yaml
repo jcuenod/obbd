@@ -1,0 +1,62 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tang-i-var-inscription
+title: Tang-i Var Rock Inscription of Sargon II
+type: artifact
+cultures: [assyrian]
+scope: >-
+  Sargon II's rock inscription at Tang-i Var in western Iran, which recounts the Ashdod rebellion
+  and the extradition of its leader Yamani by the Kushite ruler Shebitku. It illuminates relations
+  among Assyria, Philistia, and Kush.
+passages:
+- ref: Isa 20:1
+  rel: event
+  note: >-
+    Assyrian evidence for Sargon's capture of Ashdod; it does not attest Isaiah's symbolic
+    action
+- ref: Isa 20:3-6
+  rel: setting
+  note: >-
+    Yamani's unsuccessful refuge and extradition illuminate political reliance on Egypt and
+    Cush
+related: [cush, sargon-ii-inscriptions, sargon-ii, ashdod, taharqa]
+location:
+  institution: Tang-i Var, Kurdistan Province, Iran (in situ)
+  accession: null
+media:
+- id: tang-i-var-inscription
+  role: primary
+- id: tang-i-var-inscription-2
+  role: gallery
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Cush already discusses this source; classify the entry as a dedicated expansion, not missing
+    evidence.
+  - >-
+    Keep the chronology of the inscription, the campaign, and the extradition separate. Changing
+    reconstructions of Kushite succession should not be collapsed into one certain timeline.
+  - Use the current RINAP 2 edition alongside Frame's first publication.
+  sources_to_check:
+  - >-
+    Grant Frame, "The Inscription of Sargon II at Tang-i Var," Orientalia 68 (1999) 31-57,
+    especially lines 19-21
+  - RINAP 2 (2021), Sargon II 116; ORACC Q006597
+  image_query: Tang-i Var inscription Sargon
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    F02. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

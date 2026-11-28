@@ -1,0 +1,90 @@
+# Images for the entries added from the OBBD Entry Additions and Revisions Report
+# (27 November 2026). Selected from Commons candidates (.cache/candidates/) and targeted
+# media-search queries; licenses are re-checked by `./obbd media-fetch`.
+# Uncertain picks are listed in seed/images/uncertain.md under "Batch 11".
+
+papyrus-amherst-63:
+  - file: "File:Papyrus Amherst 63, obverse, columns x-xi.jpg"
+    caption: "Papyrus Amherst 63, obverse, columns x–xi: Aramaic written in Demotic script."
+    role: primary
+  - file: "File:Papyrus Amherst 63, reverse, columns xviii-xx.jpg"
+    caption: "Papyrus Amherst 63, reverse, columns xviii–xx."
+    role: gallery
+
+4qmmt:
+  - file: "File:4Q396.png"
+    caption: "4Q396 (4QMMTc), one of the six manuscripts of 4QMMT, late first century BCE to early first century CE."
+    role: primary
+
+4q246-son-of-god:
+  - file: "File:4q246-manuscript.jpg"
+    caption: "4Q246, the Aramaic 'Son of God' text from Qumran Cave 4."
+    role: primary
+
+adon-letter:
+  - file: "File:Adon Papyrus.jpg"
+    caption: "The Adon papyrus from Saqqara, an Aramaic letter appealing to Pharaoh for help against a Babylonian advance (Egyptian Museum, Cairo)."
+    role: primary
+
+nebo-sarsekim-tablet:
+  - file: 'File:The chief eunuch, Nabu-sharussu-ukin (Nebuchadnezzar II''s right-hand man), "rab sha-reshi", donated gold to the god Marduk temple at Babylon. His name and title occur as Nebo-Sarsekim,"rab-saris", in Hebrew in the Book of Jeremiah.jpg'
+    caption: "Receipt recording gold delivered by Nabû-šarrūssu-ukīn, rab ša-rēši, to the temple of Marduk in Babylon (British Museum, BM 114789)."
+    role: primary
+
+tang-i-var-inscription:
+  - file: "File:Tang-i Var 2012, F.Biglari.JPG"
+    caption: "Sargon II's rock inscription at the Tang-i Var pass, Sanandaj district, Kurdistan Province, Iran."
+    role: primary
+  - file: "File:Epigraph of Tangivar 02.jpg"
+    caption: "Closer view of the Tang-i Var inscription in its rock-cut setting."
+    role: gallery
+
+darius-susa-foundation-dsf:
+  - file: "File:Charte de fondation du palais de Darius Ier en vieux perse - Musée du Louvre Antiquités orientales SB 2789.jpg"
+    caption: "Old Persian clay foundation tablet of Darius I's palace at Susa, one witness of DSf (Musée du Louvre, SB 2789)."
+    role: primary
+
+meals-and-banqueting:
+  - file: "File:Wall painting - banquet scene in triclinium - Pompeii (V 2 4) - Napoli MAN 120031 - 01.jpg"
+    caption: "Banquet scene from a triclinium at Pompeii (V 2, 4): men and women recline on couches while a young slave serves, Fourth Style (Museo Archeologico Nazionale, Naples, 120031)."
+    role: primary
+
+athletics-and-victory-crowns:
+  - file: "File:Amphora depicting runners, storage jar, Painter of Oxford 218 B, Attic black figure, c. 500 BC, terracotta - Spurlock Museum, UIUC - DSC05721.jpg"
+    caption: "Attic black-figure amphora with runners, Painter of Oxford 218 B, c. 500 BCE (Spurlock Museum, University of Illinois)."
+    role: primary
+
+patronage-and-benefaction:
+  - file: "File:Berenike-Inschrift (Libyen).jpg"
+    caption: "Honorific decree of the Judean politeuma of Berenike (Cyrenaica) for the Roman official Marcus Tittius, an example of public honors for a benefactor. This is a different decree from the one for Decimus Valerius Dionysios."
+    role: primary
+
+delphic-manumission-antigona:
+  - file: "File:Manumission Inscriptions at Delphi by Joy of Museums.jpg"
+    caption: "Manumission inscriptions carved at Delphi. The photograph illustrates the genre of Delphic manumission records; it does not necessarily show the Antigona inscription (SGDI II 1722)."
+    role: primary
+
+pliny-trajan-correspondence:
+  - file: "File:0012 - Milano - Sant'Ambrogio - Atrio - Frammento lapide C. Plinio - Foto Giovanni Dall'Orto 25-Apr-2007.jpg"
+    caption: "Fragment of a Roman inscription naming C. Plinius, reused in the atrium of Sant'Ambrogio, Milan, and commonly associated with the honorific inscription of Pliny the Younger."
+    role: primary
+
+# No suitable freely licensed image found (Commons searches 27 November 2026):
+11qmelchizedek: []                  # reason: no free image of 11Q13 on Commons
+11q11-apocryphal-psalms: []         # reason: no free image of 11Q11 on Commons
+4q521-messianic-apocalypse: []      # reason: no free image of 4Q521 on Commons
+murabbaat-divorce-deed: []          # reason: no free image of Mur 19; IAA Leon Levy photographs are not openly licensed
+sarapis-dinner-invitation: []       # reason: no image of P.Oxy. I 110 on Commons
+papyrus-brooklyn-35-1446: []        # reason: no image of the papyrus itself on Commons
+jerusalem-governor-sealing: []      # reason: no free image on Commons
+jerusalem-ivories: []               # reason: no free image on Commons
+jerubbaal-vessel-inscription: []    # reason: no free image on Commons
+louvre-leather-roll: []             # reason: no image of Louvre E 7976 on Commons
+berenike-judean-benefactor-decree: []   # reason: only a different Berenike decree (Marcus Tittius) is on Commons; used under patronage-and-benefaction
+thyatira-dyers-claudia-ammion: []   # reason: no image of TAM V 972 on Commons
+ephesus-silversmiths-hermeias-inscription: []  # reason: no image of IEph 2212 on Commons
+tebtynis-salt-merchants-papyrus: [] # reason: no image of P.Mich. V 245 on Commons
+lysanias-abila-inscriptions: []     # reason: no image on Commons
+philo: []                           # reason: only early-modern imaginary portraits (e.g. Thevet 1584)
+wisdom-of-solomon: []               # reason: only medieval illuminations; no early manuscript image found
+childbirth-midwifery-and-infant-care: []  # reason: no free photograph of an ancient birth brick or comparable object found

@@ -1,0 +1,55 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: thyatira-dyers-claudia-ammion
+title: Thyatira Dyers' Inscription Honoring Claudia Ammion
+type: artifact
+cultures: [greek, roman]
+date:
+  from: 50
+  to: 50
+  circa: true
+  display: c. 50 CE
+scope: >-
+  A marble statue base from Thyatira, dated about 50 CE, recording the dyers' honors for Claudia
+  Ammion, a civic and imperial priestess praised for her lavish service as contest director.
+  It documents the textile economy, civic honor, and priesthood of a city named in Acts and
+  Revelation.
+passages:
+- ref: Acts 16:14
+  rel: setting
+  note: >-
+    Thyatira's dyers document the city's textile economy, without identifying Lydia or proving
+    her guild membership
+- ref: Rev 2:18-29
+  rel: setting
+  note: >-
+    Dyers' honors connect occupation, civic prestige, and imperial priesthood in the city
+    addressed
+related: [greco-roman-associations, patronage-and-benefaction, athletics-and-victory-crowns,
+  imperial-cult, purple-dye]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The inscription does not identify Lydia, document her religious practice, or establish
+    that she belonged to a guild. Use `setting`, not `attests`, for Lydia, since neither she
+    nor her business is named.
+  - It does not mention sacrificial meals or establish compulsory cult participation.
+  sources_to_check: [TAM V 972 = IGR IV 1242 = AGRW 129]
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    B02. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

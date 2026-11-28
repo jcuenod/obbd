@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: meals-and-banqueting
+file: meals-and-banqueting.jpg
+title: >-
+  Wall painting - banquet scene in triclinium - Pompeii (V 2 4) - Napoli MAN 120031 - 01.jpg
+caption: >-
+  Banquet scene from a triclinium at Pompeii (V 2, 4): men and women recline on couches while
+  a young slave serves, Fourth Style (Museo Archeologico Nazionale, Naples, 120031).
+description: >-
+  - object type: wall painting (fresco) - description: banquet scene in triclinium: men and
+  women on klinai, young slave at round table; inscription over the head of the banqueters
+  (like speech bubbles): FACITIS VOBIS SUAVITER EGO CANTO EST ITA VALEAS (make yourself comfortable
+  - i sing - yes - be well) - period / date: fourth style of pompeian wall painting - height:
+  68 cm - width: 72 cm - findspot: Pompeii V, 2, 4: house of the triclinium - museum / inventory
+  number: Napoli, Museo Archeologico Nazionale 120031 - Please note: The above museum permits
+  photography of its exhibits for private, edu
+creator: ArchaiOptix
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: ArchaiOptix, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Wall_painting_-_banquet_scene_in_triclinium_-_Pompeii_(V_2_4)_-_Napoli_MAN_120031_-_01.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/1/15/Wall_painting_-_banquet_scene_in_triclinium_-_Pompeii_%28V_2_4%29_-_Napoli_MAN_120031_-_01.jpg
+  sha1: b12538948fb4039bf6cd4852eec8f9e97549fa35
+  original_size: [3333, 3446]
+  retrieved: '2026-11-27'
+derivative: Downscaled to 1548×1600 px
+size: [1548, 1600]
+depicts: [meals-and-banqueting]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

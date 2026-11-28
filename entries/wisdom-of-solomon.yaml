@@ -1,0 +1,76 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: wisdom-of-solomon
+title: Wisdom of Solomon
+aliases: [Book of Wisdom]
+type: text
+cultures: [jewish, greek]
+date:
+  from: -50
+  to: 40
+  circa: true
+  display: c. 50 BCE–40 CE
+scope: >-
+  A Greek Jewish composition about righteousness, immortality, personified Wisdom, and idolatry,
+  which supplies close comparisons for several New Testament arguments and images. It is canonical
+  in Catholic and Orthodox traditions and is treated here as a Jewish source for historical
+  and intertextual comparison.
+passages:
+- ref: Rom 1:18-32
+  rel: parallel
+  note: >-
+    Wisdom 13-15 likewise connects failure to recognize the creator, idolatry, and moral disorder
+- ref: Heb 1:1-4
+  rel: language
+  note: Radiance and divine-image language closely resembles Wisdom 7:25-26
+- ref: Col 1:15-17
+  rel: imagery
+  note: >-
+    Wisdom's divine-image and cosmic language provides a Jewish comparison for Christological
+    imagery
+- ref: Matt 27:41-43
+  rel: parallel
+  note: >-
+    Mockery of God's righteous son parallels Wisdom 2:12-20; direct literary use is a separate
+    question
+- ref: Acts 17:24-29
+  rel: parallel
+  note: Wisdom 13:1-9 similarly argues from creation toward recognition of its maker
+related: [ben-sira, septuagint, afterlife-and-resurrection, satan-the-adversary, hospitality,
+  nehushtan, philo, cult-images]
+media: []
+external:
+  wikipedia: Book of Wisdom
+  wikidata: Q202135
+editorial:
+  author_notes:
+  - >-
+    Identify it as a Jewish literary source that is canonical in Catholic and Orthodox traditions,
+    rather than universally calling it extrabiblical.
+  - Separate verbal and thematic parallels from disputed claims of direct borrowing.
+  - >-
+    Existing mentions to link (report P05): Afterlife and Resurrection Beliefs; The Satan
+    (Wis 2:24 and the identity of diabolos); Hospitality (Wis 19:13-17); Nehushtan (Wis 16:5-7).
+  - >-
+    The date field gives the usual range for composition (late first century BCE to early
+    first century CE); the date is debated.
+  sources_to_check:
+  - Wisdom of Solomon 7:22-8:1, especially 7:25-26
+  - Wisdom of Solomon 13:1-9; 14:22-31
+  - Wisdom of Solomon 2:12-20
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    A09. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

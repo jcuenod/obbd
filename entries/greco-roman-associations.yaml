@@ -1,0 +1,91 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: greco-roman-associations
+title: Associations, Occupational Guilds, and Communal Life
+type: practice
+cultures: [greek, roman]
+scope: >-
+  Greco-Roman associations organized people around occupations, cults, origins, and social
+  ties through officers, contributions, gatherings, meals, mutual obligations, and commemorative
+  practices. The entry treats the institution across the Mediterranean; Jewish synagogues
+  and the West Semitic marzeaḥ have their own entries.
+passages:
+- ref: Acts 19:23-41
+  rel: practice
+  note: >-
+    Ephesian occupational organization provides institutional background for the gathering
+    of craftsmen
+- ref: 1Cor 6:1-8
+  rel: practice
+  note: >-
+    Later association rules for internal dispute resolution offer a comparison for Paul's
+    objections to members' public lawsuits
+- ref: 1Cor 11:17-34
+  rel: practice
+  note: >-
+    Association gatherings provide comparative evidence for the social organization of communal
+    meals
+- ref: 1Cor 14:26-40
+  rel: practice
+  note: >-
+    Later association regulations offer comparative evidence for order, participation, and
+    discipline at gatherings
+- ref: Rev 2:18-29
+  rel: practice
+  note: Thyatiran associations connect occupation, civic honor, and imperial priesthood
+- ref: Rev 2:20
+  rel: practice
+  disputed: true
+  note: >-
+    Guild-related cult meals are one proposed context for the sacrificial eating criticized
+    here
+related:
+- thyatira-dyers-claudia-ammion
+- ephesus-silversmiths-hermeias-inscription
+- tebtynis-salt-merchants-papyrus
+- meals-and-banqueting
+- patronage-and-benefaction
+- temple-of-artemis-ephesus
+- marzeah
+- synagogues
+media: []
+external:
+  wikipedia: Collegium (ancient Rome)
+  wikidata: Q2237621
+editorial:
+  author_notes:
+  - >-
+    No cited inscription establishes universal compulsory guild membership or compulsory participation
+    in idol meals. The reconstruction of Rev 2:20 as a guild-meal dispute is contested and
+    must remain flagged.
+  - >-
+    The Iobacchoi regulations (IG II² 1368) date to 164/165 CE. Present them as later comparative
+    evidence, not direct evidence for Paul's congregation.
+  - >-
+    Distinguish comparative institutional similarities from claims of organizational or literary
+    dependence. Compare synagogues without equating all group types.
+  - >-
+    The Sarapis invitation (P.Oxy. I 110) names no association and is no evidence of compulsory
+    guild attendance.
+  sources_to_check:
+  - TAM V 972 = IGR IV 1242 = AGRW 129
+  - IEph 2212 = NewDocs IV 1 = GRA 126 = AGRW 161
+  - P.Mich. V 245 = GRA III 219 = AGRW 302
+  - IG II² 1368 = LSCG 51 = GRA 51 = AGRW 7
+  - P.Oxy. I 110, lines 1-4
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    A03. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

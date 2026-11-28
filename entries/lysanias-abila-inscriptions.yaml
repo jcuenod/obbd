@@ -1,0 +1,64 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: lysanias-abila-inscriptions
+title: Abila Inscriptions Naming Lysanias the Tetrarch
+type: text
+cultures: [greek, roman]
+date:
+  from: 14
+  to: 29
+  circa: true
+  display: c. 14–29 CE
+scope: >-
+  Greek dedications near Abila (Abilene) by Nymphaeus, a freedman of Lysanias the tetrarch,
+  recording benefactions and preserving a ruler's name and title relevant to Luke's geographical
+  introduction. The paired witnesses are treated together.
+passages:
+- ref: Luke 3:1
+  rel: attests
+  disputed: true
+  note: >-
+    The inscriptions name a Lysanias called tetrarch near Abila; identification with Luke's
+    ruler depends on dating
+related: [patronage-and-benefaction, imperial-cult, herod-antipas, census-of-quirinius]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - Optional record in the report (group E).
+  - >-
+    Distinguish the secure reading of the name and title from identification with the ruler
+    in Luke.
+  - >-
+    The usual interpretation of the imperial titulature as Tiberius and Livia yields a proposed
+    14-29 CE date. The date field reflects that inference; do not present it as an inscribed
+    date.
+  - >-
+    Use Savignac's primary publication for the text, and assess its older historical argument
+    against later scholarship. The online translation contains a chronological slip concerning
+    Augustus.
+  - >-
+    The dedication names the safety of the Augusti as its occasion but is dedicated to Kronos
+    and the fatherland; it does not by itself attest worship addressed to the emperors (report
+    R19).
+  - >-
+    Related background reading (a broader or neighbouring subject, so not linked as this entry's
+    Wikipedia/Wikidata identity): Wikipedia, "Lysanias".
+  sources_to_check:
+  - Savignac, Revue Biblique 9.4 (1912), pp. 533-540, inscription A, lines 3-4
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    E02. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

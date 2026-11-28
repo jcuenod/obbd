@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: adon-letter
+file: adon-letter.jpg
+title: Adon Papyrus.jpg
+caption: >-
+  The Adon papyrus from Saqqara, an Aramaic letter appealing to Pharaoh for help against a
+  Babylonian advance (Egyptian Museum, Cairo).
+description: Adon Papyrus
+creator: King Adon
+credit_line: Egyptian Museum
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: King Adon. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Adon_Papyrus.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/4/40/Adon_Papyrus.jpg
+  sha1: 19f58d2a8b34dd0fd1a2101f2646a12415a86769
+  original_size: [2128, 2358]
+  retrieved: '2026-11-27'
+derivative: Downscaled to 1444×1600 px
+size: [1444, 1600]
+depicts: [adon-letter]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

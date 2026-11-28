@@ -1,0 +1,89 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: meals-and-banqueting
+title: Meals, Banquets, and Dining Status
+type: practice
+cultures: [jewish, greek, roman]
+scope: >-
+  Jewish and Greco-Roman meals expressed social relationships through invitations, reclining
+  arrangements, service, food distribution, and the religious settings of communal eating.
+  The entry is a comparative hub for the social organization of meals; food production and
+  diet belong to Bread, Ovens, and Diet.
+passages:
+- ref: Luke 14:7-14
+  rel: practice
+  note: >-
+    Seating rank, invitations, and expected repayment make dining a setting for negotiating
+    status
+- ref: John 13:1-30
+  rel: realia
+  note: >-
+    Reclining positions and footwashing clarify the meal's physical setting and acts of service
+- ref: 1Cor 8:7-13
+  rel: practice
+  note: Eating in a deity's sanctuary connects communal dining with participation in cult
+- ref: 1Cor 10:14-33
+  rel: practice
+  note: >-
+    Sacrificial meals, marketplace purchases, and private invitations present distinct dining
+    situations
+- ref: 1Cor 11:17-34
+  rel: practice
+  note: >-
+    Unequal consumption and status distinctions at shared meals provide background for Paul's
+    criticism
+- ref: Gal 2:11-14
+  rel: practice
+  note: Shared eating and withdrawal from it publicly express community boundaries
+related: [patronage-and-benefaction, greco-roman-associations, tebtynis-salt-merchants-papyrus,
+  sarapis-dinner-invitation, corinth, bread-and-diet, hospitality, marzeah]
+media:
+- id: meals-and-banqueting
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Distinguish Jewish meals, Greek symposia, Roman convivia, and association gatherings by
+    period, region, and social level. Do not infer that every communal meal had the same layout
+    or ritual meaning.
+  - >-
+    The Anaploga villa at Corinth is a proposed architectural comparison, not an identified
+    Pauline meeting house.
+  - >-
+    P.Oxy. I 110 is later (second-century CE) Egyptian evidence for a cult meal. It asks its
+    recipient to dine at the klinē ('couch') of Sarapis, whereas Paul uses trapeza ('table')
+    in 1 Cor 10:21, so the two texts do not share a table formula. It identifies no guild
+    or Corinthian event, and it does not make every private meal in 1 Cor 10:27-28 a sanctuary
+    meal.
+  - >-
+    Corinth already discusses sanctuary dining and unequal consumption in 1 Corinthians; Marzeaḥ
+    is a specific West Semitic feasting association. Cross-reference both without repeating
+    them.
+  - >-
+    Related background reading (a broader or neighbouring subject, so not linked as this entry's
+    Wikipedia/Wikidata identity): Wikipedia, "Symposium".
+  sources_to_check:
+  - Pliny the Younger, Epistulae 2.6
+  - P.Mich. V 245 = GRA III 219 = AGRW 302 (Ann Arbor inv. 657)
+  - IG II² 1368 = LSCG 51 = GRA 51 = AGRW 7
+  - P.Oxy. I 110, lines 1-4 (HGV/TM 28404; Eton College ECM 2314)
+  - >-
+    Metropolitan Museum of Art survey of Roman domestic dining rooms, furnishings, and tableware
+  image_query: Roman banquet fresco Pompeii triclinium
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    A02. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

@@ -1786,3 +1786,76 @@
     - "S. R. K. Glanville, The Instructions of ʿOnchsheshonqy (Catalogue of Demotic Papyri in the British Museum 2, 1955)"
 
 # ---------------------------------------------------------------- ugarit-and-deities
+
+- id: papyrus-amherst-63
+  cultures: [aramean, egyptian]
+  scope: >-
+    An Aramaic religious anthology written in Egyptian Demotic script, which preserves a close
+    parallel to Psalm 20 and traditions of Aramaic-speaking communities in Egypt. The entry
+    distinguishes the surviving papyrus from the dates of its compositions.
+  passages:
+    - "Ps 20:1-9 | parallel | A close Aramaic parallel; the direction and history of the relationship remain debated; MT 20:2-10"
+  related: [elephantine-papyri, aramaic-language, royal-ideology]
+  wikipedia: Papyrus Amherst 63
+  image: Papyrus Amherst 63
+  location: Morgan Library & Museum, New York
+  author_notes:
+    - The Psalm 20 parallel is the recommended passage tag. The wider Egyptian diaspora setting is contextual information, not evidence for Jeremiah 44.
+    - Present competing reconstructions of the psalm relationship without asserting an original or a proven direction of borrowing.
+    - Check the papyrus's date and its current holding institution against the edition before stating them.
+  sources_to_check:
+    - Menahem Kister, "Psalm 20 and Papyrus Amherst 63," Vetus Testamentum 70 (2020) 426-457
+    - Tawny Lee Holm, critical edition project, "The Aramaic World through an Egyptian Lens" (Penn State, 2015-2016)
+
+- id: papyrus-brooklyn-35-1446
+  cultures: [egyptian]
+  date: [-1800, -1700]
+  circa: true
+  scope: >-
+    A late Middle Kingdom Egyptian administrative papyrus recording labor obligations and
+    Egyptian and foreign household dependents. It supplies concrete documentary background
+    for servitude and compulsory labor in Egypt.
+  passages:
+    - "Gen 39:1-6 | practice | Compare a foreign dependent's position in an Egyptian household; the papyrus does not identify Joseph"
+    - "Exod 1:11-14 | practice | Evidence for compulsory labor and the administration of dependent workers; it does not identify Israelites"
+  related: [joseph-story-egyptian-background, slavery, corvee-labor, louvre-leather-roll, hyksos]
+  wikipedia: Papyrus Brooklyn 35.1446
+  image: Papyrus Brooklyn 35.1446
+  location: Brooklyn Museum, New York
+  author_notes:
+    - Distinguish the papyrus's administrative sections, and explain the Egyptian labor and status terms rather than giving every person one uniform legal position.
+    - Avoid identifying Joseph, Shiphrah, or Israelites from similar names; no historical synchronism follows from the comparison.
+    - The institution often translated "Great Prison" (ḫnrt wr) also administered compulsory labor. Do not use a simplified prison reconstruction or an unqualified Genesis prison tag (Gen 39:20-23).
+    - The date field is an approximate late Middle Kingdom range; check it against the edition.
+  sources_to_check:
+    - William C. Hayes, A Papyrus of the Late Middle Kingdom in the Brooklyn Museum, Wilbour Monographs 5 (1955)
+    - Antonio Loprieno, "Slavery and Servitude," UCLA Encyclopedia of Egyptology (2012), especially pp. 3, 6-8
+    - Di Teodoro, Labour Organisation in Middle Kingdom Egypt (2018)
+
+- id: louvre-leather-roll
+  aliases: [Louvre E 7976]
+  cultures: [egyptian]
+  date: [-1275]
+  circa: true
+  scope: >-
+    An administrative leather roll from year five of Ramesses II recording brick-production
+    targets, deliveries, and shortfalls. It provides a close comparison for the quota system
+    described in Exodus and is distinct from the straw complaint in Papyrus Anastasi IV.
+  passages:
+    - "Exod 5:8 | practice | The accounting roll documents production targets; it does not document the command to withhold straw"
+    - "Exod 5:13-14 | practice | Recorded deliveries and deficits illuminate accountability for quotas, not the narrative's particular punishment"
+    - "Exod 1:14 | practice | Broader evidence for the organization of Egyptian brick production"
+  related: [tomb-of-rekhmire, papyrus-anastasi, corvee-labor, ramesses-ii, exodus-historical-questions, papyrus-brooklyn-35-1446]
+  wikipedia: null
+  image: null
+  location: Musée du Louvre, Paris (E 7976)
+  author_notes:
+    - This is an expansion of evidence already mentioned in the Rekhmire article, not a newly discovered omission.
+    - Separate the Louvre roll's quota accounts from the straw complaint in Papyrus Anastasi IV 12.5-13.8 and its parallel in V 3.1.
+    - The roll does not identify Israelite workers or establish an Exodus date. Omit unsupported claims about the interval each quota covered (e.g. a daily target).
+    - The date field converts year five of Ramesses II on the conventional chronology; check it.
+  sources_to_check:
+    - Louvre collection record E 7976
+    - KRI II, pp. 789-799, no. 283
+    - K. A. Kitchen, "From the Brickfields of Egypt," Tyndale Bulletin 27 (1976), pp. 141-142
+    - Bietak and Rendsburg, "Egypt and the Exodus," in Ancient Israel, rev. ed. (2021), ch. 2 (documentary comparison only)

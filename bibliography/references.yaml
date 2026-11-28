@@ -755,3 +755,664 @@ references:
     issued: {date-parts: [[2007]]}
     DOI: 10.69704/iaaRepV000.1996.44
     verified: 2026-11-23
+
+  # --- classical texts and documents ------------------------------------------------------
+  - id: seneca-benefits
+    citation-label: Seneca, On Benefits
+    type: book
+    title: On Benefits
+    author: [{literal: Seneca}]
+    translator: [{family: Griffin, given: Miriam}, {family: Inwood, given: Brad}]
+    publisher: University of Chicago Press
+    publisher-place: Chicago
+    issued: {date-parts: [[2011]]}
+    URL: https://press.uchicago.edu/ucp/books/book/chicago/O/bo3773596.html
+    verified: 2026-11-27
+  - id: pliny-letters
+    citation-label: Pliny, Letters
+    type: book
+    title: Letters and Panegyricus
+    author: [{literal: Pliny the Younger}]
+    translator: [{family: Radice, given: Betty}]
+    collection-title: Loeb Classical Library
+    collection-number: "55, 59"
+    publisher: Harvard University Press
+    publisher-place: Cambridge, MA
+    issued: {date-parts: [[1969]]}
+    URL: https://catalogue.nli.ie/Record/vtls000414831/TOC
+    verified: 2026-11-27
+  - id: aristotle-politics
+    citation-label: Aristotle, Politics
+    type: book
+    title: Politics
+    author: [{literal: Aristotle}]
+    translator: [{family: Jowett, given: Benjamin}]
+    URL: https://classics.mit.edu/Aristotle/politics.1.one.html
+    verified: 2026-11-27
+  - id: cicero-verres
+    citation-label: Cicero, Against Verres
+    type: book
+    title: The Orations of Marcus Tullius Cicero
+    author: [{literal: Cicero}]
+    translator: [{family: Yonge, given: C. D.}]
+    publisher: Henry G. Bohn
+    publisher-place: London
+    issued: {date-parts: [[1856]]}
+    URL: https://beta.perseus.tufts.edu/urn:cts:latinLit:phi0474.phi005.perseus-eng2:2.5/
+    verified: 2026-11-27
+  - id: tacitus-annals
+    citation-label: Tacitus, Annals
+    type: book
+    title: "Annals: Books 13–16"
+    author: [{literal: Tacitus}]
+    translator: [{family: Jackson, given: John}]
+    collection-title: Loeb Classical Library
+    collection-number: "322"
+    publisher: Harvard University Press
+    publisher-place: Cambridge, MA
+    issued: {date-parts: [[1937]]}
+    URL: https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/13B*.html
+    verified: 2026-11-27
+  - id: epictetus-handbook
+    citation-label: Epictetus, Handbook
+    type: book
+    title: "Discourses, Books 3–4. Fragments. The Encheiridion"
+    author: [{literal: Epictetus}]
+    translator: [{family: Oldfather, given: W. A.}]
+    collection-title: Loeb Classical Library
+    collection-number: "218"
+    publisher: Harvard University Press
+    publisher-place: Cambridge, MA
+    issued: {date-parts: [[1928]]}
+    verified: 2026-11-27
+  - id: aratus-phaenomena
+    citation-label: Aratus, Phaenomena
+    type: book
+    title: "Callimachus and Lycophron. Aratus"
+    author: [{literal: Aratus}]
+    translator: [{family: Mair, given: G. R.}]
+    collection-title: Loeb Classical Library
+    collection-number: "129"
+    publisher: William Heinemann
+    publisher-place: London
+    issued: {date-parts: [[1921]]}
+    URL: https://www.theoi.com/Text/AratusPhaenomena.html
+    verified: 2026-11-27
+  - id: epicurus-menoeceus
+    citation-label: Epicurus, Letter to Menoeceus
+    type: webpage
+    title: Letter to Menoeceus
+    author: [{literal: Epicurus}]
+    container-title: Internet Classics Archive
+    URL: https://classics.mit.edu/Epicurus/menoec.html
+    verified: 2026-11-27
+  - id: quintilian-orator
+    citation-label: Quintilian, Orator's Education
+    type: book
+    title: The Orator's Education
+    author: [{literal: Quintilian}]
+    translator: [{family: Russell, given: Donald A.}]
+    collection-title: Loeb Classical Library
+    collection-number: "124–127, 494"
+    publisher: Harvard University Press
+    publisher-place: Cambridge, MA
+    issued: {date-parts: [[2001]]}
+    URL: https://catalog.folger.edu/record/119174
+    verified: 2026-11-27
+  - id: agrw-7
+    citation-label: AGRW 7
+    type: webpage
+    title: Regulations of a Bacchic Association (the Iobacchoi)
+    container-title: Associations in the Greco-Roman World
+    URL: https://philipharland.com/greco-roman-associations/regulations-of-a-bacchic-association-the-iobacchoi/
+    verified: 2026-11-27
+  - id: agrw-129
+    citation-label: AGRW 129
+    type: webpage
+    title: Honors by Dyers for a Priestess of the Augusti
+    translator: [{family: Harland, given: Philip A.}]
+    container-title: Associations in the Greco-Roman World
+    URL: https://philipharland.com/greco-roman-associations/honors-by-dyers-for-a-priestess-of-the-augusti/
+    verified: 2026-11-27
+  - id: agrw-161
+    citation-label: AGRW 161
+    type: webpage
+    title: Grave of Hermeias with Fines Payable to the Silversmiths
+    translator: [{family: Harland, given: Philip A.}]
+    container-title: Associations in the Greco-Roman World
+    URL: https://philipharland.com/greco-roman-associations/161-grave-with-fines-payable-to-the-silversmiths/
+    verified: 2026-11-27
+  - id: agrw-302
+    citation-label: AGRW 302
+    type: webpage
+    title: Regulations of the Salt-Merchants
+    container-title: Associations in the Greco-Roman World
+    URL: https://philipharland.com/greco-roman-associations/302-regulations-of-the-salt-merchants/
+    verified: 2026-11-27
+  - id: agrw-305
+    citation-label: AGRW 305
+    type: webpage
+    title: Honors by a Corporate Body of Judeans for a Benefactor
+    translator: [{family: Harland, given: Philip A.}]
+    container-title: Associations in the Greco-Roman World
+    URL: https://philipharland.com/greco-roman-associations/305-honors-by-a-corporate-body-of-judeans-for-a-benefactor/
+    verified: 2026-11-27
+  - id: poxy-110
+    citation-label: P.Oxy. I 110
+    type: webpage
+    title: Invitation to Dinner
+    container-title: Papyri.info
+    URL: https://papyri.info/editions/p.oxy/1/110
+    verified: 2026-11-27
+  - id: delphi-1722
+    citation-label: SGDI II 1722
+    type: webpage
+    title: SGDI II 1722 (Delphi)
+    container-title: Packard Humanities Institute Greek Inscriptions
+    URL: https://epigraphy.packhum.org/text/241232
+    verified: 2026-11-27
+  - id: delphi-manumissions-attalus
+    citation-label: Delphic Manumissions
+    type: webpage
+    title: Manumission of Female Slaves at Delphi
+    container-title: Attalus
+    URL: https://www.attalus.org/docs/other/inscr_24.html
+    verified: 2026-11-27
+  - id: oslo-1457
+    citation-label: P.Oslo inv. 1457
+    type: webpage
+    title: Receipt for Money Taxes
+    container-title: Oslo Papyri Electronic System
+    URL: https://ub-baser.uio.no/opes/record/114
+    verified: 2026-11-27
+  - id: cottier-customs-asia
+    type: book
+    title: The Customs Law of Asia
+    editor: [{family: Cottier, given: Michel}, {family: Crawford, given: Michael H.}, {family: Crowther, given: Charles V.}, {family: Ferrary, given: Jean-Louis}, {family: Levick, given: Barbara M.}, {family: Salomies, given: Olli}, {family: Wörrle, given: Michael}]
+    publisher: Oxford University Press
+    publisher-place: Oxford
+    issued: {date-parts: [[2008]]}
+    ISBN: "9780199551514"
+    DOI: 10.1093/oso/9780199551514.001.0001
+    verified: 2026-11-27
+  - id: raff-roman-banquet
+    type: webpage
+    title: The Roman Banquet
+    author: [{family: Raff, given: Katharine}]
+    container-title: Heilbrunn Timeline of Art History
+    publisher: Metropolitan Museum of Art
+    issued: {date-parts: [[2011, 10]]}
+    URL: https://www.metmuseum.org/essays/the-roman-banquet
+    verified: 2026-11-27
+  - id: broneer-isthmia2
+    type: book
+    title: Topography and Architecture
+    author: [{family: Broneer, given: Oscar}]
+    collection-title: Isthmia
+    collection-number: "2"
+    publisher: American School of Classical Studies at Athens
+    issued: {date-parts: [[1973]]}
+    URL: https://www.ascsa.edu.gr/publications/book/?i=9780876619322
+    verified: 2026-11-27
+  - id: savignac-abila
+    type: article-journal
+    title: Texte complet de l’inscription d’Abila relative à Lysanias
+    author: [{family: Savignac, given: Raphaël}]
+    container-title: Revue Biblique
+    volume: "9"
+    issue: "4"
+    page: "533–540"
+    issued: {date-parts: [[1912]]}
+    URL: https://wholestones.org/wp-content/uploads/2019/11/ocrsavignac-texte-complet-de-le28099inscription-de28099abila-relative-a-lysanias.pdf
+    verified: 2026-11-27
+
+  # --- Second Temple Jewish texts ---------------------------------------------------------
+  - id: josephus-antiquities
+    citation-label: Josephus, Antiquities
+    type: book
+    title: "Jewish Antiquities: Books 5–8"
+    author: [{literal: Josephus}]
+    translator: [{family: Thackeray, given: H. St. J.}, {family: Marcus, given: Ralph}]
+    collection-title: Loeb Classical Library
+    collection-number: "281"
+    publisher: Harvard University Press
+    publisher-place: Cambridge, MA
+    issued: {date-parts: [[1934]]}
+    URL: https://catalogo.upsa.es/cgi-bin/koha/opac-detail.pl?biblionumber=185709
+    verified: 2026-11-27
+  - id: philo-confusion
+    citation-label: Philo, Confusion
+    type: book
+    title: "Philo, Volume IV: On the Confusion of Tongues and Other Works"
+    author: [{literal: Philo}]
+    translator: [{family: Colson, given: F. H.}, {family: Whitaker, given: G. H.}]
+    collection-title: Loeb Classical Library
+    collection-number: "261"
+    publisher: Harvard University Press
+    publisher-place: Cambridge, MA
+    issued: {date-parts: [[1932]]}
+    verified: 2026-11-27
+  - id: philo-life-of-moses
+    citation-label: Philo, Life of Moses
+    type: book
+    title: "Philo, Volume VI: On Abraham, On Joseph, On the Life of Moses"
+    author: [{literal: Philo}]
+    translator: [{family: Colson, given: F. H.}]
+    collection-title: Loeb Classical Library
+    collection-number: "289"
+    publisher: Harvard University Press
+    publisher-place: Cambridge, MA
+    issued: {date-parts: [[1935]]}
+    verified: 2026-11-27
+  - id: philo-embassy
+    citation-label: Philo, Embassy
+    type: book
+    title: "Philo, Volume X: On the Embassy to Gaius. General Indexes"
+    author: [{literal: Philo}]
+    translator: [{family: Colson, given: F. H.}]
+    collection-title: Loeb Classical Library
+    collection-number: "379"
+    publisher: Harvard University Press
+    publisher-place: Cambridge, MA
+    issued: {date-parts: [[1962]]}
+    verified: 2026-11-27
+  - id: nabre-wisdom
+    citation-label: NABRE
+    type: webpage
+    title: The Book of Wisdom
+    container-title: New American Bible, Revised Edition
+    publisher: United States Conference of Catholic Bishops
+    issued: {date-parts: [[2011]]}
+    URL: https://bible.usccb.org/bible/wisdom/0
+    verified: 2026-11-27
+  - id: djd10
+    citation-label: DJD 10
+    type: book
+    title: "Qumran Cave 4.V: Miqṣat Maʿaśe ha-Torah"
+    author: [{family: Qimron, given: Elisha}, {family: Strugnell, given: John}]
+    collection-title: Discoveries in the Judaean Desert
+    collection-number: "10"
+    publisher: Clarendon
+    publisher-place: Oxford
+    issued: {date-parts: [[1994]]}
+    URL: https://orion.huji.ac.il/resources/djd/X.html
+    verified: 2026-11-27
+  - id: djd22
+    citation-label: DJD 22
+    type: book
+    title: "Qumran Cave 4.XVII: Parabiblical Texts, Part 3"
+    editor: [{family: VanderKam, given: James C.}]
+    collection-title: Discoveries in the Judaean Desert
+    collection-number: "22"
+    publisher: Clarendon
+    publisher-place: Oxford
+    issued: {date-parts: [[1996]]}
+    ISBN: "9780198269366"
+    verified: 2026-11-27
+  - id: djd23
+    citation-label: DJD 23
+    type: book
+    title: "Qumran Cave 11.II: 11Q2–18, 11Q20–31"
+    author: [{family: García Martínez, given: Florentino}, {family: Tigchelaar, given: Eibert J. C.}, {family: van der Woude, given: Adam S.}]
+    collection-title: Discoveries in the Judaean Desert
+    collection-number: "23"
+    publisher: Clarendon
+    publisher-place: Oxford
+    issued: {date-parts: [[1998]]}
+    ISBN: "9780198269595"
+    verified: 2026-11-27
+  - id: djd25
+    citation-label: DJD 25
+    type: book
+    title: "Qumrân Grotte 4.XVIII: Textes hébreux (4Q521–4Q528, 4Q576–4Q579)"
+    author: [{family: Puech, given: Émile}]
+    collection-title: Discoveries in the Judaean Desert
+    collection-number: "25"
+    publisher: Clarendon
+    publisher-place: Oxford
+    issued: {date-parts: [[1998]]}
+    verified: 2026-11-27
+  - id: fitzmyer-harrington-mpat
+    citation-label: MPAT
+    type: book
+    title: "A Manual of Palestinian Aramaic Texts (Second Century B.C.–Second Century A.D.)"
+    author: [{family: Fitzmyer, given: Joseph A.}, {family: Harrington, given: Daniel J.}]
+    collection-title: Biblica et Orientalia
+    collection-number: "34"
+    publisher: Biblical Institute Press
+    publisher-place: Rome
+    issued: {date-parts: [[1978]]}
+    URL: https://books.google.com/books/about/A_Manual_of_Palestinian_Aramaic_Texts.html?id=ZSWsu-QSaPAC
+    verified: 2026-11-27
+  - id: jacobus-brock-murabbaat
+    type: article-journal
+    title: "Reconsidering the Redating of Five Jewish Documents in the 1990s: Updated Radiocarbon Dating Programs, Coins and Contracts From the Bar Kokhba Era"
+    author: [{family: Jacobus, given: Helen}, {family: Brock, given: Fiona}]
+    container-title: Revue de Qumran
+    volume: "37"
+    issue: "1"
+    page: "3–39"
+    issued: {date-parts: [[2025]]}
+    DOI: 10.2143/RQ.37.1.3294505
+    verified: 2026-11-27
+  - id: pajunen-exorcism
+    type: chapter
+    title: "How to Expel a Demon: Form- and Tradition-Critical Assessment of the Ritual of Exorcism in 11QApocryphal Psalms"
+    author: [{family: Pajunen, given: Mika S.}]
+    editor: [{family: Pajunen, given: Mika S.}, {family: Tervanotko, given: Hanna}]
+    container-title: "Crossing Imaginary Boundaries: The Dead Sea Scrolls in the Context of Second Temple Judaism"
+    page: "128–161"
+    publisher: Finnish Exegetical Society
+    publisher-place: Helsinki
+    issued: {date-parts: [[2015]]}
+    URL: https://helda.helsinki.fi/server/api/core/bitstreams/9512485d-4007-449e-9ce3-7d463b5b61cf/content
+    verified: 2026-11-27
+  - id: cekiera-melchizedek
+    type: article-journal
+    title: Interpretation of Scriptural Texts in 11QMelchizedek and Its Theological Implications
+    author: [{family: Cekiera, given: Andrzej Paweł}]
+    container-title: The Biblical Annals
+    volume: "11"
+    issue: "3"
+    page: "411–439"
+    issued: {date-parts: [[2021]]}
+    URL: https://repozytorium.kul.pl/handle/20.500.12153/2158
+    verified: 2026-11-27
+  - id: dunn-4qmmt
+    type: article-journal
+    title: 4QMMT and Galatians
+    author: [{family: Dunn, given: James D. G.}]
+    container-title: New Testament Studies
+    volume: "43"
+    issue: "1"
+    page: "147–153"
+    issued: {date-parts: [[1997]]}
+    URL: https://www.cambridge.org/core/journals/new-testament-studies/article/abs/4qmmt-and-galatians1/F34DE4AB1519F607A9671F322D4DF1E4
+    verified: 2026-11-27
+  - id: segal-4q246
+    type: article-journal
+    title: "Who Is the ‘Son of God’ in 4Q246? An Overlooked Example of Early Biblical Interpretation"
+    author: [{family: Segal, given: Michael}]
+    container-title: Dead Sea Discoveries
+    volume: "21"
+    issue: "3"
+    page: "289–312"
+    issued: {date-parts: [[2014]]}
+    URL: https://cris.huji.ac.il/en/publications/who-is-the-son-of-god-in-4q246-an-overlooked-example-of-early-bib-2/
+    verified: 2026-11-27
+  - id: wold-4q521
+    type: article-journal
+    title: Agency and Raising the Dead in 4QPseudo-Ezekiel and 4Q521 2 ii
+    author: [{family: Wold, given: Benjamin}]
+    container-title: Zeitschrift für die neutestamentliche Wissenschaft
+    volume: "103"
+    issue: "1"
+    page: "1–19"
+    issued: {date-parts: [[2012]]}
+    DOI: 10.1515/znw-2012-0001
+    verified: 2026-11-27
+
+  # --- material evidence, ancient Near Eastern texts, and research --------------------------
+  - id: van-der-toorn-amherst
+    type: book
+    title: Papyrus Amherst 63
+    editor: [{family: van der Toorn, given: Karel}]
+    collection-title: Alter Orient und Altes Testament
+    collection-number: "448"
+    publisher: Ugarit-Verlag
+    publisher-place: Münster
+    issued: {date-parts: [[2018]]}
+    URL: https://catalogue.bnf.fr/ark:/12148/cb45493380r
+    verified: 2026-11-27
+  - id: kister-amherst-ps20
+    type: article-journal
+    title: "Psalm 20 and Papyrus Amherst 63: A Window to the Dynamic Nature of Poetic Texts"
+    author: [{family: Kister, given: Menahem}]
+    container-title: Vetus Testamentum
+    volume: "70"
+    issue: "3"
+    page: "426–457"
+    issued: {date-parts: [[2020]]}
+    DOI: 10.1163/15685330-12341400
+    verified: 2026-11-27
+  - id: fleming-priestly-anointing
+    type: article-journal
+    title: The Biblical Tradition of Anointing Priests
+    author: [{family: Fleming, given: Daniel E.}]
+    container-title: Journal of Biblical Literature
+    volume: "117"
+    issue: "3"
+    page: "401–414"
+    issued: {date-parts: [[1998]]}
+    URL: https://www.jstor.org/stable/3266438
+    verified: 2026-11-27
+  - id: nakhai-israelite-religion
+    type: article-journal
+    title: "Women in Israelite Religion: The State of Research Is All New Research"
+    author: [{family: Nakhai, given: Beth Alpert}]
+    container-title: Religions
+    volume: "10"
+    issue: "2"
+    article-number: "122"
+    issued: {date-parts: [[2019]]}
+    DOI: 10.3390/rel10020122
+    verified: 2026-11-27
+  - id: flynn-children
+    type: book
+    title: "Children in Ancient Israel: The Hebrew Bible and Mesopotamia in Comparative Perspective"
+    author: [{family: Flynn, given: Shawn W.}]
+    publisher: Oxford University Press
+    publisher-place: Oxford
+    issued: {date-parts: [[2018]]}
+    URL: https://academic.oup.com/book/27466
+    verified: 2026-11-27
+  - id: mcgeough-birth-bricks
+    type: article-journal
+    title: Birth Bricks, Potter’s Wheels, and Exodus 1,16
+    author: [{family: McGeough, given: Kevin}]
+    container-title: Biblica
+    volume: "87"
+    issue: "3"
+    page: "305–318"
+    issued: {date-parts: [[2006]]}
+    URL: https://poj.peeters-leuven.be/content.php?id=3189049&journal_code=BIB&url=article.php
+    verified: 2026-11-27
+  - id: penn-abydos-birth-brick
+    type: webpage
+    title: Penn Museum Archaeologists Uncover 3,700-year-old “Magical” Birth Brick
+    container-title: Penn Today
+    publisher: University of Pennsylvania
+    issued: {date-parts: [[2002, 7]]}
+    URL: https://penntoday.upenn.edu/news/penn-museum-archaelogists-uncover-3700-year-old-magical-birth-brick-mayors-residence-just-outsi
+    verified: 2026-11-27
+  - id: bm-nebo-sarsekim
+    citation-label: BM 114789
+    type: webpage
+    title: Cuneiform Tablet (1920,1213.81)
+    author: [{literal: British Museum}]
+    container-title: British Museum Collection
+    URL: https://www.britishmuseum.org/collection/object/W_1920-1213-81
+    verified: 2026-11-27
+  - id: jursa-nebo-sarsekim
+    type: article-journal
+    title: Nabû-šarrūssu-ukīn, rab ša-rēši, und “Nebusarsekim” (Jer. 39:3)
+    author: [{family: Jursa, given: Michael}]
+    container-title: Nouvelles Assyriologiques Brèves et Utilitaires
+    issue: "1"
+    page: "9–10"
+    article-number: "5"
+    issued: {date-parts: [[2008]]}
+    URL: https://sepoa.fr/wp/wp-content/uploads/2012/06/2008-1.pdf
+    verified: 2026-11-27
+  - id: weksler-bdolah-western-wall
+    type: article-journal
+    title: Jerusalem, the Old City, Western Wall Plaza
+    author: [{family: Weksler-Bdolah, given: Shlomit}]
+    container-title: Hadashot Arkheologiyot
+    volume: "133"
+    issued: {date-parts: [[2021]]}
+    URL: https://hadashot.iaa.org.il/Report_Detail_Eng.aspx?id=25927
+    verified: 2026-11-27
+  - id: hayes-brooklyn-papyrus
+    type: book
+    title: "A Papyrus of the Late Middle Kingdom in the Brooklyn Museum: Papyrus Brooklyn 35.1446"
+    author: [{family: Hayes, given: William C.}]
+    collection-title: Wilbour Monographs
+    collection-number: "5"
+    publisher: Brooklyn Museum
+    publisher-place: Brooklyn
+    issued: {date-parts: [[1955]]}
+    URL: https://ci.nii.ac.jp/ncid/BD00538340
+    verified: 2026-11-27
+  - id: loprieno-servitude
+    type: article-journal
+    title: Slavery and Servitude
+    author: [{family: Loprieno, given: Antonio}]
+    container-title: UCLA Encyclopedia of Egyptology
+    issued: {date-parts: [[2012]]}
+    URL: https://escholarship.org/uc/item/8mx2073f
+    verified: 2026-11-27
+  - id: avisar-jerusalem-ivories
+    type: article-journal
+    title: "“Jerusalem Ivories”: Iron Age Decorated Ivory Panels from Building 100, Giv‘ati Parking Lot Excavations, and Their Cultural Setting"
+    author: [{family: Avisar, given: Reli}, {family: Shalev, given: Yiftah}, {family: Shochat, given: Harel}, {family: Gadot, given: Yuval}, {family: Koch, given: Ido}]
+    container-title: ʿAtiqot
+    volume: "106"
+    page: "57–74"
+    issued: {date-parts: [[2022]]}
+    DOI: 10.70967/2948-040X.1871
+    URL: https://publications.iaa.org.il/atiqot/vol106/iss1/6/
+    verified: 2026-11-27
+  - id: rollston-jerubbaal
+    type: article-journal
+    title: "The Jerubba‘al Inscription from Khirbet al-Ra‘i: A Proto-Canaanite (Early Alphabetic) Inscription"
+    author: [{family: Rollston, given: Christopher A.}, {family: Garfinkel, given: Yosef}, {family: Keimer, given: Kyle H.}, {family: Davis, given: Gillan}, {family: Ganor, given: Saar}]
+    container-title: Jerusalem Journal of Archaeology
+    volume: "2"
+    page: "1–15"
+    issued: {date-parts: [[2021]]}
+    DOI: 10.52486/01.00002.1
+    URL: https://openscholar.huji.ac.il/sites/default/files/jjar/files/rollston_et_al._2021_jjar_2_1-15.pdf
+    verified: 2026-11-27
+  - id: porten-adon
+    type: article-journal
+    title: The Identity of King Adon
+    author: [{family: Porten, given: Bezalel}]
+    container-title: Biblical Archaeologist
+    volume: "44"
+    issue: "1"
+    page: "36–52"
+    issued: {date-parts: [[1981]]}
+    DOI: 10.2307/3209735
+    verified: 2026-11-27
+  - id: moore-deaps-adon
+    type: webpage
+    title: "Pap. Cairo EM 86984 (Adon Letter)"
+    author: [{family: Moore, given: James D.}]
+    container-title: Digital Editions of Aramaic and Phoenician Sources
+    issued: {date-parts: [[2025, 12, 12]]}
+    URL: https://deaps.osu.edu/text_objects/12723
+    verified: 2026-11-27
+  - id: louvre-e7976
+    citation-label: Louvre E 7976
+    type: webpage
+    title: Parchemin (E 7976)
+    author: [{literal: Musée du Louvre}]
+    container-title: Louvre Collections
+    URL: https://collections.louvre.fr/ark:/53355/cl010003515
+    verified: 2026-11-27
+  - id: louvre-sb2789
+    citation-label: Louvre SB 2789
+    type: webpage
+    title: Document écrit (SB 2789)
+    author: [{literal: Musée du Louvre}]
+    container-title: Louvre Collections
+    URL: https://collections.louvre.fr/en/ark:/53355/cl010176876
+    verified: 2026-11-27
+  - id: kitchen-brickfields
+    type: article-journal
+    title: From the Brickfields of Egypt
+    author: [{family: Kitchen, given: K. A.}]
+    container-title: Tyndale Bulletin
+    volume: "27"
+    page: "137–147"
+    issued: {date-parts: [[1976]]}
+    DOI: 10.53751/001c.30629
+    URL: https://www.tyndalebulletin.org/article/30629-from-the-brickfields-of-egypt
+    verified: 2026-11-27
+  - id: frame-tang-i-var
+    type: article-journal
+    title: The Inscription of Sargon II at Tang-i Var
+    author: [{family: Frame, given: Grant}]
+    container-title: Orientalia
+    volume: "68"
+    issue: "1"
+    page: "31–57"
+    issued: {date-parts: [[1999]]}
+    URL: https://oracc.museum.upenn.edu/saao/aebp/downloads/frame_orns68_1999_text.pdf
+    verified: 2026-11-27
+  - id: winston-wisdom
+    type: book
+    title: The Wisdom of Solomon
+    author: [{family: Winston, given: David}]
+    collection-title: Anchor Bible
+    collection-number: "43"
+    publisher: Doubleday
+    publisher-place: Garden City, NY
+    issued: {date-parts: [[1979]]}
+    URL: https://yalebooks.yale.edu/book/9780300139990/the-wisdom-of-solomon/
+    verified: 2026-11-27
+  - id: kent-old-persian
+    type: book
+    title: "Old Persian: Grammar, Texts, Lexicon"
+    author: [{family: Kent, given: Roland G.}]
+    edition: "2"
+    collection-title: American Oriental Series
+    collection-number: "33"
+    publisher: American Oriental Society
+    publisher-place: New Haven
+    issued: {date-parts: [[1953]]}
+    URL: https://glottolog.org/resource/reference/id/47156
+    verified: 2026-11-27
+  - id: basello-old-persian-clay
+    type: chapter
+    title: Old Persian on Clay
+    author: [{family: Basello, given: Gian Pietro}]
+    editor: [{family: Gondet, given: Sébastien}, {family: Haerinck, given: Ernie}]
+    container-title: "L’Orient est son jardin: Hommage à Rémy Boucharlat"
+    publisher: Peeters
+    publisher-place: Leuven
+    issued: {date-parts: [[2018]]}
+    URL: https://unora.unior.it/handle/11574/186677
+    verified: 2026-11-27
+  - id: djd2
+    citation-label: DJD 2
+    type: book
+    title: Les grottes de Murabbaʿât
+    author: [{family: Benoit, given: Pierre}, {family: Milik, given: Józef T.}, {family: de Vaux, given: Roland}]
+    collection-title: Discoveries in the Judaean Desert
+    collection-number: "2"
+    publisher: Clarendon
+    publisher-place: Oxford
+    issued: {date-parts: [[1961]]}
+    URL: https://openlibrary.org/books/OL5817191M/Les_grottes_de_Murabba%CA%BBa%CC%82t
+    verified: 2026-11-27
+  - id: dss-study-edition
+    citation-label: DSS Study Edition
+    type: book
+    title: The Dead Sea Scrolls Study Edition
+    editor: [{family: García Martínez, given: Florentino}, {family: Tigchelaar, given: Eibert J. C.}]
+    publisher: Brill
+    publisher-place: Leiden
+    issued: {literal: "1997–1998"}
+    number-of-volumes: "2"
+    URL: https://brill.com/downloadpdf/edcollchap/book/9789004677166/front-1.pdf
+    verified: 2026-11-27
+  - id: sherwin-white-pliny
+    type: book
+    title: "The Letters of Pliny: A Historical and Social Commentary"
+    author: [{family: Sherwin-White, given: A. N.}]
+    publisher: Clarendon
+    publisher-place: Oxford
+    issued: {date-parts: [[1966]]}
+    verified: 2026-11-27

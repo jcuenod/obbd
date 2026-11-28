@@ -1,0 +1,83 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: greco-roman-households
+title: Greco-Roman Households and Household Management
+type: practice
+cultures: [greek, roman]
+scope: >-
+  Greco-Roman households combined kinship, economic production, religious activity, and unequal
+  authority, while household-management discourse prescribed relationships among spouses,
+  parents, children, and enslaved people. Israelite household organization, and detailed treatment
+  of slavery, adoption, and marriage, belong to their own entries.
+passages:
+- ref: Col 3:18-4:1
+  rel: form
+  note: >-
+    Paired household relationships can be compared with household-management discourse without
+    assuming direct dependence
+- ref: Eph 5:21-6:9
+  rel: form
+  note: >-
+    Instructions to spouses, children, and enslaved people follow recognizable household relationships
+    and authority structures
+- ref: 1Pet 2:18-3:7
+  rel: practice
+  note: >-
+    Instructions to household slaves and spouses presuppose unequal household authority and
+    socially vulnerable members
+- ref: 1Tim 3:4-5, 12
+  rel: practice
+  note: >-
+    Household governance provides an explicit comparison for responsibility within the congregation
+- ref: Titus 2:1-10
+  rel: practice
+  note: Age, gender, household work, and enslavement structure the social expectations addressed
+- ref: Acts 16:14-15, 30-34
+  rel: practice
+  note: >-
+    Household participation must be read within ancient domestic membership, not a modern
+    nuclear family
+related: [household-and-kinship, slavery, adoption, marriage-and-bride-price, patronage-and-benefaction,
+  meals-and-banqueting, murabbaat-divorce-deed, delphic-manumission-antigona]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Distinguish Greek prescriptions, Roman law, and provincial practice. Formal parallels
+    do not establish dependence on Aristotle, and Roman patria potestas should not be imposed
+    uniformly on households in the Greek East.
+  - Passage tags describe background without endorsing ancient inequalities.
+  - >-
+    Route detailed discussion through the topical entries: Household, Clan, and Tribe (Israelite),
+    Slavery and Debt Servitude, Adoption, and Marriage, Bride-Price, and Dowry.
+  - >-
+    Report P04: documents record changes in household members' legal status as well as ideals
+    of household government. Compare Mur 19 (a Jewish divorce deed) and SGDI II 1722 (the
+    Delphic manumission of Antigona). Their dates, places, and legal forms differ; neither
+    is the universal law of households in the Roman Empire. Do not attach every divorce or
+    manumission verse to this hub.
+  - >-
+    Related background reading (a broader or neighbouring subject, so not linked as this entry's
+    Wikipedia/Wikidata identity): Wikipedia, "New Testament household code".
+  sources_to_check:
+  - Aristotle, Politics 1.3, 1253b
+  - DJD II no. 19, pp. 104-109; MPAT no. 40, pp. 138-141 (Mur 19)
+  - Revue de Qumran 37.1 (2025), pp. 3-39, DOI 10.2143/RQ.37.1.3294505
+  - SGDI II 1722 (Reinhold 1996, item C)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    A04. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

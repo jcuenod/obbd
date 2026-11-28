@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: tang-i-var-inscription
+file: tang-i-var-inscription.jpg
+title: Tang-i Var 2012, F.Biglari.JPG
+caption: >-
+  Sargon II's rock inscription at the Tang-i Var pass, Sanandaj district, Kurdistan Province,
+  Iran.
+description: >-
+  The Inscription of Sargon II at Tang-i Var pass near the village of Tang-i Var , in the
+  district of Sanandaj, Kurdistan, Iran
+creator: Fereidoun Biglari
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Fereidoun Biglari, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tang-i_Var_2012,_F.Biglari.JPG
+  original_url: https://upload.wikimedia.org/wikipedia/commons/e/e3/Tang-i_Var_2012%2C_F.Biglari.JPG
+  sha1: 161a6cd08833f1c8b1ada2b6052be79bfebf9e9d
+  original_size: [1925, 2598]
+  retrieved: '2026-11-27'
+derivative: Downscaled to 1186×1600 px
+size: [1186, 1600]
+depicts: [tang-i-var-inscription]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

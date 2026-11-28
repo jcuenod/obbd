@@ -1,0 +1,69 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: jerubbaal-vessel-inscription
+title: Khirbet er-Raʿi Jerubbaal Vessel Inscription
+aliases: [Yrbʿl inscription, Jerubbaal inscription]
+type: artifact
+cultures: [canaanite, hebrew]
+date:
+  from: -1150
+  to: -1050
+  circa: true
+  display: c. 1150–1050 BCE
+scope: >-
+  An early alphabetic ink inscription on a pottery vessel from Khirbet er-Raʿi, read by its
+  editors as the personal name Yrbʿl ("Jerubbaal"). It is evidence for the name Jerubbaal
+  and the use of Baal in personal names, not for the identity of a biblical individual.
+passages:
+- ref: Judg 6:31-32
+  rel: language
+  disputed: true
+  note: >-
+    Compare the proposed personal name with Jerubbaal and the narrative's explanation of that
+    name
+- ref: Judg 7:1
+  rel: language
+  disputed: true
+  note: >-
+    The biblical identification of Jerubbaal as Gideon supplies a name comparison, not the
+    vessel owner's identity
+- ref: 2Sam 11:21
+  rel: language
+  disputed: true
+  note: >-
+    Compare the related form Jerubbesheth and the replacement of the Baal element in a personal
+    name
+related: [baal, writing-and-literacy, proto-sinaitic-script, khirbet-qeiyafa-ostracon]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - Optional record in the report (group E).
+  - >-
+    The first letter is incompletely preserved. Identify Yrbʿl as the editors' preferred reading
+    and explain alternatives.
+  - >-
+    The archaeological context is late twelfth or early eleventh century BCE. No patronymic
+    or title establishes that the owner was Gideon; avoid treating a shared name as a person
+    attestation.
+  - >-
+    Related background reading (a broader or neighbouring subject, so not linked as this entry's
+    Wikipedia/Wikidata identity): Wikipedia, "Khirbet er-Ra'i".
+  sources_to_check:
+  - Rollston et al., Jerusalem Journal of Archaeology 2 (2021) 1-15, DOI 10.52486/01.00002.1
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    E01. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

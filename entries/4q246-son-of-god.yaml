@@ -1,0 +1,62 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: 4q246-son-of-god
+title: 4Q246 (Son of God Text)
+aliases: [4Q246, Aramaic Apocalypse]
+type: artifact
+cultures: [jewish]
+scope: >-
+  A fragmentary Aramaic apocalypse from Qumran describing successive kingdoms and a disputed
+  figure called "Son of God" and "Son of the Most High". The entry consolidates a comparison
+  already explained under Messianic Expectations.
+passages:
+- ref: Luke 1:32-35
+  rel: language
+  note: >-
+    Shares Son of God and Son of the Most High titles without establishing identical referents
+    or dependence
+- ref: Dan 7:13-14, 27
+  rel: parallel
+  note: >-
+    An enduring kingdom and the people of God connect the apocalypse with Daniel's kingdom
+    vision
+- ref: Ps 82:6-8
+  rel: parallel
+  disputed: true
+  note: >-
+    A proposed allusion links divine sonship language and judgment of rulers or heavenly powers
+related: [messianic-expectations, king-as-son-of-god, four-kingdoms-schema, dead-sea-scrolls,
+  divine-council]
+media:
+- id: 4q246-son-of-god
+  role: primary
+external:
+  wikipedia: 4Q246
+  wikidata: Q4207111
+editorial:
+  author_notes:
+  - Optional record in the report (group C).
+  - >-
+    Represent royal, heavenly, hostile-ruler, and collective interpretations fairly. The Psalm
+    82 proposal must remain explicitly disputed.
+  sources_to_check:
+  - 4Q246 cols. I-II
+  - Michael Segal, "Who Is the Son of God in 4Q246?," Dead Sea Discoveries 21 (2014) 289-312
+  - DJD XXII
+  image_query: 4Q246 son of god text
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    C05. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

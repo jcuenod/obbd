@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: patronage-and-benefaction
+file: patronage-and-benefaction.jpg
+title: Berenike-Inschrift (Libyen).jpg
+caption: >-
+  Honorific decree of the Judean politeuma of Berenike (Cyrenaica) for the Roman official
+  Marcus Tittius, an example of public honors for a benefactor. This is a different decree
+  from the one for Decimus Valerius Dionysios.
+description: Honorific decree of the Jewish politeuma of Berenice (Libya) for Marcus Tittius
+  Sexti
+creator: Klaus-Norbert
+credit_line: Own work
+license:
+  id: CC-BY-SA-3.0
+  name: CC BY-SA 3.0
+  url: https://creativecommons.org/licenses/by-sa/3.0
+attribution: Klaus-Norbert, CC BY-SA 3.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Berenike-Inschrift_(Libyen).jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/8/83/Berenike-Inschrift_%28Libyen%29.jpg
+  sha1: fee51f5e7398c24ef6647e181b3fa0e9e7f8654c
+  original_size: [637, 825]
+  retrieved: '2026-11-27'
+derivative: null
+size: [637, 825]
+depicts: [patronage-and-benefaction]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

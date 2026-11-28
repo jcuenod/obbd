@@ -1,0 +1,64 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: roman-citizenship-and-provincial-justice
+title: Roman Citizenship and Provincial Justice
+type: practice
+cultures: [roman]
+scope: >-
+  Roman legal status, provincial governors' jurisdiction, coercive interrogation, and referral
+  to imperial authority, which explain the institutional stakes of the arrest and trial narratives
+  in Acts. Israelite gate justice and ancient Near Eastern courts are treated under Courts,
+  Judges, and Legal Procedure.
+passages:
+- ref: Acts 16:19-39
+  rel: practice
+  note: >-
+    Beating, detention, and the citizenship claim expose the importance of legal status in
+    provincial coercion
+- ref: Acts 22:24-29
+  rel: practice
+  note: Paul invokes citizenship before interrogation by flogging
+- ref: Acts 24:1-23
+  rel: practice
+  note: >-
+    Accusation, response, adjournment, and custody illustrate proceedings before a provincial
+    governor
+- ref: Acts 25:6-12
+  rel: practice
+  note: >-
+    The governor's tribunal and appeal to Caesar require explanation of provincial jurisdiction
+    and imperial referral
+related: [courts-and-legal-procedure, pontius-pilate, pilate-stone, pliny-trajan-correspondence,
+  crucifixion, imperial-cult]
+media: []
+external:
+  wikipedia: Roman citizenship
+  wikidata: Q213810
+editorial:
+  author_notes:
+  - >-
+    This complements the existing ancient Near Eastern courts article. Distinguish protections
+    attached to citizenship from blanket immunity.
+  - Treat reconstructions of the precise procedural mechanism in Acts 25 as debated.
+  - >-
+    Cicero (forensic rhetoric of 70 BCE) and Pliny (c. 112 CE) illuminate institutions without
+    proving the detailed historical accuracy of Acts.
+  sources_to_check:
+  - Cicero, In Verrem 2.5.161-170, especially 162-163 and 170
+  - Pliny, Epistulae 10.96.3-4; Trajan's reply, 10.97
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    A05. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

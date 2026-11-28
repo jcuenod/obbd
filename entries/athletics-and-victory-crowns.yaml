@@ -1,0 +1,65 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: athletics-and-victory-crowns
+title: Athletic Contests, Training, and Victory Crowns
+type: practice
+cultures: [greek, roman]
+scope: >-
+  Greek and Roman athletic contests, with their regulated competition, disciplined preparation,
+  public recognition, and perishable prizes, which supplied imagery for moral effort and endurance
+  across a family of New Testament metaphors.
+passages:
+- ref: 1Cor 9:24-27
+  rel: imagery
+  note: >-
+    Running, boxing, disciplined training, and a perishable wreath structure Paul's comparison
+- ref: Phil 3:12-14
+  rel: imagery
+  note: Pursuit of a goal and prize draws on competitive athletic imagery
+- ref: 2Tim 2:5
+  rel: imagery
+  note: An athlete's reward depends on competing according to rules
+- ref: 2Tim 4:7-8
+  rel: imagery
+  note: A completed contest and a victory crown frame the portrayal of persevering service
+- ref: Heb 12:1-2
+  rel: imagery
+  note: An endurance race and removal of impediments shape the exhortation
+- ref: 1Tim 4:7-8
+  rel: imagery
+  note: Bodily training supplies the comparison for training in piety
+related: [corinth, stoics-epicureans-and-moral-philosophy, thyatira-dyers-claudia-ammion]
+media:
+- id: athletics-and-victory-crowns
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - Do not assign every race or crown metaphor to the Isthmian Games specifically.
+  - Distinguish athletic wreaths from royal diadems and other forms of crown imagery.
+  - >-
+    Use Epictetus as comparative evidence for a shared moral idiom, not as a source copied
+    by Paul.
+  - >-
+    Related background reading (a broader or neighbouring subject, so not linked as this entry's
+    Wikipedia/Wikidata identity): Wikipedia, "Isthmian Games".
+  sources_to_check:
+  - Epictetus, Enchiridion 29
+  - Excavation publications of the sanctuary and athletic facilities at Isthmia
+  image_query: Panathenaic amphora runners
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    A14. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

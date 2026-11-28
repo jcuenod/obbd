@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: 4qmmt
+file: 4qmmt.png
+title: 4Q396.png
+caption: >-
+  4Q396 (4QMMTc), one of the six manuscripts of 4QMMT, late first century BCE to early first
+  century CE.
+description: 4Q396 (4QMMTc) - late first century B.C.E.-early first century C.E.
+creator: Unknown authorUnknown author
+credit_line: http://www.ibiblio.org/expo/deadsea.scrolls.exhibit/Library/torah.html
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Unknown authorUnknown author. Public domain, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:4Q396.png
+  original_url: https://upload.wikimedia.org/wikipedia/commons/4/4d/4Q396.png
+  sha1: 350043c879fb0f5d3d1c6864b468123d60ef9264
+  original_size: [640, 406]
+  retrieved: '2026-11-27'
+derivative: null
+size: [640, 406]
+depicts: [4qmmt]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

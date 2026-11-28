@@ -1,0 +1,74 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: louvre-leather-roll
+title: Louvre Leather Roll (E 7976)
+aliases: [Louvre E 7976]
+type: artifact
+cultures: [egyptian]
+date:
+  from: -1275
+  to: -1275
+  circa: true
+  display: c. 1275 BCE
+scope: >-
+  An administrative leather roll from year five of Ramesses II recording brick-production
+  targets, deliveries, and shortfalls. It provides a close comparison for the quota system
+  described in Exodus and is distinct from the straw complaint in Papyrus Anastasi IV.
+passages:
+- ref: Exod 5:8
+  rel: practice
+  note: >-
+    The accounting roll documents production targets; it does not document the command to
+    withhold straw
+- ref: Exod 5:13-14
+  rel: practice
+  note: >-
+    Recorded deliveries and deficits illuminate accountability for quotas, not the narrative's
+    particular punishment
+- ref: Exod 1:14
+  rel: practice
+  note: Broader evidence for the organization of Egyptian brick production
+related: [tomb-of-rekhmire, papyrus-anastasi, corvee-labor, ramesses-ii, exodus-historical-questions,
+  papyrus-brooklyn-35-1446]
+location:
+  institution: Musée du Louvre, Paris (E 7976)
+  accession: null
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    This is an expansion of evidence already mentioned in the Rekhmire article, not a newly
+    discovered omission.
+  - >-
+    Separate the Louvre roll's quota accounts from the straw complaint in Papyrus Anastasi
+    IV 12.5-13.8 and its parallel in V 3.1.
+  - >-
+    The roll does not identify Israelite workers or establish an Exodus date. Omit unsupported
+    claims about the interval each quota covered (e.g. a daily target).
+  - >-
+    The date field converts year five of Ramesses II on the conventional chronology; check
+    it.
+  sources_to_check:
+  - Louvre collection record E 7976
+  - KRI II, pp. 789-799, no. 283
+  - K. A. Kitchen, "From the Brickfields of Egypt," Tyndale Bulletin 27 (1976), pp. 141-142
+  - >-
+    Bietak and Rendsburg, "Egypt and the Exodus," in Ancient Israel, rev. ed. (2021), ch.
+    2 (documentary comparison only)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    F01. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

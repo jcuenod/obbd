@@ -3799,3 +3799,25 @@
     - "D. A. Lambert, How Repentance Became Biblical (2016)"
     - "T. Podella, Ṣôm-Fasten: Kollektive Trauer um den verborgenen Gott im Alten Testament (AOAT 224, 1989)"
     - G. A. Anderson, A Time to Mourn, a Time to Dance (1991)
+
+- id: anointing
+  cultures: [ane, hebrew]
+  scope: >-
+    The application of oil to people and sacred objects for everyday, ritual, and political
+    purposes, which provides background for biblical consecration, royal installation, and
+    anointing imagery. The entry is a synthesis and index heading for evidence also discussed
+    under Emar, priesthood, and olive oil.
+  passages:
+    - "Gen 28:18-22 | practice | Jacob oils a standing stone; Emar supplies comparative evidence for anointing sacred stones"
+    - "Exod 29:7 | practice | Pouring oil on Aaron's head belongs to priestly installation, with a useful Emar comparison"
+    - "Lev 8:10-12 | practice | Anointing applies to sanctuary furnishings and Aaron within the consecration ceremony"
+    - "1Sam 10:1 | practice | Samuel's anointing marks Saul's royal appointment within the narrative"
+    - "Ps 133:2 | imagery | Oil flowing over Aaron's head and beard supplies the psalm's comparison"
+    - "Isa 61:1 | imagery | Anointing language expresses divine commissioning without requiring a narrated oil ceremony"
+  related: [emar-texts, priesthood, olive-oil-production, royal-ideology, massebot, messianic-expectations]
+  wikipedia: Anointing
+  image: null
+  author_notes:
+    - Optional headword in the report (group C). Substantial evidence already appears under Emar Texts, Priests and Temple Personnel, Olive Oil Production, and Royal Ideology; synthesize and link rather than repeat.
+  sources_to_check:
+    - Daniel Fleming, "The Biblical Tradition of Anointing Priests," Journal of Biblical Literature 117 (1998) 401-414

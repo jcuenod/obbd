@@ -1,0 +1,39 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: athletics-and-victory-crowns
+file: athletics-and-victory-crowns.jpg
+title: >-
+  Amphora depicting runners, storage jar, Painter of Oxford 218 B, Attic black figure, c.
+  500 BC, terracotta - Spurlock Museum, UIUC - DSC05721.jpg
+caption: >-
+  Attic black-figure amphora with runners, Painter of Oxford 218 B, c. 500 BCE (Spurlock Museum,
+  University of Illinois).
+description: >-
+  Amphora depicting runners, storage jar, Painter of Oxford 218 B, Attic black figure, c.
+  500 BC, terracotta - Spurlock Museum, UIUC - DSC05721. Exhibit in the Spurlock Museum, University
+  of Illinois at Urbana-Champaign - Urbana-Champaign, Illinois, USA. This work is old enough
+  so that it is in the public domain.
+creator: Daderot
+credit_line: Own work
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Daderot. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Amphora_depicting_runners,_storage_jar,_Painter_of_Oxford_218_B,_Attic_black_figure,_c._500_BC,_terracotta_-_Spurlock_Museum,_UIUC_-_DSC05721.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/af/Amphora_depicting_runners%2C_storage_jar%2C_Painter_of_Oxford_218_B%2C_Attic_black_figure%2C_c._500_BC%2C_terracotta_-_Spurlock_Museum%2C_UIUC_-_DSC05721.jpg
+  sha1: 9609ff62e6038ec3564d5474c2180fa572a3059c
+  original_size: [3541, 4658]
+  retrieved: '2026-11-27'
+derivative: Downscaled to 1216×1600 px
+size: [1216, 1600]
+depicts: [athletics-and-victory-crowns]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,64 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: taxation-tolls-and-tax-collectors
+title: Taxation, Tolls, and Tax Collectors
+type: practice
+cultures: [roman, jewish]
+scope: >-
+  Roman and local fiscal systems, including direct taxes, customs dues, and the work of collectors,
+  which explain the economic obligations and social tensions behind New Testament tax passages.
+  Ancient Near Eastern royal payments belong to Tribute and Vassalage, and denominations to
+  Coinage.
+passages:
+- ref: Luke 3:12-13
+  rel: practice
+  note: John distinguishes authorized collection from excessive demands
+- ref: Luke 19:1-10
+  rel: practice
+  note: >-
+    A chief tax collector's wealth and restitution presuppose an organized system open to
+    abuse
+- ref: Mark 2:14-17
+  rel: practice
+  note: A toll station and its collectors belong to the fiscal economy of movement and trade
+- ref: Mark 12:13-17
+  rel: practice
+  note: Tribute to Caesar, to be distinguished from customs dues and temple tax
+- ref: Rom 13:6-7
+  rel: language
+  note: Paul distinguishes taxes and customs among obligations to governing authorities
+related: [tribute-and-vassalage, coinage, census-of-quirinius, tyrian-shekel, herod-antipas]
+media: []
+external:
+  wikipedia: Publicani
+  wikidata: Q285101
+editorial:
+  author_notes:
+  - Separate direct taxation, customs, local and Herodian arrangements, and temple dues.
+  - Do not assume every collector was a Roman official or every levy was farmed out.
+  - >-
+    Do not transfer Egyptian or Asian rates directly to Judea. The Monumentum Ephesenum incorporates
+    regulations from 75 BCE to 62 CE and concerns the province of Asia only; P.Oslo inv. 1457
+    is an Egyptian comparison.
+  sources_to_check:
+  - Tacitus, Annals 13.50-51
+  - >-
+    Lex Portorii Asiae (Monumentum Ephesenum); M. Cottier et al., The Customs Law of Asia
+    (Oxford, 2008), pp. 16-86
+  - P.Oslo inv. 1457 (receipt for money taxes, Oxyrhynchos, 25 January 30 CE)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    A06. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

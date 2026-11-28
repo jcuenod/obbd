@@ -1,0 +1,73 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: papyrus-brooklyn-35-1446
+title: Papyrus Brooklyn 35.1446
+type: artifact
+cultures: [egyptian]
+date:
+  from: -1800
+  to: -1700
+  circa: true
+  display: c. 1800–1700 BCE
+scope: >-
+  A late Middle Kingdom Egyptian administrative papyrus recording labor obligations and Egyptian
+  and foreign household dependents. It supplies concrete documentary background for servitude
+  and compulsory labor in Egypt.
+passages:
+- ref: Gen 39:1-6
+  rel: practice
+  note: >-
+    Compare a foreign dependent's position in an Egyptian household; the papyrus does not
+    identify Joseph
+- ref: Exod 1:11-14
+  rel: practice
+  note: >-
+    Evidence for compulsory labor and the administration of dependent workers; it does not
+    identify Israelites
+related: [joseph-story-egyptian-background, slavery, corvee-labor, louvre-leather-roll, hyksos]
+location:
+  institution: Brooklyn Museum, New York
+  accession: null
+media: []
+external:
+  wikipedia: Papyrus Brooklyn 35.1446
+  wikidata: Q2051100
+editorial:
+  author_notes:
+  - >-
+    Distinguish the papyrus's administrative sections, and explain the Egyptian labor and
+    status terms rather than giving every person one uniform legal position.
+  - >-
+    Avoid identifying Joseph, Shiphrah, or Israelites from similar names; no historical synchronism
+    follows from the comparison.
+  - >-
+    The institution often translated "Great Prison" (ḫnrt wr) also administered compulsory
+    labor. Do not use a simplified prison reconstruction or an unqualified Genesis prison
+    tag (Gen 39:20-23).
+  - >-
+    The date field is an approximate late Middle Kingdom range; check it against the edition.
+  sources_to_check:
+  - >-
+    William C. Hayes, A Papyrus of the Late Middle Kingdom in the Brooklyn Museum, Wilbour
+    Monographs 5 (1955)
+  - >-
+    Antonio Loprieno, "Slavery and Servitude," UCLA Encyclopedia of Egyptology (2012), especially
+    pp. 3, 6-8
+  - Di Teodoro, Labour Organisation in Middle Kingdom Egypt (2018)
+  image_query: Papyrus Brooklyn 35.1446
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    D04. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

@@ -1,0 +1,66 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: tebtynis-salt-merchants-papyrus
+title: Tebtynis Salt-Merchants Papyrus
+aliases: [P.Mich. V 245]
+type: artifact
+cultures: [roman, egyptian]
+date:
+  from: 47
+  to: 47
+  display: 47 CE
+scope: >-
+  A papyrus of 47 CE recording the Tebtynis salt merchants' rules for trade, taxation, leadership,
+  shared funds, monthly drinking gatherings, and penalties for noncompliance. It is a contemporary
+  documentary example of an association regulating its members, finances, and gatherings,
+  from Roman Egypt.
+passages:
+- ref: Acts 19:24-27
+  rel: practice
+  note: >-
+    A contemporary Egyptian trade association supplies a regional comparison for artisan organization
+- ref: 1Cor 11:17-22
+  rel: practice
+  note: >-
+    Regulated shared drinking offers comparative evidence for organized communal gatherings
+    and obligations
+related:
+- greco-roman-associations
+- meals-and-banqueting
+- marzeah
+- ephesus-silversmiths-hermeias-inscription
+location:
+  institution: University of Michigan Papyrology Collection, Ann Arbor (inv. 657)
+  accession: null
+media: []
+external: {}
+editorial:
+  author_notes:
+  - The correct primary reference is P.Mich. V 245, not P.Mich. V 243.
+  - >-
+    The document regulates beer drinking but does not require idol meals or document Paul's
+    congregation.
+  - >-
+    Egyptian association rules are a regional comparison and must not be generalized into
+    universal Roman law.
+  - >-
+    The artifact designation follows the surviving papyrus; a broader corpus could instead
+    be a text entry.
+  sources_to_check:
+  - P.Mich. V 245 = GRA III 219 = AGRW 302 (Ann Arbor inv. 657)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    B04. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

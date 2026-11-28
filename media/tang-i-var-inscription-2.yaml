@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: tang-i-var-inscription-2
+file: tang-i-var-inscription-2.jpg
+title: Epigraph of Tangivar 02.jpg
+caption: Closer view of the Tang-i Var inscription in its rock-cut setting.
+description: This is a photo of a monument in Iran identified by the ID
+creator: Hesamdroodgar
+credit_line: Own work
+license:
+  id: CC-BY-SA-4.0
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0
+attribution: Hesamdroodgar, CC BY-SA 4.0, via Wikimedia Commons.
+source:
+  page: https://commons.wikimedia.org/wiki/File:Epigraph_of_Tangivar_02.jpg
+  original_url: https://upload.wikimedia.org/wikipedia/commons/5/59/Epigraph_of_Tangivar_02.jpg
+  sha1: b3b5d5ac072fb92252a3c57d114757d7aa3ac8df
+  original_size: [4608, 2592]
+  retrieved: '2026-11-27'
+derivative: Downscaled to 1600×900 px
+size: [1600, 900]
+depicts: [tang-i-var-inscription]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,53 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: darius-susa-foundation-dsf
+title: Darius's Susa Foundation Inscription (DSf)
+aliases: [DSf, Susa foundation charter]
+type: text
+cultures: [persian]
+scope: >-
+  Darius I's foundation inscription describing the materials, supply routes, and workers drawn
+  from across his empire to build the palace at Susa. The composition survives in multiple
+  witnesses, including the Old Persian clay tablet Louvre SB 2789.
+passages:
+- ref: Esth 1:2-7
+  rel: setting
+  note: >-
+    Background for Susa's imperial palace and resources; Darius's project predates the narrative's
+    reign of Ahasuerus
+- ref: Ezra 3:7
+  rel: practice
+  note: >-
+    Compare procurement of materials and skilled labor across regions; the projects and politics
+    differ
+related: [susa, darius-i, persia, temple-building-accounts, persepolis]
+media:
+- id: darius-susa-foundation-dsf
+  role: primary
+external: {}
+editorial:
+  author_notes:
+  - Susa already summarizes this composition; it should not be counted as absent evidence.
+  - >-
+    The type is text, for the multi-witness composition. An artifact treatment would have
+    to specify SB 2789 and its physical properties. Do not describe SB 2789 alone as trilingual;
+    that witness is Old Persian.
+  - The account does not establish Esther's banquet or identify its room or participants.
+  sources_to_check: ['Darius DSf, especially lines 22-58', Louvre collection record SB 2789]
+  image_query: Darius Susa foundation charter Louvre
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    F03. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

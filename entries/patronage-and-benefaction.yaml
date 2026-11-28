@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: patronage-and-benefaction
+title: Patronage, Benefaction, and Reciprocity
+type: practice
+cultures: [greek, roman, jewish]
+scope: >-
+  Patronage, civic benefaction, and reciprocal gift exchange organized relationships of support,
+  obligation, gratitude, and honor in Jewish and Greco-Roman communities. The entry supplies
+  the social framework for gifts, support, obligation, and public honor across the Gospels
+  and Paul.
+passages:
+- ref: Luke 7:1-5
+  rel: practice
+  note: >-
+    Synagogue benefaction and local intermediaries frame the elders' appeal on behalf of the
+    centurion
+- ref: Luke 14:12-14
+  rel: practice
+  note: >-
+    Invitations to people unable to repay challenge ordinary expectations of reciprocal hospitality
+- ref: Luke 22:25-27
+  rel: language
+  note: The title 'benefactors' belongs to the public language of power, service, and honor
+- ref: Rom 16:1-2
+  rel: language
+  note: Phoebe's designation as prostatis is illuminated by benefaction and protective support
+- ref: 1Cor 9:1-18
+  rel: practice
+  note: >-
+    Paul's entitlement to support and refusal to use it intersect with conventions of obligation
+    and reciprocity
+- ref: Phil 4:10-20
+  rel: practice
+  note: >-
+    Gifts, partnership, and acknowledgment are interpreted against ancient expectations of
+    reciprocity
+related: [berenike-judean-benefactor-decree, thyatira-dyers-claudia-ammion, meals-and-banqueting,
+  greco-roman-associations, lysanias-abila-inscriptions, erastus-inscription, hospitality]
+media:
+- id: patronage-and-benefaction
+  role: primary
+external:
+  wikipedia: Patronage in ancient Rome
+  wikidata: Q56881933
+editorial:
+  author_notes:
+  - >-
+    Distinguish personal patronage, civic benefaction, friendship, and gift reciprocity instead
+    of treating them as one uniform system.
+  - >-
+    Phoebe's precise social and legal position remains debated. Do not infer a formal Roman
+    patron-client relationship solely from the term prostatis.
+  - Do not claim that every Pauline use of charis has one fixed patronage meaning.
+  - >-
+    Existing coverage to cross-reference rather than repeat. The Erastus Inscription is one
+    example of civic expenditure; Hospitality covers receiving and protecting guests, guest-friendship,
+    and divine visitors.
+  - >-
+    Optional enrichment (report P01): the Abila dedication of Nymphaeus, freedman of Lysanias,
+    publicizes expenditure on a road, temple, and plantings. It does not give him the title
+    euergetēs, and his freed status does not reconstruct every obligation to Lysanias.
+  sources_to_check:
+  - Seneca, De beneficiis
+  - IBerenike 18 = CJZC 70 = AGRW 305
+  - Revue Biblique 9.4 (1912), pp. 533-540, inscription A, lines 3-4 (Abila)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    A01. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

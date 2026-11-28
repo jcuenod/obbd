@@ -1,0 +1,33 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: papyrus-amherst-63-2
+file: papyrus-amherst-63-2.jpg
+title: Papyrus Amherst 63, reverse, columns xviii-xx.jpg
+caption: Papyrus Amherst 63, reverse, columns xviii–xx.
+description: >-
+  Papyrus Amherst 63 - a papyrus scroll with Aramaic text in Demotic script, discovered near
+  Thebes, mentioning Mesopotamian, Aramaic and Hebrew deities, reverse, columns xviii-xx.
+creator: Unknown authorUnknown author
+credit_line: https://www.themorgan.org/manuscript/352221
+license:
+  id: PD
+  name: Public domain
+  url: https://creativecommons.org/publicdomain/mark/1.0/
+attribution: Unknown authorUnknown author. Public domain, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Papyrus_Amherst_63,_reverse,_columns_xviii-xx.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/7/79/Papyrus_Amherst_63%2C_reverse%2C_columns_xviii-xx.jpg
+  sha1: 42e10d2ecb7a24f57aef268aca0575fac603c733
+  original_size: [2500, 1524]
+  retrieved: '2026-11-27'
+derivative: Downscaled to 1600×975 px
+size: [1600, 975]
+depicts: [papyrus-amherst-63]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

@@ -1,0 +1,38 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: pliny-trajan-correspondence
+file: pliny-trajan-correspondence.jpg
+title: >-
+  0012 - Milano - Sant'Ambrogio - Atrio - Frammento lapide C. Plinio - Foto Giovanni Dall'Orto
+  25-Apr-2007.jpg
+caption: >-
+  Fragment of a Roman inscription naming C. Plinius, reused in the atrium of Sant'Ambrogio,
+  Milan, and commonly associated with the honorific inscription of Pliny the Younger.
+description: >-
+  Milan. A fragment of an Ancient Roman plaque bearing the name C.<aius> PLINIUS, and the
+  marks of a re-use. It stands in the right wing of the atrium of Sant'Ambrogio basilica.
+  Picture by Giovanni Dall'Orto, April 25 2007.
+creator: Giovanni Dall'Orto
+credit_line: Own work
+license:
+  id: CC-BY-SA-2.5
+  name: CC BY-SA 2.5 it
+  url: https://creativecommons.org/licenses/by-sa/2.5/it/deed.en
+attribution: Giovanni Dall'Orto, CC BY-SA 2.5 it, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:0012_-_Milano_-_Sant%27Ambrogio_-_Atrio_-_Frammento_lapide_C._Plinio_-_Foto_Giovanni_Dall%27Orto_25-Apr-2007.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/4/4d/0012_-_Milano_-_Sant%27Ambrogio_-_Atrio_-_Frammento_lapide_C._Plinio_-_Foto_Giovanni_Dall%27Orto_25-Apr-2007.jpg
+  sha1: d1a3511a8430ebcfd85f3f50ef4e42e7ebed5d17
+  original_size: [1577, 1297]
+  retrieved: '2026-11-27'
+derivative: null
+size: [1577, 1297]
+depicts: [pliny-trajan-correspondence]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

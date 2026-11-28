@@ -1,0 +1,71 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: household-religion
+title: Household and Family Religion
+type: practice
+cultures: [hebrew, israelite, judahite]
+scope: >-
+  Domestic shrines, family sacrifices, protective objects, ancestor observances, and women's
+  ritual work, which place biblical household worship within the religious lives of ordinary
+  families. The entry is an organizing article; its evidence is also distributed across several
+  substantive entries.
+passages:
+- ref: Gen 31:19, 30-35
+  rel: practice
+  note: >-
+    Rachel's possession of household gods provides a narrative instance of domestic sacred
+    objects
+- ref: Judg 17:1-13
+  rel: practice
+  note: >-
+    Micah's household shrine, sacred objects, and hired priest illustrate worship organized
+    within a household
+- ref: 1Sam 20:6, 29
+  rel: practice
+  note: >-
+    David's claimed family sacrifice at Bethlehem presupposes ritual obligations within a
+    kin group
+- ref: Jer 7:17-18
+  rel: practice
+  note: Children, fathers, and women share tasks in preparing offerings to the Queen of Heaven
+- ref: Jer 44:15-19
+  rel: practice
+  note: >-
+    Women's offerings and their husbands' knowledge reveal family participation in contested
+    worship
+related: [household-and-kinship, teraphim, judean-pillar-figurines, care-for-the-dead, amulets,
+  queen-of-heaven]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Optional headword in the report (group C). Household, Clan, and Tribe already discusses
+    family sacrifice, Micah's shrine, women's work, and kinship's religious functions.
+  - >-
+    Do not identify all female figurines with one goddess or infer the users' gender from
+    an artifact alone.
+  - >-
+    Distinguish archaeological evidence for domestic ritual from debated interpretations of
+    particular objects and deities.
+  sources_to_check:
+  - >-
+    Beth Alpert Nakhai, "Women in Israelite Religion: The State of Research Is All New Research,"
+    Religions 10 (2019), art. 122
+  - Shawn W. Flynn, Children in Ancient Israel (Oxford University Press, 2018)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    C02. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

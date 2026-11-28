@@ -1,0 +1,73 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: philo
+title: Philo of Alexandria and His Writings
+aliases: [Philo Judaeus]
+type: text
+cultures: [jewish, greek]
+date:
+  from: -20
+  to: 50
+  circa: true
+  display: c. 20 BCE–50 CE
+scope: >-
+  The writings of Philo, a first-century Alexandrian Jew, which combine scriptural interpretation
+  with Greek philosophy and preserve important evidence for diaspora life, temple symbolism,
+  the Logos, and Roman rule. The entry is a guide to the corpus, following the precedent of
+  the Josephus entry.
+passages:
+- ref: John 1:1-18
+  rel: concept
+  note: >-
+    Philo's Logos language supplies a contemporary Jewish comparison, without establishing
+    dependence or identical theology
+- ref: Col 1:15-17
+  rel: imagery
+  note: >-
+    Firstborn and divine-image language invites comparison with Philo's descriptions of the
+    Logos
+- ref: Heb 8:1-5
+  rel: concept
+  note: >-
+    Philo's incorporeal sanctuary patterns provide a Jewish comparison for Hebrews on the
+    tabernacle
+- ref: John 18:28-19:16
+  rel: attests
+  note: Philo independently describes Pilate's governorship, but not this trial
+- ref: Exod 25:31-40
+  rel: imagery
+  note: Philo interprets the lampstand and sanctuary furnishings cosmically
+related: [josephus, septuagint, pontius-pilate, jewish-sects, temple-as-cosmos, wisdom-of-solomon]
+media: []
+external:
+  wikipedia: Philo
+  wikidata: Q189597
+editorial:
+  author_notes:
+  - >-
+    Distinguish comparison from literary dependence, and preserve the differences between
+    Philo's Logos and New Testament Christology.
+  - The Embassy to Gaius attests Pilate as governor, not Jesus' trial.
+  - The date field gives Philo's approximate lifespan (c. 20 BCE–c. 50 CE).
+  sources_to_check:
+  - Philo, De confusione linguarum 146-147
+  - Philo, De vita Mosis 2.74-76, 102-105
+  - Philo, Legatio ad Gaium 299-305
+  - Posen Library, Philo of Alexandria
+  - Loeb Classical Library, Philo (12 vols.)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    A08. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

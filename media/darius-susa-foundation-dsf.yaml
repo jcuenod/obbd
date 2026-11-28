@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../schema/media.schema.json
+id: darius-susa-foundation-dsf
+file: darius-susa-foundation-dsf.jpg
+title: >-
+  Charte de fondation du palais de Darius Ier en vieux perse - Musée du Louvre Antiquités
+  orientales SB 2789.jpg
+caption: >-
+  Old Persian clay foundation tablet of Darius I's palace at Susa, one witness of DSf (Musée
+  du Louvre, SB 2789).
+description: null
+creator: Shonagon
+credit_line: Shonagon
+license:
+  id: CC0-1.0
+  name: CC0
+  url: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: Shonagon. CC0, via Wikimedia Commons.
+source:
+  page: >-
+    https://commons.wikimedia.org/wiki/File:Charte_de_fondation_du_palais_de_Darius_Ier_en_vieux_perse_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_orientales_SB_2789.jpg
+  original_url: >-
+    https://upload.wikimedia.org/wikipedia/commons/a/a9/Charte_de_fondation_du_palais_de_Darius_Ier_en_vieux_perse_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_orientales_SB_2789.jpg
+  sha1: 089598a9126ec199749bffd7d92c40afb54d01b6
+  original_size: [3114, 2557]
+  retrieved: '2026-11-27'
+derivative: Downscaled to 1600×1314 px
+size: [1600, 1314]
+depicts: [darius-susa-foundation-dsf]
+review:
+  status: unreviewed
+  checked_by: null
+  date: null
+  note: >-
+    Picked by an AI agent from Commons search results. Check that the image really shows the
+    subject and that the license is correct.

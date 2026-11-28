@@ -1,0 +1,64 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: anointing
+title: Anointing
+type: practice
+cultures: [ane, hebrew]
+scope: >-
+  The application of oil to people and sacred objects for everyday, ritual, and political
+  purposes, which provides background for biblical consecration, royal installation, and anointing
+  imagery. The entry is a synthesis and index heading for evidence also discussed under Emar,
+  priesthood, and olive oil.
+passages:
+- ref: Gen 28:18-22
+  rel: practice
+  note: >-
+    Jacob oils a standing stone; Emar supplies comparative evidence for anointing sacred stones
+- ref: Exod 29:7
+  rel: practice
+  note: >-
+    Pouring oil on Aaron's head belongs to priestly installation, with a useful Emar comparison
+- ref: Lev 8:10-12
+  rel: practice
+  note: Anointing applies to sanctuary furnishings and Aaron within the consecration ceremony
+- ref: 1Sam 10:1
+  rel: practice
+  note: Samuel's anointing marks Saul's royal appointment within the narrative
+- ref: Ps 133:2
+  rel: imagery
+  note: Oil flowing over Aaron's head and beard supplies the psalm's comparison
+- ref: Isa 61:1
+  rel: imagery
+  note: >-
+    Anointing language expresses divine commissioning without requiring a narrated oil ceremony
+related: [emar-texts, priesthood, olive-oil-production, royal-ideology, massebot, messianic-expectations]
+media: []
+external:
+  wikipedia: Anointing
+  wikidata: Q641922
+editorial:
+  author_notes:
+  - >-
+    Optional headword in the report (group C). Substantial evidence already appears under
+    Emar Texts, Priests and Temple Personnel, Olive Oil Production, and Royal Ideology; synthesize
+    and link rather than repeat.
+  sources_to_check:
+  - >-
+    Daniel Fleming, "The Biblical Tradition of Anointing Priests," Journal of Biblical Literature
+    117 (1998) 401-414
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    C01. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

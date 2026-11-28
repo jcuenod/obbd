@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: childbirth-midwifery-and-infant-care
+title: Childbirth, Midwifery, and Infant Care
+type: practice
+cultures: [ane, egyptian, hebrew]
+scope: >-
+  Ancient birth attendants, delivery equipment, newborn care, nursing, weaning, and protective
+  rites, which illuminate biblical birth narratives and imagery drawn from maternal and infant
+  experience. Protective deities, amulets, and impurity rules have their own entries.
+passages:
+- ref: Gen 35:16-20
+  rel: practice
+  note: >-
+    Rachel's difficult labor and the midwife's reassurance presuppose female birth attendants
+- ref: Exod 1:15-21
+  rel: practice
+  note: Midwives assist births and confront royal demands in the Egyptian setting
+- ref: Exod 1:16
+  rel: realia
+  disputed: true
+  note: >-
+    Egyptian birth bricks are one proposed interpretation of the delivery equipment called
+    ʾobnayim
+- ref: 1Sam 1:22-24
+  rel: practice
+  note: Samuel's presentation after weaning presupposes a recognized transition in infant
+    care
+- ref: Ezek 16:4-5
+  rel: practice
+  note: >-
+    Cutting the cord, washing, salting, and swaddling: the newborn care denied to personified
+    Jerusalem
+- ref: Isa 49:15
+  rel: imagery
+  note: Nursing and maternal attachment provide the comparison for divine remembrance
+related: [bes, lamashtu-pazuzu-amulets, purity-and-impurity, adoption, household-and-kinship,
+  amulets]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The interpretation of Exod 1:16 as birth bricks is disputed; the existence of Egyptian
+    childbirth equipment is not.
+  - >-
+    Separate what the evidence establishes about practices from speculative reconstructions
+    of particular biblical deliveries.
+  - >-
+    Cross-reference protective deities and impurity rules instead of repeating their existing
+    articles.
+  - >-
+    Related background reading (a broader or neighbouring subject, so not linked as this entry's
+    Wikipedia/Wikidata identity): Wikipedia, "Midwifery".
+  sources_to_check:
+  - >-
+    Kevin McGeough, "Birth Bricks, Potter's Wheels, and Exodus 1,16," Biblica 87 (2006) 305-318
+  - Shawn W. Flynn, Children in Ancient Israel (Oxford University Press, 2018)
+  - >-
+    Penn Museum, 'Archaeologists Uncover 3,700-year-old Magical Birth Brick,' Penn Today,
+    25 July 2002 (verify date)
+  image_query: Abydos birth brick Penn Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    A13. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

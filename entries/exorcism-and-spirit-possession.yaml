@@ -1,0 +1,69 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: exorcism-and-spirit-possession
+title: Exorcism and Spirit Possession
+type: practice
+cultures: [jewish]
+corpus: nt
+scope: >-
+  Jewish traditions about harmful spirits, protective psalms, authoritative names, and their
+  expulsion, which illuminate the practices and contested authority surrounding New Testament
+  exorcism narratives. The entry concentrates on Second Temple and early imperial evidence;
+  demonology in general is treated under Demons and Evil Spirits.
+passages:
+- ref: Mark 1:21-28
+  rel: practice
+  note: Jewish exorcistic traditions contextualize commands expelling an unclean spirit
+- ref: Mark 5:1-20
+  rel: practice
+  note: >-
+    Possession and expulsion narratives can be compared with contemporary Jewish exorcistic
+    claims
+- ref: Matt 12:22-29
+  rel: practice
+  note: Debate over exorcistic authority presupposes competing practitioners and explanations
+- ref: Acts 19:13-20
+  rel: practice
+  note: >-
+    Invocation of a powerful name can be compared with Josephus's account of Solomonic exorcism
+- ref: Ps 91:1-16
+  rel: practice
+  note: 11Q11 preserves this psalm alongside incantatory compositions against harmful spirits
+related: [11q11-apocryphal-psalms, demons, magic-and-sorcery, medicine-and-healing, angelology,
+  josephus]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - Distinguish reported claims from historical verification of miraculous effects.
+  - >-
+    Do not project late magical handbooks backward without dating them, diagnose ancient possession
+    medically, or equate every healing with exorcism.
+  - >-
+    Demons and Evil Spirits stops before developed New Testament demonology; Magic and Medicine
+    overlap only in part. Cross-reference them.
+  - >-
+    Related background reading (a broader or neighbouring subject, so not linked as this entry's
+    Wikipedia/Wikidata identity): Wikipedia, "Exorcism".
+  sources_to_check:
+  - Josephus, Antiquities 8.45-49, especially Eleazar's exorcism in 8.46-49
+  - 11Q11 (11QApocryphal Psalms), columns IV-VI
+  - >-
+    Mika S. Pajunen, "How to Expel a Demon: Form- and Tradition-Critical Assessment of the
+    Ritual of Exorcism in 11QApocryphal Psalms"
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    A07. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

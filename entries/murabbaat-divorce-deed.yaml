@@ -1,0 +1,78 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: murabbaat-divorce-deed
+title: Murabbaʿat Divorce Deed (Mur 19)
+aliases: [Mur 19, P.Mur. 19]
+type: artifact
+cultures: [jewish]
+date:
+  from: 71
+  to: 112
+  circa: true
+  display: c. 71–112 CE
+scope: >-
+  An Aramaic divorce deed issued at Masada by Joseph son of Naqsan to Miriam daughter of Jonathan
+  and found at Wadi Murabbaʿat. It records the dissolution of their marriage, her permission
+  to remarry, financial obligations, and witnesses.
+passages:
+- ref: Deut 24:1-4
+  rel: form
+  note: >-
+    A surviving divorce instrument supplies a comparison for the written certificate and the
+    permission to remarry
+- ref: Matt 5:31-32
+  rel: practice
+  note: Documents the legal procedure presupposed by the discussion of divorce and remarriage
+- ref: Matt 19:7-9
+  rel: practice
+  note: >-
+    Clarifies what issuing a certificate could entail without resolving the Gospel's ethical
+    argument
+- ref: Mark 10:4-12
+  rel: practice
+  note: >-
+    A concrete instrument for the certificate of divorce; it is husband-issued and says nothing
+    of wife-initiated divorce
+related: [marriage-and-bride-price, sealed-deeds, masada, dead-sea-scrolls, greco-roman-households,
+  elephantine-papyri]
+location:
+  institution: Israel Antiquities Authority, Jerusalem
+  accession: null
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    The date is disputed. Proposed readings of "year six" yield 71/72 CE or 111/112 CE, and
+    a 2025 reassessment leaves the question open. Do not describe the deed as securely contemporary
+    with Jesus. The date field spans both proposals.
+  - >-
+    Do not infer a universal Jewish procedure from one document. This husband-issued deed
+    neither documents wife-initiated divorce nor establishes uniform practice.
+  - >-
+    Mur 19 names Masada as its place of issue but was found at Wadi Murabbaʿat; keep the place
+    of issue, findspot, and debated setting distinct. It is not a Qumran sectarian manuscript.
+  - >-
+    Existing references to Mur 17, Mur 18, and Mur 24E concern different documents. Distinguish
+    the deed's legal function from the double-document format.
+  sources_to_check:
+  - DJD II no. 19, pp. 104-109
+  - MPAT no. 40, pp. 138-141
+  - Revue de Qumran 37.1 (2025), pp. 3-39, DOI 10.2143/RQ.37.1.3294505
+  - IAA, Leon Levy Dead Sea Scrolls Digital Library, plate 879, photograph B-496369
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    D02. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

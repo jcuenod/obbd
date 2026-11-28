@@ -1,0 +1,80 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: adon-letter
+title: Letter of King Adon
+aliases: [Adon Papyrus, Saqqara Papyrus, TAD A1.1, KAI 266]
+type: artifact
+cultures: [aramean, egyptian]
+date:
+  from: -625
+  to: -600
+  circa: true
+  display: c. 625–600 BCE
+scope: >-
+  An Aramaic papyrus from Saqqara presenting a ruler's appeal to Pharaoh for military help
+  against an advancing Babylonian force. It illustrates diplomatic expectations surrounding
+  Egyptian protection; its setting and the status of the surviving copy are debated.
+passages:
+- ref: Ezek 17:15
+  rel: practice
+  note: >-
+    Compare an appeal to Egypt for military support with the expectations expressed in the
+    letter
+- ref: Jer 37:5-7
+  rel: practice
+  note: >-
+    Compare expectations of Egyptian military assistance; the letter does not describe Jeremiah's
+    episode
+- ref: 2Kgs 24:7
+  rel: setting
+  disputed: true
+  note: >-
+    The conventional late-seventh-century reading compares Egypt's loss of influence to Babylon;
+    the setting is debated
+related: [necho-ii, diplomatic-gift-exchange, ekron, aramaic-language, babylonia, battle-of-carchemish]
+location:
+  institution: Egyptian Museum, Cairo (EM 86984)
+  accession: null
+media:
+- id: adon-letter
+  role: primary
+external:
+  wikipedia: Adon Papyrus
+  wikidata: Q106898590
+editorial:
+  author_notes:
+  - Optional record in the report (group E).
+  - >-
+    The sender's damaged city has been reconstructed differently; do not call the identification
+    with Ekron certain.
+  - >-
+    James D. Moore proposes that the surviving papyrus may be a later scribal exercise. Attribute
+    this view, and distinguish the physical copy from the scenario it presents.
+  - >-
+    Do not date the artifact to a specific Babylonian campaign without explaining the argument.
+    The date field gives the conventional late-seventh-century setting.
+  sources_to_check:
+  - TAD A1.1
+  - KAI 266
+  - Bezalel Porten, "The Identity of King Adon," Biblical Archaeologist 44.1 (1981) 36-52
+  - >-
+    Bernd U. Schipper, "Egypt and the Kingdom of Judah under Josiah and Jehoiakim," Tel Aviv
+    37 (2010) 200-226, especially p. 214
+  - James D. Moore, DEAPS edition record, Pap. Cairo EM 86984
+  image_query: Adon papyrus Saqqara
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    E03. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

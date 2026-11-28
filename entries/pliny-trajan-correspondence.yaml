@@ -1,0 +1,72 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: pliny-trajan-correspondence
+title: Pliny and Trajan on Christians
+type: text
+cultures: [roman, christian]
+date:
+  from: 112
+  to: 112
+  circa: true
+  display: c. 112 CE
+scope: >-
+  The correspondence of Pliny the Younger, governor of Bithynia-Pontus, with the emperor Trajan
+  around 112 CE about the investigation of Christians, their reported worship and meals, punishment,
+  and the emperor's instructions for handling accusations. It postdates Paul and much of the
+  New Testament.
+passages:
+- ref: 1Pet 4:12-16
+  rel: practice
+  note: >-
+    Later comparison for prosecution under the Christian name; not evidence for this letter's
+    circumstances
+- ref: Rev 13:14-17
+  rel: practice
+  note: >-
+    Later loyalty tests with imperial images do not establish Revelation's date or a universal
+    enforcement system
+- ref: Acts 25:10-12
+  rel: practice
+  note: >-
+    Pliny's referral of citizens to Rome supplies a later comparison for provincial jurisdiction
+- ref: 1Cor 11:17-34
+  rel: practice
+  note: Later testimony to regular Christian meals does not establish their precise ritual
+    form
+related:
+- imperial-cult
+- courts-and-legal-procedure
+- letter-writing-conventions
+- roman-citizenship-and-provincial-justice
+- greco-roman-associations
+media:
+- id: pliny-trajan-correspondence
+  role: primary
+external:
+  wikipedia: Pliny the Younger on Christians
+  wikidata: Q7205007
+editorial:
+  author_notes:
+  - Date it explicitly after Paul and much of the New Testament.
+  - >-
+    Do not use it to prove a universal first-century persecution policy, identify the setting
+    of 1 Peter or Revelation, or resolve the exact nature of the reported Christian meals.
+  - Coordinate with the citizenship and associations entries.
+  sources_to_check:
+  - Pliny, Epistulae 10.96.3-4; Trajan, Epistulae 10.97
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    B05. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

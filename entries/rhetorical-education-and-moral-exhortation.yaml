@@ -1,0 +1,72 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: rhetorical-education-and-moral-exhortation
+title: Rhetorical Education and Moral Exhortation
+type: concept
+cultures: [greek, roman]
+scope: >-
+  Greek and Roman instruction in persuasive speech and moral argument, which supplies comparisons
+  for questions, imagined objections, praise, blame, and appeals in New Testament discourse.
+  Epistolary format belongs to Letter-Writing Conventions and school-specific ethics to the
+  philosophy entry.
+passages:
+- ref: Rom 3:1-9
+  rel: form
+  note: >-
+    Questions and imagined objections can be compared with ancient descriptions of argumentative
+    devices
+- ref: 1Cor 1:17-2:5
+  rel: practice
+  note: >-
+    Paul evaluates persuasive speech within ancient practices of rhetorical education and
+    public performance
+- ref: 2Cor 10:10-11
+  rel: practice
+  note: >-
+    Contrast between forceful letters and disparaged speech reflects expectations of oral
+    performance
+- ref: Acts 24:1-9
+  rel: form
+  note: >-
+    Tertullus's accusation displays forensic speech and a flattering opening before a provincial
+    governor
+related:
+- letter-writing-conventions
+- scribes-and-scribal-education
+- stoics-epicureans-and-moral-philosophy
+- roman-citizenship-and-provincial-justice
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Write about demonstrable forms. Do not claim that every epistle follows a complete classical
+    speech scheme or that shared devices prove elite schooling.
+  - >-
+    Quintilian (late first century) is comparative evidence, not a source Paul could have
+    read.
+  - >-
+    Whether Romans should be classified as diatribe or another full literary genre is a further
+    interpretive question.
+  - >-
+    Related background reading (a broader or neighbouring subject, so not linked as this entry's
+    Wikipedia/Wikidata identity): Wikipedia, "Rhetoric".
+  sources_to_check:
+  - Quintilian, Institutio Oratoria 4.1.1-7
+  - Quintilian, Institutio Oratoria 9.2.6-17, especially 14-17
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    B07. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

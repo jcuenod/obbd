@@ -1,0 +1,58 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: jerusalem-ivories
+title: Jerusalem Ivory Panels from Givʿati Building 100
+type: artifact
+cultures: [judahite, phoenician]
+scope: >-
+  Decorated ivory furniture panels excavated in Givʿati Building 100 in Jerusalem, recovered
+  from a destruction context associated with the Babylonian conquest of 586 BCE. They show
+  the luxury furnishings and international cultural connections of the city's elite.
+passages:
+- ref: Amos 6:1, 4
+  rel: realia
+  note: >-
+    Compare elite ivory furnishings, noting the assemblage's Jerusalem location and later
+    archaeological horizon
+- ref: Ps 45:8
+  rel: realia
+  note: >-
+    Ivory panels illustrate the material language of royal luxury without identifying the
+    psalm's palace; MT 45:9
+- ref: 1Kgs 10:18
+  rel: realia
+  note: >-
+    Compare the use of ivory in prestigious royal furniture; the panels do not identify Solomon's
+    throne
+related: [samaria-ivories, city-of-david, jerusalem, fall-of-jerusalem-587, phoenicians]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Call them panels or furniture inlays. The original furniture cannot be securely identified
+    as a particular throne or bed, and the objects should not be assigned to a biblical owner.
+  - >-
+    The passage associations are material comparisons. The destruction horizon is later than
+    Amos's eighth-century setting.
+  - >-
+    Cite the original 2022 excavation publication; recycled news dates do not date the discovery
+    or the objects. Keep the Jerusalem and Samaria assemblages separate.
+  sources_to_check:
+  - Atiqot 106 (2022), pp. 57-74 (Avisar et al., Jerusalem ivories)
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    D06. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

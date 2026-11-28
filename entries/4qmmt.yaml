@@ -1,0 +1,67 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: 4qmmt
+title: 4QMMT (Some Precepts of the Torah)
+aliases: [Miqṣat Maʿaśê ha-Torah, Halakhic Letter, 4Q394-399]
+type: text
+cultures: [jewish]
+scope: >-
+  A legal composition from Qumran preserving Second Temple Jewish rulings on purity and worship.
+  It explains communal separation and uses language about "works of the law" and righteousness.
+  It is a reconstructed composition preserved in six manuscripts.
+passages:
+- ref: Gal 2:16
+  rel: language
+  note: >-
+    MMT's 'works of the law' supplies a Jewish lexical comparison; its significance for Paul
+    remains debated
+- ref: Rom 3:20-28
+  rel: language
+  note: Compare MMT C26-32 on legal observance and righteousness, without equating the arguments
+- ref: Gal 2:11-14
+  rel: practice
+  note: >-
+    Legal disagreements could produce social separation; compare the dispute over shared meals
+- ref: Mark 7:1-23
+  rel: practice
+  note: >-
+    Diverse Jewish purity rulings contextualize disputes over practice without identifying
+    identical rules or parties
+related: [community-rule, temple-scroll, jewish-sects, purity-and-impurity, dead-sea-scrolls,
+  calendars-and-month-names]
+media:
+- id: 4qmmt
+  role: primary
+external:
+  wikipedia: 4QMMT
+  wikidata: Q238185
+editorial:
+  author_notes:
+  - Its original addressee, letter form, and attached calendar are debated.
+  - >-
+    Compare the phrase "works of the law" without identifying Paul's opponents with the MMT
+    community or asserting literary dependence. The lexical comparison is clear enough to
+    tag; its significance for Paul requires separate argument.
+  sources_to_check:
+  - 4QMMT (4Q394-399), section B and C7-9
+  - 4QMMT C26-32; 4Q398 frags. 14-17 col. II, especially lines 3 and 7
+  - Israel Antiquities Authority, manuscript 4Q396
+  - J. D. G. Dunn, "4QMMT and Galatians," New Testament Studies 43 (1997) 147-153
+  - DJD X
+  image_query: 4QMMT scroll
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    A11. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

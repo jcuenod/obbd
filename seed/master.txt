@@ -118,6 +118,8 @@ adad-nirari-iii | person | Adad-nirari III | 2 Kgs 13:5 "deliverer" (disputed); 
 nabopolassar | person | Nabopolassar | founder of Neo-Babylonian dynasty; fall of Nineveh 612; Nah; Zeph 2:13-15; 2 Kgs 23:29
 fall-of-nineveh-612 | event | Fall of Nineveh (612 BCE) | Nah 1-3; Zeph 2:13-15; Jonah 3-4 (reception); Medes & Babylonians; Fall of Nineveh Chronicle
 iran-stele | artifact | Iran Stele of Tiglath-pileser III | Menahem tribute c. 738 2 Kgs 15:19-20; Rezin; Hiram of Tyre
+nebo-sarsekim-tablet | artifact | Nebo-Sarsekim Tablet (BM 114789) | Report C03 (optional; discoverability). Jer 39:3 (disputed identification); Dan 1:3 (title)
+tang-i-var-inscription | artifact | Tang-i Var Rock Inscription of Sargon II | Report F02 (medium expansion). Isa 20:1 (event); Isa 20:3-6 (setting); Yamani, Shebitku
 ## egypt
 merneptah-stele | artifact | Merneptah Stele | "Israel" c. 1208 BCE; Judg 1; emergence of Israel; Gezer, Ashkelon, Yanoam
 bubastite-portal | artifact | Bubastite Portal of Shoshenq I | 1 Kgs 14:25-26; 2 Chr 12:2-9; toponym list (Megiddo fragment)
@@ -183,6 +185,9 @@ joseph-story-egyptian-background | concept | The Joseph Story and Egypt | Gen 37
 instruction-of-merikare | text | Instruction for Merikare | humans as the creator's images Gen 1:26-27; divine care; royal responsibility; Prov 16:2
 tahpanhes | site | Tahpanhes (Daphnae) | Jer 2:16; 43:7-9; 44:1; 46:14; Ezek 30:18; Tell Defenneh; Judean refugees
 demotic-wisdom | text | Demotic Instructions (Ankhsheshonqy, Papyrus Insinger) | Eccl; Sir; Prov; late Egyptian wisdom comparanda
+papyrus-amherst-63 | artifact | Papyrus Amherst 63 | Report A12. Ps 20 parallel; Aramaic in Demotic script
+papyrus-brooklyn-35-1446 | artifact | Papyrus Brooklyn 35.1446 | Report D04 (high). Gen 39:1-6; Exod 1:11-14; foreign household dependents; labor administration
+louvre-leather-roll | artifact | Louvre Leather Roll (E 7976) | Report F01 (high expansion). Exod 5:8, 13-14; 1:14; brick quotas, Ramesses II year 5
 ## levant-epigraphy
 mesha-stele | artifact | Mesha Stele | 2 Kgs 3:4-27; 1 Kgs 16:21-28 Omri; Judg 3:12-30 Moab-Israel conflict; Num 21:29-30; 32:34-38; Isa 15-16; Jer 48; herem Josh 6:17-21; Judg 11:24 Chemosh gives land; "House of David" (disputed reading)
 tel-dan-stele | artifact | Tel Dan Stele | "House of David" 2 Sam 7:11-16; Hazael 2 Kgs 8:7-15; deaths of Joram and Ahaziah 2 Kgs 8:28-9:28 (conflict with Jehu account); Dan 1 Kgs 12:29; 15:20
@@ -249,6 +254,10 @@ hiram-of-tyre | person | Hiram of Tyre | 2 Sam 5:11; 1 Kgs 5; 9:11-14, 26-28; Jo
 khirbet-qeiyafa-ostracon | artifact | Khirbet Qeiyafa Ostracon | early alphabetic; script & language debate; tenth-century literacy; Judg 8:14; David debate
 bar-rakib-and-panamuwa-inscriptions | artifact | Bar-Rakib and Panamuwa Inscriptions (Samʾal) | Aramean vassalage to Tiglath-pileser III; 2 Kgs 16:7-10; "running at the wheel of my lord"; Bar-Rakib relief
 edomite-inscriptions | artifact | Edomite Inscriptions (Horvat ʿUza, Buseirah, Qos seals) | Qos; Edomite expansion into Negev; Obad; Ps 137:7; Jer 49:7-22; Horvat Uza ostracon
+jerusalem-governor-sealing | artifact | Jerusalem "Governor of the City" Sealing | Report D01 (highest). 2 Kgs 23:8; 2 Chr 34:8; Western Wall Plaza
+jerusalem-ivories | artifact | Jerusalem Ivory Panels from Givʿati Building 100 | Report D06 (medium to high). Amos 6:1, 4; Ps 45:8; 1 Kgs 10:18
+jerubbaal-vessel-inscription | artifact | Khirbet er-Raʿi Jerubbaal Vessel Inscription | Report E01 (optional). Judg 6:31-32; 7:1; 2 Sam 11:21 (all disputed name comparisons)
+adon-letter | artifact | Letter of King Adon | Report E03 (optional). Ezek 17:15; Jer 37:5-7; 2 Kgs 24:7 (disputed setting)
 ## ugarit-and-deities
 baal-cycle | text | Baal Cycle | Ps 29; Isa 27:1 Litan twisting serpent; Ps 74:13-14; Ps 48:2 Zaphon; Ps 68:4 cloud rider; Dan 7:9-14 (disputed); 1 Kgs 18; Hab 3:8-15; Baal's palace built in 7 days
 aqhat-epic | text | Aqhat Epic | Danel Ezek 14:14, 20; 28:3; hospitality Gen 18:1-8; judging widow & orphan at gate; childlessness Gen 15
@@ -441,6 +450,7 @@ divine-glory-and-melammu | concept | Divine Glory (kābôd) and Radiance (melamm
 justice-and-righteousness | concept | Justice and Righteousness and Royal Equity (kittum and mīšarum) | Ps 72:1-4; 89:14; 97:2; Isa 9:7; 11:4-5; Jer 22:15-16; Amos 5:24; Hammurabi kittum u mīšarum
 divine-abandonment | concept | Divine Abandonment and Captured Divine Images | Ezek 8-11; 43:1-5; 1 Sam 4-6; Isa 46:1-2; Jer 48:7; Lam 2:7; Marduk Prophecy; Esarhaddon Babylon inscriptions; godnapping
 fasting | practice | Fasting and Penitential Rites | Lev 16:29-31; Judg 20:26; 1 Sam 7:6; 2 Sam 12:16-23; Isa 58:3-7; Joel 1:14; 2:12-15; Jonah 3:5-9; Zech 7:3-5; 8:19; Esth 4:16; Matt 6:16-18
+anointing | practice | Anointing | Report C01 (optional synthesis). Gen 28:18-22; Exod 29:7; Lev 8:10-12; 1 Sam 10:1; Ps 133:2; Isa 61:1; Emar
 ## law-society-daily-life
 lex-talionis | practice | Lex Talionis | Exod 21:23-25; Lev 24:17-22; Deut 19:16-21; Matt 5:38-42; Hammurabi §§196-201
 goring-ox | practice | The Goring Ox | Exod 21:28-36; Eshnunna §§53-55; Hammurabi §§250-252; legal casuistry
@@ -503,6 +513,8 @@ household-and-kinship | concept | Household, Clan, and Tribe | bêt ʾāb, mišp
 pastoralism-and-herding | practice | Pastoralism, Herding, and Nomadism | Gen 4:2; 13:2-12; 29:1-10; 30:25-43; 31:38-40; 37:12-17; Exod 3:1; Amos 1:1; 7:14-15; 1 Sam 17:34-35; mobile pastoralism
 bread-and-diet | realia | Bread, Ovens, and Diet | Gen 18:6; Lev 2:4-7; 26:26; 1 Sam 8:13; Hos 7:4-7; Jer 37:21; Ruth 2:14; tabun/tannur; diet of grain, oil, wine
 medicine-and-healing | practice | Medicine, Physicians, and Healing | Exod 15:26; 21:19; 2 Kgs 20:7; 2 Chr 16:12; Jer 8:22; Sir 38:1-15; Mark 5:26; Mesopotamian asû and āšipu; Egyptian medical papyri
+childbirth-midwifery-and-infant-care | practice | Childbirth, Midwifery, and Infant Care | Report A13. Gen 35:16-20; Exod 1:15-21; 1:16 birth bricks (disputed); 1 Sam 1:22-24; Ezek 16:4-5; Isa 49:15
+household-religion | practice | Household and Family Religion | Report C02 (optional synthesis). Gen 31:19, 30-35; Judg 17; 1 Sam 20:6, 29; Jer 7:17-18; 44:15-19
 ## sites-peoples
 jerusalem | site | Jerusalem | Josh 10:1; 15:63; 2 Sam 5:6-9; 1 Kgs 6-8; 2 Kgs 25; Neh 2-3; Ps 48; Ps 122; Amarna Urusalim
 city-of-david | site | City of David | 2 Sam 5:7-9; 1 Kgs 2:10; 2 Chr 32:30; Neh 3:15-16; Stepped Stone Structure; Large Stone Structure; Gihon spring 1 Kgs 1:33-45
@@ -680,3 +692,30 @@ psalms-of-solomon | text | Psalms of Solomon | Pss. Sol. 17-18 Davidic messiah; 
 ben-sira | text | Wisdom of Ben Sira | Sir; Hebrew manuscripts (Cairo Genizah, Masada, Qumran); Prov; Sir 44-50 praise of fathers; Sir 24 wisdom & Torah
 jewish-revolt-coinage | realia | Coins of the Jewish Revolts | 66-70 CE and 132-135 CE silver shekels; "Jerusalem the holy"; "freedom of Zion"; paleo-Hebrew script
 tyrian-shekel | realia | Tyrian Shekel and the Temple Tax | Matt 17:24-27; 21:12; 26:15; Exod 30:13-16; Neh 10:32; Melqart obverse
+patronage-and-benefaction | practice | Patronage, Benefaction, and Reciprocity | Report A01. Luke 7:1-5; 14:12-14; 22:25-27; Rom 16:1-2; 1 Cor 9:1-18; Phil 4:10-20; Seneca De beneficiis
+meals-and-banqueting | practice | Meals, Banquets, and Dining Status | Report A02. Luke 14:7-14; John 13:1-30; 1 Cor 8:7-13; 10:14-33; 11:17-34; Gal 2:11-14; P.Oxy. I 110
+greco-roman-associations | practice | Associations, Occupational Guilds, and Communal Life | Report A03. Acts 19:23-41; 1 Cor 6:1-8; 11:17-34; 14:26-40; Rev 2:18-29; Iobacchoi; Tebtynis salt merchants
+greco-roman-households | practice | Greco-Roman Households and Household Management | Report A04. Col 3:18-4:1; Eph 5:21-6:9; 1 Pet 2:18-3:7; 1 Tim 3:4-5, 12; Titus 2:1-10; Acts 16:14-15, 30-34; Aristotle Politics 1.3
+roman-citizenship-and-provincial-justice | practice | Roman Citizenship and Provincial Justice | Report A05. Acts 16:19-39; 22:24-29; 24:1-23; 25:6-12; Cicero Verr. 2.5; Pliny Ep. 10.96-97
+taxation-tolls-and-tax-collectors | practice | Taxation, Tolls, and Tax Collectors | Report A06. Luke 3:12-13; 19:1-10; Mark 2:14-17; 12:13-17; Rom 13:6-7; Monumentum Ephesenum
+exorcism-and-spirit-possession | practice | Exorcism and Spirit Possession | Report A07. Mark 1:21-28; 5:1-20; Matt 12:22-29; Acts 19:13-20; Ps 91; Josephus Ant. 8.45-49; 11Q11
+philo | text | Philo of Alexandria and His Writings | Report A08. John 1:1-18; Col 1:15-17; Heb 8:1-5; John 18:28-19:16 (Pilate); Exod 25:31-40
+wisdom-of-solomon | text | Wisdom of Solomon | Report A09. Rom 1:18-32; Heb 1:1-4; Col 1:15-17; Matt 27:41-43; Acts 17:24-29; Wis 2:12-20; 7:25-26; 13-15
+11qmelchizedek | artifact | 11QMelchizedek (11Q13) | Report A10. Lev 25:8-13; Deut 15:1-2; Ps 82:1-2; Isa 61:1-2; Luke 4:16-21; Heb 7:1-17
+4qmmt | text | 4QMMT (Some Precepts of the Torah) | Report A11. Gal 2:11-16; Rom 3:20-28; Mark 7:1-23; 4Q394-399
+athletics-and-victory-crowns | practice | Athletic Contests, Training, and Victory Crowns | Report A14. 1 Cor 9:24-27; Phil 3:12-14; 2 Tim 2:5; 4:7-8; Heb 12:1-2; 1 Tim 4:7-8; Isthmia
+stoics-epicureans-and-moral-philosophy | concept | Stoics, Epicureans, and Popular Moral Philosophy | Report A15. Acts 17:18-34; Phil 4:8-13; 1 Tim 6:6-8; Aratus Phaen. 5; Epicurus Ep. Men.
+berenike-judean-benefactor-decree | artifact | Berenike Judean Benefactor Decree | Report B01. Luke 7:4-5; 22:25-27; IBerenike 18 = CJZC 70
+thyatira-dyers-claudia-ammion | artifact | Thyatira Dyers' Inscription Honoring Claudia Ammion | Report B02. Acts 16:14; Rev 2:18-29; TAM V 972
+ephesus-silversmiths-hermeias-inscription | artifact | Ephesian Silversmiths' Inscription for Hermeias and Erotis | Report B03. Acts 19:24-27; IEph 2212
+tebtynis-salt-merchants-papyrus | artifact | Tebtynis Salt-Merchants Papyrus | Report B04. Acts 19:24-27; 1 Cor 11:17-22; P.Mich. V 245
+pliny-trajan-correspondence | text | Pliny and Trajan on Christians | Report B05. 1 Pet 4:12-16; Rev 13:14-17; Acts 25:10-12; 1 Cor 11:17-34; Pliny Ep. 10.96-97
+11q11-apocryphal-psalms | artifact | 11QApocryphal Psalms (11Q11) | Report B06. Ps 91; Matt 4:5-7; Luke 4:9-12 (disputed)
+rhetorical-education-and-moral-exhortation | concept | Rhetorical Education and Moral Exhortation | Report B07. Rom 3:1-9; 1 Cor 1:17-2:5; 2 Cor 10:10-11; Acts 24:1-9; Quintilian Inst. 4.1; 9.2
+4q521-messianic-apocalypse | artifact | 4Q521 (Messianic Apocalypse) | Report C04 (optional). Isa 35:5-6; 61:1-2; Ps 146:7-8; Matt 11:2-6; Luke 7:18-23
+4q246-son-of-god | artifact | 4Q246 (Son of God Text) | Report C05 (optional). Luke 1:32-35; Dan 7:13-14, 27; Ps 82:6-8 (disputed)
+murabbaat-divorce-deed | artifact | Murabbaʿat Divorce Deed (Mur 19) | Report D02 (highest). Deut 24:1-4; Matt 5:31-32; 19:7-9; Mark 10:4-12
+sarapis-dinner-invitation | artifact | Sarapis Dinner Invitation (P.Oxy. I 110) | Report D03 (highest). 1 Cor 8:10; 10:20-21; 10:27-28
+delphic-manumission-antigona | artifact | Delphic Manumission of Antigona and Her Daughters | Report D05 (high). 1 Cor 6:19-20; 7:21-23; Phlm 15-16; SGDI II 1722
+lysanias-abila-inscriptions | text | Abila Inscriptions Naming Lysanias the Tetrarch | Report E02 (optional). Luke 3:1 (disputed identification)
+darius-susa-foundation-dsf | text | Darius's Susa Foundation Inscription (DSf) | Report F03 (medium expansion). Esth 1:2-7 (setting); Ezra 3:7 (practice); Louvre SB 2789

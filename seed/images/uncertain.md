@@ -101,3 +101,10 @@ Check these first when reviewing images (`./obbd media-sheet`, then open dist/me
 - **weld-blundell-prism**: identified from what the photos show.
 - **tabernacle**: Timna model, a modern reconstruction.
 - **Empty**: tannin, tattenai-tablet, teraphim, tirzah.
+
+## Batch 11 (entries from the 27 November 2026 additions report)
+- **delphic-manumission-antigona**: a general photograph of Delphic manumission inscriptions. It does not necessarily show SGDI II 1722, and the caption says so.
+- **patronage-and-benefaction**: the Berenike decree for Marcus Tittius (CJZC 71), not the Dionysios decree (CJZC 70) that has its own entry. The caption says so, and the Dionysios entry is left without an image.
+- **pliny-trajan-correspondence**: a fragment naming C. Plinius in Sant'Ambrogio, Milan. Its identification with Pliny the Younger's honorific inscription (CIL V 5262) comes from general knowledge, not the file description; check it.
+- **papyrus-amherst-63**: the file title uses the source photograph’s column labels. Confirm how those labels correspond to the numbering in van der Toorn’s edition.
+- **nebo-sarsekim-tablet**: reuses the image already on `eunuchs` (media id `eunuchs-2`).

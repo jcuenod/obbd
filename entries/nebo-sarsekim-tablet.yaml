@@ -1,0 +1,76 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: nebo-sarsekim-tablet
+title: Nebo-Sarsekim Tablet (BM 114789)
+aliases: [BM 114789, Nabû-šarrūssu-ukīn tablet]
+type: artifact
+cultures: [babylonian]
+date:
+  from: -595
+  to: -594
+  circa: true
+  display: c. 595–594 BCE
+scope: >-
+  A Babylonian receipt for a delivery of gold naming Nabû-šarrūssu-ukīn as chief courtier
+  (rab ša-rēši). It provides a proposed identification for Nebo-Sarsekim in Jeremiah 39 and
+  evidence for Babylonian court terminology.
+passages:
+- ref: Jer 39:3
+  rel: attests
+  disputed: true
+  note: >-
+    The receipt's name and title support a proposed identification; the Hebrew name division
+    needs discussion
+- ref: Dan 1:3
+  rel: language
+  note: >-
+    The title rab ša-rēši supplies comparative background for the Babylonian chief court official's
+    designation
+related: [court-officials, eunuchs, nebuchadnezzar-ii, fall-of-jerusalem-587]
+location:
+  institution: British Museum, London
+  accession: null
+media:
+- id: eunuchs-2
+  role: primary
+external:
+  wikipedia: Nebo-Sarsekim Tablet
+  wikidata: Q2916229
+editorial:
+  author_notes:
+  - >-
+    Optional record in the report (group C). Court Titles and Officials already discusses
+    the receipt, its date, the identification, cautions, and Jursa's bibliography, and has
+    an image of the object. This record is mainly for discoverability.
+  - >-
+    The receipt does not narrate Jerusalem's capture and must not receive a same-event tag.
+    The Daniel tag concerns an office, not an identification of the official named there.
+  - Do not conflate Nebo-Sarsekim (Jer 39:3) with Nebushazban (Jer 39:13).
+  - >-
+    The date field reflects the tablet's tenth regnal year of Nebuchadnezzar II. Use the regnal
+    year in prose unless the conversion of its winter date has been checked.
+  sources_to_check:
+  - >-
+    Michael Jursa, "Nabû-šarrūssu-ukīn, rab ša-rēši, und 'Nebusarsekim' (Jer. 39:3)," NABU
+    2008/1, no. 5, 9-10
+  - >-
+    Henry Stadhouders, "The Nebu(!)sarsekim Tablet, BM 114789 (1920-12-13, 81): Some Provisional
+    Remarks"
+  - British Museum collection record, 1920,1213.81 / BM 114789
+  image_query: Nebo-Sarsekim tablet British Museum
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    C03. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.

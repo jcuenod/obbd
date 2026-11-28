@@ -1803,3 +1803,53 @@
 # ---------------------------------------------------------------------------
 # Sites and peoples
 # ---------------------------------------------------------------------------
+
+- id: childbirth-midwifery-and-infant-care
+  cultures: [ane, egyptian, hebrew]
+  scope: >-
+    Ancient birth attendants, delivery equipment, newborn care, nursing, weaning, and
+    protective rites, which illuminate biblical birth narratives and imagery drawn from
+    maternal and infant experience. Protective deities, amulets, and impurity rules have their
+    own entries.
+  passages:
+    - "Gen 35:16-20 | practice | Rachel's difficult labor and the midwife's reassurance presuppose female birth attendants"
+    - "Exod 1:15-21 | practice | Midwives assist births and confront royal demands in the Egyptian setting"
+    - "Exod 1:16 | realia? | Egyptian birth bricks are one proposed interpretation of the delivery equipment called ʾobnayim"
+    - "1Sam 1:22-24 | practice | Samuel's presentation after weaning presupposes a recognized transition in infant care"
+    - "Ezek 16:4-5 | practice | Cutting the cord, washing, salting, and swaddling: the newborn care denied to personified Jerusalem"
+    - "Isa 49:15 | imagery | Nursing and maternal attachment provide the comparison for divine remembrance"
+  related: [bes, lamashtu-pazuzu-amulets, purity-and-impurity, adoption, household-and-kinship, amulets]
+  wikipedia: Midwifery
+  image: Abydos birth brick Penn Museum
+  author_notes:
+    - The interpretation of Exod 1:16 as birth bricks is disputed; the existence of Egyptian childbirth equipment is not.
+    - Separate what the evidence establishes about practices from speculative reconstructions of particular biblical deliveries.
+    - Cross-reference protective deities and impurity rules instead of repeating their existing articles.
+  sources_to_check:
+    - Kevin McGeough, "Birth Bricks, Potter's Wheels, and Exodus 1,16," Biblica 87 (2006) 305-318
+    - Shawn W. Flynn, Children in Ancient Israel (Oxford University Press, 2018)
+    - "Penn Museum, 'Archaeologists Uncover 3,700-year-old Magical Birth Brick,' Penn Today, 25 July 2002 (verify date)"
+
+- id: household-religion
+  cultures: [hebrew, israelite, judahite]
+  scope: >-
+    Domestic shrines, family sacrifices, protective objects, ancestor observances, and women's
+    ritual work, which place biblical household worship within the religious lives of ordinary
+    families. The entry is an organizing article; its evidence is also distributed across
+    several substantive entries.
+  passages:
+    - "Gen 31:19, 30-35 | practice | Rachel's possession of household gods provides a narrative instance of domestic sacred objects"
+    - "Judg 17:1-13 | practice | Micah's household shrine, sacred objects, and hired priest illustrate worship organized within a household"
+    - "1Sam 20:6, 29 | practice | David's claimed family sacrifice at Bethlehem presupposes ritual obligations within a kin group"
+    - "Jer 7:17-18 | practice | Children, fathers, and women share tasks in preparing offerings to the Queen of Heaven"
+    - "Jer 44:15-19 | practice | Women's offerings and their husbands' knowledge reveal family participation in contested worship"
+  related: [household-and-kinship, teraphim, judean-pillar-figurines, care-for-the-dead, amulets, queen-of-heaven]
+  wikipedia: null
+  image: null
+  author_notes:
+    - Optional headword in the report (group C). Household, Clan, and Tribe already discusses family sacrifice, Micah's shrine, women's work, and kinship's religious functions.
+    - Do not identify all female figurines with one goddess or infer the users' gender from an artifact alone.
+    - Distinguish archaeological evidence for domestic ritual from debated interpretations of particular objects and deities.
+  sources_to_check:
+    - 'Beth Alpert Nakhai, "Women in Israelite Religion: The State of Research Is All New Research," Religions 10 (2019), art. 122'
+    - Shawn W. Flynn, Children in Ancient Israel (Oxford University Press, 2018)

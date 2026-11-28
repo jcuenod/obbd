@@ -1,0 +1,64 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+id: jerusalem-governor-sealing
+title: Jerusalem "Governor of the City" Sealing
+type: artifact
+cultures: [judahite]
+date:
+  from: -700
+  to: -586
+  circa: true
+  display: c. 700–586 BCE
+scope: >-
+  A late Iron Age clay sealing from the Western Wall Plaza excavations in Jerusalem bearing
+  the Hebrew title "governor of the city" (śar hāʿîr). It is material evidence for an administrative
+  office mentioned in Kings and Chronicles.
+passages:
+- ref: 2Kgs 23:8
+  rel: attests
+  note: >-
+    Attests the office 'governor of the city'; the inscription does not identify its unnamed
+    holder as Joshua
+- ref: 2Chr 34:8
+  rel: attests
+  note: Attests the office assigned to Maaseiah; it does not identify Maaseiah personally
+related: [court-officials, seals-and-bullae, josiah, jerusalem, bullae-of-jeremiah-era-officials]
+media: []
+external: {}
+editorial:
+  author_notes:
+  - >-
+    Call it a sealing or docket. The excavation report leaves its original function uncertain;
+    the excavator suggests a docket that could have accompanied goods.
+  - Keep the attestation of the office separate from the identification of a person.
+  - >-
+    The Kings passage belongs to Josiah's reforms; do not repeat a promotional-source error
+    assigning it to Hezekiah.
+  - >-
+    Give the provenance and the reading, and distinguish the archaeological dating from a
+    proposed biblical comparison. The date field is a broad late Iron Age range; check it
+    against the excavation report.
+  sources_to_check:
+  - >-
+    Hadashot Arkheologiyot 133 (2021), Western Wall Plaza report (Weksler-Bdolah), Iron Age
+    section and fig. 3
+  - >-
+    Ornan, Weksler-Bdolah, and Sass, "Governor of the City" sealing, in Ancient Jerusalem
+    Revealed (2019), pp. 67-72
+  image_query: governor of the city seal impression Jerusalem
+status: draft
+credits:
+  authors: [gpt-6-codex]
+  reviewers: []
+history:
+- date: '2026-11-27'
+  action: created
+  by: claude-opus-5-5
+  note: >-
+    Created from the OBBD Entry Additions and Revisions Report (27 November 2026), record
+    D01. Scope, passage tags, editorial notes and sources were transcribed from the report;
+    dates, cultures, Wikipedia links and image queries were added at scaffolding. All need
+    expert review.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Drafted article and checked passage associations and source references.
