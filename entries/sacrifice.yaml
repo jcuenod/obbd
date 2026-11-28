@@ -43,7 +43,8 @@ passages:
   rel: concept
   note: Broken spirit as acceptable sacrifice; MT 51:18-19
 related: [marseilles-tariff, care-and-feeding-of-the-gods, altars, ugaritic-texts, child-sacrifice,
-  extispicy, tithes, purity-and-impurity]
+  extispicy, tithes, purity-and-impurity,
+  meals-and-banqueting, sarapis-dinner-invitation]
 media:
 - id: sacrifice
   role: primary
@@ -84,3 +85,7 @@ history:
 - date: '2026-11-21'
   action: drafted
   by: gpt-6-codex
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Integrated relevant evidence and links from the entry additions review.

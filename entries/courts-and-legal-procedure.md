@@ -20,6 +20,8 @@ Deut 16:18 instructs the people to appoint judges and officers in all their gate
 
 Many scholars read this evidence as a movement from local justice based on elders and kinship to greater involvement by state officials. Literary portrayals of the past complicate a precise reconstruction. Local and royal jurisdictions could coexist. The sources show the importance of a recognizable place where a claim could be heard, while the [[city-gates|architecture of gates]] supplies the setting for a range of such public uses.
 
+For the different legal setting of provincial governors, citizenship, and the hearings narrated in Acts, see [[roman-citizenship-and-provincial-justice]].
+
 ## Further Reading
 
 - [@parker-unp]: Translation of the Aqhat epic, including Danel's hearing of cases.

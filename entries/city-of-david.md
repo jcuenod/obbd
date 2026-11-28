@@ -14,6 +14,8 @@ On the upper slope, the Stepped Stone Structure is a mass of stonework laid acro
 
 At the eastern slope, Yigal Shiloh's excavations in Area G uncovered buildings used at the end of the Iron Age. The House of Ahiel and nearby rooms yielded evidence of domestic life, while the House of the Bullae yielded clay seal impressions associated with administration. Their destruction is generally linked to the Babylonian capture of Jerusalem in 587 or 586 BCE. The site now lies within a living neighborhood, and the sponsorship, presentation and effects of excavations in Silwan are contested. [@neaehl, 2:705–712] [@eames-garfinkel-jerusalem, 176–177]
 
+On the western side of the ridge, Givʿati Building 100 yielded [[jerusalem-ivories|decorated ivory panels]] from a destruction deposit associated with the Babylonian conquest. The panels probably decorated elite furnishings. Their original arrangement remains uncertain. They supply a Judahite comparison for the ivory furnishings Amos associates with Samaria's elite (Amos 6:1, 4) [@avisar-jerusalem-ivories, 57–74].
+
 ## Significance for Biblical Studies
 
 Second Samuel 5:7–9 associates the City of David with the stronghold of Zion and describes building activity there. The difficult term rendered “water shaft” in 2 Sam 5:8 (NIV) has often been linked to Warren's Shaft. The reading of the word and the use of the shaft in the proposed period are both disputed. The Gihon appears more clearly in 1 Kgs 1:33–45 as the place where Solomon is anointed. Later accounts of royal water works are discussed under [[hezekiahs-tunnel|Hezekiah's Tunnel]].

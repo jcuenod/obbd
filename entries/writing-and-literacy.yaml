@@ -39,7 +39,8 @@ passages:
   rel: practice
   note: '''Here is my signature (tāw)''; written indictment'
 related: [scribes-and-scribal-education, lachish-letters, arad-ostraca, izbet-sartah-abecedary,
-  khirbet-qeiyafa, deir-alla-inscription, paleo-hebrew-script, ostraca]
+  khirbet-qeiyafa, deir-alla-inscription, paleo-hebrew-script, ostraca,
+  jerubbaal-vessel-inscription]
 media:
 - id: corvee-labor
   role: primary
@@ -75,3 +76,7 @@ history:
 - date: '2026-11-21'
   action: drafted
   by: gpt-6-codex
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Integrated relevant evidence and links from the entry additions review.

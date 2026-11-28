@@ -43,8 +43,17 @@ passages:
 - ref: Deut 20:11
   rel: practice
   note: Population of a surrendering city serves at forced labour
+- ref: Exod 1:13-14
+  rel: practice
+  note: >-
+    Papyrus Brooklyn 35.1446 provides earlier evidence for Egyptian labor obligations.
+- ref: Exod 5:8, 13-14
+  rel: practice
+  note: >-
+    The Louvre Leather Roll gives comparative evidence for brick targets and shortfalls.
 related: [amarna-letters, tomb-of-rekhmire, mesad-hashavyahu-ostracon, solomon, pithom, slavery,
-  exodus-historical-questions]
+  exodus-historical-questions,
+  papyrus-brooklyn-35-1446, louvre-leather-roll]
 media:
 - id: corvee-labor
   role: primary
@@ -89,3 +98,7 @@ history:
 - date: '2026-11-21'
   action: drafted
   by: gpt-6-codex
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Integrated relevant evidence and links from the entry additions review.

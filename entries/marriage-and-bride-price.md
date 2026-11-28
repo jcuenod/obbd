@@ -18,7 +18,11 @@ Exod 22:16–17 (MT 22:15–16) addresses an unbetrothed woman and a man who per
 
 ## Interpretive Significance
 
-Deut 24:1–4 supposes that a husband gives a written document of divorce and sets a particular limit on remarriage. No securely identified Israelite marriage contract survives from the monarchic period. Tob 7:13–14, with differing verse divisions in ancient versions, gives an early Jewish literary example of a written marriage agreement. The documents from Elephantine suggest how agreements of this kind could make obligations explicit, while the biblical accounts preserve several different ways families understood those obligations.
+Deut 24:1–4 supposes that a husband gives a written document of divorce and sets a particular limit on remarriage.
+
+The [[murabbaat-divorce-deed|Murabbaʿat divorce deed]] gives a later Jewish example of a husband issuing a written release. It permits his former wife to remarry and addresses her dowry and damaged property. The document states its date as year six, and the era remains disputed. It illustrates the certificate discussed in Matt 5:31–32, Matt 19:7–9, and Mark 10:4–12. Mark also considers divorce initiated by a wife, a different situation from the one recorded in the deed [@fitzmyer-harrington-mpat, no. 40].
+
+No securely identified Israelite marriage contract survives from the monarchic period. Tob 7:13–14, with differing verse divisions in ancient versions, gives an early Jewish literary example of a written marriage agreement. The documents from Elephantine suggest how agreements of this kind could make obligations explicit, while the biblical accounts preserve several different ways families understood those obligations.
 
 ## Further Reading
 

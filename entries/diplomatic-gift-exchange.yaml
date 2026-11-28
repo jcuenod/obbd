@@ -39,8 +39,18 @@ passages:
 - ref: Ps 72:10-11
   rel: imagery
   note: Kings of Tarshish, Sheba and Seba bring gifts
+- ref: Ezek 17:15
+  rel: practice
+  note: >-
+    The Adon letter illustrates a ruler appealing to Pharaoh for military help.
+- ref: Jer 37:5-7
+  rel: practice
+  note: >-
+    The Adon letter offers another example of a ruler looking to Egypt for support against
+    Babylon.
 related: [amarna-letters, hiram-of-tyre, sheba, merodach-baladan, diplomatic-marriage, brotherhood-language,
-  tribute-and-vassalage, letter-writing-conventions]
+  tribute-and-vassalage, letter-writing-conventions,
+  adon-letter]
 media:
 - id: diplomatic-gift-exchange
   role: primary
@@ -85,3 +95,7 @@ history:
 - date: '2026-11-21'
   action: drafted
   by: gpt-6-codex
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Integrated relevant evidence and links from the entry additions review.

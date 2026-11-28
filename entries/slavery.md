@@ -8,6 +8,12 @@ The [[code-of-hammurabi|Laws of Hammurabi]] provide for the release after three 
 
 Documents from Babylonia record debt arrangements and sales. Later documents from [[samaria-papyri|Wadi Daliyeh]] and [[elephantine-papyri|Elephantine]] likewise place enslaved people within transactions concerning households and property. The documents offer direct evidence of individual cases. The law collections express wider legal expectations and distinctions that were not necessarily applied in the same way everywhere [@cos3, 3.68, 3.74, 3.111–3.114] [@tad, B2.11, B3.3, B3.6].
 
+Egyptian documents preserve different categories of dependence. [[papyrus-brooklyn-35-1446|Papyrus Brooklyn 35.1446]] lists Egyptian and foreign household dependents and separately records cases involving labor obligations. Its household register supplies a comparison for a foreign dependent's place in an Egyptian household in Gen 39:1–6. The legal status of individuals in the Egyptian records depends on the terms and circumstances of each transaction [@hayes-brooklyn-papyrus] [@loprieno-servitude].
+
+## Greco-Roman Evidence
+
+The [[delphic-manumission-antigona|Delphic manumission of Antigona and her daughters]] records a sale to Apollo that secures their freedom and protects them against re-enslavement. It combines purchase and divine ownership with legal freedom. The document illustrates a Greek procedure for a change of status within a world where enslaved people could belong to [[greco-roman-households|households]] and be transferred as property [@delphi-1722, lines 1–16].
+
 ## In the Hebrew Bible
 
 Exod 21:2–6 provides release in the seventh year for a Hebrew male slave and describes piercing the ear if he remains permanently. The meaning of “Hebrew” here is debated. A connection with the social designation [[habiru|ḫabiru]] has been proposed, without establishing that the terms identify the same class. Exod 21:7–11 addresses a daughter sold into a household with marriage expectations and provides protections in that arrangement. Deut 15:12–18 explicitly includes women in its release provisions and requires that the released person receive supplies.
@@ -17,6 +23,8 @@ Exod 21:16 condemns kidnapping for sale, and Exod 21:20–21, 26–27 gives pena
 2 Kgs 4:1 portrays a creditor threatening to take a widow's children. Neh 5:1–5 describes families facing loss of property and the enslavement of children in a debt crisis. Jer 34:8–22 describes a release of Hebrew slaves and the reversal of that decision. These narratives give practical settings for [[debt-release|laws and decrees of release]].
 
 ## Interpretive Significance
+
+In 1 Cor 6:19–20 Paul uses purchase to describe belonging to God. In 1 Cor 7:21–23 he juxtaposes freedom and slavery in relation to Christ. Greek manumission shows how purchase and freedom could be joined in legal language. Paul's argument uses them to characterize the standing of his addressees.
 
 Phlm 8–21 concerns Onesimus within the setting of Roman slavery. The letter asks that he be received as a beloved brother, while readers debate whether Paul expects legal release. Roman institutions, Israelite debt law, and foreign chattel slavery in Leviticus involved different rules and routes into bondage. Distinguishing those systems helps readers take the coercion in each passage seriously and avoids assigning every occurrence of the same term a single legal status.
 

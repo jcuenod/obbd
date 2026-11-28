@@ -37,8 +37,13 @@ passages:
 - ref: Jer 38:1
   rel: attests
   note: Jehucal son of Shelemiah and Gedaliah son of Pashhur named on bullae from the site
+- ref: Amos 6:1, 4
+  rel: realia
+  note: >-
+    Decorated ivory panels from a later elite setting in Judah give a material comparison.
 related: [jerusalem, temple-mount, hezekiahs-tunnel, pool-of-siloam, bullae-of-jeremiah-era-officials,
-  low-chronology-debate, david, cisterns-and-water-systems]
+  low-chronology-debate, david, cisterns-and-water-systems,
+  jerusalem-ivories]
 media:
 - id: jerusalem-2
   role: gallery
@@ -85,6 +90,10 @@ history:
 - date: '2026-11-20'
   action: drafted
   by: gpt-6-codex
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Integrated relevant evidence and links from the entry additions review.
 coordinates:
   lat: 31.77304
   lon: 35.23481

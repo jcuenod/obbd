@@ -8,6 +8,8 @@ Egyptian and Mesopotamian archives preserve examples of specialized scribal trai
 
 The late Iron Age record includes letters, labels, seals, monumental inscriptions, and accounts. In [Lachish Letter 3](lachish-letters.md), Hoshayahu disputes a charge concerning his ability to read a letter. The exchange implies that competence in reading could matter to an official's standing. Handwriting analysis of a small group of [Arad ostraca](arad-ostraca.md) identified several writers engaged in military administration around 600 BCE. The results support multiple writers in a particular institutional network, and identifying the exact number depends on the method and the attribution of short samples [@dobbs-allsopp-hebrew-inscriptions, 5–41, 308–314; @ahituv-echoes, 17–18, 249–256].
 
+The [[jerubbaal-vessel-inscription|inscribed jug from Khirbet al-Raʿi]] provides another early alphabetic witness from an excavated context. Its short sequence has been read as a personal name, although the first letter is incomplete. The find shows a use of writing on a vessel. It gives no measure of how many people could read or write [@rollston-jerubbaal].
+
 ## In the Hebrew Bible
 
 In Judg 8:14 a young man supplies written names of the leaders of Succoth. The narrative depicts writing outside a formal scribal scene, but one character gives no measure of the ordinary distribution of the skill. Deut 6:9 and 11:20 command writing on doorposts and gates, while Deut 17:18–19 requires a written copy of the law for the king to read regularly. Deut 27:2–8 puts writing on plastered stones. The [Deir ʿAlla inscription](deir-alla-inscription.md) demonstrates that plaster could bear an extended text in the region.

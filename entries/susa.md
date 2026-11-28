@@ -10,7 +10,7 @@ The ancient mounds adjoin modern Shush in Khuzestan, east of the Tigris plain an
 
 Susa has remains from the late fifth millennium BCE onward. Its material culture sometimes resembles that of neighboring Mesopotamia, and at other times shows distinct Elamite developments. Major French excavations began in the nineteenth century. The Acropolis produced the victory stele of Naram-Sin, on which Shutruk-Nahhunte records its transfer to Susa from Sippar. The Laws of Hammurabi stele was also found at Susa. Its presence fits the pattern of Elamite removal of Babylonian monuments, though its carrier and original installation are less directly attested [@roth-law, 71–73].
 
-Darius I established a palace complex with residential courts and a columned audience hall, or *apadana*. His foundation inscription DSf describes building materials, routes of supply, and craftspeople from across the empire. Its account brings the distant provinces into the work at the king's residence. Excavated remains, including glazed-brick reliefs and great stone column elements, demonstrate some of the techniques and materials used in the complex. The buildings and their successive repairs document a residence with a history extending beyond its founder [@anet, 316–317; @anet, 316–317].
+Darius I established a palace complex with residential courts and a columned audience hall, or *apadana*. His [[darius-susa-foundation-dsf|foundation inscription DSf]] describes building materials, routes of supply, and craftspeople from across the empire. Its account brings the distant provinces into the work at the king's residence. Excavated remains, including glazed-brick reliefs and great stone column elements, demonstrate some of the techniques and materials used in the complex. The buildings and their successive repairs document a residence with a history extending beyond its founder [@kent-old-persian, DSf, 142–144]. The composition survives in several witnesses. One is Louvre SB 2789, an Old Persian clay tablet from the palace complex [@louvre-sb2789].
 
 ## Significance for Biblical Studies
 
@@ -22,7 +22,7 @@ Ezra 4:9 includes people of Susa in the list of parties to a letter sent to the 
 
 - [@abd]: Surveys the site and the biblical attestations of Susa.
 - [@roth-law]: Translates Hammurabi's laws and treats their principal monumental witness.
-- [@anet]: Gives translations of Persian royal inscriptions and Mesopotamian texts recovered at Susa.
+- [@kent-old-persian]: Gives the Old Persian text and translation of Darius's palace inscription.
 - [@cos2]: Includes royal inscriptions that place Susa within Elamite and Persian political history.
 
 <!-- DRAFTER NOTES

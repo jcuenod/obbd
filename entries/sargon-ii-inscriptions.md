@@ -14,6 +14,8 @@ The inscriptions present campaigns, tribute, resettlement, construction and roya
 
 2 Kgs 17:6 and 18:9–11 record the [[fall-of-samaria|fall of Samaria]] and the deportation of inhabitants. 2 Kgs 17:24 also describes settlement from several places in the empire. Sargon's account of Arabian settlers illustrates the same policy without naming the same groups. These sources can reflect different movements of people. Isa 20:1–6 ties the capture of [[ashdod|Ashdod]] to Sargon's commander and uses it to warn against confidence in Egypt and Cush. The event is usually dated around 712–711 BCE. The local stele and the more detailed accounts from Assyria supply a material and political context for the passage. [@cos2, 2.118A, 2.118E] [@anet, 284–287] [@neaehl, 1:93–101]
 
+The [[tang-i-var-inscription|Tang-i Var rock inscription]] in western Iran also recounts the capture of Ashdod. It reports that Yamani fled to Meluḫḫa, here Kush, and that Shebitku handed him over to Assyria. The capture corresponds to the event named in Isa 20:1. The flight and extradition illuminate the political background for Isaiah's warning about reliance on Egypt and Cush (Isa 20:3–6) [@rinap2, Sargon II 116, lines 19–21].
+
 Isa 10:9–11 imagines Assyria boasting about cities it had taken, including Carchemish, Arpad, Hamath and Samaria. 2 Kgs 18:34 puts a comparable boast about fallen cities in the mouth of Sennacherib's envoy. Sargon's inscriptions supply examples of how Assyrian rulers grouped such victories. The lists range across campaigns and reigns. [@abd, 4:741–745] [@cos2, 2.118]
 
 ## Scholarly Issues

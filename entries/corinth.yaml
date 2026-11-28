@@ -35,7 +35,8 @@ passages:
   disputed: true
   note: Erastus the city treasurer
 related: [gallio-inscription, erastus-inscription, imperial-cult, temple-of-artemis-ephesus,
-  politarch-inscriptions]
+  politarch-inscriptions,
+  meals-and-banqueting, sarapis-dinner-invitation]
 media:
 - id: corinth
   role: primary
@@ -76,6 +77,10 @@ history:
 - date: '2026-11-21'
   action: drafted
   by: gpt-6-codex
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Integrated relevant evidence and links from the entry additions review.
 coordinates:
   lat: 37.90579
   lon: 22.87874

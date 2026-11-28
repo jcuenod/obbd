@@ -40,7 +40,8 @@ passages:
   disputed: true
   note: Scroll written inside and on the back, sealed with seven seals
 related: [seals-and-bullae, land-redemption, writing-materials, elephantine-papyri, samaria-papyri,
-  murashu-archive, bullae-of-jeremiah-era-officials]
+  murashu-archive, bullae-of-jeremiah-era-officials,
+  murabbaat-divorce-deed]
 media:
 - id: sealed-deeds
   role: primary
@@ -74,3 +75,7 @@ history:
 - date: '2026-11-21'
   action: drafted
   by: gpt-6-codex
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Integrated relevant evidence and links from the entry additions review.

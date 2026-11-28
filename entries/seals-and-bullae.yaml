@@ -46,7 +46,8 @@ passages:
   rel: imagery
   note: '''Set me as a seal upon your heart'''
 related: [cylinder-seals, hezekiah-bulla, bullae-of-jeremiah-era-officials, seal-of-shema,
-  lmlk-seal-impressions, sealed-deeds, forgeries-in-biblical-archaeology, yehud-seals-and-coins]
+  lmlk-seal-impressions, sealed-deeds, forgeries-in-biblical-archaeology, yehud-seals-and-coins,
+  jerusalem-governor-sealing]
 media:
 - id: seals-and-bullae
   role: primary
@@ -89,3 +90,7 @@ history:
 - date: '2026-11-21'
   action: drafted
   by: gpt-6-codex
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Integrated relevant evidence and links from the entry additions review.

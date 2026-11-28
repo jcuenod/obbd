@@ -27,7 +27,8 @@ passages:
 - ref: Ps 72:10-11
   rel: imagery
   note: Foreign delegations bringing tribute to the king
-related: [corvee-labor, slavery, court-officials, tribute-and-vassalage, thebes, exodus-historical-questions]
+related: [corvee-labor, slavery, court-officials, tribute-and-vassalage, thebes, exodus-historical-questions,
+  louvre-leather-roll]
 location:
   institution: In situ, Theban necropolis (Sheikh Abd el-Qurna), Luxor
   accession: null
@@ -71,3 +72,7 @@ history:
 - date: '2026-11-21'
   action: drafted
   by: gpt-6-codex
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Integrated relevant evidence and links from the entry additions review.

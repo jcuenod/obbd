@@ -44,7 +44,8 @@ passages:
   rel: concept
   note: Jesus applies Isa 61:1-2 and 58:6 to his ministry
 related: [sabbatical-year, edict-of-ammi-saduqa, slavery, land-redemption, code-of-hammurabi,
-  hammurabi, widow-orphan-sojourner]
+  hammurabi, widow-orphan-sojourner,
+  11qmelchizedek, delphic-manumission-antigona]
 media: []
 external:
   wikipedia: Jubilee (biblical)
@@ -94,3 +95,7 @@ history:
 - date: '2026-11-20'
   action: drafted
   by: gpt-6-codex
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Integrated relevant evidence and links from the entry additions review.

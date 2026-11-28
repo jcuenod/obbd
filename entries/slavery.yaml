@@ -3,7 +3,7 @@ id: slavery
 title: Slavery and Debt Servitude
 aliases: [Debt slavery, Debt servitude, Hebrew slave]
 type: practice
-cultures: [hebrew, ane]
+cultures: [hebrew, ane, egyptian, greek, roman]
 scope: >-
   Slavery and debt servitude in biblical law and narrative, compared with ancient Near Eastern
   legal and documentary evidence. Covers the 'Hebrew slave' laws, female servitude, protections
@@ -43,8 +43,22 @@ passages:
 - ref: Phlm 8-21
   rel: setting
   note: Onesimus, within Roman household slavery
+- ref: Gen 39:1-6
+  rel: practice
+  note: >-
+    Papyrus Brooklyn 35.1446 lists Egyptian and foreign household dependents.
+- ref: 1Cor 6:19-20
+  rel: imagery
+  note: >-
+    The Delphic inscription compares purchase and divine belonging in the legal setting of
+    manumission.
+- ref: 1Cor 7:21-23
+  rel: practice
+  note: >-
+    Greek manumission gives background for the legal statuses that Paul uses in his argument.
 related: [debt-release, code-of-hammurabi, edict-of-ammi-saduqa, samaria-papyri, habiru, elephantine-papyri,
-  corvee-labor, treatment-of-captives]
+  corvee-labor, treatment-of-captives,
+  papyrus-brooklyn-35-1446, delphic-manumission-antigona, greco-roman-households]
 media: []
 external:
   wikipedia: The Bible and slavery
@@ -93,3 +107,7 @@ history:
 - date: '2026-11-21'
   action: drafted
   by: gpt-6-codex
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Integrated relevant evidence and links from the entry additions review.

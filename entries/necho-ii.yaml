@@ -37,7 +37,8 @@ passages:
   disputed: true
   note: Pharaoh's attack on Gaza, possibly Neco's (cf. Herodotus's Kadytis)
 related: [josiah, battle-of-carchemish, megiddo, fall-of-nineveh-chronicle, nebuchadnezzar-chronicle,
-  mesad-hashavyahu-ostracon, pithom]
+  mesad-hashavyahu-ostracon, pithom,
+  adon-letter]
 media:
 - id: necho-ii
   role: primary
@@ -76,3 +77,7 @@ history:
 - date: '2026-11-21'
   action: drafted
   by: gpt-6-codex
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Integrated relevant evidence and links from the entry additions review.

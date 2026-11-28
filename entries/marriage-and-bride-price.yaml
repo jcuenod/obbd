@@ -26,7 +26,9 @@ passages:
   note: Seducer pays the bride-price of virgins (MT 22:15-16); cf. MAL A §§55-56
 - ref: Deut 22:28-29
   rel: practice
-  note: Fifty shekels and no right of divorce after rape of an unbetrothed virgin
+  note: >-
+    Payment of fifty shekels and a permanent ban on divorce. Interpreters debate the force of the
+    wording about coercion.
 - ref: 1Sam 18:25
   rel: practice
   note: Saul demands a hundred Philistine foreskins as mōhar
@@ -42,8 +44,22 @@ passages:
 - ref: Tob 7:13-14
   rel: practice
   note: Raguel writes a marriage contract (NRSV 7:13; 7:14 in GI-based versions)
+- ref: Matt 5:31-32
+  rel: practice
+  note: >-
+    Mur 19 illustrates the written certificate presupposed in the discussion of divorce.
+- ref: Matt 19:7-9
+  rel: practice
+  note: >-
+    An example of the written release underlying the discussion of divorce and remarriage.
+- ref: Mark 10:4-12
+  rel: practice
+  note: >-
+    Mur 19 illustrates a release issued by a husband. Mark also discusses divorce initiated by a
+    wife.
 related: [levirate-marriage, surrogacy-and-concubinage, inheritance-and-birthright, elephantine-papyri,
-  diplomatic-marriage, code-of-hammurabi, middle-assyrian-laws]
+  diplomatic-marriage, code-of-hammurabi, middle-assyrian-laws,
+  murabbaat-divorce-deed]
 media:
 - id: marriage-and-bride-price
   role: primary
@@ -91,3 +107,7 @@ history:
 - date: '2026-11-21'
   action: drafted
   by: gpt-6-codex
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Integrated relevant evidence and links from the entry additions review.

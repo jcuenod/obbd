@@ -20,6 +20,8 @@ Explanations of sacrifice as gift, shared meal, substitution or purification acc
 
 Ps 50:8–15 denies that God needs animal food and calls for thanksgiving. Ps 51:16–17 (MT 51:18–19) calls a broken spirit an acceptable offering. 1 Sam 15:22 gives precedence to obedience. Hos 6:6 emphasizes faithful love and knowledge of God, and Amos 5:21–24 demands justice. Isa 1:11–17, Mic 6:6–8 and Jer 7:21–23 press related critiques. Many scholars read these as arguments about priorities and the conditions of acceptable worship. More radical critiques of sacrificial claims are also possible in particular passages, especially where a prophet denies that God commanded or required such offerings in the circumstances evoked. [@abd, 5:871–881]
 
+For Greco-Roman cult dining, see [[meals-and-banqueting|Meals, Banquets, and Dining Status]] and the [[sarapis-dinner-invitation|Sarapis dinner invitation]] from Oxyrhynchus.
+
 ## Further Reading
 
 - [@ktu3, 1.39, 1.115] supplies Ugaritic ritual texts.

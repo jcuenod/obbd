@@ -31,7 +31,8 @@ passages:
   rel: setting
   note: Daniel's vision at Susa by the Ulai canal
 related: [persia, darius-i, xerxes-i, artaxerxes-i, persepolis, code-of-hammurabi, victory-stele-of-naram-sin,
-  medes]
+  medes,
+  darius-susa-foundation-dsf]
 media:
 - id: susa
   role: primary
@@ -76,6 +77,10 @@ history:
 - date: '2026-11-21'
   action: drafted
   by: gpt-6-codex
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Integrated relevant evidence and links from the entry additions review.
 coordinates:
   lat: 32.18944
   lon: 48.25611

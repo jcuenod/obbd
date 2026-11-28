@@ -41,21 +41,17 @@ passage tags, related entries, and the editorial history. Its pages are:
 
 ## Status
 
-The project is at the scaffold stage:
+The catalogue contains draft entries awaiting expert review.
 
-* **659 entries**: 109 artefacts, 87 texts, 92 sites, 104 concepts, 76 practices, 61 realia, 51 persons, 39 deities, 29 peoples, and 11 events.
-* **4,976 passage tags**, typed by relation. 429 are marked as disputed.
-* **559 entries** are linked to Wikidata.
-* **655 images** illustrate 524 entries. All are freely licensed (CC BY-SA, CC BY, CC0, public domain), and each has an attribution record.
-* Every entry has a placeholder article with section headings, the points it should cover, and editions to check.
+* **699 entries**: 129 artefacts, 93 texts, 92 sites, 106 concepts, 88 practices, 61 realia, 51 persons, 39 deities, 29 peoples, and 11 events. The 39 most recent were added on 27 November 2026 from the entry additions and revisions report.
+* **5,145 passage tags**, typed by relation. 453 are marked as disputed.
+* **575 entries** are linked to Wikidata.
+* **669 images** illustrate 536 entries. All are freely licensed (CC BY-SA, CC BY, CC0, public domain), and each has an attribution record.
 * Every passage tag was checked by an agent against the verse text (World English Bible, `./obbd verse`). Changes are logged in each entry's history and summarised, with items flagged for expert review, in `seed/verification/`.
 * Wikidata supplied coordinates and Pleiades ids for 85 sites, and collection and accession data for artefacts. These are marked "verify" in the history.
-* `bibliography/references.yaml` is seeded with about 50 standard editions and reference works (COS, ANET, KAI, TAD, RINAP, SAA, …).
+* `bibliography/references.yaml` collects standard editions, reference works, and other cited sources (COS, ANET, KAI, TAD, RINAP, SAA, …).
 
-**No article text has been written yet, and nothing has been approved.** All scaffold
-data (passage tags, scope statements, notes, and image choices) was AI-generated and
-is recorded as such in each entry's `history`. Expect errors: every item needs expert
-review. Start with the image picks flagged in `seed/images/uncertain.md`, and look at
+Each entry's `history` records AI contributions to drafting and scaffolding. Start with the image picks flagged in `seed/images/uncertain.md`, and look at
 images with `./obbd media-sheet` (which opens `dist/media-review.html`).
 
 `./obbd status` shows progress, and `./obbd validate` checks integrity.

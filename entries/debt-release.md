@@ -18,7 +18,9 @@ Lev 25:8–17 calls for Jubilee after seven cycles of seven years. Holdings retu
 
 Jer 34:8–22 describes a release of Hebrew slaves under Zedekiah and its subsequent reversal. Neh 5:1–13 depicts Nehemiah securing the restoration of fields and other property amid a debt crisis. These responses to immediate conditions resemble discretionary reform. Neither narrative securely documents a regular Jubilee. The extent to which the Jubilee was ever implemented as written remains debated. Later rabbinic law attributes to Hillel the *prozbul*, a procedure that transferred a lender's claim to a court so collection could continue after the year of release. The tradition illustrates concern that remission might discourage lending.
 
-Isa 61:1–2 uses the language of release and a year of divine favor, and Luke 4:18–19 applies such language to Jesus' mission. The Qumran work usually called 11QMelchizedek also combines Jubilee and release language in its description of a future deliverance. These uses show how rules about property and freedom could furnish language for hopes extending beyond an immediate debt crisis.
+Isa 61:1–2 uses the language of release and a year of divine favor, and Luke 4:18–19 applies such language to Jesus' mission. The Qumran work usually called [[11qmelchizedek|11QMelchizedek]] also combines Jubilee and release language in its description of a future deliverance. These uses show how rules about property and freedom could furnish language for hopes extending beyond an immediate debt crisis.
+
+The [[delphic-manumission-antigona|Delphic manumission of Antigona and her daughters]] records the freedom of named individuals through a sale to Apollo. Its legal form differs from decrees of debt relief and the Jubilee's provisions for periodic release.
 
 ## Further Reading
 

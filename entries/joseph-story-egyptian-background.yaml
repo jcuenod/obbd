@@ -43,8 +43,14 @@ passages:
 - ref: Gen 50:2-3, 26
   rel: practice
   note: Embalming by physicians; seventy days of mourning; death at 110 years
+- ref: Gen 39:1-6
+  rel: practice
+  note: >-
+    Papyrus Brooklyn 35.1446 supplies a comparison for foreign dependents in an Egyptian
+    household.
 related: [egyptian-loanwords, tale-of-two-brothers, famine-stele, dreams-and-dream-interpretation,
-  mummification, papyrus-anastasi, hyksos, camels-and-domestication]
+  mummification, papyrus-anastasi, hyksos, camels-and-domestication,
+  papyrus-brooklyn-35-1446]
 media:
 - id: joseph-story-egyptian-background
   role: primary
@@ -89,3 +95,7 @@ history:
 - date: '2026-11-21'
   action: drafted
   by: gpt-6-codex
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Integrated relevant evidence and links from the entry additions review.

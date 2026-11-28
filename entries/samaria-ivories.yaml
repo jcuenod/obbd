@@ -35,7 +35,8 @@ passages:
 - ref: Ezek 27:6, 15
   rel: realia
   note: Ivory in Phoenician trade and inlay
-related: [samaria, ahab, jezebel, phoenicians, cherubim, nimrud]
+related: [samaria, ahab, jezebel, phoenicians, cherubim, nimrud,
+  jerusalem-ivories]
 media:
 - id: samaria-ivories
   role: primary
@@ -78,3 +79,7 @@ history:
     Image samaria-ivories: replaced GFDL-only File:Samuel and Saidye Bronfman Archaeology
     WingDSCN5098.JPG with Furniture Inlay, 9th-8th Century BC (29347044728).jpg (CC0). GFDL
     is no longer accepted.
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Integrated relevant evidence and links from the entry additions review.

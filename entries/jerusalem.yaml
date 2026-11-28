@@ -42,7 +42,8 @@ passages:
   rel: concept
   note: Zion as the inviolable city of God
 related: [city-of-david, temple-mount, hezekiahs-tunnel, amarna-letters, sennacherib-campaign-701,
-  fall-of-jerusalem-587, herods-temple, yehud-province]
+  fall-of-jerusalem-587, herods-temple, yehud-province,
+  jerusalem-ivories]
 media:
 - id: jerusalem
   role: primary
@@ -95,6 +96,10 @@ history:
 - date: '2026-11-21'
   action: drafted
   by: gpt-6-codex
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Integrated relevant evidence and links from the entry additions review.
 coordinates:
   lat: 31.77668
   lon: 35.23416

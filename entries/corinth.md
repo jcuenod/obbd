@@ -20,6 +20,8 @@ First Corinthians discusses dining in a temple (1 Cor 8:10) and buying food in a
 
 In 1 Cor 11:17–34 some worshipers eat and drink while others go hungry. Jerome Murphy-O'Connor used the layout of the Anaploga villa to illustrate how Roman dining spaces could accentuate differences among guests. The house provides a model for considering the problem and has no documented connection with the congregation. Likewise, the [[erastus-inscription|Erastus inscription]] attests a man who financed paving in connection with a civic office, while the suggestion that he was the official mentioned in Rom 16:23 remains debated.
 
+For a wider setting for these passages, see [[meals-and-banqueting|Meals, Banquets, and Dining Status]]. The [[sarapis-dinner-invitation|Sarapis dinner invitation]] from second-century Oxyrhynchus offers a later Egyptian comparison for a meal in a sanctuary [@poxy-110].
+
 ## Further Reading
 
 - [@abd]: Historical overview of the city and reference discussions of the Corinthian letters and Paul's travels.

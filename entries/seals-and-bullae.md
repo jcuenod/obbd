@@ -8,6 +8,8 @@ Levantine stamp seals were carved in stone and sometimes mounted as rings or wor
 
 Names on West Semitic seals are often preceded by *l-*, marking ownership, and may be followed by a patronymic or office. Titles include “servant of the king” and “who is over the house.” The [[seal-of-shema|Seal of Shema]] combines a lion with its owner's name and service to Jeroboam. Many Judahite seals of the late eighth and seventh centuries BCE favor inscriptions with few or no images. Administrative and religious explanations have been proposed, and some contemporary examples retain figural designs. Unprovenanced objects pose problems of authenticity and date. Excavated finds provide a firmer basis for tracking such changes. [@avigad-sass-wsss, 22–27, 49–60, 512–515, 548–551] [@keel-uehlinger-ggig]
 
+A stamped clay object from Jerusalem preserves the title “governor of the city.” This [[jerusalem-governor-sealing|governor sealing]] belongs to Jerusalem’s late Iron Age evidence for official titles. The excavator suggests that it might have been a docket placed inside a vessel to identify the sender, although the original use is uncertain [@weksler-bdolah-western-wall, fig. 3].
+
 ## In the Bible
 
 In Gen 38:18, 25, Judah's signet and cord serve first as a pledge and then as evidence identifying him. Pharaoh gives Joseph his signet ring as part of his appointment in Gen 41:42. Jezebel's use of Ahab's seal in 1 Kgs 21:8 gives her letters the appearance of royal authority. Esth 3:10–12 and 8:8–10 portray the royal signet as authorizing decrees, which the story presents as irrevocable. Exod 28:9–11, 21, 36 uses seal engraving as a comparison for inscriptions on the high priest's stones and gold plate. [@abd, 3:829–830]

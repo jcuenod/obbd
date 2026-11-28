@@ -17,14 +17,21 @@ passages:
   rel: event
   note: Capture of Samaria and deportation to Halah, Habor and the cities of the Medes
 - ref: 2Kgs 17:24
-  rel: event
-  note: Foreign peoples settled in Samaria; Sargon records settling Arab groups there
+  rel: practice
+  note: >-
+    Sargon’s Arabian settlers illustrate Assyrian resettlement policy and differ from the groups
+    named in Kings.
 - ref: 2Kgs 18:9-11
   rel: event
   note: Siege and capture of Samaria; Sargon claims the conquest
-- ref: Isa 20:1-6
+- ref: Isa 20:1
   rel: event
-  note: Sargon's commander takes Ashdod; Isaiah's sign against reliance on Egypt
+  note: >-
+    Sargon's conquest of Ashdod is recounted in the Tang-i Var inscription.
+- ref: Isa 20:3-6
+  rel: setting
+  note: >-
+    Yamani’s flight to Kush and extradition illuminate reliance on Egypt and Cush.
 - ref: Isa 10:9-11
   rel: event
   note: Calno, Carchemish, Hamath, Arpad, Samaria as Assyrian conquests
@@ -32,7 +39,8 @@ passages:
   rel: event
   note: Hamath and Arpad among Assyria's conquests
 related: [sargon-ii, fall-of-samaria, ashdod, samaria, hamath, deportation, samaritan-origins,
-  royal-annals-and-historiography]
+  royal-annals-and-historiography,
+  tang-i-var-inscription]
 media:
 - id: sargon-ii-inscriptions
   role: primary
@@ -76,3 +84,7 @@ history:
 - date: '2026-11-21'
   action: drafted
   by: gpt-6-codex
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Integrated relevant evidence and links from the entry additions review.

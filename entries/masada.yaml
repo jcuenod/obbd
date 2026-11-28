@@ -21,7 +21,8 @@ passages:
 - ref: Ps 81-85
   rel: attests
   note: Psalms scroll from Masada, close to the later Masoretic text
-related: [herod-the-great, josephus, dead-sea-scrolls, judaea-capta-coins, synagogues, qumran]
+related: [herod-the-great, josephus, dead-sea-scrolls, judaea-capta-coins, synagogues, qumran,
+  murabbaat-divorce-deed]
 media:
 - id: masada
   role: primary
@@ -53,7 +54,7 @@ editorial:
   image_query: Masada aerial view
 status: draft
 credits:
-  authors: [gpt-6-1-sol]
+  authors: [gpt-6-1-sol, gpt-6-codex]
   reviewers: []
 history:
 - date: '2026-11-20'
@@ -69,6 +70,10 @@ history:
 - date: '2026-11-21'
   action: drafted
   by: gpt-6-1-sol
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Integrated relevant evidence and links from the entry additions review.
 coordinates:
   lat: 31.31556
   lon: 35.35389

@@ -33,8 +33,14 @@ passages:
 - ref: 1Pet 2:13-17
   rel: concept
   note: Honour the emperor, but fear God
+- ref: 1Tim 2:1-2
+  rel: practice
+  note: >-
+    Prayers for rulers illustrate a form of public religious concern distinct from worship of the
+    ruler.
 related: [priene-calendar-inscription, res-gestae, pergamon, temple-of-artemis-ephesus, caesarea-maritima,
-  judaea-capta-coins, king-as-son-of-god]
+  judaea-capta-coins, king-as-son-of-god,
+  lysanias-abila-inscriptions]
 media:
 - id: imperial-cult
   role: primary
@@ -73,3 +79,7 @@ history:
 - date: '2026-11-21'
   action: drafted
   by: gpt-6-codex
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Integrated relevant evidence and links from the entry additions review.

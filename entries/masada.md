@@ -20,6 +20,8 @@ The name Masada is related to the Hebrew *mĕṣûdâ* ("stronghold"). In 1 Sam 
 
 Manuscripts from the site include portions of Leviticus, Deuteronomy, Ezekiel, and Psalms. The Ezekiel fragments preserve parts of Ezek 35:11–38:14, including the vision of the dry bones. Portions of Ps 81–85 are close to the later Masoretic text, the Hebrew form transmitted by medieval scribes. Masada also yielded part of Ben Sira in Hebrew (Sir 39:27–44:17), an early witness to the language in which the work was composed. <!-- VERIFY: confirm the exact surviving verse limits of the Ezekiel, Psalms, and Ben Sira fragments against the excavation edition -->
 
+The [[murabbaat-divorce-deed|divorce deed Mur 19]] names Masada as its place of issue. The papyrus was recovered at Wadi Murabbaʿat, and the epoch from which its regnal or era year was reckoned remains uncertain [@fitzmyer-harrington-mpat, no. 40] [@jacobus-brock-murabbaat].
+
 Fragments of the *Songs of the Sabbath Sacrifice*, a work describing heavenly worship, were found at Masada and among the [[dead-sea-scrolls|manuscripts]] from caves near [[qumran|Qumran]]. The finds show that the work was present at both places, but not how the Masada copy got there. Its owners and the route it took remain debated. The presence of biblical and other writings at Masada does not by itself determine how the occupants used them.
 
 ## Further Reading

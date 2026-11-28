@@ -8,6 +8,8 @@ The province of Asia established a temple for Roma and Augustus at [[pergamon|Pe
 
 In Roman usage, *divus* was a title for a deceased ruler formally deified. Living emperors received different forms of honor according to locality and occasion. A ceremony could include prayer or sacrifice for a ruler's well-being, worship addressed to the emperor, or worship directed to another deity on the emperor's behalf. Conflating these actions obscures the choices ancient participants faced.
 
+The [[lysanias-abila-inscriptions|Abila dedication]] by Nymphaeus names the safety of the Augusti and their household as its occasion. The dedication itself is to Kronos and the fatherland. First Timothy 2:1–2 illustrates another distinction, asking believers to pray for rulers [@savignac-abila, inscription A].
+
 Judeans sometimes secured arrangements protecting their own practices. [[josephus|Josephus]] reports sacrifices on behalf of the emperor and Roman people in Jerusalem and describes their termination in 66 CE as a decisive step toward revolt (*War* 2.197, 409). This episode establishes one accommodation and its political significance. The ways that Jewish communities related to imperial cults varied by time and place.
 
 ## In the New Testament

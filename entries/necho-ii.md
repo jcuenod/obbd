@@ -18,6 +18,8 @@ Herodotus credits Necho with work on a canal connecting the Nile system with the
 
 Necho's actions in Judah fit the wider context of Egyptian military and political activity in the Levant. Material from coastal sites such as [[mesad-hashavyahu-ostracon|Mesad Hashavyahu]], including Greek pottery, is sometimes discussed in relation to Saite military networks. Such evidence admits several explanations and does not identify a specific operation led by Necho. Jer 47:1 refers to a pharaoh attacking Gaza without naming him. Necho and Herodotus's account of Cadytis provide one possible historical comparison.
 
+The Aramaic [[adon-letter|Letter of King Adon]] has been read as an appeal to Necho for help against a Babylonian advance. The pharaoh is unnamed and the sender's city is uncertain. James D. Moore considers whether the surviving papyrus is a later scribal exercise [@porten-adon] [@moore-deaps-adon].
+
 ## Further Reading
 
 - [@abc], Chronicles 3 and 5, for Egyptian intervention and the battle of Carchemish.

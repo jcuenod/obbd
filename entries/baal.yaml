@@ -41,7 +41,8 @@ passages:
   rel: imagery
   note: Storm theophany drawing on Baal's attributes
 related: [baal-cycle, baal-with-thunderbolt, hadad-rimmon, melqart, baal-zebub, jezebel, cloud-rider,
-  asherah]
+  asherah,
+  jerubbaal-vessel-inscription]
 media:
 - id: baal
   role: primary
@@ -81,3 +82,7 @@ history:
 - date: '2026-11-20'
   action: drafted
   by: gpt-6-codex
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Integrated relevant evidence and links from the entry additions review.

@@ -41,7 +41,8 @@ passages:
   disputed: true
   note: Light/darkness and Belial (Beliar) vocabulary close to sectarian texts
 related: [qumran, great-isaiah-scroll, community-rule, 4qdeut-j, pesher-habakkuk, jewish-sects,
-  septuagint, forgeries-in-biblical-archaeology]
+  septuagint, forgeries-in-biblical-archaeology,
+  murabbaat-divorce-deed]
 location:
   institution: >-
     Mainly the Israel Museum (Shrine of the Book) and the Israel Antiquities Authority, Jerusalem;
@@ -91,3 +92,7 @@ history:
 - date: '2026-11-20'
   action: drafted
   by: gpt-6-codex
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Integrated relevant evidence and links from the entry additions review.

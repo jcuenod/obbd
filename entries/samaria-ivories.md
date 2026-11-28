@@ -10,6 +10,8 @@ The carvings include winged sphinxes, lotus and palmette designs, a woman framed
 
 Egyptian-derived garments, crowns and figures show that artisans drew on a visual repertoire that circulated widely. Their presence in the capital indicates what courtly display could include. A plaque representing Horus supplies evidence for familiarity with the image, while its use by a household gives only limited grounds for reconstructing worship. [@keel-uehlinger-ggig, 180–202, 249–263]
 
+The [[jerusalem-ivories|ivory panels from Givʿati Building 100]] supply a separate comparison from an elite setting in Judah. They differ from the Samaria finds in their archaeological context and range of surviving decoration [@avisar-jerusalem-ivories, 57–74].
+
 ## In the Bible
 
 1 Kgs 22:39 credits [[ahab|Ahab]] with an ivory house. Furniture and fittings provide an archaeological explanation of what a designation of that kind could signify. The lost original contexts prevent assigning particular plaques to his reign. Amos 3:15 foresees the destruction of ivory houses, and Amos 6:4 pictures affluent people on ivory beds. Both passages use costly decoration to make elite wealth visible. Ps 45:8 (MT 45:9) uses ivory palaces as part of a royal wedding scene. Ezek 27:6, 15 treats ivory as an inlay and an item of trade in its lament over Tyre. [@abd, 5:915–920] [@neaehl, 4:1305–1307]

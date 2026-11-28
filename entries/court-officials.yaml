@@ -46,8 +46,17 @@ passages:
 - ref: Dan 3:2-3
   rel: language
   note: Persian and Aramaic official titles (satraps, prefects, governors)
+- ref: 2Kgs 23:8
+  rel: attests
+  note: >-
+    The Jerusalem sealing attests the title governor of the city. It gives no personal name.
+- ref: 2Chr 34:8
+  rel: attests
+  note: >-
+    The Jerusalem sealing attests the office held by Maaseiah in this account.
 related: [royal-steward-inscription, eunuchs, bullae-of-jeremiah-era-officials, seals-and-bullae,
-  scribes-and-scribal-education, egyptian-loanwords, sennacherib-campaign-701]
+  scribes-and-scribal-education, egyptian-loanwords, sennacherib-campaign-701,
+  jerusalem-governor-sealing]
 media:
 - id: eunuchs-2
   role: primary
@@ -82,3 +91,7 @@ history:
 - date: '2026-11-21'
   action: drafted
   by: gpt-6-codex
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Integrated relevant evidence and links from the entry additions review.

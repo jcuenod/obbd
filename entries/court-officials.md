@@ -10,6 +10,8 @@ A clay tablet in the British Museum records gold sent to a temple on behalf of N
 
 The Hebrew [[royal-steward-inscription|royal steward inscription]] at Silwan in Jerusalem identifies a tomb owner with the title “who is over the house.” The personal name is damaged. The title also occurs on [[seals-and-bullae|seals and clay seal impressions]], along with titles such as “servant of the king.” These inscriptions indicate the use of such language by the officials themselves [@dobbs-allsopp-hebrew-inscriptions, 507–510] [@avigad-sass-wsss, 49–60, 170–177].
 
+The [[jerusalem-governor-sealing|Jerusalem governor sealing]] preserves the Hebrew title “governor of the city,” borne by Joshua in 2 Kgs 23:8 and by Maaseiah in 2 Chr 34:8. The clay was recovered in the Western Wall Plaza. It bears no personal name, and its use as a docket to accompany goods remains a proposal [@weksler-bdolah-western-wall, fig. 3].
+
 ## In the Hebrew Bible
 
 The lists of David's and Solomon's officers mention commanders, secretaries, and a recorder, and Solomon's list has a king's friend and an official over the household (2 Sam 8:16–18; 1 Kgs 4:1–6). The titles can suggest broad divisions of responsibility. Their precise duties are less clear, especially for titles such as recorder, which could involve functions beyond keeping a written record. In the story of Ahab, Obadiah is over the king's household (1 Kgs 18:3).

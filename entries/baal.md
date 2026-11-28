@@ -22,6 +22,8 @@ Which form of Baal Ahab and Jezebel sponsored remains disputed. Candidates inclu
 
 Israelite personal names such as Jerubbaal, Eshbaal, and Meribbaal, and names with Baal in the inscribed pottery fragments from Samaria, show that the element was tolerated in some Israelite settings [@dobbs-allsopp-hebrew-inscriptions, Samaria 12, 27–28]. Some scholars infer that *baʿal* could once have been a title for YHWH, while the personal names alone leave the intended deity uncertain. Comparison of Ish-bosheth and Eshbaal in 2 Sam 2:8 and 1 Chr 8:33–34 illustrates a scribal substitution of *bōšet* (“shame”) for Baal. Rain and harvest explain the god's importance without establishing older reconstructions of his worship as organized around sacred prostitution [@ddd, 132–139] [@keel-uehlinger-ggig, 204–207].
 
+The editors of the [[jerubbaal-vessel-inscription|vessel inscription from Khirbet al-Raʿi]] read the surviving letters as *Yrbʿl*, or Jerubbaal, although the first letter is incomplete. The reading would give an early comparison for the name in Judg 6:31–32 and its variant Jerubbesheth in 2 Sam 11:21. The inscription gives no further details about the person named [@rollston-jerubbaal].
+
 ## Further Reading
 
 - [@ddd]: Reference articles on Baal, Hadad, and the local forms of the title.

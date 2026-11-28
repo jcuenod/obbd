@@ -10,7 +10,7 @@ Kushite rulers erected temples and inscribed monuments in Nubia and Egypt. Their
 
 A royal house centered near Napata expanded north into Egypt in the eighth century BCE. Piye's victory inscription describes his defeat of Egyptian opponents and their submission. Later rulers extended Kushite authority over Egypt, and the dynasty held power during periods of conflict with Assyria. [[taharqa|Taharqa]] lost Memphis to Esarhaddon in 671 BCE, and Kushite rule in Egypt ended in the seventh century while the kingdom continued farther south. [@anet, 289–297] [@rinap4, no. 98]
 
-The succession of Shabaka and Shebitku has been reconsidered. Sargon II's inscription at Tang-i Var names Shebitku as the Kushite ruler who extradited Yamani, a leader of the revolt at [[ashdod|Ashdod]]. This anchors Shebitku earlier than some older chronologies allowed. Frédéric Payraudeau and others have argued from Egyptian and Kushite evidence that Shebitku preceded Shabaka. The sequence affects who was ruling in 701 BCE. Taharqa's accession in Egypt is generally dated later, around 690 BCE. [@cos2, 2.118J]
+The succession of Shabaka and Shebitku has been reconsidered. Sargon II's [[tang-i-var-inscription|inscription at Tang-i Var]] names Shebitku as the Kushite ruler who extradited Yamani, a leader of the revolt at [[ashdod|Ashdod]]. The account is retrospective and distinguishes the revolt from Yamani's later extradition. It anchors Shebitku earlier than some older chronologies allowed. Frédéric Payraudeau and others have argued from Egyptian and Kushite evidence that Shebitku preceded Shabaka. The sequence affects who was ruling in 701 BCE. Taharqa's accession in Egypt is generally dated later, around 690 BCE. [@rinap2, Sargon II 116, lines 19–21]
 
 ## In the Bible
 
@@ -23,7 +23,7 @@ The name also appears in the [[table-of-nations|genealogy of nations]] (Gen 10:6
 ## Further Reading
 
 - [@anet]: Translations of Egyptian and Kushite royal texts, including Piye's victory inscription.
-- [@cos2]: Monumental sources including Sargon II's Tang-i Var record.
+- [@rinap2]: The edition of Sargon II's Tang-i Var record, including the account of Yamani's extradition.
 - [@rinap3-1]: Critical editions of Sennacherib's reports on the campaign in 701 BCE.
 - [@rinap4]: Esarhaddon's inscriptions on his Egyptian campaigns and conflict with Taharqa.
 
@@ -31,6 +31,6 @@ The name also appears in the [[table-of-nations|genealogy of nations]] (Gen 10:6
 Confidence: medium
 Unverified points: none
 Suggested YAML corrections: none
-Suggested bibliography additions: Grant Frame, The Royal Inscriptions of Sargon II, King of Assyria (721–705 BC). University Park, PA: Eisenbrauns, 2021. Reason: critical edition and historical discussion of Yamani's extradition and the Tang-i Var inscription. Danʾel Kahn, “The Inscription of Sargon II at Tang-i Var and the Chronology of Dynasty 25.” Orientalia 70 (2001): 1–18. Reason: identifies the chronological implications of the Assyrian record before subsequent proposals reversing the succession.
+Suggested bibliography additions: Danʾel Kahn, “The Inscription of Sargon II at Tang-i Var and the Chronology of Dynasty 25.” Orientalia 70 (2001): 1–18. Reason: identifies the chronological implications of the Assyrian record before subsequent proposals reversing the succession.
 Author notes not followed, and why: No identification of a particular Arabian or Mesopotamian Cush was adopted because the proposed connections are contested.
 -->

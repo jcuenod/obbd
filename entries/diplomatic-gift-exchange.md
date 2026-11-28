@@ -8,6 +8,8 @@ The [[amarna-letters|Amarna letters]] record exchanges among Egypt, Babylonia, M
 
 Gifts allowed rulers to assert both material interests and prestige. Mario Liverani emphasized how reciprocity could meet a practical need while sustaining the status claimed by both kings. A court could also portray goods received from abroad as submission, especially in public images or inscriptions celebrating royal power. Letters between the parties may convey a different account of the relationship.
 
+In the Aramaic [[adon-letter|Letter of King Adon]], a ruler appeals to Pharaoh for help against a Babylonian force, citing his loyalty. It illustrates the kind of appeal for Egyptian military support behind Ezek 17:15 and Jer 37:5–7. The sender's city and historical setting remain uncertain. James D. Moore considers whether the surviving papyrus was a later scribal exercise [@tad, A1.1] [@moore-deaps-adon].
+
 ## In the Hebrew Bible
 
 In 2 Sam 8:9–10 the king of Hamath sends his son to congratulate David on defeating a shared opponent and to bring valuable vessels. In 1 Kgs 5:1–12 (MT 5:15–26), [[hiram-of-tyre|Hiram]] provides cedar and cypress in exchange for supplies of wheat and oil. Later, Hiram makes his dissatisfaction clear after receiving towns in Galilee (1 Kgs 9:11–14). The exchange shows the possibility of negotiation and grievance within an ongoing royal relationship.

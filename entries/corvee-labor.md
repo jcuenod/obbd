@@ -8,6 +8,8 @@ In the fourteenth century BCE, Biridiya, ruler of Megiddo, wrote to the king of 
 
 Egyptian sources also show authorities assigning work for public or royal projects. Paintings in the [[tomb-of-rekhmire|tomb of Rekhmire]] depict workers making bricks under supervision, including people identified as foreign captives. The paintings provide a comparison for the organization of work in Exod 1:11, where overseers impose labor and the Israelites build storage cities. The workers' legal status and the duration of their obligations could vary from one setting to another [@anep, fig. 115].
 
+The earlier [[papyrus-brooklyn-35-1446|Papyrus Brooklyn 35.1446]] records labor obligations and cases of flight. The institution conventionally called the Great Prison also organized compulsory labor. The later [[louvre-leather-roll|Louvre Leather Roll]] accounts for brick deliveries and shortfalls. Its figures illuminate the production targets in Exod 5:8, 13–14, while leaving the workers' legal status open [@loprieno-servitude] [@kitchen-brickfields, 141–142].
+
 ## In the Hebrew Bible
 
 Kings assigns a labor levy from all Israel to [[solomon|Solomon]], who sends workers to Lebanon in rotations, each group spending one month there and two months at home (1 Kgs 5:13–18; MT 5:27–32). Another passage assigns a lasting forced levy to populations identified as non-Israelite and says that Solomon made no Israelites bondservants (1 Kgs 9:15–22). The passages present a tension. Some interpreters distinguish temporary service by Israelites from the lasting status assigned to conquered peoples. Others understand the passages as preserving different accounts of who bore the burden of building.

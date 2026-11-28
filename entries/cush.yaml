@@ -18,12 +18,19 @@ passages:
 - ref: Isa 18:1-7
   rel: setting
   note: Oracle on the land of whirring wings, its tall envoys in papyrus vessels
-- ref: Isa 20:1-6
+- ref: Isa 20:1
   rel: event
-  note: Isaiah's sign against Egypt and Cush during the Ashdod revolt (c. 712-711)
+  note: >-
+    Sargon's conquest of Ashdod is recounted in the Tang-i Var inscription.
+- ref: Isa 20:3-6
+  rel: setting
+  note: >-
+    Yamani’s flight to Kush and extradition illuminate reliance on Egypt and Cush.
 - ref: 2Kgs 19:9
-  rel: event
-  note: Tirhakah king of Cush marches against Sennacherib
+  rel: setting
+  disputed: true
+  note: >-
+    Sennacherib records Egyptian and Kushite forces in 701 BCE. Taharqa’s role remains debated.
 - ref: Nah 3:9
   rel: setting
   note: Cush and Egypt as the strength of Thebes
@@ -44,7 +51,8 @@ passages:
   rel: attests
   note: Official of the Candace (kandake), queen of Meroitic Kush
 related: [taharqa, shabaka-stone, sennacherib-campaign-701, thebes, table-of-nations, sargon-ii-inscriptions,
-  ashdod, eunuchs]
+  ashdod, eunuchs,
+  tang-i-var-inscription]
 media:
 - id: cush
   role: primary
@@ -86,3 +94,7 @@ history:
 - date: '2026-11-20'
   action: drafted
   by: gpt-6-codex
+- date: '2026-11-27'
+  action: drafted
+  by: gpt-6-codex
+  note: Integrated relevant evidence and links from the entry additions review.
